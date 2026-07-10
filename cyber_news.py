@@ -6,6 +6,7 @@ import json
 import html
 import logging
 import argparse
+import time
 from datetime import datetime, timedelta, timezone
 import requests
 import feedparser
@@ -146,8 +147,8 @@ def format_telegram_message(entry, source):
     )
     return message
 
-def send_telegram_message(token, chat_id, text, thread_id=None):
-    """Send an HTML-formatted message to Telegram."""
+def send_telegram_message(token, chat_id, text, thread_id=None, retries=3):
+    """Send an HTML-formatted message to Telegram with retry logic and rate limit handling."""
     url = f"https://api.telegram.org/bot{token}/sendMessage"
     payload = {
         "chat_id": chat_id,
@@ -158,14 +159,34 @@ def send_telegram_message(token, chat_id, text, thread_id=None):
     if thread_id is not None:
         payload["message_thread_id"] = thread_id
         
-    try:
-        response = requests.post(url, json=payload, timeout=15)
-        response.raise_for_status()
-        return True
-    except requests.exceptions.HTTPError as http_err:
-        logger.error(f"HTTP error occurred while sending message to Telegram: {http_err} - Response: {response.text}")
-    except Exception as err:
-        logger.error(f"Error occurred while sending message to Telegram: {err}")
+    for attempt in range(retries):
+        try:
+            response = requests.post(url, json=payload, timeout=15)
+            
+            # Handle rate limiting (429)
+            if response.status_code == 429:
+                try:
+                    retry_after = response.json().get("parameters", {}).get("retry_after", 10)
+                except Exception:
+                    retry_after = 10
+                logger.warning(f"Telegram Rate Limit exceeded (429). Sleeping for {retry_after} seconds before retry...")
+                time.sleep(retry_after)
+                continue
+                
+            response.raise_for_status()
+            return True
+            
+        except requests.exceptions.HTTPError as http_err:
+            logger.error(f"HTTP error occurred while sending message to Telegram (Attempt {attempt + 1}/{retries}): {http_err} - Response: {response.text}")
+            # If it's a 400 Bad Request, retrying won't help (formatting/chat-id error), so return False immediately
+            if response.status_code == 400:
+                return False
+        except Exception as err:
+            logger.error(f"Error occurred while sending message to Telegram (Attempt {attempt + 1}/{retries}): {err}")
+            
+        if attempt < retries - 1:
+            time.sleep(2)
+            
     return False
 
 def prune_old_items(items, days_limit=30):
@@ -193,6 +214,36 @@ def prune_old_items(items, days_limit=30):
     if pruned_count > 0:
         logger.info(f"Pruned {pruned_count} seen items older than {days_limit} days.")
     return pruned_items
+
+def fetch_feed_with_retry(url, name, retries=3, delay=2):
+    """Fetch feed content with retry mechanism and a browser-like User-Agent to bypass WAF blocks."""
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Accept": "application/rss+xml, application/rdf+xml, application/atom+xml, application/xml, text/xml"
+    }
+    
+    for attempt in range(retries):
+        try:
+            logger.info(f"Fetching RSS feed for {name} (Attempt {attempt + 1}/{retries}): {url}")
+            response = requests.get(url, headers=headers, timeout=20)
+            response.raise_for_status()
+            
+            feed = feedparser.parse(response.content)
+            return feed
+        except Exception as e:
+            logger.warning(f"Attempt {attempt + 1} failed to fetch feed from {url}: {e}")
+            if attempt < retries - 1:
+                time.sleep(delay * (2 ** attempt))
+            else:
+                logger.error(f"All attempts failed to fetch feed for {name} from {url}")
+                
+    # Fallback to direct feedparser fetch
+    logger.info(f"Attempting fallback direct feedparser fetch for {name}...")
+    try:
+        return feedparser.parse(url)
+    except Exception as fallback_err:
+        logger.error(f"Fallback direct fetch failed for {name}: {fallback_err}")
+        return None
 
 def parse_args():
     parser = argparse.ArgumentParser(description="Cybersecurity News Telegram Notifier with Deduplication")
@@ -251,30 +302,22 @@ def main():
     
     # Fetch feeds
     for feed_info in feeds_to_process:
-        logger.info(f"Fetching RSS feed for {feed_info['name']}: {feed_info['url']}")
-        try:
-            feed = feedparser.parse(feed_info['url'])
-            if not feed.entries:
-                logger.warning(f"No entries found in the RSS feed for {feed_info['name']}.")
+        feed = fetch_feed_with_retry(feed_info['url'], feed_info['name'])
+        if not feed or not feed.entries:
+            logger.warning(f"No entries found in the RSS feed for {feed_info['name']}.")
+            continue
+            
+        logger.info(f"Found {len(feed.entries)} entries in {feed_info['name']} feed.")
+        for entry in feed.entries:
+            guid = entry.get('id') or entry.get('guid') or entry.get('link')
+            if not guid:
                 continue
-                
-            logger.info(f"Found {len(feed.entries)} entries in {feed_info['name']} feed.")
-            for entry in feed.entries:
-                guid = entry.get('id') or entry.get('guid') or entry.get('link')
-                if not guid:
-                    continue
-                # Add source field to entry object for processing
-                entry['source_site'] = feed_info['name']
-                new_entries_to_process.append((guid, entry))
-        except Exception as e:
-            logger.error(f"Failed to parse feed from {feed_info['url']}: {e}")
+            entry['source_site'] = feed_info['name']
+            new_entries_to_process.append((guid, entry))
 
-    # Deduplicate within the fetched list itself and order chronologically.
-    # Note: RSS feeds are typically sorted newest first. Let's process oldest first so they post in order.
-    # We sort by published date if present, otherwise fallback.
+    # Order chronologically (oldest first)
     def get_published_time(item_tuple):
         _, entry = item_tuple
-        # Try parsed time struct
         if hasattr(entry, 'published_parsed') and entry.published_parsed:
             return entry.published_parsed
         return entry.get('published', '')
@@ -283,7 +326,7 @@ def main():
         new_entries_to_process.sort(key=get_published_time)
     except Exception as e:
         logger.warning(f"Could not sort entries chronologically: {e}. Falling back to default order.")
-        new_entries_to_process.reverse() # Reverse so oldest first if in feed order (newest first)
+        new_entries_to_process.reverse()
 
     new_entries_count = 0
     sent_count = 0
@@ -292,54 +335,23 @@ def main():
     updated_items = list(seen_items)
     
     for guid, entry in new_entries_to_process:
-        source_site = entry['source_site']
-        title = entry.get('title', 'No Title')
-        link = entry.get('link', '')
-        published = entry.get('published', 'No Date')
-        
-        # Check if already processed GUID
-        if guid in seen_guids:
-            continue
+        try:
+            source_site = entry['source_site']
+            title = entry.get('title', 'No Title')
+            link = entry.get('link', '')
+            published = entry.get('published', 'No Date')
             
-        # Check duplicate based on content similarity
-        duplicate_item = is_duplicate(title, updated_items)
-        if duplicate_item:
-            skipped_duplicates += 1
-            logger.info(f"[DUPLICATE] Skipping: \"{title}\" ({source_site}) is similar to already posted: \"{duplicate_item['title']}\" ({duplicate_item['source']})")
-            
-            # Still mark as seen to avoid processing it again next run
-            new_item = {
-                "guid": guid,
-                "title": title,
-                "link": link,
-                "published": published,
-                "source": source_site,
-                "created_at": datetime.now(timezone.utc).isoformat()
-            }
-            updated_items.append(new_item)
-            seen_guids.add(guid)
-            continue
-            
-        new_entries_count += 1
-        message_text = format_telegram_message(entry, source_site)
-        
-        if args.dry_run:
-            logger.info(f"[DRY-RUN] Would send message to Telegram:\n{message_text}\n" + "-"*40)
-            # Add to memory for testing deduplication within the same dry run
-            new_item = {
-                "guid": guid,
-                "title": title,
-                "link": link,
-                "published": published,
-                "source": source_site,
-                "created_at": datetime.now(timezone.utc).isoformat()
-            }
-            updated_items.append(new_item)
-            seen_guids.add(guid)
-        else:
-            logger.info(f"Sending notification to Telegram: {title} ({source_site})...")
-            success = send_telegram_message(telegram_token, telegram_chat_id, message_text, thread_id)
-            if success:
+            # Check if already processed GUID
+            if guid in seen_guids:
+                continue
+                
+            # Check duplicate based on content similarity
+            duplicate_item = is_duplicate(title, updated_items)
+            if duplicate_item:
+                skipped_duplicates += 1
+                logger.info(f"[DUPLICATE] Skipping: \"{title}\" ({source_site}) is similar to already posted: \"{duplicate_item['title']}\" ({duplicate_item['source']})")
+                
+                # Still mark as seen to avoid processing it again next run
                 new_item = {
                     "guid": guid,
                     "title": title,
@@ -350,10 +362,48 @@ def main():
                 }
                 updated_items.append(new_item)
                 seen_guids.add(guid)
-                sent_count += 1
-                logger.info("Message sent successfully.")
+                continue
+                
+            new_entries_count += 1
+            message_text = format_telegram_message(entry, source_site)
+            
+            if args.dry_run:
+                logger.info(f"[DRY-RUN] Would send message to Telegram:\n{message_text}\n" + "-"*40)
+                new_item = {
+                    "guid": guid,
+                    "title": title,
+                    "link": link,
+                    "published": published,
+                    "source": source_site,
+                    "created_at": datetime.now(timezone.utc).isoformat()
+                }
+                updated_items.append(new_item)
+                seen_guids.add(guid)
             else:
-                logger.error(f"Failed to send announcement: {title}. Will retry next run.")
+                logger.info(f"Sending notification to Telegram: {title} ({source_site})...")
+                success = send_telegram_message(telegram_token, telegram_chat_id, message_text, thread_id)
+                if success:
+                    new_item = {
+                        "guid": guid,
+                        "title": title,
+                        "link": link,
+                        "published": published,
+                        "source": source_site,
+                        "created_at": datetime.now(timezone.utc).isoformat()
+                    }
+                    updated_items.append(new_item)
+                    seen_guids.add(guid)
+                    sent_count += 1
+                    logger.info("Message sent successfully.")
+                    
+                    # Sleep 1.2s to respect Telegram single-chat rate limits (20 messages/min)
+                    time.sleep(1.2)
+                else:
+                    logger.error(f"Failed to send announcement after retries: {title}. Will retry next run.")
+                    
+        except Exception as entry_err:
+            logger.error(f"Unexpected error processing entry \"{entry.get('title', 'No Title')}\": {entry_err}")
+            continue
 
     if not args.dry_run:
         # Prune old database entries and save changes
