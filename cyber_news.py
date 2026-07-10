@@ -3,6 +3,7 @@ import os
 import sys
 import re
 import json
+import html
 import logging
 import argparse
 from datetime import datetime, timedelta, timezone
@@ -111,20 +112,19 @@ def is_duplicate(new_title, seen_items, days_limit=5, similarity_threshold=0.65)
     return None
 
 def clean_html(raw_html):
-    """Remove HTML tags to make text safe for Telegram HTML parse mode."""
+    """Remove HTML tags and escape special characters to make text safe for Telegram HTML parse mode."""
     if not raw_html:
         return ""
     # Strip HTML tags
     clean_text = re.sub(r'<[^>]+>', '', raw_html)
-    # Decode basic HTML entities
-    clean_text = clean_text.replace('&amp;', '&').replace('&lt;', '<').replace('&gt;', '>').replace('&quot;', '"').replace('&#39;', "'").replace('&nbsp;', ' ')
-    return clean_text.strip()
+    # Escape &, <, > characters for Telegram HTML parse mode
+    return html.escape(clean_text).strip()
 
 def format_telegram_message(entry, source):
     """Format a feed entry into a Telegram HTML message."""
     title = clean_html(entry.get('title', 'No Title'))
-    link = entry.get('link', '')
-    published = entry.get('published', 'No Date')
+    link = html.escape(entry.get('link', ''))
+    published = clean_html(entry.get('published', 'No Date'))
     
     # Handle summary/description parsing
     summary_raw = entry.get('summary', '') or entry.get('description', '')
