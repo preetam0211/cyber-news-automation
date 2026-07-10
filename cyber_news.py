@@ -217,9 +217,9 @@ def main():
     # Load configuration
     load_dotenv()
     
-    hn_feed_url = os.getenv("HACKER_NEWS_FEED_URL", DEFAULT_HN_FEED)
-    bc_feed_url = os.getenv("BLEEPING_COMPUTER_FEED_URL", DEFAULT_BC_FEED)
-    db_path = os.getenv("DB_PATH", DEFAULT_DB_NAME)
+    hn_feed_url = os.getenv("HACKER_NEWS_FEED_URL") or DEFAULT_HN_FEED
+    bc_feed_url = os.getenv("BLEEPING_COMPUTER_FEED_URL") or DEFAULT_BC_FEED
+    db_path = os.getenv("DB_PATH") or DEFAULT_DB_NAME
     
     telegram_token = os.getenv("TELEGRAM_BOT_TOKEN")
     telegram_chat_id = os.getenv("TELEGRAM_CHAT_ID")
