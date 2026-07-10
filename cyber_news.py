@@ -27,7 +27,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-DEFAULT_HN_FEED = "https://feeds.feedburner.com/TheHackernews"
+DEFAULT_HN_FEED = "https://thehackernews.com/feeds/posts/default"
 DEFAULT_BC_FEED = "https://www.bleepingcomputer.com/feed/"
 DEFAULT_DB_NAME = "seen_items.json"
 
