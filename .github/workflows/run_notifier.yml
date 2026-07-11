@@ -1,9 +1,8 @@
 name: Cyber Security News Notifier
 
 on:
-  schedule:
-    - cron: '12,27,42,57 * * * *' # Run 4 times an hour (every 15 min, offset by 12 min)
-  workflow_dispatch: # Allow manual triggers
+  workflow_dispatch: # Triggered via AWS EventBridge API Destination
+
 
 permissions:
   contents: write
