@@ -526,5 +526,13 @@
     "published": "Fri, 10 Jul 2026 22:00:00 +0530",
     "source": "The Hacker News",
     "created_at": "2026-07-10T20:56:35.509988+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/",
+    "title": "New U-Boot flaws could enable stealthy firmware attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/",
+    "published": "Fri, 10 Jul 2026 17:59:02 -0400",
+    "source": "BleepingComputer",
+    "created_at": "2026-07-11T00:13:50.479170+00:00"
   }
 ]
