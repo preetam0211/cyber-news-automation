@@ -2,7 +2,7 @@ name: Cyber Security News Notifier
 
 on:
   schedule:
-    - cron: '0 * * * *' # Run hourly
+    - cron: '15 * * * *' # Run hourly at 15th min
   workflow_dispatch: # Allow manual triggers
 
 permissions:

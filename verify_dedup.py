@@ -1,6 +1,6 @@
 import unittest
 from datetime import datetime, timezone
-from cyber_news import tokenize, overlap_coefficient, is_duplicate
+from deduplication import tokenize, overlap_coefficient, is_duplicate
 
 class TestDeduplication(unittest.TestCase):
     def test_tokenize(self):
