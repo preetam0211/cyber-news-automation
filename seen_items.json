@@ -558,5 +558,21 @@
     "published": "Sat, 11 Jul 2026 10:18:23 -0400",
     "source": "BleepingComputer",
     "created_at": "2026-07-11T15:00:31.769511+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
+    "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
+    "link": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
+    "published": "Sat, 11 Jul 2026 23:19:31 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-11T19:00:30.123080+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
+    "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
+    "link": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
+    "published": "Sat, 11 Jul 2026 23:29:26 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-11T19:00:31.857153+00:00"
   }
 ]
