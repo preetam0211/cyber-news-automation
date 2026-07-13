@@ -630,5 +630,29 @@
     "published": "Mon, 13 Jul 2026 07:19:05 -0400",
     "source": "BleepingComputer",
     "created_at": "2026-07-13T12:00:30.804581+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
+    "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
+    "link": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
+    "published": "Mon, 13 Jul 2026 16:32:33 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-13T13:00:38.423332+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html",
+    "title": "Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots",
+    "link": "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html",
+    "published": "Mon, 13 Jul 2026 17:07:05 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-13T13:00:40.285909+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html",
+    "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
+    "link": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html",
+    "published": "Mon, 13 Jul 2026 17:24:46 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-13T13:00:42.113428+00:00"
   }
 ]
