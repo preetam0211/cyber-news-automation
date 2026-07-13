@@ -686,5 +686,29 @@
     "published": "Mon, 13 Jul 2026 10:19:43 -0400",
     "source": "BleepingComputer",
     "created_at": "2026-07-13T15:00:35.636690+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html",
+    "title": "New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email",
+    "link": "https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html",
+    "published": "Mon, 13 Jul 2026 19:19:48 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-13T16:00:35.714070+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html",
+    "title": "⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More",
+    "link": "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html",
+    "published": "Mon, 13 Jul 2026 20:35:57 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-13T16:00:37.494777+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/",
+    "title": "CISA warns of actively exploited RCE flaws in Joomla extensions",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/",
+    "published": "Mon, 13 Jul 2026 11:20:16 -0400",
+    "source": "BleepingComputer",
+    "created_at": "2026-07-13T16:00:39.299031+00:00"
   }
 ]
