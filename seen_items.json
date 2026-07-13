@@ -710,5 +710,21 @@
     "published": "Mon, 13 Jul 2026 11:20:16 -0400",
     "source": "BleepingComputer",
     "created_at": "2026-07-13T16:00:39.299031+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html",
+    "title": "Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found",
+    "link": "https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html",
+    "published": "Mon, 13 Jul 2026 22:47:24 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-13T18:00:32.639556+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html",
+    "title": "CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks",
+    "link": "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html",
+    "published": "Mon, 13 Jul 2026 23:06:12 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-13T18:00:34.403226+00:00"
   }
 ]
