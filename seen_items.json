@@ -614,5 +614,13 @@
     "published": "Mon, 13 Jul 2026 13:00:00 +0530",
     "source": "The Hacker News",
     "created_at": "2026-07-13T09:00:30.834633+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/",
+    "title": "US and allies warn of Russian critical infrastructure attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/",
+    "published": "Mon, 13 Jul 2026 05:32:23 -0400",
+    "source": "BleepingComputer",
+    "created_at": "2026-07-13T10:00:28.752467+00:00"
   }
 ]
