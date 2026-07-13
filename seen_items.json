@@ -654,5 +654,21 @@
     "published": "Mon, 13 Jul 2026 17:24:46 +0530",
     "source": "The Hacker News",
     "created_at": "2026-07-13T13:00:42.113428+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html",
+    "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
+    "link": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html",
+    "published": "Mon, 13 Jul 2026 18:33:33 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-13T14:00:39.063156+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/",
+    "title": "UK charges suspects linked to Russian Coms call spoofing platform",
+    "link": "https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/",
+    "published": "Mon, 13 Jul 2026 09:23:30 -0400",
+    "source": "BleepingComputer",
+    "created_at": "2026-07-13T14:00:40.919439+00:00"
   }
 ]
