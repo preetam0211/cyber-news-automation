@@ -822,5 +822,37 @@
     "published": "Tue, 14 Jul 2026 08:49:56 -0400",
     "source": "BleepingComputer",
     "created_at": "2026-07-14T13:01:01.488147+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
+    "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
+    "link": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
+    "published": "Tue, 14 Jul 2026 16:51:35 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-14T13:34:35.661313+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html",
+    "title": "How Pentera Turns AI Security Workflows into Validation Engines",
+    "link": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html",
+    "published": "Tue, 14 Jul 2026 17:00:00 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-14T13:34:37.351893+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
+    "title": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks",
+    "link": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
+    "published": "Tue, 14 Jul 2026 17:25:00 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-14T13:34:39.065379+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
+    "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
+    "link": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
+    "published": "Tue, 14 Jul 2026 18:16:18 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-14T13:34:40.761302+00:00"
   }
 ]
