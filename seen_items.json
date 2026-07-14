@@ -854,5 +854,13 @@
     "published": "Tue, 14 Jul 2026 18:16:18 +0530",
     "source": "The Hacker News",
     "created_at": "2026-07-14T13:34:40.761302+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/",
+    "title": "You Don't Have to Run an Exploit to Know If You're Vulnerable",
+    "link": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/",
+    "published": "Tue, 14 Jul 2026 10:00:10 -0400",
+    "source": "BleepingComputer",
+    "created_at": "2026-07-14T14:01:01.870416+00:00"
   }
 ]
