@@ -870,5 +870,13 @@
     "published": "Tue, 14 Jul 2026 19:18:07 +0530",
     "source": "The Hacker News",
     "created_at": "2026-07-14T14:31:01.931000+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/",
+    "title": "LastPass, Bitwarden users targeted with fake security alerts",
+    "link": "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/",
+    "published": "Tue, 14 Jul 2026 11:31:52 -0400",
+    "source": "BleepingComputer",
+    "created_at": "2026-07-14T16:00:57.147048+00:00"
   }
 ]
