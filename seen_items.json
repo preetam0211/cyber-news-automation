@@ -806,5 +806,21 @@
     "published": "Tue, 14 Jul 2026 07:42:21 -0400",
     "source": "BleepingComputer",
     "created_at": "2026-07-14T12:01:02.193296+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
+    "title": "New phishing kits target Microsoft 365 accounts, evade MFA",
+    "link": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
+    "published": "Tue, 14 Jul 2026 08:49:00 -0400",
+    "source": "BleepingComputer",
+    "created_at": "2026-07-14T13:00:59.611364+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/",
+    "title": "Microsoft Entra ID gets passkeys default authentication starting September",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/",
+    "published": "Tue, 14 Jul 2026 08:49:56 -0400",
+    "source": "BleepingComputer",
+    "created_at": "2026-07-14T13:01:01.488147+00:00"
   }
 ]
