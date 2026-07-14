@@ -926,5 +926,21 @@
     "published": "Tue, 14 Jul 2026 15:15:17 -0400",
     "source": "BleepingComputer",
     "created_at": "2026-07-14T19:30:56.444989+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html",
+    "title": "Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads",
+    "link": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html",
+    "published": "Tue, 14 Jul 2026 22:57:23 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-14T20:01:02.444529+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html",
+    "title": "SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data",
+    "link": "https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html",
+    "published": "Tue, 14 Jul 2026 23:47:57 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-14T20:01:04.340034+00:00"
   }
 ]
