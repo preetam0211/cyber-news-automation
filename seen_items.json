@@ -774,5 +774,13 @@
     "published": "Tue, 14 Jul 2026 13:32:33 +0530",
     "source": "The Hacker News",
     "created_at": "2026-07-14T08:30:59.464047+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
+    "title": "Grok Build Uploads Entire Git Repositories to xAI Storage, Not Just Files It Reads",
+    "link": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
+    "published": "Tue, 14 Jul 2026 14:32:48 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-14T09:30:56.314996+00:00"
   }
 ]
