@@ -1014,5 +1014,29 @@
     "published": "Wed, 15 Jul 2026 16:25:22 +0530",
     "source": "The Hacker News",
     "created_at": "2026-07-15T11:00:57.382246+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html",
+    "title": "New Webinar: Closing the Approval Gap in AI-Era Ad Tech",
+    "link": "https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html",
+    "published": "Wed, 15 Jul 2026 16:36:57 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-15T13:00:56.838819+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html",
+    "title": "Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday",
+    "link": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html",
+    "published": "Wed, 15 Jul 2026 16:37:07 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-15T13:00:58.582860+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html",
+    "title": "SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.",
+    "link": "https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html",
+    "published": "Wed, 15 Jul 2026 17:20:01 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-15T13:01:00.365556+00:00"
   }
 ]
