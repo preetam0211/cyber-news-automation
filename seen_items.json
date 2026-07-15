@@ -966,5 +966,13 @@
     "published": "Tue, 14 Jul 2026 17:23:24 -0400",
     "source": "BleepingComputer",
     "created_at": "2026-07-14T21:31:01.334720+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html",
+    "title": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands",
+    "link": "https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html",
+    "published": "Wed, 15 Jul 2026 11:00:21 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-15T06:30:56.814950+00:00"
   }
 ]
