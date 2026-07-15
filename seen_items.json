@@ -1054,5 +1054,13 @@
     "published": "Wed, 15 Jul 2026 10:01:11 -0400",
     "source": "BleepingComputer",
     "created_at": "2026-07-15T14:31:07.698505+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
+    "title": "​    ​AsyncAPI npm packages infected with credential-stealing malware",
+    "link": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
+    "published": "Wed, 15 Jul 2026 11:37:27 -0400",
+    "source": "BleepingComputer",
+    "created_at": "2026-07-15T16:00:58.873542+00:00"
   }
 ]
