@@ -990,5 +990,21 @@
     "published": "Wed, 15 Jul 2026 04:26:48 -0400",
     "source": "BleepingComputer",
     "created_at": "2026-07-15T08:30:56.040619+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html",
+    "title": "Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware",
+    "link": "https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html",
+    "published": "Wed, 15 Jul 2026 14:46:13 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-15T10:00:59.950659+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/",
+    "title": "CISA warns admins to patch actively exploited SharePoint flaws",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/",
+    "published": "Wed, 15 Jul 2026 05:44:52 -0400",
+    "source": "BleepingComputer",
+    "created_at": "2026-07-15T10:01:01.847898+00:00"
   }
 ]
