@@ -1062,5 +1062,13 @@
     "published": "Wed, 15 Jul 2026 11:37:27 -0400",
     "source": "BleepingComputer",
     "created_at": "2026-07-15T16:00:58.873542+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html",
+    "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
+    "link": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html",
+    "published": "Wed, 15 Jul 2026 21:00:30 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-15T17:00:55.421707+00:00"
   }
 ]
