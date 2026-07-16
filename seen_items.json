@@ -1198,5 +1198,21 @@
     "published": "Thu, 16 Jul 2026 08:31:29 -0400",
     "source": "BleepingComputer",
     "created_at": "2026-07-16T13:01:00.947458+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html",
+    "title": "New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password",
+    "link": "https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html",
+    "published": "Thu, 16 Jul 2026 18:03:42 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-16T13:30:59.081853+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html",
+    "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
+    "link": "https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html",
+    "published": "Thu, 16 Jul 2026 18:20:13 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-16T13:31:00.838999+00:00"
   }
 ]
