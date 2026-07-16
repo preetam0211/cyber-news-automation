@@ -1102,5 +1102,13 @@
     "published": "Wed, 15 Jul 2026 17:55:50 -0400",
     "source": "BleepingComputer",
     "created_at": "2026-07-15T22:00:59.536631+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html",
+    "title": "Zoom Patches Critical Windows Flaw That Could Enable Account Takeover",
+    "link": "https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html",
+    "published": "Thu, 16 Jul 2026 12:52:44 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-16T08:30:57.057316+00:00"
   }
 ]
