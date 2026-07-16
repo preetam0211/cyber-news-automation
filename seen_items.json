@@ -1254,5 +1254,21 @@
     "published": "Thu, 16 Jul 2026 22:39:25 +0530",
     "source": "The Hacker News",
     "created_at": "2026-07-16T18:31:02.657375+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/",
+    "title": "New OkoBot framework deploys 20 payloads to steal data, crypto",
+    "link": "https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/",
+    "published": "Thu, 16 Jul 2026 15:09:35 -0400",
+    "source": "BleepingComputer",
+    "created_at": "2026-07-16T19:30:59.740406+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
+    "title": "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
+    "link": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
+    "published": "Thu, 16 Jul 2026 15:26:07 -0400",
+    "source": "BleepingComputer",
+    "created_at": "2026-07-16T19:31:00.942005+00:00"
   }
 ]
