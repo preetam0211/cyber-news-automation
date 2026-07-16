@@ -1118,5 +1118,21 @@
     "published": "Thu, 16 Jul 2026 14:12:31 +0530",
     "source": "The Hacker News",
     "created_at": "2026-07-16T09:31:01.122615+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/new-spirals-ransomware-encrypts-victim-network-in-under-24-hours/",
+    "title": "New Spirals ransomware encrypts victim network in under 24 hours",
+    "link": "https://www.bleepingcomputer.com/news/security/new-spirals-ransomware-encrypts-victim-network-in-under-24-hours/",
+    "published": "Thu, 16 Jul 2026 06:00:00 -0400",
+    "source": "BleepingComputer",
+    "created_at": "2026-07-16T10:31:00.329567+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/russian-hackers-trojanize-webex-zoom-apps-to-push-starland-malware/",
+    "title": "Russian hackers trojanize WebEx, Zoom apps to push Starland malware",
+    "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-trojanize-webex-zoom-apps-to-push-starland-malware/",
+    "published": "Thu, 16 Jul 2026 06:19:34 -0400",
+    "source": "BleepingComputer",
+    "created_at": "2026-07-16T10:31:02.260722+00:00"
   }
 ]
