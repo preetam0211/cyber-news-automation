@@ -1318,5 +1318,21 @@
     "published": "Fri, 17 Jul 2026 05:10:15 -0400",
     "source": "BleepingComputer",
     "created_at": "2026-07-17T09:30:57.452577+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html",
+    "title": "New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage",
+    "link": "https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html",
+    "published": "Fri, 17 Jul 2026 14:16:45 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-17T11:00:59.447663+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html",
+    "title": "ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files",
+    "link": "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html",
+    "published": "Fri, 17 Jul 2026 14:26:39 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-17T11:01:01.309619+00:00"
   }
 ]
