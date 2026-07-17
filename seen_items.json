@@ -1422,5 +1422,21 @@
     "published": "Sat, 18 Jul 2026 00:24:51 +0530",
     "source": "The Hacker News",
     "created_at": "2026-07-17T19:30:57.983903+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
+    "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
+    "link": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
+    "published": "Sat, 18 Jul 2026 01:50:53 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-17T21:00:56.815451+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
+    "title": "Abbott Laboratories probes two cyber incidents amid extortion claims",
+    "link": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
+    "published": "Fri, 17 Jul 2026 16:45:52 -0400",
+    "source": "BleepingComputer",
+    "created_at": "2026-07-17T21:00:57.466652+00:00"
   }
 ]
