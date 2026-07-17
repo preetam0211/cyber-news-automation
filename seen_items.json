@@ -1406,5 +1406,13 @@
     "published": "Fri, 17 Jul 2026 22:42:23 +0530",
     "source": "The Hacker News",
     "created_at": "2026-07-17T17:30:58.800598+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
+    "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
+    "link": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
+    "published": "Fri, 17 Jul 2026 13:56:21 -0400",
+    "source": "BleepingComputer",
+    "created_at": "2026-07-17T18:00:59.895774+00:00"
   }
 ]
