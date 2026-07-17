@@ -1414,5 +1414,13 @@
     "published": "Fri, 17 Jul 2026 13:56:21 -0400",
     "source": "BleepingComputer",
     "created_at": "2026-07-17T18:00:59.895774+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
+    "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
+    "link": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
+    "published": "Sat, 18 Jul 2026 00:24:51 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-17T19:30:57.983903+00:00"
   }
 ]
