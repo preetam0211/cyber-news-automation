@@ -1438,5 +1438,13 @@
     "published": "Fri, 17 Jul 2026 16:45:52 -0400",
     "source": "BleepingComputer",
     "created_at": "2026-07-17T21:00:57.466652+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
+    "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
+    "link": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
+    "published": "Sat, 18 Jul 2026 02:50:10 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-17T22:00:54.963907+00:00"
   }
 ]
