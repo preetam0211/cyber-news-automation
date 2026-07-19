@@ -1478,5 +1478,21 @@
     "published": "Sat, 18 Jul 2026 15:32:02 -0400",
     "source": "BleepingComputer",
     "created_at": "2026-07-18T20:00:57.835493+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
+    "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
+    "link": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
+    "published": "Sun, 19 Jul 2026 18:48:56 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-19T14:30:58.117932+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html",
+    "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
+    "link": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html",
+    "published": "Sun, 19 Jul 2026 19:00:55 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-19T14:31:00.005752+00:00"
   }
 ]
