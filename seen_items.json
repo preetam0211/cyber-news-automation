@@ -1502,5 +1502,13 @@
     "published": "Sun, 19 Jul 2026 10:23:46 -0400",
     "source": "BleepingComputer",
     "created_at": "2026-07-19T15:01:01.470455+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
+    "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
+    "link": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
+    "published": "Mon, 20 Jul 2026 02:12:49 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-19T21:30:58.079935+00:00"
   }
 ]
