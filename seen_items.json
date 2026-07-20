@@ -1614,5 +1614,21 @@
     "published": "Mon, 20 Jul 2026 20:03:43 +0530",
     "source": "The Hacker News",
     "created_at": "2026-07-20T15:31:04.422391+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
+    "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
+    "link": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
+    "published": "Mon, 20 Jul 2026 22:59:50 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-20T18:01:03.892413+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/",
+    "title": "New HollowGraph malware uses Microsoft Graph for stealthy C2 comms",
+    "link": "https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/",
+    "published": "Mon, 20 Jul 2026 13:43:01 -0400",
+    "source": "BleepingComputer",
+    "created_at": "2026-07-20T18:01:05.769847+00:00"
   }
 ]
