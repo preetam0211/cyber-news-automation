@@ -1510,5 +1510,21 @@
     "published": "Mon, 20 Jul 2026 02:12:49 +0530",
     "source": "The Hacker News",
     "created_at": "2026-07-19T21:30:58.079935+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html",
+    "title": "SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines",
+    "link": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html",
+    "published": "Mon, 20 Jul 2026 10:45:39 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-20T06:01:03.933073+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
+    "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
+    "link": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
+    "published": "Mon, 20 Jul 2026 10:57:26 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-20T06:01:05.798156+00:00"
   }
 ]
