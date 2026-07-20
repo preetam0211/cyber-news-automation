@@ -1606,5 +1606,13 @@
     "published": "Mon, 20 Jul 2026 10:01:11 -0400",
     "source": "BleepingComputer",
     "created_at": "2026-07-20T14:31:00.556792+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
+    "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
+    "link": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
+    "published": "Mon, 20 Jul 2026 20:03:43 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-20T15:31:04.422391+00:00"
   }
 ]
