@@ -1534,5 +1534,21 @@
     "published": "Mon, 20 Jul 2026 05:29:20 -0400",
     "source": "BleepingComputer",
     "created_at": "2026-07-20T09:31:02.206708+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
+    "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
+    "link": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
+    "published": "Mon, 20 Jul 2026 14:37:11 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-20T10:01:04.123973+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
+    "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
+    "link": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
+    "published": "Mon, 20 Jul 2026 14:40:56 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-20T10:01:05.845067+00:00"
   }
 ]
