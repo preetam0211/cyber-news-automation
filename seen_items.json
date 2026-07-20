@@ -1654,5 +1654,21 @@
     "published": "Mon, 20 Jul 2026 17:14:42 -0400",
     "source": "BleepingComputer",
     "created_at": "2026-07-20T21:31:04.985947+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/",
+    "title": "Hackers steal $23.7 million in crypto from Ostium in off-chain attack",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/",
+    "published": "Mon, 20 Jul 2026 18:22:56 -0400",
+    "source": "BleepingComputer",
+    "created_at": "2026-07-20T22:30:58.939311+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/",
+    "title": "SonicWall SMA1000 flaws exploited as zero-days to push custom malware",
+    "link": "https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/",
+    "published": "Mon, 20 Jul 2026 18:23:23 -0400",
+    "source": "BleepingComputer",
+    "created_at": "2026-07-20T22:31:00.863644+00:00"
   }
 ]
