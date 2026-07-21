@@ -1694,5 +1694,13 @@
     "published": "Tue, 21 Jul 2026 13:04:32 +0530",
     "source": "The Hacker News",
     "created_at": "2026-07-21T08:00:58.326953+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
+    "title": "Windows LegacyHive zero-day flaw gets free, unofficial patches",
+    "link": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
+    "published": "Tue, 21 Jul 2026 04:06:26 -0400",
+    "source": "BleepingComputer",
+    "created_at": "2026-07-21T08:30:59.684288+00:00"
   }
 ]
