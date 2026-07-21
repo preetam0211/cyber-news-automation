@@ -1838,5 +1838,13 @@
     "published": "Tue, 21 Jul 2026 16:06:55 -0400",
     "source": "BleepingComputer",
     "created_at": "2026-07-21T20:31:00.065953+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/",
+    "title": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
+    "link": "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/",
+    "published": "Tue, 21 Jul 2026 18:34:17 -0400",
+    "source": "BleepingComputer",
+    "created_at": "2026-07-21T23:00:59.369619+00:00"
   }
 ]
