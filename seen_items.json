@@ -1758,5 +1758,29 @@
     "published": "Tue, 21 Jul 2026 17:28:00 +0530",
     "source": "The Hacker News",
     "created_at": "2026-07-21T12:31:05.306290+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html",
+    "title": "Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities",
+    "link": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html",
+    "published": "Tue, 21 Jul 2026 18:48:31 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-21T14:30:58.683903+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/",
+    "title": "Closing the Identity Gaps in Critical Infrastructure Security",
+    "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/",
+    "published": "Tue, 21 Jul 2026 10:00:10 -0400",
+    "source": "BleepingComputer",
+    "created_at": "2026-07-21T14:31:00.416221+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
+    "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
+    "link": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
+    "published": "Tue, 21 Jul 2026 19:34:57 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-21T14:31:02.178119+00:00"
   }
 ]
