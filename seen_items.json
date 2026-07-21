@@ -1678,5 +1678,21 @@
     "published": "Mon, 20 Jul 2026 18:39:30 -0400",
     "source": "BleepingComputer",
     "created_at": "2026-07-20T23:01:01.336285+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
+    "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
+    "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
+    "published": "Tue, 21 Jul 2026 11:59:26 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-21T08:00:57.681021+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
+    "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
+    "link": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
+    "published": "Tue, 21 Jul 2026 13:04:32 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-21T08:00:58.326953+00:00"
   }
 ]
