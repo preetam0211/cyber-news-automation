@@ -1702,5 +1702,13 @@
     "published": "Tue, 21 Jul 2026 04:06:26 -0400",
     "source": "BleepingComputer",
     "created_at": "2026-07-21T08:30:59.684288+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
+    "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
+    "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
+    "published": "Tue, 21 Jul 2026 14:29:30 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-21T09:01:11.642897+00:00"
   }
 ]
