@@ -1718,5 +1718,13 @@
     "published": "Tue, 21 Jul 2026 05:05:50 -0400",
     "source": "BleepingComputer",
     "created_at": "2026-07-21T09:30:57.728257+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
+    "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
+    "published": "Tue, 21 Jul 2026 06:12:24 -0400",
+    "source": "BleepingComputer",
+    "created_at": "2026-07-21T10:30:56.156928+00:00"
   }
 ]
