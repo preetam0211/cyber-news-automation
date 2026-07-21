@@ -1790,5 +1790,29 @@
     "published": "Tue, 21 Jul 2026 20:27:51 +0530",
     "source": "The Hacker News",
     "created_at": "2026-07-21T15:31:07.395775+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
+    "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
+    "link": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
+    "published": "Tue, 21 Jul 2026 20:39:28 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-21T17:01:10.919231+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
+    "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
+    "link": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
+    "published": "Tue, 21 Jul 2026 21:36:12 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-21T17:01:12.804982+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
+    "title": "Critical wp2shell WordPress flaws exploited to install webshells",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
+    "published": "Tue, 21 Jul 2026 12:41:50 -0400",
+    "source": "BleepingComputer",
+    "created_at": "2026-07-21T17:01:14.692320+00:00"
   }
 ]
