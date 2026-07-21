@@ -1782,5 +1782,13 @@
     "published": "Tue, 21 Jul 2026 19:34:57 +0530",
     "source": "The Hacker News",
     "created_at": "2026-07-21T14:31:02.178119+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
+    "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
+    "link": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
+    "published": "Tue, 21 Jul 2026 20:27:51 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-21T15:31:07.395775+00:00"
   }
 ]
