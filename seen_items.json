@@ -1958,5 +1958,13 @@
     "published": "Wed, 22 Jul 2026 18:06:36 +0530",
     "source": "The Hacker News",
     "created_at": "2026-07-22T14:01:04.843930+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/",
+    "title": "New InfraTrust report reveals infrastructure flaws admins should patch first",
+    "link": "https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/",
+    "published": "Wed, 22 Jul 2026 10:15:00 -0400",
+    "source": "BleepingComputer",
+    "created_at": "2026-07-22T14:31:02.733505+00:00"
   }
 ]
