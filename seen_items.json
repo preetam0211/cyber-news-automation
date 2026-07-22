@@ -1926,5 +1926,13 @@
     "published": "Wed, 22 Jul 2026 16:55:35 +0530",
     "source": "The Hacker News",
     "created_at": "2026-07-22T11:31:11.408782+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/",
+    "title": "CISA orders urgent action on actively exploited Langflow RCE flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/",
+    "published": "Wed, 22 Jul 2026 07:43:28 -0400",
+    "source": "BleepingComputer",
+    "created_at": "2026-07-22T12:01:04.239875+00:00"
   }
 ]
