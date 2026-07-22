@@ -1998,5 +1998,21 @@
     "published": "Wed, 22 Jul 2026 23:37:16 +0530",
     "source": "The Hacker News",
     "created_at": "2026-07-22T19:01:08.070460+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html",
+    "title": "GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier",
+    "link": "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html",
+    "published": "Thu, 23 Jul 2026 00:07:42 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-22T20:31:03.743579+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
+    "title": "South Korea discloses data breach impacting diplomats worldwide",
+    "link": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
+    "published": "Wed, 22 Jul 2026 16:06:54 -0400",
+    "source": "BleepingComputer",
+    "created_at": "2026-07-22T20:31:05.650225+00:00"
   }
 ]
