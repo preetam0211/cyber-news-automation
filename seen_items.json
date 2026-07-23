@@ -2166,5 +2166,13 @@
     "published": "Thu, 23 Jul 2026 12:49:27 -0400",
     "source": "BleepingComputer",
     "created_at": "2026-07-23T17:01:06.052224+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
+    "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
+    "link": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
+    "published": "Fri, 24 Jul 2026 00:06:08 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-23T19:00:57.170727+00:00"
   }
 ]
