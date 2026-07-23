@@ -2142,5 +2142,29 @@
     "published": "Thu, 23 Jul 2026 11:34:43 -0400",
     "source": "BleepingComputer",
     "created_at": "2026-07-23T16:01:03.868399+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
+    "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
+    "link": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
+    "published": "Thu, 23 Jul 2026 20:32:07 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-23T17:01:02.213202+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/",
+    "title": "Hackers abuse Notepad++ plugins to stealthily install malware",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/",
+    "published": "Thu, 23 Jul 2026 12:32:35 -0400",
+    "source": "BleepingComputer",
+    "created_at": "2026-07-23T17:01:04.103540+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
+    "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
+    "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
+    "published": "Thu, 23 Jul 2026 12:49:27 -0400",
+    "source": "BleepingComputer",
+    "created_at": "2026-07-23T17:01:06.052224+00:00"
   }
 ]
