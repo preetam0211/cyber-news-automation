@@ -2214,5 +2214,21 @@
     "published": "Fri, 24 Jul 2026 03:36:39 -0400",
     "source": "BleepingComputer",
     "created_at": "2026-07-24T08:00:59.207474+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
+    "title": "Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say",
+    "link": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
+    "published": "Fri, 24 Jul 2026 12:28:27 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-24T09:01:08.057473+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html",
+    "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
+    "link": "https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html",
+    "published": "Fri, 24 Jul 2026 13:11:06 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-24T09:01:09.904259+00:00"
   }
 ]
