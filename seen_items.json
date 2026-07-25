@@ -2414,5 +2414,13 @@
     "published": "Sat, 25 Jul 2026 11:21:09 -0400",
     "source": "BleepingComputer",
     "created_at": "2026-07-25T15:30:59.705259+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
+    "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
+    "link": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
+    "published": "Sun, 26 Jul 2026 00:18:44 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-25T20:00:55.332039+00:00"
   }
 ]
