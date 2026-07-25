@@ -2366,5 +2366,29 @@
     "published": "Sat, 25 Jul 2026 05:31:09 -0400",
     "source": "BleepingComputer",
     "created_at": "2026-07-25T10:00:56.650399+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
+    "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
+    "link": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
+    "published": "Sat, 25 Jul 2026 15:23:41 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-25T12:00:56.625320+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
+    "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
+    "link": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
+    "published": "Sat, 25 Jul 2026 15:44:03 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-25T12:00:58.399359+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html",
+    "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
+    "link": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html",
+    "published": "Sat, 25 Jul 2026 15:44:21 +0530",
+    "source": "The Hacker News",
+    "created_at": "2026-07-25T12:01:00.178315+00:00"
   }
 ]
