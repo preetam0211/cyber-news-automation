@@ -67,8 +67,10 @@ def clean_html(raw_html):
     """Remove HTML tags and escape special characters to make text safe for Telegram HTML parse mode."""
     if not raw_html:
         return ""
+    # Unescape raw HTML entities first (e.g. &#8217; -> ’) to prevent double-escaping issues
+    unescaped = html.unescape(raw_html)
     # Strip HTML tags
-    clean_text = re.sub(r'<[^>]+>', '', raw_html)
+    clean_text = re.sub(r'<[^>]+>', '', unescaped)
     # Escape &, <, > characters for Telegram HTML parse mode
     return html.escape(clean_text).strip()
 
