@@ -33,6 +33,7 @@ jobs:
           TELEGRAM_TOPIC_ID: ${{ secrets.TELEGRAM_TOPIC_ID }}
           HACKER_NEWS_FEED_URL: ${{ secrets.HACKER_NEWS_FEED_URL }}
           BLEEPING_COMPUTER_FEED_URL: ${{ secrets.BLEEPING_COMPUTER_FEED_URL }}
+          CYBER_SECURITY_NEWS_FEED_URL: ${{ secrets.CYBER_SECURITY_NEWS_FEED_URL }}
         run: |
           python cyber_news.py
 

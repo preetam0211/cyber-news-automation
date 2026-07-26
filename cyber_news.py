@@ -12,6 +12,7 @@ import requests
 import feedparser
 from dotenv import load_dotenv
 from deduplication import is_duplicate
+from mitre_map import map_mitre_attack
 
 # Ensure standard streams use UTF-8 on Windows to handle emojis correctly
 if hasattr(sys.stdout, 'reconfigure'):
@@ -31,6 +32,7 @@ logger = logging.getLogger(__name__)
 
 DEFAULT_HN_FEED = "https://thehackernews.com/feeds/posts/default"
 DEFAULT_BC_FEED = "https://www.bleepingcomputer.com/feed/"
+DEFAULT_CSN_FEED = "https://cybersecuritynews.com/feed/"
 DEFAULT_DB_NAME = "seen_items.json"
 
 
@@ -71,10 +73,19 @@ def clean_html(raw_html):
     return html.escape(clean_text).strip()
 
 def format_telegram_message(entry, source):
-    """Format a feed entry into a Telegram HTML message."""
+    """Format a feed entry into a Telegram HTML message with trimmed date and MITRE ATT&CK mapping."""
     title = clean_html(entry.get('title', 'No Title'))
     link = html.escape(entry.get('link', ''))
-    published = clean_html(entry.get('published', 'No Date'))
+    
+    # Trim the date to Day Month Year (e.g. 25 Jul 2026) using published_parsed if available
+    published = "No Date"
+    if hasattr(entry, 'published_parsed') and entry.published_parsed:
+        try:
+            published = time.strftime("%d %b %Y", entry.published_parsed)
+        except Exception:
+            published = clean_html(entry.get('published', 'No Date'))
+    else:
+        published = clean_html(entry.get('published', 'No Date'))
     
     # Handle summary/description parsing
     summary_raw = entry.get('summary', '') or entry.get('description', '')
@@ -85,12 +96,25 @@ def format_telegram_message(entry, source):
     if len(summary) > max_summary_length:
         summary = summary[:max_summary_length] + "..."
 
-    emoji = "🛡️" if "hacker" in source.lower() else "💻"
-    
+    # Map to MITRE ATT&CK techniques based on title and summary
+    mitre_techniques = map_mitre_attack(title, summary)
+    mitre_line = ""
+    if mitre_techniques:
+        mitre_line = f"<b>MITRE ATT&CK:</b> " + " | ".join(mitre_techniques) + "\n"
+
+    # Define emojis for different portals
+    if "hacker" in source.lower():
+        emoji = "🛡️"
+    elif "bleeping" in source.lower():
+        emoji = "💻"
+    else:
+        emoji = "🔒" # For CybersecurityNews
+
     message = (
         f"<b>{emoji} {source} News</b>\n\n"
         f"<b>Title:</b> {title}\n"
-        f"<b>Date:</b> {published}\n\n"
+        f"<b>Date:</b> {published}\n"
+        f"{mitre_line}\n"
         f"<b>Summary:</b>\n{summary}\n\n"
         f"🔗 <a href='{link}'>Read full article</a>"
     )
@@ -219,6 +243,7 @@ def main():
     
     hn_feed_url = os.getenv("HACKER_NEWS_FEED_URL") or DEFAULT_HN_FEED
     bc_feed_url = os.getenv("BLEEPING_COMPUTER_FEED_URL") or DEFAULT_BC_FEED
+    csn_feed_url = os.getenv("CYBER_SECURITY_NEWS_FEED_URL") or DEFAULT_CSN_FEED
     db_path = os.getenv("DB_PATH") or DEFAULT_DB_NAME
     
     telegram_token = os.getenv("TELEGRAM_BOT_TOKEN")
@@ -244,7 +269,8 @@ def main():
     
     feeds_to_process = [
         {"url": hn_feed_url, "name": "The Hacker News"},
-        {"url": bc_feed_url, "name": "BleepingComputer"}
+        {"url": bc_feed_url, "name": "BleepingComputer"},
+        {"url": csn_feed_url, "name": "CybersecurityNews"}
     ]
     
     new_entries_to_process = []
