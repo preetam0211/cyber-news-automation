@@ -111,7 +111,7 @@ def format_telegram_message(entry, source):
         emoji = "🔒" # For CybersecurityNews
 
     message = (
-        f"<b>{emoji} {source} News</b>\n\n"
+        f"<b>{emoji} {source}</b>\n\n"
         f"<b>Title:</b> {title}\n"
         f"<b>Date:</b> {published}\n"
         f"{mitre_line}\n"
