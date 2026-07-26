@@ -2430,5 +2430,85 @@
     "published": "Sat, 25 Jul 2026 18:37:47 -0400",
     "source": "BleepingComputer",
     "created_at": "2026-07-25T23:01:00.847998+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157048",
+    "title": "Apache Syncope Release Patches for Multiple RCE and SQL Injection Vulnerabilities",
+    "link": "https://cybersecuritynews.com/apache-syncope-release-patches/",
+    "published": "Fri, 24 Jul 2026 11:58:13 +0000",
+    "source": "CybersecurityNews",
+    "created_at": "2026-07-26T07:31:06.327558+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157105",
+    "title": "Cl0p Hackers Exploit Windchill Servers to Steal Companies’ Secret Product Designs",
+    "link": "https://cybersecuritynews.com/cl0p-hackers-exploit-windchill/",
+    "published": "Fri, 24 Jul 2026 13:05:36 +0000",
+    "source": "CybersecurityNews",
+    "created_at": "2026-07-26T07:31:08.262506+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157136",
+    "title": "Bing Images Vulnerability Lets Attackers Execute Remote Code on Microsoft Servers",
+    "link": "https://cybersecuritynews.com/bing-images-vulnerability/",
+    "published": "Fri, 24 Jul 2026 15:56:46 +0000",
+    "source": "CybersecurityNews",
+    "created_at": "2026-07-26T07:31:10.209859+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157152",
+    "title": "Certighost Active Directory CS Exploit Allows Low-Privileged Users to Compromise Domain",
+    "link": "https://cybersecuritynews.com/certighost-active-directory-cs-flaw/",
+    "published": "Fri, 24 Jul 2026 16:35:58 +0000",
+    "source": "CybersecurityNews",
+    "created_at": "2026-07-26T07:31:11.411845+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157110",
+    "title": "Tego AI Discloses Second Claude Flaw in a Week: Hidden Link Silently Sends Files to Attackers",
+    "link": "https://cybersecuritynews.com/tego-ai-discloses-second-claude-flaw-in-a-week-hidden-link-silently-sends-files-to-attackers/",
+    "published": "Fri, 24 Jul 2026 17:19:04 +0000",
+    "source": "CybersecurityNews",
+    "created_at": "2026-07-26T07:31:12.141611+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157127",
+    "title": "Foxit Updater Vulnerability Gives Standard Users SYSTEM-Level Control of Windows Devices",
+    "link": "https://cybersecuritynews.com/foxit-updater-vulnerability/",
+    "published": "Sat, 25 Jul 2026 03:36:03 +0000",
+    "source": "CybersecurityNews",
+    "created_at": "2026-07-26T07:31:14.009593+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=29572",
+    "title": "10 Best ZTNA Solutions (Zero Trust Network Access) In 2026",
+    "link": "https://cybersecuritynews.com/best-ztna-solutions/",
+    "published": "Sat, 25 Jul 2026 15:28:00 +0000",
+    "source": "CybersecurityNews",
+    "created_at": "2026-07-26T07:31:15.952328+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157161",
+    "title": "Researcher Claims Working Jailbreak on Top AI Models Including GPT-5.6, Claude Opus 5, and Fable",
+    "link": "https://cybersecuritynews.com/jailbreak-on-top-ai-models/",
+    "published": "Sat, 25 Jul 2026 16:07:02 +0000",
+    "source": "CybersecurityNews",
+    "created_at": "2026-07-26T07:31:17.885878+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157170",
+    "title": "GitLab Vulnerabilities Allow Attackers to Execute Remote Code on Default GitLab Installations",
+    "link": "https://cybersecuritynews.com/gitlab-vulnerabilities-enable-code-execution/",
+    "published": "Sat, 25 Jul 2026 17:20:48 +0000",
+    "source": "CybersecurityNews",
+    "created_at": "2026-07-26T07:31:19.872343+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157173",
+    "title": "PentesterFlow – AI Tool for Penetration Testers and Bug Hunters to Automate Workflows",
+    "link": "https://cybersecuritynews.com/pentesterflow/",
+    "published": "Sun, 26 Jul 2026 05:28:51 +0000",
+    "source": "CybersecurityNews",
+    "created_at": "2026-07-26T07:31:21.754405+00:00"
   }
 ]
