@@ -2910,5 +2910,14 @@
     "source": "BleepingComputer",
     "summary": "Apple is being sued by three people who claim approximately $1.8 million in Bitcoin was stolen after downloading and using a fraudulent Sparrow Wallet application from the App Store. [...]",
     "created_at": "2026-07-27T17:31:06.264545+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html",
+    "title": "Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption",
+    "link": "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html",
+    "published": "Mon, 27 Jul 2026 22:46:28 +0530",
+    "source": "The Hacker News",
+    "summary": "Dysphoria, an Internet of Things (IoT) botnet line tracked by CNCERT and XLab, has adopted blockchain-based name services and infected-device relays after a March law-enforcement operation against JackSkid infrastructure. The researchers say the desi",
+    "created_at": "2026-07-27T18:01:08.745505+00:00"
   }
 ]
