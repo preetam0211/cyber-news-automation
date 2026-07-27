@@ -2703,5 +2703,23 @@
     "source": "CybersecurityNews",
     "summary": "Microsoft has addressed a local privilege escalation vulnerability in WalletService on Windows. This flaw could allow a standard user to gain full control over an affected machine, operating as \\text{NT AUTHORITY\\SYSTEM}. The vulnerability specifical",
     "created_at": "2026-07-27T12:01:20.834148+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157264",
+    "title": "Researchers Find 84 Hidden iOS Data Streams Tracking Apps, Locations and Messages",
+    "link": "https://cybersecuritynews.com/researchers-find-hidden-ios-data-streams/",
+    "published": "Mon, 27 Jul 2026 12:21:59 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Apple’s Biome framework is drawing fresh attention after researchers identified 84 data streams that can preserve detailed records of how an iPhone is used. The findings do not describe malware or an active intrusion. Instead, they show how built-in ",
+    "created_at": "2026-07-27T12:31:07.555291+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157284",
+    "title": "Microsoft Moves Enterprise Windows Activation From Software to Hardware Verification",
+    "link": "https://cybersecuritynews.com/windows-activation-hardware/",
+    "published": "Mon, 27 Jul 2026 12:24:41 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft is preparing to transition its enterprise Windows activation from a software-trust model to one based on verified hardware. The company announced KMS Hardware-Secured. A new Key Management Service capability that uses Trusted Platform Modul",
+    "created_at": "2026-07-27T12:31:09.460073+00:00"
   }
 ]
