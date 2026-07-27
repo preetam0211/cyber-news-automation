@@ -2748,5 +2748,32 @@
     "source": "CybersecurityNews",
     "summary": "Cryptocurrency theft is increasingly moving beyond the screen. Criminals are using violence, threats, home invasions, and kidnapping attempts to force victims to unlock wallets or approve transfers while under pressure. These incidents are known as w",
     "created_at": "2026-07-27T13:01:15.308412+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html",
+    "title": "Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update",
+    "link": "https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html",
+    "published": "Mon, 27 Jul 2026 18:07:49 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have flagged a Microsoft Teams-themed phishing campaign that employs &quot;secure document&quot; lures to deliver legitimate remote monitoring and management (RMM) tools.\n\n&quot;The victim was directed through compromised we",
+    "created_at": "2026-07-27T13:31:04.428568+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
+    "title": "n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process",
+    "link": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
+    "published": "Mon, 27 Jul 2026 18:35:15 +0530",
+    "source": "The Hacker News",
+    "summary": "n8n has patched a high-severity expression-sandbox escape that could let an authenticated workflow editor execute operating-system commands on the server running the automation platform. Security Joes found the flaw while probing n8n&#x27;s February ",
+    "created_at": "2026-07-27T13:31:06.233788+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157336",
+    "title": "Vatican’s Click to Pray App Exposes 700,000 Users Through Unauthenticated API Flaw",
+    "link": "https://cybersecuritynews.com/vaticans-click-to-pray-app-exposes-users/",
+    "published": "Mon, 27 Jul 2026 13:12:56 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The Vatican’s official Click to Pray app has exposed the personal information of more than 700,000 users through an unauthenticated API flaw. The issue allowed anyone with a web browser to retrieve account data without needing to sign in. Click to Pr",
+    "created_at": "2026-07-27T13:31:08.031040+00:00"
   }
 ]
