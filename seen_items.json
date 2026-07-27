@@ -2667,5 +2667,41 @@
     "source": "CybersecurityNews",
     "summary": "Claude Code can load files from outside a repository through a symlinked memory import, which may allow local data to be included in the model’s first outbound request before the model performs any actions. A recently reported Claude Code issue highl",
     "created_at": "2026-07-27T10:01:12.874643+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html",
+    "title": "Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware",
+    "link": "https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html",
+    "published": "Mon, 27 Jul 2026 16:21:45 +0530",
+    "source": "The Hacker News",
+    "summary": "The China-linked cybercrime group behind the use of income tax-related phishing lures targeting Indian taxpayers, tax professionals, and corporate finance teams has been observed using a sophisticated crypter service called Cruciferra.\n\nAccording to ",
+    "created_at": "2026-07-27T12:01:15.065418+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157259",
+    "title": "Top 10 Malware Used by Hackers Between July 20-26, 2026, to Launch Cyberattacks",
+    "link": "https://cybersecuritynews.com/top-10-malware-used-by-hackers/",
+    "published": "Mon, 27 Jul 2026 10:57:45 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Weekly threat telemetry from ANY.RUN’s interactive sandbox shows Vidar stealer, AsyncRAT, and XWorm remained the three most-uploaded malware samples analyzed by security teams during the week of July 20-26, 2026, collectively accounting for hundreds ",
+    "created_at": "2026-07-27T12:01:17.043238+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157261",
+    "title": "Anthropic’s Claude Opus 5 Arrives on AWS With Improved Cybersecurity Capabilities",
+    "link": "https://cybersecuritynews.com/claude-opus-5-arrives-on-aws/",
+    "published": "Mon, 27 Jul 2026 11:09:57 +0000",
+    "source": "CybersecurityNews",
+    "summary": "AWS has introduced Anthropic’s Claude Opus 5 on Amazon Bedrock and the Claude Platform on AWS, bringing a new high-capability AI model to enterprise cloud environments. Anthropic claims that Claude Opus 5 enhances capabilities in coding, document ana",
+    "created_at": "2026-07-27T12:01:18.953364+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157241",
+    "title": "WalletService Privilege Escalation Flaw Allows Attackers Full Control of Windows Systems",
+    "link": "https://cybersecuritynews.com/walletservice-privilege-escalation-flaw/",
+    "published": "Mon, 27 Jul 2026 11:29:52 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has addressed a local privilege escalation vulnerability in WalletService on Windows. This flaw could allow a standard user to gain full control over an affected machine, operating as \\text{NT AUTHORITY\\SYSTEM}. The vulnerability specifical",
+    "created_at": "2026-07-27T12:01:20.834148+00:00"
   }
 ]
