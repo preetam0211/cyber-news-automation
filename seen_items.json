@@ -2550,5 +2550,14 @@
     "published": "Sun, 26 Jul 2026 17:05:24 +0000",
     "source": "CybersecurityNews",
     "created_at": "2026-07-26T17:32:30.568011+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157142",
+    "title": "ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link",
+    "link": "https://cybersecuritynews.com/chatgpt-agentforger-vulnerability/",
+    "published": "Mon, 27 Jul 2026 03:58:25 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical vulnerability in OpenAI’s ChatGPT Workspace Agents, dubbed AgentForger, that allowed a single phishing link to silently build, configure, and publish an attacker-controlled autonomous agent inside a victim’s organization. Unlike traditiona",
+    "created_at": "2026-07-27T04:02:49.560336+00:00"
   }
 ]
