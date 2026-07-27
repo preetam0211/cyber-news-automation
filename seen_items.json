@@ -2613,5 +2613,41 @@
     "source": "CybersecurityNews",
     "summary": "A coordinated wave of exploitation targeting edge VPN and firewall appliances from four major vendors Palo Alto Networks, Fortinet, Citrix, and Check Point has emerged as the dominant initial-access vector for ransomware operators in mid-2026. Threat",
     "created_at": "2026-07-27T08:31:09.789117+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html",
+    "title": "GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption",
+    "link": "https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html",
+    "published": "Mon, 27 Jul 2026 13:31:23 +0530",
+    "source": "The Hacker News",
+    "summary": "GitHub has announced a new cooldown mechanism in Dependabot, allowing the tool to wait at least three days after a release is published before opening a pull request.\n\n&quot;The cooldown configuration option in the dependabot.yml still controls the b",
+    "created_at": "2026-07-27T09:31:09.014599+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157233",
+    "title": "Windows 11’s File Explorer Is Now Faster at Deleting Large Files",
+    "link": "https://cybersecuritynews.com/windows-11-speeds-up-file-deletions/",
+    "published": "Mon, 27 Jul 2026 08:41:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft is rolling out a targeted performance update for Windows 11 designed to resolve one of the platform’s most persistent storage annoyances: sluggish deletion of large, highly fragmented files. The improvement is part of a broader set of File ",
+    "created_at": "2026-07-27T09:31:10.975764+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157250",
+    "title": "SparkKitty Malware Steals Crypto Wallet Seed Phrases From iOS and Android Photos",
+    "link": "https://cybersecuritynews.com/sparkkitty-malware-steals-crypto-wallet/",
+    "published": "Mon, 27 Jul 2026 08:41:56 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new mobile threat is quietly targeting cryptocurrency users by reading the photos stored on their phones. Known as SparkKitty, this malware works on both iOS and Android devices and focuses on stealing wallet seed phrases hidden inside screenshots ",
+    "created_at": "2026-07-27T09:31:12.965493+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html",
+    "title": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments",
+    "link": "https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html",
+    "published": "Mon, 27 Jul 2026 14:18:47 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East.\n\nThe intrusions have resulted in the deployment of previously unreported malware families",
+    "created_at": "2026-07-27T09:31:14.860851+00:00"
   }
 ]
