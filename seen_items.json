@@ -2928,5 +2928,14 @@
     "source": "The Hacker News",
     "summary": "NVIDIA and 36 other organizations have formed the Open Secure AI Alliance to develop and share open technologies, techniques, and tools for securing software and artificial intelligence (AI) agents.\n\nThe 37-member group spans cloud, security, enterpr",
     "created_at": "2026-07-27T20:01:02.046804+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
+    "title": "New Certighost PoC exploit lets attackers hijack Windows domains",
+    "link": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
+    "published": "Mon, 27 Jul 2026 17:00:25 -0400",
+    "source": "BleepingComputer",
+    "summary": "A proof-of-concept exploit for &quot;Certighost,&quot; a Windows Active Directory Certificate Services vulnerability, has been released that can allow authenticated attackers to potentially compromise a Windows domain. [...]",
+    "created_at": "2026-07-27T21:01:03.842715+00:00"
   }
 ]
