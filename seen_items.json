@@ -2775,5 +2775,23 @@
     "source": "CybersecurityNews",
     "summary": "The Vatican’s official Click to Pray app has exposed the personal information of more than 700,000 users through an unauthenticated API flaw. The issue allowed anyone with a web browser to retrieve account data without needing to sign in. Click to Pr",
     "created_at": "2026-07-27T13:31:08.031040+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157352",
+    "title": "Hackers Can Use MedusaHVNC to Control Your PC on a Desktop You Cannot See",
+    "link": "https://cybersecuritynews.com/medusahvnc-control-your-pc-silently/",
+    "published": "Mon, 27 Jul 2026 13:34:37 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly discovered remote access Trojan called MedusaHVNC lets attackers open a hidden virtual desktop on a victim’s own computer, quietly loading their real browser profile, cookies, and logged-in sessions without any visible sign of intrusion. Sold",
+    "created_at": "2026-07-27T14:01:07.365169+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157343",
+    "title": "Security in the AI Era Starts with First Principles",
+    "link": "https://cybersecuritynews.com/security-in-the-ai-era-starts-with-first-principles/",
+    "published": "Mon, 27 Jul 2026 13:53:18 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Written By Alfredo Hickman, CISO, Kai  Artificial intelligence is evolving so rapidly that keeping up can feel daunting. New models, capabilities, and attack vectors seem to emerge almost daily, pressuring CISOs to constantly adjust their security st",
+    "created_at": "2026-07-27T14:01:09.242021+00:00"
   }
 ]
