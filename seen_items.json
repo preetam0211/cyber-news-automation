@@ -2649,5 +2649,23 @@
     "source": "The Hacker News",
     "summary": "Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East.\n\nThe intrusions have resulted in the deployment of previously unreported malware families",
     "created_at": "2026-07-27T09:31:14.860851+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157258",
+    "title": "Hackers are Setting Up Websites Impersonating Popular Windows Apps to Deliver Malware",
+    "link": "https://cybersecuritynews.com/websites-impersonating-popular-windows-apps/",
+    "published": "Mon, 27 Jul 2026 09:39:50 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are quietly building lookalike websites that pretend to be popular Windows apps, then use those pages to push malware onto unsuspecting users. The scheme already covers more than 70 well known utilities that people trust and download every da",
+    "created_at": "2026-07-27T10:01:11.060533+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157219",
+    "title": "Claude Code Symlink Import Lets Malicious Repositories Silently Exfiltrate Local Files",
+    "link": "https://cybersecuritynews.com/claude-code-symlink-import-malicious-repositories/",
+    "published": "Mon, 27 Jul 2026 09:50:58 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Claude Code can load files from outside a repository through a symlinked memory import, which may allow local data to be included in the model’s first outbound request before the model performs any actions. A recently reported Claude Code issue highl",
+    "created_at": "2026-07-27T10:01:12.874643+00:00"
   }
 ]
