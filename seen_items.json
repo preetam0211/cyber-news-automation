@@ -2892,5 +2892,23 @@
     "source": "CybersecurityNews",
     "summary": "vBulletin has patched CVE-2026-61511, a critical remote code execution flaw that could let unauthenticated attackers execute arbitrary PHP code and compromise vulnerable forum servers. This issue affects vBulletin versions 6.2.1 and earlier as well a",
     "created_at": "2026-07-27T16:01:19.711578+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157407",
+    "title": "Microsoft Defender for Endpoint Update Leaves Few Linux Servers Unprotected After Reboot",
+    "link": "https://cybersecuritynews.com/defender-for-endpoint-update-linux/",
+    "published": "Mon, 27 Jul 2026 17:10:39 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A recent Microsoft Defender for Endpoint update briefly disabled antivirus protection on Linux servers following an upgrade and reboot, exposing affected machines to threats before Microsoft rolled out a fix. The issue struck Linux platform builds 10",
+    "created_at": "2026-07-27T17:31:04.475880+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/",
+    "title": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
+    "link": "https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/",
+    "published": "Mon, 27 Jul 2026 13:29:07 -0400",
+    "source": "BleepingComputer",
+    "summary": "Apple is being sued by three people who claim approximately $1.8 million in Bitcoin was stolen after downloading and using a fraudulent Sparrow Wallet application from the App Store. [...]",
+    "created_at": "2026-07-27T17:31:06.264545+00:00"
   }
 ]
