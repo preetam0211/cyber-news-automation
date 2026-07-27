@@ -318,12 +318,17 @@ def main():
             link = entry.get('link', '')
             published = entry.get('published', 'No Date')
             
+            # Extract and clean summary for deduplication and DB storage
+            summary_raw = entry.get('summary', '') or entry.get('description', '')
+            summary_clean = clean_html(summary_raw)
+            summary_db = summary_clean[:250] if summary_clean else ""
+            
             # Check if already processed GUID
             if guid in seen_guids:
                 continue
                 
-            # Check duplicate based on content similarity
-            duplicate_item = is_duplicate(title, updated_items)
+            # Check duplicate based on Title and Summary content similarity
+            duplicate_item = is_duplicate(title, summary_clean, updated_items)
             if duplicate_item:
                 skipped_duplicates += 1
                 logger.info(f"[DUPLICATE] Skipping: \"{title}\" ({source_site}) is similar to already posted: \"{duplicate_item['title']}\" ({duplicate_item['source']})")
@@ -335,6 +340,7 @@ def main():
                     "link": link,
                     "published": published,
                     "source": source_site,
+                    "summary": summary_db,
                     "created_at": datetime.now(timezone.utc).isoformat()
                 }
                 updated_items.append(new_item)
@@ -352,6 +358,7 @@ def main():
                     "link": link,
                     "published": published,
                     "source": source_site,
+                    "summary": summary_db,
                     "created_at": datetime.now(timezone.utc).isoformat()
                 }
                 updated_items.append(new_item)
@@ -366,6 +373,7 @@ def main():
                         "link": link,
                         "published": published,
                         "source": source_site,
+                        "summary": summary_db,
                         "created_at": datetime.now(timezone.utc).isoformat()
                     }
                     updated_items.append(new_item)
