@@ -2793,5 +2793,32 @@
     "source": "CybersecurityNews",
     "summary": "Written By Alfredo Hickman, CISO, Kai  Artificial intelligence is evolving so rapidly that keeping up can feel daunting. New models, capabilities, and attack vectors seem to emerge almost daily, pressuring CISOs to constantly adjust their security st",
     "created_at": "2026-07-27T14:01:09.242021+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/",
+    "title": "Shadow AI agents are multiplying. Here's how to find and secure them.",
+    "link": "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/",
+    "published": "Mon, 27 Jul 2026 10:01:11 -0400",
+    "source": "BleepingComputer",
+    "summary": "Shadow AI agents are rapidly spreading across enterprise platforms, often without IT or security visibility. Nudge Security explains how organizations can discover, assess, and govern AI agents before unmanaged permissions and autonomous actions crea",
+    "created_at": "2026-07-27T14:31:12.740604+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html",
+    "title": "⚡ Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More",
+    "link": "https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html",
+    "published": "Mon, 27 Jul 2026 19:40:54 +0530",
+    "source": "The Hacker News",
+    "summary": "Monday starts with the usual promise that everything is under control. Then the logs wake up.\n\nThis week, trusted tools crossed lines, old flaws found new work, exposed systems stayed exposed, and attackers kept hiding inside normal-looking services.",
+    "created_at": "2026-07-27T14:31:14.666167+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157341",
+    "title": "NVIDIA Launches Open Secure AI Alliance to Build Open-Source Defenses for AI Agents",
+    "link": "https://cybersecuritynews.com/open-secure-ai-alliance/",
+    "published": "Mon, 27 Jul 2026 14:26:59 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A coalition of over 30 technology industry leaders, including NVIDIA, Microsoft, CrowdStrike, Cisco, IBM, Palo Alto Networks, and Red Hat, has launched the Open Secure AI Alliance. The initiative aims to equip cyber defenders with transparent, commun",
+    "created_at": "2026-07-27T14:31:16.558380+00:00"
   }
 ]
