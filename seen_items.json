@@ -2568,5 +2568,14 @@
     "source": "CybersecurityNews",
     "summary": "Eight high-severity vulnerabilities have been discovered in NodeBB, a popular Node.js-based forum platform, exposing millions of users to risks including private message leaks, stored cross-site scripting (XSS), and full forum compromise. The issues ",
     "created_at": "2026-07-27T05:01:07.426264+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157213",
+    "title": "Google Is Giving Hacker Groups New Names That Reveal Who They Are and Why They Attack",
+    "link": "https://cybersecuritynews.com/google-is-giving-hacker-groups-new-names/",
+    "published": "Mon, 27 Jul 2026 06:50:46 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Google is changing how it names the hacker groups it tracks, replacing a patchwork of labels with names designed to explain more at a glance. The change is intended to make threat reports easier to follow when defenders are trying to understand who i",
+    "created_at": "2026-07-27T07:01:05.563473+00:00"
   }
 ]
