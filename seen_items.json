@@ -3297,5 +3297,14 @@
     "source": "CybersecurityNews",
     "summary": "Silver Spring, MD, USA, July 28th, 2026, CyberNewswire To reduce identity risk when third-party AI agents access business systems, Aembit is launching a new integration with Snowflake to help enterprises securely govern third-party agents across plat",
     "created_at": "2026-07-28T16:01:11.060787+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157592",
+    "title": "Nginx Buffer Overflow Vulnerability Allows Attackers to Execute Arbitrary Code – PoC Released",
+    "link": "https://cybersecuritynews.com/nginx-buffer-overflow-vulnerability-2/",
+    "published": "Tue, 28 Jul 2026 16:46:41 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A high-severity heap buffer overflow in NGINX Plus and NGINX Open Source can let unauthenticated attackers crash worker processes and, under certain conditions, run arbitrary code. Tracked as CVE-2026-42533, the flaw affects configurations that use r",
+    "created_at": "2026-07-28T17:01:06.309115+00:00"
   }
 ]
