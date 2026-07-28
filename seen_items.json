@@ -3351,5 +3351,14 @@
     "source": "CybersecurityNews",
     "summary": "Anthropic researchers using Claude Mythos Preview have uncovered mathematical flaws in major cryptographic algorithms that human experts failed to spot for years. The AI found improved attacks against HAWK, a post-quantum digital signature scheme, an",
     "created_at": "2026-07-28T18:31:05.949096+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
+    "title": "CISA shares advice on isolating vital systems during cyberattacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
+    "published": "Tue, 28 Jul 2026 14:41:04 -0400",
+    "source": "BleepingComputer",
+    "summary": "The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or other major disruptions. [...]",
+    "created_at": "2026-07-28T19:01:14.253429+00:00"
   }
 ]
