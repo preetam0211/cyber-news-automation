@@ -3261,5 +3261,23 @@
     "source": "BleepingComputer",
     "summary": "A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity hardening help secure modern SSO environments and the a",
     "created_at": "2026-07-28T14:31:15.430587+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
+    "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
+    "link": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
+    "published": "Tue, 28 Jul 2026 20:11:36 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the public internet.\n\nOf the 36,872 inter",
+    "created_at": "2026-07-28T15:31:02.051148+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
+    "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
+    "link": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
+    "published": "Tue, 28 Jul 2026 20:31:33 +0530",
+    "source": "The Hacker News",
+    "summary": "A new Mirai-derived botnet called Tengu can use a compromised Linux device&#x27;s hardware watchdog to trigger a reboot when defenders kill its main process.\n\nIf that happens, Tengu&#x27;s other persistence mechanisms get another chance to relaunch i",
+    "created_at": "2026-07-28T15:31:02.588759+00:00"
   }
 ]
