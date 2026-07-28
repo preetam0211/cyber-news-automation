@@ -3279,5 +3279,23 @@
     "source": "The Hacker News",
     "summary": "A new Mirai-derived botnet called Tengu can use a compromised Linux device&#x27;s hardware watchdog to trigger a reboot when defenders kill its main process.\n\nIf that happens, Tengu&#x27;s other persistence mechanisms get another chance to relaunch i",
     "created_at": "2026-07-28T15:31:02.588759+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157530",
+    "title": "Apple iOS 26.6 Fixes Flaws Enabling Kernel Code Execution, Root Access and Sandbox Escape",
+    "link": "https://cybersecuritynews.com/apple-ios-26-6-fixes-flaws/",
+    "published": "Tue, 28 Jul 2026 15:15:50 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Apple has released iOS 26.6 and iPadOS 26.6 to address a significant number of security vulnerabilities, including flaws that could allow malicious applications to execute code with kernel privileges, gain root access, or escape Apple’s app sandbox. ",
+    "created_at": "2026-07-28T16:01:08.997301+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157584",
+    "title": "Aembit Joins Snowflake to Tackle AI’s Next Security Frontier: Trusted Agent Interoperability",
+    "link": "https://cybersecuritynews.com/aembit-joins-snowflake-to-tackle-ais-next-security-frontier-trusted-agent-interoperability/",
+    "published": "Tue, 28 Jul 2026 15:40:39 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Silver Spring, MD, USA, July 28th, 2026, CyberNewswire To reduce identity risk when third-party AI agents access business systems, Aembit is launching a new integration with Snowflake to help enterprises securely govern third-party agents across plat",
+    "created_at": "2026-07-28T16:01:11.060787+00:00"
   }
 ]
