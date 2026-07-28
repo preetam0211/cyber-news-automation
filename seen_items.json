@@ -3162,5 +3162,14 @@
     "source": "CybersecurityNews",
     "summary": "A serious Linux kernel zero-day vulnerability capable of local privilege escalation (LPE) has been uncovered by security researchers, underscoring both the growing role of artificial intelligence in vulnerability research and the persistent security ",
     "created_at": "2026-07-28T11:31:06.506549+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157506",
+    "title": "Hackers Are Using Fake Crypto Wallet Screens to Steal Recovery Phrases and Browser Sessions",
+    "link": "https://cybersecuritynews.com/hackers-are-using-fake-crypto-wallet-screens/",
+    "published": "Tue, 28 Jul 2026 11:45:29 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Criminals are using convincing cryptocurrency wallet screens and browser extensions to steal recovery phrases, login data, and active browser sessions. The activity is linked to a wider CastleLoader campaign that gives attackers several ways to gain ",
+    "created_at": "2026-07-28T12:01:09.633778+00:00"
   }
 ]
