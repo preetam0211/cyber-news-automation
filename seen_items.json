@@ -3018,5 +3018,77 @@
     "source": "The Hacker News",
     "summary": "Microsoft has launched its first cybersecurity-specific model inside MDASH, its multi-model vulnerability identification and remediation harness.\n\nThe company says MDASH, using MAI-Cyber-1-Flash and GPT-5.4, scored 95.95% on CyberGym. It also claims ",
     "created_at": "2026-07-28T06:30:56.686524+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157438",
+    "title": "Operation STANDOFF Hides Command-and-Control Traffic Behind GitHub Redirects",
+    "link": "https://cybersecuritynews.com/standoff-hides-traffic/",
+    "published": "Tue, 28 Jul 2026 06:20:34 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Operation STANDOFF is a Russian-speaking cybercrime campaign that turns a single infection into a wider compromise. Its installer delivers information stealers, loaders, a cryptocurrency miner, and botnet components, while operators can later focus o",
+    "created_at": "2026-07-28T08:31:08.332494+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157455",
+    "title": "PortSwigger Launches Burp AT Agentic AI for Human-Led Web Penetration Testing",
+    "link": "https://cybersecuritynews.com/portswigger-launches-burp-at/",
+    "published": "Tue, 28 Jul 2026 06:51:49 +0000",
+    "source": "CybersecurityNews",
+    "summary": "PortSwigger has officially launched Burp AT in public beta, bringing agentic AI capabilities directly into Burp Suite Professional for the first time. The new feature allows penetration testers to delegate specific investigative tasks to AI agents wh",
+    "created_at": "2026-07-28T08:31:10.053478+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157452",
+    "title": "Microsoft Teams Vishing Attack Uses Quick Assist to Deploy GoGRPC Backdoor",
+    "link": "https://cybersecuritynews.com/microsoft-teams-vishing-attack-gogrpc-backdoor/",
+    "published": "Tue, 28 Jul 2026 07:13:21 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new Microsoft Teams vishing campaign is using fake IT support calls to gain remote access to corporate systems. The attackers then deploy GoGRPC, a Go-based backdoor that can run commands, collect system details, and maintain access to compromised ",
+    "created_at": "2026-07-28T08:31:11.748638+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157449",
+    "title": "Multiple FFmpeg Vulnerabilities Allow Attackers to Corrupt Memory Via Malicious Video File",
+    "link": "https://cybersecuritynews.com/multiple-ffmpeg-vulnerabilities/",
+    "published": "Tue, 28 Jul 2026 07:23:40 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Multiple high-severity vulnerabilities have been identified in FFmpeg, the widely used open-source multimedia framework. These flaws impact media parsing, decoding, filtering, and encoding components and can be triggered when an application processes",
+    "created_at": "2026-07-28T08:31:13.482105+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157456",
+    "title": "Five Progress LoadMaster Flaws Let Attackers Execute Commands and Gain Root Access",
+    "link": "https://cybersecuritynews.com/five-progress-loadmaster-vulnerabilities/",
+    "published": "Tue, 28 Jul 2026 07:42:57 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Progress has addressed five serious vulnerabilities affecting Kemp LoadMaster, ECS Connection Manager, and Connection Manager for ObjectScale appliances. These vulnerabilities, tracked as CVE-2026-59686 through CVE-2026-59690, impact several older pr",
+    "created_at": "2026-07-28T08:31:15.201058+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157461",
+    "title": "Hackers Exploiting Arista VeloCloud Orchestrator 0-Day Vulnerability in the Wild",
+    "link": "https://cybersecuritynews.com/arista-velocloud-orchestrator-0-day/",
+    "published": "Tue, 28 Jul 2026 08:10:03 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Arista Networks has issued a security advisory for CVE-2026-16812, a critical command injection vulnerability affecting on-premises VeloCloud Orchestrator deployments. The company has confirmed that this vulnerability is actively being exploited in t",
+    "created_at": "2026-07-28T08:31:16.405564+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157465",
+    "title": "Dysphoria Botnet Infects 200,000 IoT Devices and Hides C2 Behind Blockchain Domains",
+    "link": "https://cybersecuritynews.com/dysphoria-botnet-infects-iot-devices/",
+    "published": "Tue, 28 Jul 2026 08:17:37 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Dysphoria has emerged as a fast-moving IoT botnet that has infected an estimated 200,000 devices worldwide. The malware targets routers, cameras, gateways, and other embedded Linux systems, turning poorly protected equipment into resources for cyberc",
+    "created_at": "2026-07-28T08:31:16.947676+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157472",
+    "title": "Scammers Pose as ShinyHunters to Blackmail Data-Breach Victims With Fake Webcam Videos",
+    "link": "https://cybersecuritynews.com/scammers-pose-as-shinyhunters/",
+    "published": "Tue, 28 Jul 2026 08:30:29 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Victims of recent data breaches are receiving alarming emails that claim hackers recorded them through their webcams. The messages borrow the ShinyHunters name and cite a recipient’s real email address, turning a familiar sextortion script into a mor",
+    "created_at": "2026-07-28T08:31:18.652679+00:00"
   }
 ]
