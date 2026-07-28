@@ -3135,5 +3135,14 @@
     "source": "BleepingComputer",
     "summary": "Healthcare billing company Medical Computer Business Services (MCBS) has disclosed that a 2025 network breach exposed the sensitive information of more than 1.2 million people. [...]",
     "created_at": "2026-07-28T09:31:09.957475+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157484",
+    "title": "New Tengu Mirai Botnet Reboots Your IoT Device When You Try to Kill It",
+    "link": "https://cybersecuritynews.com/new-tengu-mirai-botnet/",
+    "published": "Tue, 28 Jul 2026 09:37:11 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Tengu, a newly observed Mirai-based botnet, is making infected IoT devices far harder to clean. It targets internet-facing embedded Linux systems, particularly devices that leave Telnet or other remote administration services exposed. Once installed,",
+    "created_at": "2026-07-28T10:01:11.837446+00:00"
   }
 ]
