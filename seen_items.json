@@ -3009,5 +3009,14 @@
     "source": "CybersecurityNews",
     "summary": "CISA has added the actively exploited Fortinet FortiOS vulnerability CVE-2025-68686 to its Known Exploited Vulnerabilities (KEV) catalog after confirming evidence of active attacks. The vulnerability affects Fortinet FortiOS, the operating system use",
     "created_at": "2026-07-28T06:01:08.481542+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
+    "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Hit 95.95% at Half the Cost",
+    "link": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
+    "published": "Tue, 28 Jul 2026 11:37:22 +0530",
+    "source": "The Hacker News",
+    "summary": "Microsoft has launched its first cybersecurity-specific model inside MDASH, its multi-model vulnerability identification and remediation harness.\n\nThe company says MDASH, using MAI-Cyber-1-Flash and GPT-5.4, scored 95.95% on CyberGym. It also claims ",
+    "created_at": "2026-07-28T06:30:56.686524+00:00"
   }
 ]
