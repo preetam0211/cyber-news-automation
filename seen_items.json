@@ -3360,5 +3360,14 @@
     "source": "BleepingComputer",
     "summary": "The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or other major disruptions. [...]",
     "created_at": "2026-07-28T19:01:14.253429+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
+    "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
+    "link": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
+    "published": "Wed, 29 Jul 2026 00:29:07 +0530",
+    "source": "The Hacker News",
+    "summary": "Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128.\n\nThe HAWK attack exploits a previously unused symmetry in the lattice behind th",
+    "created_at": "2026-07-28T19:31:18.703670+00:00"
   }
 ]
