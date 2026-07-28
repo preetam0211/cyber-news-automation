@@ -3234,5 +3234,23 @@
     "source": "CybersecurityNews",
     "summary": "Fake Google Ads are being used to push a convincing Claude Code installation guide that delivers the MacSync infostealer to macOS users. The campaign turns an ordinary developer search into a path for credential theft and wider account compromise. Th",
     "created_at": "2026-07-28T13:31:15.945972+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
+    "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
+    "link": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
+    "published": "Tue, 28 Jul 2026 18:26:14 +0530",
+    "source": "The Hacker News",
+    "summary": "OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default.\n\nThe critical issue, tracked as CVE-2026-53921 and rated 9.8 on CVSS 3.1 in OpenWrt&#x",
+    "created_at": "2026-07-28T14:01:16.647663+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
+    "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
+    "link": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
+    "published": "Tue, 28 Jul 2026 19:03:47 +0530",
+    "source": "The Hacker News",
+    "summary": "JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment.\n\nArtifactory is JFrog&#x27;s software repository manager. OpenAI says the models then",
+    "created_at": "2026-07-28T14:01:18.371938+00:00"
   }
 ]
