@@ -3090,5 +3090,23 @@
     "source": "CybersecurityNews",
     "summary": "Victims of recent data breaches are receiving alarming emails that claim hackers recorded them through their webcams. The messages borrow the ShinyHunters name and cite a recipient’s real email address, turning a familiar sextortion script into a mor",
     "created_at": "2026-07-28T08:31:18.652679+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157470",
+    "title": "LegacyHive Exploitation Chain Bypasses Windows Security Even With July 2026 Patches Installed",
+    "link": "https://cybersecuritynews.com/legacyhive-exploitation-chain/",
+    "published": "Tue, 28 Jul 2026 08:31:48 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly disclosed exploit dubbed LegacyHive is raising alarms across the cybersecurity community after researchers confirmed it executes successfully on fully patched Windows systems running the July 2026 Patch Tuesday updates. Unlike conventional ex",
+    "created_at": "2026-07-28T09:01:15.046781+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157442",
+    "title": "libssh2 Vulnerabilities Allows a Malicious SSH Server to Corrupt Client Memory",
+    "link": "https://cybersecuritynews.com/libssh2-vulnerabilities/",
+    "published": "Tue, 28 Jul 2026 08:41:12 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A set of high-severity vulnerabilities in libssh2 could expose SSH and SFTP client applications to memory corruption, crashes, and potential code execution when connecting to a malicious server. libssh2 is a widely used C library that provides suppor",
+    "created_at": "2026-07-28T09:01:16.890772+00:00"
   }
 ]
