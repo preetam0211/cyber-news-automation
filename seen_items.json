@@ -2982,5 +2982,14 @@
     "source": "CybersecurityNews",
     "summary": "Europol is enhancing its response to “The Com,” a dangerous online ecosystem that allegedly recruits and manipulates minors into cyberattacks, extortion schemes, sexual exploitation, and violent offenses. This initiative, called Project COMPASS, brin",
     "created_at": "2026-07-28T04:31:11.467123+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=155769",
+    "title": "How DCSync Attack Helps Hackers Steal Password Hashes Silently from Active Directory",
+    "link": "https://cybersecuritynews.com/dcsync-attack-active-directory-attack/",
+    "published": "Tue, 28 Jul 2026 04:48:19 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Active Directory is the beating heart of identity in most enterprises, and its single most valuable secret is the password hash of every user, service, and machine account. A DCSync attack lets an adversary walk out with those hashes without ever log",
+    "created_at": "2026-07-28T05:01:10.944542+00:00"
   }
 ]
