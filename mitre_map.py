@@ -1,6 +1,6 @@
 import re
 
-# Dictionary mapping technique ID and name to its parent Tactic and case-insensitive regex pattern
+# MITRE ATT&CK Patterns (Standard Enterprise threats)
 MITRE_ATTACK_PATTERNS = {
     "T1566 (Phishing)": {
         "tactic": "Initial Access",
@@ -76,14 +76,55 @@ MITRE_ATTACK_PATTERNS = {
     }
 }
 
+# MITRE ATLAS Patterns (AI / Machine Learning specific threats)
+MITRE_ATLAS_PATTERNS = {
+    "AML.T0051 (LLM Jailbreak)": {
+        "tactic": "Impact",
+        "pattern": r"\b(jailbreak|jailbreaking|jailbroken)\b"
+    },
+    "AML.T0054 (LLM Prompt Injection)": {
+        "tactic": "Initial Access",
+        "pattern": r"\b(prompt injection|indirect prompt injection|malicious prompt)\b"
+    },
+    "AML.T0040 (ML Model Poisoning)": {
+        "tactic": "ML Attack Staging",
+        "pattern": r"\b(poisoning|data poisoning|poisoned dataset|poisoned training|model poisoning)\b"
+    },
+    "AML.T0018 (Adversarial Input Evasion)": {
+        "tactic": "Defense Evasion",
+        "pattern": r"\b(evasion|adversarial perturbation|adversarial input|evading model)\b"
+    },
+    "AML.T0024 (Exfiltration)": {
+        "tactic": "Exfiltration",
+        "pattern": r"\b(exfiltrate|exfiltration|model leakage|leak weights|weight theft|leak data)\b"
+    },
+    "AML.T0055 (Model Serialization Attack)": {
+        "tactic": "Execution",
+        "pattern": r"\b(model serialization|pickle exploit|safetensors exploit|malicious model|compromised model)\b"
+    }
+}
+
 def map_mitre_attack(title, summary):
-    """Scan title and summary and return unique matching MITRE ATT&CK mappings in '[Tactic] Technique' format."""
-    matches = []
+    """Scan title and summary and return the framework type and unique matching MITRE mappings."""
+    # Exclusion filter: Skip mapping if title contains Weekly, Newsletter, Bulletin, Recap, Research, Researcher, Researchers
+    title_lower = title.lower()
+    exclusions = ["weekly", "newsletter", "bulletin", "recap", "research", "researcher", "researchers"]
+    if any(ex in title_lower for ex in exclusions):
+        return "MITRE ATT&CK", []
+        
     combined_text = f"{title} {summary}".lower()
     
-    for technique, info in MITRE_ATTACK_PATTERNS.items():
+    # Determine if it is an AI use case (requires MITRE ATLAS mapping)
+    ai_keywords = r"\b(ai|llm|llms|chatgpt|copilot|prompt\s+injection|jailbreak|jailbreaking|generative\s+ai|genai|machine\s+learning|artificial\s+intelligence|adversarial\s+machine\s+learning)\b"
+    is_ai = bool(re.search(ai_keywords, combined_text))
+    
+    framework = "MITRE ATLAS" if is_ai else "MITRE ATT&CK"
+    patterns = MITRE_ATLAS_PATTERNS if is_ai else MITRE_ATTACK_PATTERNS
+    
+    matches = []
+    for technique, info in patterns.items():
         if re.search(info["pattern"], combined_text):
             formatted_mapping = f"[{info['tactic']}] {technique}"
             matches.append(formatted_mapping)
             
-    return matches
+    return framework, matches

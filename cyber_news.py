@@ -98,11 +98,11 @@ def format_telegram_message(entry, source):
     if len(summary) > max_summary_length:
         summary = summary[:max_summary_length] + "..."
 
-    # Map to MITRE ATT&CK techniques based on title and summary
-    mitre_techniques = map_mitre_attack(title, summary)
+    # Map to MITRE based on title and summary (returns framework type and matches list)
+    mitre_framework, mitre_techniques = map_mitre_attack(title, summary)
     mitre_line = ""
     if mitre_techniques:
-        mitre_line = f"<b>MITRE ATT&CK:</b> " + " | ".join(mitre_techniques) + "\n"
+        mitre_line = f"<b>{mitre_framework}:</b> " + " | ".join(mitre_techniques) + "\n"
 
     # Define emojis for different portals
     if "hacker" in source.lower():
