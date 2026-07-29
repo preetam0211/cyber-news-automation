@@ -3450,5 +3450,14 @@
     "source": "CybersecurityNews",
     "summary": "Bank of Baroda has confirmed a cybersecurity incident in which attackers gained unauthorized access to an employee’s email account, exposing internal communications and potentially sensitive information, raising concerns about phishing attacks, accou",
     "created_at": "2026-07-29T07:31:04.706909+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
+    "title": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates",
+    "link": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
+    "published": "Wed, 29 Jul 2026 12:37:23 +0530",
+    "source": "The Hacker News",
+    "summary": "Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independent researcher NetAskari traced matching control panels and certificates to 170 internet servers.\n\nTh",
+    "created_at": "2026-07-29T08:00:59.350380+00:00"
   }
 ]
