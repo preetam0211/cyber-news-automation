@@ -3702,5 +3702,32 @@
     "source": "CybersecurityNews",
     "summary": "Las Vegas, USA, July 29th, 2026, CyberNewswire Catches rogue AI agents – and stops them in live production before they cause damage Sweet Security, the proactive runtime enforcement company for cloud and AI, today announced its further expansion into",
     "created_at": "2026-07-29T14:31:24.512628+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html",
+    "title": "Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments",
+    "link": "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html",
+    "published": "Wed, 29 Jul 2026 19:12:57 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international firms for more than nine years.\n\nAccording to Russian",
+    "created_at": "2026-07-29T15:01:09.043446+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
+    "title": "Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline",
+    "link": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
+    "published": "Wed, 29 Jul 2026 19:18:36 +0530",
+    "source": "The Hacker News",
+    "summary": "A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27, triggering a statewide cybersecurity response.\n\nBraham, Plymouth, South St. Paul and Maple Plain have publicly described a ",
+    "created_at": "2026-07-29T15:01:10.812751+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
+    "title": "Hackers target over 30 Minnesota water utilities in coordinated OT attack",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
+    "published": "Wed, 29 Jul 2026 10:55:57 -0400",
+    "source": "BleepingComputer",
+    "summary": "The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in &quot;a coordinated cyberattack.&quot; [...]",
+    "created_at": "2026-07-29T15:01:12.554900+00:00"
   }
 ]
