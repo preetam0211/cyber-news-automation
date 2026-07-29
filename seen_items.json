@@ -3504,5 +3504,32 @@
     "source": "CybersecurityNews",
     "summary": "Artificial intelligence models have now demonstrated how quickly a security test can become a real infrastructure risk. In an isolated evaluation, OpenAI systems found and chained previously unknown flaws in self-hosted JFrog Artifactory, gaining int",
     "created_at": "2026-07-29T09:31:11.656399+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157673",
+    "title": "Check Point SmartConsole 0-Day Exploited to Gain Full Administrator Access – PoC Released",
+    "link": "https://cybersecuritynews.com/check-point-zero-day-poc-released/",
+    "published": "Wed, 29 Jul 2026 09:31:12 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical authentication bypass in SmartConsole that was actively exploited as a zero-day before patches were available. Tracked as CVE-2026-16232, the flaw affects Security Management Server and Multi-Domain Security Management Server (MDS) and can",
+    "created_at": "2026-07-29T10:01:12.600471+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157671",
+    "title": "Android Malware Scanners Are Flagging Legitimate Apps and Missing Threats Without Context",
+    "link": "https://cybersecuritynews.com/android-malware-scanners-without-context/",
+    "published": "Wed, 29 Jul 2026 09:49:02 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Android malware scanners are increasingly misaligning with real-world risk by over-flagging legitimate, high-permission applications while quietly missing sophisticated threats that hide behind ordinary-looking code patterns. This growing detection g",
+    "created_at": "2026-07-29T10:01:13.273355+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157676",
+    "title": "WhatsApp Adds End-to-End Encryption for Voice and Video Calls",
+    "link": "https://cybersecuritynews.com/whatsapp-end-to-end-encryption-for-calls/",
+    "published": "Wed, 29 Jul 2026 09:53:24 +0000",
+    "source": "CybersecurityNews",
+    "summary": "WhatsApp has introduced a new set of calling features alongside expanded end-to-end encryption for voice and video communications, emphasizing its commitment to secure, cross-platform communication. This update now allows users to make encrypted call",
+    "created_at": "2026-07-29T10:01:15.033295+00:00"
   }
 ]
