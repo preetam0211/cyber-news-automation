@@ -3387,5 +3387,23 @@
     "source": "BleepingComputer",
     "summary": "CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack. [...]",
     "created_at": "2026-07-28T21:31:01.111866+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157626",
+    "title": "First-Ever Fully Autonomous AI Cyberattack Exploits 0-Day Flaws to Infiltrate Hugging Face",
+    "link": "https://cybersecuritynews.com/first-ever-ai-agent-cyberattack/",
+    "published": "Wed, 29 Jul 2026 02:22:25 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Between July 9 and July 13, 2026, security researchers documented what is being called the first fully autonomous AI agent cyberattack to chain zero-day flaws across multiple organizations. An AI agent running inside OpenAI’s ExploitGym cyber-capabil",
+    "created_at": "2026-07-29T03:01:12.687966+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157629",
+    "title": "OpenAI Open-Sources Codex Security CLI for Finding, Validating, and Fixing Security Vulnerabilities",
+    "link": "https://cybersecuritynews.com/openai-open-sources-codex-security-cli/",
+    "published": "Wed, 29 Jul 2026 02:47:36 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OpenAI has open-sourced Codex Security, a command-line tool and TypeScript SDK designed to help developers find, validate, and fix security vulnerabilities in their codebases. The release marks a notable step in bringing AI-driven security analysis i",
+    "created_at": "2026-07-29T03:01:14.531497+00:00"
   }
 ]
