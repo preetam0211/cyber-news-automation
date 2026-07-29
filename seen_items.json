@@ -3459,5 +3459,23 @@
     "source": "The Hacker News",
     "summary": "Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independent researcher NetAskari traced matching control panels and certificates to 170 internet servers.\n\nTh",
     "created_at": "2026-07-29T08:00:59.350380+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157653",
+    "title": "Critical Gitea Vulnerability Allows Attackers to Execute Malicious Code Remotely",
+    "link": "https://cybersecuritynews.com/gitea-rce-vulnerability/",
+    "published": "Wed, 29 Jul 2026 08:04:13 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical vulnerability in Gitea, identified as CVE-2026-60004, could enable attackers to execute arbitrary shell commands on vulnerable servers. This issue affects Gitea versions 1.17 through 1.27.0 and has been resolved in version 1.27.1. The flaw",
+    "created_at": "2026-07-29T08:31:03.663750+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157645",
+    "title": "WordPress Plugin Backdoor Sends Site and Administrator Details to Attacker C2",
+    "link": "https://cybersecuritynews.com/wordpress-plugin-backdoor/",
+    "published": "Wed, 29 Jul 2026 08:12:08 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical supply chain backdoor in the Advanced Responsive Video Embedder WordPress plugin, which can give unauthenticated attackers complete administrator access. The malicious version, 10.8.7, affects a plugin with roughly 20,000 active installati",
+    "created_at": "2026-07-29T08:31:05.392274+00:00"
   }
 ]
