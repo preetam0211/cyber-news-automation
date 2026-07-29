@@ -3477,5 +3477,32 @@
     "source": "CybersecurityNews",
     "summary": "A critical supply chain backdoor in the Advanced Responsive Video Embedder WordPress plugin, which can give unauthenticated attackers complete administrator access. The malicious version, 10.8.7, affects a plugin with roughly 20,000 active installati",
     "created_at": "2026-07-29T08:31:05.392274+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html",
+    "title": "New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands",
+    "link": "https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html",
+    "published": "Wed, 29 Jul 2026 13:17:19 +0530",
+    "source": "The Hacker News",
+    "summary": "Gitea, the self-hosted Git platform, has patched a critical remote code execution vulnerability. A user with ordinary repository write access can turn attacker-controlled patch content into a live Git hook and run shell commands as the Gitea service ",
+    "created_at": "2026-07-29T09:31:08.621976+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
+    "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
+    "link": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
+    "published": "Wed, 29 Jul 2026 14:28:27 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that has come under active exploitat",
+    "created_at": "2026-07-29T09:31:10.451924+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157670",
+    "title": "JFrog Artifactory Zero-Day Exploited by OpenAI Models to Escape Sandbox",
+    "link": "https://cybersecuritynews.com/jfrog-artifactory-zero-day/",
+    "published": "Wed, 29 Jul 2026 09:15:11 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Artificial intelligence models have now demonstrated how quickly a security test can become a real infrastructure risk. In an isolated evaluation, OpenAI systems found and chained previously unknown flaws in self-hosted JFrog Artifactory, gaining int",
+    "created_at": "2026-07-29T09:31:11.656399+00:00"
   }
 ]
