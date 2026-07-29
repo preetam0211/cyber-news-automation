@@ -3405,5 +3405,14 @@
     "source": "CybersecurityNews",
     "summary": "OpenAI has open-sourced Codex Security, a command-line tool and TypeScript SDK designed to help developers find, validate, and fix security vulnerabilities in their codebases. The release marks a notable step in bringing AI-driven security analysis i",
     "created_at": "2026-07-29T03:01:14.531497+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
+    "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
+    "link": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
+    "published": "Wed, 29 Jul 2026 09:50:57 +0530",
+    "source": "The Hacker News",
+    "summary": "Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family.\n\nThe list of affected packages is as follows -\n\n\n  @joyfill/layouts@0.1.2",
+    "created_at": "2026-07-29T04:31:00.733961+00:00"
   }
 ]
