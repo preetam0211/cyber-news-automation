@@ -3576,5 +3576,32 @@
     "source": "BleepingComputer",
     "summary": "Buying a new computer in 2026 is a unique experience. Rather than deal with incredibly high tech prices, more shoppers are opting for high-quality refurbished tech. This ASUS Chromebook CM30 refurb is in near-mint condition with a grade &quot;A&quot;",
     "created_at": "2026-07-29T11:31:03.190045+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157547",
+    "title": "VulnGym Uses AI-Trained APT Attackers to Stress-Test Enterprise Patching Strategies",
+    "link": "https://cybersecuritynews.com/vulngym-uses-ai-apt-attackers/",
+    "published": "Wed, 29 Jul 2026 11:04:33 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new cybersecurity research tool called VulnGym utilizes reinforcement learning to simulate AI-trained advanced persistent threat (APT) attackers targeting enterprise patching programs. This platform enables security teams to assess whether their vu",
+    "created_at": "2026-07-29T12:01:17.620430+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157718",
+    "title": "Critical VMware Flaws Allow Attackers to Bypass Authentication and Gain Access to the System",
+    "link": "https://cybersecuritynews.com/vmware-flaws-allow-authentication-bypass/",
+    "published": "Wed, 29 Jul 2026 11:16:14 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Broadcom has released a critical security advisory, VMSA-2026-0006, addressing multiple high-impact vulnerabilities across core VMware virtualization platforms, including vCenter, ESX, Workstation, Fusion, Cloud Foundation, and several Telco Cloud of",
+    "created_at": "2026-07-29T12:01:19.508739+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157716",
+    "title": "AsyncAPI Malware Contains Modules to Steal GitHub, npm, Cloud and AI API Credentials",
+    "link": "https://cybersecuritynews.com/asyncapi-malware-contains-modules/",
+    "published": "Wed, 29 Jul 2026 11:27:46 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A dangerous supply chain attack struck the AsyncAPI project on the npm registry, putting developers and automated build systems at risk. Attackers republished five package versions in about ninety minutes on July 14, 2026. Each version carried the sa",
+    "created_at": "2026-07-29T12:01:21.409745+00:00"
   }
 ]
