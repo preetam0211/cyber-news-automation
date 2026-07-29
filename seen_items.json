@@ -3603,5 +3603,32 @@
     "source": "CybersecurityNews",
     "summary": "A dangerous supply chain attack struck the AsyncAPI project on the npm registry, putting developers and automated build systems at risk. Attackers republished five package versions in about ninety minutes on July 14, 2026. Each version carried the sa",
     "created_at": "2026-07-29T12:01:21.409745+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html",
+    "title": "73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack",
+    "link": "https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html",
+    "published": "Wed, 29 Jul 2026 16:43:10 +0530",
+    "source": "The Hacker News",
+    "summary": "Most organizations have incident response plans, security tools, and technical teams in place. Yet new research suggests that many still lack the coordination, visibility, and executive alignment needed to withstand a serious cyberattack.\n\nAccording ",
+    "created_at": "2026-07-29T12:31:00.858338+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html",
+    "title": "Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser",
+    "link": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html",
+    "published": "Wed, 29 Jul 2026 17:27:00 +0530",
+    "source": "The Hacker News",
+    "summary": "Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser.\n\nTracked as CVE-2026-10702, the bug provides arbitrary code execution inside the browser&#x27;s ren",
+    "created_at": "2026-07-29T12:31:02.661002+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
+    "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
+    "link": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
+    "published": "Wed, 29 Jul 2026 17:45:00 +0530",
+    "source": "The Hacker News",
+    "summary": "AI is compressing exploit timelines. The real question isn&#x27;t whether your vulnerability management playbook needs to change, it&#x27;s which part of it you&#x27;ve been getting wrong all along.\n\nThe conversation happening in security circles rig",
+    "created_at": "2026-07-29T12:31:04.438183+00:00"
   }
 ]
