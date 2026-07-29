@@ -3423,5 +3423,14 @@
     "source": "CybersecurityNews",
     "summary": "Attackers are beginning to hide malicious instructions inside ordinary emails, documents, calendar invites, and online advertisements. The goal is not always to fool a person. Instead, the hidden text is designed to manipulate the artificial intellig",
     "created_at": "2026-07-29T06:01:09.304318+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157647",
+    "title": "Malicious npm Packages Deploy Cross-Platform RAT Targeting Alibaba Developers",
+    "link": "https://cybersecuritynews.com/npm-packages-cross-platform-rat/",
+    "published": "Wed, 29 Jul 2026 06:13:56 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A cluster of malicious npm packages has been used to deliver a cross-platform remote access trojan against developers who use Alibaba-related tools. The campaign hides its harmful code across several packages, making each part look ordinary when view",
+    "created_at": "2026-07-29T06:31:07.455763+00:00"
   }
 ]
