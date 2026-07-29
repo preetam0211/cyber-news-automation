@@ -3432,5 +3432,14 @@
     "source": "CybersecurityNews",
     "summary": "A cluster of malicious npm packages has been used to deliver a cross-platform remote access trojan against developers who use Alibaba-related tools. The campaign hides its harmful code across several packages, making each part look ordinary when view",
     "created_at": "2026-07-29T06:31:07.455763+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
+    "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
+    "link": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
+    "published": "Wed, 29 Jul 2026 12:15:02 +0530",
+    "source": "The Hacker News",
+    "summary": "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face&#x27;s production environment, and also hacked multiple third-party accounts and services as part of th",
+    "created_at": "2026-07-29T07:01:02.650503+00:00"
   }
 ]
