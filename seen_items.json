@@ -3828,5 +3828,14 @@
     "source": "The Hacker News",
     "summary": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads.\n\nTracked as CVE-2026-66066 (CVSS score: 9.5), the flaw ",
     "created_at": "2026-07-29T18:31:09.524338+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
+    "title": "Anthropic confirms Claude is down worldwide",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
+    "published": "Wed, 29 Jul 2026 16:59:32 -0400",
+    "source": "BleepingComputer",
+    "summary": "[...]",
+    "created_at": "2026-07-29T21:01:04.250182+00:00"
   }
 ]
