@@ -3441,5 +3441,14 @@
     "source": "The Hacker News",
     "summary": "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face&#x27;s production environment, and also hacked multiple third-party accounts and services as part of th",
     "created_at": "2026-07-29T07:01:02.650503+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157640",
+    "title": "Bank of Baroda Data Breach – Hackers Gained Access Via Employee Email Account",
+    "link": "https://cybersecuritynews.com/bank-of-baroda-data-breach/",
+    "published": "Wed, 29 Jul 2026 06:32:52 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Bank of Baroda has confirmed a cybersecurity incident in which attackers gained unauthorized access to an employee’s email account, exposing internal communications and potentially sensitive information, raising concerns about phishing attacks, accou",
+    "created_at": "2026-07-29T07:31:04.706909+00:00"
   }
 ]
