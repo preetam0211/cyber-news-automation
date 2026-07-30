@@ -4161,5 +4161,23 @@
     "source": "CybersecurityNews",
     "summary": "A recently disclosed vulnerability in Home Assistant has unveiled how improper handling of FFmpeg inputs can be exploited to steal sensitive files and ultimately enable root-level command execution on affected systems. This issue, discovered by secur",
     "created_at": "2026-07-30T16:31:12.195593+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157924",
+    "title": "OpenMatter Network Calls on Enterprise Leaders to Rethink AI Security Before the Next Rogue AI Crisis",
+    "link": "https://cybersecuritynews.com/openmatter-network-ai-security-rethink/",
+    "published": "Thu, 30 Jul 2026 16:44:21 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Melbourne, Florida, July 30th, 2026, CyberNewswire The growing number of high-profile AI security incidents making headlines around the world are not simply cybersecurity failures. They are architectural failures, according to OpenMatter Network Co-F",
+    "created_at": "2026-07-30T17:01:05.635741+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/",
+    "title": "ShinyHunters claims Brinks Home breach, threatens to leak stolen data",
+    "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/",
+    "published": "Thu, 30 Jul 2026 12:46:15 -0400",
+    "source": "BleepingComputer",
+    "summary": "Residential security company Brinks Home has disclosed that hackers breached some of its systems and are threatening to leak allegedly stolen data. [...]",
+    "created_at": "2026-07-30T17:01:07.458048+00:00"
   }
 ]
