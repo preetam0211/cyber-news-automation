@@ -4215,5 +4215,14 @@
     "source": "BleepingComputer",
     "summary": "Amazon linked multiple high-profile open-source software supply chain attacks targeting the Node Package Manager (npm) ecosystem to North Korean hackers. [...]",
     "created_at": "2026-07-30T18:31:02.824280+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html",
+    "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
+    "link": "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html",
+    "published": "Thu, 30 Jul 2026 23:48:24 +0530",
+    "source": "The Hacker News",
+    "summary": "Threat actors with ties to North Korea have been attributed to a sophisticated macOS malvertising campaign that involves redirecting users to fake web pages displaying a full-screen non-existent update sequence to deliver malware as part of a new ite",
+    "created_at": "2026-07-30T19:31:03.968127+00:00"
   }
 ]
