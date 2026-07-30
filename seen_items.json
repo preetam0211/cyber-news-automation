@@ -4134,5 +4134,32 @@
     "source": "BleepingComputer",
     "summary": "Threat actors are impersonating IT support staff in Microsoft Teams calls to gain remote access to corporate devices and deploy Chaos ransomware in attacks targeting North American organizations. [...]",
     "created_at": "2026-07-30T16:01:09.910578+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
+    "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
+    "link": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
+    "published": "Thu, 30 Jul 2026 20:55:57 +0530",
+    "source": "The Hacker News",
+    "summary": "A lot of security still comes down to trusting the wrong screen.\n\nThis week, that screen might be a login page, an install guide, a recruiter call, or a familiar service behaving slightly wrong. Behind it: reused credentials, exposed systems, quiet l",
+    "created_at": "2026-07-30T16:31:08.696593+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157908",
+    "title": "Planning Your AI Security – How will You Manage All Your Resources?",
+    "link": "https://cybersecuritynews.com/planning-your-ai-security-how-will-you-manage-all-your-resources/",
+    "published": "Thu, 30 Jul 2026 15:32:19 +0000",
+    "source": "CybersecurityNews",
+    "summary": "AI has a role to play in Security Operations Centre (SOC) environments. According to EY, the number of senior security leaders dedicating at least a quarter of their cybersecurity budget to AI solutions for cybersecurity is expected to rise in the ne",
+    "created_at": "2026-07-30T16:31:10.451698+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157871",
+    "title": "Home Assistant FFmpeg Vulnerability Enables File Theft and Root Command Execution",
+    "link": "https://cybersecuritynews.com/home-assistant-ffmpeg-vulnerability/",
+    "published": "Thu, 30 Jul 2026 16:02:31 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A recently disclosed vulnerability in Home Assistant has unveiled how improper handling of FFmpeg inputs can be exploited to steal sensitive files and ultimately enable root-level command execution on affected systems. This issue, discovered by secur",
+    "created_at": "2026-07-30T16:31:12.195593+00:00"
   }
 ]
