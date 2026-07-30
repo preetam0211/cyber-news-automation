@@ -3981,5 +3981,32 @@
     "source": "CybersecurityNews",
     "summary": "Anthropic’s Claude AI platform suffered a worldwide outage on July 29, 2026, causing failed prompts, slow responses, interrupted conversations, and “Request Failed With 529 Overloaded” errors across multiple models. The outage affected both Claude’s ",
     "created_at": "2026-07-30T08:31:14.874989+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157847",
+    "title": "A Two-Minute Microsoft Teams Call Could End With Your Network Encrypted With Ransomware",
+    "link": "https://cybersecuritynews.com/a-two-minute-microsoft-teams-call/",
+    "published": "Thu, 30 Jul 2026 08:44:29 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A short Microsoft Teams call can now become the first step in a ransomware attack. Attackers posing as IT support staff are persuading employees to grant remote access, then using that foothold to spread through networks and deploy Chaos ransomware. ",
+    "created_at": "2026-07-30T09:01:09.610664+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157843",
+    "title": "GitLab Fixes 13 Security Flaws That Can Leak Data, Alter Pipelines, and Crash Servers",
+    "link": "https://cybersecuritynews.com/gitlab-fixes-13-security-flaws/",
+    "published": "Thu, 30 Jul 2026 08:53:20 +0000",
+    "source": "CybersecurityNews",
+    "summary": "GitLab has released critical security updates to address 13 vulnerabilities that could potentially expose sensitive data, manipulate CI/CD pipelines, and disrupt server availability across Community Edition (CE) and Enterprise Edition (EE) deployment",
+    "created_at": "2026-07-30T09:01:11.484119+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157851",
+    "title": "Linux Cryptomining Campaign Weaponizes PAM to Hide XMRig Botnet Activity",
+    "link": "https://cybersecuritynews.com/linux-cryptomining-campaign/",
+    "published": "Thu, 30 Jul 2026 08:57:50 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new Linux cryptomining campaign has surfaced using a rare trick to stay hidden inside compromised networks. Instead of behaving like typical malware, the operators turned a trusted Linux security feature into a tool for covering their tracks. This ",
+    "created_at": "2026-07-30T09:01:13.202284+00:00"
   }
 ]
