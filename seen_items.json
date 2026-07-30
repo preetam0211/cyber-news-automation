@@ -3954,5 +3954,32 @@
     "source": "The Hacker News",
     "summary": "The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (OWA), to target U.S. and European government entiti",
     "created_at": "2026-07-30T08:01:08.719395+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157833",
+    "title": "Node.js Fixes 11 Security Flaws That Can Crash Servers and Break Filesystem Restrictions",
+    "link": "https://cybersecuritynews.com/node-js-fixes-11-security-flaws/",
+    "published": "Thu, 30 Jul 2026 07:43:31 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The Node.js project has released important security updates addressing 11 vulnerabilities across its active branches: 22.x, 24.x, and 26.x. The updates are now available as Node.js versions v22.23.2, v24.18.1, and v26.5.1. The July 2026 security rele",
+    "created_at": "2026-07-30T08:31:11.034361+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157834",
+    "title": "Inside the Cybercrime Platform That Turns Helpdesk Calls Into Enterprise Account Takeovers",
+    "link": "https://cybersecuritynews.com/cybercrime-platform-turns-helpdesk-calls/",
+    "published": "Thu, 30 Jul 2026 07:56:32 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Voice phishing is no longer limited to a convincing phone call and a fake sign-in page. A newly examined criminal platform called Work Panel brings target research, caller management, phishing-site creation, and stolen-credential handling into one we",
+    "created_at": "2026-07-30T08:31:12.946770+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157823",
+    "title": "Claude Worldwide Outage Disrupts Users With “Request Failed With 529 Overloaded” Message",
+    "link": "https://cybersecuritynews.com/claude-worldwide-outage-disrupts-users/",
+    "published": "Thu, 30 Jul 2026 08:17:24 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Anthropic’s Claude AI platform suffered a worldwide outage on July 29, 2026, causing failed prompts, slow responses, interrupted conversations, and “Request Failed With 529 Overloaded” errors across multiple models. The outage affected both Claude’s ",
+    "created_at": "2026-07-30T08:31:14.874989+00:00"
   }
 ]
