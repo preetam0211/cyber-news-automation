@@ -4053,5 +4053,14 @@
     "source": "The Hacker News",
     "summary": "Hidden instructions in a Word document can make Microsoft 365 Copilot rewrite figures in a report, then copy the same instructions into the finished file. Håkon Måløy disclosed the technique on July 28, 144 days after reporting it to Microsoft.\n\nIn h",
     "created_at": "2026-07-30T12:31:00.877546+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/",
+    "title": "After the Break-In: What Attackers Do Once They're Already Inside",
+    "link": "https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/",
+    "published": "Thu, 30 Jul 2026 10:01:11 -0400",
+    "source": "BleepingComputer",
+    "summary": "Attackers rarely stop after gaining initial access. Huntress analyzes a real-world intrusion to show how threat actors establish persistence, disable defenses, and reshape compromised systems, and why defenders must investigate the original entry poi",
+    "created_at": "2026-07-30T14:31:02.065988+00:00"
   }
 ]
