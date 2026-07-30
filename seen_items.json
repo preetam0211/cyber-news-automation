@@ -3855,5 +3855,14 @@
     "source": "BleepingComputer",
     "summary": "The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor called OWAReaper. [...]",
     "created_at": "2026-07-30T00:01:04.947144+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157794",
+    "title": "Critical Rails Flaw Lets Attackers Read Arbitrary Files and Execute Malicious Code Remotely",
+    "link": "https://cybersecuritynews.com/critical-rails-vulnerability/",
+    "published": "Thu, 30 Jul 2026 03:40:30 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A severe security vulnerability in Ruby on Rails Active Storage tracked as CVE-2026-66066 can let unauthenticated attackers read sensitive files from a server and potentially escalate to remote code execution. The issue affects applications that use ",
+    "created_at": "2026-07-30T04:01:06.153532+00:00"
   }
 ]
