@@ -4035,5 +4035,23 @@
     "source": "The Hacker News",
     "summary": "South Korean authorities and four security firms have disclosed a state-sponsored campaign that compromised trusted domestic websites. The attackers used those sites to exploit locally installed financial-security software and infect targeted visitor",
     "created_at": "2026-07-30T11:01:14.882059+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/the-network-has-become-control-plane.html",
+    "title": "The Network Has Become the Control Plane for AI Security",
+    "link": "https://thehackernews.com/2026/07/the-network-has-become-control-plane.html",
+    "published": "Thu, 30 Jul 2026 17:02:46 +0530",
+    "source": "The Hacker News",
+    "summary": "Network firewalls are the workhorses of modern cybersecurity. They are trusted to protect the network, blocking malicious traffic and preventing intrusions and breaches. And for decades, network security teams have built controls around a relatively ",
+    "created_at": "2026-07-30T12:30:59.668564+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html",
+    "title": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents",
+    "link": "https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html",
+    "published": "Thu, 30 Jul 2026 17:24:49 +0530",
+    "source": "The Hacker News",
+    "summary": "Hidden instructions in a Word document can make Microsoft 365 Copilot rewrite figures in a report, then copy the same instructions into the finished file. Håkon Måløy disclosed the technique on July 28, 144 days after reporting it to Microsoft.\n\nIn h",
+    "created_at": "2026-07-30T12:31:00.877546+00:00"
   }
 ]
