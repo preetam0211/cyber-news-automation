@@ -4197,5 +4197,14 @@
     "source": "CybersecurityNews",
     "summary": "CISA has issued a warning regarding a serious vulnerability in the Cisco Secure Firewall Management Center (FMC), which is currently being exploited in attacks. The flaw, identified as CVE-2026-20316, affects Cisco’s centralized management platform f",
     "created_at": "2026-07-30T17:31:09.260870+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/",
+    "title": "VMware fixes three critical flaws allowing auth bypass, VM escapes",
+    "link": "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/",
+    "published": "Thu, 30 Jul 2026 14:00:51 -0400",
+    "source": "BleepingComputer",
+    "summary": "Broadcom has released security updates to fix five vulnerabilities in VMware vCenter, ESX, Workstation, and Fusion, including three critical flaws that allow attackers to bypass authentication, execute arbitrary code, or escape from a virtual machine",
+    "created_at": "2026-07-30T18:01:03.788060+00:00"
   }
 ]
