@@ -3909,5 +3909,32 @@
     "source": "The Hacker News",
     "summary": "Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a lookalike npm domain and a wallet-draining script push",
     "created_at": "2026-07-30T07:01:04.048476+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157818",
+    "title": "North Korean Hackers Turn Trusted npm Packages Into a Gateway for Supply-Chain Attacks",
+    "link": "https://cybersecuritynews.com/north-korean-hackers-turn-trusted-npm-packages/",
+    "published": "Thu, 30 Jul 2026 06:11:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "North Korean-linked hackers are turning trusted npm packages into an entry point for widespread software supply-chain attacks. By compromising the accounts of legitimate package maintainers, the attackers can slip malicious updates into tools that de",
+    "created_at": "2026-07-30T07:31:02.708259+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157828",
+    "title": "Fake N26 Support Calls Deploy Copybara Android RAT to Control Banking Apps",
+    "link": "https://cybersecuritynews.com/fake-n26-support-calls-copybara-rat/",
+    "published": "Thu, 30 Jul 2026 07:08:57 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new fraud campaign is targeting Android banking users through convincing phone calls that impersonate N26 support staff. The attack begins as voice phishing, but it can end with criminals remotely controlling banking apps on a victim’s phone. Victi",
+    "created_at": "2026-07-30T07:31:04.432388+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157840",
+    "title": "Developer Claims Claude Opus 5 Wiped an Entire Production Database in Minutes",
+    "link": "https://cybersecuritynews.com/claude-opus-5-wiped-data/",
+    "published": "Thu, 30 Jul 2026 07:27:57 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A developer has reported that Anthropic’s Claude Opus 5, running in Ultracode mode, accidentally wiped an entire production database in roughly ten minutes while working on a personal web project. According to the Reddit post, the incident occurred a",
+    "created_at": "2026-07-30T07:31:06.229853+00:00"
   }
 ]
