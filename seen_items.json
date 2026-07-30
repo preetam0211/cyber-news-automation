@@ -3936,5 +3936,23 @@
     "source": "CybersecurityNews",
     "summary": "A developer has reported that Anthropic’s Claude Opus 5, running in Ultracode mode, accidentally wiped an entire production database in roughly ten minutes while working on a personal web project. According to the Reddit post, the incident occurred a",
     "created_at": "2026-07-30T07:31:06.229853+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html",
+    "title": "FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks",
+    "link": "https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html",
+    "published": "Thu, 30 Jul 2026 12:58:43 +0530",
+    "source": "The Hacker News",
+    "summary": "The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The move generally prevents new models from receiving the equipment authorization required for import, mark",
+    "created_at": "2026-07-30T08:01:06.798767+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html",
+    "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
+    "link": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html",
+    "published": "Thu, 30 Jul 2026 13:10:48 +0530",
+    "source": "The Hacker News",
+    "summary": "The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (OWA), to target U.S. and European government entiti",
+    "created_at": "2026-07-30T08:01:08.719395+00:00"
   }
 ]
