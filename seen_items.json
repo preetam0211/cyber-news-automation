@@ -4260,5 +4260,14 @@
     "source": "BleepingComputer",
     "summary": "One of Anthropic&#x27;s Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was one of three incidents affecting re",
     "created_at": "2026-07-31T01:31:13.008461+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157932",
+    "title": "Anthropic Confirms Claude Hacked 3 Organizations by Breaking Test Environment",
+    "link": "https://cybersecuritynews.com/claude-hacked-3-organizations/",
+    "published": "Fri, 31 Jul 2026 03:07:17 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Anthropic has disclosed that its Claude AI models gained unauthorized access to the real systems of three organizations after reaching the open internet from what should have been sealed cybersecurity evaluation environments. The company said the fin",
+    "created_at": "2026-07-31T03:31:09.694634+00:00"
   }
 ]
