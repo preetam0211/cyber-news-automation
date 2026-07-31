@@ -4476,5 +4476,14 @@
     "source": "The Hacker News",
     "summary": "Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by the same operators.\n\nResearchers named the operation Fuyao and a",
     "created_at": "2026-07-31T16:00:59.019635+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/",
+    "title": "CISA warns of cyberattacks disrupting U.S. water utilities",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/",
+    "published": "Fri, 31 Jul 2026 12:49:49 -0400",
+    "source": "BleepingComputer",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a significant increase in attacks targeting internet-exposed programmable logic controllers (PLCs) in the water and wastewater systems sector. [...]",
+    "created_at": "2026-07-31T17:02:16.850166+00:00"
   }
 ]
