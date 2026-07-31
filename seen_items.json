@@ -4287,5 +4287,50 @@
     "source": "CybersecurityNews",
     "summary": "By John Grancarich, EVP, Head of Defense &amp; Intelligence, Fortra The recent pause affecting the implementation of Cybersecurity Maturity Model Certification (CMMC) Phase II has understandably generated questions across the Defense Industrial Base ",
     "created_at": "2026-07-31T07:31:04.953517+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157942",
+    "title": "CISA Urges Water Utilities to Remove PLCs From the Public Internet Immediately",
+    "link": "https://cybersecuritynews.com/cisa-urges-water-utilities-to-remove-plcs/",
+    "published": "Fri, 31 Jul 2026 07:34:54 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued an urgent warning to water and wastewater organizations due to a rise in cyberattacks targeting internet-exposed programmable logic controllers (PLCs). PLCs are industrial devices",
+    "created_at": "2026-07-31T08:31:13.107230+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157949",
+    "title": "PHP Patches Three Flaws Enabling SQL Injection, Memory Corruption and Server Crashes",
+    "link": "https://cybersecuritynews.com/php-patches-three-flaws/",
+    "published": "Fri, 31 Jul 2026 07:43:52 +0000",
+    "source": "CybersecurityNews",
+    "summary": "PHP has addressed three security vulnerabilities in its latest maintenance releases, including high-severity flaws that can expose applications to SQL injection and out-of-bounds memory writes. These vulnerabilities affect optional PHP extensions com",
+    "created_at": "2026-07-31T08:31:15.023765+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157966",
+    "title": "The Gentlemen Ransomware Kills Nearly 180 Security Processes Before Encrypting Your Files",
+    "link": "https://cybersecuritynews.com/gentlemen-ransomware-kills-security-processes/",
+    "published": "Fri, 31 Jul 2026 07:59:32 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The Gentlemen ransomware operation is drawing attention for its aggressive effort to disable security software before locking files. Instead of relying only on fast encryption, the attackers attempt to remove the tools that could detect, block, or co",
+    "created_at": "2026-07-31T08:31:17.002795+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=53664",
+    "title": "Top 50 Best Penetration Testing Companies in 2026",
+    "link": "https://cybersecuritynews.com/penetration-testing-companies/",
+    "published": "Fri, 31 Jul 2026 08:04:33 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Penetration testing companies serve as vital cybersecurity allies, simulating real-world cyberattacks to expose vulnerabilities in systems, networks, and applications before malicious actors strike. Employing ethical hackers with advanced techniques,",
+    "created_at": "2026-07-31T08:31:19.101877+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157958",
+    "title": "Astaroth Malware Turns Your WhatsApp Account Into a Malware-Spreading Machine",
+    "link": "https://cybersecuritynews.com/astaroth-malware-turns-your-whatsapp-account/",
+    "published": "Fri, 31 Jul 2026 08:08:37 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Astaroth has added a new way to spread, turning a victim’s WhatsApp Web session into a delivery channel for the same malware. The banking trojan sends convincing messages and a malicious ZIP attachment to people in the user’s own contact list, exploi",
+    "created_at": "2026-07-31T08:31:21.034824+00:00"
   }
 ]
