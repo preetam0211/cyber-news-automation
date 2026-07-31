@@ -4458,5 +4458,14 @@
     "source": "CybersecurityNews",
     "summary": "JetBrains has announced a critical vulnerability in TeamCity On-Premises, identified as CVE-2026-63077. This vulnerability allows attackers to bypass authentication and execute arbitrary commands remotely. It affects all versions of TeamCity On-Premi",
     "created_at": "2026-07-31T14:31:22.137966+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/",
+    "title": "ESET tracks rise in malicious AI skills and adaptable malware",
+    "link": "https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/",
+    "published": "Fri, 31 Jul 2026 10:01:11 -0400",
+    "source": "BleepingComputer",
+    "summary": "Attackers are adapting established techniques to AI platforms, emerging technologies, and changing user behavior. ESET&#x27;s new threat report examines the rise of malicious AI skills, AI-assisted malware, ClickFix attacks, record quishing activity,",
+    "created_at": "2026-07-31T15:01:11.065165+00:00"
   }
 ]
