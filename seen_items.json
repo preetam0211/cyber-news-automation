@@ -4431,5 +4431,32 @@
     "source": "CybersecurityNews",
     "summary": "The U.S. State Department, FBI, and allied governments including Japan, Canada, Germany, Australia, the United Kingdom, and the Republic of Korea have issued a joint alert warning companies worldwide that North Korean information technology workers a",
     "created_at": "2026-07-31T14:01:13.728593+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html",
+    "title": "Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw",
+    "link": "https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html",
+    "published": "Fri, 31 Jul 2026 17:25:00 +0530",
+    "source": "The Hacker News",
+    "summary": "An academic study has disclosed a &quot;widespread class&quot; of security vulnerabilities impacting 4G and 5G core networks that, if successfully exploited, could trigger denial-of-service (DoS) attacks and even session hijacking, allowing an attack",
+    "created_at": "2026-07-31T14:31:19.169946+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html",
+    "title": "Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined",
+    "link": "https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html",
+    "published": "Fri, 31 Jul 2026 18:21:52 +0530",
+    "source": "The Hacker News",
+    "summary": "Google on Thursday announced that it fixed a whopping 1,072 security bugs in Chrome versions 149 and 150, surpassing the total number of flaws the company fixed across the prior 23 milestones combined.\n\nBoth versions were released last month. In its ",
+    "created_at": "2026-07-31T14:31:20.935591+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158002",
+    "title": "Critical JetBrains Flaw Allows Attackers to Execute Malicious Code Remotely – Update Now",
+    "link": "https://cybersecuritynews.com/jetbrains-vulnerability-execute-malicious-code/",
+    "published": "Fri, 31 Jul 2026 14:05:46 +0000",
+    "source": "CybersecurityNews",
+    "summary": "JetBrains has announced a critical vulnerability in TeamCity On-Premises, identified as CVE-2026-63077. This vulnerability allows attackers to bypass authentication and execute arbitrary commands remotely. It affects all versions of TeamCity On-Premi",
+    "created_at": "2026-07-31T14:31:22.137966+00:00"
   }
 ]
