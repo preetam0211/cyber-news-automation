@@ -4548,5 +4548,14 @@
     "source": "The Hacker News",
     "summary": "A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan, Uzbekistan, Kazakhstan, and the Syrian Arab Repu",
     "created_at": "2026-07-31T19:34:48.920709+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/",
+    "title": "Online ad firm Adform’s script compromised to steal cryptocurrency",
+    "link": "https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/",
+    "published": "Fri, 31 Jul 2026 17:09:25 -0400",
+    "source": "BleepingComputer",
+    "summary": "Online advertising firm Adform suffered a supply-chain attack that delivered cryptocurrency-stealing scripts to websites using its ad platform, replacing wallet addresses copied to visitors&#x27; clipboards with ones controlled by an attacker. [...]",
+    "created_at": "2026-07-31T21:32:52.263796+00:00"
   }
 ]
