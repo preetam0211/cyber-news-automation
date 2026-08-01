@@ -4620,5 +4620,32 @@
     "source": "The Hacker News",
     "summary": "Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses.\n\nAdform detected the incident on July 27, 2026, removed the malicious code, notif",
     "created_at": "2026-08-01T10:03:45.800491+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158102",
+    "title": "Hackers Turned a Trusted Advertising Platform Into a Crypto-Stealer Delivery Network",
+    "link": "https://cybersecuritynews.com/adform-advertising-platform-compromised/",
+    "published": "Sat, 01 Aug 2026 12:13:57 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Adform, a major advertising technology company serving roughly 14,000 businesses and holding nearly 30% of the demand-side platform market, has suffered a supply chain compromise that turned its trusted ad-serving infrastructure into a distribution c",
+    "created_at": "2026-08-01T13:03:01.009253+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158105",
+    "title": "Windows 11 Gets More Taskbar Control and AI Integration as Microsoft Details Quality Progress",
+    "link": "https://cybersecuritynews.com/windows-11-quality-initiative/",
+    "published": "Sat, 01 Aug 2026 12:30:38 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has released a detailed update on its Windows quality initiative, four months after committing in March to improve performance, reliability, and everyday user experiences across Windows 11. The company says early improvements are already re",
+    "created_at": "2026-08-01T13:03:02.741309+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158007",
+    "title": "Top 10 Best Cloud Firewall Solutions in 2026",
+    "link": "https://cybersecuritynews.com/best-cloud-firewall-solutions/",
+    "published": "Sat, 01 Aug 2026 13:00:34 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cloud workloads don’t sit behind your data-center firewall, and attackers know it. A cloud firewall inspects and controls traffic to, from, and between cloud workloads VPC-to-VPC, workload-to-internet, and cloud-to-on-prem where traditional appliance",
+    "created_at": "2026-08-01T13:03:04.521400+00:00"
   }
 ]
