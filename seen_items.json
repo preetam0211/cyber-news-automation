@@ -4575,5 +4575,14 @@
     "source": "BleepingComputer",
     "summary": "Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers. [...]",
     "created_at": "2026-07-31T22:32:43.767051+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158088",
+    "title": "HackerOne Mandates ID Verification for Bug Bounty Submissions",
+    "link": "https://cybersecuritynews.com/hackerone-mandates-id-verification/",
+    "published": "Sat, 01 Aug 2026 03:05:41 +0000",
+    "source": "CybersecurityNews",
+    "summary": "HackerOne has confirmed that all hackers must now complete identity verification before submitting reports to any bug bounty program (BBP) on its platform, a move the company says is necessary to meet regulatory requirements. The policy distinguishes",
+    "created_at": "2026-08-01T03:33:21.617636+00:00"
   }
 ]
