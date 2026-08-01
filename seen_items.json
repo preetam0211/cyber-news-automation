@@ -4647,5 +4647,32 @@
     "source": "CybersecurityNews",
     "summary": "Cloud workloads don’t sit behind your data-center firewall, and attackers know it. A cloud firewall inspects and controls traffic to, from, and between cloud workloads VPC-to-VPC, workload-to-internet, and cloud-to-on-prem where traditional appliance",
     "created_at": "2026-08-01T13:03:04.521400+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=11214",
+    "title": "Top 10 Best Web Application Firewall (WAF) in 2026",
+    "link": "https://cybersecuritynews.com/best-web-application-firewall-waf/",
+    "published": "Sat, 01 Aug 2026 13:39:23 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A web application firewall (WAF) filters malicious HTTP/S traffic SQL injection, cross-site scripting, credential stuffing, and API abuse — before it reaches your applications. Cloudflare is our top WAF pick for 2026 on the strength of protection-per",
+    "created_at": "2026-08-01T14:31:10.756949+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
+    "title": "Rails patches critical Active Storage flaw with RCE potential",
+    "link": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
+    "published": "Sat, 01 Aug 2026 10:20:30 -0400",
+    "source": "BleepingComputer",
+    "summary": "A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE). [...]",
+    "created_at": "2026-08-01T14:31:10.761915+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158060",
+    "title": "Top 10 Best DNS Security Solutions in 2026",
+    "link": "https://cybersecuritynews.com/best-dns-security-solutions/",
+    "published": "Sat, 01 Aug 2026 14:20:48 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Nearly every attack touches DNS the phishing click, the malware callback, the exfiltration tunnel which makes the DNS layer the cheapest place to break kill chains. Cisco Umbrella is our top pick for 2026 on the strength of Talos-fed intelligence and",
+    "created_at": "2026-08-01T14:31:10.773662+00:00"
   }
 ]
