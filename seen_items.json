@@ -4683,5 +4683,14 @@
     "source": "CybersecurityNews",
     "summary": "Brink’s Home, one of North America’s largest residential security providers, has confirmed that hackers breached its IT systems after the notorious ShinyHunters extortion group claimed responsibility for stealing nearly five million records tied to t",
     "created_at": "2026-08-01T17:02:57.757217+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
+    "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
+    "link": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
+    "published": "Sat, 01 Aug 2026 22:47:22 +0530",
+    "source": "The Hacker News",
+    "summary": "An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Coldcard, the Bitcoin-only hardware wallet made by Can",
+    "created_at": "2026-08-01T18:02:48.722448+00:00"
   }
 ]
