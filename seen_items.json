@@ -4728,5 +4728,14 @@
     "source": "CybersecurityNews",
     "summary": "CALIFORNIA, USA, August 2nd, 2026, CyberNewswire AccuKnox, a leading Zero Trust Security platform, today announced that SabPaisa, an RBI-authorised digital payments company, has selected its AI-powered cloud security platform to ensure robust securit",
     "created_at": "2026-08-02T19:01:30.044030+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
+    "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
+    "link": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
+    "published": "Sun, 02 Aug 2026 17:14:29 -0400",
+    "source": "BleepingComputer",
+    "summary": "A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator. [...]",
+    "created_at": "2026-08-02T21:31:02.289341+00:00"
   }
 ]
