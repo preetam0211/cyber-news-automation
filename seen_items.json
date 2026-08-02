@@ -4701,5 +4701,14 @@
     "source": "CybersecurityNews",
     "summary": "A significant data breach has hit SplitVPN, a Russian VPN provider formerly known as NotVPN, exposing the personal records of roughly 865,000 unique users. The incident, which occurred in July 2026, has raised fresh concerns about the reliability of ",
     "created_at": "2026-08-02T06:08:23.656869+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158124",
+    "title": "Weekly Cyber Security Newsletter– Claude Hacked 3 Companies, Cisco 0-Day, Word Copilot and VMware Flaw +20 Stories",
+    "link": "https://cybersecuritynews.com/cyber-security-newsletter-august/",
+    "published": "Sun, 02 Aug 2026 12:45:45 +0000",
+    "source": "CybersecurityNews",
+    "summary": "AI systems moved from experimental risk to confirmed attacker, a Cisco firewall zero-day was actively exploited in the wild, and a critical VMware authentication bypass put enterprise virtualization infrastructure at risk. Below is a roundup of the w",
+    "created_at": "2026-08-02T13:31:24.735015+00:00"
   }
 ]
