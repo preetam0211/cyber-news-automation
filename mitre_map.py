@@ -1,6 +1,13 @@
 import re
+import os
+import json
+import logging
+import requests
 
-# MITRE ATT&CK Patterns (Standard Enterprise threats)
+# Set up logging for this module
+logger = logging.getLogger(__name__)
+
+# MITRE ATT&CK Patterns (Standard Enterprise threats - fallback)
 MITRE_ATTACK_PATTERNS = {
     "T1566 (Phishing)": {
         "tactic": "Initial Access",
@@ -76,7 +83,7 @@ MITRE_ATTACK_PATTERNS = {
     }
 }
 
-# MITRE ATLAS Patterns (AI / Machine Learning specific threats)
+# MITRE ATLAS Patterns (AI / Machine Learning specific threats - fallback)
 MITRE_ATLAS_PATTERNS = {
     "AML.T0051 (LLM Jailbreak)": {
         "tactic": "Impact",
@@ -104,9 +111,66 @@ MITRE_ATLAS_PATTERNS = {
     }
 }
 
+def call_gemini_mitre_mapping(title, summary, api_key):
+    """Call Gemini API to semantically determine the MITRE ATT&CK or MITRE ATLAS framework and mapping."""
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent?key={api_key}"
+    headers = {"Content-Type": "application/json"}
+    
+    prompt = (
+        "You are a cybersecurity expert analyzing threat intelligence feeds.\n"
+        "Your task is to map this news article to relevant security frameworks.\n\n"
+        
+        "Rules:\n"
+        "1. If the article is a weekly news recap, newsletter, bulletin, or generic research paper/summary list (not a specific threat incident or CVE), return 'NONE' as the framework and an empty list of techniques.\n"
+        "2. If the article describes an AI, LLM, or Machine Learning vulnerability, exploit, or threat (e.g. jailbreaking, prompt injection, model poisoning), use the 'MITRE ATLAS' framework and map to relevant techniques (e.g., AML.T0054 (LLM Prompt Injection)).\n"
+        "3. Otherwise, use the 'MITRE ATT&CK' framework and map to standard enterprise techniques (e.g. T1566 (Phishing)).\n\n"
+        
+        "Article to Analyze:\n"
+        f"Title: {title}\n"
+        f"Summary: {summary}\n\n"
+        
+        "Format the techniques in the list exactly like this: '[Tactic Name] ID (Technique Name)'.\n"
+        "Return a JSON object in this format:\n"
+        '{\n  "framework": "MITRE ATT&CK" or "MITRE ATLAS" or "NONE",\n  "techniques": [" [Tactic] Technique_ID (Technique Name)", ...]\n}'
+    )
+    
+    payload = {
+        "contents": [
+            {
+                "parts": [
+                    {"text": prompt}
+                ]
+            }
+        ],
+        "generationConfig": {
+            "responseMimeType": "application/json"
+        }
+    }
+    
+    try:
+        response = requests.post(url, headers=headers, json=payload, timeout=15)
+        response.raise_for_status()
+        result = response.json()
+        text_content = result["candidates"][0]["content"]["parts"][0]["text"]
+        data = json.loads(text_content)
+        return data.get("framework", "MITRE ATT&CK"), data.get("techniques", [])
+    except Exception as e:
+        logger.warning(f"Failed to perform semantic MITRE mapping using Gemini: {e}. Falling back to regex keyword mapping.")
+        return None, None
+
 def map_mitre_attack(title, summary):
     """Scan title and summary and return the framework type and unique matching MITRE mappings."""
-    # Exclusion filter: Skip mapping if title contains Weekly, Newsletter, Bulletin, Recap, Research, Researcher, Researchers
+    # Check if Gemini API key is available for semantic threat mapping
+    gemini_api_key = os.getenv("GEMINI_API_KEY")
+    if gemini_api_key and gemini_api_key.strip():
+        framework, techniques = call_gemini_mitre_mapping(title, summary or "", gemini_api_key.strip())
+        if framework is not None and techniques is not None:
+            if framework == "NONE":
+                return "MITRE ATT&CK", []
+            logger.info(f"[GEMINI MITRE MAP] Mapped \"{title}\" to {framework} ({len(techniques)} matches)")
+            return framework, techniques
+
+    # Fallback: Regex Keyword Mapping
     title_lower = title.lower()
     exclusions = ["weekly", "newsletter", "bulletin", "recap", "research", "researcher", "researchers"]
     if any(ex in title_lower for ex in exclusions):
