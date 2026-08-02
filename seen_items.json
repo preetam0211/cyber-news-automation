@@ -4737,5 +4737,14 @@
     "source": "BleepingComputer",
     "summary": "A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator. [...]",
     "created_at": "2026-08-02T21:31:02.289341+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
+    "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
+    "published": "Sun, 02 Aug 2026 18:31:41 -0400",
+    "source": "BleepingComputer",
+    "summary": "OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science. [...]",
+    "created_at": "2026-08-02T23:04:34.664271+00:00"
   }
 ]
