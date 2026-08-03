@@ -4845,5 +4845,14 @@
     "source": "The Hacker News",
     "summary": "AI is moving incredibly fast, and every security leader is feeling the pressure to keep up.\n\nAI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize incidents, and automate repetit",
     "created_at": "2026-08-03T12:31:28.933207+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158176",
+    "title": "ModernStealer Threat Actor Linked to Government and Defense Data-Leak Claims",
+    "link": "https://cybersecuritynews.com/modernstealer-threat-actor/",
+    "published": "Mon, 03 Aug 2026 11:05:10 +0000",
+    "source": "CybersecurityNews",
+    "summary": "ModernStealer is the name behind underground posts claiming to offer military, government, nuclear, and aerospace material. The posts appeared on dark web forums and Telegram, making a single alias a concern for public-sector and defence teams. The a",
+    "created_at": "2026-08-03T13:31:36.627123+00:00"
   }
 ]
