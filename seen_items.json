@@ -4854,5 +4854,14 @@
     "source": "CybersecurityNews",
     "summary": "ModernStealer is the name behind underground posts claiming to offer military, government, nuclear, and aerospace material. The posts appeared on dark web forums and Telegram, making a single alias a concern for public-sector and defence teams. The a",
     "created_at": "2026-08-03T13:31:36.627123+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158187",
+    "title": "Android RAT Survives Reboots Using Watchdog Services and Boot Receivers",
+    "link": "https://cybersecuritynews.com/android-rat-survives-reboots/",
+    "published": "Mon, 03 Aug 2026 13:41:37 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Android users are facing a new remote-access threat that hides behind a fake emergency alert application. The malware, called Octagon, poses as Bahrain’s BH Alert service and leads victims through a convincing setup process designed to win dangerous ",
+    "created_at": "2026-08-03T14:01:40.651422+00:00"
   }
 ]
