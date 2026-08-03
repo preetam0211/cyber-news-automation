@@ -4872,5 +4872,14 @@
     "source": "The Hacker News",
     "summary": "This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more than intended.\n\nSome of it was c",
     "created_at": "2026-08-03T14:31:01.063782+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/",
+    "title": "Inside the Underground Business of BTMOB RAT",
+    "link": "https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/",
+    "published": "Mon, 03 Aug 2026 10:45:55 -0400",
+    "source": "BleepingComputer",
+    "summary": "Flare researchers analyzed thousands of underground posts to examine how the BTMOB Android malware operation evolved into a fragmented ecosystem of resellers, source-code vendors, custom versions, and competing sales channels. [...]",
+    "created_at": "2026-08-03T15:04:38.605606+00:00"
   }
 ]
