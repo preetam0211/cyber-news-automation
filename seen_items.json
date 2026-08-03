@@ -4800,5 +4800,23 @@
     "source": "CybersecurityNews",
     "summary": "XCSSET has returned with a way to target macOS developers. The latest version, v40, hides inside poisoned Xcode projects and can turn a local build into a supply-chain compromise. Once activated, it can spread through other projects, raising risk for",
     "created_at": "2026-08-03T08:31:41.809906+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
+    "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
+    "link": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
+    "published": "Mon, 03 Aug 2026 13:35:30 +0530",
+    "source": "The Hacker News",
+    "summary": "Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them.\n\nThe vendor&#x27;s July 31 security bulletin says nearly undetectabl",
+    "created_at": "2026-08-03T09:31:26.812205+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158173",
+    "title": "Internet-Facing SonicWall SMA Appliances Face Zero-Click Root Compromise",
+    "link": "https://cybersecuritynews.com/sonicwall-sma-face-zero-click/",
+    "published": "Mon, 03 Aug 2026 08:45:41 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Internet-facing SonicWall Secure Mobile Access, or SMA, appliances face a serious threat after attackers turned two flaws into a route to full VPN-gateway control. The campaign gives an outsider a way to move from a simple web request to root-level a",
+    "created_at": "2026-08-03T09:31:58.810557+00:00"
   }
 ]
