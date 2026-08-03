@@ -4980,5 +4980,14 @@
     "source": "The Hacker News",
     "summary": "Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software supply chain attack targeting Ch",
     "created_at": "2026-08-03T19:01:35.748667+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
+    "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
+    "link": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
+    "published": "Mon, 03 Aug 2026 15:25:10 -0400",
+    "source": "BleepingComputer",
+    "summary": "Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and steals sensitive information. [...]",
+    "created_at": "2026-08-03T19:31:19.402983+00:00"
   }
 ]
