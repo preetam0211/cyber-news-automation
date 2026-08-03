@@ -45,4 +45,9 @@ jobs:
           # Check if seen_items.json was created/updated
           git add seen_items.json
           git commit -m "chore: Update seen items database [skip ci]" || exit 0
-          git push
+          for i in {1..3}; do
+            git push && break || {
+              echo "Git push failed (possibly 503). Retrying in 5 seconds (Attempt $i/3)..."
+              sleep 5
+            }
+          done

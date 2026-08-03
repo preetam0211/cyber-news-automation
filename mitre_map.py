@@ -148,7 +148,7 @@ def call_gemini_mitre_mapping(title, summary, api_key):
     }
     
     try:
-        response = requests.post(url, headers=headers, json=payload, timeout=15)
+        response = requests.post(url, headers=headers, json=payload, timeout=25)
         response.raise_for_status()
         result = response.json()
         text_content = result["candidates"][0]["content"]["parts"][0]["text"]
