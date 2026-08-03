@@ -4746,5 +4746,23 @@
     "source": "BleepingComputer",
     "summary": "OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science. [...]",
     "created_at": "2026-08-02T23:04:34.664271+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158143",
+    "title": "Coldcard Hardware Wallet RNG Flaw Linked to $88.6 Million Bitcoin Theft",
+    "link": "https://cybersecuritynews.com/coldcard-hardware-wallet-rng-flaw-bitcoin-theft/",
+    "published": "Mon, 03 Aug 2026 06:09:25 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A firmware flaw in Coldcard hardware wallets has been linked to the theft of approximately $88.6 million in Bitcoin. Attackers exploited a compromised random number generator, allowing them to reconstruct victims’ private keys without ever accessing ",
+    "created_at": "2026-08-03T06:31:22.104113+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158149",
+    "title": "Critical N-Able N-Central Vulnerability Allows Hackers to Gain god-mode Access to the RMM Console",
+    "link": "https://cybersecuritynews.com/n-able-n-central-vulnerability/",
+    "published": "Mon, 03 Aug 2026 06:26:29 +0000",
+    "source": "CybersecurityNews",
+    "summary": "N-able has disclosed a critical security vulnerability in its N-central remote monitoring and management (RMM) platform, which could allow unauthenticated attackers to gain full administrative, or “god-mode,” access to the RMM console. This issue aff",
+    "created_at": "2026-08-03T06:31:37.317833+00:00"
   }
 ]
