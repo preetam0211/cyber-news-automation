@@ -4989,5 +4989,14 @@
     "source": "BleepingComputer",
     "summary": "Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and steals sensitive information. [...]",
     "created_at": "2026-08-03T19:31:19.402983+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
+    "title": "New DOUBLECUP ClickFix service hides malware in browser cache images",
+    "link": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
+    "published": "Mon, 03 Aug 2026 16:01:22 -0400",
+    "source": "BleepingComputer",
+    "summary": "A new Russian loader-as-a-service named DOUBLECUP uses ClickFix attacks to hide malicious code in PNG images cached by victims&#x27; browsers, ultimately delivering CountLoader to Windows and macOS devices and a new remote access trojan named DeviceM",
+    "created_at": "2026-08-03T20:31:16.363985+00:00"
   }
 ]
