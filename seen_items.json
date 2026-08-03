@@ -4791,5 +4791,14 @@
     "source": "CybersecurityNews",
     "summary": "Mac users searching for Claude installation help have been led into a dangerous trap. A malicious campaign used a paid search result and a fake guide on a legitimate Claude sharing page to persuade victims to paste a command into Terminal. That actio",
     "created_at": "2026-08-03T07:32:26.613682+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158164",
+    "title": "XCSSET v40 Abuses Chrome DevTools Protocol to Steal Cookies and Run Commands",
+    "link": "https://cybersecuritynews.com/xcsset-v40-abuses-chrome-devtools/",
+    "published": "Mon, 03 Aug 2026 08:19:33 +0000",
+    "source": "CybersecurityNews",
+    "summary": "XCSSET has returned with a way to target macOS developers. The latest version, v40, hides inside poisoned Xcode projects and can turn a local build into a supply-chain compromise. Once activated, it can spread through other projects, raising risk for",
+    "created_at": "2026-08-03T08:31:41.809906+00:00"
   }
 ]
