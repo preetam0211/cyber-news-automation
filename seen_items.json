@@ -4863,5 +4863,14 @@
     "source": "CybersecurityNews",
     "summary": "Android users are facing a new remote-access threat that hides behind a fake emergency alert application. The malware, called Octagon, poses as Bahrain’s BH Alert service and leads victims through a convincing setup process designed to win dangerous ",
     "created_at": "2026-08-03T14:01:40.651422+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
+    "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
+    "link": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
+    "published": "Mon, 03 Aug 2026 19:33:11 +0530",
+    "source": "The Hacker News",
+    "summary": "This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more than intended.\n\nSome of it was c",
+    "created_at": "2026-08-03T14:31:01.063782+00:00"
   }
 ]
