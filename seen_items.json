@@ -4881,5 +4881,14 @@
     "source": "BleepingComputer",
     "summary": "Flare researchers analyzed thousands of underground posts to examine how the BTMOB Android malware operation evolved into a fragmented ecosystem of resellers, source-code vendors, custom versions, and competing sales channels. [...]",
     "created_at": "2026-08-03T15:04:38.605606+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/",
+    "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff",
+    "link": "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/",
+    "published": "Mon, 03 Aug 2026 11:04:39 -0400",
+    "source": "BleepingComputer",
+    "summary": "A cyberattack on the U.K.&#x27;s Police National Legal Database (PNLD) has compromised contact data of more than 100,000 police officers and other criminal justice professionals. [...]",
+    "created_at": "2026-08-03T15:34:37.464108+00:00"
   }
 ]
