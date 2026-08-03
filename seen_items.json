@@ -4917,5 +4917,32 @@
     "source": "CybersecurityNews",
     "summary": "A set of high-severity vulnerabilities in Hugging Face’s diffusers library that allow a malicious model repository to silently execute arbitrary code on any machine that loads it. The flaws bypass trust_remote_code, the very safeguard designed to sto",
     "created_at": "2026-08-03T16:01:15.443428+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
+    "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
+    "link": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
+    "published": "Mon, 03 Aug 2026 21:45:13 +0530",
+    "source": "The Hacker News",
+    "summary": "The INC Ransomware operation has emerged as the &quot;dominant threat actor&quot; exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances.\n\nIn a report published over the weekend, Resecurity",
+    "created_at": "2026-08-03T17:01:25.781465+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
+    "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
+    "link": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
+    "published": "Mon, 03 Aug 2026 21:54:47 +0530",
+    "source": "The Hacker News",
+    "summary": "Malware running as an ordinary user on a Windows machine can sign into a victim&#x27;s passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim&#x27;s screen.\n\nUnit 42 detailed three attack paths against Chr",
+    "created_at": "2026-08-03T17:01:27.800480+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
+    "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
+    "published": "Mon, 03 Aug 2026 13:00:56 -0400",
+    "source": "BleepingComputer",
+    "summary": "N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises N-central servers. [...]",
+    "created_at": "2026-08-03T17:01:44.774349+00:00"
   }
 ]
