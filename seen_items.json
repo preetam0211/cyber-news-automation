@@ -4818,5 +4818,23 @@
     "source": "CybersecurityNews",
     "summary": "Internet-facing SonicWall Secure Mobile Access, or SMA, appliances face a serious threat after attackers turned two flaws into a route to full VPN-gateway control. The campaign gives an outsider a way to move from a simple web request to root-level a",
     "created_at": "2026-08-03T09:31:58.810557+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
+    "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web",
+    "link": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
+    "published": "Mon, 03 Aug 2026 14:43:56 +0530",
+    "source": "The Hacker News",
+    "summary": "The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web.\n\nThe data included names, organisations and work email addresses belonging to police offic",
+    "created_at": "2026-08-03T11:01:34.702112+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
+    "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
+    "link": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
+    "published": "Mon, 03 Aug 2026 16:19:06 +0530",
+    "source": "The Hacker News",
+    "summary": "An unknown Chinese-threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit.\n\nAttack surface management platform Censys said it identified the threat actor runn",
+    "created_at": "2026-08-03T11:01:38.180992+00:00"
   }
 ]
