@@ -4944,5 +4944,23 @@
     "source": "BleepingComputer",
     "summary": "N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises N-central servers. [...]",
     "created_at": "2026-08-03T17:01:44.774349+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158172",
+    "title": "Public PoC Released for Critical Rails Active Storage RCE Vulnerability",
+    "link": "https://cybersecuritynews.com/rails-active-storage-rce-vulnerability-poc/",
+    "published": "Mon, 03 Aug 2026 16:35:59 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical vulnerability in Ruby on Rails has raised new concerns about cloud data breaches, particularly for companies that host customer platforms in Amazon Web Services (AWS). Known as CVE-2026-66066 or KindaRails2Shell, this flaw affects Active S",
+    "created_at": "2026-08-03T17:32:00.113673+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158206",
+    "title": "DNA Test Software Vulnerability Allows Attackers to Alter Analysis Data",
+    "link": "https://cybersecuritynews.com/dna-test-software-vulnerability/",
+    "published": "Mon, 03 Aug 2026 16:49:55 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Thermo Fisher Scientific has disclosed a high-severity security flaw affecting several of its Applied Biosystems Human Identification (HID) software products, warning that attackers could make nearly undetectable modifications to forensic DNA analysi",
+    "created_at": "2026-08-03T17:32:08.276441+00:00"
   }
 ]
