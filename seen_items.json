@@ -4836,5 +4836,14 @@
     "source": "The Hacker News",
     "summary": "An unknown Chinese-threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit.\n\nAttack surface management platform Censys said it identified the threat actor runn",
     "created_at": "2026-08-03T11:01:38.180992+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
+    "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
+    "link": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
+    "published": "Mon, 03 Aug 2026 17:00:00 +0530",
+    "source": "The Hacker News",
+    "summary": "AI is moving incredibly fast, and every security leader is feeling the pressure to keep up.\n\nAI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize incidents, and automate repetit",
+    "created_at": "2026-08-03T12:31:28.933207+00:00"
   }
 ]
