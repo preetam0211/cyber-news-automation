@@ -5124,5 +5124,14 @@
     "source": "CybersecurityNews",
     "summary": "A first practical, real-world case of agent-to-agent exploitation inside a production multi-agent system, a novel attack class that turns one AI agent against another to compromise a software supply chain. The flaw was found in google/adk-python, the",
     "created_at": "2026-08-04T10:31:34.712791+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
+    "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
+    "link": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
+    "published": "Tue, 04 Aug 2026 16:06:27 +0530",
+    "source": "The Hacker News",
+    "summary": "cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database&#x27;s root context, crossing the privilege boundary between a cPanel account and the server&#x27;s administrative database identity. It shipped in a tar",
+    "created_at": "2026-08-04T11:31:19.012436+00:00"
   }
 ]
