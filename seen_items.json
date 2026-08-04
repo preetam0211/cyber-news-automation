@@ -5295,5 +5295,14 @@
     "source": "CybersecurityNews",
     "summary": "Microsoft is reducing the lifetime of NuGet.org API keys to strengthen supply chain security and reduce the risk of stolen credentials being used to publish malicious .NET packages. Starting August 17, 2026, newly created NuGet.org API keys will have",
     "created_at": "2026-08-04T16:01:21.085764+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158343",
+    "title": "Mallory Unifies Threat Intelligence, Exposure Context, and Response Into One Architecture for Security Teams",
+    "link": "https://cybersecuritynews.com/mallory-unifies-threat-intelligence-exposure-context-and-response-into-one-architecture-for-security-teams/",
+    "published": "Tue, 04 Aug 2026 16:59:11 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Las Vegas, United States, August 4th, 2026, CyberNewswire As AI-assisted attackers compress exploitation timelines to hours, Mallory turns live adversary intelligence into prioritized, policy-governed action across the tools security teams already ru",
+    "created_at": "2026-08-04T17:01:17.750181+00:00"
   }
 ]
