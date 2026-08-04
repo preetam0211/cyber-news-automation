@@ -5340,5 +5340,14 @@
     "source": "The Hacker News",
     "summary": "The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the legitimate OAuth 2.0 Device Authorization Grant t",
     "created_at": "2026-08-04T17:31:20.485289+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
+    "title": "77 Open VSX extensions found harvesting developer info",
+    "link": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
+    "published": "Tue, 04 Aug 2026 14:50:55 -0400",
+    "source": "BleepingComputer",
+    "summary": "77 extensions on the Open VSX marketplace impersonated legitimate developer tools while transmitting information about the systems and development environments where they were installed. [...]",
+    "created_at": "2026-08-04T19:01:21.554351+00:00"
   }
 ]
