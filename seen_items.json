@@ -5043,5 +5043,14 @@
     "source": "CybersecurityNews",
     "summary": "North Korean-linked attackers are using a new way to hide the servers that control malware. The method places a command server address inside an empty Ethereum transaction, making the activity look like a normal crypto transfer rather than a malware ",
     "created_at": "2026-08-04T07:31:22.118676+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
+    "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
+    "link": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
+    "published": "Tue, 04 Aug 2026 12:30:13 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following reports of active exploitation in the wild.\n\nThe ",
+    "created_at": "2026-08-04T08:04:31.094161+00:00"
   }
 ]
