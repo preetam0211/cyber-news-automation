@@ -5268,5 +5268,23 @@
     "source": "BleepingComputer",
     "summary": "AI agents need broad access to be useful, but traditional access controls cannot determine whether an action aligns with a user&#x27;s intent. Varonis explains how Agent IBAC detects intent drift and enforces real-time guardrails to keep agents withi",
     "created_at": "2026-08-04T14:31:46.452148+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
+    "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
+    "link": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
+    "published": "Tue, 04 Aug 2026 11:24:35 -0400",
+    "source": "BleepingComputer",
+    "summary": "Self-propagating malware named &#x27;ChainDrop&#x27; has compromised more than 1,300 packages with a combined 2 billion monthly downloads on the Node Package Manager (npm) registry. [...]",
+    "created_at": "2026-08-04T15:31:12.984462+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158230",
+    "title": "How Top SOCs Detect and Stop AI Phishing that Beats Email Gateways",
+    "link": "https://cybersecuritynews.com/how-top-socs-detect-and-stop-ai-phishing-that-beats-email-gateways/",
+    "published": "Tue, 04 Aug 2026 15:29:02 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Phishing is the primary initial access vector, driving 16% of breaches at an average cost of $4.8 million. Attackers now leverage Generative AI and AiTM kits to easily bypass MFA and traditional Secure Email Gateways.  Because users click malicious l",
+    "created_at": "2026-08-04T15:31:15.244277+00:00"
   }
 ]
