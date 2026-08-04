@@ -5052,5 +5052,59 @@
     "source": "The Hacker News",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following reports of active exploitation in the wild.\n\nThe ",
     "created_at": "2026-08-04T08:04:31.094161+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158225",
+    "title": "Critical cPanel Vulnerability Allows Execution of SQL Commands as Root User",
+    "link": "https://cybersecuritynews.com/cpanel-vulnerability/",
+    "published": "Tue, 04 Aug 2026 08:31:23 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical privilege-escalation flaw in cPanel &amp; WHM has been disclosed that could allow authenticated hosting users to execute arbitrary SQL commands with full database administrative privileges. This vulnerability poses a risk of root-level ser",
+    "created_at": "2026-08-04T09:31:30.556684+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158244",
+    "title": "Midnight Blizzard Hijacks Hotel Wi-Fi to Infect Travelers and Steal Cloud Credentials",
+    "link": "https://cybersecuritynews.com/midnight-blizzard-hijacks-hotel-wi-fi/",
+    "published": "Tue, 04 Aug 2026 08:36:02 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Travelers using hotel Wi-Fi are facing a new threat linked to Midnight Blizzard, a Russia-linked threat group known for targeted credential theft. The campaign abuses the trusted login pages used by hotels, conference venues, and other shared network",
+    "created_at": "2026-08-04T09:31:47.541906+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158228",
+    "title": "Apache NiFi Vulnerabilities Enable Authorization Bypass Attacks",
+    "link": "https://cybersecuritynews.com/apache-nifi-vulnerabilities/",
+    "published": "Tue, 04 Aug 2026 08:41:48 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Apache NiFi users should upgrade to version 2.11.0 after the project disclosed four security vulnerabilities affecting the NiFi Web API and Parameter Context authorization controls. The flaws could enable authorization bypass, unauthorized configurat",
+    "created_at": "2026-08-04T09:32:08.241251+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158257",
+    "title": "BINDCLOAK Steals Windows User and Process Tokens to Run Malware With Higher Privileges",
+    "link": "https://cybersecuritynews.com/bindcloak-steals-windows-tokens/",
+    "published": "Tue, 04 Aug 2026 08:51:36 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly uncovered Windows backdoor is giving an East Asia-linked espionage operation a quiet way to deepen control inside targeted networks. Named BINDCLOAK, the modular implant is deployed after initial access and can run malware using more powerful",
+    "created_at": "2026-08-04T09:32:24.763395+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158263",
+    "title": "Fake AI Tool Campaign Turns Developer Interest Into Enterprise Initial Access",
+    "link": "https://cybersecuritynews.com/fake-ai-tool-campaign/",
+    "published": "Tue, 04 Aug 2026 09:12:20 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new malware campaign is turning interest in artificial intelligence tools into a route for enterprise intrusion. Attackers are cloning trusted GitHub projects, then hiding malicious files inside downloads that appear useful to developers and AI use",
+    "created_at": "2026-08-04T09:32:47.949531+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158268",
+    "title": "Chinese Military Researchers Use AI Distillation to Train Drone and Battlefield Systems",
+    "link": "https://cybersecuritynews.com/chinese-military-researchers-use-ai-distillation/",
+    "published": "Tue, 04 Aug 2026 09:26:29 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Chinese military-linked researchers are studying ways to turn the outputs of advanced Western AI systems into smaller, cheaper models for drones, battlefield tools, cyber work, and public-security platforms. The concern is not a single malicious prog",
+    "created_at": "2026-08-04T09:33:12.262494+00:00"
   }
 ]
