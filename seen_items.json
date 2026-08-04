@@ -5349,5 +5349,14 @@
     "source": "BleepingComputer",
     "summary": "77 extensions on the Open VSX marketplace impersonated legitimate developer tools while transmitting information about the systems and development environments where they were installed. [...]",
     "created_at": "2026-08-04T19:01:21.554351+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
+    "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
+    "link": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
+    "published": "Tue, 04 Aug 2026 15:03:09 -0400",
+    "source": "BleepingComputer",
+    "summary": "A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories. [...]",
+    "created_at": "2026-08-04T19:31:35.197671+00:00"
   }
 ]
