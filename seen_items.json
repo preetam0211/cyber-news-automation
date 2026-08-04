@@ -5241,5 +5241,32 @@
     "source": "CybersecurityNews",
     "summary": "Flowise servers used to build AI agents and automated workflows are facing six newly disclosed remote code execution flaws. The weaknesses could allow authenticated attackers to run commands on the underlying server, putting data, credentials, and co",
     "created_at": "2026-08-04T14:02:02.965726+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html",
+    "title": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access",
+    "link": "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html",
+    "published": "Tue, 04 Aug 2026 18:41:22 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and system maintenance utilities to stealthily deploy R",
+    "created_at": "2026-08-04T14:31:17.497131+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
+    "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
+    "link": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
+    "published": "Tue, 04 Aug 2026 19:00:23 +0530",
+    "source": "The Hacker News",
+    "summary": "A credential-stealing npm worm that first appeared in keyv@6.0.0 spread beyond the Keyv and Cacheable namespaces into hundreds of packages across multiple organizations on August 4, 2026.\n\nSafeDep verified 353 poisoned versions across 79 package name",
+    "created_at": "2026-08-04T14:31:44.419627+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
+    "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
+    "link": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
+    "published": "Tue, 04 Aug 2026 10:00:10 -0400",
+    "source": "BleepingComputer",
+    "summary": "AI agents need broad access to be useful, but traditional access controls cannot determine whether an action aligns with a user&#x27;s intent. Varonis explains how Agent IBAC detects intent drift and enforces real-time guardrails to keep agents withi",
+    "created_at": "2026-08-04T14:31:46.452148+00:00"
   }
 ]
