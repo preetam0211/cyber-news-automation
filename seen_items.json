@@ -5133,5 +5133,23 @@
     "source": "The Hacker News",
     "summary": "cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database&#x27;s root context, crossing the privilege boundary between a cPanel account and the server&#x27;s administrative database identity. It shipped in a tar",
     "created_at": "2026-08-04T11:31:19.012436+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
+    "title": "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent",
+    "link": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
+    "published": "Tue, 04 Aug 2026 16:46:23 +0530",
+    "source": "The Hacker News",
+    "summary": "Google deleted three AI agent workflows from its Agent Development Kit (ADK) Python repository. Pillar Security showed that a public GitHub issue could manipulate a triage agent into triggering a privileged code-fixing agent.\n\nThe researchers said th",
+    "created_at": "2026-08-04T13:04:26.755365+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
+    "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
+    "link": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
+    "published": "Tue, 04 Aug 2026 17:00:00 +0530",
+    "source": "The Hacker News",
+    "summary": "The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise.\n\nThat assumption is starting to break.\n\nSecurity teams have long estimated risk by ranking attacker sophistication. Nation-state actors s",
+    "created_at": "2026-08-04T13:04:27.638602+00:00"
   }
 ]
