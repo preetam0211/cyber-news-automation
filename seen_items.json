@@ -5106,5 +5106,23 @@
     "source": "CybersecurityNews",
     "summary": "Chinese military-linked researchers are studying ways to turn the outputs of advanced Western AI systems into smaller, cheaper models for drones, battlefield tools, cyber work, and public-security platforms. The concern is not a single malicious prog",
     "created_at": "2026-08-04T09:33:12.262494+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
+    "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
+    "link": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
+    "published": "Tue, 04 Aug 2026 14:33:23 +0530",
+    "source": "The Hacker News",
+    "summary": "A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims&#x27; browser cache and ultimately deliver CountLoader and a previously undocumented remote access trojan",
+    "created_at": "2026-08-04T10:31:16.738922+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158273",
+    "title": "A Malicious GitHub Issue Could Turn Google’s AI Agent Against Its Own CI/CD Pipeline",
+    "link": "https://cybersecuritynews.com/ai-agent-against-its-own-ci-cd-pipeline/",
+    "published": "Tue, 04 Aug 2026 09:46:04 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A first practical, real-world case of agent-to-agent exploitation inside a production multi-agent system, a novel attack class that turns one AI agent against another to compromise a software supply chain. The flaw was found in google/adk-python, the",
+    "created_at": "2026-08-04T10:31:34.712791+00:00"
   }
 ]
