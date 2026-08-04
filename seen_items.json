@@ -5034,5 +5034,14 @@
     "source": "CybersecurityNews",
     "summary": "Check Point has released security updates for a high-severity authentication-bypass vulnerability (CVE-2026-18574) that could allow attackers to compromise vulnerable Security Management environments fully. This issue affects both Security Management",
     "created_at": "2026-08-04T07:01:15.861331+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158229",
+    "title": "North Korean Hackers Are Hiding Malware Servers Inside Empty Crypto Transfers",
+    "link": "https://cybersecuritynews.com/north-korean-hackers-hiding-malware/",
+    "published": "Tue, 04 Aug 2026 07:01:10 +0000",
+    "source": "CybersecurityNews",
+    "summary": "North Korean-linked attackers are using a new way to hide the servers that control malware. The method places a command server address inside an empty Ethereum transaction, making the activity look like a normal crypto transfer rather than a malware ",
+    "created_at": "2026-08-04T07:31:22.118676+00:00"
   }
 ]
