@@ -5151,5 +5151,95 @@
     "source": "The Hacker News",
     "summary": "The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise.\n\nThat assumption is starting to break.\n\nSecurity teams have long estimated risk by ranking attacker sophistication. Nation-state actors s",
     "created_at": "2026-08-04T13:04:27.638602+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158274",
+    "title": "Critical Gitea Arbitrary File Read Vulnerability Enables Remote Code Execution Attacks",
+    "link": "https://cybersecuritynews.com/gitea-arbitrary-file-read-vulnerability/",
+    "published": "Tue, 04 Aug 2026 11:27:54 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical security flaw in Gitea, tracked as CVE-2026-59774, allows unauthenticated remote attackers to read arbitrary files from vulnerable servers and potentially escalate the attack to remote code execution. The issue affects Gitea versions from ",
+    "created_at": "2026-08-04T14:01:28.385256+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158269",
+    "title": "OpenAI Reveals How Cybercriminals are Using ChatGPT to Run Scam Operation",
+    "link": "https://cybersecuritynews.com/openai-cybercriminals-using-chatgpt/",
+    "published": "Tue, 04 Aug 2026 11:33:56 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Online scams are becoming more organized, more personal, and harder to spot. Criminal networks are now using artificial intelligence to create believable messages, fake identities, and fraudulent websites that help them reach victims at scale. A rece",
+    "created_at": "2026-08-04T14:01:29.298150+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158293",
+    "title": "Keyv npm Package with 127M Weekly Downloads Compromised in Shai-Hulud Attack",
+    "link": "https://cybersecuritynews.com/keyv-npm-package-compromised/",
+    "published": "Tue, 04 Aug 2026 11:48:31 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Attackers have compromised the GitHub account of the maintainer behind keyv, a popular key-value storage library that pulls in roughly 127 million weekly downloads on npm, and used that access to push credential-stealing malware across the maintainer",
+    "created_at": "2026-08-04T14:01:44.672818+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158287",
+    "title": "Russian Hacker Breaches Companies, Sells Their Access and Spies on Ukrainian Military Sites",
+    "link": "https://cybersecuritynews.com/russian-hacker-breaches-companies/",
+    "published": "Tue, 04 Aug 2026 11:58:09 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A Russian-speaking hacker has been linked to a broad operation that breached organizations worldwide, collected credentials, and prepared access for sale to ransomware groups. The activity affected education, healthcare, financial services, telecommu",
+    "created_at": "2026-08-04T14:01:46.715874+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158297",
+    "title": "Roblox Malware Streams Victims’ Desktops and Captures Webcam Footage",
+    "link": "https://cybersecuritynews.com/roblox-malware-streams-desktops/",
+    "published": "Tue, 04 Aug 2026 12:14:24 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A malicious Roblox cheat campaign is turning a familiar gaming shortcut into a serious privacy threat. Players seeking an “undetected” Xeno script executor are being lured through gaming forums and Discord communities into downloading files that appe",
+    "created_at": "2026-08-04T14:01:48.805437+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158245",
+    "title": "Public PoC Released for CUPS Vulnerability Allows Attackers to Gain Root Privileges",
+    "link": "https://cybersecuritynews.com/public-poc-released-for-cups-vulnerability/",
+    "published": "Tue, 04 Aug 2026 12:19:29 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A public proof-of-concept (PoC) has been released for CVE-2026-39875, a macOS vulnerability in the Common UNIX Printing System (CUPS) that allows an unprivileged local user to perform arbitrary file writes with root privileges. The flaw affects macOS",
+    "created_at": "2026-08-04T14:01:50.903334+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158280",
+    "title": "CISA Warns of N-able N-central Authentication Bypass Vulnerability Exploited in Attacks",
+    "link": "https://cybersecuritynews.com/n-able-n-central-auth-bypass-exploited/",
+    "published": "Tue, 04 Aug 2026 12:44:52 +0000",
+    "source": "CybersecurityNews",
+    "summary": "CISA has warned that attackers are actively exploiting a critical authentication bypass vulnerability in N-able N-central. Tracked as CVE-2026-18577, the flaw affects N-central servers running versions earlier than 2026.3.1.7. N-central is a remote m",
+    "created_at": "2026-08-04T14:01:52.251317+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158286",
+    "title": "OWASP Subtractive Security Top 10 Project Released to Identify and Reduce Cyber Risks",
+    "link": "https://cybersecuritynews.com/owasp-subtractive-security-top-10-project/",
+    "published": "Tue, 04 Aug 2026 13:06:50 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The Open Worldwide Application Security Project, or OWASP, has introduced the Subtractive Security Top 10 Project, a security engineering initiative focused on eliminating attack paths rather than merely detecting or monitoring them. Traditional cybe",
+    "created_at": "2026-08-04T14:01:53.113344+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158325",
+    "title": "DarkSword iOS Exploit Kit Spreads Across 180 Web Properties and 27 Hosts",
+    "link": "https://cybersecuritynews.com/darksword-ios-exploit-kit/",
+    "published": "Tue, 04 Aug 2026 13:13:51 +0000",
+    "source": "CybersecurityNews",
+    "summary": "DarkSword has expanded from a leaked iOS exploit chain into a broad and fast-changing network of malicious web infrastructure. The campaign targets iPhones running iOS 18.4 through 18.7 and is designed to steal highly sensitive data after a victim vi",
+    "created_at": "2026-08-04T14:01:55.192451+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158326",
+    "title": "Six Flowise RCE Flaws Let Attackers Execute Code on AI Workflow Servers",
+    "link": "https://cybersecuritynews.com/six-flowise-rce-flaws/",
+    "published": "Tue, 04 Aug 2026 13:57:53 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Flowise servers used to build AI agents and automated workflows are facing six newly disclosed remote code execution flaws. The weaknesses could allow authenticated attackers to run commands on the underlying server, putting data, credentials, and co",
+    "created_at": "2026-08-04T14:02:02.965726+00:00"
   }
 ]
