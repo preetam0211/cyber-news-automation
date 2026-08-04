@@ -5358,5 +5358,14 @@
     "source": "BleepingComputer",
     "summary": "A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories. [...]",
     "created_at": "2026-08-04T19:31:35.197671+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
+    "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
+    "published": "Tue, 04 Aug 2026 17:45:36 -0400",
+    "source": "BleepingComputer",
+    "summary": "The Greatness phishing-as-a-service (PhaaS) platform has expanded from credential phishing to adversary-in-the-middle attacks and device-code phishing targeting Microsoft 365 accounts. [...]",
+    "created_at": "2026-08-04T22:03:14.162468+00:00"
   }
 ]
