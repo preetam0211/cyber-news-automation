@@ -5025,5 +5025,14 @@
     "source": "CybersecurityNews",
     "summary": "Telegram Messenger briefly disappeared from Apple’s App Store across multiple countries late Monday, sparking a wave of confusion and speculation on social media before the app was restored a short while later. Screenshots flooded platforms like X, s",
     "created_at": "2026-08-04T04:31:11.196613+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158218",
+    "title": "Check Point Authentication Bypass Flaw Enables Full Compromise of Security Management System",
+    "link": "https://cybersecuritynews.com/check-point-authentication-bypass-flaw/",
+    "published": "Tue, 04 Aug 2026 05:15:04 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Check Point has released security updates for a high-severity authentication-bypass vulnerability (CVE-2026-18574) that could allow attackers to compromise vulnerable Security Management environments fully. This issue affects both Security Management",
+    "created_at": "2026-08-04T07:01:15.861331+00:00"
   }
 ]
