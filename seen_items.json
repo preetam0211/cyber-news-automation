@@ -5439,5 +5439,14 @@
     "source": "CybersecurityNews",
     "summary": "Veeam has released security updates for Veeam ONE 13.1 to fix multiple vulnerabilities that could allow attackers to execute code, access sensitive files, steal database data, and escalate privileges. The most severe issue, tracked as CVE-2026-64633,",
     "created_at": "2026-08-05T07:31:12.376700+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158405",
+    "title": "Microsoft Defender Stops QNET Ransomware Attack in 128 Seconds With Automatic Device Isolation",
+    "link": "https://cybersecuritynews.com/microsoft-defender-stops-qnet-ransomware-attack/",
+    "published": "Wed, 05 Aug 2026 07:34:01 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Ransomware can turn one careless click into a business-wide emergency. An incident at QNET shows how quickly that risk can grow when attackers use trusted Windows tools to launch a second stage of an intrusion. The attack began after a user opened a ",
+    "created_at": "2026-08-05T08:01:20.097079+00:00"
   }
 ]
