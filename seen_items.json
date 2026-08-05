@@ -5511,5 +5511,23 @@
     "source": "The Hacker News",
     "summary": "An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public repository and crafted Org-mode markup are enough. ",
     "created_at": "2026-08-05T12:02:14.732295+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
+    "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
+    "link": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
+    "published": "Wed, 05 Aug 2026 17:13:19 +0530",
+    "source": "The Hacker News",
+    "summary": "Kali365 is turning a legitimate Microsoft login into a gateway to corporate data.\n\nThe phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft&#x27;s real authentication page. Once access and refr",
+    "created_at": "2026-08-05T12:31:27.383789+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
+    "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
+    "link": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
+    "published": "Wed, 05 Aug 2026 17:13:27 +0530",
+    "source": "The Hacker News",
+    "summary": "A memory corruption flaw in the Linux kernel&#x27;s Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built records for roughly 800 kernel builds.\n\n",
+    "created_at": "2026-08-05T12:31:36.356366+00:00"
   }
 ]
