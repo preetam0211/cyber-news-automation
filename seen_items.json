@@ -5385,5 +5385,14 @@
     "source": "BleepingComputer",
     "summary": "OpenAI and Anthropic have confirmed that their AI models were involved in separate, newly disclosed third-party cybersecurity testing incidents that resulted in a real website being breached and social engineering attacks against people outside the i",
     "created_at": "2026-08-05T00:01:18.147373+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158371",
+    "title": "1-Click RCE Flaw in Cursor, VS Code, and Google Antigravity Exposes 50M Developers to Cyberattacks",
+    "link": "https://cybersecuritynews.com/1-click-rce-vulnerability-in-code-editors/",
+    "published": "Wed, 05 Aug 2026 03:03:30 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical one-click remote code execution (RCE) vulnerability affects three of the world’s most widely used code editors: Cursor, Microsoft VS Code, and Google Antigravity. The flaw, uncovered by AISLE’s AI-powered vulnerability analyzer, put an est",
+    "created_at": "2026-08-05T03:31:23.375245+00:00"
   }
 ]
