@@ -5484,5 +5484,14 @@
     "source": "CybersecurityNews",
     "summary": "EtherRAT has surfaced in a Windows domain intrusion tied to an affiliate of the Gentlemen ransomware operation. The campaign shows how a single foothold can become a network-wide problem when attackers gain privileged access. The operators used remot",
     "created_at": "2026-08-05T10:01:35.612722+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
+    "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data",
+    "link": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
+    "published": "Wed, 05 Aug 2026 14:53:03 +0530",
+    "source": "The Hacker News",
+    "summary": "A cluster of 77 extensions on the Open VSX marketplace has been found to impersonate legitimate developer tools while transmitting information about the systems and development environments on which they were installed.\n\nThe &quot;evil twin&quot; ext",
+    "created_at": "2026-08-05T10:31:17.924147+00:00"
   }
 ]
