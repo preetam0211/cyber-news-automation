@@ -5493,5 +5493,23 @@
     "source": "The Hacker News",
     "summary": "A cluster of 77 extensions on the Open VSX marketplace has been found to impersonate legitimate developer tools while transmitting information about the systems and development environments on which they were installed.\n\nThe &quot;evil twin&quot; ext",
     "created_at": "2026-08-05T10:31:17.924147+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
+    "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
+    "link": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
+    "published": "Wed, 05 Aug 2026 16:05:29 +0530",
+    "source": "The Hacker News",
+    "summary": "GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream credentials without exploiting a software vulnerability.",
+    "created_at": "2026-08-05T12:01:52.795244+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
+    "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
+    "link": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
+    "published": "Wed, 05 Aug 2026 16:34:23 +0530",
+    "source": "The Hacker News",
+    "summary": "An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public repository and crafted Org-mode markup are enough. ",
+    "created_at": "2026-08-05T12:02:14.732295+00:00"
   }
 ]
