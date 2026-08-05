@@ -5448,5 +5448,32 @@
     "source": "CybersecurityNews",
     "summary": "Ransomware can turn one careless click into a business-wide emergency. An incident at QNET shows how quickly that risk can grow when attackers use trusted Windows tools to launch a second stage of an intrusion. The attack began after a user opened a ",
     "created_at": "2026-08-05T08:01:20.097079+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html",
+    "title": "CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited",
+    "link": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html",
+    "published": "Wed, 05 Aug 2026 13:10:39 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on August 5, 2026, added three flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\n\nThe list of vulnerabilities is as follow",
+    "created_at": "2026-08-05T09:01:27.427321+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
+    "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
+    "link": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
+    "published": "Wed, 05 Aug 2026 13:23:50 +0530",
+    "source": "The Hacker News",
+    "summary": "An agent running Anthropic&#x27;s Claude Mythos 5 spent 34 hours trying to get a malware dropper merged into a real open-source project during a cyber evaluation by the UK&#x27;s AI Security Institute.\n\nWhen a bystander publicly warned that the code ",
+    "created_at": "2026-08-05T09:02:13.019080+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158414",
+    "title": "7-Zip Mark-of-the-Web Bypass Lets Malicious Files Evade Windows SmartScreen",
+    "link": "https://cybersecuritynews.com/7-zip-mark-of-the-web-bypass/",
+    "published": "Wed, 05 Aug 2026 08:30:23 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Windows can protect users before a suspicious download runs. But a newly documented 7-Zip behavior can remove an important warning layer and allow a malicious program to start without a Windows SmartScreen prompt. ZIP archives are common in phishing ",
+    "created_at": "2026-08-05T09:02:41.516073+00:00"
   }
 ]
