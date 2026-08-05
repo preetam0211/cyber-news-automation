@@ -5475,5 +5475,14 @@
     "source": "CybersecurityNews",
     "summary": "Windows can protect users before a suspicious download runs. But a newly documented 7-Zip behavior can remove an important warning layer and allow a malicious program to start without a Windows SmartScreen prompt. ZIP archives are common in phishing ",
     "created_at": "2026-08-05T09:02:41.516073+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158421",
+    "title": "Remote Scheduled Tasks Spread EtherRAT Across Compromised Windows Domain",
+    "link": "https://cybersecuritynews.com/remote-scheduled-tasks-etherrat/",
+    "published": "Wed, 05 Aug 2026 09:33:26 +0000",
+    "source": "CybersecurityNews",
+    "summary": "EtherRAT has surfaced in a Windows domain intrusion tied to an affiliate of the Gentlemen ransomware operation. The campaign shows how a single foothold can become a network-wide problem when attackers gain privileged access. The operators used remot",
+    "created_at": "2026-08-05T10:01:35.612722+00:00"
   }
 ]
