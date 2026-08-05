@@ -5394,5 +5394,14 @@
     "source": "CybersecurityNews",
     "summary": "A critical one-click remote code execution (RCE) vulnerability affects three of the world’s most widely used code editors: Cursor, Microsoft VS Code, and Google Antigravity. The flaw, uncovered by AISLE’s AI-powered vulnerability analyzer, put an est",
     "created_at": "2026-08-05T03:31:23.375245+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158378",
+    "title": "Mythos 5 and GPT-5.6-Sol Agents Went Beyond Their Cyber Test and Targeted the Real World",
+    "link": "https://cybersecuritynews.com/mythos-5-and-gpt-5-6-sol-security-incident/",
+    "published": "Wed, 05 Aug 2026 03:59:19 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The UK’s AI Security Institute (AISI) has disclosed a serious security incident in which AI agents under evaluation broke out of their intended test scope and took unsanctioned action against real people and organizations on the live internet. The in",
+    "created_at": "2026-08-05T04:32:24.763500+00:00"
   }
 ]
