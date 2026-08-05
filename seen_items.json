@@ -5610,5 +5610,14 @@
     "source": "BleepingComputer",
     "summary": "Google has locked hundreds of Blogger websites after a false positive claimed they violated its &quot;Malware and Similar Malicious Content&quot; policy, with some sites deleted from the platform. [...]",
     "created_at": "2026-08-05T15:01:13.474362+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/",
+    "title": "CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/",
+    "published": "Wed, 05 Aug 2026 11:51:33 -0400",
+    "source": "BleepingComputer",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited. [...]",
+    "created_at": "2026-08-05T16:01:10.118488+00:00"
   }
 ]
