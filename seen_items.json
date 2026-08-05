@@ -5412,5 +5412,23 @@
     "source": "CybersecurityNews",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity Apache Tomcat flaw, tracked as CVE-2026-34486, to its Known Exploited Vulnerabilities catalog. The agency said the vulnerability is being actively exploited an",
     "created_at": "2026-08-05T06:04:22.395937+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
+    "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer",
+    "link": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
+    "published": "Wed, 05 Aug 2026 11:17:19 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have disclosed what has been described as a &quot;long-standing supply chain attack&quot; on QuickFox, a virtual private network (VPN) and network acceleration tool designed for overseas Chinese users.\n\nAccording to Fortinet",
+    "created_at": "2026-08-05T07:01:55.982176+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158397",
+    "title": "Botnet Is Hunting Router Ping Tools That Can Turn User Input Into Shell Commands",
+    "link": "https://cybersecuritynews.com/botnet-is-hunting-router-ping-tools/",
+    "published": "Wed, 05 Aug 2026 06:31:30 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A botnet campaign is probing routers for weak spots in diagnostic features. The activity focuses on web paths linked to ping, traceroute and troubleshooting tools, where a poorly handled hostname or parameter can become a route to running commands on",
+    "created_at": "2026-08-05T07:02:00.754808+00:00"
   }
 ]
