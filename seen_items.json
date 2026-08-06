@@ -5997,5 +5997,167 @@
     "source": "CybersecurityNews",
     "summary": "Cybercriminals are weaponizing pirated downloads of the blockbuster theatrical release “The Odyssey (2026)” to deliver Lumma Stealer. This prolific information-stealing malware quietly strips compromised systems of saved browser passwords, payment ca",
     "created_at": "2026-08-06T14:31:14.969682+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html",
+    "title": "ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories",
+    "link": "https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html",
+    "published": "Thu, 06 Aug 2026 20:54:31 +0530",
+    "source": "The Hacker News",
+    "summary": "Apparently, opening the thing is now enough. A repo can run before the first prompt, a package can hide among hundreds, and a harmless-looking PDF can finish the job.\n\nThis week runs on cheap leverage: exposed servers, recycled bugs, poisoned agent i",
+    "created_at": "2026-08-06T23:03:51.515767+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158625",
+    "title": "Critical Paperclip Vulnerabilities Allow Attackers to Gain Admin Access",
+    "link": "https://cybersecuritynews.com/paperclip-vulnerabilities/",
+    "published": "Thu, 06 Aug 2026 15:27:48 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Critical vulnerabilities have been disclosed in Paperclip, an AI agent orchestration platform, that could allow attackers to gain administrative access and execute commands on affected servers. The most severe flaw, tracked as CVE-2026-41679, carries",
+    "created_at": "2026-08-06T23:04:06.143180+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=35444",
+    "title": "Top 10 Best Firewall Management Tools in 2026",
+    "link": "https://cybersecuritynews.com/firewall-management-tools/",
+    "published": "Thu, 06 Aug 2026 15:40:23 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Most firewall breaches aren’t firewall failures they’re rule failures: shadowed policies, forgotten any-any entries, changes nobody risk-checked. Firewall management tools centralize policy visibility, change automation, cleanup, and audit reporting ",
+    "created_at": "2026-08-06T23:04:21.615763+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158037",
+    "title": "Top 10 Best Intrusion Detection & Prevention (IDS/IPS) Tools in 2026",
+    "link": "https://cybersecuritynews.com/best-ids-ips-tools/",
+    "published": "Thu, 06 Aug 2026 15:42:19 +0000",
+    "source": "CybersecurityNews",
+    "summary": "An IDS detects malicious activity and alerts; an IPS sits inline and blocks it. Cisco Secure IPS is our top pick for 2026 on the strength of Snort 3 and Talos threat intelligence, with Palo Alto Networks and Fortinet leading integrated next-generatio",
+    "created_at": "2026-08-06T23:04:23.000805+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158636",
+    "title": "Hackers Can Leverage WSUS Servers to Deliver Malware and Compromise Enterprise Endpoints",
+    "link": "https://cybersecuritynews.com/wsus-servers-leveraged-to-deliver-malware/",
+    "published": "Thu, 06 Aug 2026 15:43:54 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A novel attack chain that allows adversaries to hijack Windows Server Update Services (WSUS), the trusted patch-management architecture widely deployed across enterprise environments. The research, published by SpecterOps researcher Beyviel David, de",
+    "created_at": "2026-08-06T23:04:35.597045+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158639",
+    "title": "Critical Flaws in Anthropic, Google, and OpenAI’s Coding Agents Enable RCE and Supply Chain Attacks",
+    "link": "https://cybersecuritynews.com/critical-flaws-in-ai-coding-agents/",
+    "published": "Thu, 06 Aug 2026 16:06:20 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A repeatable vulnerability pattern across AI coding agents from Anthropic, Google, and OpenAI that allows attackers to achieve remote code execution, steal API credentials, and compromise software supply chains, all without any privileged access. The",
+    "created_at": "2026-08-06T23:04:37.791763+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/",
+    "title": "Meta AI model hacked a company during misconfigured cyber test",
+    "link": "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/",
+    "published": "Thu, 06 Aug 2026 12:11:39 -0400",
+    "source": "BleepingComputer",
+    "summary": "Meta has become the latest AI company to confirm that one of its models hacked a real organization during cybersecurity testing, as similar incidents continue to emerge following OpenAI&#x27;sOpenAI&#x27;s initial disclosure that its agents breached ",
+    "created_at": "2026-08-06T23:04:40.024331+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html",
+    "title": "New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs",
+    "link": "https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html",
+    "published": "Thu, 06 Aug 2026 21:47:13 +0530",
+    "source": "The Hacker News",
+    "summary": "An unprivileged Linux program can time a hardware interrupt to land in the gap between a processor sanitizing its branch predictor and the kernel using it, re-poisoning the predictor after the defense has run.\n\nMIT CSAIL researchers Daniël Trujillo a",
+    "created_at": "2026-08-06T23:04:42.026919+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158618",
+    "title": "Vanta Stealer Empties Browser Vaults, Crypto Wallets and Gaming Accounts in Minutes",
+    "link": "https://cybersecuritynews.com/vanta-stealer-empties-browser-vaults/",
+    "published": "Thu, 06 Aug 2026 16:53:08 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Vanta Stealer is a newly analyzed information-stealing malware built to strip valuable data from an infected computer quickly. It reaches far beyond saved browser passwords, pulling cookies, payment details, account tokens, wallet files and private d",
+    "created_at": "2026-08-06T23:04:44.056508+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158661",
+    "title": "4,400+ Internet-Exposed Rockwell PLCs Expose Water Systems to Cyberattacks",
+    "link": "https://cybersecuritynews.com/internet-exposed-rockwell-plcs/",
+    "published": "Thu, 06 Aug 2026 17:02:28 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A wave of cyberattacks against U.S. water and wastewater utilities has renewed alarm over how many industrial controllers remain directly reachable from the public internet. New research from Forescout has identified 4,407 internet-facing Rockwell Au",
+    "created_at": "2026-08-06T23:04:46.309295+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
+    "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs",
+    "link": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
+    "published": "Thu, 06 Aug 2026 22:43:15 +0530",
+    "source": "The Hacker News",
+    "summary": "Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review.\n\nThe security issues affect Cisco Catalyst SD-WAN Software, regardle",
+    "created_at": "2026-08-06T23:04:48.492022+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html",
+    "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
+    "link": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html",
+    "published": "Thu, 06 Aug 2026 23:28:30 +0530",
+    "source": "The Hacker News",
+    "summary": "Zapscape, a new Linux kernel vulnerability, could allow an attacker with kernel privileges inside an L1 guest virtual machine (VM) to escape KVM isolation and execute code on the host. The risk applies when nested virtualization is exposed to untrust",
+    "created_at": "2026-08-06T23:04:50.567624+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
+    "title": "New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes",
+    "link": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
+    "published": "Thu, 06 Aug 2026 14:03:45 -0400",
+    "source": "BleepingComputer",
+    "summary": "Researchers found a way to bypass recent mitigations for Spectre v2 speculative execution side-channel attacks and developed an exploit to leak secrets from Linux machines. [...]",
+    "created_at": "2026-08-06T23:04:52.626416+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
+    "title": "Swiss government SharePoint breach compromised 200 accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
+    "published": "Thu, 06 Aug 2026 14:14:19 -0400",
+    "source": "BleepingComputer",
+    "summary": "Switzerland&#x27;s federal IT office says hackers exploited vulnerabilities to breach its Microsoft SharePoint servers and compromised approximately 200 accounts. [...]",
+    "created_at": "2026-08-06T23:04:54.652064+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158655",
+    "title": "SilverFox Hijacks Trusted Software and Kernel Drivers to Disable Security Tools",
+    "link": "https://cybersecuritynews.com/silverfox-hijacks-trusted-software/",
+    "published": "Thu, 06 Aug 2026 18:52:20 +0000",
+    "source": "CybersecurityNews",
+    "summary": "SilverFox has expanded its malware toolkit in a campaign that targeted a Japanese industrial manufacturer. The attackers used a fake invoice email to lure a recipient into downloading a ZIP archive hosted through services that normally appear legitim",
+    "created_at": "2026-08-06T23:04:56.689504+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/",
+    "title": "Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group",
+    "link": "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/",
+    "published": "Thu, 06 Aug 2026 16:07:24 -0400",
+    "source": "BleepingComputer",
+    "summary": "A recent wave of cyberattacks targeting hedge funds, private-equity firms, and other financial organizations has been linked to UNC6671, an extortion group reportedly associated with the BlackFile threat actors. [...]",
+    "created_at": "2026-08-06T23:04:58.719222+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/",
+    "title": "ClickFix attack pushes macOS infostealer for crypto theft attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/",
+    "published": "Thu, 06 Aug 2026 18:37:17 -0400",
+    "source": "BleepingComputer",
+    "summary": "A Go-based malware delivered in ClickFix attacks targeting macOS users is stealing cryptocurrency assets, browser-stored passwords, Apple Keychain data, and cached credentials. [...]",
+    "created_at": "2026-08-06T23:05:00.739797+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
+    "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
+    "published": "Thu, 06 Aug 2026 18:48:22 -0400",
+    "source": "BleepingComputer",
+    "summary": "OpenAI is rolling out a more reliable version of ChatGPT GPT-5.6 Sol for Plus and Pro users, while Free users are getting unlimited text chats with GPT-5.6 Luna. [...]",
+    "created_at": "2026-08-06T23:05:02.755176+00:00"
   }
 ]
