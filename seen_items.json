@@ -5808,5 +5808,14 @@
     "source": "The Hacker News",
     "summary": "Connor Riley Moucka pleaded guilty in Seattle federal court on Wednesday to computer fraud, wire fraud, aggravated identity theft and a related conspiracy over the 2024 breaches of Snowflake customer accounts.\n\nThe intrusions reached at least 165 org",
     "created_at": "2026-08-06T06:34:17.877326+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158548",
+    "title": "CISA Warns of TeamCity RCE Vulnerability Actively Exploited in Attacks",
+    "link": "https://cybersecuritynews.com/teamcity-rce-vulnerability-actively-exploited/",
+    "published": "Thu, 06 Aug 2026 06:37:45 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency has warned that a critical JetBrains TeamCity flaw is being actively exploited. The vulnerability, tracked as CVE-2026-63077, can let an unauthenticated attacker run code remotely on vulnerabl",
+    "created_at": "2026-08-06T07:31:30.948833+00:00"
   }
 ]
