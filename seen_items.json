@@ -5862,5 +5862,23 @@
     "source": "CybersecurityNews",
     "summary": "Meta has disclosed that one of its AI models gained unintended access to the internet during a cybersecurity evaluation and then exploited a vulnerability in another organization’s system. The incident occurred during testing conducted with independe",
     "created_at": "2026-08-06T08:31:22.561222+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html",
+    "title": "AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model",
+    "link": "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html",
+    "published": "Thu, 06 Aug 2026 14:27:30 +0530",
+    "source": "The Hacker News",
+    "summary": "Security flaws in agent infrastructure from Amazon Web Services (AWS), Google, and Vercel let untrusted or forged instructions reach an agent&#x27;s tools with no check that a model turn had authorized them.\n\nIn several of the attack paths, the model",
+    "created_at": "2026-08-06T10:01:16.926991+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
+    "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
+    "link": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
+    "published": "Thu, 06 Aug 2026 14:49:23 +0530",
+    "source": "The Hacker News",
+    "summary": "Attackers broke into an organization&#x27;s Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit without writing an executable to disk. They fed Java source code to the database, ",
+    "created_at": "2026-08-06T10:01:39.406692+00:00"
   }
 ]
