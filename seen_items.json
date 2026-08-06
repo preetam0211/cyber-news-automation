@@ -5799,5 +5799,14 @@
     "source": "CybersecurityNews",
     "summary": "Atomic Stealer is being pushed at Mac users through websites that look harmless. A large ClickFix operation uses more than 250 look-alike domains to steer selected visitors toward a fake download page and a malicious Terminal command. ClickFix is bui",
     "created_at": "2026-08-06T06:01:17.128015+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html",
+    "title": "Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People",
+    "link": "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html",
+    "published": "Thu, 06 Aug 2026 11:34:30 +0530",
+    "source": "The Hacker News",
+    "summary": "Connor Riley Moucka pleaded guilty in Seattle federal court on Wednesday to computer fraud, wire fraud, aggravated identity theft and a related conspiracy over the 2024 breaches of Snowflake customer accounts.\n\nThe intrusions reached at least 165 org",
+    "created_at": "2026-08-06T06:34:17.877326+00:00"
   }
 ]
