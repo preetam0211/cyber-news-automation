@@ -5970,5 +5970,14 @@
     "source": "The Hacker News",
     "summary": "Forescout found 22 internet-facing Rockwell Automation programmable logic controllers (PLCs) in cities hit by recent cyberattacks on US water utilities. Nineteen used the same mobile carrier network.\n\nIts August 3 scan counted 4,407 exposed Rockwell ",
     "created_at": "2026-08-06T13:31:16.235585+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158616",
+    "title": "Hackers Hid a Remote-Control Toolkit Inside Oracle to Take Over a Windows Server",
+    "link": "https://cybersecuritynews.com/hackers-hid-a-remote-control-toolkit/",
+    "published": "Thu, 06 Aug 2026 13:16:33 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A routine web application weakness has been tied to a serious Windows Server compromise after attackers used SQL injection to plant a remote-control toolkit inside an Oracle database. The incident shows how a poorly protected form can become a path f",
+    "created_at": "2026-08-06T14:01:24.331415+00:00"
   }
 ]
