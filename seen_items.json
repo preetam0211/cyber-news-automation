@@ -5772,5 +5772,32 @@
     "source": "CybersecurityNews",
     "summary": "Cisco has rolled out software hardening updates for its Catalyst SD-WAN Software after an internal security review uncovered multiple critical vulnerabilities affecting the platform. The flaws were identified proactively by Cisco’s own engineering te",
     "created_at": "2026-08-06T04:31:17.219803+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158530",
+    "title": "Apple iCloud Private Relay WebKit Flaws Leak Users’ Real IP Addresses",
+    "link": "https://cybersecuritynews.com/apple-icloud-private-relay/",
+    "published": "Thu, 06 Aug 2026 04:49:10 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Apple users who rely on iCloud Private Relay to conceal their online location may not be getting the protection they expect. Newly disclosed flaws in WebKit, the browser engine used across iOS, can allow a website to see a visitor’s real IP address. ",
+    "created_at": "2026-08-06T06:01:10.594733+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158539",
+    "title": "New npm Supply Chain Attack Began with the Keyv Library Compromised Hundreds of Popular Packages",
+    "link": "https://cybersecuritynews.com/new-npm-supply-chain-attack/",
+    "published": "Thu, 06 Aug 2026 05:22:57 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new npm supply chain attack has turned trusted software packages into a route for credential theft. The campaign began after attackers compromised the maintainer account behind the widely used Keyv library, then used that access to push malicious r",
+    "created_at": "2026-08-06T06:01:12.275280+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158536",
+    "title": "250+ macOS ClickFix Domains Use Browser Fingerprinting to Hide Atomic Stealer Attacks",
+    "link": "https://cybersecuritynews.com/158536-2250-macos-clickfix-domains/",
+    "published": "Thu, 06 Aug 2026 05:40:49 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Atomic Stealer is being pushed at Mac users through websites that look harmless. A large ClickFix operation uses more than 250 look-alike domains to steer selected visitors toward a fake download page and a malicious Terminal command. ClickFix is bui",
+    "created_at": "2026-08-06T06:01:17.128015+00:00"
   }
 ]
