@@ -6393,5 +6393,23 @@
     "source": "BleepingComputer",
     "summary": "The North Carolina Ports Authority has confirmed that a cyberattack disrupted IT systems and slowed operations at Port of Wilmington, Port of Morehead City, and Charlotte Inland Port. [...]",
     "created_at": "2026-08-07T14:01:09.294176+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158738",
+    "title": "CVE-2026-64561 Zapscape Lets KVM Guests Escape to Linux Host With Root Privileges",
+    "link": "https://cybersecuritynews.com/zapscape-kvm-escape-root-privileges/",
+    "published": "Fri, 07 Aug 2026 13:32:14 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A Linux kernel vulnerability, tracked as CVE-2026-64561 and named Zapscape, could allow attackers to escape a KVM virtual machine and take control of its underlying Linux host with root privileges. The issue affects KVM/x86, a virtualization technolo",
+    "created_at": "2026-08-07T14:31:31.963703+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
+    "title": "Real emails, hijacked payments: Two H1 2026 attack chains",
+    "link": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
+    "published": "Fri, 07 Aug 2026 10:00:10 -0400",
+    "source": "BleepingComputer",
+    "summary": "Gen&#x27;s H1 2026 Threat Report examines two separate attack chains. One used compromised business inboxes and browser manipulation in a banking-malware campaign, while the other used clipboard hijacking to redirect cryptocurrency payments. [...]",
+    "created_at": "2026-08-07T14:31:57.766443+00:00"
   }
 ]
