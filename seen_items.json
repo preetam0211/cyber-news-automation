@@ -6330,5 +6330,23 @@
     "source": "CybersecurityNews",
     "summary": "Patchwork, also known as Dropping Elephant, is using fake documents and chat applications to spy on computer and phone users. The long-running espionage group has built separate attack paths for Windows systems and Android devices, allowing it to col",
     "created_at": "2026-08-07T12:01:42.510300+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html",
+    "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers",
+    "link": "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html",
+    "published": "Fri, 07 Aug 2026 16:40:33 +0530",
+    "source": "The Hacker News",
+    "summary": "A use-after-free bug in Linux&#x27;s SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine underneath.\n\nThe flaw has existed since 2008. The fix already shipp",
+    "created_at": "2026-08-07T12:31:37.218888+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/growing-up-hard-way.html",
+    "title": "Growing Up The Hard Way",
+    "link": "https://thehackernews.com/2026/08/growing-up-hard-way.html",
+    "published": "Fri, 07 Aug 2026 17:25:26 +0530",
+    "source": "The Hacker News",
+    "summary": "Open Source had a great childhood.\n\nFor two decades it got to be a kid. It ran around barefoot, gave everything away, trusted strangers, and never once thought about who was watching. It ran the kind of lemonade stand that took IOUs from anyone who w",
+    "created_at": "2026-08-07T12:32:04.510331+00:00"
   }
 ]
