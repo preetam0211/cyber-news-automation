@@ -6366,5 +6366,23 @@
     "source": "CybersecurityNews",
     "summary": "Swiss federal authorities have confirmed a cyberattack targeting SharePoint servers operated by the Federal Office for Information Technology and Telecommunication (BIT). The incident resulted in the compromise of login credentials linked to approxim",
     "created_at": "2026-08-07T13:01:33.626886+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
+    "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
+    "link": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
+    "published": "Fri, 07 Aug 2026 18:26:23 +0530",
+    "source": "The Hacker News",
+    "summary": "WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. Under additional conditions, the bug can be chained into PHP code execution on the ser",
+    "created_at": "2026-08-07T13:31:06.180206+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158733",
+    "title": "Google Chrome 151 Fixes 41 Security Flaws, Including 6 Critical Memory Bugs",
+    "link": "https://cybersecuritynews.com/chrome-151-vulnerabilities-patched/",
+    "published": "Fri, 07 Aug 2026 13:14:11 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Google has released Chrome 151 to the Stable channel, fixing 41 security vulnerabilities, including six critical memory-safety flaws that could enable browser crashes, memory corruption, or malicious code execution. Chrome 151.0.7922.108/.109 is roll",
+    "created_at": "2026-08-07T13:31:24.375563+00:00"
   }
 ]
