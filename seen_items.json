@@ -6294,5 +6294,23 @@
     "source": "The Hacker News",
     "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called NatJack that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose mapped ports, and exhaust NAT tables.\n\nPr",
     "created_at": "2026-08-07T10:02:34.754198+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
+    "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
+    "link": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
+    "published": "Fri, 07 Aug 2026 15:39:54 +0530",
+    "source": "The Hacker News",
+    "summary": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 candidate attack vectors.\n\nPortSwigger said a separate",
+    "created_at": "2026-08-07T11:01:30.668632+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
+    "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
+    "link": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
+    "published": "Fri, 07 Aug 2026 16:08:27 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have called attention to an active &quot;widespread email-driven phishing campaign&quot; that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 accounts with an aim to identify key personnel ",
+    "created_at": "2026-08-07T11:01:56.709930+00:00"
   }
 ]
