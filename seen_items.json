@@ -6411,5 +6411,14 @@
     "source": "BleepingComputer",
     "summary": "Gen&#x27;s H1 2026 Threat Report examines two separate attack chains. One used compromised business inboxes and browser manipulation in a banking-malware campaign, while the other used clipboard hijacking to redirect cryptocurrency payments. [...]",
     "created_at": "2026-08-07T14:31:57.766443+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
+    "title": "Levi Strauss & Co. says hackers stole corporate data in cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
+    "published": "Fri, 07 Aug 2026 11:48:20 -0400",
+    "source": "BleepingComputer",
+    "summary": "Levi Strauss &amp; Co. (Levi&#x27;s) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines. [...]",
+    "created_at": "2026-08-07T16:01:15.243995+00:00"
   }
 ]
