@@ -6231,5 +6231,14 @@
     "source": "CybersecurityNews",
     "summary": "Shai-Hulud is back in the npm ecosystem, and this time its reach is unusually broad. A new self-propagating malware strain called CHAINDROP has backdoored more than 400 packages after attackers compromised the maintainer of the widely used keyv libra",
     "created_at": "2026-08-07T07:32:46.656981+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html",
+    "title": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign",
+    "link": "https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html",
+    "published": "Fri, 07 Aug 2026 12:20:05 +0530",
+    "source": "The Hacker News",
+    "summary": "A new analysis has uncovered that the threat actor tracked as TeamPCP has been active on the cybercrime scene as far back as 2020, indicating the group has been compromising internet-facing infrastructure for years before training their sights on the",
+    "created_at": "2026-08-07T08:01:31.093783+00:00"
   }
 ]
