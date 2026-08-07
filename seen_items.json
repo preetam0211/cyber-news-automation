@@ -6384,5 +6384,14 @@
     "source": "CybersecurityNews",
     "summary": "Google has released Chrome 151 to the Stable channel, fixing 41 security vulnerabilities, including six critical memory-safety flaws that could enable browser crashes, memory corruption, or malicious code execution. Chrome 151.0.7922.108/.109 is roll",
     "created_at": "2026-08-07T13:31:24.375563+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
+    "title": "North Carolina Ports confirms cyberattack disrupting operations",
+    "link": "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
+    "published": "Fri, 07 Aug 2026 09:34:40 -0400",
+    "source": "BleepingComputer",
+    "summary": "The North Carolina Ports Authority has confirmed that a cyberattack disrupted IT systems and slowed operations at Port of Wilmington, Port of Morehead City, and Charlotte Inland Port. [...]",
+    "created_at": "2026-08-07T14:01:09.294176+00:00"
   }
 ]
