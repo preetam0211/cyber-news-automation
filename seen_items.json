@@ -6240,5 +6240,23 @@
     "source": "The Hacker News",
     "summary": "A new analysis has uncovered that the threat actor tracked as TeamPCP has been active on the cybercrime scene as far back as 2020, indicating the group has been compromising internet-facing infrastructure for years before training their sights on the",
     "created_at": "2026-08-07T08:01:31.093783+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158711",
+    "title": "Multiple Flaws in Enterprise Java Platforms Allow Attackers to Execute Remote Code",
+    "link": "https://cybersecuritynews.com/multiple-vulnerabilities-in-enterprise-java-platforms/",
+    "published": "Fri, 07 Aug 2026 07:45:57 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Enterprise Java platforms remain attractive targets because middleware often exposes paths developers assumed were internal. New research presented for Black Hat 2026 describes 12 flaws across products, including a sandbox escape and four pre-authent",
+    "created_at": "2026-08-07T09:01:11.668206+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158719",
+    "title": "Papyrus Mobile Ad Fraud Uses Hidden WebViews to Fake Clicks, Scrolls and Attention",
+    "link": "https://cybersecuritynews.com/papyrus-mobile-ad-fraud/",
+    "published": "Fri, 07 Aug 2026 08:46:26 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Papyrus is a mobile ad fraud operation hiding behind apps built for reading serialized fiction. While people turn pages and follow stories, the apps can quietly open websites in the background and create traffic. The scheme takes advantage of long re",
+    "created_at": "2026-08-07T09:02:03.488214+00:00"
   }
 ]
