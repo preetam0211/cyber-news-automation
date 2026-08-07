@@ -6420,5 +6420,32 @@
     "source": "BleepingComputer",
     "summary": "Levi Strauss &amp; Co. (Levi&#x27;s) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines. [...]",
     "created_at": "2026-08-07T16:01:15.243995+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158758",
+    "title": "Malware Abuses Windows Hello for Business Key to Authenticate Microsoft Entra ID",
+    "link": "https://cybersecuritynews.com/malware-abuses-windows-hello-key/",
+    "published": "Fri, 07 Aug 2026 16:11:26 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly demonstrated technique shows how malware in a compromised Windows user session can abuse Windows Hello for Business (WHFB) cryptographic keys to authenticate to Microsoft Entra ID, enabling attackers to gain cloud access without the victim’s ",
+    "created_at": "2026-08-07T18:01:32.476511+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158773",
+    "title": "18-Year-Old Linux Kernel SCTP Vulnerability Lets Attackers Gain Full Root on Host",
+    "link": "https://cybersecuritynews.com/18-year-old-linux-kernel-sctp-vulnerability/",
+    "published": "Fri, 07 Aug 2026 16:56:44 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly disclosed Linux kernel vulnerability, dubbed SCTPhantom and tracked as CVE-2026-64564, allows attackers to escalate from unprivileged local access to full root and even escape containers to compromise the underlying host. The flaw is a use-af",
+    "created_at": "2026-08-07T18:01:33.839111+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158776",
+    "title": "WordPress XSS2Shell Flaw Chains Pre-Auth Login XSS to PHP Remote Code Execution",
+    "link": "https://cybersecuritynews.com/wordpress-xss2shell-vulnerability/",
+    "published": "Fri, 07 Aug 2026 17:28:23 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical vulnerability chain in WordPress Core, tracked as CVE-2026-64638 and nicknamed XSS2Shell, that turns a single failed login attempt into full remote code execution on the underlying server. Because the flaw sits in code that has shipped wit",
+    "created_at": "2026-08-07T18:01:47.066259+00:00"
   }
 ]
