@@ -6348,5 +6348,23 @@
     "source": "The Hacker News",
     "summary": "Open Source had a great childhood.\n\nFor two decades it got to be a kid. It ran around barefoot, gave everything away, trusted strangers, and never once thought about who was watching. It ran the kind of lemonade stand that took IOUs from anyone who w",
     "created_at": "2026-08-07T12:32:04.510331+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158705",
+    "title": "Claude in Chrome Prompt Injection Steals Gmail Codes to Hijack Slack, X, and Claude.ai Accounts",
+    "link": "https://cybersecuritynews.com/claude-chrome-prompt-injection/",
+    "published": "Fri, 07 Aug 2026 12:53:44 +0000",
+    "source": "CybersecurityNews",
+    "summary": "An indirect prompt injection vulnerability in Claude on Chrome can be exploited to steal email verification codes and hijack accounts on platforms like Slack, X, and Claude.ai. The attack begins with a malicious email that lands in the victim’s Gmail",
+    "created_at": "2026-08-07T13:01:32.226934+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158745",
+    "title": "Hackers Breach Swiss Government SharePoint Servers, Compromise 200 Accounts",
+    "link": "https://cybersecuritynews.com/hackers-breach-swiss-sharepoint-servers/",
+    "published": "Fri, 07 Aug 2026 12:57:31 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Swiss federal authorities have confirmed a cyberattack targeting SharePoint servers operated by the Federal Office for Information Technology and Telecommunication (BIT). The incident resulted in the compromise of login credentials linked to approxim",
+    "created_at": "2026-08-07T13:01:33.626886+00:00"
   }
 ]
