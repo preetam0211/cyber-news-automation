@@ -6501,5 +6501,32 @@
     "source": "CybersecurityNews",
     "summary": "OpenAI has announced that it is deliberately slowing the development of Astra, its upcoming frontier AI model, after internal evaluations revealed advancements in agentic coding and cybersecurity that could push the system into “Critical” risk territ",
     "created_at": "2026-08-08T04:31:36.461116+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html",
+    "title": "Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts",
+    "link": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html",
+    "published": "Sat, 08 Aug 2026 12:22:16 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in th",
+    "created_at": "2026-08-08T08:04:24.234542+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html",
+    "title": "N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist",
+    "link": "https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html",
+    "published": "Sat, 08 Aug 2026 12:27:43 +0530",
+    "source": "The Hacker News",
+    "summary": "N-able has released a fresh round of hotfixes for N‑central as part of its investigation into ongoing exploitation of a recently disclosed security flaw in the Remote Monitoring and Management (RMM) product.\n\n&quot;We are proactively expanding protec",
+    "created_at": "2026-08-08T08:04:30.776638+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html",
+    "title": "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
+    "link": "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html",
+    "published": "Sat, 08 Aug 2026 12:28:31 +0530",
+    "source": "The Hacker News",
+    "summary": "Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day.\n\nThe vulnerability (CVSS score: 10.0), which does not carry a CVE iden",
+    "created_at": "2026-08-08T08:04:34.820100+00:00"
   }
 ]
