@@ -6555,5 +6555,14 @@
     "source": "The Hacker News",
     "summary": "Attacker-controlled instructions can make Atlassian&#x27;s Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to an outside server. Two security firms found that behavior independently, by different routes. ",
     "created_at": "2026-08-08T09:31:40.230409+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
+    "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
+    "published": "Sat, 08 Aug 2026 10:16:23 -0400",
+    "source": "BleepingComputer",
+    "summary": "The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors. [...]",
+    "created_at": "2026-08-08T14:31:18.115239+00:00"
   }
 ]
