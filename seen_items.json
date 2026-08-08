@@ -6492,5 +6492,14 @@
     "source": "BleepingComputer",
     "summary": "A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact Framework and Tally. [...]",
     "created_at": "2026-08-07T20:31:58.179736+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158779",
+    "title": "OpenAI Slows Down New Astra Model Development to Measure Cybersecurity Capabilities",
+    "link": "https://cybersecuritynews.com/openai-slows-down-new-astra-model/",
+    "published": "Sat, 08 Aug 2026 04:26:21 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OpenAI has announced that it is deliberately slowing the development of Astra, its upcoming frontier AI model, after internal evaluations revealed advancements in agentic coding and cybersecurity that could push the system into “Critical” risk territ",
+    "created_at": "2026-08-08T04:31:36.461116+00:00"
   }
 ]
