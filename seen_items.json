@@ -6537,5 +6537,23 @@
     "source": "CybersecurityNews",
     "summary": "Sophia Antipolis, France, August 7th, 2026, CyberNewswire At DEF CON 34 in Las Vegas, security researcher Jonathan Brossard, known in the community as endrazine, announced the rebirth of the original Bugtraq mailing list. Established in 1993, Bugtraq",
     "created_at": "2026-08-08T08:31:13.563550+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html",
+    "title": "New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens",
+    "link": "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html",
+    "published": "Sat, 08 Aug 2026 13:33:57 +0530",
+    "source": "The Hacker News",
+    "summary": "New research shows content inside an email can escape its message boundary and interfere with the webmail interface.\n\nAcross attack chains spanning Outlook, Gmail, Fastmail, Proton Mail, Yahoo Mail, and AOL Mail, the techniques can capture passwords,",
+    "created_at": "2026-08-08T09:31:22.510655+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
+    "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
+    "link": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
+    "published": "Sat, 08 Aug 2026 14:24:50 +0530",
+    "source": "The Hacker News",
+    "summary": "Attacker-controlled instructions can make Atlassian&#x27;s Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to an outside server. Two security firms found that behavior independently, by different routes. ",
+    "created_at": "2026-08-08T09:31:40.230409+00:00"
   }
 ]
