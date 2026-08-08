@@ -6528,5 +6528,14 @@
     "source": "The Hacker News",
     "summary": "Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day.\n\nThe vulnerability (CVSS score: 10.0), which does not carry a CVE iden",
     "created_at": "2026-08-08T08:04:34.820100+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158793",
+    "title": "Bugtraq Is Back: The Original Full Disclosure Mailing List Is Live Again",
+    "link": "https://cybersecuritynews.com/bugtraq-is-back-the-original-full-disclosure-mailing-list-is-live-again/",
+    "published": "Sat, 08 Aug 2026 08:24:35 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Sophia Antipolis, France, August 7th, 2026, CyberNewswire At DEF CON 34 in Las Vegas, security researcher Jonathan Brossard, known in the community as endrazine, announced the rebirth of the original Bugtraq mailing list. Established in 1993, Bugtraq",
+    "created_at": "2026-08-08T08:31:13.563550+00:00"
   }
 ]
