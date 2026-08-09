@@ -6573,5 +6573,23 @@
     "source": "CybersecurityNews",
     "summary": "Levi Strauss &amp; Co., the denim giant, reported a cybersecurity incident where an unauthorized third party accessed the company’s internal systems via a targeted social engineering attack. According to a regulatory filing submitted to the U.S. Secu",
     "created_at": "2026-08-08T17:31:17.363837+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158557",
+    "title": "From Reactive Forensics to Predictive Defence: Strengthening Cyber Resilience in Banking",
+    "link": "https://cybersecuritynews.com/from-reactive-forensics-to-predictive-defence-strengthening-cyber-resilience-in-banking/",
+    "published": "Sun, 09 Aug 2026 07:03:50 +0000",
+    "source": "CybersecurityNews",
+    "summary": "By Tarun Wig, Co-founder &amp; CEO, Innefu Labs  A bank in India can be doing everything right on paper. ISO certifications in place. RBI-mandated controls implemented. A SOC running around the clock. And it can still find out about a compromise from",
+    "created_at": "2026-08-09T13:01:13.715071+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158810",
+    "title": "CSS Bomb Attacks Turn Malicious Emails Into Password-Stealing Keyloggers",
+    "link": "https://cybersecuritynews.com/css-bomb-attack/",
+    "published": "Sun, 09 Aug 2026 12:58:22 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new class of email-based attacks that exploit ordinary CSS styling code to hijack webmail interfaces, spy on user activity, and even steal passwords in real time, all without relying on JavaScript or traditional malware. Dubbed “CSS bomb” attacks, ",
+    "created_at": "2026-08-09T13:01:19.885236+00:00"
   }
 ]
