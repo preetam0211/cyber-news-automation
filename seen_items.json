@@ -6591,5 +6591,14 @@
     "source": "CybersecurityNews",
     "summary": "A new class of email-based attacks that exploit ordinary CSS styling code to hijack webmail interfaces, spy on user activity, and even steal passwords in real time, all without relying on JavaScript or traditional malware. Dubbed “CSS bomb” attacks, ",
     "created_at": "2026-08-09T13:01:19.885236+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158820",
+    "title": "Microsoft to Launch New Security Detection Report in Teams",
+    "link": "https://cybersecuritynews.com/teams-security-detection-report/",
+    "published": "Sun, 09 Aug 2026 16:18:55 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft is preparing to roll out a new Security Detection Report inside the Teams admin center, giving administrators a long-awaited, unified way to monitor messaging-based threats across their organization. The feature, tracked under Microsoft 365",
+    "created_at": "2026-08-09T16:31:13.557519+00:00"
   }
 ]
