@@ -6246,5 +6246,23 @@
     "source": "BleepingComputer",
     "summary": "A member of &quot;The Com,&quot; a loose-knit online cybercrime collective that targets children and teenagers, has been sentenced to two years in prison for blackmail and sextortion offenses against nearly 120 victims worldwide. [...]",
     "created_at": "2026-08-10T13:01:31.895441+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
+    "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
+    "link": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
+    "published": "Mon, 10 Aug 2026 18:49:58 +0530",
+    "source": "The Hacker News",
+    "summary": "North Korea&#x27;s state hackers are no longer content to type prompts into public chatbots. One of the country&#x27;s main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting document-search tools t",
+    "created_at": "2026-08-10T14:31:00.853119+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/",
+    "title": "When Credentials Are No Longer Enough: Device Trust in the AI Era",
+    "link": "https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/",
+    "published": "Mon, 10 Aug 2026 10:01:11 -0400",
+    "source": "BleepingComputer",
+    "summary": "AI is making phishing, credential theft, and social engineering faster and more efficient, while traditional trust signals such as passwords, MFA, IP reputation, and geolocation become easier to bypass. Specops explains why organizations are increasi",
+    "created_at": "2026-08-10T14:31:08.957533+00:00"
   }
 ]
