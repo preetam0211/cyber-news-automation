@@ -6400,5 +6400,14 @@
     "source": "CybersecurityNews",
     "summary": "A security researcher has disclosed a boot-chain weakness in HP ThinPro 8 and 9 that could allow attackers with physical access to a thin client to extract its LUKS disk-encryption key. The issue affects HP thin clients in which LUKS2 protects the op",
     "created_at": "2026-08-10T16:31:36.585260+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html",
+    "title": "⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors",
+    "link": "https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html",
+    "published": "Mon, 10 Aug 2026 20:30:29 +0530",
+    "source": "The Hacker News",
+    "summary": "A lot of security problems still begin with someone doing a completely normal thing. Cloning a repo. Answering a call. Leaving a box exposed. Trusting the default.\n\nThat pretty much covers the mood this week. Old bugs are back, supply chains are gett",
+    "created_at": "2026-08-10T17:01:08.335915+00:00"
   }
 ]
