@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
-    "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
-    "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
-    "published": "Sat, 11 Jul 2026 10:18:23 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-11T15:00:31.769511+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
     "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
     "link": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
@@ -6264,5 +6256,104 @@
     "source": "BleepingComputer",
     "summary": "AI is making phishing, credential theft, and social engineering faster and more efficient, while traditional trust signals such as passwords, MFA, IP reputation, and geolocation become easier to bypass. Specops explains why organizations are increasi",
     "created_at": "2026-08-10T14:31:08.957533+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158889",
+    "title": "Interlock Turns the Tools Incident Responders Use Into Weapons for Stealing Windows Passwords",
+    "link": "https://cybersecuritynews.com/interlock-turns-the-tools/",
+    "published": "Mon, 10 Aug 2026 11:32:58 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Interlock ransomware is taking a familiar Windows security tool and using it for credential theft. The group has turned memory analysis software into a way to pull password hashes and account data from compromised computers. One compromised workstati",
+    "created_at": "2026-08-10T15:01:21.787508+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158898",
+    "title": "Malicious Solidity Pro VS Code Extension Steals Crypto Wallets, API Keys and SSH Keys via Telegram",
+    "link": "https://cybersecuritynews.com/malicious-solidity-pro-vs-code-extension/",
+    "published": "Mon, 10 Aug 2026 11:56:27 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Malicious extensions are turning a routine developer task into a route for theft. A package named Solidity Pro, promoted as a useful tool for Solidity work in Visual Studio Code, has been used to steal cryptocurrency wallet data and developer secrets",
+    "created_at": "2026-08-10T15:01:26.886835+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158880",
+    "title": "Apple Private Cloud Compute Flaw Enables Root File Writes and AI Inference Telemetry Leakage",
+    "link": "https://cybersecuritynews.com/apple-private-cloud-compute-vulnerability/",
+    "published": "Mon, 10 Aug 2026 11:58:17 +0000",
+    "source": "CybersecurityNews",
+    "summary": "CVE-2026-20685 is a path traversal vulnerability affecting Apple’s Private Cloud Compute (PCC), potentially allowing attackers to write files as root during node boot and redirect sensitive AI inference telemetry to an external server. Sentry Securit",
+    "created_at": "2026-08-10T15:01:28.160235+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158870",
+    "title": "Top 10 Malware Threats of the Week – AsyncRAT, Remcos, and Xworm Lead the Surge",
+    "link": "https://cybersecuritynews.com/top-10-malware-threats/",
+    "published": "Mon, 10 Aug 2026 12:08:53 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Global malware activity climbed sharply over the past week, with remote access trojans (RATs), information stealers, and loaders all posting significant week-over-week gains, according to threat sample uploads tracked by ANY.RUN. AsyncRAT topped the ",
+    "created_at": "2026-08-10T15:01:30.492455+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158916",
+    "title": "Valve Steam Hardware Buyers Hit by CEVA Logistics Data Breach",
+    "link": "https://cybersecuritynews.com/valve-steam-ceva-data-breach/",
+    "published": "Mon, 10 Aug 2026 12:31:53 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Valve has confirmed that a cyberattack on CEVA Logistics, its European shipping partner for Steam hardware such as the Steam Deck, Steam Machine, and Steam Controller, exposed customer data belonging to buyers across Europe. The breach occurred betwe",
+    "created_at": "2026-08-10T15:01:31.941929+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158917",
+    "title": "Ransomware Operators Disable EDR, Backup Software and Windows Telemetry Before Encryption",
+    "link": "https://cybersecuritynews.com/ransomware-operators-disable-edr/",
+    "published": "Mon, 10 Aug 2026 12:33:31 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Ransomware crews are increasingly trying to blind a victim before they encrypt anything. Analysis shows that attackers can disable endpoint detection and response tools, interrupt Windows telemetry, and target backup services to reduce the chance tha",
+    "created_at": "2026-08-10T15:01:33.113739+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158918",
+    "title": "Google Play Apps Use Stealth Loaders to Deliver Anatsa Banking Malware",
+    "link": "https://cybersecuritynews.com/google-play-apps-use-stealth-loaders/",
+    "published": "Mon, 10 Aug 2026 13:12:59 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Android users are facing a fresh reminder that a familiar app-store listing can hide a financial threat. Researchers have observed malicious loaders on Google Play that can prepare the ground for Anatsa, an Android banking Trojan designed to put acco",
+    "created_at": "2026-08-10T15:01:35.430061+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158934",
+    "title": "Fake GoogleTranslate Chrome Extension Lets Attackers Remotely Control Your Browsers",
+    "link": "https://cybersecuritynews.com/fake-googletranslate-chrome-extension/",
+    "published": "Mon, 10 Aug 2026 13:35:24 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A malicious Chrome extension masquerading as GoogleTranslate that can steal sensitive browser data, live-stream web sessions, and allow threat actors to remotely interact with Chrome windows while keeping their activity out of the victim’s view. The ",
+    "created_at": "2026-08-10T15:01:37.710532+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/",
+    "title": "CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/",
+    "published": "Mon, 10 Aug 2026 10:34:32 -0400",
+    "source": "BleepingComputer",
+    "summary": "CISA has confirmed that ransomware gangs have begun exploiting two recently patched SonicWall SMA1000 vulnerabilities, including a maximum-severity server-side request forgery (SSRF) flaw. [...]",
+    "created_at": "2026-08-10T15:01:40.036371+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158938",
+    "title": "Red Hat ACM Privilege Escalation Vulnerability Lets Attackers Gain Full Cluster-Admin Access",
+    "link": "https://cybersecuritynews.com/red-hat-acm-privilege-escalation-vulnerability/",
+    "published": "Mon, 10 Aug 2026 14:46:22 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Red Hat has disclosed a critical privilege escalation flaw, tracked as CVE-2026-10090, affecting the Application Subscription controller in Red Hat Advanced Cluster Management for Kubernetes (ACM). Rated Important with a CVSS score of 9.9, the vulner",
+    "created_at": "2026-08-10T15:01:42.271527+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158912",
+    "title": "GitHub Expands Supply Chain Malware Detection From npm to 8 Package Registries",
+    "link": "https://cybersecuritynews.com/github-expands-supply-chain-malware-detection/",
+    "published": "Mon, 10 Aug 2026 14:57:47 +0000",
+    "source": "CybersecurityNews",
+    "summary": "GitHub has expanded its malware detection capabilities beyond npm, providing developers with broader protection against malicious open-source packages. Dependabot alerts can now identify harmful dependencies across 8 major package ecosystems: npm, Py",
+    "created_at": "2026-08-10T15:01:44.667013+00:00"
   }
 ]
