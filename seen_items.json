@@ -6172,5 +6172,32 @@
     "source": "BleepingComputer",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity Progress Kemp LoadMaster command injection vulnerability. [...]",
     "created_at": "2026-08-10T10:04:20.660830+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158869",
+    "title": "Payroll Pirates AiTM Phishing Hijacks Microsoft 365 Sessions and Targets Payroll Emails",
+    "link": "https://cybersecuritynews.com/payroll-pirates-aitm-phishing/",
+    "published": "Mon, 10 Aug 2026 09:07:40 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Payroll Pirates are using phishing emails to seize Microsoft 365 sessions and search payroll-related mailboxes. The campaign turns a voicemail alert into a route for financial fraud, even when multi-factor authentication is enabled. The messages imit",
+    "created_at": "2026-08-10T10:31:16.222345+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158861",
+    "title": "Connective eID Extension Flaws Let Attackers Steal Belgian ID PINs and Trigger Drive-By RCE",
+    "link": "https://cybersecuritynews.com/connective-eid-extension-flaws/",
+    "published": "Mon, 10 Aug 2026 09:25:22 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Critical flaws have been found in the Connective Signing Extension, a browser component used by more than 2 million people in Belgium to access electronic identity cards and Maestro payment cards. The now-patched issues could have allowed malicious w",
+    "created_at": "2026-08-10T10:31:32.460775+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158877",
+    "title": "Kimsuky Uses Local LLMs, AI-Generated Lures and GitHub C2 to Deploy AsyncRAT",
+    "link": "https://cybersecuritynews.com/kimsuky-uses-local-llms/",
+    "published": "Mon, 10 Aug 2026 10:07:26 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Kimsuky has been observed blending polished AI-made documents with familiar phishing tactics to push AsyncRAT, a remote-access trojan. The campaign shows how old delivery methods can gain new credibility when the bait looks professionally written and",
+    "created_at": "2026-08-10T10:31:53.203133+00:00"
   }
 ]
