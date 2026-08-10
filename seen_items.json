@@ -6217,5 +6217,14 @@
     "source": "BleepingComputer",
     "summary": "Video game publisher and digital distribution giant Valve is notifying Steam hardware customers in Europe that hackers stole their data after hacking its shipping partner, CEVA Logistics. [...]",
     "created_at": "2026-08-10T12:01:13.257451+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/",
+    "title": "LexisNexis shuts down services after suspicious activity on servers",
+    "link": "https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/",
+    "published": "Mon, 10 Aug 2026 08:11:52 -0400",
+    "source": "BleepingComputer",
+    "summary": "LexisNexis took its Diligence, Metabase API, and Newsdesk services offline as part of its response to unusual activity on servers hosted and managed by an unnamed third-party vendor. [...]",
+    "created_at": "2026-08-10T12:34:32.334382+00:00"
   }
 ]
