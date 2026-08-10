@@ -6438,5 +6438,14 @@
     "source": "BleepingComputer",
     "summary": "A threat actor compromised the upstream infrastructure of BdThemes, a developer of premium WordPress web-design tools, and modified a remote JSON feed delivered to administrators&#x27; browsers to create rogue admin accounts. [...]",
     "created_at": "2026-08-10T21:31:14.167726+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
+    "title": "Hackers breached a small Polish energy plant via private APN last year",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
+    "published": "Mon, 10 Aug 2026 19:07:21 -0400",
+    "source": "BleepingComputer",
+    "summary": "Hackers breached a heat-and-power plant facility in Poland, which supplies heat to about 50,000 residents, using a private APN (Access Point Name) to access an OT (Operational Technology) network. [...]",
+    "created_at": "2026-08-10T23:31:18.529728+00:00"
   }
 ]
