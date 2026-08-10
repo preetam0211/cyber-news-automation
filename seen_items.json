@@ -6100,5 +6100,23 @@
     "source": "CybersecurityNews",
     "summary": "Windows 11’s default Weather app, a fixture on the taskbar for millions of users, is under fire after independent testing revealed it consumes more than 1.2GB of RAM just to display a simple forecast and map. The findings, first reported by Windows L",
     "created_at": "2026-08-10T04:02:14.447230+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158837",
+    "title": "Claude Opus 5 Cuts Indirect Prompt Injection Attack Success to 2% in New Benchmark Analysis",
+    "link": "https://cybersecuritynews.com/claude-opus-5-reduces-prompt-injection-attack/",
+    "published": "Mon, 10 Aug 2026 05:39:59 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Anthropic’s Claude Opus 5 has recorded the lowest indirect prompt injection attack success rate in Gray Swan’s latest benchmark, according to results provided in its system card. The model reduced an attacker’s chance of success within 15 attempts to",
+    "created_at": "2026-08-10T06:31:17.787725+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158840",
+    "title": "New WordPress Supply Chain Attack Compromises Themes via Poisoned API Response",
+    "link": "https://cybersecuritynews.com/wordpress-supply-chain-attack/",
+    "published": "Mon, 10 Aug 2026 06:19:45 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A supply chain attack targeting BdThemes WordPress plugins has exposed site administrators to account takeover, webshell deployment, and persistent backdoors. Wordfence Threat Intelligence was notified of the incident on August 7, 2026, after discove",
+    "created_at": "2026-08-10T06:31:31.288987+00:00"
   }
 ]
