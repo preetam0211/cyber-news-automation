@@ -6208,5 +6208,14 @@
     "source": "CybersecurityNews",
     "summary": "Ransomware campaigns are increasingly starting with people who hold the keys to everyday business decisions. Attackers are compromising managers whose accounts can open doors to contracts, payments, customer records, and internal teams. Their job tit",
     "created_at": "2026-08-10T11:31:14.347019+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/",
+    "title": "Valve notifies Steam hardware customers of a data breach",
+    "link": "https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/",
+    "published": "Mon, 10 Aug 2026 07:47:55 -0400",
+    "source": "BleepingComputer",
+    "summary": "Video game publisher and digital distribution giant Valve is notifying Steam hardware customers in Europe that hackers stole their data after hacking its shipping partner, CEVA Logistics. [...]",
+    "created_at": "2026-08-10T12:01:13.257451+00:00"
   }
 ]
