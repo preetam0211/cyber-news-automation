@@ -6127,5 +6127,32 @@
     "source": "The Hacker News",
     "summary": "OpenAI has announced that it&#x27;s pausing some &quot;internal activities&quot; involving its upcoming artificial intelligence (AI) model Astra after an internal evaluation found it had made significant advancements in agentic coding and cybersecuri",
     "created_at": "2026-08-10T07:01:02.055421+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html",
+    "title": "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials",
+    "link": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html",
+    "published": "Mon, 10 Aug 2026 13:08:23 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have flagged a malicious Microsoft Visual Studio Code (VS Code) extension named Solidity Pro (&quot;solidity-pro&quot;) that has been observed delivering a browser wallet and credential stealer.\n\nThe names of the extensions ",
+    "created_at": "2026-08-10T08:31:13.330320+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158835",
+    "title": "Claude Code Sessions Spawn Reverse Tunnels and LaunchAgent Persistence on macOS",
+    "link": "https://cybersecuritynews.com/claude-code-sessions-spawn/",
+    "published": "Mon, 10 Aug 2026 07:41:56 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Claude Code activity on a macOS developer machine has raised a difficult security question: when does convenient automation become a serious exposure? A new Elastic investigation found a session that opened reverse tunnels, sent login details to temp",
+    "created_at": "2026-08-10T08:31:27.249435+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158854",
+    "title": "Atlassian Rovo Prompt Injection Exfiltrates Jira and Confluence Data Without User Approval",
+    "link": "https://cybersecuritynews.com/atlassian-rovo-prompt-injection-flaw/",
+    "published": "Mon, 10 Aug 2026 08:21:40 +0000",
+    "source": "CybersecurityNews",
+    "summary": "RovoBlast is a one-click prompt-injection vulnerability in Atlassian Rovo that could allow attackers to exfiltrate sensitive enterprise data from Jira, Confluence, SharePoint, and other connected services. Atlassian addressed the reported URL-based i",
+    "created_at": "2026-08-10T08:31:32.925269+00:00"
   }
 ]
