@@ -6082,5 +6082,23 @@
     "source": "CybersecurityNews",
     "summary": "This week’s roundup covers active exploitation of Apache Tomcat and SonicWall SMA, a nearly two-decade-old Linux kernel flaw, critical bugs in N-able N-Central, Veeam ONE, Jenkins, and Cisco IOS XE, plus a wave of AI-security incidents touching Claud",
     "created_at": "2026-08-09T18:01:52.779862+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158829",
+    "title": "Claude-Powered OpenClaw AI Agent Exploits Gym API to Steal a Workout Slot",
+    "link": "https://cybersecuritynews.com/gym-api-exploited-by-ai-agent/",
+    "published": "Mon, 10 Aug 2026 02:47:03 +0000",
+    "source": "CybersecurityNews",
+    "summary": "An Australian man’s AI assistant has become the center of what is being described as the country’s first known autonomous AI cyberattack, after it exploited a security flaw in a gym’s booking system to secure him a class spot by canceling another mem",
+    "created_at": "2026-08-10T04:01:35.057590+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158832",
+    "title": "Windows 11’s Built-In Weather App Reportedly Consumes 1.2GB of RAM for Showing Forecasts",
+    "link": "https://cybersecuritynews.com/windows-11s-weather-app-ram-usage/",
+    "published": "Mon, 10 Aug 2026 03:29:28 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Windows 11’s default Weather app, a fixture on the taskbar for millions of users, is under fire after independent testing revealed it consumes more than 1.2GB of RAM just to display a simple forecast and map. The findings, first reported by Windows L",
+    "created_at": "2026-08-10T04:02:14.447230+00:00"
   }
 ]
