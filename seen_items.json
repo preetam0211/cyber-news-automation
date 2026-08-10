@@ -6409,5 +6409,23 @@
     "source": "The Hacker News",
     "summary": "A lot of security problems still begin with someone doing a completely normal thing. Cloning a repo. Answering a call. Leaving a box exposed. Trusting the default.\n\nThat pretty much covers the mood this week. Old bugs are back, supply chains are gett",
     "created_at": "2026-08-10T17:01:08.335915+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html",
+    "title": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw",
+    "link": "https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html",
+    "published": "Mon, 10 Aug 2026 22:08:37 +0530",
+    "source": "The Hacker News",
+    "summary": "Microsoft has disclosed that Storm-1175, a financially motivated threat actor linked to China, has deployed a previously undocumented ransomware strain called StormEncryptor.\n\nThe use of StormEncryptor marks a shift from the adversary&#x27;s previous",
+    "created_at": "2026-08-10T18:01:15.485455+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/",
+    "title": "New StormEncryptor ransomware used by former Medusa affiliate",
+    "link": "https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/",
+    "published": "Mon, 10 Aug 2026 13:42:00 -0400",
+    "source": "BleepingComputer",
+    "summary": "A financially motivated threat actor previously associated with the Medusa ransomware operation is now deploying a new ransomware strain called StormEncryptor. [...]",
+    "created_at": "2026-08-10T18:01:20.877110+00:00"
   }
 ]
