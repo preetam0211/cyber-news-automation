@@ -6118,5 +6118,14 @@
     "source": "CybersecurityNews",
     "summary": "A supply chain attack targeting BdThemes WordPress plugins has exposed site administrators to account takeover, webshell deployment, and persistent backdoors. Wordfence Threat Intelligence was notified of the incident on August 7, 2026, after discove",
     "created_at": "2026-08-10T06:31:31.288987+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html",
+    "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
+    "link": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html",
+    "published": "Mon, 10 Aug 2026 11:20:03 +0530",
+    "source": "The Hacker News",
+    "summary": "OpenAI has announced that it&#x27;s pausing some &quot;internal activities&quot; involving its upcoming artificial intelligence (AI) model Astra after an internal evaluation found it had made significant advancements in agentic coding and cybersecuri",
+    "created_at": "2026-08-10T07:01:02.055421+00:00"
   }
 ]
