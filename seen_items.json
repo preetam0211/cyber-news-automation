@@ -6154,5 +6154,14 @@
     "source": "CybersecurityNews",
     "summary": "RovoBlast is a one-click prompt-injection vulnerability in Atlassian Rovo that could allow attackers to exfiltrate sensitive enterprise data from Jira, Confluence, SharePoint, and other connected services. Atlassian addressed the reported URL-based i",
     "created_at": "2026-08-10T08:31:32.925269+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158860",
+    "title": "Hackers Distributing Malicious VBS/PowerShell RAT Chain Via Multiple DuckDNS Hosts",
+    "link": "https://cybersecuritynews.com/powershell-rat-chain-duckdns-hosts/",
+    "published": "Mon, 10 Aug 2026 08:38:34 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly observed malware campaign is using simple Windows scripts to open the door to remote control and data theft. The chain relies on Visual Basic Script, or VBS, and PowerShell, two tools present on business computers, making an infection appear ",
+    "created_at": "2026-08-10T09:01:18.547875+00:00"
   }
 ]
