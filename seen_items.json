@@ -6355,5 +6355,23 @@
     "source": "CybersecurityNews",
     "summary": "GitHub has expanded its malware detection capabilities beyond npm, providing developers with broader protection against malicious open-source packages. Dependabot alerts can now identify harmful dependencies across 8 major package ecosystems: npm, Py",
     "created_at": "2026-08-10T15:01:44.667013+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158890",
+    "title": "Windows WalletService Vulnerability Allows Attackers to Escalate Privileges – PoC Released",
+    "link": "https://cybersecuritynews.com/windows-walletservice-vulnerability-poc-released/",
+    "published": "Mon, 10 Aug 2026 15:01:15 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has patched a Windows WalletService vulnerability that could let local attackers gain SYSTEM privileges, with a public proof of concept urging organizations to deploy the July 2026 security updates. Tracked as CVE-2026-49176, the issue is a",
+    "created_at": "2026-08-10T16:01:19.510221+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158925",
+    "title": "CISA Warns of Progress LoadMaster Command Injection Vulnerability Exploited in Attacks",
+    "link": "https://cybersecuritynews.com/progress-loadmaster-command-injection-vulnerability-exploited/",
+    "published": "Mon, 10 Aug 2026 15:12:07 +0000",
+    "source": "CybersecurityNews",
+    "summary": "CISA has added a critical Progress LoadMaster vulnerability to its Known Exploited Vulnerabilities catalog after attackers were observed targeting exposed devices. Tracked as CVE-2026-8037, the flaw affects Progress LoadMaster and Progress ADC produc",
+    "created_at": "2026-08-10T16:01:20.907086+00:00"
   }
 ]
