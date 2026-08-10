@@ -1,21 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
-    "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
-    "link": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
-    "published": "Sat, 11 Jul 2026 12:15:55 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-11T12:45:56.978529+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
-    "title": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets",
-    "link": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
-    "published": "Sat, 11 Jul 2026 05:03:57 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-11T12:45:58.702202+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
     "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
     "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
@@ -6226,5 +6210,41 @@
     "source": "BleepingComputer",
     "summary": "LexisNexis took its Diligence, Metabase API, and Newsdesk services offline as part of its response to unusual activity on servers hosted and managed by an unnamed third-party vendor. [...]",
     "created_at": "2026-08-10T12:34:32.334382+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
+    "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore",
+    "link": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
+    "published": "Mon, 10 Aug 2026 17:03:41 +0530",
+    "source": "The Hacker News",
+    "summary": "The threat actor known as Head Mare has been observed weaponizing security flaws in unpatched TrueConf servers once again in attacks targeting Russian companies spanning instrumentation, electronics, transport, energy, IT, and software development se",
+    "created_at": "2026-08-10T13:01:08.883226+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
+    "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
+    "link": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
+    "published": "Mon, 10 Aug 2026 17:22:16 +0530",
+    "source": "The Hacker News",
+    "summary": "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed.\n\nWhen software output jumps 10 to 50 times, the proble",
+    "created_at": "2026-08-10T13:01:19.990140+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
+    "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
+    "link": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
+    "published": "Mon, 10 Aug 2026 17:55:04 +0530",
+    "source": "The Hacker News",
+    "summary": "Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on.\n\nPasskeys are designed to replace reusable passwords and resist phishing. The attacks instead reused signed auth",
+    "created_at": "2026-08-10T13:01:22.170466+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/",
+    "title": "Member of The Com sent to prison for blackmail, sextortion",
+    "link": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/",
+    "published": "Mon, 10 Aug 2026 08:56:28 -0400",
+    "source": "BleepingComputer",
+    "summary": "A member of &quot;The Com,&quot; a loose-knit online cybercrime collective that targets children and teenagers, has been sentenced to two years in prison for blackmail and sextortion offenses against nearly 120 victims worldwide. [...]",
+    "created_at": "2026-08-10T13:01:31.895441+00:00"
   }
 ]
