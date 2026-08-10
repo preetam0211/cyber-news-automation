@@ -6427,5 +6427,14 @@
     "source": "BleepingComputer",
     "summary": "A financially motivated threat actor previously associated with the Medusa ransomware operation is now deploying a new ransomware strain called StormEncryptor. [...]",
     "created_at": "2026-08-10T18:01:20.877110+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158964",
+    "title": "Gunra Ransomware Exploits Fortinet VPN Flaws to Bypass MFA and Steal Enterprise Data",
+    "link": "https://cybersecuritynews.com/gunra-ransomware-exploits-fortinet-vpn-flaws/",
+    "published": "Mon, 10 Aug 2026 17:24:00 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A joint cybersecurity advisory from the FBI, CISA, the Department of Defense Cyber Crime Center, the NSA, the U.S. Secret Service, and South Korea’s National Police Agency has exposed a dangerous new wave of attacks by the Gunra ransomware group, whi",
+    "created_at": "2026-08-10T18:31:07.523792+00:00"
   }
 ]
