@@ -6429,5 +6429,14 @@
     "source": "BleepingComputer",
     "summary": "OpenAI has developed a new model called &quot;GPT 5.6 Cyber,&quot; designed for vulnerability research, penetration testing, incident response, and remediation. [...]",
     "created_at": "2026-08-10T19:31:18.336200+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
+    "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins",
+    "link": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
+    "published": "Mon, 10 Aug 2026 17:12:10 -0400",
+    "source": "BleepingComputer",
+    "summary": "A threat actor compromised the upstream infrastructure of BdThemes, a developer of premium WordPress web-design tools, and modified a remote JSON feed delivered to administrators&#x27; browsers to create rogue admin accounts. [...]",
+    "created_at": "2026-08-10T21:31:14.167726+00:00"
   }
 ]
