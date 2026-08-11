@@ -6447,5 +6447,14 @@
     "source": "BleepingComputer",
     "summary": "Hackers breached a heat-and-power plant facility in Poland, which supplies heat to about 50,000 residents, using a private APN (Access Point Name) to access an OT (Operational Technology) network. [...]",
     "created_at": "2026-08-10T23:31:18.529728+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158967",
+    "title": "OpenAI Expands Daybreak Cyber with GPT-5.6 for Exploit Validation, Pentesting, and Red Teaming",
+    "link": "https://cybersecuritynews.com/openai-expands-daybreak-cyber/",
+    "published": "Tue, 11 Aug 2026 03:33:12 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OpenAI has expanded its Daybreak program to give vetted security defenders deeper access to frontier AI models, introducing two access tiers—Daybreak Blue and Daybreak Red—alongside a new specialized model, GPT-5.6-Cyber, purpose-built for exploit va",
+    "created_at": "2026-08-11T04:01:16.317251+00:00"
   }
 ]
