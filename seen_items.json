@@ -6781,5 +6781,23 @@
     "source": "CybersecurityNews",
     "summary": "AI security and governance platform Zenity has announced a $125 million Series C funding round led by Norwest. The investment signals escalating enterprise concern over the security risks associated with autonomous AI agents that access sensitive dat",
     "created_at": "2026-08-11T16:01:49.052435+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159043",
+    "title": "Intel’s $20 Billion Stock Sale Fuels a Bigger Fight Over Chip Supply Chain Security",
+    "link": "https://cybersecuritynews.com/intel-20-billion-stock-sale-chip-security/",
+    "published": "Tue, 11 Aug 2026 16:07:08 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Intel has priced an upsized $20 billion public stock offering, a move that goes beyond a routine capital raise and lands squarely in the middle of an ongoing global debate over semiconductor supply chain security. The chipmaker sold 210,526,315 share",
+    "created_at": "2026-08-11T17:01:06.281293+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159111",
+    "title": "CopyEscape Docker Vulnerability Lets Malicious Containers Overwrite Host Files and Gain Root",
+    "link": "https://cybersecuritynews.com/copyescape-docker-vulnerability/",
+    "published": "Tue, 11 Aug 2026 16:39:54 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly disclosed Docker vulnerability, tracked as CVE-2026-17106 and nicknamed “CopyEscape,” allows malicious containers to overwrite files on the host machine and, in certain configurations, achieve full root code execution. The flaw was discovered",
+    "created_at": "2026-08-11T17:01:08.345698+00:00"
   }
 ]
