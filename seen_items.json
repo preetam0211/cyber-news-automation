@@ -6600,5 +6600,32 @@
     "source": "The Hacker News",
     "summary": "Windows Plug and Play can be abused to fetch signed vendor software for an emulated USB device and execute privileged installation components that researchers chained to SYSTEM access on a fully updated Windows 11 machine.\n\nThe same PnP path can be t",
     "created_at": "2026-08-11T11:04:48.536430+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159011",
+    "title": "New ‘Ghostjacking’ Attack Lets Hackers Hijack AI Agents to Run Their Code on Developer Machines",
+    "link": "https://cybersecuritynews.com/ghostjacking-attack/",
+    "published": "Tue, 11 Aug 2026 10:33:29 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new AI-agent attack technique called “Ghostjacking,” can trick coding agents into running attacker-controlled commands, changing cloud settings, stealing credentials, and creating persistent backdoors. The research was presented by Tenet Security a",
+    "created_at": "2026-08-11T11:31:17.899534+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/",
+    "title": "Cisco warns of high-severity ClamAV flaws with public exploits",
+    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/",
+    "published": "Tue, 11 Aug 2026 07:03:01 -0400",
+    "source": "BleepingComputer",
+    "summary": "Cisco warned of two high-severity vulnerabilities affecting the Secure Endpoint Connector that allow threat actors to crash the ClamAV scanning process in denial-of-service (DoS) attacks. [...]",
+    "created_at": "2026-08-11T11:31:20.174991+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159031",
+    "title": "Compromised FortiGate VPN Opens First Step in Multi-Network Polish Energy Attack",
+    "link": "https://cybersecuritynews.com/compromised-fortigate-vpn/",
+    "published": "Tue, 11 Aug 2026 11:23:52 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Poland’s energy sector attack has revealed how one compromised remote-access device can become the first step in a wider industrial intrusion. The campaign moved from a wind-farm network into a heat and power plant, turning trusted connectivity into ",
+    "created_at": "2026-08-11T11:31:22.491709+00:00"
   }
 ]
