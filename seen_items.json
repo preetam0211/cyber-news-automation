@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/",
-    "title": "Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/",
-    "published": "Sun, 12 Jul 2026 15:39:12 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-12T20:00:32.860303+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/",
     "title": "OpenAI temporarily relaxes GPT-5.6 Sol usage limits",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/",
@@ -6889,5 +6881,14 @@
     "source": "The Hacker News",
     "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masquerading as recruiters to trick them in",
     "created_at": "2026-08-11T19:01:13.814561+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
+    "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
+    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
+    "published": "Tue, 11 Aug 2026 15:45:31 -0400",
+    "source": "BleepingComputer",
+    "summary": "Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices. [...]",
+    "created_at": "2026-08-11T20:01:15.249720+00:00"
   }
 ]
