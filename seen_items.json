@@ -6456,5 +6456,41 @@
     "source": "CybersecurityNews",
     "summary": "OpenAI has expanded its Daybreak program to give vetted security defenders deeper access to frontier AI models, introducing two access tiers—Daybreak Blue and Daybreak Red—alongside a new specialized model, GPT-5.6-Cyber, purpose-built for exploit va",
     "created_at": "2026-08-11T04:01:16.317251+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html",
+    "title": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins",
+    "link": "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html",
+    "published": "Tue, 11 Aug 2026 11:18:44 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management systems (CMS) platform&#x27;s plugins team to temporarily disable their downloads.\n\n&quot;Unlike tradition",
+    "created_at": "2026-08-11T06:31:07.128654+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158976",
+    "title": "New Phishing Attack Leverage SSL/TLS Certificates to Target High-value Brands Customers Via Whatsapp",
+    "link": "https://cybersecuritynews.com/new-phishing-attack/",
+    "published": "Tue, 11 Aug 2026 05:52:31 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A phishing operation is using web certificates and chosen web addresses to target customers of high-value brands through WhatsApp. The activity is designed to make fraudulent pages look normal at a glance, turning a familiar security signal into part",
+    "created_at": "2026-08-11T06:31:14.021662+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158972",
+    "title": "Anthropic to Add Invisible Watermarks to All Claude AI Outputs",
+    "link": "https://cybersecuritynews.com/anthropic-adds-invisible-watermarks/",
+    "published": "Tue, 11 Aug 2026 05:59:33 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Anthropic has announced plans to add invisible watermarks and signed metadata to content created by Claude AI. The move follows the company’s decision to sign the European Union AI Act’s Article 50(2) Code of Practice on Transparency of AI-Generated ",
+    "created_at": "2026-08-11T06:31:16.137053+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158975",
+    "title": "Multiple ClamAV Vulnerabilities Allow Remote Attacker to Trigger DoS Condition",
+    "link": "https://cybersecuritynews.com/multiple-clamav-vulnerabilities-dos/",
+    "published": "Tue, 11 Aug 2026 06:02:48 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cisco has disclosed multiple high-severity vulnerabilities in ClamAV that could allow unauthenticated remote attackers to disrupt antivirus scanning operations and cause denial-of-service conditions. The flaws affect the ClamAV parsers used by Cisco ",
+    "created_at": "2026-08-11T06:31:25.105149+00:00"
   }
 ]
