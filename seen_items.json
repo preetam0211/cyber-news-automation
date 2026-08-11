@@ -6501,5 +6501,23 @@
     "source": "The Hacker News",
     "summary": "Attackers shut down a steam turbine and the process-water treatment system at a Polish combined heat and power plant by coming in over the private cellular network the local grid operator uses to reach remote equipment.\n\nThe plant supplies heat to ro",
     "created_at": "2026-08-11T07:34:20.422150+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158990",
+    "title": "Abyssos RAT Includes RDPWrap-Related Module for Expanded Remote Access",
+    "link": "https://cybersecuritynews.com/abyssos-rat-rdpwrap/",
+    "published": "Tue, 11 Aug 2026 07:27:12 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new remote access trojan called Abyssos lets attackers control infected Windows systems. The malware can steal credentials, collect files, and open remote viewing sessions, while its modular design allows operators to add functions after an infecti",
+    "created_at": "2026-08-11T08:01:25.796741+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159002",
+    "title": "Hackers Actively Scanning to Exploit VMware VCenter Vulnerabilities",
+    "link": "https://cybersecuritynews.com/hackers-scan-vmware-vcenter-vulnerabilities/",
+    "published": "Tue, 11 Aug 2026 07:59:20 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Attackers are scanning VMware vCenter after critical vulnerabilities were disclosed, with DefusedCyber’s honeypots recording increased vCenter fingerprinting activity. The activity includes requests to the /sdk/ endpoint using RetrieveServiceContent ",
+    "created_at": "2026-08-11T08:01:37.752077+00:00"
   }
 ]
