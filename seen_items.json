@@ -6555,5 +6555,23 @@
     "source": "BleepingComputer",
     "summary": "U.S. federal agencies and South Korea&#x27;s National Policy Agency warned government and critical infrastructure organizations worldwide to secure their systems against Gunra ransomware attacks. [...]",
     "created_at": "2026-08-11T10:01:31.980451+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159030",
+    "title": "Chinese-speaking Hacking Group Attacking Users With Fake DeepSeek Page to Deliver Malware",
+    "link": "https://cybersecuritynews.com/hacking-group-attacking-fake-deepseek/",
+    "published": "Tue, 11 Aug 2026 10:07:44 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Chinese-speaking cybercriminals are using fake software pages that imitate popular artificial intelligence tools to infect Windows users with remote access malware. The campaign turns interest in DeepSeek into a trap, offering what looks like a norma",
+    "created_at": "2026-08-11T10:31:22.100027+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159032",
+    "title": "Horizon3 Accelerates Partner-Led Growth with $20 Million Ecosystem Investment",
+    "link": "https://cybersecuritynews.com/horizon3-partner-investment/",
+    "published": "Tue, 11 Aug 2026 10:28:44 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Proactive AI-native security vendor Horizon3 has announced a major $20 million investment into its global partner ecosystem. The funding reinforces the company’s channel-first commercial strategy, which aims to help managed service providers (MSPs), ",
+    "created_at": "2026-08-11T10:31:33.565419+00:00"
   }
 ]
