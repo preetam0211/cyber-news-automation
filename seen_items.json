@@ -6519,5 +6519,14 @@
     "source": "CybersecurityNews",
     "summary": "Attackers are scanning VMware vCenter after critical vulnerabilities were disclosed, with DefusedCyber’s honeypots recording increased vCenter fingerprinting activity. The activity includes requests to the /sdk/ endpoint using RetrieveServiceContent ",
     "created_at": "2026-08-11T08:01:37.752077+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158978",
+    "title": "CISA Warns of SonicWall SMA1000 Vulnerabilities Exploited in Attacks to Deploy Ransomware",
+    "link": "https://cybersecuritynews.com/sonicwall-sma1000-vulnerabilities-exploited/",
+    "published": "Tue, 11 Aug 2026 08:35:34 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency warned that two SonicWall SMA1000 vulnerabilities, CVE-2026-15409 and CVE-2026-15410, are being exploited in ransomware attacks and have been added to its KEV catalog. CISA has also marked bot",
+    "created_at": "2026-08-11T09:01:09.990997+00:00"
   }
 ]
