@@ -6492,5 +6492,14 @@
     "source": "CybersecurityNews",
     "summary": "Cisco has disclosed multiple high-severity vulnerabilities in ClamAV that could allow unauthenticated remote attackers to disrupt antivirus scanning operations and cause denial-of-service conditions. The flaws affect the ClamAV parsers used by Cisco ",
     "created_at": "2026-08-11T06:31:25.105149+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html",
+    "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
+    "link": "https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html",
+    "published": "Tue, 11 Aug 2026 12:25:45 +0530",
+    "source": "The Hacker News",
+    "summary": "Attackers shut down a steam turbine and the process-water treatment system at a Polish combined heat and power plant by coming in over the private cellular network the local grid operator uses to reach remote equipment.\n\nThe plant supplies heat to ro",
+    "created_at": "2026-08-11T07:34:20.422150+00:00"
   }
 ]
