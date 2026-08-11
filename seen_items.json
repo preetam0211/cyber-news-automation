@@ -6926,5 +6926,14 @@
     "source": "BleepingComputer",
     "summary": "Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May. [...]",
     "created_at": "2026-08-11T21:34:41.348384+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
+    "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
+    "link": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
+    "published": "Tue, 11 Aug 2026 18:15:22 -0400",
+    "source": "BleepingComputer",
+    "summary": "The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]",
+    "created_at": "2026-08-11T22:31:13.976806+00:00"
   }
 ]
