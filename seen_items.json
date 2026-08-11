@@ -6573,5 +6573,32 @@
     "source": "CybersecurityNews",
     "summary": "Proactive AI-native security vendor Horizon3 has announced a major $20 million investment into its global partner ecosystem. The funding reinforces the company’s channel-first commercial strategy, which aims to help managed service providers (MSPs), ",
     "created_at": "2026-08-11T10:31:33.565419+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
+    "title": "Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks",
+    "link": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
+    "published": "Tue, 11 Aug 2026 14:46:24 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity and intelligence agencies from South Korea and the U.S. warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world.\n\nTargets of these attacks include healthcare and public health, fin",
+    "created_at": "2026-08-11T11:04:21.478226+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html",
+    "title": "Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets",
+    "link": "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html",
+    "published": "Tue, 11 Aug 2026 15:54:00 +0530",
+    "source": "The Hacker News",
+    "summary": "A malicious tool server connected to an AI coding assistant can quietly walk off with SSH keys, environment secrets, source code, and customer data without ever sending one obviously harmful instruction.\n\nThe trick can work even after a blunt version",
+    "created_at": "2026-08-11T11:04:33.752562+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html",
+    "title": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11",
+    "link": "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html",
+    "published": "Tue, 11 Aug 2026 16:18:26 +0530",
+    "source": "The Hacker News",
+    "summary": "Windows Plug and Play can be abused to fetch signed vendor software for an emulated USB device and execute privileged installation components that researchers chained to SYSTEM access on a fully updated Windows 11 machine.\n\nThe same PnP path can be t",
+    "created_at": "2026-08-11T11:04:48.536430+00:00"
   }
 ]
