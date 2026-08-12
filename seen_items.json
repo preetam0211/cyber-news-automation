@@ -6927,5 +6927,14 @@
     "source": "BleepingComputer",
     "summary": "The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]",
     "created_at": "2026-08-11T22:31:13.976806+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/",
+    "title": "Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse",
+    "link": "https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/",
+    "published": "Tue, 11 Aug 2026 21:15:55 -0400",
+    "source": "BleepingComputer",
+    "summary": "Google says Chrome&#x27;s anti-abuse systems reduced unwanted notifications on Android by more than 7 billion per day during the first quarter of 2026. [...]",
+    "created_at": "2026-08-12T01:31:19.924707+00:00"
   }
 ]
