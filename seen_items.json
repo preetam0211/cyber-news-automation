@@ -1,21 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html",
-    "title": "Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found",
-    "link": "https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html",
-    "published": "Mon, 13 Jul 2026 22:47:24 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-13T18:00:32.639556+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html",
-    "title": "CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks",
-    "link": "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html",
-    "published": "Mon, 13 Jul 2026 23:06:12 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-13T18:00:34.403226+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/",
     "title": "New CrashStealer malware poses as Apple crash reporting tool",
     "link": "https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/",
@@ -7157,5 +7141,32 @@
     "source": "CybersecurityNews",
     "summary": "Suspected China-linked attackers have carried out what researchers describe as the first fully autonomous cyberattack on a foreign government, using open-source artificial intelligence tools to breach Taiwanese government websites and critical infras",
     "created_at": "2026-08-12T17:01:26.867042+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159226",
+    "title": "Mindgard Raises $30 Million to Tackle AI’s Fastest-Growing Attack Surface",
+    "link": "https://cybersecuritynews.com/mindgard-ai-security/",
+    "published": "Wed, 12 Aug 2026 17:09:07 +0000",
+    "source": "CybersecurityNews",
+    "summary": "AI security startup Mindgard has closed a $30 million Series A funding round, pushing the company’s total funding to nearly $42 million. The milestone reflects the growing urgency among enterprise organizations seeking to secure rapidly expanding art",
+    "created_at": "2026-08-12T18:01:24.412053+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159232",
+    "title": "New “City-Forum” Hackers Attacking Salesforce and ServiceNow Instances Worldwide",
+    "link": "https://cybersecuritynews.com/salesforce-and-servicenow-targeted-in-attacks/",
+    "published": "Wed, 12 Aug 2026 17:17:31 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly identified threat actor is running a large-scale, long-running cyber campaign targeting Salesforce Experience Cloud sites and ServiceNow Service Portals globally. Dubbed the “City-Forum Campaign” after a domain tied to the attacker’s infrastr",
+    "created_at": "2026-08-12T18:01:26.695596+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159240",
+    "title": "Palo Alto Networks Patches 11 New Vulnerabilities Across PAN-OS, GlobalProtect, and Prisma Access",
+    "link": "https://cybersecuritynews.com/palo-alto-networks-vulnerabilities/",
+    "published": "Wed, 12 Aug 2026 17:26:16 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Palo Alto Networks has released its August 12, 2026 security bulletin, disclosing 11 new vulnerabilities affecting PAN-OS, the GlobalProtect App, Prisma Access Agent, and Prisma Browser, along with a monthly Chromium update rollup. The patch batch sp",
+    "created_at": "2026-08-12T18:01:36.943750+00:00"
   }
 ]
