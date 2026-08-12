@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
-    "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
-    "link": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
-    "published": "Mon, 13 Jul 2026 13:00:00 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-13T09:00:30.834633+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/",
     "title": "US and allies warn of Russian critical infrastructure attacks",
     "link": "https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/",
@@ -6982,5 +6974,14 @@
     "source": "The Hacker News",
     "summary": "SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution.\n\nThe vulnerability, assigned the CVE identifier CVE-2026-58231, is rated 10.0 on the CVSS ",
     "created_at": "2026-08-12T08:04:42.277141+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
+    "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
+    "link": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
+    "published": "Wed, 12 Aug 2026 13:34:52 +0530",
+    "source": "The Hacker News",
+    "summary": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems that installed them.\n\nThreat ",
+    "created_at": "2026-08-12T09:00:59.992859+00:00"
   }
 ]
