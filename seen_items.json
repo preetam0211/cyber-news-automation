@@ -7139,5 +7139,14 @@
     "source": "BleepingComputer",
     "summary": "North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. [...]",
     "created_at": "2026-08-12T16:00:56.517106+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/",
+    "title": "Plug and Pwn attack uses fake USB devices for Windows SYSTEM access",
+    "link": "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/",
+    "published": "Wed, 12 Aug 2026 12:05:12 -0400",
+    "source": "BleepingComputer",
+    "summary": "Security researchers have disclosed new &quot;Plug and Pwn&quot; attacks that abuse the Windows Plug and Play feature to trigger Windows into installing vulnerable or insecure vendor software and gain SYSTEM privileges. [...]",
+    "created_at": "2026-08-12T16:31:04.584264+00:00"
   }
 ]
