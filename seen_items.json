@@ -7148,5 +7148,14 @@
     "source": "BleepingComputer",
     "summary": "Security researchers have disclosed new &quot;Plug and Pwn&quot; attacks that abuse the Windows Plug and Play feature to trigger Windows into installing vulnerable or insecure vendor software and gain SYSTEM privileges. [...]",
     "created_at": "2026-08-12T16:31:04.584264+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159222",
+    "title": "China-linked Hackers Using AI Agents to Attack Taiwan Government Websites",
+    "link": "https://cybersecuritynews.com/chinese-hackers-target-taiwan-using-ai/",
+    "published": "Wed, 12 Aug 2026 16:22:25 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Suspected China-linked attackers have carried out what researchers describe as the first fully autonomous cyberattack on a foreign government, using open-source artificial intelligence tools to breach Taiwanese government websites and critical infras",
+    "created_at": "2026-08-12T17:01:26.867042+00:00"
   }
 ]
