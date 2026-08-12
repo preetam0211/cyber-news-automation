@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/",
-    "title": "EU sanctions Russian GRU military hackers over cyberattacks",
-    "link": "https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/",
-    "published": "Mon, 13 Jul 2026 07:19:05 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-13T12:00:30.804581+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
     "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
     "link": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
@@ -7074,5 +7066,14 @@
     "source": "BleepingComputer",
     "summary": "​Signal has introduced Automatic Key Verification, a new security feature that gives users a new way to ensure their encrypted chats haven&#x27;t been intercepted. [...]",
     "created_at": "2026-08-12T11:34:23.078767+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
+    "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
+    "link": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
+    "published": "Wed, 12 Aug 2026 16:43:03 +0530",
+    "source": "The Hacker News",
+    "summary": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege escalation.\n\nThe most severe ",
+    "created_at": "2026-08-12T12:04:30.050154+00:00"
   }
 ]
