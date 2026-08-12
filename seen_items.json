@@ -6983,5 +6983,59 @@
     "source": "The Hacker News",
     "summary": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems that installed them.\n\nThreat ",
     "created_at": "2026-08-12T09:00:59.992859+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=13042",
+    "title": "Top 10 Best DDoS Protection Services in 2026",
+    "link": "https://cybersecuritynews.com/ddos-protection-tools/",
+    "published": "Wed, 12 Aug 2026 07:41:58 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cloudflare is the best DDoS protection service for most organizations in 2026, scoring highest in our evaluation on the combination of network capacity, always-on mitigation speed, and cost predictability it publicly absorbed a record 31.4 Tbps attac",
+    "created_at": "2026-08-12T09:31:54.918260+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158398",
+    "title": "Top 10 Best Network Access Control (NAC) Solutions in 2026",
+    "link": "https://cybersecuritynews.com/best-nac-solutions/",
+    "published": "Wed, 12 Aug 2026 07:46:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Modern network access control solutions decide which devices get onto your network, what they can reach once connected, and what happens when an unmanaged printer, camera, or unmanaged POS device shows up uninvited. Cisco ISE remains the enterprise s",
+    "created_at": "2026-08-12T09:32:46.830591+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159148",
+    "title": "ClickFix Attack Abuses Signed IBM SPSS IDE to Deploy New CNCMachineRMS RAT",
+    "link": "https://cybersecuritynews.com/clickfix-attack-ibm-spss-ide/",
+    "published": "Wed, 12 Aug 2026 08:05:00 +0000",
+    "source": "CybersecurityNews",
+    "summary": "ClickFix campaigns are once again turning an ordinary user action into the opening move of a serious intrusion. A newly documented chain uses a fake fix prompt to lead victims toward CNCMachineRMS, a previously undocumented remote access trojan that ",
+    "created_at": "2026-08-12T09:33:14.989964+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158415",
+    "title": "Top 10 Best Business VPN Solutions in 2026",
+    "link": "https://cybersecuritynews.com/best-business-vpn-solutions/",
+    "published": "Wed, 12 Aug 2026 08:18:08 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The best business VPN solutions in 2026 are increasingly the ones that aren’t traditional VPNs at all. Twingate and Tailscale lead for modern least-privilege remote access, Cisco Secure Client (AnyConnect) and Palo Alto GlobalProtect remain the enter",
+    "created_at": "2026-08-12T09:33:41.246225+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159152",
+    "title": "Google-themed Credential Phishing Attempt Delivered Through a Fake ‘New Audio MSG’ Email",
+    "link": "https://cybersecuritynews.com/google-themed-credential-phishing/",
+    "published": "Wed, 12 Aug 2026 08:34:05 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new credential phishing campaign is using a fake “New Audio MSG” email to draw recipients toward a convincing Google-themed sign-in page. The message turns a familiar voicemail-style prompt into a way to steal account credentials, relying on a simp",
+    "created_at": "2026-08-12T09:34:12.197962+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159158",
+    "title": "Sandworm Fake Job Interviews Push Trojanized WireGuard VPN to Infect IT Professionals",
+    "link": "https://cybersecuritynews.com/sandworm-fake-job-interviews/",
+    "published": "Wed, 12 Aug 2026 09:04:15 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Sandworm has turned the routine job interview into a route for compromising IT workers. The campaign uses convincing recruiter conversations, live video calls and a booby-trapped virtual private network client to reach people who may hold privileged ",
+    "created_at": "2026-08-12T09:34:38.467342+00:00"
   }
 ]
