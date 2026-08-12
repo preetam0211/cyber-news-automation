@@ -1,21 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html",
-    "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
-    "link": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html",
-    "published": "Mon, 13 Jul 2026 18:33:33 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-13T14:00:39.063156+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/",
-    "title": "UK charges suspects linked to Russian Coms call spoofing platform",
-    "link": "https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/",
-    "published": "Mon, 13 Jul 2026 09:23:30 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-13T14:00:40.919439+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/",
     "title": "Breach at the Beach: Play the Ultimate Entra ID CTF",
     "link": "https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/",
@@ -7105,5 +7089,23 @@
     "source": "The Hacker News",
     "summary": "A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords.\n\nThe weakness affected encrypted",
     "created_at": "2026-08-12T13:31:14.520289+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159176",
+    "title": "737 Fake Chrome VPN Extensions Hijack Browser Traffic Through Attacker-Controlled SOCKS5 Proxies",
+    "link": "https://cybersecuritynews.com/fake-chrome-vpn-extensions/",
+    "published": "Wed, 12 Aug 2026 13:05:25 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hundreds of Chrome extensions advertised as free VPN or proxy tools have been tied to a large traffic-redirection operation. The listings promised privacy and access to blocked services, but their code sent browser sessions through SOCKS5 proxy serve",
+    "created_at": "2026-08-12T14:01:28.968687+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159175",
+    "title": "Hackers Actively Exploiting VMware vCenter Systems to Gain and Maintain Remote Access",
+    "link": "https://cybersecuritynews.com/vmware-vcenter-remote-access-exploited/",
+    "published": "Wed, 12 Aug 2026 13:58:15 +0000",
+    "source": "CybersecurityNews",
+    "summary": "An active cyberattack campaign targeting internet-accessible VMware vCenter instances. During recent incident-response engagements, security analysts uncovered evidence that advanced persistent threat (APT) actors are actively weaponizing CVE-2026-59",
+    "created_at": "2026-08-12T14:01:31.221017+00:00"
   }
 ]
