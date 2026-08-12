@@ -7087,5 +7087,23 @@
     "source": "CybersecurityNews",
     "summary": "Stolen login data is so abundant that criminal markets can sell it for almost nothing. Meanwhile, verified entry into large companies commands far higher prices, reshaping the underground economy. Infostealer malware drives that divide. It reaches vi",
     "created_at": "2026-08-12T13:01:19.249777+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
+    "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
+    "link": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
+    "published": "Wed, 12 Aug 2026 17:11:34 +0530",
+    "source": "The Hacker News",
+    "summary": "Enterprise defenses are tuned to catch the attacks that make noise. This year&#x27;s data shows attackers winning by making none.\n\nAccording to Picus Labs&#x27; new Blue Report 2026, which measured more than 338 million real attack simulations across",
+    "created_at": "2026-08-12T13:31:12.264888+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
+    "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
+    "link": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
+    "published": "Wed, 12 Aug 2026 17:17:38 +0530",
+    "source": "The Hacker News",
+    "summary": "A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords.\n\nThe weakness affected encrypted",
+    "created_at": "2026-08-12T13:31:14.520289+00:00"
   }
 ]
