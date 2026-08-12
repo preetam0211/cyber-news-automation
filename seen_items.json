@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
-    "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
-    "link": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
-    "published": "Mon, 13 Jul 2026 11:06:02 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-13T07:00:29.573185+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
     "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
     "link": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
@@ -6945,5 +6937,23 @@
     "source": "CybersecurityNews",
     "summary": "North Korea’s Lazarus group has been caught exploiting a Windows kernel 0-day vulnerability to deploy an upgraded version of its notorious FudModule rootkit, according to new research from Check Point Research. The flaw, now tracked as CVE-2026-68820",
     "created_at": "2026-08-12T03:31:37.944118+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159140",
+    "title": "Microsoft Outlook Vulnerability Allows Attackers to Execute Malicious Code Remotely",
+    "link": "https://cybersecuritynews.com/microsoft-outlook-rce-vulnerability-2/",
+    "published": "Wed, 12 Aug 2026 03:40:32 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has disclosed a new remote code execution flaw in Outlook, tracked as CVE-2026-70329, as part of its August 2026 Patch Tuesday rollout. The vulnerability stems from an integer overflow or wraparound weakness in Microsoft Office Outlook, and",
+    "created_at": "2026-08-12T07:01:56.740299+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159143",
+    "title": "Microsoft SharePoint Server Vulnerability Allows Attackers to Inject and Execute Malicious Code Remotely",
+    "link": "https://cybersecuritynews.com/microsoft-sharepoint-server-vulnerability/",
+    "published": "Wed, 12 Aug 2026 05:16:52 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly disclosed flaw in Microsoft SharePoint Server has raised fresh concerns across enterprise IT environments, as security researchers reveal how attackers could remotely inject and execute malicious code without needing any authentication. The v",
+    "created_at": "2026-08-12T07:02:12.053711+00:00"
   }
 ]
