@@ -7107,5 +7107,23 @@
     "source": "CybersecurityNews",
     "summary": "An active cyberattack campaign targeting internet-accessible VMware vCenter instances. During recent incident-response engagements, security analysts uncovered evidence that advanced persistent threat (APT) actors are actively weaponizing CVE-2026-59",
     "created_at": "2026-08-12T14:01:31.221017+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/",
+    "title": "The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In",
+    "link": "https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/",
+    "published": "Wed, 12 Aug 2026 10:01:11 -0400",
+    "source": "BleepingComputer",
+    "summary": "Fake remote workers can exploit gaps between hiring checks, device delivery, and account access to enter organizations under false identities. Specops Software explains how document verification and biometric liveness checks can help organizations co",
+    "created_at": "2026-08-12T14:34:36.413002+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/",
+    "title": "FBI: Hackers target online accounts to steal nude photos",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/",
+    "published": "Wed, 12 Aug 2026 10:15:09 -0400",
+    "source": "BleepingComputer",
+    "summary": "The FBI warns that cybercriminals are targeting adults&#x27; and children&#x27;s social media and other online accounts to steal sexually explicit images or videos. [...]",
+    "created_at": "2026-08-12T14:34:38.722900+00:00"
   }
 ]
