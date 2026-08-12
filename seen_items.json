@@ -1,29 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
-    "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
-    "link": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
-    "published": "Mon, 13 Jul 2026 16:32:33 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-13T13:00:38.423332+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html",
-    "title": "Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots",
-    "link": "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html",
-    "published": "Mon, 13 Jul 2026 17:07:05 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-13T13:00:40.285909+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html",
-    "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
-    "link": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html",
-    "published": "Mon, 13 Jul 2026 17:24:46 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-13T13:00:42.113428+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html",
     "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
     "link": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html",
@@ -7084,5 +7060,32 @@
     "source": "BleepingComputer",
     "summary": "Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday. [...]",
     "created_at": "2026-08-12T12:34:35.449926+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159165",
+    "title": "13-Minute WindRelay Malware Attack Uses SpyNote RAT and NFC Relay Malware to Drain Victim Accounts",
+    "link": "https://cybersecuritynews.com/13-minute-windrelay-malware-attack/",
+    "published": "Wed, 12 Aug 2026 12:00:34 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new Android fraud operation shows how quickly a convincing phone call can turn into financial loss. The campaign combines the SpyNote remote-control tool with WindRelay, a newly tracked NFC relay malware family. Together, they give criminals access",
+    "created_at": "2026-08-12T13:01:14.662803+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159170",
+    "title": "Fake CCleaner Download Installs GhostDesk Chrome Spyware on Windows PCs",
+    "link": "https://cybersecuritynews.com/fake-ccleaner-download/",
+    "published": "Wed, 12 Aug 2026 12:28:02 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Windows users looking for a familiar cleanup utility are being steered toward a convincing counterfeit download page. The file they receive installs GhostDesk, a malicious Chrome extension built to watch activity inside the browser. The campaign turn",
+    "created_at": "2026-08-12T13:01:16.947186+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159173",
+    "title": "2.86 Billion Credentials Flood Criminal Markets as Enterprise Access Moves Upmarket",
+    "link": "https://cybersecuritynews.com/credentials-flood-criminal-markets/",
+    "published": "Wed, 12 Aug 2026 12:52:07 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Stolen login data is so abundant that criminal markets can sell it for almost nothing. Meanwhile, verified entry into large companies commands far higher prices, reshaping the underground economy. Infostealer malware drives that divide. It reaches vi",
+    "created_at": "2026-08-12T13:01:19.249777+00:00"
   }
 ]
