@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/",
-    "title": "US and allies warn of Russian critical infrastructure attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/",
-    "published": "Mon, 13 Jul 2026 05:32:23 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-13T10:00:28.752467+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/",
     "title": "EU sanctions Russian GRU military hackers over cyberattacks",
     "link": "https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/",
@@ -7037,5 +7029,14 @@
     "source": "CybersecurityNews",
     "summary": "Sandworm has turned the routine job interview into a route for compromising IT workers. The campaign uses convincing recruiter conversations, live video calls and a booby-trapped virtual private network client to reach people who may hold privileged ",
     "created_at": "2026-08-12T09:34:38.467342+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
+    "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
+    "link": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
+    "published": "Wed, 12 Aug 2026 14:31:54 +0530",
+    "source": "The Hacker News",
+    "summary": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO.\n\nThe vulnerability in question is CVE-2026-59310 (CVSS score: 9.8), a directory-traversal vulner",
+    "created_at": "2026-08-12T10:01:13.115641+00:00"
   }
 ]
