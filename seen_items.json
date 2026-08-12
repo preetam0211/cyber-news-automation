@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/",
-    "title": "Japan's largest taxi operator shuts systems after cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/",
-    "published": "Mon, 13 Jul 2026 16:18:59 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-13T21:00:33.631656+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html",
     "title": "Microsoft Maps Year-Long ShinyHunters-Linked Salesforce Data Theft Across Three Paths",
     "link": "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html",
@@ -7170,5 +7162,14 @@
     "source": "BleepingComputer",
     "summary": "More than 737 browser extensions published on the Chrome Web Store impersonated well-known VPN and proxy services while routing users&#x27; traffic through SOCKS5 proxies operated by a single provider. [...]",
     "created_at": "2026-08-12T19:01:18.316912+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/",
+    "title": "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/",
+    "published": "Wed, 12 Aug 2026 16:54:59 -0400",
+    "source": "BleepingComputer",
+    "summary": "Attempts to exploit a critical vulnerability (CVE-2026-71362) in Adobe&#x27;s Commerce and Magento e-commerce platforms have been detected, potentially allowing attackers to hijack customer accounts. [...]",
+    "created_at": "2026-08-12T21:04:40.034854+00:00"
   }
 ]
