@@ -1,21 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/",
-    "title": "Breach at the Beach: Play the Ultimate Entra ID CTF",
-    "link": "https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/",
-    "published": "Mon, 13 Jul 2026 10:01:11 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-13T15:00:33.718967+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/",
-    "title": "Lidl discloses online shop breach after service provider hack",
-    "link": "https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/",
-    "published": "Mon, 13 Jul 2026 10:19:43 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-13T15:00:35.636690+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html",
     "title": "New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email",
     "link": "https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html",
@@ -7125,5 +7109,14 @@
     "source": "BleepingComputer",
     "summary": "The FBI warns that cybercriminals are targeting adults&#x27; and children&#x27;s social media and other online accounts to steal sexually explicit images or videos. [...]",
     "created_at": "2026-08-12T14:34:38.722900+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
+    "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
+    "link": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
+    "published": "Wed, 12 Aug 2026 19:39:50 +0530",
+    "source": "The Hacker News",
+    "summary": "A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infrastructure.\n\nThe extensions, pub",
+    "created_at": "2026-08-12T15:01:23.774320+00:00"
   }
 ]
