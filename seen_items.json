@@ -7168,5 +7168,14 @@
     "source": "CybersecurityNews",
     "summary": "Palo Alto Networks has released its August 12, 2026 security bulletin, disclosing 11 new vulnerabilities affecting PAN-OS, the GlobalProtect App, Prisma Access Agent, and Prisma Browser, along with a monthly Chromium update rollup. The patch batch sp",
     "created_at": "2026-08-12T18:01:36.943750+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
+    "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
+    "link": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
+    "published": "Wed, 12 Aug 2026 23:09:27 +0530",
+    "source": "The Hacker News",
+    "summary": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies acros",
+    "created_at": "2026-08-12T18:34:22.024945+00:00"
   }
 ]
