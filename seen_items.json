@@ -7075,5 +7075,14 @@
     "source": "The Hacker News",
     "summary": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege escalation.\n\nThe most severe ",
     "created_at": "2026-08-12T12:04:30.050154+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/",
+    "title": "Hackers leverage new Microsoft SharePoint exploit in attacks",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/",
+    "published": "Wed, 12 Aug 2026 08:25:37 -0400",
+    "source": "BleepingComputer",
+    "summary": "Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday. [...]",
+    "created_at": "2026-08-12T12:34:35.449926+00:00"
   }
 ]
