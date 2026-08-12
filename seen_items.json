@@ -1,29 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html",
-    "title": "New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email",
-    "link": "https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html",
-    "published": "Mon, 13 Jul 2026 19:19:48 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-13T16:00:35.714070+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html",
-    "title": "⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More",
-    "link": "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html",
-    "published": "Mon, 13 Jul 2026 20:35:57 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-13T16:00:37.494777+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/",
-    "title": "CISA warns of actively exploited RCE flaws in Joomla extensions",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/",
-    "published": "Mon, 13 Jul 2026 11:20:16 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-13T16:00:39.299031+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html",
     "title": "Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found",
     "link": "https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html",
@@ -7154,5 +7130,14 @@
     "source": "CybersecurityNews",
     "summary": "Adobe has issued critical security updates for ColdFusion 2025 and ColdFusion 2023, addressing multiple vulnerabilities that could allow threat actors to execute arbitrary code, bypass security controls, escalate privileges, expose sensitive memory, ",
     "created_at": "2026-08-12T15:31:16.078065+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
+    "title": "Lazarus hackers exploited Windows zero-day to target defense firms",
+    "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
+    "published": "Wed, 12 Aug 2026 11:38:08 -0400",
+    "source": "BleepingComputer",
+    "summary": "North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. [...]",
+    "created_at": "2026-08-12T16:00:56.517106+00:00"
   }
 ]
