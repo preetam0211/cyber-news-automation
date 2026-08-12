@@ -7038,5 +7038,32 @@
     "source": "The Hacker News",
     "summary": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO.\n\nThe vulnerability in question is CVE-2026-59310 (CVSS score: 9.8), a directory-traversal vulner",
     "created_at": "2026-08-12T10:01:13.115641+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159161",
+    "title": "CAV3RN Uses Google Apps Script as C2 Relay to Hide Malware Traffic Behind Google Infrastructure",
+    "link": "https://cybersecuritynews.com/cav3rn-uses-google-apps-script/",
+    "published": "Wed, 12 Aug 2026 10:05:33 +0000",
+    "source": "CybersecurityNews",
+    "summary": "CAV3RN is a modular espionage framework that is becoming harder to see on a network. Its newest communication component hides remote-control traffic behind Google Apps Script, a service many organizations use legitimately. That design can make a harm",
+    "created_at": "2026-08-12T10:31:18.825028+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159162",
+    "title": "Nightmare-Eclipse Drops ShieldBreak Windows Defender 0-day Vulnerability",
+    "link": "https://cybersecuritynews.com/nightmare-eclipse-drops-shieldbreak-0-day/",
+    "published": "Wed, 12 Aug 2026 10:12:10 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The prolific and controversial security researcher known as Nightmare-Eclipse (also tracked under the alias Chaotic Eclipse) has released a ninth Windows zero-day exploit called ShieldBreak, and this time the target is Microsoft’s own fix. ShieldBrea",
+    "created_at": "2026-08-12T10:31:21.208630+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
+    "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
+    "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
+    "published": "Wed, 12 Aug 2026 06:15:22 -0400",
+    "source": "BleepingComputer",
+    "summary": "Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named &quot;ShieldBreak&quot; after Microsoft released the August 2026 Patch Tuesday security updates. [...]",
+    "created_at": "2026-08-12T10:31:27.580353+00:00"
   }
 ]
