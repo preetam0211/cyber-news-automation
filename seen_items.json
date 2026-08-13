@@ -7314,5 +7314,14 @@
     "source": "CybersecurityNews",
     "summary": "Beacon, the customer relationship management (CRM) platform relied on by over a thousand UK charities and non-profit organizations, has confirmed that a threat actor made a complete copy of and exfiltrated its customer database. The disclosure, relea",
     "created_at": "2026-08-13T16:31:22.910002+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
+    "title": "Critical VMware vCenter RCE flaw exploited for reverse SSH access",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
+    "published": "Thu, 13 Aug 2026 12:40:23 -0400",
+    "source": "BleepingComputer",
+    "summary": "A recently patched critical vulnerability (CVE-2026-59310) in VMware vCenter Syslog Server is being exploited in an active campaign to deploy a reverse SSH tool for persistence and remote access. [...]",
+    "created_at": "2026-08-13T17:01:27.053526+00:00"
   }
 ]
