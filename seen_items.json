@@ -7297,5 +7297,14 @@
     "source": "CybersecurityNews",
     "summary": "GitLab has released security updates for Community Edition and Enterprise Edition, addressing 13 vulnerabilities affecting analytics dashboards, CI/CD workflows, APIs, AI services, project settings, and package management. The company issued GitLab 1",
     "created_at": "2026-08-13T13:02:22.727405+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/",
+    "title": "White House taps security firms for offensive hack-back operations",
+    "link": "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/",
+    "published": "Thu, 13 Aug 2026 09:30:53 -0400",
+    "source": "BleepingComputer",
+    "summary": "A new White House memo signed by U.S. President Donald Trump instructs the National Coordination Center (NCC) to establish a program that would allow private security companies to apply for approval to hack foreign cybercrime organizations. [...]",
+    "created_at": "2026-08-13T13:34:20.674760+00:00"
   }
 ]
