@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
-    "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
-    "link": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
-    "published": "Tue, 14 Jul 2026 19:18:07 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-14T14:31:01.931000+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/",
     "title": "LastPass, Bitwarden users targeted with fake security alerts",
     "link": "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/",
