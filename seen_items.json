@@ -1,21 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
-    "title": "New phishing kits target Microsoft 365 accounts, evade MFA",
-    "link": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
-    "published": "Tue, 14 Jul 2026 08:49:00 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-14T13:00:59.611364+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/",
-    "title": "Microsoft Entra ID gets passkeys default authentication starting September",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/",
-    "published": "Tue, 14 Jul 2026 08:49:56 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-14T13:01:01.488147+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
     "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
     "link": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
@@ -7286,5 +7270,32 @@
     "source": "CybersecurityNews",
     "summary": "Hackers are turning compromised Google Workspace accounts into tools for phishing and scam emails. The messages can look ordinary because they come from real organizational domains, not newly created addresses often flagged by filters. That makes a f",
     "created_at": "2026-08-13T12:32:16.465992+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159328",
+    "title": "Armored Likho Still Toolkit Steals Telegram Sessions and Records Victims’ Conversations",
+    "link": "https://cybersecuritynews.com/armored-likho-still-toolkit-steals/",
+    "published": "Thu, 13 Aug 2026 12:39:53 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A cyber-espionage operation linked to Armored Likho is using a convincing donation app to reach people and organizations in Russia. Once opened, the fake application quietly installs tools designed to take over Telegram accounts and capture private c",
+    "created_at": "2026-08-13T13:01:55.992170+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159332",
+    "title": "Jewelbug APT Hijacks Browsers to Steal Cookies and Spy on Government Networks",
+    "link": "https://cybersecuritynews.com/jewelbug-apt-hijacks-browsers/",
+    "published": "Thu, 13 Aug 2026 12:51:19 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Jewelbug has turned ordinary web browsing into an entry point for espionage. The China-based group compromised government webmail systems, stole browser cookies, and used that access to watch activity inside affected networks. Its campaigns reached m",
+    "created_at": "2026-08-13T13:02:20.595666+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159276",
+    "title": "GitLab 19.2.2 Patches 13 Security Flaws, Including High-Severity XSS and CI/CD Authorization Flaws",
+    "link": "https://cybersecuritynews.com/gitlab-patches-13-security-flaws/",
+    "published": "Thu, 13 Aug 2026 12:59:07 +0000",
+    "source": "CybersecurityNews",
+    "summary": "GitLab has released security updates for Community Edition and Enterprise Edition, addressing 13 vulnerabilities affecting analytics dashboards, CI/CD workflows, APIs, AI services, project settings, and package management. The company issued GitLab 1",
+    "created_at": "2026-08-13T13:02:22.727405+00:00"
   }
 ]
