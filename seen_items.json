@@ -7303,5 +7303,14 @@
     "source": "CybersecurityNews",
     "summary": "Microsoft has released security updates for multiple Exchange Server vulnerabilities that could allow denial-of-service, privilege escalation, remote code execution, spoofing, and security feature bypass attacks. The flaws were disclosed on August 11",
     "created_at": "2026-08-13T15:01:25.040093+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/",
+    "title": "Trezor discloses data breach affecting nearly 14,000 customers",
+    "link": "https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/",
+    "published": "Thu, 13 Aug 2026 11:13:19 -0400",
+    "source": "BleepingComputer",
+    "summary": "Hardware wallet manufacturer Trezor disclosed a data breach affecting nearly 14,000 of its customers after ShipMonk, its shipping provider and logistics partner, got hacked. [...]",
+    "created_at": "2026-08-13T15:31:15.758773+00:00"
   }
 ]
