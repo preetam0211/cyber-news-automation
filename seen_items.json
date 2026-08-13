@@ -1,45 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
-    "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
-    "link": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
-    "published": "Tue, 14 Jul 2026 16:51:35 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-14T13:34:35.661313+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html",
-    "title": "How Pentera Turns AI Security Workflows into Validation Engines",
-    "link": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html",
-    "published": "Tue, 14 Jul 2026 17:00:00 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-14T13:34:37.351893+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
-    "title": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks",
-    "link": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
-    "published": "Tue, 14 Jul 2026 17:25:00 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-14T13:34:39.065379+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
-    "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
-    "link": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
-    "published": "Tue, 14 Jul 2026 18:16:18 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-14T13:34:40.761302+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/",
-    "title": "You Don't Have to Run an Exploit to Know If You're Vulnerable",
-    "link": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/",
-    "published": "Tue, 14 Jul 2026 10:00:10 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-14T14:01:01.870416+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
     "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
     "link": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
@@ -7306,5 +7266,41 @@
     "source": "BleepingComputer",
     "summary": "A new White House memo signed by U.S. President Donald Trump instructs the National Coordination Center (NCC) to establish a program that would allow private security companies to apply for approval to hack foreign cybercrime organizations. [...]",
     "created_at": "2026-08-13T13:34:20.674760+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159313",
+    "title": "CISA Warns of Windows Ancillary Function 0-Day Vulnerability Exploited in Attacks",
+    "link": "https://cybersecuritynews.com/windows-ancillary-function-0-day-exploited/",
+    "published": "Thu, 13 Aug 2026 13:12:38 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency has added a Microsoft Windows vulnerability to its Known Exploited Vulnerabilities Catalog, warning that the flaw is being exploited in attacks. The issue, tracked as CVE-2026-68820, is a use-",
+    "created_at": "2026-08-13T14:01:11.595237+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159336",
+    "title": "North Korean IT Workers Use AI-Forged IDs and Remote Desktops to Become Trusted Employees",
+    "link": "https://cybersecuritynews.com/north-korean-it-workers-ai-forged-ids/",
+    "published": "Thu, 13 Aug 2026 13:30:47 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A joint undercover investigation has pulled back the curtain on how North Korean IT worker operatives don’t just slip past hiring checks; they settle in, gain trusted access, and quietly work from inside legitimate companies for months at a time. The",
+    "created_at": "2026-08-13T14:01:13.858890+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159355",
+    "title": "Trezor ShipMonk Data Breach Exposes Personal Data of Over 13,000 Hardware Wallet Customers",
+    "link": "https://cybersecuritynews.com/trezor-shipmonk-data-breach/",
+    "published": "Thu, 13 Aug 2026 13:44:21 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A third-party logistics breach has put thousands of Trezor hardware wallet buyers at higher phishing risk, even though Trezor’s own systems and devices were not compromised. On Monday, August 10, 2026, crypto hardware wallet maker Trezor said ShipMon",
+    "created_at": "2026-08-13T14:01:16.085571+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/",
+    "title": "Who Vets AI’s Code? The Scale Challenge Facing Open Source Ingestion",
+    "link": "https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/",
+    "published": "Thu, 13 Aug 2026 10:00:10 -0400",
+    "source": "BleepingComputer",
+    "summary": "AI coding tools can introduce unvetted or hallucinated open source dependencies faster than traditional security reviews can keep pace. ActiveState explains why organizations should govern packages at the point of selection, before they enter the dev",
+    "created_at": "2026-08-13T14:01:18.355007+00:00"
   }
 ]
