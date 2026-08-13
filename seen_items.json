@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/",
-    "title": "SAP warns of critical flaws in NetWeaver and Commerce Cloud",
-    "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/",
-    "published": "Tue, 14 Jul 2026 07:42:21 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-14T12:01:02.193296+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
     "title": "New phishing kits target Microsoft 365 accounts, evade MFA",
     "link": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
@@ -7240,5 +7232,14 @@
     "source": "CybersecurityNews",
     "summary": "Kimwolf v7 is raising the stakes for attacks launched from everyday Android TV boxes and set-top devices. The latest version can make disruptive web traffic look more like a real visitor browsing a site, making defensive filtering harder at a critica",
     "created_at": "2026-08-13T11:01:57.283768+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/",
+    "title": "WhatsApp rolls out new feature that flags potential scam messages",
+    "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/",
+    "published": "Thu, 13 Aug 2026 07:50:22 -0400",
+    "source": "BleepingComputer",
+    "summary": "WhatsApp has begun rolling out a new optional &quot;Scam Alert&quot; feature, which uses a local machine learning model to warn users when scammers are targeting them. [...]",
+    "created_at": "2026-08-13T12:04:34.991429+00:00"
   }
 ]
