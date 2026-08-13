@@ -1,21 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/",
-    "title": "Spanish Police take down €140 million cyber fraud ring, arrest four",
-    "link": "https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/",
-    "published": "Tue, 14 Jul 2026 16:23:09 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-14T20:30:56.045171+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
-    "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
-    "link": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
-    "published": "Wed, 15 Jul 2026 01:55:47 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-14T21:01:00.994462+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
     "title": "SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now",
     "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
@@ -7303,5 +7287,14 @@
     "source": "CybersecurityNews",
     "summary": "Fortinet has rolled out fixes for a batch of authentication-related vulnerabilities across its FortiWeb, FortiManager, and FortiClient product lines, urging administrators to patch quickly given the sensitivity of the affected systems. The most sever",
     "created_at": "2026-08-13T19:05:32.234107+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
+    "title": "Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt",
+    "link": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
+    "published": "Thu, 13 Aug 2026 16:47:02 -0400",
+    "source": "BleepingComputer",
+    "summary": "An Akira ransomware affiliate disabled the endpoint detection and response (EDR) solution on a compromised system by restarting the machine into Safe Mode with Networking. [...]",
+    "created_at": "2026-08-13T21:01:11.072018+00:00"
   }
 ]
