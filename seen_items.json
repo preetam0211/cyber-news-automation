@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
-    "title": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
-    "link": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
-    "published": "Tue, 14 Jul 2026 12:08:47 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-14T16:30:58.755103+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html",
     "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
     "link": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html",
@@ -7304,5 +7296,23 @@
     "source": "BleepingComputer",
     "summary": "Hardware wallet manufacturer Trezor disclosed a data breach affecting nearly 14,000 of its customers after ShipMonk, its shipping provider and logistics partner, got hacked. [...]",
     "created_at": "2026-08-13T15:31:15.758773+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159359",
+    "title": "AmnesiaStealer macOS Malware Hijacks Browser Sessions via Fake GitHub Lure",
+    "link": "https://cybersecuritynews.com/amnesiastealer-macos-malware/",
+    "published": "Thu, 13 Aug 2026 16:01:58 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly identified macOS infostealer called AmnesiaStealer is spreading via a convincing fake GitHub download page, tricking Mac users into pasting a malicious Terminal command that silently installs malware and can later grant attackers live, hidden",
+    "created_at": "2026-08-13T16:31:11.622778+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159371",
+    "title": "Beacon CRM Confirms Full Database Theft After AWS Access Key Breach",
+    "link": "https://cybersecuritynews.com/beacon-crm-database-theft/",
+    "published": "Thu, 13 Aug 2026 16:16:48 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Beacon, the customer relationship management (CRM) platform relied on by over a thousand UK charities and non-profit organizations, has confirmed that a threat actor made a complete copy of and exfiltrated its customer database. The disclosure, relea",
+    "created_at": "2026-08-13T16:31:22.910002+00:00"
   }
 ]
