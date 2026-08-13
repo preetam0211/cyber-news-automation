@@ -7241,5 +7241,50 @@
     "source": "BleepingComputer",
     "summary": "WhatsApp has begun rolling out a new optional &quot;Scam Alert&quot; feature, which uses a local machine learning model to warn users when scammers are targeting them. [...]",
     "created_at": "2026-08-13T12:04:34.991429+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159309",
+    "title": "Gunra Uses Stolen Sessions and RDP to Pivot Into Active Directory and IT Workstations",
+    "link": "https://cybersecuritynews.com/gunra-uses-stolen-sessions/",
+    "published": "Thu, 13 Aug 2026 11:29:50 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Gunra ransomware has moved from a new name to a serious enterprise threat in a short time. The group breaks into exposed edge devices, steals valuable data, and then encrypts systems across both Windows and Linux networks. The damage can spread quick",
+    "created_at": "2026-08-13T12:31:22.258879+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159304",
+    "title": "Hackers Actively Exploiting Microsoft SharePoint Vulnerability Following PoC Release",
+    "link": "https://cybersecuritynews.com/microsoft-sharepoint-vulnerability-exploited-2/",
+    "published": "Thu, 13 Aug 2026 11:46:33 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Threat actors have wasted no time weaponizing a newly disclosed Microsoft SharePoint authentication bypass, launching real-world attacks against internet-facing servers just hours after security firm Rapid7 published a technical breakdown and proof-o",
+    "created_at": "2026-08-13T12:31:27.682968+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159296",
+    "title": "1 Tbps DDoS Attacks Become the New Normal as Cloudflare Reports Record H1 Activity",
+    "link": "https://cybersecuritynews.com/1-tbps-ddos-attacks/",
+    "published": "Thu, 13 Aug 2026 11:55:30 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cloudflare has reported a sharp rise in large-scale distributed denial-of-service attacks during the first half of 2026, blocking 935 network-layer attacks exceeding 1 terabit per second. The company said hyper-volumetric attacks grew 519% between th",
+    "created_at": "2026-08-13T12:31:31.710934+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159314",
+    "title": "Thousand of Internet-Exposed Contollers Could Put Data center Cooling and Power at Risk",
+    "link": "https://cybersecuritynews.com/thousand-of-internet-exposed-contollers/",
+    "published": "Thu, 13 Aug 2026 12:03:38 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Thousands of internet-exposed building controllers may be putting the physical backbone of U.S. data centers at risk. They manage cooling, electrical distribution, and environmental conditions. If an intruder reaches them, the result could be service",
+    "created_at": "2026-08-13T12:31:48.603039+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159320",
+    "title": "Hackers Leveraging GoogleWorkspace Accounts to Send Phishing and Scam Emails",
+    "link": "https://cybersecuritynews.com/hackers-leveraging-googleworkspace/",
+    "published": "Thu, 13 Aug 2026 12:21:13 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are turning compromised Google Workspace accounts into tools for phishing and scam emails. The messages can look ordinary because they come from real organizational domains, not newly created addresses often flagged by filters. That makes a f",
+    "created_at": "2026-08-13T12:32:16.465992+00:00"
   }
 ]
