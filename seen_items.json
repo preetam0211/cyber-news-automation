@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html",
-    "title": "Microsoft Maps Year-Long ShinyHunters-Linked Salesforce Data Theft Across Three Paths",
-    "link": "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html",
-    "published": "Tue, 14 Jul 2026 11:49:24 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-14T07:00:58.909393+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html",
     "title": "148 npm Packages Disguised as Student Proxies Turned Browsers Into a DDoS Botnet",
     "link": "https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html",
@@ -7198,5 +7190,14 @@
     "source": "CybersecurityNews",
     "summary": "WordPress has released version 7.0.4, a security-focused update that closes a remote code execution vulnerability affecting sites that process images with the Imagick extension and Ghostscript. The WordPress security team is urging site owners to upd",
     "created_at": "2026-08-13T04:01:31.225240+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
+    "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
+    "link": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
+    "published": "Thu, 13 Aug 2026 11:39:48 +0530",
+    "source": "The Hacker News",
+    "summary": "Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code.\n\nThe vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which refers to a critical security f",
+    "created_at": "2026-08-13T07:01:17.511390+00:00"
   }
 ]
