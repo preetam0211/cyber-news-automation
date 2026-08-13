@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
-    "title": "Grok Build Uploads Entire Git Repositories to xAI Storage, Not Just Files It Reads",
-    "link": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
-    "published": "Tue, 14 Jul 2026 14:32:48 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-14T09:30:56.314996+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/",
     "title": "US sanctions VPN, malware providers for enabling ransomware attacks",
     "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/",
@@ -7219,5 +7211,14 @@
     "source": "CybersecurityNews",
     "summary": "Akira ransomware has added a new way to weaken Windows security before it tries to lock files. In a recent intrusion, an affiliate rebooted a compromised system into Safe Mode with Networking, leaving the device connected while most third-party prote",
     "created_at": "2026-08-13T08:32:06.533571+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159284",
+    "title": "Phantom Stealer Hides Inside PNG Files, Then Steals Your Passwords, Cookies and Crypto",
+    "link": "https://cybersecuritynews.com/phantom-stealer-inside-png/",
+    "published": "Thu, 13 Aug 2026 09:08:52 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Phantom Stealer is taking a familiar computer file and turning it into a hiding place. The credential-stealing malware can conceal its next stage in PNG resources, then quietly collect passwords, browser cookies, cryptocurrency wallet material and ot",
+    "created_at": "2026-08-13T09:31:36.633810+00:00"
   }
 ]
