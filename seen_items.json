@@ -1,21 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html",
-    "title": "148 npm Packages Disguised as Student Proxies Turned Browsers Into a DDoS Botnet",
-    "link": "https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html",
-    "published": "Tue, 14 Jul 2026 12:38:36 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-14T08:30:57.645739+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/07/us-sanctions-first-vpn-service-and.html",
-    "title": "U.S. Sanctions First VPN Service and Malware Cryptor Seller Over Ransomware Support",
-    "link": "https://thehackernews.com/2026/07/us-sanctions-first-vpn-service-and.html",
-    "published": "Tue, 14 Jul 2026 13:32:33 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-14T08:30:59.464047+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
     "title": "Grok Build Uploads Entire Git Repositories to xAI Storage, Not Just Files It Reads",
     "link": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
@@ -7217,5 +7201,23 @@
     "source": "CybersecurityNews",
     "summary": "Adobe has released an urgent security update for Adobe Commerce and Magento Open Source, fixing several vulnerabilities that could allow attackers to bypass security controls, gain higher privileges, and execute arbitrary code. The most serious issue",
     "created_at": "2026-08-13T08:01:26.084059+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159271",
+    "title": "Trump Signs Memo Authorizing Private Firms for Cyber Operations Against Foreign Criminals",
+    "link": "https://cybersecuritynews.com/trump-memos-private-firms-cyber/",
+    "published": "Thu, 13 Aug 2026 08:14:53 +0000",
+    "source": "CybersecurityNews",
+    "summary": "President Donald Trump has signed a presidential memorandum that creates a pathway for companies to take part in government-led cyber operations against foreign criminal groups. The policy targets cyber-enabled transnational criminal organizations, o",
+    "created_at": "2026-08-13T08:31:39.851295+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159255",
+    "title": "Akira Ransomware Uses Windows Safe Mode to Shut Down EDR Before Launching Encryptor",
+    "link": "https://cybersecuritynews.com/akira-uses-windows-safe-mode/",
+    "published": "Thu, 13 Aug 2026 08:17:04 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Akira ransomware has added a new way to weaken Windows security before it tries to lock files. In a recent intrusion, an affiliate rebooted a compromised system into Safe Mode with Networking, leaving the device connected while most third-party prote",
+    "created_at": "2026-08-13T08:32:06.533571+00:00"
   }
 ]
