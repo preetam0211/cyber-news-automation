@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
-    "title": "SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now",
-    "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
-    "published": "Tue, 14 Jul 2026 17:23:24 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-14T21:31:01.334720+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html",
     "title": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands",
     "link": "https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html",
