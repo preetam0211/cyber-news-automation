@@ -7434,5 +7434,14 @@
     "source": "BleepingComputer",
     "summary": "Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defenses that cover the entire Workspace attack chain",
     "created_at": "2026-08-14T14:31:54.314055+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
+    "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
+    "published": "Fri, 14 Aug 2026 10:59:55 -0400",
+    "source": "BleepingComputer",
+    "summary": "The Netherlands&#x27; National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged. [...]",
+    "created_at": "2026-08-14T15:01:02.585717+00:00"
   }
 ]
