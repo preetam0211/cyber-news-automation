@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html",
-    "title": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands",
-    "link": "https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html",
-    "published": "Wed, 15 Jul 2026 11:00:21 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-15T06:30:56.814950+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/",
     "title": "US charges alleged operators of Russian bulletproof hosting service",
     "link": "https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/",
@@ -7324,5 +7316,32 @@
     "source": "CybersecurityNews",
     "summary": "A new attack technique that manipulates a computer’s memory controller to bypass some of the strongest hardware security boundaries built into modern processors, including protections around System Management Mode, the Platform Security Processor, an",
     "created_at": "2026-08-14T03:31:10.282862+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158433",
+    "title": "Top 10 Best Microsegmentation Tools in 2026",
+    "link": "https://cybersecuritynews.com/best-microsegmentation-tools/",
+    "published": "Fri, 14 Aug 2026 03:35:23 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsegmentation tools stop attackers from moving sideways. Once ransomware operators land on one machine, everything that follows credential harvesting, domain escalation, mass encryption depends on reaching other machines, and segmentation is the ",
+    "created_at": "2026-08-14T06:31:17.452297+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=29333",
+    "title": "10 Best Secure Web Gateway Vendors In 2026",
+    "link": "https://cybersecuritynews.com/best-secure-web-gateway/",
+    "published": "Fri, 14 Aug 2026 03:44:33 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A secure web gateway inspects outbound web traffic blocking malicious sites, enforcing acceptable-use policy, decrypting TLS, and stopping malware before it reaches a browser. Zscaler leads on scale and maturity, Netskope leads when data protection d",
+    "created_at": "2026-08-14T06:31:23.509360+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159366",
+    "title": "The Endpoint-to-Cloud Privilege Security Checklist: 21 Controls to Eliminate Standing Access",
+    "link": "https://cybersecuritynews.com/privilege-security-checklist-eliminate-standing-access/",
+    "published": "Fri, 14 Aug 2026 05:55:08 +0000",
+    "source": "CybersecurityNews",
+    "summary": "PAM secured the endpoint; privilege moved on. Work through these 21 controls to find out where standing access is accumulating in your cloud, SaaS, and AI estate — and how to shut it down without slowing anyone.  For twenty years, privileged access m",
+    "created_at": "2026-08-14T06:31:25.593099+00:00"
   }
 ]
