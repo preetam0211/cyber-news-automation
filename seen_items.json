@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
-    "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
-    "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
-    "published": "Wed, 15 Jul 2026 18:48:53 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-15T14:00:57.909771+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
     "title": "We built a vulnerability vending machine: AI tokens in, zero-days out",
     "link": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
@@ -7396,5 +7388,14 @@
     "source": "CybersecurityNews",
     "summary": "Dysphoria has turned a large number of everyday internet-connected devices into a potential attack network. The botnet is linked to roughly 296,000 compromised devices, placing routers, cameras, gateways, and other connected equipment at risk of bein",
     "created_at": "2026-08-14T12:31:14.603597+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
+    "title": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
+    "published": "Fri, 14 Aug 2026 09:45:18 -0400",
+    "source": "BleepingComputer",
+    "summary": "A maximum-severity SAP Commerce Cloud remote code execution vulnerability patched three days ago is already being targeted in attacks, according to threat intelligence company Defused. [...]",
+    "created_at": "2026-08-14T14:04:21.140912+00:00"
   }
 ]
