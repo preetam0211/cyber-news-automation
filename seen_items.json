@@ -7411,5 +7411,14 @@
     "source": "CybersecurityNews",
     "summary": "A new DCRat campaign is using a familiar image format to hide a dangerous malware archive. The operation begins with phishing emails that pose as legal notifications and urge recipients to open an attached SVG file. The attachment looks harmless beca",
     "created_at": "2026-08-14T12:02:02.411922+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159512",
+    "title": "Dysphoria Botnet Turns Compromised Routers and Cameras Into DDoS Bots and C2 Relay Nodes",
+    "link": "https://cybersecuritynews.com/dysphoria-botnet/",
+    "published": "Fri, 14 Aug 2026 12:19:37 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Dysphoria has turned a large number of everyday internet-connected devices into a potential attack network. The botnet is linked to roughly 296,000 compromised devices, placing routers, cameras, gateways, and other connected equipment at risk of bein",
+    "created_at": "2026-08-14T12:31:14.603597+00:00"
   }
 ]
