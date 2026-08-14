@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html",
-    "title": "Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution",
-    "link": "https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html",
-    "published": "Wed, 15 Jul 2026 16:25:22 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-15T11:00:57.382246+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html",
     "title": "New Webinar: Closing the Approval Gap in AI-Era Ad Tech",
     "link": "https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html",
@@ -7374,5 +7366,14 @@
     "source": "CybersecurityNews",
     "summary": "AI credentials are drawing criminal attention. A growing form of abuse, called AI token jacking, lets intruders take API keys and consume expensive model services on someone else’s account. The result can be a sudden bill. The theft is not limited to",
     "created_at": "2026-08-14T09:31:46.947913+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
+    "title": "RingCentral data breach exposed info of 1.6 million accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
+    "published": "Fri, 14 Aug 2026 06:52:05 -0400",
+    "source": "BleepingComputer",
+    "summary": "The ShinyHunters extortion group stole personal information from 1.6 million RingCentral accounts after hacking the company in July, according to the data breach notification service Have I Been Pwned. [...]",
+    "created_at": "2026-08-14T11:04:32.121835+00:00"
   }
 ]
