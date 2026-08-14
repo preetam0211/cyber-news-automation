@@ -7315,5 +7315,14 @@
     "source": "CybersecurityNews",
     "summary": "Apple has quietly rolled out a new wave of high-confidence “Apple Threat Notification” alerts, warning selected iPhone users in 110 countries that their devices may be targeted by government-grade mercenary spyware. These are not routine phishing war",
     "created_at": "2026-08-14T03:01:28.062250+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159393",
+    "title": "New DRAM Scrambling Attack Exposes CPU’s Most Protected Memory Zones",
+    "link": "https://cybersecuritynews.com/dram-scrambling-attack/",
+    "published": "Fri, 14 Aug 2026 03:26:34 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new attack technique that manipulates a computer’s memory controller to bypass some of the strongest hardware security boundaries built into modern processors, including protections around System Management Mode, the Platform Security Processor, an",
+    "created_at": "2026-08-14T03:31:10.282862+00:00"
   }
 ]
