@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
-    "title": "​    ​AsyncAPI npm packages infected with credential-stealing malware",
-    "link": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
-    "published": "Wed, 15 Jul 2026 11:37:27 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-15T16:00:58.873542+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html",
     "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
     "link": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html",
