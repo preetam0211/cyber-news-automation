@@ -7343,5 +7343,14 @@
     "source": "CybersecurityNews",
     "summary": "PAM secured the endpoint; privilege moved on. Work through these 21 controls to find out where standing access is accumulating in your cloud, SaaS, and AI estate — and how to shut it down without slowing anyone.  For twenty years, privileged access m",
     "created_at": "2026-08-14T06:31:25.593099+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159413",
+    "title": "Download More RAM Attack Bypasses Windows VBS and Disables Defender Through Memory Aliasing",
+    "link": "https://cybersecuritynews.com/download-more-ram-attack/",
+    "published": "Fri, 14 Aug 2026 07:19:42 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new attack dubbed “Download More RAM” can bypass Windows Virtualization-Based Security (VBS), weaken Hypervisor-Enforced Code Integrity (HVCI), and disable Microsoft Defender. Microsoft tracked the issue as CVE-2026-23670 and released mitigations i",
+    "created_at": "2026-08-14T07:31:26.746150+00:00"
   }
 ]
