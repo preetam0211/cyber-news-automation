@@ -7436,5 +7436,14 @@
     "source": "CybersecurityNews",
     "summary": "Selidan, USA, August 14th, 2026, CyberNewswire New report examines suspicious Reddit activity, coordinated YouTube content and BBB Scam Tracker entries influencing how the vehicle history platform appears across Google and AI systems VINclarity has p",
     "created_at": "2026-08-14T17:31:24.109052+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
+    "title": "Hackers arrested over €30M bank fraud exploiting service provider flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
+    "published": "Fri, 14 Aug 2026 14:04:26 -0400",
+    "source": "BleepingComputer",
+    "summary": "Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank customers&#x27; bank accounts. [...]",
+    "created_at": "2026-08-14T18:31:04.781766+00:00"
   }
 ]
