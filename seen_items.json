@@ -1,21 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
-    "title": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
-    "link": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
-    "published": "Wed, 15 Jul 2026 14:33:48 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-15T19:00:58.402042+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html",
-    "title": "TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development",
-    "link": "https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html",
-    "published": "Thu, 16 Jul 2026 00:13:08 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-15T19:01:00.100718+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/",
     "title": "Zoom warns of critical account takeover vulnerability",
     "link": "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/",
