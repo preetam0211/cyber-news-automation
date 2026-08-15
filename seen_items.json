@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/",
-    "title": "AI Agents Broke the Security Playbook. Here's What Replaces It.",
-    "link": "https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/",
-    "published": "Thu, 16 Jul 2026 10:00:10 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-16T14:31:05.005299+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
     "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
     "link": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
@@ -7320,5 +7312,14 @@
     "source": "CybersecurityNews",
     "summary": "Multinational energy giant Shell has launched an active investigation after the notorious Cl0p ransomware syndicate claimed responsibility for exfiltrating sensitive internal data. Security researchers and enterprise defenders are closely monitoring ",
     "created_at": "2026-08-15T13:31:10.068655+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
+    "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
+    "link": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
+    "published": "Sat, 15 Aug 2026 10:14:38 -0400",
+    "source": "BleepingComputer",
+    "summary": "A new Mirai-based modular Linux botnet malware called Evooo1Bot has been targeting internet-facing gateway devices, turning them into SOCKS5 traffic relay nodes. [...]",
+    "created_at": "2026-08-15T14:34:26.183243+00:00"
   }
 ]
