@@ -7366,5 +7366,14 @@
     "source": "BleepingComputer",
     "summary": "It could soon become easier to identify AI-generated content, even if it&#x27;s not the usual &quot;It&#x27;s Not X, it&#x27;s Y&quot; type of post you&#x27;d come across on LinkedIn and other socials. [...]",
     "created_at": "2026-08-14T23:31:07.240136+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159508",
+    "title": "Microsoft to Make Passkeys Default in Entra ID and Retires SMS and Voice Authentication",
+    "link": "https://cybersecuritynews.com/microsoft-make-passkeys-default-in-entra-id/",
+    "published": "Sat, 15 Aug 2026 10:48:25 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft will make passkeys the default authentication experience in Microsoft Entra ID as part of a broader move away from phishing-prone sign-in methods. The company will also retire Microsoft-provided SMS and voice authentication for multifactor ",
+    "created_at": "2026-08-15T12:01:19.897339+00:00"
   }
 ]
