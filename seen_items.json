@@ -7305,5 +7305,23 @@
     "source": "BleepingComputer",
     "summary": "A new Mirai-based modular Linux botnet malware called Evooo1Bot has been targeting internet-facing gateway devices, turning them into SOCKS5 traffic relay nodes. [...]",
     "created_at": "2026-08-15T14:34:26.183243+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159553",
+    "title": "Hackers Started to Exploit Critical SAP Commerce Cloud, Still No Public PoC",
+    "link": "https://cybersecuritynews.com/hackers-exploit-sap-commerce-cloud/",
+    "published": "Sat, 15 Aug 2026 13:59:41 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Threat actors have begun actively probing and attempting to exploit a maximum-severity flaw in SAP Commerce Cloud, just three days after official security fixes were released. Defused honeypot telemetry captured the first wave of unauthenticated remo",
+    "created_at": "2026-08-15T16:31:25.323373+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158817",
+    "title": "Post-Hugging Face Reflections: The Agentic Attacker Is Already Here",
+    "link": "https://cybersecuritynews.com/post-hugging-face-reflections-the-agentic-attacker-is-already-here/",
+    "published": "Sat, 15 Aug 2026 14:34:25 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Bill Robbins, CEO of Menlo Security  An AI agent broke out of the sandbox built to contain it and put itself on the open internet. Then it attacked another company. The attack wasn’t executed by a human. Instead, the AI agent independently selected a",
+    "created_at": "2026-08-15T16:31:56.570031+00:00"
   }
 ]
