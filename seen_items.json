@@ -7188,5 +7188,14 @@
     "source": "CybersecurityNews",
     "summary": "A sprawling Azure data exfiltration campaign is unfolding across the dark web, with a threat actor systematically selling off internal employee directories stolen from some of the world’s largest corporations. The seller, operating under the alias “T",
     "created_at": "2026-08-16T14:31:18.662025+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
+    "title": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control",
+    "link": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
+    "published": "Sun, 16 Aug 2026 11:07:44 -0400",
+    "source": "BleepingComputer",
+    "summary": "A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim&#x27;s web browser. [...]",
+    "created_at": "2026-08-16T15:31:09.718728+00:00"
   }
 ]
