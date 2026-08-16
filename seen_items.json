@@ -1,21 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
-    "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
-    "link": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
-    "published": "Fri, 17 Jul 2026 19:18:56 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-17T14:30:59.606976+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/",
-    "title": "Inside the Search for \"Clean\" Residential Proxies for Carding",
-    "link": "https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/",
-    "published": "Fri, 17 Jul 2026 10:00:10 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-17T14:31:01.327412+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
     "title": "Ernst & Young discloses data breach after support system hack",
     "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
@@ -7203,5 +7187,14 @@
     "source": "CybersecurityNews",
     "summary": "Bill Robbins, CEO of Menlo Security  An AI agent broke out of the sandbox built to contain it and put itself on the open internet. Then it attacked another company. The attack wasn’t executed by a human. Instead, the AI agent independently selected a",
     "created_at": "2026-08-15T16:31:56.570031+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159580",
+    "title": "McDonald’s, Vodafone Hit by Azure Credential Theft Campaign Exposing Millions of Enterprise Records",
+    "link": "https://cybersecuritynews.com/azure-credential-theft-campaign/",
+    "published": "Sun, 16 Aug 2026 14:27:18 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A sprawling Azure data exfiltration campaign is unfolding across the dark web, with a threat actor systematically selling off internal employee directories stolen from some of the world’s largest corporations. The seller, operating under the alias “T",
+    "created_at": "2026-08-16T14:31:18.662025+00:00"
   }
 ]
