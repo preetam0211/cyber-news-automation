@@ -7197,5 +7197,23 @@
     "source": "BleepingComputer",
     "summary": "A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim&#x27;s web browser. [...]",
     "created_at": "2026-08-16T15:31:09.718728+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159488",
+    "title": "AWS Certificate Manager to Discontinue Email Validation for Public Certificates",
+    "link": "https://cybersecuritynews.com/aws-certificate-manager-email-validation/",
+    "published": "Sun, 16 Aug 2026 15:54:22 +0000",
+    "source": "CybersecurityNews",
+    "summary": "AWS Certificate Manager (ACM) has announced plans to permanently discontinue email-based domain control validation (DCV) for public certificate renewals by September 30, 2027. The deprecation aligns AWS cloud infrastructure with global trust mandates",
+    "created_at": "2026-08-16T16:01:14.055822+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159486",
+    "title": "Microsoft Begins to Merge Consumer and Enterprise Copilot Apps to Make New Super App",
+    "link": "https://cybersecuritynews.com/microsoft-combines-copilot-apps/",
+    "published": "Sun, 16 Aug 2026 15:58:07 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft is moving closer to a unified Copilot experience by merging key elements of its consumer AI assistant with the Microsoft 365 productivity environment. The change positions Copilot as a single application for personal tasks, workplace produc",
+    "created_at": "2026-08-16T16:01:26.342780+00:00"
   }
 ]
