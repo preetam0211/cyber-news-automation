@@ -1,21 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
-    "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
-    "link": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
-    "published": "Fri, 17 Jul 2026 12:12:23 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-17T07:30:59.081780+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/",
-    "title": "CISA urges immediate action on actively exploited Fortinet flaws",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/",
-    "published": "Fri, 17 Jul 2026 03:03:33 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-17T07:31:00.949065+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/",
     "title": "US charges two over laundering $43 million from investment fraud",
     "link": "https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/",
