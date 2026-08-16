@@ -88,7 +88,7 @@ def call_gemini_semantic_check(new_title, new_summary, recent_items, api_key):
         logger.warning(f"Failed to perform semantic check using Gemini API: {e}. Falling back to keyword matching.")
         return None
 
-def is_duplicate(new_title, new_summary, seen_items, days_limit=5, similarity_threshold=0.62, summary_threshold=0.60):
+def is_duplicate(new_title, new_summary, seen_items, days_limit=5, similarity_threshold=0.65, summary_threshold=0.60):
     """Check if the article is a duplicate of any article posted in the last days_limit days."""
     now = datetime.now(timezone.utc)
     recent_items = []
