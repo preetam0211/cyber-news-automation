@@ -7215,5 +7215,14 @@
     "source": "CybersecurityNews",
     "summary": "Microsoft is moving closer to a unified Copilot experience by merging key elements of its consumer AI assistant with the Microsoft 365 productivity environment. The change positions Copilot as a single application for personal tasks, workplace produc",
     "created_at": "2026-08-16T16:01:26.342780+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159593",
+    "title": "Cyber Security Weekly Newsletter – Outlook RCE, Palo Alto, Cisco 0-day and Windows 0-Day Flaws +20 Stories",
+    "link": "https://cybersecuritynews.com/cyber-security-weekly-newsletter-august/",
+    "published": "Sun, 16 Aug 2026 16:24:03 +0000",
+    "source": "CybersecurityNews",
+    "summary": "This week’s roundup covers a record-setting Microsoft Patch Tuesday, an actively exploited Cisco firewall zero-day, a Lazarus-linked Windows kernel bug, and critical flaws across TP-Link, Palo Alto Networks, Fortinet, and VMware — plus a first-of-its",
+    "created_at": "2026-08-16T16:31:19.344328+00:00"
   }
 ]
