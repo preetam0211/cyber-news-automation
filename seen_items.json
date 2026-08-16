@@ -7177,5 +7177,14 @@
     "source": "BleepingComputer",
     "summary": "Multiple distributed denial-of-service (DDoS) attacks targeted the Threema secure messaging service earlier this week, causing severe disruptions to communications. [...]",
     "created_at": "2026-08-16T17:31:19.184111+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/",
+    "title": "Anthropic confirms Claude is down in major outage affecting multiple services",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/",
+    "published": "Sun, 16 Aug 2026 18:28:57 -0400",
+    "source": "BleepingComputer",
+    "summary": "Claude is experiencing a major outage, with users reporting login problems and degraded performance across several Anthropic services. [...]",
+    "created_at": "2026-08-16T22:31:14.611415+00:00"
   }
 ]
