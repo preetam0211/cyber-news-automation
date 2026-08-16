@@ -21,3 +21,8 @@ ENV/
 *.njsproj
 *.sln
 *.swp
+
+# Verification/Unit Test scripts (excluded from remote portfolio)
+verify_dedup.py
+verify_mitre.py
+
