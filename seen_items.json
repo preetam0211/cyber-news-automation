@@ -7492,5 +7492,32 @@
     "source": "CybersecurityNews",
     "summary": "Security researchers have disclosed a serious attack chain affecting Microsoft System Center Configuration Manager, commonly known as SCCM or Configuration Manager. The flaws could allow an attacker to execute malicious code remotely on an SCCM prima",
     "created_at": "2026-08-17T11:31:29.835391+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
+    "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
+    "link": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
+    "published": "Mon, 17 Aug 2026 16:22:34 +0530",
+    "source": "The Hacker News",
+    "summary": "Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, with no fix from the chipset maker.\n\nThe advisory, pu",
+    "created_at": "2026-08-17T12:31:13.346072+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159668",
+    "title": "Threema Secure Messaging Service Hit by Massive DDoS Attack",
+    "link": "https://cybersecuritynews.com/threema-hit-by-massive-ddos-attack/",
+    "published": "Mon, 17 Aug 2026 11:49:33 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Threema, a privacy-focused secure messaging service, was hit by a series of large-scale distributed denial-of-service (DDoS attacks) that temporarily disrupted access for users. The incidents affected the platform on Tuesday evening and continued int",
+    "created_at": "2026-08-17T12:31:15.319589+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
+    "title": "How MCP Servers Can Expose Enterprise Secrets",
+    "link": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
+    "published": "Mon, 17 Aug 2026 17:28:00 +0530",
+    "source": "The Hacker News",
+    "summary": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt AI agents into their systems, tha",
+    "created_at": "2026-08-17T12:31:22.130389+00:00"
   }
 ]
