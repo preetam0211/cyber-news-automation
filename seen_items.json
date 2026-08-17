@@ -7539,5 +7539,14 @@
     "source": "BleepingComputer",
     "summary": "CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity infrastructure it has always been. [...",
     "created_at": "2026-08-17T14:34:18.576692+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
+    "title": "Microsoft confirms GitHub is down worldwide",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
+    "published": "Mon, 17 Aug 2026 10:47:08 -0400",
+    "source": "BleepingComputer",
+    "summary": "GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. [...]",
+    "created_at": "2026-08-17T15:00:59.267686+00:00"
   }
 ]
