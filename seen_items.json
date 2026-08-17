@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/",
-    "title": "Microsoft warns of surge in ACR Stealer attacks on customers",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/",
-    "published": "Sat, 18 Jul 2026 10:17:19 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-18T14:30:56.124821+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
     "title": "WordPress Core \"wp2shell\" RCE flaws get public exploits, patch now",
     "link": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
@@ -7538,5 +7530,14 @@
     "source": "The Hacker News",
     "summary": "The expensive attacks are not always the clever ones.\n\nThis week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading farther than the original comprom",
     "created_at": "2026-08-17T14:00:59.327094+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
+    "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
+    "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
+    "published": "Mon, 17 Aug 2026 10:00:10 -0400",
+    "source": "BleepingComputer",
+    "summary": "CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity infrastructure it has always been. [...",
+    "created_at": "2026-08-17T14:34:18.576692+00:00"
   }
 ]
