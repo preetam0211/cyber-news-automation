@@ -7529,5 +7529,14 @@
     "source": "CybersecurityNews",
     "summary": "A software-defined perimeter makes your infrastructure invisible: resources accept no unauthenticated connections, so attackers cannot scan, probe, or exploit what they cannot see. Zscaler leads at enterprise scale, Appgate remains the purest SDP imp",
     "created_at": "2026-08-17T13:31:07.052766+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
+    "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+    "link": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
+    "published": "Mon, 17 Aug 2026 18:53:51 +0530",
+    "source": "The Hacker News",
+    "summary": "The expensive attacks are not always the clever ones.\n\nThis week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading farther than the original comprom",
+    "created_at": "2026-08-17T14:00:59.327094+00:00"
   }
 ]
