@@ -7258,5 +7258,32 @@
     "source": "CybersecurityNews",
     "summary": "A criminal AI service called MessiahGPT is being marketed on BreachForums as an uncensored platform for creating ransomware, phishing kits, stealers, crypters, rootkits, and social-engineering content. Trellix researchers describe it as part of a gro",
     "created_at": "2026-08-17T07:33:43.255064+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159617",
+    "title": "Z.ai Unveils GLM-5.3 with Major Enhancements for Coding and Cybersecurity",
+    "link": "https://cybersecuritynews.com/glm-5-3-major-enhancements/",
+    "published": "Mon, 17 Aug 2026 08:35:01 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Z.ai has released GLM-5.3, a new AI model built to handle complex coding, long-running agent tasks, and cybersecurity analysis. The company says the model uses the same base model as GLM-5.2, with improvements coming entirely from larger-scale post-t",
+    "created_at": "2026-08-17T09:01:36.539173+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159663",
+    "title": "GeoServer’s Unauthenticated SQL injection Vulnerability Enables RCE Attacks",
+    "link": "https://cybersecuritynews.com/geoservers-unauthenticated-sql-injection-vulnerability/",
+    "published": "Mon, 17 Aug 2026 08:36:08 +0000",
+    "source": "CybersecurityNews",
+    "summary": "GeoServer administrators should urgently update affected systems after researchers disclosed an unauthenticated SQL injection flaw in the jsonArrayContains filter function. The issue can allow attackers to manipulate database queries via publicly acc",
+    "created_at": "2026-08-17T09:01:47.318764+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159662",
+    "title": "HoneyMyte CoolClient Backdoor Uses Signed Kernel Rootkit to Hide Processes, Files and C2 Traffic",
+    "link": "https://cybersecuritynews.com/honeymyte-coolclient-backdoor/",
+    "published": "Mon, 17 Aug 2026 08:55:57 +0000",
+    "source": "CybersecurityNews",
+    "summary": "HoneyMyte has upgraded its CoolClient backdoor with a kernel-level rootkit for Windows. The change makes routine investigation much harder for defenders. It gives intruders tools designed to survive ordinary security checks. The activity targeted org",
+    "created_at": "2026-08-17T09:02:18.692238+00:00"
   }
 ]
