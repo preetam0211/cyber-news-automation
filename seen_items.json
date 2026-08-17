@@ -7195,5 +7195,14 @@
     "source": "BleepingComputer",
     "summary": "Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be selling the stolen data. [...]",
     "created_at": "2026-08-17T00:01:07.915529+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159601",
+    "title": "Apple Screen Sharing Vulnerability Exploited to Execute Command as Root",
+    "link": "https://cybersecuritynews.com/apple-screen-sharing-vulnerability/",
+    "published": "Mon, 17 Aug 2026 03:39:34 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly disclosed logic flaw in macOS Screen Sharing shows how a feature meant only to grant screen-viewing access can be twisted into a path for full root command execution. The issue, tracked as CVE-2026-43760, affects the screensharingd service an",
+    "created_at": "2026-08-17T04:31:33.032153+00:00"
   }
 ]
