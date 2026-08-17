@@ -7186,5 +7186,14 @@
     "source": "BleepingComputer",
     "summary": "Claude is experiencing a major outage, with users reporting login problems and degraded performance across several Anthropic services. [...]",
     "created_at": "2026-08-16T22:31:14.611415+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
+    "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
+    "link": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
+    "published": "Sun, 16 Aug 2026 19:47:06 -0400",
+    "source": "BleepingComputer",
+    "summary": "Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be selling the stolen data. [...]",
+    "created_at": "2026-08-17T00:01:07.915529+00:00"
   }
 ]
