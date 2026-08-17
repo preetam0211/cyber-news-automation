@@ -7222,5 +7222,41 @@
     "source": "CybersecurityNews",
     "summary": "A newly documented Windows backdoor shows how little code an attacker needs to stay hidden. The 12 KB implant was found on one corporate workstation, where it posed as Realtek audio software. Its small footprint differs from Windows in-memory backdoo",
     "created_at": "2026-08-17T06:31:37.141737+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159635",
+    "title": "ChainDrop npm Worm Poisons 444 Packages Through GitHub Actions and Trusted Publishing",
+    "link": "https://cybersecuritynews.com/chaindrop-npm-worm/",
+    "published": "Mon, 17 Aug 2026 06:32:48 +0000",
+    "source": "CybersecurityNews",
+    "summary": "ChainDrop has made an npm package compromise a warning about developer machines. The self-propagating campaign poisoned 444 packages and more than 1,300 malicious releases after attackers took over the GitHub account tied to the Keyv caching library.",
+    "created_at": "2026-08-17T07:31:56.594739+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159645",
+    "title": "Evooo1Bot Linux Botnet Uses 16 DDoS Methods and SOCKS5 Proxies to Hijack Edge Devices",
+    "link": "https://cybersecuritynews.com/evooo1bot-linux-botnet/",
+    "published": "Mon, 17 Aug 2026 06:49:16 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly tracked Linux botnet is turning exposed edge devices into tools for disruption, remote access, and traffic relaying. Evooo1Bot is the threat that reaches internet-facing edge systems by exploiting known flaws and attempting weak SSH logins. I",
+    "created_at": "2026-08-17T07:32:35.029138+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159648",
+    "title": "Fake Web3 Interview Uses Signed ClickOnce to Deploy NeedleStealer and hVNC RAT",
+    "link": "https://cybersecuritynews.com/fake-web3-interview/",
+    "published": "Mon, 17 Aug 2026 07:03:02 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Fake job interviews are again being used to breach cryptocurrency teams. In a documented case, a convincing Web3 recruitment process led a Windows user to install malware that stole private keys, browser data, and other sensitive information. The ope",
+    "created_at": "2026-08-17T07:33:23.954369+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159632",
+    "title": "New MessiahGPT AI Model Fueling Automated Ransomware and Phishing Attacks",
+    "link": "https://cybersecuritynews.com/messiahgpt-fueling-ransomware-phishing-attacks/",
+    "published": "Mon, 17 Aug 2026 07:28:32 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A criminal AI service called MessiahGPT is being marketed on BreachForums as an uncensored platform for creating ransomware, phishing kits, stealers, crypters, rootkits, and social-engineering content. Trellix researchers describe it as part of a gro",
+    "created_at": "2026-08-17T07:33:43.255064+00:00"
   }
 ]
