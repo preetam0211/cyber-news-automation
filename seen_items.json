@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
-    "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
-    "link": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
-    "published": "Sat, 18 Jul 2026 15:32:02 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-18T20:00:57.835493+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
     "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
     "link": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
@@ -7594,5 +7586,14 @@
     "source": "BleepingComputer",
     "summary": "Pokémon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider CEVA Logistics. [...]",
     "created_at": "2026-08-17T19:31:36.299268+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
+    "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
+    "link": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
+    "published": "Mon, 17 Aug 2026 15:35:01 -0400",
+    "source": "BleepingComputer",
+    "summary": "A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...]",
+    "created_at": "2026-08-17T20:01:00.815410+00:00"
   }
 ]
