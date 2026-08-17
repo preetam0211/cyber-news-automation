@@ -7595,5 +7595,14 @@
     "source": "BleepingComputer",
     "summary": "A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...]",
     "created_at": "2026-08-17T20:01:00.815410+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
+    "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
+    "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
+    "published": "Tue, 18 Aug 2026 02:33:04 +0530",
+    "source": "The Hacker News",
+    "summary": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker to remotely modify or delete pu",
+    "created_at": "2026-08-17T21:31:22.342487+00:00"
   }
 ]
