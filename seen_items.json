@@ -7465,5 +7465,32 @@
     "source": "The Hacker News",
     "summary": "Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn internet-facing devices into SOCKS proxies.\n\n&quot;Whi",
     "created_at": "2026-08-17T11:03:04.332618+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159680",
+    "title": "Roundcube 1.6.18 and 1.7.3 Released With Fix for RCE and SSRF Vulnerabilities",
+    "link": "https://cybersecuritynews.com/roundcube-1-6-18-and-1-7-3-released-with-fix/",
+    "published": "Mon, 17 Aug 2026 11:24:35 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Roundcube has released versions 1.6.18 and 1.7.3 to address eleven security vulnerabilities affecting its webmail platform. The updates fix a remote code execution flaw, server-side request forgery bypasses, injection vulnerabilities, and stored cros",
+    "created_at": "2026-08-17T11:31:13.877613+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
+    "title": "Philips and GE investigating Clop ransomware data theft claims",
+    "link": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
+    "published": "Mon, 17 Aug 2026 07:25:02 -0400",
+    "source": "BleepingComputer",
+    "summary": "Tech giants General Electric (GE) and Philips have also confirmed they&#x27;re investigating claims that the Clop ransomware gang breached their systems and stole data. [...]",
+    "created_at": "2026-08-17T11:31:27.794805+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159687",
+    "title": "Microsoft SCCM Vulnerability Chained to Execute Malicious Code Remotely",
+    "link": "https://cybersecuritynews.com/microsoft-sccm-vulnerability/",
+    "published": "Mon, 17 Aug 2026 11:26:12 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Security researchers have disclosed a serious attack chain affecting Microsoft System Center Configuration Manager, commonly known as SCCM or Configuration Manager. The flaws could allow an attacker to execute malicious code remotely on an SCCM prima",
+    "created_at": "2026-08-17T11:31:29.835391+00:00"
   }
 ]
