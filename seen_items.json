@@ -7558,5 +7558,41 @@
     "source": "CybersecurityNews",
     "summary": "Melbourne, Florida, August 17th, 2026, CyberNewswire Head of Operations and Partnerships Chris Biele to lead sessions on secure scientific collaboration, agentic AI and the need to move from trust to cryptographic proof Continuing its effort to build",
     "created_at": "2026-08-17T17:01:37.703605+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
+    "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
+    "link": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
+    "published": "Mon, 17 Aug 2026 23:11:06 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel.\n\nRussian cybersecurity company Kaspersky said it",
+    "created_at": "2026-08-17T19:31:16.804309+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
+    "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
+    "link": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
+    "published": "Mon, 17 Aug 2026 23:52:09 +0530",
+    "source": "The Hacker News",
+    "summary": "A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on susceptible sites.\n\nThe vulnerability, tracked as CVE-2026",
+    "created_at": "2026-08-17T19:31:24.362725+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
+    "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
+    "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
+    "published": "Tue, 18 Aug 2026 00:14:17 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers at Wiz have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake&#x27;s public snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted GitHub issue to execute ",
+    "created_at": "2026-08-17T19:31:34.048142+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
+    "title": "Pokémon Center data breach exposes customer info, cancels some orders",
+    "link": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
+    "published": "Mon, 17 Aug 2026 15:12:39 -0400",
+    "source": "BleepingComputer",
+    "summary": "Pokémon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider CEVA Logistics. [...]",
+    "created_at": "2026-08-17T19:31:36.299268+00:00"
   }
 ]
