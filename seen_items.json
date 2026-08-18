@@ -7784,5 +7784,68 @@
     "source": "CybersecurityNews",
     "summary": "A cryptocurrency fraud operation has been found using AI coding tools to turn huge phone lists into a sharper victim-targeting system. The campaign combined account checks, phishing emails, phone calls, and counterfeit wallet software to pursue peopl",
     "created_at": "2026-08-18T12:31:12.565480+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159827",
+    "title": "Why Threat Intelligence Feeds Often Fail to Meet SOC Expectations",
+    "link": "https://cybersecuritynews.com/why-threat-intelligence-feeds-often-fail-to-meet-soc-expectations/",
+    "published": "Tue, 18 Aug 2026 12:36:51 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Threat intelligence (TI) feeds are expected to close visibility gaps that inevitably emerge in enterprise SOCs and make investigations faster and more effective. This promise sounds particularly attractive to leaders of growing SOC teams that need to",
+    "created_at": "2026-08-18T13:31:04.098828+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html",
+    "title": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks",
+    "link": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html",
+    "published": "Tue, 18 Aug 2026 18:08:20 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have disclosed details of a previously undocumented Python implant framework dubbed TWINLOOT.\n\n&quot;TWINLOOT is a modular, PyArmor-hardened Python implant designed to operate its entire command-and-control infrastructure in",
+    "created_at": "2026-08-18T13:31:06.169394+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
+    "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
+    "link": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
+    "published": "Tue, 18 Aug 2026 18:08:36 +0530",
+    "source": "The Hacker News",
+    "summary": "Security researchers at Anthropic and Switzerland&#x27;s EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system prompt files that autonomous agent harnesses",
+    "created_at": "2026-08-18T13:31:23.771824+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159863",
+    "title": "C2Looper Updates Itself Through OneDrive DLL Sideloading to Evade Detection",
+    "link": "https://cybersecuritynews.com/c2looper-updates/",
+    "published": "Tue, 18 Aug 2026 12:47:11 +0000",
+    "source": "CybersecurityNews",
+    "summary": "C2Looper is a newly identified backdoor that gives attackers a quiet way to control a compromised Windows computer. It can run commands, inspect the victim’s network and bring in more malware, making it a serious concern for organisations facing rans",
+    "created_at": "2026-08-18T13:31:25.829352+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159839",
+    "title": "OpenAI Warns AI Models Can Automate Cyberattacks and Exploit Security Vulnerabilities",
+    "link": "https://cybersecuritynews.com/openai-ai-cyberattacks/",
+    "published": "Tue, 18 Aug 2026 12:53:09 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OpenAI has warned that advancing artificial intelligence models are increasingly capable of automating critical phases of real-world cyberattacks. This technological shift enables threat actors to identify and exploit long-standing security weaknesse",
+    "created_at": "2026-08-18T13:31:27.888083+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159822",
+    "title": "Apple Fixes 28 Security Vulnerabilities Across macOS, iOS, and iPadOS",
+    "link": "https://cybersecuritynews.com/apple-fixes-28-security-vulnerabilities/",
+    "published": "Tue, 18 Aug 2026 13:02:16 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Apple has released security updates for macOS, iOS, and iPadOS, addressing 28 vulnerabilities that could expose users to data leakage, application crashes, kernel memory access, and arbitrary code execution. The updates were released on August 17, 20",
+    "created_at": "2026-08-18T13:31:29.970711+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159865",
+    "title": "Octagon Can Steal SMS One-Time Codes During Banking and Crypto Account Takeovers",
+    "link": "https://cybersecuritynews.com/octagon-steal-sms-one-time-codes/",
+    "published": "Tue, 18 Aug 2026 13:21:28 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Octagon is an Android theft tool that turns an infected phone into a platform for account takeover. It can steal login details, watch the screen, and capture verification codes that banks and exchanges use to protect accounts. It is sold as a service",
+    "created_at": "2026-08-18T13:31:32.018677+00:00"
   }
 ]
