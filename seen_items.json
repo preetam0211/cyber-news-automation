@@ -7604,5 +7604,14 @@
     "source": "The Hacker News",
     "summary": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker to remotely modify or delete pu",
     "created_at": "2026-08-17T21:31:22.342487+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159742",
+    "title": "Pokémon Center Confirms Data Breach – Hackers Stole Customers’ Personal Data",
+    "link": "https://cybersecuritynews.com/pokemon-center-confirms-data-breach/",
+    "published": "Tue, 18 Aug 2026 02:38:19 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Pokémon Center has begun notifying customers in the United Kingdom and Germany that their personal information was exposed in a third-party data breach, and that the incident has forced the company to cancel a batch of pending orders. The retailer co",
+    "created_at": "2026-08-18T03:31:08.390350+00:00"
   }
 ]
