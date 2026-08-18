@@ -7667,5 +7667,23 @@
     "source": "CybersecurityNews",
     "summary": "GitLab has released urgent security updates to fix a critical GraphQL vulnerability that could allow unauthenticated attackers to modify or delete public projects and user data remotely. The issue, tracked as CVE-2026-19478, affects GitLab Community ",
     "created_at": "2026-08-18T08:01:31.290718+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159761",
+    "title": "VMware Syslog Path Traversal Becomes Root RCE, Persistent SSH Access and ESXi Ransomware",
+    "link": "https://cybersecuritynews.com/vmware-syslog-path-traversal/",
+    "published": "Tue, 18 Aug 2026 08:02:41 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A fast-moving campaign is turning a VMware vCenter flaw into a route to full control of virtual infrastructure. Attackers are abusing CVE-2026-59310, a critical path traversal bug in the Syslog Server, to run commands as root without a normal login. ",
+    "created_at": "2026-08-18T08:31:56.297606+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/",
+    "title": "Microsoft starts removing WMIC tool used by cybercriminals",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/",
+    "published": "Tue, 18 Aug 2026 04:12:08 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft announced that it removed the Windows Management Instrumentation Command-line (WMIC) tool from Windows 11 24H2 and 25H2, as well as from Windows 11 beta builds released this week. [...]",
+    "created_at": "2026-08-18T08:32:48.276980+00:00"
   }
 ]
