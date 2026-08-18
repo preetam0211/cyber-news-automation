@@ -7748,5 +7748,23 @@
     "source": "BleepingComputer",
     "summary": "Microsoft has started testing a faster File Explorer and a less cluttered and more customizable context menu in Windows 11 preview builds rolling out to Insiders this week. [...]",
     "created_at": "2026-08-18T11:31:15.598670+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html",
+    "title": "One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025",
+    "link": "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html",
+    "published": "Tue, 18 Aug 2026 17:00:00 +0530",
+    "source": "The Hacker News",
+    "summary": "A single piece of infrastructure has been pulling records out of Salesforce and ServiceNow customer portals across multiple industries for more than a year, according to research published this week by agent security platform Reco.\n\nThe activity, whi",
+    "created_at": "2026-08-18T12:01:03.788702+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
+    "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
+    "link": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
+    "published": "Tue, 18 Aug 2026 17:10:06 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer.\n\nOpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the threat under the moniker Stub",
+    "created_at": "2026-08-18T12:01:05.971527+00:00"
   }
 ]
