@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
-    "title": "Hackers abuse ViPNet software to target Russian govt agencies",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
-    "published": "Sun, 19 Jul 2026 10:23:46 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-19T15:01:01.470455+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
     "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
     "link": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
