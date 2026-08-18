@@ -7877,5 +7877,23 @@
     "source": "CybersecurityNews",
     "summary": "Projextor is a malware campaign that turns ordinary-looking desktop tools into a doorway for hidden code. Its operators package it inside working document converters, meal planners and recipe applications, so victims receive a program that appears us",
     "created_at": "2026-08-18T16:02:00.310244+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159810",
+    "title": "Anthropic Launches New /design Skill for Claude Code UI Workflows",
+    "link": "https://cybersecuritynews.com/anthropic-launches-design-skill/",
+    "published": "Tue, 18 Aug 2026 16:03:05 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Anthropic has introduced a new /design skill for Claude Code, expanding its developer-focused AI platform into user interface design workflows. The feature is currently available as a research preview. It brings Claude Design’s artboard-based experie",
+    "created_at": "2026-08-18T16:31:33.041838+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159848",
+    "title": "Microsoft 365 Search Outage Disrupts SharePoint, OneDrive, and Outlook Users Worldwide",
+    "link": "https://cybersecuritynews.com/microsoft-365-search-outage/",
+    "published": "Tue, 18 Aug 2026 16:26:40 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft is actively managing a service disruption that has left a subset of enterprise users unable to search for content across SharePoint Online, OneDrive, Outlook on the web, and Outlook desktop. The incident, tracked in administrative portals u",
+    "created_at": "2026-08-18T16:32:00.196594+00:00"
   }
 ]
