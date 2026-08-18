@@ -1,21 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
-    "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
-    "link": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
-    "published": "Sun, 19 Jul 2026 18:48:56 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-19T14:30:58.117932+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html",
-    "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
-    "link": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html",
-    "published": "Sun, 19 Jul 2026 19:00:55 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-19T14:31:00.005752+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
     "title": "Hackers abuse ViPNet software to target Russian govt agencies",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
@@ -7856,5 +7840,32 @@
     "source": "CybersecurityNews",
     "summary": "Kimsuky, the North Korean espionage group, has expanded a campaign known as Operation GitPower with a local artificial intelligence development setup. It combines phishing emails with tools that may help create lures, review stolen material, and adap",
     "created_at": "2026-08-18T14:01:58.234598+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
+    "title": "Your Controls Block Known Attacks. What About the Behavior?",
+    "link": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
+    "published": "Tue, 18 Aug 2026 10:01:11 -0400",
+    "source": "BleepingComputer",
+    "summary": "Security controls can block a familiar attack method while missing quieter ways to achieve the same objective. Picus Security&#x27;s Blue Report 2026 shows how prevention rates can vary dramatically by technique and why behavioral testing is needed t",
+    "created_at": "2026-08-18T14:31:32.594363+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159885",
+    "title": "JWR Phishing Framework Uses Real-Time WebSocket Control and AES Encryption to Steal Banking Credentials",
+    "link": "https://cybersecuritynews.com/jwr-phishing-framework/",
+    "published": "Tue, 18 Aug 2026 14:03:57 +0000",
+    "source": "CybersecurityNews",
+    "summary": "JWR is a phishing framework built for live fraud. It turns a fake payment or bank page into a live channel that lets criminals watch details arrive as they are typed. The campaign uses SMS messages posing as unpaid toll notices, parcel delivery charg",
+    "created_at": "2026-08-18T14:31:34.820223+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159886",
+    "title": "GEEKOM Mini PC Realtek LAN Driver Package Found Infected With Asruex Trojan",
+    "link": "https://cybersecuritynews.com/geekom-mini-pc/",
+    "published": "Tue, 18 Aug 2026 14:27:15 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A network driver download is meant to get a computer online. In this case, it became a potential malware route after a Realtek LAN driver package on a legacy GEEKOM support page was flagged as carrying the Asruex Trojan. The exposure involved a downl",
+    "created_at": "2026-08-18T14:32:01.882978+00:00"
   }
 ]
