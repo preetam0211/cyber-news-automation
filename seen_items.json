@@ -7766,5 +7766,23 @@
     "source": "The Hacker News",
     "summary": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer.\n\nOpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the threat under the moniker Stub",
     "created_at": "2026-08-18T12:01:05.971527+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=21750",
+    "title": "10 Best Dark Web Monitoring Tools in 2026",
+    "link": "https://cybersecuritynews.com/dark-web-monitoring-tools/",
+    "published": "Tue, 18 Aug 2026 12:02:09 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Dark web monitoring involves tracking activities on the hidden internet, accessible only via specialized software and configurations. This shadowy realm hosts illicit markets for stolen data, illegal drugs, weapons, hacking services, and other crimin",
+    "created_at": "2026-08-18T12:31:10.336931+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159833",
+    "title": "Crypto Scammer Uses Claude Code to Process 100,000+ Phone Numbers for Victim Targeting",
+    "link": "https://cybersecuritynews.com/crypto-scammer-uses-claude-code/",
+    "published": "Tue, 18 Aug 2026 12:16:17 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A cryptocurrency fraud operation has been found using AI coding tools to turn huge phone lists into a sharper victim-targeting system. The campaign combined account checks, phishing emails, phone calls, and counterfeit wallet software to pursue peopl",
+    "created_at": "2026-08-18T12:31:12.565480+00:00"
   }
 ]
