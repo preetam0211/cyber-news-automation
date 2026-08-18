@@ -7904,5 +7904,41 @@
     "source": "BleepingComputer",
     "summary": "A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal files. [...]",
     "created_at": "2026-08-18T17:31:01.797192+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159904",
+    "title": "Hackers Hijack Thousands of WordPress Sites to Use as C2 Servers for StopAndProtect Malware",
+    "link": "https://cybersecuritynews.com/wordpress-sites-stopandprotect-malware/",
+    "published": "Tue, 18 Aug 2026 16:47:24 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly uncovered malware operation dubbed StopAndProtect is transforming thousands of hacked WordPress websites into a sprawling criminal command-and-control (C2) infrastructure. The campaign blends double-extortion ransomware with covert data theft",
+    "created_at": "2026-08-18T18:01:49.919589+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159877",
+    "title": "Critical MLflow SSRF Vulnerability Exploited by Hackers in the Wild",
+    "link": "https://cybersecuritynews.com/mlflow-ssrf-vulnerability/",
+    "published": "Tue, 18 Aug 2026 16:52:33 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Threat actors are actively exploiting a critical, unauthenticated server-side request forgery (SSRF) vulnerability in MLflow, the popular open-source platform widely used by data engineering and machine learning teams to track experiments, package co",
+    "created_at": "2026-08-18T18:01:51.984831+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159840",
+    "title": "French Tax Authority Data Breach Exposes 600,000+ Users’ Personal Tax-Related Data",
+    "link": "https://cybersecuritynews.com/french-tax-authority-data-breach/",
+    "published": "Tue, 18 Aug 2026 17:00:44 +0000",
+    "source": "CybersecurityNews",
+    "summary": "France’s tax authority has confirmed a data breach affecting approximately 678,000 individuals and businesses after threat actors gained unauthorized access to internal information systems. The incident involved stolen or impersonated credentials bel",
+    "created_at": "2026-08-18T18:01:53.341601+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159927",
+    "title": "CISA Warns Medusa Ransomware Hackers Steal Data, Kill Security Tools, and Encrypt Entire Networks",
+    "link": "https://cybersecuritynews.com/medusa-ransomware/",
+    "published": "Tue, 18 Aug 2026 17:47:28 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA), the Federal Bureau of Investigation (FBI), and the U.S. Department of Health and Human Services (HHS) have jointly released an updated security advisory warning that Medusa ransomware threa",
+    "created_at": "2026-08-18T18:01:54.157046+00:00"
   }
 ]
