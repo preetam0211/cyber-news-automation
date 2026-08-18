@@ -7847,5 +7847,14 @@
     "source": "CybersecurityNews",
     "summary": "Octagon is an Android theft tool that turns an infected phone into a platform for account takeover. It can steal login details, watch the screen, and capture verification codes that banks and exchanges use to protect accounts. It is sold as a service",
     "created_at": "2026-08-18T13:31:32.018677+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159875",
+    "title": "Kimsuky Expands Its Cyber Espionage Arsenal With Local AI Development Environment",
+    "link": "https://cybersecuritynews.com/kimsuky-expands-its-cyber/",
+    "published": "Tue, 18 Aug 2026 13:41:41 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Kimsuky, the North Korean espionage group, has expanded a campaign known as Operation GitPower with a local artificial intelligence development setup. It combines phishing emails with tools that may help create lures, review stolen material, and adap",
+    "created_at": "2026-08-18T14:01:58.234598+00:00"
   }
 ]
