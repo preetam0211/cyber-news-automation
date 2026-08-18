@@ -7613,5 +7613,41 @@
     "source": "CybersecurityNews",
     "summary": "Pokémon Center has begun notifying customers in the United Kingdom and Germany that their personal information was exposed in a third-party data breach, and that the incident has forced the company to cancel a batch of pending orders. The retailer co",
     "created_at": "2026-08-18T03:31:08.390350+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159763",
+    "title": "Public Exploit Code Released for Microsoft SCCM Remote Code Execution Vulnerability",
+    "link": "https://cybersecuritynews.com/microsoft-sccm-vulnerability-poc-release/",
+    "published": "Tue, 18 Aug 2026 05:39:34 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Public proof-of-concept exploit code is now available for CVE-2026-47301, a critical remote code execution vulnerability affecting Microsoft Configuration Manager (SCCM). The disclosed exploit chain could allow a low-privileged domain user to gain SY",
+    "created_at": "2026-08-18T07:01:11.145305+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159781",
+    "title": "Claude Code Helps Ransomware Operator Steal LDAP Passwords, Backdoor VPNs and Exfiltrate SQL Databases",
+    "link": "https://cybersecuritynews.com/claude-code-helps-ransomware-operator/",
+    "published": "Tue, 18 Aug 2026 05:56:44 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new threat intelligence report from Gambit Security has documented one of the clearest real-world examples yet of artificial intelligence being weaponized inside an active ransomware campaign. Researchers found that a suspected affiliate of The Gen",
+    "created_at": "2026-08-18T07:01:40.195681+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158525",
+    "title": "Top 10 Best Network Sandboxing Solutions in 2026",
+    "link": "https://cybersecuritynews.com/best-network-sandboxing-solutions/",
+    "published": "Tue, 18 Aug 2026 06:25:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Network sandboxing detonates unknown files and URLs in an isolated environment to see what they actually do catching malware that has never been seen before and therefore has no signature. Palo Alto WildFire leads on scale and integration, VMRay lead",
+    "created_at": "2026-08-18T07:02:26.603203+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159776",
+    "title": "Windows 11 File Explorer Gets Faster, Customizable Right-Click Menu With App Extension Controls",
+    "link": "https://cybersecuritynews.com/windows-11-file-explorer-gets-faster/",
+    "published": "Tue, 18 Aug 2026 06:49:19 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has introduced a redesigned File Explorer context menu for Windows 11 Insiders, promising faster right-click performance, less clutter, and new controls over built-in commands and third-party app extensions. The update is part of Microsoft’",
+    "created_at": "2026-08-18T07:02:53.250300+00:00"
   }
 ]
