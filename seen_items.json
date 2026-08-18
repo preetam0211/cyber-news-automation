@@ -7694,5 +7694,23 @@
     "source": "CybersecurityNews",
     "summary": "A critical security flaw in the Forminator Forms WordPress plugin could allow unauthenticated attackers to upload malicious PHP files, potentially enabling them to take full control of vulnerable websites. The issue, tracked as CVE-2026-15748, affect",
     "created_at": "2026-08-18T09:01:37.593064+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html",
+    "title": "SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers",
+    "link": "https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html",
+    "published": "Tue, 18 Aug 2026 14:40:45 +0530",
+    "source": "The Hacker News",
+    "summary": "SafePal has disclosed that an authorization flaw in an order-tracking plug-in exposed the names, email addresses, shipping addresses, phone numbers, and purchase details of approximately 39,798 customers.\n\nThe hardware wallet maker said all affected ",
+    "created_at": "2026-08-18T09:34:27.564725+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/",
+    "title": "Microsoft confirms outage affecting search in Microsoft 365 apps",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/",
+    "published": "Tue, 18 Aug 2026 05:24:49 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft says some users are experiencing issues searching in Microsoft 365 apps, including Outlook on the web, Outlook desktop, SharePoint Online, and OneDrive. [...]",
+    "created_at": "2026-08-18T09:34:45.534122+00:00"
   }
 ]
