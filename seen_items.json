@@ -7649,5 +7649,14 @@
     "source": "CybersecurityNews",
     "summary": "Microsoft has introduced a redesigned File Explorer context menu for Windows 11 Insiders, promising faster right-click performance, less clutter, and new controls over built-in commands and third-party app extensions. The update is part of Microsoft’",
     "created_at": "2026-08-18T07:02:53.250300+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html",
+    "title": "CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE",
+    "link": "https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html",
+    "published": "Tue, 18 Aug 2026 12:04:20 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a critical flaw impacting Ray to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nRay is an open-source, Python-native distrib",
+    "created_at": "2026-08-18T07:31:43.518022+00:00"
   }
 ]
