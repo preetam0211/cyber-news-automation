@@ -7967,5 +7967,14 @@
     "source": "The Hacker News",
     "summary": "Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to the victim&#x27;s Copilot ses",
     "created_at": "2026-08-18T19:01:24.184188+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/",
+    "title": "Comcast turns your Xfinity WiFi into a home motion detector",
+    "link": "https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/",
+    "published": "Tue, 18 Aug 2026 16:14:58 -0400",
+    "source": "BleepingComputer",
+    "summary": "Comcast is promoting WiFi-based motion detection as a part of its new Xfinity Shield home protection platform, allowing routers and wireless devices to detect people moving through a home without cameras or motion sensors. [...]",
+    "created_at": "2026-08-18T20:31:43.713506+00:00"
   }
 ]
