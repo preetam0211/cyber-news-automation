@@ -8188,5 +8188,23 @@
     "source": "CybersecurityNews",
     "summary": "A sophisticated Phishing-as-a-Service (PhaaS) platform marketed as Mirage2FA is enabling threat actors to bypass multi-factor authentication (MFA) by allowing Microsoft 365 users to complete their regular login process before covertly stealing the au",
     "created_at": "2026-08-19T16:31:49.676594+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160066",
+    "title": "CISA Adds Microsoft Internet Key Exchange RCE Vulnerability Exploited in Attacks",
+    "link": "https://cybersecuritynews.com/microsoft-internet-key-exchange-rce-vulnerability/",
+    "published": "Wed, 19 Aug 2026 16:47:27 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency has added a critical Microsoft Internet Key Exchange vulnerability, tracked as CVE-2026-33824, to its Known Exploited Vulnerabilities catalog after confirming exploitation in attacks. The flaw",
+    "created_at": "2026-08-19T17:01:06.519998+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160107",
+    "title": "Critical Citrix NetScaler Flaw Lets Remote Attackers Bypass Authentication Without Credentials",
+    "link": "https://cybersecuritynews.com/critical-citrix-netscaler-vulnerability/",
+    "published": "Wed, 19 Aug 2026 16:56:38 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cloud Software Group has issued a critical security bulletin warning customers of two serious vulnerabilities affecting NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway). Tracked as CVE-2026-19489 and CVE-2026-19490,",
+    "created_at": "2026-08-19T17:01:07.567368+00:00"
   }
 ]
