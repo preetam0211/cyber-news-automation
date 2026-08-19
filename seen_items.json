@@ -7970,5 +7970,14 @@
     "source": "CybersecurityNews",
     "summary": "A critical vulnerability in Microsoft Copilot Personal, tracked as CVE-2026-24301 and nicknamed CoSnitch, lets attackers silently siphon sensitive data from a victim’s connected accounts with nothing more than a single click on a malicious link. The ",
     "created_at": "2026-08-19T03:31:42.889110+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159943",
+    "title": "Cl0p Hackers Exploit PTC Windchill Flaw to Steal Passwords and Sensitive Company Data",
+    "link": "https://cybersecuritynews.com/cl0p-hackers-exploit-ptc/",
+    "published": "Wed, 19 Aug 2026 05:46:16 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cl0p, also tracked as Cl0P, has returned with a campaign aimed at PTC Windchill servers, putting engineering files, passwords, and company records at risk. The financially motivated group is exploiting a critical remote-code-execution flaw, CVE-2026-",
+    "created_at": "2026-08-19T06:31:10.710781+00:00"
   }
 ]
