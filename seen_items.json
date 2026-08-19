@@ -8047,5 +8047,32 @@
     "source": "CybersecurityNews",
     "summary": "Oracle has released 943 new security patches in its August 2026 Critical Security Patch Update, addressing flaws across its enterprise software portfolio. The release includes several critical Oracle WebLogic Server vulnerabilities that could allow a",
     "created_at": "2026-08-19T11:01:54.338092+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
+    "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
+    "link": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
+    "published": "Wed, 19 Aug 2026 16:31:48 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four critical vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, stating they are being exploited in the wild.\n\nThe shortcomings added to the KEV cat",
+    "created_at": "2026-08-19T11:34:38.886864+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/",
+    "title": "Microsoft fixes known issue causing Windows Defender crashes",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/",
+    "published": "Wed, 19 Aug 2026 07:14:28 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft has resolved a bug that caused Windows Defender to crash after a recent security update, resulting in 0xc0000005 access violation errors on some affected systems. [...]",
+    "created_at": "2026-08-19T11:34:40.920768+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
+    "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
+    "link": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
+    "published": "Wed, 19 Aug 2026 16:55:28 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have flagged a global cybercrime operation that abuses thousands of hacked WordPress websites as infrastructure to disseminate malware, commandeer infected hosts, store stolen documents, screenshots, and activity logs create",
+    "created_at": "2026-08-19T11:35:07.880796+00:00"
   }
 ]
