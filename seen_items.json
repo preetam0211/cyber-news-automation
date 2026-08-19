@@ -8115,5 +8115,23 @@
     "source": "BleepingComputer",
     "summary": "Huntress observed a 155x increase in password spraying attacks in H1 2026, including a campaign that generated more than 81 million login attempts in two weeks. The attacks exploited legacy authentication and gaps in MFA policies that left some login",
     "created_at": "2026-08-19T14:01:22.244888+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160060",
+    "title": "Hundreds of Leaked Stripe Merchant Keys Expose Payment and Payout Capabilities",
+    "link": "https://cybersecuritynews.com/hundreds-of-leaked-stripe-merchant-keys/",
+    "published": "Wed, 19 Aug 2026 14:09:07 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hundreds of leaked Stripe merchant keys have exposed a serious risk for online businesses and their customers. The collection contains active credentials tied to hundreds of accounts, allowing a criminal to use payment tools that should remain strict",
+    "created_at": "2026-08-19T15:01:26.530504+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160062",
+    "title": "Hackers Use AI Voice Calls and Fake Banking Pages to Bypass MFA and Steal Accounts",
+    "link": "https://cybersecuritynews.com/hackers-use-ai-voice-calls/",
+    "published": "Wed, 19 Aug 2026 14:50:20 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are pairing AI-generated phone calls with fake banking pages to take over customer accounts, even when multi-factor authentication is enabled. The campaign, tracked as Balonx Sistema, gives criminals a live view of a victim’s phishing session",
+    "created_at": "2026-08-19T15:01:28.681494+00:00"
   }
 ]
