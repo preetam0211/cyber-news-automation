@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
-    "title": "An AI SOC Evaluation Guide for Security Leaders",
-    "link": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
-    "published": "Mon, 20 Jul 2026 10:01:11 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-20T14:31:00.556792+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
     "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
     "link": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
