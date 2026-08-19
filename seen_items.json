@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/",
-    "title": "Critical ServiceNow code execution flaw now exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/",
-    "published": "Mon, 20 Jul 2026 05:29:20 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-20T09:31:02.206708+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
     "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
     "link": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
@@ -7997,5 +7989,41 @@
     "source": "CybersecurityNews",
     "summary": "A binary planting vulnerability in the Cursor IDE that lets a malicious git.exe file, placed at the root of a repository, run automatically the moment a developer opens that project on Windows. The attack requires no prompt injection, no agent, no AI",
     "created_at": "2026-08-19T09:03:01.064305+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159967",
+    "title": "Google Fixes Two Critical Chrome Flaws in WebGL and Dawn — Update Your Browser",
+    "link": "https://cybersecuritynews.com/google-fixes-two-chrome-flaws-in-webgl-and-dawn/",
+    "published": "Wed, 19 Aug 2026 09:06:19 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Google has released a new Chrome Stable channel update that fixes two critical security vulnerabilities affecting graphics-related components. Users should update their browsers as soon as the release becomes available for their device. The update mo",
+    "created_at": "2026-08-19T09:31:33.655016+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159950",
+    "title": "CISA Warns of VMware vCenter Path Traversal Vulnerability Actively Exploited in Attacks",
+    "link": "https://cybersecuritynews.com/vmware-vcenter-path-traversal-vulnerability-exploited/",
+    "published": "Wed, 19 Aug 2026 09:09:45 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency has added a critical Broadcom VMware vCenter vulnerability, tracked as CVE-2026-59310, to its Known Exploited Vulnerabilities catalog after evidence showed active exploitation in attacks. The ",
+    "created_at": "2026-08-19T09:31:50.144034+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/",
+    "title": "Windows 11 24H2 Home and Pro reach end of support in 2 months",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/",
+    "published": "Wed, 19 Aug 2026 05:10:20 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft has reminded customers that systems running Home and Pro editions of Windows 11 24H2 will stop receiving updates in two months. [...]",
+    "created_at": "2026-08-19T09:32:05.359336+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159987",
+    "title": "Claude Can Now Send Emails in Gmail and Manage Files in Google Drive",
+    "link": "https://cybersecuritynews.com/claude-can-now-send-emails-in-gmail/",
+    "published": "Wed, 19 Aug 2026 09:30:02 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Anthropic has moved Claude out of the draft-only inbox and into live Google accounts. In an August 18, 2026 post, the company said users can ask Claude to reply to a Gmail thread and have the assistant draft and send the response, while Google Drive ",
+    "created_at": "2026-08-19T09:32:26.137616+00:00"
   }
 ]
