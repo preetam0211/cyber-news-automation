@@ -7988,5 +7988,14 @@
     "source": "BleepingComputer",
     "summary": "The FBI said Tuesday that the Medusa ransomware gang has breached more than 500 critical infrastructure organizations in the United States since June 2021. [...]",
     "created_at": "2026-08-19T08:01:33.886306+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159953",
+    "title": "Critical Cursor 0-day Vulnerability Enables Arbitrary Code Execution Attacks",
+    "link": "https://cybersecuritynews.com/cursor-0-day-vulnerability/",
+    "published": "Wed, 19 Aug 2026 08:45:14 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A binary planting vulnerability in the Cursor IDE that lets a malicious git.exe file, placed at the root of a repository, run automatically the moment a developer opens that project on Windows. The attack requires no prompt injection, no agent, no AI",
+    "created_at": "2026-08-19T09:03:01.064305+00:00"
   }
 ]
