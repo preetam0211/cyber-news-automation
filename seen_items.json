@@ -1,21 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
-    "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
-    "link": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
-    "published": "Mon, 20 Jul 2026 17:00:00 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-20T13:01:04.864312+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html",
-    "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
-    "link": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html",
-    "published": "Mon, 20 Jul 2026 17:43:39 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-20T13:01:06.649171+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
     "title": "⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
     "link": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
@@ -8075,5 +8059,32 @@
     "source": "CybersecurityNews",
     "summary": "A newly detailed offensive security tool called RAVEN shows how a compromised Elasticsearch environment can become a data-loss incident with persistent access. The tool demonstrates what an intruder could do after reaching an exposed cluster or contr",
     "created_at": "2026-08-19T12:01:08.539236+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160024",
+    "title": "Windows Defender Update for 0-day Vulnerability Breaks Virus Scans",
+    "link": "https://cybersecuritynews.com/windows-defender-0-day-update-crash/",
+    "published": "Wed, 19 Aug 2026 12:54:51 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft Defender has been aborting Quick, Full, and Offline virus scans after a cluster of Security Intelligence updates reached Windows PCs on August 18, 2026, leaving home users and Defender for Endpoint admins without a reliable malware check. C",
+    "created_at": "2026-08-19T13:31:56.239850+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160011",
+    "title": "Hackers Actively Exploiting macOS’s Built-in Screen Sharing Service Vulnerability in the Wild",
+    "link": "https://cybersecuritynews.com/hackers-exploiting-macoss-screen-sharing-service/",
+    "published": "Wed, 19 Aug 2026 13:03:03 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are actively abusing a flaw in macOS Screen Sharing to take root-level control of a small number of devices. The attacks turn a built-in remote-access feature into a doorway for quietly placing files, changing system settings, and running a c",
+    "created_at": "2026-08-19T13:31:58.508127+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160018",
+    "title": "MacSync Stealer Hides Behind 30+ Domains While Stealing Passwords and Sensitive Mac Data",
+    "link": "https://cybersecuritynews.com/macsync-stealer/",
+    "published": "Wed, 19 Aug 2026 13:18:33 +0000",
+    "source": "CybersecurityNews",
+    "summary": "MacSync Stealer is expanding the risk facing Mac users by turning everyday web browsing and Terminal activity into a route for password theft. The macOS-focused malware uses short-lived online infrastructure, making simple blocklists less effective a",
+    "created_at": "2026-08-19T13:32:25.554349+00:00"
   }
 ]
