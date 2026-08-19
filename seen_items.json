@@ -1,29 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/",
-    "title": "Hackers steal $23.7 million in crypto from Ostium in off-chain attack",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/",
-    "published": "Mon, 20 Jul 2026 18:22:56 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-20T22:30:58.939311+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/",
-    "title": "SonicWall SMA1000 flaws exploited as zero-days to push custom malware",
-    "link": "https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/",
-    "published": "Mon, 20 Jul 2026 18:23:23 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-20T22:31:00.863644+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/",
-    "title": "Estée Lauder discloses data breach via Oracle E-Business flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/",
-    "published": "Mon, 20 Jul 2026 18:39:30 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-20T23:01:01.336285+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
     "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
     "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
