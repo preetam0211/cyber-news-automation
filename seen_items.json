@@ -7968,5 +7968,23 @@
     "source": "BleepingComputer",
     "summary": "Comcast is promoting WiFi-based motion detection as a part of its new Xfinity Shield home protection platform, allowing routers and wireless devices to detect people moving through a home without cameras or motion sensors. [...]",
     "created_at": "2026-08-18T20:31:43.713506+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159817",
+    "title": "Irregular Pushes Stronger Containment Standards for Secure Frontier AI Cyber Evaluations",
+    "link": "https://cybersecuritynews.com/irregular-pushes-stronger-secure-frontier-ai-cyber-evaluations/",
+    "published": "Wed, 19 Aug 2026 02:06:28 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Irregular has detailed an investigation into an AI cyber-evaluation incident in which internet access unintentionally allowed models to interact with real-world systems. The company said the issue was contained and fixed before the first public discl",
+    "created_at": "2026-08-19T03:31:37.969317+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159935",
+    "title": "Critical Microsoft Copilot CoSnitch Vulnerability Lets Attackers Steal Sensitive Data With One Click",
+    "link": "https://cybersecuritynews.com/copilot-cosnitch-vulnerability/",
+    "published": "Wed, 19 Aug 2026 02:32:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical vulnerability in Microsoft Copilot Personal, tracked as CVE-2026-24301 and nicknamed CoSnitch, lets attackers silently siphon sensitive data from a victim’s connected accounts with nothing more than a single click on a malicious link. The ",
+    "created_at": "2026-08-19T03:31:42.889110+00:00"
   }
 ]
