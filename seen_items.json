@@ -8199,5 +8199,14 @@
     "source": "BleepingComputer",
     "summary": "U.S. cybersecurity agencies warn that threat actors are using AI-generated scripts to exploit Siemens S7 Series programmable logic controllers (PLCs) in U.S. critical infrastructure. [...]",
     "created_at": "2026-08-19T18:01:20.312521+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/",
+    "title": "Hackers compromise 14,500 Dahua web cameras in 35-day campaign",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/",
+    "published": "Wed, 19 Aug 2026 14:09:13 -0400",
+    "source": "BleepingComputer",
+    "summary": "In a large-scale campaign that researchers dubbed CameraSwarm, hackers compromised more than 14,500 Dahua IP cameras mostly in Ukraine and Russia. [...]",
+    "created_at": "2026-08-19T18:31:12.930088+00:00"
   }
 ]
