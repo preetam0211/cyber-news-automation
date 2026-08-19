@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
-    "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
-    "link": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
-    "published": "Mon, 20 Jul 2026 20:03:43 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-20T15:31:04.422391+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
     "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
     "link": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
@@ -8133,5 +8125,41 @@
     "source": "CybersecurityNews",
     "summary": "Hackers are pairing AI-generated phone calls with fake banking pages to take over customer accounts, even when multi-factor authentication is enabled. The campaign, tracked as Balonx Sistema, gives criminals a live view of a victim’s phishing session",
     "created_at": "2026-08-19T15:01:28.681494+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160087",
+    "title": "China-Nexus Hackers Disguise Malicious VHD as JPEG to Deploy QUICAgent Backdoor",
+    "link": "https://cybersecuritynews.com/china-nexus-hackers/",
+    "published": "Wed, 19 Aug 2026 15:05:35 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A China-nexus cyber espionage campaign is using a convincing visual trick to reach Myanmar government and technology personnel. The attackers present a virtual hard disk, or VHD, as an ordinary JPEG image, betting that recipients will not question a ",
+    "created_at": "2026-08-19T15:31:06.708883+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160034",
+    "title": "Microsoft to End Support for Windows 11 24H2 Home and Pro Editions",
+    "link": "https://cybersecuritynews.com/microsoft-end-support-for-windows-11-24h2/",
+    "published": "Wed, 19 Aug 2026 15:07:23 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has issued a 60-day reminder that Windows 11 Home and Pro editions, version 24H2, will reach the end of updates on October 13, 2026. After that date, affected devices will no longer receive Microsoft’s monthly security updates or non-securi",
+    "created_at": "2026-08-19T15:31:08.091428+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160021",
+    "title": "CISA Adds Microsoft SharePoint Weak Authentication Vulnerability to KEV List",
+    "link": "https://cybersecuritynews.com/microsoft-sharepoint-authentication-vulnerability/",
+    "published": "Wed, 19 Aug 2026 15:15:31 +0000",
+    "source": "CybersecurityNews",
+    "summary": "CISA added a critical Microsoft SharePoint authentication flaw to its KEV catalog after CVE-2026-55040 was confirmed in active exploitation, urging organizations to secure affected on-premises environments. CVE-2026-55040 is a weakness in Microsoft S",
+    "created_at": "2026-08-19T15:31:31.795016+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160046",
+    "title": "Former Ping Identity and CyberArk Executives Join AppViewX to Scale Machine and Agent Identity Security",
+    "link": "https://cybersecuritynews.com/former-ping-identity-and-cyberark-executives-join-appviewx-to-scale-machine-and-agent-identity-security/",
+    "published": "Wed, 19 Aug 2026 15:19:41 +0000",
+    "source": "CybersecurityNews",
+    "summary": "New York, New York, August 19th, 2026, CyberNewswire New revenue leader and board member join as AppViewX’s identity security business continues its rapid growth  AppViewX, the leading machine and agent identity security company built for the AI and ",
+    "created_at": "2026-08-19T15:31:34.201289+00:00"
   }
 ]
