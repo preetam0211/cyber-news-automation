@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
-    "title": "⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
-    "link": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
-    "published": "Mon, 20 Jul 2026 19:02:26 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-20T14:01:06.247438+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
     "title": "An AI SOC Evaluation Guide for Security Leaders",
     "link": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
@@ -8086,5 +8078,50 @@
     "source": "CybersecurityNews",
     "summary": "MacSync Stealer is expanding the risk facing Mac users by turning everyday web browsing and Terminal activity into a route for password theft. The macOS-focused malware uses short-lived online infrastructure, making simple blocklists less effective a",
     "created_at": "2026-08-19T13:32:25.554349+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
+    "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
+    "link": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
+    "published": "Wed, 19 Aug 2026 17:00:00 +0530",
+    "source": "The Hacker News",
+    "summary": "Most email defenses still do the job they did a decade ago. Scan the message, look for something malicious, block it. That worked when the danger sat in the payload, a bad link or an attachment. It stopped working when the danger moved into the messa",
+    "created_at": "2026-08-19T14:01:08.458935+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
+    "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
+    "link": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
+    "published": "Wed, 19 Aug 2026 17:04:28 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attacks, two authentication-bypass flaws, and a peer-to-peer (P2P) ",
+    "created_at": "2026-08-19T14:01:15.261501+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
+    "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
+    "link": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
+    "published": "Wed, 19 Aug 2026 18:42:17 +0530",
+    "source": "The Hacker News",
+    "summary": "A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia.\n\nThe intrusion set makes use of seven remote access tool (RAT) families, five of which have never been previously doc",
+    "created_at": "2026-08-19T14:01:17.468510+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160038",
+    "title": "Ransomware Hackers Pose as Recovery Firm and Demand Up to $60,000",
+    "link": "https://cybersecuritynews.com/ransomware-hackers/",
+    "published": "Wed, 19 Aug 2026 13:39:38 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Ransomware victims are facing a new kind of pressure campaign. Instead of receiving another demand from the attackers who stole their data, some companies are being contacted by a supposed recovery firm that says it can retrieve files and erase stole",
+    "created_at": "2026-08-19T14:01:19.769013+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
+    "title": "Password spraying attacks surge 155x as hackers exploit MFA gaps",
+    "link": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
+    "published": "Wed, 19 Aug 2026 10:00:10 -0400",
+    "source": "BleepingComputer",
+    "summary": "Huntress observed a 155x increase in password spraying attacks in H1 2026, including a campaign that generated more than 81 million login attempts in two weeks. The attacks exploited legacy authentication and gaps in MFA policies that left some login",
+    "created_at": "2026-08-19T14:01:22.244888+00:00"
   }
 ]
