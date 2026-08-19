@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html",
-    "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
-    "link": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html",
-    "published": "Mon, 20 Jul 2026 23:53:03 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-20T20:00:57.221746+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
     "title": "JadePuffer agentic attacks now target AI model data with ransomware",
     "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
@@ -8217,5 +8209,23 @@
     "source": "CybersecurityNews",
     "summary": "A trusted supplier can become an attack path overnight.  Large US and EU enterprises often rely on hundreds of vendors, giving attackers plenty of opportunities to hide malicious activity inside legitimate emails, files, and business workflows.  The ",
     "created_at": "2026-08-19T19:01:08.149285+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
+    "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
+    "link": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
+    "published": "Wed, 19 Aug 2026 23:36:44 +0530",
+    "source": "The Hacker News",
+    "summary": "OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the scope of its monitoring to avert another Hugging ",
+    "created_at": "2026-08-19T20:01:09.688167+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
+    "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
+    "link": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
+    "published": "Thu, 20 Aug 2026 00:32:40 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have disclosed details of a remote Spectre attack against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits per second, 360 times the rate of an ear",
+    "created_at": "2026-08-19T20:01:11.685726+00:00"
   }
 ]
