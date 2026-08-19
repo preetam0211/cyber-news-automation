@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
-    "title": "Hugging Face discloses breach linked to autonomous AI agent",
-    "link": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
-    "published": "Mon, 20 Jul 2026 07:56:28 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-20T12:00:58.621367+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
     "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
     "link": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
@@ -8074,5 +8066,14 @@
     "source": "The Hacker News",
     "summary": "Cybersecurity researchers have flagged a global cybercrime operation that abuses thousands of hacked WordPress websites as infrastructure to disseminate malware, commandeer infected hosts, store stolen documents, screenshots, and activity logs create",
     "created_at": "2026-08-19T11:35:07.880796+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160008",
+    "title": "RAVEN Tool Exfiltrates Entire Elasticsearch Databases and Maintains Access After Password Rotation",
+    "link": "https://cybersecuritynews.com/raven-tool-exfiltrates-entire-elasticsearch/",
+    "published": "Wed, 19 Aug 2026 11:42:58 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly detailed offensive security tool called RAVEN shows how a compromised Elasticsearch environment can become a data-loss incident with persistent access. The tool demonstrates what an intruder could do after reaching an exposed cluster or contr",
+    "created_at": "2026-08-19T12:01:08.539236+00:00"
   }
 ]
