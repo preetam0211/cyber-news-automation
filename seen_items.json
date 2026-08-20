@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
-    "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
-    "link": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
-    "published": "Tue, 21 Jul 2026 14:50:54 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-21T19:01:01.449936+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
     "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
     "link": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
@@ -8519,5 +8511,14 @@
     "source": "BleepingComputer",
     "summary": "Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers&#x27; systems during compilation. [...]",
     "created_at": "2026-08-20T18:01:12.528067+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
+    "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More",
+    "link": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
+    "published": "Thu, 20 Aug 2026 22:53:48 +0530",
+    "source": "The Hacker News",
+    "summary": "A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do.\n\nSigned drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to code execution. Elsewhere, exp",
+    "created_at": "2026-08-20T19:01:21.800834+00:00"
   }
 ]
