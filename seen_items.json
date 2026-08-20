@@ -8513,5 +8513,14 @@
     "source": "The Hacker News",
     "summary": "Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think tanks across Europe, as well a",
     "created_at": "2026-08-20T20:31:28.013998+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
+    "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
+    "link": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
+    "published": "Fri, 21 Aug 2026 01:52:35 +0530",
+    "source": "The Hacker News",
+    "summary": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded and executed a remote payload",
+    "created_at": "2026-08-20T22:01:24.271915+00:00"
   }
 ]
