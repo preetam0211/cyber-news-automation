@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
-    "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
-    "link": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
-    "published": "Tue, 21 Jul 2026 20:27:51 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-21T15:31:07.395775+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
     "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
     "link": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
@@ -8479,5 +8471,23 @@
     "source": "BleepingComputer",
     "summary": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
     "created_at": "2026-08-20T15:01:02.697101+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
+    "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
+    "link": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
+    "published": "Thu, 20 Aug 2026 20:06:27 +0530",
+    "source": "The Hacker News",
+    "summary": "Adversa AI has disclosed an attack technique that it says can cause xAI&#x27;s Grok chatbot to send a user&#x27;s name, approximate location, subscription tier, and the prompts from the ongoing conversation to an attacker-controlled server after the ",
+    "created_at": "2026-08-20T16:01:47.985787+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160223",
+    "title": "Critical NASA AIT-GUI Flaw Lets Unauthenticated Attackers Issue Spacecraft Commands",
+    "link": "https://cybersecuritynews.com/nasa-ait-gui-flaw/",
+    "published": "Thu, 20 Aug 2026 15:24:09 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical security flaw in NASA/JPL’s open-source AMMOS Instrument Toolkit GUI (AIT-GUI) could let an unauthenticated attacker send live commands to spacecraft and scientific instruments, run arbitrary scripts, and execute command sequences without ",
+    "created_at": "2026-08-20T16:01:49.361164+00:00"
   }
 ]
