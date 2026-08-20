@@ -1,29 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
-    "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
-    "link": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
-    "published": "Tue, 21 Jul 2026 16:54:50 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-21T12:31:01.346209+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
-    "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
-    "link": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
-    "published": "Tue, 21 Jul 2026 17:12:23 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-21T12:31:03.301456+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
-    "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
-    "link": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
-    "published": "Tue, 21 Jul 2026 17:28:00 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-21T12:31:05.306290+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html",
     "title": "Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities",
     "link": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html",
@@ -8347,5 +8323,59 @@
     "source": "BleepingComputer",
     "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that threat actors are now exploiting a critical vulnerability in the MLflow open-source AI engineering platform. [...]",
     "created_at": "2026-08-20T11:31:49.503145+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160178",
+    "title": "Hackers Hide Malware Code Inside English Words to Infect Windows Users",
+    "link": "https://cybersecuritynews.com/hackers-hide-malware-code/",
+    "published": "Thu, 20 Aug 2026 11:39:53 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new Windows malware campaign is hiding malicious code inside ordinary English words, making the payload look less suspicious during analysis. The technique is being used to deliver Amatera Stealer, an information-stealing threat that targets sensit",
+    "created_at": "2026-08-20T12:31:27.607619+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160158",
+    "title": "Critical Red Hat Kubernetes SSRF Flaw Exposes Internal Services Across Managed Clusters",
+    "link": "https://cybersecuritynews.com/red-hat-kubernetes-ssrf-flaw/",
+    "published": "Thu, 20 Aug 2026 11:50:22 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Red Hat has disclosed CVE-2026-66794, a high-severity Server-Side Request Forgery vulnerability affecting the cluster-proxy-addon component in Multicluster Engine for Kubernetes. The issue carries a CVSS v3.1 score of 9.3. It could allow unauthentica",
+    "created_at": "2026-08-20T12:31:29.617749+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160177",
+    "title": "OpenAI Pauses AI Training Amid Concerns of New Model Potentially Discovering 0-Day Flaws",
+    "link": "https://cybersecuritynews.com/openai-pauses-ai-training/",
+    "published": "Thu, 20 Aug 2026 11:57:08 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OpenAI has temporarily slowed frontier AI training after internal testing suggested that its upcoming Astra model may reach a critical cybersecurity capability threshold. The company said the decision followed a security incident involving Hugging Fa",
+    "created_at": "2026-08-20T12:31:56.507420+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160173",
+    "title": "Cisco External Entity Injection Vulnerability Allows Attackers to Read Sensitive Data",
+    "link": "https://cybersecuritynews.com/cisco-external-entity-injection-vulnerability/",
+    "published": "Thu, 20 Aug 2026 11:59:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cisco has released security updates for a high-severity XML External Entity injection vulnerability in Cisco BroadWorks that could allow unauthenticated remote attackers to read sensitive configuration data and files from affected systems. Tracked as",
+    "created_at": "2026-08-20T12:31:58.550629+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160193",
+    "title": "Hackers Weaponize OpenClaw AI Agents to Push Malware and Steal Crypto Wallets",
+    "link": "https://cybersecuritynews.com/openclaw-ai-agents/",
+    "published": "Thu, 20 Aug 2026 12:06:52 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cybercriminals are turning AI agents into a new route for malware delivery. A campaign targeting OpenClaw, an open-source platform that lets AI agents interact with files, messaging apps, and terminal commands, used poisoned marketplace packages to p",
+    "created_at": "2026-08-20T12:32:24.338256+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
+    "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
+    "link": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
+    "published": "Thu, 20 Aug 2026 08:14:38 -0400",
+    "source": "BleepingComputer",
+    "summary": "Citrix has warned customers to immediately secure their systems against two vulnerabilities affecting NetScaler Gateway secure remote access solutions and NetScaler ADC networking appliances. [...]",
+    "created_at": "2026-08-20T12:32:29.575072+00:00"
   }
 ]
