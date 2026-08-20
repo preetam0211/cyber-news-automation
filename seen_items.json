@@ -8232,5 +8232,14 @@
     "source": "BleepingComputer",
     "summary": "ChatGPT is experiencing a major outage, and users are unable to sign in, create accounts, or load chats, including previous conversations. [...]",
     "created_at": "2026-08-20T00:31:11.281525+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160112",
+    "title": "AI Agent Hacks Snowflake GitHub Workflow and Reaches Internal Jira",
+    "link": "https://cybersecuritynews.com/ai-agent-hacks-snowflake-github-workflow/",
+    "published": "Thu, 20 Aug 2026 02:32:50 +0000",
+    "source": "CybersecurityNews",
+    "summary": "An autonomous AI security agent built by Wiz Research has demonstrated how quickly a single overlooked line of shell code can cascade into a full credential leak. The tool, known as Wiz Red Agent, independently discovered, exploited, and validated a ",
+    "created_at": "2026-08-20T03:31:36.039078+00:00"
   }
 ]
