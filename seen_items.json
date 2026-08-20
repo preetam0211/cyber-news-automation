@@ -1,21 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
-    "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
-    "link": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
-    "published": "Tue, 21 Jul 2026 21:36:12 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-21T17:01:12.804982+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
-    "title": "Critical wp2shell WordPress flaws exploited to install webshells",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
-    "published": "Tue, 21 Jul 2026 12:41:50 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-21T17:01:14.692320+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
     "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
     "link": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
@@ -8508,5 +8492,23 @@
     "source": "CybersecurityNews",
     "summary": "Enterprises are racing to deploy AI agents that pull from databases, document repositories, SaaS platforms, and internal knowledge bases to automate workflows. But a quiet risk lurks beneath the convenience: most agents have no built-in awareness of ",
     "created_at": "2026-08-20T17:01:11.217194+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
+    "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
+    "link": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
+    "published": "Thu, 20 Aug 2026 22:29:44 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. government on Wednesday warned of an &quot;active threat&quot; targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts.\n\nThe activity is targeting Siemens S7 SeriesProgramma",
+    "created_at": "2026-08-20T17:31:06.007128+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160199",
+    "title": "CRLF-Powered Desync Lets Attackers Poison CDN Cache and Serve XSS to Live Users",
+    "link": "https://cybersecuritynews.com/crlf-powered-desync-attack/",
+    "published": "Thu, 20 Aug 2026 17:04:18 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A limited CRLF injection flaw can be escalated into a severe HTTP desynchronization attack, poisoning CDN caches and delivering XSS payloads to users on legitimate websites. The attack, called CRLF-Powered Desync, begins when an application incorrect",
+    "created_at": "2026-08-20T17:31:07.473893+00:00"
   }
 ]
