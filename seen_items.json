@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
-    "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
-    "link": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
-    "published": "Tue, 21 Jul 2026 20:39:28 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-21T17:01:10.919231+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
     "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
     "link": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
@@ -8498,5 +8490,23 @@
     "source": "CybersecurityNews",
     "summary": "A major supply chain attack targeting the Rust ecosystem, in which two widely used crates, arrayref and append-only-vec, were hijacked to silently deliver malware the moment developers compiled their projects. Together, the two packages account for h",
     "created_at": "2026-08-20T16:31:11.518182+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160280",
+    "title": "Microsoft Defender Driver Can Be Weaponized to Disable EDR and AV From Windows Kernel",
+    "link": "https://cybersecuritynews.com/defender-driver-can-be-weaponized/",
+    "published": "Thu, 20 Aug 2026 16:39:41 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft Defender’s legitimate Boot-Time Removal (BTR.sys) driver can be repurposed to perform powerful kernel-level file and registry operations, potentially enabling attackers with administrative privileges to neutralize endpoint security protecti",
+    "created_at": "2026-08-20T17:01:03.204117+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160261",
+    "title": "AWS Shows How to Stop a Hijacked AI Agent From Reading Data the User Cannot Access",
+    "link": "https://cybersecuritynews.com/aws-ai-agent-data-access/",
+    "published": "Thu, 20 Aug 2026 16:55:37 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Enterprises are racing to deploy AI agents that pull from databases, document repositories, SaaS platforms, and internal knowledge bases to automate workflows. But a quiet risk lurks beneath the convenience: most agents have no built-in awareness of ",
+    "created_at": "2026-08-20T17:01:11.217194+00:00"
   }
 ]
