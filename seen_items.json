@@ -1,21 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
-    "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
-    "link": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
-    "published": "Wed, 22 Jul 2026 00:16:32 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-21T20:30:58.269630+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
-    "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
-    "published": "Tue, 21 Jul 2026 16:06:55 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-21T20:31:00.065953+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/",
     "title": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
     "link": "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/",
@@ -8520,5 +8504,14 @@
     "source": "The Hacker News",
     "summary": "A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do.\n\nSigned drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to code execution. Elsewhere, exp",
     "created_at": "2026-08-20T19:01:21.800834+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
+    "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
+    "link": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
+    "published": "Fri, 21 Aug 2026 01:29:19 +0530",
+    "source": "The Hacker News",
+    "summary": "Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think tanks across Europe, as well a",
+    "created_at": "2026-08-20T20:31:28.013998+00:00"
   }
 ]
