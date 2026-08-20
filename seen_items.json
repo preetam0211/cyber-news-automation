@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/",
-    "title": "US seizes over 1,000 websites in FIFA World Cup piracy crackdown",
-    "link": "https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/",
-    "published": "Tue, 21 Jul 2026 07:07:07 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-21T11:31:01.442701+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
     "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
     "link": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
@@ -8310,5 +8302,50 @@
     "source": "BleepingComputer",
     "summary": "A new Android malware named Manic targeting users in multiple European countries has a fallback data exfiltration mechanism that uses nearby infected devices. [...]",
     "created_at": "2026-08-20T10:31:10.464645+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html",
+    "title": "40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets",
+    "link": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html",
+    "published": "Thu, 20 Aug 2026 14:12:03 +0530",
+    "source": "The Hacker News",
+    "summary": "A set of 40 Mozilla Firefox extensions has been found to engage in cryptocurrency wallet theft by masquerading as OKX, Rabby Wallet, TronLink, and other Web3 products.\n\nAccording to the Socket Threat Research team, the extensions are part of a broade",
+    "created_at": "2026-08-20T11:31:21.824474+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html",
+    "title": "ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud",
+    "link": "https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html",
+    "published": "Thu, 20 Aug 2026 16:08:28 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have shed light on an updated version of ToxicPanda (aka TgToxic) that comes with &quot;significant enhancements,&quot; including a set of 167 remote commands and expands its targeting footprint globally.\n\nZimperium zLabs, i",
+    "created_at": "2026-08-20T11:31:40.949056+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160161",
+    "title": "Hackers Are Turning Claude, ChatGPT and Copilot Into Bait for Real Malware",
+    "link": "https://cybersecuritynews.com/hackers-are-turning-claude-chatgpt/",
+    "published": "Thu, 20 Aug 2026 11:02:41 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cybercriminals are increasingly using trusted artificial intelligence names as a shortcut to infect users with malware. Fake download pages, browser extensions, search ads and shared AI conversations are being used to make harmful files and commands ",
+    "created_at": "2026-08-20T11:31:43.071902+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html",
+    "title": "NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands",
+    "link": "https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html",
+    "published": "Thu, 20 Aug 2026 16:35:11 +0530",
+    "source": "The Hacker News",
+    "summary": "Security researchers at Cycode have disclosed a chain of flaws in AIT-GUI, the browser-based operator console for NASA/JPL&#x27;s open-source AMMOS Instrument Toolkit, that allow an unauthenticated attacker to issue arbitrary commands to the software",
+    "created_at": "2026-08-20T11:31:45.161995+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
+    "title": "CISA warns of hackers exploiting critical MLflow vulnerability",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
+    "published": "Thu, 20 Aug 2026 07:06:14 -0400",
+    "source": "BleepingComputer",
+    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that threat actors are now exploiting a critical vulnerability in the MLflow open-source AI engineering platform. [...]",
+    "created_at": "2026-08-20T11:31:49.503145+00:00"
   }
 ]
