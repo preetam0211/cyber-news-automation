@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
-    "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
-    "published": "Tue, 21 Jul 2026 06:12:24 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-21T10:30:56.156928+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/",
     "title": "US seizes over 1,000 websites in FIFA World Cup piracy crackdown",
     "link": "https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/",
@@ -8309,5 +8301,14 @@
     "source": "CybersecurityNews",
     "summary": "Security researchers have disclosed a critical pre-authentication RCE chain in CyberPanel that could let attackers gain a shell on vulnerable hosting servers without valid credentials. The attack combines weaknesses in the platform’s AI Scanner funct",
     "created_at": "2026-08-20T10:01:45.374399+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/",
+    "title": "New Manic Android malware can exfiltrate data through nearby devices",
+    "link": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/",
+    "published": "Thu, 20 Aug 2026 06:02:02 -0400",
+    "source": "BleepingComputer",
+    "summary": "A new Android malware named Manic targeting users in multiple European countries has a fallback data exfiltration mechanism that uses nearby infected devices. [...]",
+    "created_at": "2026-08-20T10:31:10.464645+00:00"
   }
 ]
