@@ -8440,5 +8440,23 @@
     "source": "CybersecurityNews",
     "summary": "A newly discovered Android malware family named Manic combines banking fraud with full-scale spyware, and it comes with a trick researchers rarely see in the wild: when an infected phone has no internet connection of its own, it can quietly borrow on",
     "created_at": "2026-08-20T13:36:34.913310+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160222",
+    "title": "Hackers Use Fake CAPTCHA to Install Malware That Kills 145 Security Processes",
+    "link": "https://cybersecuritynews.com/hackers-use-fake-captcha/",
+    "published": "Thu, 20 Aug 2026 13:39:22 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are using fake CAPTCHA pages to push a malware loader that can shut down security software before a follow-on payload runs. The campaign combines compromised WordPress websites, a familiar browser verification prompt, and a Windows command th",
+    "created_at": "2026-08-20T14:01:09.478890+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160236",
+    "title": "ToxicPanda Android Malware Can Steal Banking PINs and Gain Shell Access to Phones",
+    "link": "https://cybersecuritynews.com/toxicpanda-android-malware/",
+    "published": "Thu, 20 Aug 2026 13:55:54 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new version of the ToxicPanda Android banking trojan is widening the danger for mobile users. The malware can steal banking PINs, imitate trusted screens, and take deeper control of infected phones through a feature intended for developers. ToxicPa",
+    "created_at": "2026-08-20T14:01:26.463920+00:00"
   }
 ]
