@@ -8470,5 +8470,14 @@
     "source": "BleepingComputer",
     "summary": "AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain attacks that make it past the inbox.",
     "created_at": "2026-08-20T14:31:24.163091+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
+    "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
+    "published": "Thu, 20 Aug 2026 10:39:48 -0400",
+    "source": "BleepingComputer",
+    "summary": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
+    "created_at": "2026-08-20T15:01:02.697101+00:00"
   }
 ]
