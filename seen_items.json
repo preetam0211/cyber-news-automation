@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/",
-    "title": "OpenAI says its AI models hacked Hugging Face during testing",
-    "link": "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/",
-    "published": "Wed, 22 Jul 2026 01:19:20 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-22T05:30:58.731232+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
     "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
     "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
