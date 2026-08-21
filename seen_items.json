@@ -1,21 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
-    "title": "The Fastest Path to AI Adoption Runs Through Security",
-    "link": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
-    "published": "Wed, 22 Jul 2026 17:28:00 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-22T14:01:02.993524+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
-    "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
-    "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
-    "published": "Wed, 22 Jul 2026 18:06:36 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-22T14:01:04.843930+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/",
     "title": "New InfraTrust report reveals infrastructure flaws admins should patch first",
     "link": "https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/",
@@ -8643,5 +8627,14 @@
     "source": "CybersecurityNews",
     "summary": "Claude Opus 5 did not crack hardened binaries in a reverse-engineering experiment. Instead, it sought easier ways to recover hidden information, showing AI-assisted analysis can be capable yet unreliable. The test was not a malware outbreak. It used ",
     "created_at": "2026-08-21T13:31:09.657712+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/",
+    "title": "Microsoft rolls out Classic Outlook theme for New Outlook users",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/",
+    "published": "Fri, 21 Aug 2026 09:39:35 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft has started rolling out a Classic Outlook theme for users of Outlook on the web and the New Outlook for Windows. [...]",
+    "created_at": "2026-08-21T14:01:05.982046+00:00"
   }
 ]
