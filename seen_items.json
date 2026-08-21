@@ -1,21 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html",
-    "title": "GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier",
-    "link": "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html",
-    "published": "Thu, 23 Jul 2026 00:07:42 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-22T20:31:03.743579+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
-    "title": "South Korea discloses data breach impacting diplomats worldwide",
-    "link": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
-    "published": "Wed, 22 Jul 2026 16:06:54 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-22T20:31:05.650225+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/",
     "title": "Upbound says hack caused $13 million in fraudulent Acima leases",
     "link": "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/",
@@ -8695,5 +8679,14 @@
     "source": "BleepingComputer",
     "summary": "A previously unknown malware family dubbed SynkLoader is being distributed in Microsoft Teams phishing campaigns to steal credentials via a fake lock screen. [...]",
     "created_at": "2026-08-21T18:31:35.455486+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
+    "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
+    "link": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
+    "published": "Sat, 22 Aug 2026 00:23:00 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux implant dubbed RedC2 4.0.\n\n&quo",
+    "created_at": "2026-08-21T20:31:34.724121+00:00"
   }
 ]
