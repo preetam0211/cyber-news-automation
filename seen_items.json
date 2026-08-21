@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/",
-    "title": "Swiss rail giant Stadler rejects $12.3M ransom demand after cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/",
-    "published": "Wed, 22 Jul 2026 12:59:17 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-22T17:01:00.610508+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html",
     "title": "Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data",
     "link": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html",
@@ -8692,5 +8684,14 @@
     "source": "The Hacker News",
     "summary": "Check Point Research has disclosed a technique that uses Microsoft Defender&#x27;s own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging from Windows 7 through W",
     "created_at": "2026-08-21T16:31:16.054411+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160367",
+    "title": "Microsoft Expands Mailbox Storage From 50 GB to 100 GB for Users",
+    "link": "https://cybersecuritynews.com/microsoft-expands-mailbox-storage-50gb-to-100gb/",
+    "published": "Fri, 21 Aug 2026 16:37:25 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has started expanding primary mailbox storage for Microsoft 365 Business Basic, Business Standard, and Business Premium users. Eligible users can now receive up to 100 GB of Exchange Online mailbox capacity, doubling the previous 50 GB enti",
+    "created_at": "2026-08-21T17:01:19.562510+00:00"
   }
 ]
