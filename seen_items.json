@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/",
-    "title": "New InfraTrust report reveals infrastructure flaws admins should patch first",
-    "link": "https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/",
-    "published": "Wed, 22 Jul 2026 10:15:00 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-22T14:31:02.733505+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/",
     "title": "How enterprise GenAI can amplify ransomware risk — and how to contain it",
     "link": "https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/",
@@ -8636,5 +8628,23 @@
     "source": "BleepingComputer",
     "summary": "Microsoft has started rolling out a Classic Outlook theme for users of Outlook on the web and the New Outlook for Windows. [...]",
     "created_at": "2026-08-21T14:01:05.982046+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
+    "title": "Is Online Privacy Possible? How Digital Identities Can Help",
+    "link": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
+    "published": "Fri, 21 Aug 2026 10:00:10 -0400",
+    "source": "BleepingComputer",
+    "summary": "Using the same email, phone number, payment method, and other identifiers makes it easier for data brokers and attackers to profile your activity. Anonyome Labs explains how separate digital personas can reduce correlation and limit the impact of bre",
+    "created_at": "2026-08-21T14:31:54.787433+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160359",
+    "title": "Hackers Hide Agent Tesla JScript Behind Unicode Emojis to Evade Detection",
+    "link": "https://cybersecuritynews.com/hackers-hide-agent-tesla/",
+    "published": "Fri, 21 Aug 2026 14:14:20 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are using Unicode emoji characters to hide an Agent Tesla JScript dropper in a business email compromise campaign aimed at finance teams. The tactic turns a payment-related attachment into a difficult-to-read script while leaving malicious in",
+    "created_at": "2026-08-21T14:32:20.808187+00:00"
   }
 ]
