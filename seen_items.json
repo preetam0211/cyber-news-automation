@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/",
-    "title": "Adobe Chrome extension flaw let sites access private WhatsApp chats",
-    "link": "https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/",
-    "published": "Wed, 22 Jul 2026 09:22:20 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-22T13:31:00.369170+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
     "title": "The Fastest Path to AI Adoption Runs Through Security",
     "link": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
@@ -8606,5 +8598,50 @@
     "source": "BleepingComputer",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered U.S. federal agencies to prioritize patching two actively exploited vulnerabilities in the TrueConf Server self-hosted communications platform. [...]",
     "created_at": "2026-08-21T12:31:12.982408+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160335",
+    "title": "Critical N-able Passportal Flaw Lets Malicious Websites Steal Entire Password Vault and 2FA Codes",
+    "link": "https://cybersecuritynews.com/n-able-passportal-flaw/",
+    "published": "Fri, 21 Aug 2026 13:00:14 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical vulnerability in N-able Passportal’s Chrome and Microsoft Edge browser extensions could allow a malicious website or embedded iframe to steal an organization’s entire password vault, including live two-factor authentication codes. Tracked ",
+    "created_at": "2026-08-21T13:31:03.394131+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160342",
+    "title": "US Bank Investigating Data Breach Following LockBit Ransomware Claim",
+    "link": "https://cybersecuritynews.com/us-bank-investigating-data-breach-lockbit-claim/",
+    "published": "Fri, 21 Aug 2026 13:01:06 +0000",
+    "source": "CybersecurityNews",
+    "summary": "US Bank is investigating LockBit’s claims of a breach and data theft, with the ransomware group threatening to publish the alleged stolen files on September 3 unless an undisclosed ransom is paid. Lee Henderson, US Bank vice president of public affai",
+    "created_at": "2026-08-21T13:31:05.427133+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160346",
+    "title": "Critical GitLab Code Injection Vulnerability Actively Exploited in Attacks",
+    "link": "https://cybersecuritynews.com/gitlab-code-injection-vulnerability-exploited/",
+    "published": "Fri, 21 Aug 2026 13:06:02 +0000",
+    "source": "CybersecurityNews",
+    "summary": "GitLab administrators are being urged to patch immediately after security researchers observed attempts to exploit CVE-2026-19478, a critical unauthenticated code injection vulnerability affecting self-managed GitLab Community Edition and Enterprise ",
+    "created_at": "2026-08-21T13:31:07.434539+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160351",
+    "title": "Critical WordPress Plugin Vulnerability Exposes Sites to RCE Attacks",
+    "link": "https://cybersecuritynews.com/wordpress-plugin-vulnerability-exposes-3/",
+    "published": "Fri, 21 Aug 2026 13:06:57 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical security flaw in the Elementor Pro WordPress plugin could allow unauthenticated attackers to upload malicious PHP files and execute code on vulnerable servers. Tracked as CVE-2026-32475, the vulnerability affects Elementor Pro versions up ",
+    "created_at": "2026-08-21T13:31:08.770749+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160354",
+    "title": "Claude Opus 5 Routes Around Obfuscated Binaries Instead of Defeating the Protection",
+    "link": "https://cybersecuritynews.com/claude-opus-5-routes/",
+    "published": "Fri, 21 Aug 2026 13:26:20 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Claude Opus 5 did not crack hardened binaries in a reverse-engineering experiment. Instead, it sought easier ways to recover hidden information, showing AI-assisted analysis can be capable yet unreliable. The test was not a malware outbreak. It used ",
+    "created_at": "2026-08-21T13:31:09.657712+00:00"
   }
 ]
