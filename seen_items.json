@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
-    "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
-    "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
-    "published": "Wed, 22 Jul 2026 12:08:45 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-22T08:00:59.550339+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-esu-program-ends-in-october/",
     "title": "Microsoft to stop Exchange 2016 / 2019 security updates in October",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-esu-program-ends-in-october/",
@@ -8484,5 +8476,77 @@
     "source": "The Hacker News",
     "summary": "Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required.\n\nThe vulnerability, tracked as CVE-2026-69836 (CVSS score: 10.0), is a case of re",
     "created_at": "2026-08-21T07:00:59.462173+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160296",
+    "title": "China-Linked Spy Campaign Uses Five New Malware Families Against Central Asian Governments",
+    "link": "https://cybersecuritynews.com/china-linked-spy-campaign/",
+    "published": "Fri, 21 Aug 2026 05:11:11 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Central Asian government bodies have been targeted in a cyberespionage operation using a compact but varied set of remote access tools. The activity, tracked as SilkParasite, relied on convincing government-themed documents and trusted Windows progra",
+    "created_at": "2026-08-21T08:01:39.608518+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160298",
+    "title": "Google Chrome 151 Chromoting Flaw Allows Attackers to  Execute Malicious Code Remotely",
+    "link": "https://cybersecuritynews.com/google-chrome-151-chromoting-flaw/",
+    "published": "Fri, 21 Aug 2026 05:41:34 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Google has released Chrome 151 Stable, fixing seven security vulnerabilities, including a critical use-after-free flaw in Chromoting that could potentially allow remote code execution. The update is rolling out as version 151.0.7922.173/.174 for Wind",
+    "created_at": "2026-08-21T08:02:14.031328+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160303",
+    "title": "Hackers Exploit TrueConf Servers to Push Malware Through Legitimate Video Conference Downloads",
+    "link": "https://cybersecuritynews.com/hackers-exploit-trueconf-servers/",
+    "published": "Fri, 21 Aug 2026 06:21:10 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Kaspersky researchers investigating attacks on Russian organizations discovered that legitimate TrueConf video conferencing client installers were secretly bundled with PhantomCore malware, a tool associated with the Head Mare APT group. The maliciou",
+    "created_at": "2026-08-21T08:02:46.659224+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160313",
+    "title": "Apple’s Private Find My People Reversed to Decrypt Live Shared Locations on Linux",
+    "link": "https://cybersecuritynews.com/apple-find-my-people-reversed/",
+    "published": "Fri, 21 Aug 2026 06:27:17 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A security researcher has successfully reverse-engineered Apple’s private Find My People protocol, demonstrating that a Linux machine can register with Apple’s internal services, receive an existing location-sharing key, and decrypt a friend’s live l",
+    "created_at": "2026-08-21T08:03:37.317728+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160311",
+    "title": "Sakura Internet Breach – Hackers Accessed 1.36 million Customers’ Personal Records",
+    "link": "https://cybersecuritynews.com/sakura-internet-breach/",
+    "published": "Fri, 21 Aug 2026 07:39:30 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Sakura Internet has disclosed a potential breach involving its sales management system, placing the personal records of up to 1.36 million customer accounts at risk. The Japanese cloud and hosting provider said the incident was identified during its ",
+    "created_at": "2026-08-21T08:03:43.595728+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160319",
+    "title": "Critical Spring Security Flaw Lets Attackers Gain Admin Access to LDAP Servers",
+    "link": "https://cybersecuritynews.com/spring-security-flaw-access-ldap-servers/",
+    "published": "Fri, 21 Aug 2026 07:46:37 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical vulnerability in Spring Security’s embedded UnboundID LDAP server can allow remote attackers to gain administrative access to exposed in-memory LDAP directories. Tracked as CVE-2026-59270, the issue affects applications that use Spring Sec",
+    "created_at": "2026-08-21T08:04:33.978409+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160322",
+    "title": "OpenAI Offers Zero Data Retention for Frontier AI Models With Private Safety Processing",
+    "link": "https://cybersecuritynews.com/openai-zero-data-retention-for-frontier-models/",
+    "published": "Fri, 21 Aug 2026 07:50:08 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OpenAI has announced Zero Data Retention for eligible API customers using its frontier AI models, alongside a new Private Safety Processing system designed to support safety monitoring without exposing customer prompts or responses to company personn",
+    "created_at": "2026-08-21T08:05:01.635073+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160233",
+    "title": "DOJ Charges 17 Iranian Hackers in IRGC-Linked Campaign That Stole 31.5TB of Research Data",
+    "link": "https://cybersecuritynews.com/doj-charges-17-iranian-hackers/",
+    "published": "Fri, 21 Aug 2026 07:52:12 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The U.S. Department of Justice has unsealed a 14-count superseding indictment against 17 alleged members of the Iran-based Mabna Institute, accusing them of conducting a long-running cyber espionage campaign that stole at least 31.5TB of research dat",
+    "created_at": "2026-08-21T08:05:26.850126+00:00"
   }
 ]
