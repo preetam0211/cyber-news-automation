@@ -8674,5 +8674,23 @@
     "source": "BleepingComputer",
     "summary": "More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...]",
     "created_at": "2026-08-21T16:01:04.970869+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
+    "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
+    "link": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
+    "published": "Fri, 21 Aug 2026 21:11:44 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have flagged a new malware family that&#x27;s specifically designed to infect Android-based vehicle head unit firmware developed by DoFun.\n\nKaspersky, which discovered the threat in June 2026, said the end goal of the malwar",
+    "created_at": "2026-08-21T16:31:13.928580+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
+    "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
+    "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
+    "published": "Fri, 21 Aug 2026 21:22:10 +0530",
+    "source": "The Hacker News",
+    "summary": "Check Point Research has disclosed a technique that uses Microsoft Defender&#x27;s own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging from Windows 7 through W",
+    "created_at": "2026-08-21T16:31:16.054411+00:00"
   }
 ]
