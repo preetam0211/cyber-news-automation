@@ -8557,5 +8557,23 @@
     "source": "The Hacker News",
     "summary": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr.\n\nThe vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code injection that allows an unauthe",
     "created_at": "2026-08-21T08:31:24.016072+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160300",
+    "title": "Bandwidth-Sharing App Can Turn Employee Devices Into Gateways to Internal Networks",
+    "link": "https://cybersecuritynews.com/bandwidth-sharing-app/",
+    "published": "Fri, 21 Aug 2026 09:32:45 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A bandwidth-sharing app installed by an employee can quietly turn a work device into a gateway for outside traffic. The software may not behave like traditional malware, yet it can expose a company’s internet connection and potentially place internal",
+    "created_at": "2026-08-21T10:31:36.108505+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
+    "title": "SickKids data breach exposes employee and job applicant info",
+    "link": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
+    "published": "Fri, 21 Aug 2026 06:10:42 -0400",
+    "source": "BleepingComputer",
+    "summary": "Toronto&#x27;s Hospital for Sick Children (SickKids) says a cybersecurity incident exposed the personal information of some current and former employees and job applicants, stemming from a flaw in third-party software. Clinical systems and patient re",
+    "created_at": "2026-08-21T10:31:53.678785+00:00"
   }
 ]
