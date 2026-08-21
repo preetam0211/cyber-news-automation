@@ -8548,5 +8548,14 @@
     "source": "CybersecurityNews",
     "summary": "The U.S. Department of Justice has unsealed a 14-count superseding indictment against 17 alleged members of the Iran-based Mabna Institute, accusing them of conducting a long-running cyber espionage campaign that stole at least 31.5TB of research dat",
     "created_at": "2026-08-21T08:05:26.850126+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
+    "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
+    "link": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
+    "published": "Fri, 21 Aug 2026 12:34:25 +0530",
+    "source": "The Hacker News",
+    "summary": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr.\n\nThe vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code injection that allows an unauthe",
+    "created_at": "2026-08-21T08:31:24.016072+00:00"
   }
 ]
