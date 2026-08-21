@@ -8585,5 +8585,23 @@
     "source": "BleepingComputer",
     "summary": "Threat actors are abusing FTP banners to hide commands that deliver two previously undocumented remote access trojans named E4del and PINHOLE. [...]",
     "created_at": "2026-08-21T11:01:19.541278+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
+    "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
+    "link": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
+    "published": "Fri, 21 Aug 2026 15:33:11 +0530",
+    "source": "The Hacker News",
+    "summary": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review.\n\nFour of the security vulnerabilities affect Crosswork Data Gateway, Crosswork N",
+    "created_at": "2026-08-21T11:31:07.174326+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
+    "title": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
+    "published": "Fri, 21 Aug 2026 07:04:10 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]",
+    "created_at": "2026-08-21T11:31:08.507642+00:00"
   }
 ]
