@@ -8689,5 +8689,23 @@
     "source": "CybersecurityNews",
     "summary": "A newly disclosed attack can turn a routine “summarize this page” request in xAI’s Grok web chat into a silent theft of the user’s name, coarse location, subscription tier, and the prompt history of the active conversation. Adversa AI said in a repor",
     "created_at": "2026-08-22T02:01:06.932013+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160394",
+    "title": "What 45 Million wp2shell Exploit Attempts Reveal About the New Vulnerability Response Window",
+    "link": "https://cybersecuritynews.com/what-45-million-wp2shell-exploit-attempts-reveal-about-the-new-vulnerability-response-window/",
+    "published": "Sat, 22 Aug 2026 04:43:01 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The latest wp2shell vulnerability was one of the biggest WordPress security events in history. The critical vulnerability chain combined two flaws that allowed unauthenticated attackers to exploit vulnerable sites and ultimately execute malicious cod",
+    "created_at": "2026-08-22T05:31:34.837675+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160259",
+    "title": "What specifically allowed the agent to reach a real company’s systems during testing?",
+    "link": "https://cybersecuritynews.com/what-specifically-allowed-the-agent-to-reach-a-real-companys-systems-during-testing/",
+    "published": "Sat, 22 Aug 2026 05:09:10 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Wayne Anderson, Managing Director, Cybersecurity and Digital Innovation, BDO USA. First and foremost, the technical “walls” were reduced during the testing experience. One of the questions that many organizations have asked is, “Why wasn’t this run i",
+    "created_at": "2026-08-22T05:31:36.817648+00:00"
   }
 ]
