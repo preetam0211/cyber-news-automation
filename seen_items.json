@@ -1,21 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/check-point-patches-exploited.html",
-    "title": "Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access",
-    "link": "https://thehackernews.com/2026/07/check-point-patches-exploited.html",
-    "published": "Thu, 23 Jul 2026 12:04:36 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-23T08:30:55.872844+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/",
-    "title": "Check Point warns of SmartConsole zero-day exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/",
-    "published": "Thu, 23 Jul 2026 04:13:07 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-23T08:30:57.591106+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/",
     "title": "Microsoft working to fix Exchange Online mailbox quarantine issue",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/",
