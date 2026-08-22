@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/",
-    "title": "FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires",
-    "link": "https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/",
-    "published": "Thu, 23 Jul 2026 10:00:10 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-23T14:31:03.332257+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html",
     "title": "China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks",
     "link": "https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html",
@@ -8645,5 +8637,14 @@
     "source": "BleepingComputer",
     "summary": "Windows named pipes provide fast interprocess communication, but weak access controls can expose privileged services to untrusted processes. ThreatLocker explains how endpoint verification, command authorization, strict input validation, and narrowly",
     "created_at": "2026-08-22T13:34:49.230534+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
+    "title": "Hackers infect Android car head units with proxy botnet malware",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
+    "published": "Sat, 22 Aug 2026 10:14:24 -0400",
+    "source": "BleepingComputer",
+    "summary": "A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised devices in a proxy botnet or uses them for ad fraud. [...]",
+    "created_at": "2026-08-22T14:31:30.141020+00:00"
   }
 ]
