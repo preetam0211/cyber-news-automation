@@ -1,37 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/google-adds-selfie-video-recovery-for.html",
-    "title": "Google Adds Selfie Video Recovery for Users Locked Out of Their Accounts",
-    "link": "https://thehackernews.com/2026/07/google-adds-selfie-video-recovery-for.html",
-    "published": "Thu, 23 Jul 2026 15:30:00 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-23T12:01:03.416481+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html",
-    "title": "Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers",
-    "link": "https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html",
-    "published": "Thu, 23 Jul 2026 16:58:54 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-23T12:01:05.213147+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/",
-    "title": "New RefluXFS Linux flaw lets attackers gain root privileges",
-    "link": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/",
-    "published": "Thu, 23 Jul 2026 07:40:16 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-23T12:01:06.966867+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html",
-    "title": "How Synthetic Identity Fraud is Coming for Machine Identities",
-    "link": "https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html",
-    "published": "Thu, 23 Jul 2026 17:15:00 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-23T12:01:08.746042+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/google/eu-fines-google-1-billion-for-digital-markets-act-breaches-in-search-and-play-store/",
     "title": "EU fines Google $1 billion for search, app store antitrust violations",
     "link": "https://www.bleepingcomputer.com/news/google/eu-fines-google-1-billion-for-digital-markets-act-breaches-in-search-and-play-store/",
