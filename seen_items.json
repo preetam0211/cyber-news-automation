@@ -8622,5 +8622,14 @@
     "source": "BleepingComputer",
     "summary": "A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised devices in a proxy botnet or uses them for ad fraud. [...]",
     "created_at": "2026-08-22T14:31:30.141020+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html",
+    "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
+    "link": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html",
+    "published": "Sat, 22 Aug 2026 20:02:41 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws in the country.\n\nAs part of the settlement, the social media plat",
+    "created_at": "2026-08-22T15:31:14.527892+00:00"
   }
 ]
