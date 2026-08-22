@@ -1,21 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
-    "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
-    "link": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
-    "published": "Thu, 23 Jul 2026 13:34:35 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-23T10:01:02.091314+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/",
-    "title": "New msaRAT malware uses Chrome, Edge browsers to route C2 traffic",
-    "link": "https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/",
-    "published": "Thu, 23 Jul 2026 06:00:00 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-23T10:01:03.964731+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/google-adds-selfie-video-recovery-for.html",
     "title": "Google Adds Selfie Video Recovery for Users Locked Out of Their Accounts",
     "link": "https://thehackernews.com/2026/07/google-adds-selfie-video-recovery-for.html",
@@ -8683,5 +8667,14 @@
     "source": "CybersecurityNews",
     "summary": "Wayne Anderson, Managing Director, Cybersecurity and Digital Innovation, BDO USA. First and foremost, the technical “walls” were reduced during the testing experience. One of the questions that many organizations have asked is, “Why wasn’t this run i",
     "created_at": "2026-08-22T05:31:36.817648+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158534",
+    "title": "Top 10 Best Wireless / Wi-Fi Security Solutions in 2026",
+    "link": "https://cybersecuritynews.com/best-wireless-wifi-security-solutions/",
+    "published": "Sat, 22 Aug 2026 09:31:33 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cisco Meraki scores highest in our 2026 evaluation of automatic Wi-Fi security solutions, combining cloud-managed simplicity with strong policy enforcement, while HPE Aruba leads on enterprise-grade wireless security depth, and Juniper Mist wins on A",
+    "created_at": "2026-08-22T10:31:35.549767+00:00"
   }
 ]
