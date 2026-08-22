@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
-    "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
-    "link": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
-    "published": "Fri, 24 Jul 2026 00:06:08 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-23T19:00:57.170727+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/",
     "title": "Fake Claude app promoted by Bing ads pushes SectopRAT malware",
     "link": "https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/",
