@@ -8680,5 +8680,14 @@
     "source": "The Hacker News",
     "summary": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux implant dubbed RedC2 4.0.\n\n&quo",
     "created_at": "2026-08-21T20:31:34.724121+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160391",
+    "title": "Grok Zero-Click Attack Steals Chat Data Using Encrypted Prompt Injection",
+    "link": "https://cybersecuritynews.com/grok-zero-click-attack/",
+    "published": "Sat, 22 Aug 2026 01:31:34 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly disclosed attack can turn a routine “summarize this page” request in xAI’s Grok web chat into a silent theft of the user’s name, coarse location, subscription tier, and the prompt history of the active conversation. Adversa AI said in a repor",
+    "created_at": "2026-08-22T02:01:06.932013+00:00"
   }
 ]
