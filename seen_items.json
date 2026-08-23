@@ -1,29 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html",
-    "title": "Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers",
-    "link": "https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html",
-    "published": "Fri, 24 Jul 2026 17:15:17 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-24T13:01:02.209485+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html",
-    "title": "ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link",
-    "link": "https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html",
-    "published": "Fri, 24 Jul 2026 17:23:55 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-24T13:01:04.156230+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/",
-    "title": "Europol flags 4,340 URLs for removal in 'The Com' crackdown",
-    "link": "https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/",
-    "published": "Fri, 24 Jul 2026 08:56:53 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-24T13:01:06.131053+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/",
     "title": "Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack",
     "link": "https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/",
