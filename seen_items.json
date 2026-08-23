@@ -1,21 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/",
-    "title": "Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack",
-    "link": "https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/",
-    "published": "Fri, 24 Jul 2026 10:01:11 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-24T14:30:58.402902+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/",
-    "title": "Chick-fil-A data breach affects more than 13,000 customers",
-    "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/",
-    "published": "Fri, 24 Jul 2026 10:04:29 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-24T14:31:00.315592+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
     "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
     "link": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
@@ -8488,5 +8472,14 @@
     "source": "CybersecurityNews",
     "summary": "Microsoft has built a dedicated Windows 11 app that exists to put Bing in front of users who already chose another search engine. The utility, Microsoft Recommended Search Settings, arrives as a standalone 22.2 MB installer named MicrosoftSettings.ex",
     "created_at": "2026-08-23T13:31:43.271004+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
+    "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
+    "link": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
+    "published": "Sun, 23 Aug 2026 10:23:46 -0400",
+    "source": "BleepingComputer",
+    "summary": "The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands. [...]",
+    "created_at": "2026-08-23T14:34:45.606571+00:00"
   }
 ]
