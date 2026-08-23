@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
-    "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
-    "link": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
-    "published": "Fri, 24 Jul 2026 20:42:35 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-24T16:38:10.280157+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/",
     "title": "Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/",
@@ -8465,5 +8457,14 @@
     "source": "BleepingComputer",
     "summary": "The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands. [...]",
     "created_at": "2026-08-23T14:34:45.606571+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160424",
+    "title": "Weekly Cyber Security Newsletter Bulletin – Entra ID RCE, Claude Code Ransomware, T-Mobile Cable, Azure Credential Theft +20 Stories",
+    "link": "https://cybersecuritynews.com/cyber-security-newsletter-bulletin-august/",
+    "published": "Sun, 23 Aug 2026 16:45:52 +0000",
+    "source": "CybersecurityNews",
+    "summary": "This week’s bulletin captures a cybersecurity landscape increasingly shaped by artificial intelligence, both as a weapon and a shield. A ransomware affiliate weaponized Claude Code to autonomously steal LDAP credentials, backdoor VPNs, and exfiltrate",
+    "created_at": "2026-08-23T17:01:12.619524+00:00"
   }
 ]
