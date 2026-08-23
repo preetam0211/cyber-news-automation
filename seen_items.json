@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html",
-    "title": "Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do",
-    "link": "https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html",
-    "published": "Fri, 24 Jul 2026 17:00:00 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-24T12:01:01.935602+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html",
     "title": "Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers",
     "link": "https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html",
