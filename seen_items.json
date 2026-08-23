@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
-    "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
-    "link": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
-    "published": "Fri, 24 Jul 2026 19:45:21 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-24T15:01:00.379358+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
     "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
