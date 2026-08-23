@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/",
-    "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/",
-    "published": "Fri, 24 Jul 2026 03:36:39 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-24T08:00:59.207474+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
     "title": "Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say",
     "link": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
