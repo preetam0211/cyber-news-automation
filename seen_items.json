@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
-    "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
-    "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
-    "published": "Sat, 25 Jul 2026 10:16:26 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-25T14:31:00.238512+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
     "title": "Malicious sites use JavaScript to build malware in browser memory",
     "link": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
@@ -8610,5 +8602,59 @@
     "source": "BleepingComputer",
     "summary": "Microsoft is rolling out a new Teams meeting protection policy that allows administrators to automatically block all identified external bots from joining Teams meetings. [...]",
     "created_at": "2026-08-24T14:05:05.087857+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160456",
+    "title": "WordPress Plugin Vulnerability Exposes 100,000 Sites to Complete Site Takeover Attacks",
+    "link": "https://cybersecuritynews.com/wordpress-everest-forms-plugin-flaw/",
+    "published": "Mon, 24 Aug 2026 13:08:35 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical vulnerability tracked as CVE-2026-19598 in the Everest Forms WordPress plugin has exposed more than 100,000 websites to complete site takeover attacks. The flaw has a CVSS severity score of 9.8. It can allow unauthenticated attackers to up",
+    "created_at": "2026-08-24T14:31:19.051550+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160508",
+    "title": "Kimsuky Uses AI-Generated Chrome Extension to Automatically Steal Gmail Data",
+    "link": "https://cybersecuritynews.com/kimsuky-ai-generated-chrome-extension/",
+    "published": "Mon, 24 Aug 2026 13:42:08 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Kimsuky has been linked to a new espionage campaign that turns a Chrome extension into a quiet Gmail collector. The operation begins with convincing phishing emails and ends with attackers gaining access to messages, attachments, and a victim’s compu",
+    "created_at": "2026-08-24T14:31:33.637822+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160464",
+    "title": "768 Leaked Corporate AWS Keys Remain Active With Full Administrator Access",
+    "link": "https://cybersecuritynews.com/768-leaked-corporate-aws-keys-remain-active/",
+    "published": "Mon, 24 Aug 2026 13:43:10 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new cloud security investigation from Truffle Security has found that 768 publicly exposed AWS credentials still provide full administrative control over corporate AWS environments. The findings highlight a persistent failure in credential rotation",
+    "created_at": "2026-08-24T14:31:35.671374+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160513",
+    "title": "Hackers Impersonate ReliaQuest Security Staff to Steal SSO Credentials and MFA Access",
+    "link": "https://cybersecuritynews.com/hackers-impersonate-reliaquest-security-staff/",
+    "published": "Mon, 24 Aug 2026 13:44:58 +0000",
+    "source": "CybersecurityNews",
+    "summary": "ReliaQuest has disclosed a social engineering attack in which threat actors impersonated members of its security team to lure employees to a fraudulent single sign-on page. The incident briefly exposed one employee identity, but ReliaQuest said its l",
+    "created_at": "2026-08-24T14:31:37.695425+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160505",
+    "title": "New Mysterious AI Model Dubbed Ox Alpha With Free 100 Trillion Tokens a Day for Coders",
+    "link": "https://cybersecuritynews.com/new-mysterious-ai-model-dubbed-ox-alpha/",
+    "published": "Mon, 24 Aug 2026 13:47:38 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A mysterious AI system named Ox Alpha has sparked intense speculation across the developer community after appearing on OpenRouter as a free “stealth model” aimed at coding, long-running AI agents, and production workloads. The identity of its develo",
+    "created_at": "2026-08-24T14:31:39.726480+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160514",
+    "title": "Hackers Poison Google and Bing Results to Deliver Cloaked Banking Phishing Pages",
+    "link": "https://cybersecuritynews.com/hackers-poison-google-bing-results/",
+    "published": "Mon, 24 Aug 2026 14:06:52 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Bank customers searching for a login page can now be led into a trap before they receive a suspicious email or text message. Criminals are manipulating Google and Bing results so that fraudulent banking pages appear where people expect to find legiti",
+    "created_at": "2026-08-24T14:31:41.748336+00:00"
   }
 ]
