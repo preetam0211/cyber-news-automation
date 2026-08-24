@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
-    "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
-    "link": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
-    "published": "Sat, 25 Jul 2026 18:22:43 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-25T13:31:02.118236+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
     "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
     "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
