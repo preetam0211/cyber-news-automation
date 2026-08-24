@@ -1,29 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
-    "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
-    "link": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
-    "published": "Sat, 25 Jul 2026 15:23:41 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-25T12:00:56.625320+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
-    "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
-    "link": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
-    "published": "Sat, 25 Jul 2026 15:44:03 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-25T12:00:58.399359+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html",
-    "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
-    "link": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html",
-    "published": "Sat, 25 Jul 2026 15:44:21 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-25T12:01:00.178315+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
     "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
     "link": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
@@ -8543,5 +8519,23 @@
     "source": "BleepingComputer",
     "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days. [...]",
     "created_at": "2026-08-24T11:01:26.294136+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160487",
+    "title": "AmnesiaStealer Gives Hackers Hidden Control of Logged-In Browsers on Macs",
+    "link": "https://cybersecuritynews.com/amnesiastealer-hidden-control/",
+    "published": "Mon, 24 Aug 2026 11:15:30 +0000",
+    "source": "CybersecurityNews",
+    "summary": "AmnesiaStealer is a newly identified macOS information stealer that does more than copy saved passwords. It can give criminals quiet control of a browser that is already signed in, turning an infected Mac into a gateway to email, business apps, crypt",
+    "created_at": "2026-08-24T12:01:19.081265+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160492",
+    "title": "Microsoft August 2026 Windows Updates Trigger Issues on Devices Using RGB Lighting Features",
+    "link": "https://cybersecuritynews.com/windows-updates-triggers-rgb-lighting-issues/",
+    "published": "Mon, 24 Aug 2026 11:33:47 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft is investigating a Windows 11 issue in which the August 2026 security updates can cause certain games to freeze, crash, display access-violation errors, or restart affected PCs. The problem appears to be linked to RGB lighting hardware and ",
+    "created_at": "2026-08-24T12:01:49.753291+00:00"
   }
 ]
