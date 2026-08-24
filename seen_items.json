@@ -8657,5 +8657,14 @@
     "source": "BleepingComputer",
     "summary": "Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a member of the security team. [...]",
     "created_at": "2026-08-24T15:31:13.353617+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
+    "title": "⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
+    "link": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
+    "published": "Mon, 24 Aug 2026 20:02:10 +0530",
+    "source": "The Hacker News",
+    "summary": "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet.\n\nThat’s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh attention, AI makes exploit work cheaper, and rese",
+    "created_at": "2026-08-24T16:01:36.394288+00:00"
   }
 ]
