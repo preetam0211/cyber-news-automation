@@ -8573,5 +8573,23 @@
     "source": "The Hacker News",
     "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work.\n\nThe harder part is what comes after. AI can also introduce open-source packages at a pace y",
     "created_at": "2026-08-24T12:32:08.867529+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160493",
+    "title": "Microsoft Teams Phishing Deploys New SynkLoader Malware to Steal Windows Passwords",
+    "link": "https://cybersecuritynews.com/microsoft-teams-phishing/",
+    "published": "Mon, 24 Aug 2026 12:33:55 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft Teams phishing is again being used as a doorway to deliver a malware family called SynkLoader. The campaign relies on a familiar social-engineering trick: an attacker poses as an IT helpdesk worker and persuades an employee to install what ",
+    "created_at": "2026-08-24T13:01:21.071740+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/",
+    "title": "Microsoft: August updates break printing, PDF export in WPF apps",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/",
+    "published": "Mon, 24 Aug 2026 08:40:21 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft has confirmed that .NET Framework updates released as part of the August 2026 Patch Tuesday are breaking printing and PDF export in WPF applications. [...]",
+    "created_at": "2026-08-24T13:01:23.543328+00:00"
   }
 ]
