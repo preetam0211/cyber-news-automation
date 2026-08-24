@@ -8460,5 +8460,41 @@
     "source": "CybersecurityNews",
     "summary": "A criminal service is hiding behind a website that appears to offer Adobe Acrobat Reader. The site, acrobatreaderonline.com, is not a document service. Instead, it appears to expose an operator panel for building and managing attacks against Windows ",
     "created_at": "2026-08-24T05:01:25.246377+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160442",
+    "title": "Cybermes – AI Red Teaming Agent for Automated Penetration Testing",
+    "link": "https://cybersecuritynews.com/cybermes-ai-red-teaming-agent/",
+    "published": "Mon, 24 Aug 2026 05:39:11 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new open-source project called Cybermes has entered the crowded field of AI-powered offensive security tooling, positioning itself as an enterprise-grade autonomous agent capable of running full penetration tests with minimal human oversight. Relea",
+    "created_at": "2026-08-24T06:31:39.888175+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160437",
+    "title": "Critical isolated-vm Flaw Lets Untrusted JavaScript Escape Sandbox and Hijack Host Execution",
+    "link": "https://cybersecuritynews.com/critical-isolated-vm-flaw/",
+    "published": "Mon, 24 Aug 2026 05:57:44 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical security flaw in the popular Node.js sandboxing library isolated-vm could allow untrusted JavaScript to escape its V8 sandbox and potentially hijack execution in the host process. The issue, tracked as GHSA-864f-rcv7-6rh4 and awaiting a CV",
+    "created_at": "2026-08-24T06:32:09.338790+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160434",
+    "title": "Malicious npm Packages Deploy AI-Powered RedC2 Linux Implant to Steal Credentials and Pivot Networks",
+    "link": "https://cybersecuritynews.com/malicious-npm-packages/",
+    "published": "Mon, 24 Aug 2026 06:09:19 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Malicious npm packages are being used to place a Linux backdoor inside calendar and streak-calculation tools. The packages deliver legitimate date functions, making the malicious code easy to miss. The danger begins when an affected module is importe",
+    "created_at": "2026-08-24T06:32:41.080777+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160444",
+    "title": "AWS Network Firewall Now Shows Which Security Rules Are Actually Being Triggered",
+    "link": "https://cybersecuritynews.com/aws-network-firewall-hit-counts/",
+    "published": "Mon, 24 Aug 2026 06:27:33 +0000",
+    "source": "CybersecurityNews",
+    "summary": "AWS has introduced rule hit count support for AWS Network Firewall, giving security teams direct visibility into which stateful firewall rules are matching live network traffic. The new capability is enabled by default and helps organizations identif",
+    "created_at": "2026-08-24T06:33:24.286856+00:00"
   }
 ]
