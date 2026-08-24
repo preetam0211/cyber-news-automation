@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
-    "title": "OpenAI confirms ChatGPT is down worldwide",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
-    "published": "Sat, 25 Jul 2026 05:31:09 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-25T10:00:56.650399+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
     "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
     "link": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
@@ -8524,5 +8516,23 @@
     "source": "The Hacker News",
     "summary": "Cybersecurity researchers have disclosed details of a Chinese-speaking cybercrime group dubbed UAT-10147 that&#x27;s targeting Windows and Linux web servers globally across the education, media, technology, and gaming sectors.\n\nThe vast majority of t",
     "created_at": "2026-08-24T09:01:35.895891+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
+    "title": "Microsoft shares temporary fix for Windows 11 gaming issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
+    "published": "Mon, 24 Aug 2026 05:42:05 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft has shared a temporary fix for ongoing gaming issues caused by Windows 11 updates released during the August 2026 Patch Tuesday. [...]",
+    "created_at": "2026-08-24T10:01:29.208919+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160467",
+    "title": "Fake CAPTCHA Tricks Mac Users Into Installing a Backdoor That Steals Passwords and Mines Crypto",
+    "link": "https://cybersecuritynews.com/fake-captcha-tricks-mac-users/",
+    "published": "Mon, 24 Aug 2026 09:49:32 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Mac users are being lured into a ClickFix campaign that turns a routine CAPTCHA check into a path for password theft, remote control, and cryptocurrency mining. It persuades a visitor to run an attackers’ command in Terminal rather than download an a",
+    "created_at": "2026-08-24T10:01:44.792752+00:00"
   }
 ]
