@@ -8505,5 +8505,23 @@
     "source": "CybersecurityNews",
     "summary": "A newly uncovered Android malware campaign has turned car infotainment screens into an unexpected target. Rather than tricking drivers into installing a suspicious app, attackers used the software update path already built into Android-based head uni",
     "created_at": "2026-08-24T08:01:17.095781+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160468",
+    "title": "Anthropic’s Claude AI Suffers Another Outage With Elevated Errors",
+    "link": "https://cybersecuritynews.com/claude-ai-suffers-outage/",
+    "published": "Mon, 24 Aug 2026 08:01:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Anthropic’s Claude AI platform experienced another wave of elevated errors on August 24, 2026, marking yet another disruption in what has become a troubling pattern of instability for one of the industry’s leading AI providers. The incident, first fl",
+    "created_at": "2026-08-24T08:31:32.826899+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160475",
+    "title": "Hugging Face Reportedly Explores $13 Billion Sale Following Recent AI Security Incident",
+    "link": "https://cybersecuritynews.com/hugging-face-13-billion-sale/",
+    "published": "Mon, 24 Aug 2026 08:10:09 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hugging Face is testing a sale that could value the open-source AI hub at $13 billion or more, even as it is still closing out July’s autonomous-agent intrusion. People familiar with the process said the New York platform has hired a bank to sound ou",
+    "created_at": "2026-08-24T08:31:42.238482+00:00"
   }
 ]
