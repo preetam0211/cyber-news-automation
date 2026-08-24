@@ -8693,5 +8693,14 @@
     "source": "CybersecurityNews",
     "summary": "CERT Polska has warned that threat actors are actively exploiting CVE-2026-73570, a critical OS command-injection vulnerability in Zimbra Collaboration Suite that allows remote, unauthenticated attackers to execute arbitrary shell commands as the zim",
     "created_at": "2026-08-24T19:01:11.973840+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
+    "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
+    "published": "Mon, 24 Aug 2026 15:26:32 -0400",
+    "source": "BleepingComputer",
+    "summary": "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators. [...]",
+    "created_at": "2026-08-24T19:31:11.049355+00:00"
   }
 ]
