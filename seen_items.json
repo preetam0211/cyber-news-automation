@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
-    "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
-    "link": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
-    "published": "Sat, 25 Jul 2026 14:04:15 +0530",
-    "source": "The Hacker News",
-    "created_at": "2026-07-25T09:01:04.205019+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
     "title": "OpenAI confirms ChatGPT is down worldwide",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
@@ -8523,5 +8515,14 @@
     "source": "CybersecurityNews",
     "summary": "Hugging Face is testing a sale that could value the open-source AI hub at $13 billion or more, even as it is still closing out July’s autonomous-agent intrusion. People familiar with the process said the New York platform has hired a bank to sound ou",
     "created_at": "2026-08-24T08:31:42.238482+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html",
+    "title": "UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit",
+    "link": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html",
+    "published": "Mon, 24 Aug 2026 13:38:31 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have disclosed details of a Chinese-speaking cybercrime group dubbed UAT-10147 that&#x27;s targeting Windows and Linux web servers globally across the education, media, technology, and gaming sectors.\n\nThe vast majority of t",
+    "created_at": "2026-08-24T09:01:35.895891+00:00"
   }
 ]
