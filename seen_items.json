@@ -8496,5 +8496,14 @@
     "source": "CybersecurityNews",
     "summary": "AWS has introduced rule hit count support for AWS Network Firewall, giving security teams direct visibility into which stateful firewall rules are matching live network traffic. The new capability is enabled by default and helps organizations identif",
     "created_at": "2026-08-24T06:33:24.286856+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160459",
+    "title": "Hackers Infect Android Car Screens Through Their Built-In Software Update System",
+    "link": "https://cybersecuritynews.com/hackers-infect-android-car-screens/",
+    "published": "Mon, 24 Aug 2026 07:30:28 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly uncovered Android malware campaign has turned car infotainment screens into an unexpected target. Rather than tricking drivers into installing a suspicious app, attackers used the software update path already built into Android-based head uni",
+    "created_at": "2026-08-24T08:01:17.095781+00:00"
   }
 ]
