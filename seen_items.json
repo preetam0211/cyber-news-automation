@@ -8451,5 +8451,14 @@
     "source": "CybersecurityNews",
     "summary": "A cyberattack attributed to hackers linked to Iran forced a British power plant offline for four consecutive days last month, marking what officials describe as the first successful attack of its kind against UK energy infrastructure. The incident, f",
     "created_at": "2026-08-23T18:01:25.480271+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160433",
+    "title": "New Malware-as-a-service Leveraging Adobe-themed Domain to Attack Windows Users Using .bat File",
+    "link": "https://cybersecuritynews.com/malware-as-a-service-adobe-themed-domain/",
+    "published": "Mon, 24 Aug 2026 04:47:41 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A criminal service is hiding behind a website that appears to offer Adobe Acrobat Reader. The site, acrobatreaderonline.com, is not a document service. Instead, it appears to expose an operator panel for building and managing attacks against Windows ",
+    "created_at": "2026-08-24T05:01:25.246377+00:00"
   }
 ]
