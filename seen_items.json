@@ -8684,5 +8684,14 @@
     "source": "BleepingComputer",
     "summary": "The U.S. Department of Justice announced a $400 million settlement with TikTok, ByteDance, and affiliated companies over allegations that they violated the Children&#x27;s Online Privacy Protection Act (COPPA). [...]",
     "created_at": "2026-08-24T18:04:24.376892+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160497",
+    "title": "Zimbra Collaboration Suite Vulnerability Actively Exploited in the Wild",
+    "link": "https://cybersecuritynews.com/zimbra-collaboration-suite-vulnerability-exploited/",
+    "published": "Mon, 24 Aug 2026 17:04:30 +0000",
+    "source": "CybersecurityNews",
+    "summary": "CERT Polska has warned that threat actors are actively exploiting CVE-2026-73570, a critical OS command-injection vulnerability in Zimbra Collaboration Suite that allows remote, unauthenticated attackers to execute arbitrary shell commands as the zim",
+    "created_at": "2026-08-24T19:01:11.973840+00:00"
   }
 ]
