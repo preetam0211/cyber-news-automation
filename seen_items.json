@@ -8695,5 +8695,14 @@
     "source": "BleepingComputer",
     "summary": "An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can expose local network devices to the public internet",
     "created_at": "2026-08-24T21:31:10.436571+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
+    "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
+    "link": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
+    "published": "Mon, 24 Aug 2026 23:11:11 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients.\n\nMcAfee Labs said it detected and blocked more than 6,300 attempts to access",
+    "created_at": "2026-08-24T23:31:08.146298+00:00"
   }
 ]
