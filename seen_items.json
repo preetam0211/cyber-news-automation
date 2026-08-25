@@ -8953,5 +8953,14 @@
     "source": "The Hacker News",
     "summary": "The U.S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an &quot;unprecedented, whole-of-government, economic campaign&quot; against the nation and its enablers.\n\n&quot;We are launching an e",
     "created_at": "2026-08-25T19:31:15.726197+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/",
+    "title": "AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes",
+    "link": "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/",
+    "published": "Tue, 25 Aug 2026 16:25:26 -0400",
+    "source": "BleepingComputer",
+    "summary": "A newly uncovered phishing-as-a-service (PhaaS) platform called AnonyMousKIT automates the retrieval of codes used to unlock stolen Apple devices and disable the Activation Lock feature. [...]",
+    "created_at": "2026-08-25T20:31:41.513393+00:00"
   }
 ]
