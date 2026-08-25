@@ -8688,5 +8688,32 @@
     "source": "CybersecurityNews",
     "summary": "Two critical flaws in the miniOrange SAML 2.0 Single Sign-On plugin could allow unauthenticated attackers to log in to vulnerable WordPress sites as any existing user, including administrators. The flaws, tracked as CVE-2026-61979 and CVE-2026-15981,",
     "created_at": "2026-08-25T09:31:10.816190+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
+    "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
+    "link": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
+    "published": "Tue, 25 Aug 2026 14:04:07 +0530",
+    "source": "The Hacker News",
+    "summary": "Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any WordPress user, including administrators.\n\nThe v",
+    "created_at": "2026-08-25T10:01:24.634201+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160541",
+    "title": "CISA Warns of Oracle HTTP and WebLogic Server Vulnerability Exploited in Attacks",
+    "link": "https://cybersecuritynews.com/oracle-http-and-weblogic-server-vulnerability-exploited/",
+    "published": "Tue, 25 Aug 2026 09:38:59 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency has added CVE-2026-21962, an improper access control flaw affecting Oracle HTTP Server and the Oracle WebLogic Server Proxy Plug-in, to its Known Exploited Vulnerabilities (KEV) Catalog. The a",
+    "created_at": "2026-08-25T10:01:28.571638+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160567",
+    "title": "EvilTokens Doesn’t Just Steal Microsoft Sessions—Its AI Tells Attackers Who to Scam Next",
+    "link": "https://cybersecuritynews.com/eviltokens-steal-microsoft-sessions/",
+    "published": "Tue, 25 Aug 2026 09:59:35 +0000",
+    "source": "CybersecurityNews",
+    "summary": "EvilTokens is pushing phishing beyond the moment a victim clicks a link. The service steals Microsoft 365 session access, then examines the compromised mailbox to help criminals choose the contacts, payments, and conversations most likely to produce ",
+    "created_at": "2026-08-25T10:01:46.312329+00:00"
   }
 ]
