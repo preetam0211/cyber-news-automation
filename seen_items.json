@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=37415",
-    "title": "Top 10 Best Active Directory Management Tools 2026",
-    "link": "https://cybersecuritynews.com/active-directory-management-tools/",
-    "published": "Sun, 26 Jul 2026 08:14:04 +0000",
-    "source": "CybersecurityNews",
-    "created_at": "2026-07-26T08:31:03.999743+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
     "title": "GitHub, PyPI add time-absed defenses against supply chain attacks",
     "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
@@ -8669,5 +8661,14 @@
     "source": "CybersecurityNews",
     "summary": "Anthropic has taken its Model Context Protocol (MCP) connector framework a significant step further, announcing on August 24, 2026, that Enterprise-managed authorization is now generally available. The update expands support to Datadog, Notion, and S",
     "created_at": "2026-08-25T08:01:18.456392+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160559",
+    "title": "Fake GTA 6 Demo Is Actually Malware That Steals Your Passwords and Logged-In Sessions",
+    "link": "https://cybersecuritynews.com/fake-gta-6-demo/",
+    "published": "Tue, 25 Aug 2026 08:20:35 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A fake Grand Theft Auto VI demo is being used to steal passwords and active browser sessions from people looking for early access. The campaign turns excitement around game footage and a forthcoming official video into a route for installing an infor",
+    "created_at": "2026-08-25T08:31:21.334039+00:00"
   }
 ]
