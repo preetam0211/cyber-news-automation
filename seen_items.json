@@ -1,13 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
-    "title": "GitHub, PyPI add time-absed defenses against supply chain attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
-    "published": "Sun, 26 Jul 2026 10:13:39 -0400",
-    "source": "BleepingComputer",
-    "created_at": "2026-07-26T14:31:53.629153+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=157183",
     "title": "How Pro-Iran Hacktivist Networks Mobilize During Kinetic Conflict",
     "link": "https://cybersecuritynews.com/how-pro-iran-hacktivist-networks-mobilize-during-kinetic-conflict/",
@@ -8850,5 +8842,68 @@
     "source": "BleepingComputer",
     "summary": "Microsoft updated its Windows PowerToys toolset with a new utility dubbed &quot;Window Hopper&quot; that lets users switch between an app&#x27;s windows more quickly. [...]",
     "created_at": "2026-08-25T14:01:07.534216+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/",
+    "title": "From Fake Workers to Account Recovery: The Growing Identity Verification Risk",
+    "link": "https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/",
+    "published": "Tue, 25 Aug 2026 10:01:11 -0400",
+    "source": "BleepingComputer",
+    "summary": "Attackers are increasingly targeting the processes used to establish or recover identity rather than attacking the login itself. Specops explains how stronger identity verification can help organizations prevent fake workers and social engineering at",
+    "created_at": "2026-08-25T14:31:12.891263+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160606",
+    "title": "Tata’s B2B Platform Flaw Enables Account Takeover Just by Knowing Victim’s Phone Number",
+    "link": "https://cybersecuritynews.com/tatas-b2b-platform-vulnerability/",
+    "published": "Tue, 25 Aug 2026 14:01:52 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical authentication flaw in Tata Nexarc, a B2B procurement platform for small and medium businesses in India, allowed attackers to take over accounts by knowing only a registered mobile number. The platform reportedly exposed the one-time passw",
+    "created_at": "2026-08-25T14:31:15.146969+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160612",
+    "title": "AliExpress Uses WebAudio API and Zero-Gain Audio Graphs for Silent Device Fingerprinting",
+    "link": "https://cybersecuritynews.com/aliexpress-webaudio-device-fingerprinting/",
+    "published": "Tue, 25 Aug 2026 14:07:47 +0000",
+    "source": "CybersecurityNews",
+    "summary": "AliExpress’s homepage quietly builds hidden WebAudio processing graphs in the browser, a technique that appears to power an aggressive device-fingerprinting system while producing an unexpected real-world side effect: interfering with Bluetooth multi",
+    "created_at": "2026-08-25T14:31:17.445383+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160613",
+    "title": "Fake Microsoft Security Scan Tells You to Remove Antivirus—Then Scammers Ask for Remote Access",
+    "link": "https://cybersecuritynews.com/fake-microsoft-security-scan/",
+    "published": "Tue, 25 Aug 2026 14:11:49 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new web-based scam is using fake Microsoft-branded security scans to frighten people into removing the antivirus software protecting their computers. The pages claim to inspect a device, report serious security failures, and insist that third-party",
+    "created_at": "2026-08-25T14:31:41.243783+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160592",
+    "title": "Eight AI Agents Breach Government Systems, Crack 85 Accounts and Steal 2,500+ Records",
+    "link": "https://cybersecuritynews.com/eight-ai-agents-breach-government-systems/",
+    "published": "Tue, 25 Aug 2026 14:12:11 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A near-autonomous cyberattack using open-source AI agent frameworks compromised government systems in Asia, cracked 85 employee accounts, and stole more than 2,500 personnel records, according to research from Dream. The campaign demonstrates how coo",
+    "created_at": "2026-08-25T14:31:43.424596+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160587",
+    "title": "ASOS Warns Customer Accounts Were Accessed Using Compromised Login Credentials",
+    "link": "https://cybersecuritynews.com/asos-warns-customer-accounts-were-accessed/",
+    "published": "Tue, 25 Aug 2026 14:15:11 +0000",
+    "source": "CybersecurityNews",
+    "summary": "ASOS US Sales LLC reported unauthorized access to customer accounts using credentials obtained from outside the company, detected on July 28 and confirmed the next day. In a breach notification dated August 21, 2026, ASOS said it identified unusual a",
+    "created_at": "2026-08-25T14:31:45.730490+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160624",
+    "title": "WhatsApp Passkeys Reach 1 Billion Users as Two-Step Verification Gets Stronger Passwords",
+    "link": "https://cybersecuritynews.com/whatsapp-passkeys-reach-1-billion/",
+    "published": "Tue, 25 Aug 2026 14:23:31 +0000",
+    "source": "CybersecurityNews",
+    "summary": "WhatsApp has confirmed that more than 1 billion people now use passkeys to log into the messaging app, marking one of the largest passwordless authentication rollouts in consumer tech history. Alongside this milestone, Meta’s flagship messaging platf",
+    "created_at": "2026-08-25T14:31:53.721090+00:00"
   }
 ]
