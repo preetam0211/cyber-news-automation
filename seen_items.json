@@ -8724,5 +8724,23 @@
     "source": "BleepingComputer",
     "summary": "Law enforcement agencies from 22 countries helped identify 263 suspects and arrested 58 individuals linked to cybercrime networks coordinated by African crime groups. [...]",
     "created_at": "2026-08-25T11:01:47.225220+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160569",
+    "title": "Hackers Abuse Google Sites to Host Fake OpenAI Codex Download Pages",
+    "link": "https://cybersecuritynews.com/hackers-abuse-google-sites/",
+    "published": "Tue, 25 Aug 2026 11:12:26 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cybercriminals are using Google Sites to host fake download pages for OpenAI Codex, turning a familiar search into a malware trap. The campaign targets macOS users and relies on paid search placements to steer them toward a convincing but fraudulent ",
+    "created_at": "2026-08-25T12:32:02.965684+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/",
+    "title": "Hackers breached over 270 Zimbra servers in ongoing attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/",
+    "published": "Tue, 25 Aug 2026 08:04:02 -0400",
+    "source": "BleepingComputer",
+    "summary": "Threat actors have already compromised over 270 Zimbra instances in remote code execution attacks targeting a high-severity Zimbra Collaboration Suite (ZCS) vulnerability. [...]",
+    "created_at": "2026-08-25T12:32:14.048832+00:00"
   }
 ]
