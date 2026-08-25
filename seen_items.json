@@ -1,21 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=157190",
-    "title": "Weekly Cyber Security Newsletter Bulletin – Certighost Exploit, Checkpoint 0-day, HTTP/2 Flaw, Notepad++ Plugin Abuse +20 Stories",
-    "link": "https://cybersecuritynews.com/weekly-cyber-security-newsletter-july/",
-    "published": "Sun, 26 Jul 2026 16:40:49 +0000",
-    "source": "CybersecurityNews",
-    "created_at": "2026-07-26T17:32:28.838309+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157197",
-    "title": "Claude AI Shared Chats Reportedly Exposed in Google Search Results",
-    "link": "https://cybersecuritynews.com/claude-ai-shared-chats/",
-    "published": "Sun, 26 Jul 2026 17:05:24 +0000",
-    "source": "CybersecurityNews",
-    "created_at": "2026-07-26T17:32:30.568011+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=157142",
     "title": "ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link",
     "link": "https://cybersecuritynews.com/chatgpt-agentforger-vulnerability/",
