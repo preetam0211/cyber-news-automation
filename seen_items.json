@@ -8722,5 +8722,14 @@
     "source": "CybersecurityNews",
     "summary": "TP-Link has disclosed three high-severity command injection vulnerabilities affecting Archer BE800 V1, Archer BE3600 V1, and Archer AX75 V1 routers. The flaws could allow nearby attackers to run arbitrary commands with root privileges, potentially le",
     "created_at": "2026-08-25T06:31:17.751974+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
+    "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
+    "link": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
+    "published": "Tue, 25 Aug 2026 11:42:35 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active ",
+    "created_at": "2026-08-25T07:01:29.440919+00:00"
   }
 ]
