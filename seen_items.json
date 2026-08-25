@@ -8823,5 +8823,32 @@
     "source": "CybersecurityNews",
     "summary": "ClickFix campaigns are turning routine web prompts into Windows infections. A tracked loader, PavinLoader, is delivered through fake verification pages, software downloads, and malicious game installers before pulling in malware. The activity makes v",
     "created_at": "2026-08-25T13:31:07.213936+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
+    "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
+    "link": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
+    "published": "Tue, 25 Aug 2026 18:13:51 +0530",
+    "source": "The Hacker News",
+    "summary": "Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted notebook, according to VulnCheck&#x27;s CVE Numbering Aut",
+    "created_at": "2026-08-25T14:01:03.600266+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html",
+    "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
+    "link": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html",
+    "published": "Tue, 25 Aug 2026 18:49:41 +0530",
+    "source": "The Hacker News",
+    "summary": "Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their accounts using the phishing-resistant method.\n\nThe tech",
+    "created_at": "2026-08-25T14:01:05.577841+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/",
+    "title": "Microsoft PowerToys adds Alt+Tab-style switching for an app's windows",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/",
+    "published": "Tue, 25 Aug 2026 09:51:58 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft updated its Windows PowerToys toolset with a new utility dubbed &quot;Window Hopper&quot; that lets users switch between an app&#x27;s windows more quickly. [...]",
+    "created_at": "2026-08-25T14:01:07.534216+00:00"
   }
 ]
