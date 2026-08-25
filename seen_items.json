@@ -8670,5 +8670,23 @@
     "source": "CybersecurityNews",
     "summary": "A fake Grand Theft Auto VI demo is being used to steal passwords and active browser sessions from people looking for early access. The campaign turns excitement around game footage and a forthcoming official video into a route for installing an infor",
     "created_at": "2026-08-25T08:31:21.334039+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160551",
+    "title": "Critical Red Hat Keycloak Flaw Lets Unauthenticated Attackers Take Over Any User Account",
+    "link": "https://cybersecuritynews.com/red-hat-keycloak-flaw/",
+    "published": "Tue, 25 Aug 2026 09:12:19 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Red Hat has disclosed a critical vulnerability in the Red Hat Build of Keycloak that could allow unauthenticated remote attackers to take over arbitrary user accounts. Tracked as CVE-2026-18963, the flaw affects the password recovery process and carr",
+    "created_at": "2026-08-25T09:31:06.740211+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160556",
+    "title": "Hackers Exploit Critical miniOrange SAML SSO Flaws to Hijack WordPress Admin Accounts",
+    "link": "https://cybersecuritynews.com/hackers-exploit-critical-miniorange-saml-sso-flaws/",
+    "published": "Tue, 25 Aug 2026 09:26:52 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Two critical flaws in the miniOrange SAML 2.0 Single Sign-On plugin could allow unauthenticated attackers to log in to vulnerable WordPress sites as any existing user, including administrators. The flaws, tracked as CVE-2026-61979 and CVE-2026-15981,",
+    "created_at": "2026-08-25T09:31:10.816190+00:00"
   }
 ]
