@@ -8796,5 +8796,32 @@
     "source": "CybersecurityNews",
     "summary": "Multiple vulnerabilities affecting Zscaler Client Connector have been disclosed, potentially allowing remote code execution on vulnerable systems. Tracked as CVE-2026-59568, the critical flaw chain enables an unauthenticated and unprivileged attacker",
     "created_at": "2026-08-25T13:02:02.442625+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/",
+    "title": "WhatsApp adds stronger two-step verification, multiple passkeys",
+    "link": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/",
+    "published": "Tue, 25 Aug 2026 09:00:00 -0400",
+    "source": "BleepingComputer",
+    "summary": "WhatsApp has started rolling out several new account security features, including support for multiple passkeys and stronger two-step verification. [...]",
+    "created_at": "2026-08-25T13:31:04.887060+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160595",
+    "title": "Microsoft August 2026 Update Breaks When Generating PDF/XPS Content",
+    "link": "https://cybersecuritynews.com/microsoft-august-2026-update-pdf-xps/",
+    "published": "Tue, 25 Aug 2026 13:11:38 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has confirmed that its August 2026 .NET Framework cumulative updates are causing printing failures and PDF/XPS generation errors in Windows Presentation Foundation (WPF) applications, creating fresh headaches for enterprises just days after",
+    "created_at": "2026-08-25T13:31:06.248125+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160590",
+    "title": "ClickFix Campaigns Deploy PavinLoader With Blockchain-Based C2 and Amatera Stealer",
+    "link": "https://cybersecuritynews.com/clickfix-campaigns-pavinloader/",
+    "published": "Tue, 25 Aug 2026 13:12:40 +0000",
+    "source": "CybersecurityNews",
+    "summary": "ClickFix campaigns are turning routine web prompts into Windows infections. A tracked loader, PavinLoader, is delivered through fake verification pages, software downloads, and malicious game installers before pulling in malware. The activity makes v",
+    "created_at": "2026-08-25T13:31:07.213936+00:00"
   }
 ]
