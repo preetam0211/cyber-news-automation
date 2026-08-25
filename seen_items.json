@@ -8713,5 +8713,14 @@
     "source": "CybersecurityNews",
     "summary": "A security researcher has disclosed five vulnerabilities that he responsibly reported to Palo Alto Networks, affecting GlobalProtect, the VPN and endpoint agent used across thousands of enterprise networks worldwide. The disclosure, published through",
     "created_at": "2026-08-25T02:01:11.329583+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160546",
+    "title": "Multiple TP-Link Archer Vulnerabilities Enable Command Injection Attacks",
+    "link": "https://cybersecuritynews.com/tp-link-archer-command-injection-flaw/",
+    "published": "Tue, 25 Aug 2026 06:15:54 +0000",
+    "source": "CybersecurityNews",
+    "summary": "TP-Link has disclosed three high-severity command injection vulnerabilities affecting Archer BE800 V1, Archer BE3600 V1, and Archer AX75 V1 routers. The flaws could allow nearby attackers to run arbitrary commands with root privileges, potentially le",
+    "created_at": "2026-08-25T06:31:17.751974+00:00"
   }
 ]
