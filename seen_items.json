@@ -8715,5 +8715,14 @@
     "source": "CybersecurityNews",
     "summary": "EvilTokens is pushing phishing beyond the moment a victim clicks a link. The service steals Microsoft 365 session access, then examines the compromised mailbox to help criminals choose the contacts, payments, and conversations most likely to produce ",
     "created_at": "2026-08-25T10:01:46.312329+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/",
+    "title": "Police arrests dozens of suspects in global cybercrime crackdown",
+    "link": "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/",
+    "published": "Tue, 25 Aug 2026 06:53:20 -0400",
+    "source": "BleepingComputer",
+    "summary": "Law enforcement agencies from 22 countries helped identify 263 suspects and arrested 58 individuals linked to cybercrime networks coordinated by African crime groups. [...]",
+    "created_at": "2026-08-25T11:01:47.225220+00:00"
   }
 ]
