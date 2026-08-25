@@ -8905,5 +8905,32 @@
     "source": "CybersecurityNews",
     "summary": "WhatsApp has confirmed that more than 1 billion people now use passkeys to log into the messaging app, marking one of the largest passwordless authentication rollouts in consumer tech history. Alongside this milestone, Meta’s flagship messaging platf",
     "created_at": "2026-08-25T14:31:53.721090+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160628",
+    "title": "ToxNetV2 Linux Botnet Uses NVIDIA AI to Generate Shell and Remote SSH Attack Actions",
+    "link": "https://cybersecuritynews.com/toxnetv2-linux-botnet/",
+    "published": "Tue, 25 Aug 2026 14:30:19 +0000",
+    "source": "CybersecurityNews",
+    "summary": "ToxNetV2 is a Linux botnet that shows how artificial intelligence can move closer to real attack operations. Instead of using a model only to write text, the malware feeds system and botnet data into an AI service, then turns selected replies into pr",
+    "created_at": "2026-08-25T15:01:33.803898+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160633",
+    "title": "SynkLoader Mimic as IT Support Personnel Attacking Users Via Microsoft Teams",
+    "link": "https://cybersecuritynews.com/synkloader-mimic-as-it-support/",
+    "published": "Tue, 25 Aug 2026 14:32:47 +0000",
+    "source": "CybersecurityNews",
+    "summary": "SynkLoader is using Microsoft Teams conversations to turn routine IT support requests into a route for malware delivery. The campaign relies on impersonation rather than a software flaw, placing the decision to install a supposed fix directly in fron",
+    "created_at": "2026-08-25T15:01:36.079477+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
+    "title": "Hospital operator Nutex Health says data stolen in cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
+    "published": "Tue, 25 Aug 2026 10:44:16 -0400",
+    "source": "BleepingComputer",
+    "summary": "Healthcare and services provider Nutex is investigating a data breach incident where an unauthorized third party exfiltrated information from company servers. [...]",
+    "created_at": "2026-08-25T15:01:38.403886+00:00"
   }
 ]
