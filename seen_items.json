@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html",
-    "title": "Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption",
-    "link": "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html",
-    "published": "Mon, 27 Jul 2026 22:46:28 +0530",
-    "source": "The Hacker News",
-    "summary": "Dysphoria, an Internet of Things (IoT) botnet line tracked by CNCERT and XLab, has adopted blockchain-based name services and infected-device relays after a March law-enforcement operation against JackSkid infrastructure. The researchers say the desi",
-    "created_at": "2026-07-27T18:01:08.745505+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
     "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
     "link": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
@@ -8935,5 +8926,23 @@
     "source": "BleepingComputer",
     "summary": "Meta has reached a proposed settlement worth up to approximately $18 billion with a bipartisan coalition of 52 attorneys generals over allegations that Facebook and Instagram were deliberately designed to encourage compulsive use by children and teen",
     "created_at": "2026-08-26T17:04:32.453006+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html",
+    "title": "Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler",
+    "link": "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html",
+    "published": "Wed, 26 Aug 2026 21:05:05 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have discovered additional infrastructure and previously undocumented malware associated with Nimbus Manticore, an Iranian state-sponsored hacking group affiliated with the Islamic Revolutionary Guard Corps (IRGC).\n\nGroup-IB",
+    "created_at": "2026-08-26T18:04:21.425552+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html",
+    "title": "FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations",
+    "link": "https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html",
+    "published": "Wed, 26 Aug 2026 22:12:03 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced the disruption of two hacking platforms named QScan and QTRouter operated by Chinese threat actors to target critical infrastructure and other sensitive networks in the country.\n\nThe activit",
+    "created_at": "2026-08-26T18:04:22.297829+00:00"
   }
 ]
