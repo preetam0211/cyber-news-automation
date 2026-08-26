@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/",
-    "title": "Shadow AI agents are multiplying. Here's how to find and secure them.",
-    "link": "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/",
-    "published": "Mon, 27 Jul 2026 10:01:11 -0400",
-    "source": "BleepingComputer",
-    "summary": "Shadow AI agents are rapidly spreading across enterprise platforms, often without IT or security visibility. Nudge Security explains how organizations can discover, assess, and govern AI agents before unmanaged permissions and autonomous actions crea",
-    "created_at": "2026-07-27T14:31:12.740604+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html",
-    "title": "⚡ Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More",
-    "link": "https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html",
-    "published": "Mon, 27 Jul 2026 19:40:54 +0530",
-    "source": "The Hacker News",
-    "summary": "Monday starts with the usual promise that everything is under control. Then the logs wake up.\n\nThis week, trusted tools crossed lines, old flaws found new work, exposed systems stayed exposed, and attackers kept hiding inside normal-looking services.",
-    "created_at": "2026-07-27T14:31:14.666167+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157341",
-    "title": "NVIDIA Launches Open Secure AI Alliance to Build Open-Source Defenses for AI Agents",
-    "link": "https://cybersecuritynews.com/open-secure-ai-alliance/",
-    "published": "Mon, 27 Jul 2026 14:26:59 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A coalition of over 30 technology industry leaders, including NVIDIA, Microsoft, CrowdStrike, Cisco, IBM, Palo Alto Networks, and Red Hat, has launched the Open Secure AI Alliance. The initiative aims to equip cyber defenders with transparent, commun",
-    "created_at": "2026-07-27T14:31:16.558380+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=157376",
     "title": "Security Risk Advisors Named a Finalist in CRN’s 2026 Best of the Channel Awards",
     "link": "https://cybersecuritynews.com/security-risk-advisors-named-a-finalist-in-crns-2026-best-of-the-channel-awards/",
@@ -8980,5 +8953,50 @@
     "source": "CybersecurityNews",
     "summary": "Iran-linked hackers have expanded an espionage effort with a Windows backdoor and reverse SSH tunnelling utility. The activity is tied to Tortoiseshell, also tracked as Mirage Kitten, UNC1549 and Nimbus Manticore. The campaign gives operators more wa",
     "created_at": "2026-08-26T14:01:27.322929+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
+    "title": "CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing",
+    "link": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
+    "published": "Wed, 26 Aug 2026 18:37:02 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published the results of two red team assessments it conducted simultaneously against two critical infrastructure organizations, using what it described as similar tradecraft while ",
+    "created_at": "2026-08-26T14:31:08.132853+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
+    "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
+    "link": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
+    "published": "Wed, 26 Aug 2026 19:14:31 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that&#x27;s used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated sessions in the process.\n\nIn a ",
+    "created_at": "2026-08-26T14:31:10.430306+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/",
+    "title": "Snowflake ends service-account passwords. Now comes the hard part",
+    "link": "https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/",
+    "published": "Wed, 26 Aug 2026 10:01:11 -0400",
+    "source": "BleepingComputer",
+    "summary": "Snowflake is ending password authentication for legacy service accounts, forcing organizations to migrate them to passwordless methods. Token Security explains why the harder challenge is identifying what uses each account, who owns it, and how much ",
+    "created_at": "2026-08-26T14:31:12.970724+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160804",
+    "title": "OpenAI Bans Russia-Linked ChatGPT Accounts Used in Covert Influence Campaign",
+    "link": "https://cybersecuritynews.com/openai-bans-russia-linked-chatgpt/",
+    "published": "Wed, 26 Aug 2026 14:13:02 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OpenAI has removed a cluster of ChatGPT accounts linked to a covert influence operation from Russia. The accounts produced social-media posts and replies designed to steer people toward the International Burke Institute, or IBI, a purported Israeli e",
+    "created_at": "2026-08-26T14:31:14.371929+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/",
+    "title": "FBI disrupts proxy network enabling Chinese espionage operations",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/",
+    "published": "Wed, 26 Aug 2026 10:17:59 -0400",
+    "source": "BleepingComputer",
+    "summary": "The FBI has disrupted infrastructure associated with a technical &quot;quartermaster&quot; that provided reconnaissance, proxy management, and operational routing capabilities for Chinese cyber espionage activities. [...]",
+    "created_at": "2026-08-26T14:31:15.453689+00:00"
   }
 ]
