@@ -8989,5 +8989,14 @@
     "source": "CybersecurityNews",
     "summary": "Microsoft confirmed early Wednesday that customers may have been unable to use multiple Microsoft Teams features, then said its monitoring showed the problem was largely under control. The latest customer note, posted at 7:26 a.m. IST on August 26, 2",
     "created_at": "2026-08-26T03:31:47.498952+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160695",
+    "title": "Multiple OpenSSL Flaws Let Remote Attackers Crash Servers and Corrupt Heap Memory",
+    "link": "https://cybersecuritynews.com/openssl-patches-9-vulnerabilities/",
+    "published": "Wed, 26 Aug 2026 03:46:16 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OpenSSL has issued a fresh security advisory disclosing seven vulnerabilities across its cryptographic library, ranging from a heap-corrupting write bug to memory-exhaustion flaws in its QUIC and DTLS implementations. The flaws affect widely deployed",
+    "created_at": "2026-08-26T04:01:07.681578+00:00"
   }
 ]
