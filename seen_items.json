@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
-    "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
-    "link": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
-    "published": "Mon, 27 Jul 2026 23:40:05 +0530",
-    "source": "The Hacker News",
-    "summary": "NVIDIA and 36 other organizations have formed the Open Secure AI Alliance to develop and share open technologies, techniques, and tools for securing software and artificial intelligence (AI) agents.\n\nThe 37-member group spans cloud, security, enterpr",
-    "created_at": "2026-07-27T20:01:02.046804+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
     "title": "New Certighost PoC exploit lets attackers hijack Windows domains",
     "link": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
