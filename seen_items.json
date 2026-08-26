@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
-    "title": "New Certighost PoC exploit lets attackers hijack Windows domains",
-    "link": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
-    "published": "Mon, 27 Jul 2026 17:00:25 -0400",
-    "source": "BleepingComputer",
-    "summary": "A proof-of-concept exploit for &quot;Certighost,&quot; a Windows Active Directory Certificate Services vulnerability, has been released that can allow authenticated attackers to potentially compromise a Windows domain. [...]",
-    "created_at": "2026-07-27T21:01:03.842715+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
     "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
     "link": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
