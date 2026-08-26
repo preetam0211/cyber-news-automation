@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=157208",
-    "title": "Researchers Successfully Booted Jailbroken Version of iOS 27 on an iPhone 11 Pro",
-    "link": "https://cybersecuritynews.com/booted-jailbroken-ios-27-iphone-11-pro/",
-    "published": "Mon, 27 Jul 2026 07:11:28 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Security researchers have successfully booted a jailbroken build of iOS 27 on an iPhone 11 Pro by combining the recently disclosed usbliter8 SecureROM exploit with a heavily modified custom firmware workflow. The demonstration targets Apple’s A13-pow",
-    "created_at": "2026-07-27T07:31:06.053579+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=157212",
     "title": "PyPI Blocks New File Uploads on 14-Day-Old Releases to Prevent Package Poisoning Attacks",
     "link": "https://cybersecuritynews.com/pypi-14-day-release-lock/",
@@ -8998,5 +8989,23 @@
     "source": "CybersecurityNews",
     "summary": "Two serious Microsoft SharePoint Server vulnerabilities can be chained to let remote attackers take control of vulnerable servers without a password. The attack combines an authentication bypass tracked as 78 with a remote code execution flaw, CVE-20",
     "created_at": "2026-08-26T07:02:47.349087+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html",
+    "title": "Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes",
+    "link": "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html",
+    "published": "Wed, 26 Aug 2026 11:17:28 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have disclosed details of a phishing-as-a-service (PhaaS) platform built to strip Apple&#x27;s Activation Lock from stolen devices, using rented AI voice agents that call theft victims posing as Apple Support and ask for the",
+    "created_at": "2026-08-26T07:31:22.599592+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html",
+    "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
+    "link": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html",
+    "published": "Wed, 26 Aug 2026 11:57:07 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation efforts targeting a recently patched critical security flaw impacting Gitea.\n\nThe vulnerability in question is CVE-2026-60004 (CVSS score: 9.8),",
+    "created_at": "2026-08-26T07:31:58.831375+00:00"
   }
 ]
