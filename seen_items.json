@@ -9016,5 +9016,41 @@
     "source": "The Hacker News",
     "summary": "Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a client-side-only booking restriction in 9 of 10 run",
     "created_at": "2026-08-26T10:31:25.775891+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160767",
+    "title": "SonicWall NetExtender Vulnerabilities Allow an Attacker to Write Arbitrary Files as Root",
+    "link": "https://cybersecuritynews.com/sonicwall-netextender-vulnerabilities/",
+    "published": "Wed, 26 Aug 2026 10:04:23 +0000",
+    "source": "CybersecurityNews",
+    "summary": "SonicWall has disclosed two security vulnerabilities in its NetExtender Linux client, including a critical path traversal flaw that could allow an attacker to write arbitrary files with root privileges. The issues affect NetExtender Linux Client vers",
+    "created_at": "2026-08-26T11:31:30.274808+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160777",
+    "title": "Hackers Abuse Legitimate RMM Tools in 46-Country Phishing Campaign to Gain Remote Access",
+    "link": "https://cybersecuritynews.com/hackers-abuse-legitimate-rmm-tools-3/",
+    "published": "Wed, 26 Aug 2026 10:23:29 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A phishing operation is abusing legitimate remote monitoring and management tools to give attackers direct control over victim systems. The campaign uses convincing document lures, rapidly changing hosting infrastructure, and signed software that can",
+    "created_at": "2026-08-26T11:31:34.341743+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/",
+    "title": "Hackers now exploit critical Gitea flaw in code injection attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/",
+    "published": "Wed, 26 Aug 2026 07:07:48 -0400",
+    "source": "BleepingComputer",
+    "summary": "Attackers are now exploiting a critical-severity vulnerability in the Gitea self-hosted Git service, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+    "created_at": "2026-08-26T11:31:59.949059+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160772",
+    "title": "24 Malicious npm Packages Abuse Trusted Mirrors to Host ClickFix Phishing Pages",
+    "link": "https://cybersecuritynews.com/24-malicious-npm-packages/",
+    "published": "Wed, 26 Aug 2026 11:19:57 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Twenty-four malicious npm packages have been used to turn trusted package mirrors into staging points for ClickFix phishing pages. The campaign does not infect a developer by installing a package. Instead, it exploits the confidence users place in fa",
+    "created_at": "2026-08-26T11:32:01.266278+00:00"
   }
 ]
