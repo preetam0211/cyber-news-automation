@@ -1,59 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=157279",
-    "title": "Claude Opus 5 Finds Vulnerabilities but Remains Restricted in Generating Exploits",
-    "link": "https://cybersecuritynews.com/claude-opus-5-finds-vulnerabilities/",
-    "published": "Mon, 27 Jul 2026 12:37:24 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Anthropic has officially released Claude Opus 5, a next-generation large language model (LLM) designed to boost software engineering and complex knowledge-work performance while keeping tight reins on offensive cybersecurity capabilities. Positioned ",
-    "created_at": "2026-07-27T13:01:11.427616+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157305",
-    "title": "Iranian Hackers Are Disabling Industrial Safety Alarms and Hiding It From Operators",
-    "link": "https://cybersecuritynews.com/iranian-hackers-disabling-industrial-safety-alarms/",
-    "published": "Mon, 27 Jul 2026 12:41:28 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Iranian-affiliated hackers are targeting internet-connected industrial controllers used across critical infrastructure in the United States. Their activity can disrupt essential processes in water, energy, and government environments, where even a sm",
-    "created_at": "2026-07-27T13:01:13.357395+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157322",
-    "title": "Wrench Attacks Bypass Encryption by Forcing Victims to Unlock Crypto Wallets",
-    "link": "https://cybersecuritynews.com/wrench-attacks-bypass-encryption/",
-    "published": "Mon, 27 Jul 2026 12:53:57 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Cryptocurrency theft is increasingly moving beyond the screen. Criminals are using violence, threats, home invasions, and kidnapping attempts to force victims to unlock wallets or approve transfers while under pressure. These incidents are known as w",
-    "created_at": "2026-07-27T13:01:15.308412+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html",
-    "title": "Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update",
-    "link": "https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html",
-    "published": "Mon, 27 Jul 2026 18:07:49 +0530",
-    "source": "The Hacker News",
-    "summary": "Cybersecurity researchers have flagged a Microsoft Teams-themed phishing campaign that employs &quot;secure document&quot; lures to deliver legitimate remote monitoring and management (RMM) tools.\n\n&quot;The victim was directed through compromised we",
-    "created_at": "2026-07-27T13:31:04.428568+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
-    "title": "n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process",
-    "link": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
-    "published": "Mon, 27 Jul 2026 18:35:15 +0530",
-    "source": "The Hacker News",
-    "summary": "n8n has patched a high-severity expression-sandbox escape that could let an authenticated workflow editor execute operating-system commands on the server running the automation platform. Security Joes found the flaw while probing n8n&#x27;s February ",
-    "created_at": "2026-07-27T13:31:06.233788+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157336",
-    "title": "Vatican’s Click to Pray App Exposes 700,000 Users Through Unauthenticated API Flaw",
-    "link": "https://cybersecuritynews.com/vaticans-click-to-pray-app-exposes-users/",
-    "published": "Mon, 27 Jul 2026 13:12:56 +0000",
-    "source": "CybersecurityNews",
-    "summary": "The Vatican’s official Click to Pray app has exposed the personal information of more than 700,000 users through an unauthenticated API flaw. The issue allowed anyone with a web browser to retrieve account data without needing to sign in. Click to Pr",
-    "created_at": "2026-07-27T13:31:08.031040+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=157352",
     "title": "Hackers Can Use MedusaHVNC to Control Your PC on a Desktop You Cannot See",
     "link": "https://cybersecuritynews.com/medusahvnc-control-your-pc-silently/",
@@ -9025,5 +8971,23 @@
     "source": "CybersecurityNews",
     "summary": "Cybercriminals are using a counterfeit Claude desktop application to compromise Windows systems, disable key security checks, and install remote-access malware. The campaign turns a familiar AI software search into a route for credential theft and lo",
     "created_at": "2026-08-26T12:31:10.298695+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
+    "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
+    "link": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
+    "published": "Wed, 26 Aug 2026 17:25:00 +0530",
+    "source": "The Hacker News",
+    "summary": "The CERT Coordination Center (CERT/CC) has disclosed two unpatched vulnerabilities in Kaltura&#x27;s HTML5 video player library that allow a remote, unauthenticated attacker to read arbitrary files from a server and execute code on it.\n\nThe flaws, tr",
+    "created_at": "2026-08-26T13:31:58.787145+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/",
+    "title": "Ubiquiti patches three max severity security vulnerabilities",
+    "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/",
+    "published": "Wed, 26 Aug 2026 09:17:54 -0400",
+    "source": "BleepingComputer",
+    "summary": "Ubiquiti has released security patches for three new maximum-severity vulnerabilities that threat actors can exploit remotely without privileges. [...]",
+    "created_at": "2026-08-26T13:32:25.918866+00:00"
   }
 ]
