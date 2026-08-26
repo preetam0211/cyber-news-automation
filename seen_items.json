@@ -8953,5 +8953,23 @@
     "source": "BleepingComputer",
     "summary": "A newly disclosed Rowhammer attack called GPUThor can bypass error-correcting code (ECC) protections on NVIDIA GPUs, enabling denial-of-service (DoS) and root-level privilege escalation. [...]",
     "created_at": "2026-08-26T19:01:03.348395+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160790",
+    "title": "Critical Next.js Vulnerabilities Enables Remote Code Execution Attacks",
+    "link": "https://cybersecuritynews.com/next-js-vulnerabilities/",
+    "published": "Wed, 26 Aug 2026 17:43:02 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Two critical Next.js flaws allow unauthenticated remote code execution on Windows-hosted applications using the Image Optimization API to process AVIF images. The first flaw, tracked as CVE-2026-75604, affects Next.js applications that use either the",
+    "created_at": "2026-08-26T19:31:04.749999+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160819",
+    "title": "21 Critical Ubiquiti UniFi Flaws Enable Authentication Bypass, Command Injection and Privilege Escalation",
+    "link": "https://cybersecuritynews.com/21-critical-ubiquiti-unifi-flaws/",
+    "published": "Wed, 26 Aug 2026 18:00:02 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Ubiquiti has patched 21 critical-severity vulnerabilities spanning nearly its entire UniFi product line, warning that attackers with only network access could chain the flaws to bypass authentication, inject commands, and seize full control of router",
+    "created_at": "2026-08-26T19:31:07.071472+00:00"
   }
 ]
