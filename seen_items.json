@@ -9007,5 +9007,41 @@
     "source": "CybersecurityNews",
     "summary": "Google has released Chrome 152 for Windows, macOS, and Linux, delivering 327 security fixes and improvements. The update addresses 10 critical vulnerabilities, making it an important security release for individual users and enterprise environments. ",
     "created_at": "2026-08-26T08:03:40.466291+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
+    "title": "Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
+    "link": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
+    "published": "Wed, 26 Aug 2026 12:42:55 +0530",
+    "source": "The Hacker News",
+    "summary": "An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machine and then runs commands written in a 23-instructi",
+    "created_at": "2026-08-26T09:01:28.541345+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html",
+    "title": "INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown",
+    "link": "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html",
+    "published": "Wed, 26 Aug 2026 13:24:12 +0530",
+    "source": "The Hacker News",
+    "summary": "An eight-month INTERPOL operation targeting West African organized crime groups has led to arrests of 58 people and the identification of 263 suspects.\n\n&quot;The operation, which brought together 22 countries from six continents, is a response to th",
+    "created_at": "2026-08-26T09:02:20.375195+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160654",
+    "title": "Mirage2FA Phishing Kit Bypasses MFA to Hijack Microsoft 365 Sessions, Targeting 3,500+ Organizations",
+    "link": "https://cybersecuritynews.com/mirage2fa-phishing-kit-bypasses-mfa-to-hijack-microsoft-365-sessions-targeting-3500-organizations/",
+    "published": "Wed, 26 Aug 2026 08:21:30 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Researchers tie the LinX Coders phishing-as-a-service toolkit to 9,332 compromise events across 94 countries, with 63.7% of victims in the United States and stolen session cookies accounting for more than half of all outcomes. A phishing-as-a-service",
+    "created_at": "2026-08-26T09:03:12.465681+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160754",
+    "title": "Iran-Linked Hackers Abuse Legitimate Developer Tool to Hide Dindoor Backdoor",
+    "link": "https://cybersecuritynews.com/iran-linked-hackers-abuse-developer-tool/",
+    "published": "Wed, 26 Aug 2026 08:50:13 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Iran-linked operators are using a trusted developer tool to conceal a backdoor called Dindoor inside Windows environments. The malware uses the Deno JavaScript and TypeScript runtime to execute encoded code, helping its activity blend into legitimate",
+    "created_at": "2026-08-26T09:03:39.417236+00:00"
   }
 ]
