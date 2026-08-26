@@ -8998,5 +8998,23 @@
     "source": "CybersecurityNews",
     "summary": "A critical vulnerability in the TranslatePress WordPress plugin could allow unauthenticated attackers to hijack administrator accounts and fully compromise affected websites. The flaw, tracked as CVE-2026-19632, affects TranslatePress versions up to ",
     "created_at": "2026-08-26T10:01:53.430177+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
+    "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
+    "link": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
+    "published": "Wed, 26 Aug 2026 15:08:45 +0530",
+    "source": "The Hacker News",
+    "summary": "OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) tool to generate social media posts and comments that",
+    "created_at": "2026-08-26T10:31:23.530292+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
+    "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
+    "link": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
+    "published": "Wed, 26 Aug 2026 15:57:23 +0530",
+    "source": "The Hacker News",
+    "summary": "Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a client-side-only booking restriction in 9 of 10 run",
+    "created_at": "2026-08-26T10:31:25.775891+00:00"
   }
 ]
