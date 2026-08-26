@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=157107",
-    "title": "Eight NodeBB Vulnerabilities Let Hackers Read Your Private Chats and Take Over the Forum",
-    "link": "https://cybersecuritynews.com/eight-nodebb-vulnerabilities/",
-    "published": "Mon, 27 Jul 2026 04:15:12 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Eight high-severity vulnerabilities have been discovered in NodeBB, a popular Node.js-based forum platform, exposing millions of users to risks including private message leaks, stored cross-site scripting (XSS), and full forum compromise. The issues ",
-    "created_at": "2026-07-27T05:01:07.426264+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=157213",
     "title": "Google Is Giving Hacker Groups New Names That Reveal Who They Are and Why They Attack",
     "link": "https://cybersecuritynews.com/google-is-giving-hacker-groups-new-names/",
@@ -8989,5 +8980,14 @@
     "source": "CybersecurityNews",
     "summary": "OpenSSL has issued a fresh security advisory disclosing seven vulnerabilities across its cryptographic library, ranging from a heap-corrupting write bug to memory-exhaustion flaws in its QUIC and DTLS implementations. The flaws affect widely deployed",
     "created_at": "2026-08-26T04:01:07.681578+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160699",
+    "title": "Linux Turns 35 – Hobby Kernel Now Powers Cloud, Android, and Global Cyber Defense",
+    "link": "https://cybersecuritynews.com/linux-turns-35/",
+    "published": "Wed, 26 Aug 2026 04:31:15 +0000",
+    "source": "CybersecurityNews",
+    "summary": "On August 25, 1991, a 21-year-old University of Helsinki student posted a modest note to the Usenet group comp.os.minix. “I’m doing a (free) operating system (just a hobby, won’t be big and professional like gnu) for 386(486) AT clones,” Linus Torval",
+    "created_at": "2026-08-26T05:01:28.069903+00:00"
   }
 ]
