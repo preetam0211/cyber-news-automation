@@ -9007,5 +9007,32 @@
     "source": "The Hacker News",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation efforts targeting a recently patched critical security flaw impacting Gitea.\n\nThe vulnerability in question is CVE-2026-60004 (CVSS score: 9.8),",
     "created_at": "2026-08-26T07:31:58.831375+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160712",
+    "title": "NVIDIA NemoClaw Flaw Lets Attackers Hijack AI Agents With One Website Visit",
+    "link": "https://cybersecuritynews.com/nvidia-nemoclaw-flaw/",
+    "published": "Wed, 26 Aug 2026 07:33:38 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical vulnerability in NVIDIA NemoClaw that could let attackers hijack an AI agent after a victim visits a malicious website. The issue, tracked as CVE-2026-65105, can expose the local Ollama model server used by NemoClaw and allow persistent po",
+    "created_at": "2026-08-26T08:01:56.568630+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160721",
+    "title": "28,000 Exposed Git Repositories Reveal API Keys, Bank Details and Employee Disciplinary Files",
+    "link": "https://cybersecuritynews.com/28000-exposed-git-repositories/",
+    "published": "Wed, 26 Aug 2026 07:49:10 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A routine development mistake has exposed thousands of software repositories. Researchers found 28,000 publicly reachable .git repositories containing credentials, financial information and internal employee records that could give criminals a direct",
+    "created_at": "2026-08-26T08:02:48.509987+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160745",
+    "title": "Google Chrome 152 Released With 327 Security Fixes, Including 10 Critical Vulnerabilities",
+    "link": "https://cybersecuritynews.com/chrome-152-released-with-327-security-fixes/",
+    "published": "Wed, 26 Aug 2026 07:50:36 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Google has released Chrome 152 for Windows, macOS, and Linux, delivering 327 security fixes and improvements. The update addresses 10 critical vulnerabilities, making it an important security release for individual users and enterprise environments. ",
+    "created_at": "2026-08-26T08:03:40.466291+00:00"
   }
 ]
