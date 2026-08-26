@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=157264",
-    "title": "Researchers Find 84 Hidden iOS Data Streams Tracking Apps, Locations and Messages",
-    "link": "https://cybersecuritynews.com/researchers-find-hidden-ios-data-streams/",
-    "published": "Mon, 27 Jul 2026 12:21:59 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Apple’s Biome framework is drawing fresh attention after researchers identified 84 data streams that can preserve detailed records of how an iPhone is used. The findings do not describe malware or an active intrusion. Instead, they show how built-in ",
-    "created_at": "2026-07-27T12:31:07.555291+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157284",
-    "title": "Microsoft Moves Enterprise Windows Activation From Software to Hardware Verification",
-    "link": "https://cybersecuritynews.com/windows-activation-hardware/",
-    "published": "Mon, 27 Jul 2026 12:24:41 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Microsoft is preparing to transition its enterprise Windows activation from a software-trust model to one based on verified hardware. The company announced KMS Hardware-Secured. A new Key Management Service capability that uses Trusted Platform Modul",
-    "created_at": "2026-07-27T12:31:09.460073+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=157279",
     "title": "Claude Opus 5 Finds Vulnerabilities but Remains Restricted in Generating Exploits",
     "link": "https://cybersecuritynews.com/claude-opus-5-finds-vulnerabilities/",
@@ -9025,5 +9007,23 @@
     "source": "The Hacker News",
     "summary": "The SOC we&#x27;ve always known was built around a model that guarantees most of the alert queue will never receive analyst review. There&#x27;s never time. In a traditional SOC, the typical progression follows a well-known pattern: an alert arrives;",
     "created_at": "2026-08-26T12:01:21.168423+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/",
+    "title": "Microsoft tests new privacy controls for Windows 11 desktop apps",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/",
+    "published": "Wed, 26 Aug 2026 08:06:28 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft has begun testing new privacy controls that will let Windows 11 users choose which desktop applications can access their camera, microphone, and precise location. [...]",
+    "created_at": "2026-08-26T12:31:07.866621+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160787",
+    "title": "Hackers Use Fake Claude Desktop App to Disable Defender and Install Remote Access Malware",
+    "link": "https://cybersecuritynews.com/hackers-use-fake-claude/",
+    "published": "Wed, 26 Aug 2026 12:15:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cybercriminals are using a counterfeit Claude desktop application to compromise Windows systems, disable key security checks, and install remote-access malware. The campaign turns a familiar AI software search into a route for credential theft and lo",
+    "created_at": "2026-08-26T12:31:10.298695+00:00"
   }
 ]
