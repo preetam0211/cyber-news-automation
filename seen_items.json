@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=157376",
-    "title": "Security Risk Advisors Named a Finalist in CRN’s 2026 Best of the Channel Awards",
-    "link": "https://cybersecuritynews.com/security-risk-advisors-named-a-finalist-in-crns-2026-best-of-the-channel-awards/",
-    "published": "Mon, 27 Jul 2026 14:56:04 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Philadelphia, Pennsylvania, July 27th, 2026, CyberNewswire Security Risk Advisors is proud to share that CRN, a brand of The Channel Company, has recognized Joe Cicero as a finalist in the second annual CRN Best of the Channel Awards in the Best Chan",
-    "created_at": "2026-07-27T15:01:16.320891+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/",
     "title": "Ernst & Young data breach claimed by ShinyHunters extortion gang",
     "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/",
@@ -8998,5 +8989,14 @@
     "source": "BleepingComputer",
     "summary": "The FBI has disrupted infrastructure associated with a technical &quot;quartermaster&quot; that provided reconnaissance, proxy management, and operational routing capabilities for Chinese cyber espionage activities. [...]",
     "created_at": "2026-08-26T14:31:15.453689+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/",
+    "title": "Hackers target Microsoft SharePoint RCE chain with PoC exploit",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/",
+    "published": "Wed, 26 Aug 2026 10:47:51 -0400",
+    "source": "BleepingComputer",
+    "summary": "Attackers are now targeting a chain of two Microsoft SharePoint vulnerabilities that can allow them to execute arbitrary code on unpatched servers, according to threat intelligence company Defused. [...]",
+    "created_at": "2026-08-26T15:04:26.868403+00:00"
   }
 ]
