@@ -8935,5 +8935,14 @@
     "source": "BleepingComputer",
     "summary": "A critical vulnerability chain in the popular Avada theme for WordPress can be exploited by an unauthenticated attacker to execute arbitrary PHP code on the server. [...]",
     "created_at": "2026-08-26T22:01:10.615869+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160807",
+    "title": "CISA Warns of Gitea Code Injection Vulnerability Exploited in Attacks",
+    "link": "https://cybersecuritynews.com/gitea-code-injection-vulnerability-exploited/",
+    "published": "Thu, 27 Aug 2026 02:29:59 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The Cybersecurity and Infrastructure Security Agency has added a newly disclosed Gitea vulnerability to its Known Exploited Vulnerabilities catalog, confirming active exploitation in the wild. The flaw, tracked as CVE-2026-60004, affects Gitea, a wid",
+    "created_at": "2026-08-27T02:31:25.031615+00:00"
   }
 ]
