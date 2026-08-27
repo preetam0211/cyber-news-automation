@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=157550",
-    "title": "Chrome Extension Monitors AI Conversations Across ChatGPT, Claude, Gemini, and Other Platforms",
-    "link": "https://cybersecuritynews.com/chrome-extension-monitors-ai-conversations/",
-    "published": "Tue, 28 Jul 2026 17:24:03 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A Chrome extension with roughly 100,000 installs is quietly harvesting every prompt and AI response typed across nine major artificial intelligence platforms. Despite its official listing and privacy policy explicitly claiming zero personal data coll",
-    "created_at": "2026-07-28T18:01:14.452965+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157560",
-    "title": "Top 10 Phishing Kits Used by Hackers to Launch Cyberattacks (July 20-26, 2026)",
-    "link": "https://cybersecuritynews.com/top-10-phishing-kits-used-by-hackers/",
-    "published": "Tue, 28 Jul 2026 17:40:32 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Global phishing-as-a-service (PhaaS) activity surged to 7,295 tracked uploads during the week of July 20-26, 2026, driven overwhelmingly by OAuth device-code flow abuse and adversary-in-the-middle (AiTM) kits targeting Microsoft 365 identities. Cyber",
-    "created_at": "2026-07-28T18:01:15.655773+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157559",
-    "title": "JetBrains Urging Customers to Patch Critical TeamCity Flaw that Enables OS Command Execution",
-    "link": "https://cybersecuritynews.com/jetbrains-patch-teamcity-flaw/",
-    "published": "Tue, 28 Jul 2026 17:46:13 +0000",
-    "source": "CybersecurityNews",
-    "summary": "JetBrains has urgently released security updates for a critical vulnerability in TeamCity On-Premises that could allow remote attackers to bypass authentication and execute arbitrary operating system commands. This vulnerability, tracked as CVE-2026-",
-    "created_at": "2026-07-28T18:01:16.348934+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
     "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
     "link": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
@@ -8971,5 +8944,41 @@
     "source": "BleepingComputer",
     "summary": "PaperCut is warning that hackers are actively exploiting a vulnerability in all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. [...]",
     "created_at": "2026-08-27T17:01:27.334531+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160919",
+    "title": "New Twitter Launches as Startup Claims Elon Musk’s X Abandoned the Twitter Name",
+    "link": "https://cybersecuritynews.com/new-twitter-launches/",
+    "published": "Thu, 27 Aug 2026 16:34:08 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A startup operating as Operation Bluebird, Inc. has launched early access to a new social media service on Twitter.now, positioning itself as a revival of the Twitter brand that Elon Musk’s X Corp. abandoned after its 2023 rebrand. The company says i",
+    "created_at": "2026-08-27T18:01:38.422079+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160896",
+    "title": "CISA Warns of Citrix NetScaler ADC and Gateway Vulnerability Exploited in Attacks",
+    "link": "https://cybersecuritynews.com/citrix-netscaler-adc-and-gateway-vulnerability-exploited/",
+    "published": "Thu, 27 Aug 2026 16:46:55 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency has added a critical Citrix NetScaler ADC and NetScaler Gateway security flaw, tracked as CVE-2026-8452, to its Known Exploited Vulnerabilities catalog after confirming exploitation in attacks",
+    "created_at": "2026-08-27T18:01:39.754361+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160920",
+    "title": "Cybercriminals Are Selling Corporate Executives’ Social Security Numbers for Just 25 Cents",
+    "link": "https://cybersecuritynews.com/executive-social-security-numbers/",
+    "published": "Thu, 27 Aug 2026 16:54:31 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Corporate executives’ most sensitive identity data is being sold on dark web marketplaces for as little as a quarter, according to new threat intelligence from Rapid7. Unlike stolen credit cards, which can be canceled within minutes, a compromised So",
+    "created_at": "2026-08-27T18:02:05.579014+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160947",
+    "title": "PaperCut NG/MF Vulnerability Actively Exploited in Attack – All Versions Impacted",
+    "link": "https://cybersecuritynews.com/papercut-ng-mf-vulnerability-actively-exploited/",
+    "published": "Thu, 27 Aug 2026 17:27:34 +0000",
+    "source": "CybersecurityNews",
+    "summary": "PaperCut has confirmed that hackers are actively exploiting an unpatched vulnerability in its widely used PaperCut NG and PaperCut MF print management software, prompting the company to rush out an emergency patch just hours after issuing its first w",
+    "created_at": "2026-08-27T18:02:06.916658+00:00"
   }
 ]
