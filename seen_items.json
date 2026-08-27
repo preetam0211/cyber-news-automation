@@ -8908,5 +8908,50 @@
     "source": "BleepingComputer",
     "summary": "Threat research gives security teams insight into how attackers operate, while MDR turns that intelligence into faster detection and response. ESET explains how combining threat intelligence, continuous monitoring, and human expertise can help SMBs s",
     "created_at": "2026-08-27T14:31:14.685000+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160899",
+    "title": "Hackers Exploit ownCloud and WordPress Flaws to Steal Philippine Nuclear and Naval Data",
+    "link": "https://cybersecuritynews.com/hackers-exploit-owncloud/",
+    "published": "Thu, 27 Aug 2026 13:35:49 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A suspected Chinese-speaking operator exploited known ownCloud and WordPress weaknesses to collect sensitive information from a Philippine nuclear research body and a marine engineering company that serves the Philippine Navy. The intrusion shows how",
+    "created_at": "2026-08-27T15:01:10.605178+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html",
+    "title": "Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers",
+    "link": "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html",
+    "published": "Thu, 27 Aug 2026 19:09:56 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have disclosed details of a vulnerability in Amazon Kiro, an artificial intelligence (AI)-powered, agentic integrated development environment (IDE), that could facilitate data exfiltration via prompt injection and Kiro Power",
+    "created_at": "2026-08-27T15:01:12.758219+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160880",
+    "title": "Multiple TeamViewer Vulnerabilities Enable Remote Code Execution Attacks",
+    "link": "https://cybersecuritynews.com/multiple-teamviewer-vulnerability/",
+    "published": "Thu, 27 Aug 2026 14:00:56 +0000",
+    "source": "CybersecurityNews",
+    "summary": "TeamViewer patched high-severity CVE-2026-16444, allowing authenticated remote-session attackers to write files to unintended locations and potentially execute code with user privileges. The issue is detailed in TeamViewer security bulletin TV-2026-1",
+    "created_at": "2026-08-27T15:01:15.051119+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160902",
+    "title": "AWS Shows How Hackers Can Turn Stolen Cloud Credentials Into Full-Scale Attacks",
+    "link": "https://cybersecuritynews.com/aws-shows-how-hackers/",
+    "published": "Thu, 27 Aug 2026 14:02:20 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Stolen cloud credentials can turn an incident into a wider breach. An attacker who gets a valid AWS key or session can enter as an approved user and move toward sensitive systems. It can begin with an unfamiliar address, expand into cloud checks, and",
+    "created_at": "2026-08-27T15:01:17.959183+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160910",
+    "title": "Two Australians Charged Over TeamPCP Supply-Chain Attacks That Hit 1,000+ Organizations",
+    "link": "https://cybersecuritynews.com/two-australians-teampcp-supply-chain/",
+    "published": "Thu, 27 Aug 2026 14:15:44 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Two Western Australian men have been charged over alleged TeamPCP supply-chain attacks that police say planted malicious open-source code and reached more than 1,000 organizations worldwide. The Australian Federal Police charged the pair on 26 August",
+    "created_at": "2026-08-27T15:01:20.350151+00:00"
   }
 ]
