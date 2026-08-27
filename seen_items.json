@@ -8944,5 +8944,14 @@
     "source": "CybersecurityNews",
     "summary": "PaperCut has confirmed that hackers are actively exploiting an unpatched vulnerability in its widely used PaperCut NG and PaperCut MF print management software, prompting the company to rush out an emergency patch just hours after issuing its first w",
     "created_at": "2026-08-27T18:02:06.916658+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
+    "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
+    "link": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
+    "published": "Fri, 28 Aug 2026 00:06:19 +0530",
+    "source": "The Hacker News",
+    "summary": "OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior as early as late May.\n\nThe incident, the company s",
+    "created_at": "2026-08-27T20:30:59.346916+00:00"
   }
 ]
