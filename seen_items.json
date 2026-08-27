@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=155769",
-    "title": "How DCSync Attack Helps Hackers Steal Password Hashes Silently from Active Directory",
-    "link": "https://cybersecuritynews.com/dcsync-attack-active-directory-attack/",
-    "published": "Tue, 28 Jul 2026 04:48:19 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Active Directory is the beating heart of identity in most enterprises, and its single most valuable secret is the password hash of every user, service, and machine account. A DCSync attack lets an adversary walk out with those hashes without ever log",
-    "created_at": "2026-07-28T05:01:10.944542+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html",
     "title": "Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw",
     "link": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html",
