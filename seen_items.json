@@ -8926,5 +8926,14 @@
     "source": "CybersecurityNews",
     "summary": "AnonyMousKIT is turning stolen iPhones into an entry point for account theft. The phishing-as-a-service platform targets people already searching for a lost device, then uses convincing recovery messages to capture the Apple ID credentials needed to ",
     "created_at": "2026-08-27T07:01:35.671172+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html",
+    "title": "CISA Adds Six Exploited Flaws to KEV, Including NetScaler, Linux, and SQL Server Bugs",
+    "link": "https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html",
+    "published": "Thu, 27 Aug 2026 12:35:28 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added six flaws to its Known Exploited Vulnerabilities (KEV) catalog, including a high-severity security vulnerability impacting Citrix NetScaler ADC and NetScaler Gateway,",
+    "created_at": "2026-08-27T07:31:48.788292+00:00"
   }
 ]
