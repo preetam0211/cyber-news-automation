@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
-    "title": "CISA shares advice on isolating vital systems during cyberattacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
-    "published": "Tue, 28 Jul 2026 14:41:04 -0400",
-    "source": "BleepingComputer",
-    "summary": "The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or other major disruptions. [...]",
-    "created_at": "2026-07-28T19:01:14.253429+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
     "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
     "link": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
