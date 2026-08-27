@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=157592",
-    "title": "Nginx Buffer Overflow Vulnerability Allows Attackers to Execute Arbitrary Code – PoC Released",
-    "link": "https://cybersecuritynews.com/nginx-buffer-overflow-vulnerability-2/",
-    "published": "Tue, 28 Jul 2026 16:46:41 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A high-severity heap buffer overflow in NGINX Plus and NGINX Open Source can let unauthenticated attackers crash worker processes and, under certain conditions, run arbitrary code. Tracked as CVE-2026-42533, the flaw affects configurations that use r",
-    "created_at": "2026-07-28T17:01:06.309115+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=157550",
     "title": "Chrome Extension Monitors AI Conversations Across ChatGPT, Claude, Gemini, and Other Platforms",
     "link": "https://cybersecuritynews.com/chrome-extension-monitors-ai-conversations/",
@@ -8953,5 +8944,32 @@
     "source": "BleepingComputer",
     "summary": "The Manchester Airports Group (MAG) disclosed that hackers breached its systems and stole customer data, including Wi-Fi sign-ups from Manchester, Stansted, and East Midlands airports. [...]",
     "created_at": "2026-08-27T16:31:39.543008+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html",
+    "title": "ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories",
+    "link": "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html",
+    "published": "Thu, 27 Aug 2026 20:42:16 +0530",
+    "source": "The Hacker News",
+    "summary": "A fake login page. A fake security scan. A fake productivity app. Apparently, pretending to be useful is still one of the easier ways into a machine.\n\nThe rest of the week gets stranger: botnets borrowing AI, command traffic hiding in public infrastr",
+    "created_at": "2026-08-27T17:01:22.333899+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html",
+    "title": "Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE",
+    "link": "https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html",
+    "published": "Thu, 27 Aug 2026 20:43:00 +0530",
+    "source": "The Hacker News",
+    "summary": "Credit: Hacktron\nVercel has released security patches for two critical-severity vulnerabilities in the Next.js web framework, both of which allow unauthenticated remote code execution, one exploitable via specially crafted AVIF image files and the ot",
+    "created_at": "2026-08-27T17:01:24.381190+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/",
+    "title": "PaperCut warns of NG, MF flaw exploited in zero-day attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/",
+    "published": "Thu, 27 Aug 2026 12:31:53 -0400",
+    "source": "BleepingComputer",
+    "summary": "PaperCut is warning that hackers are actively exploiting a vulnerability in all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. [...]",
+    "created_at": "2026-08-27T17:01:27.334531+00:00"
   }
 ]
