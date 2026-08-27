@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=157506",
-    "title": "Hackers Are Using Fake Crypto Wallet Screens to Steal Recovery Phrases and Browser Sessions",
-    "link": "https://cybersecuritynews.com/hackers-are-using-fake-crypto-wallet-screens/",
-    "published": "Tue, 28 Jul 2026 11:45:29 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Criminals are using convincing cryptocurrency wallet screens and browser extensions to steal recovery phrases, login data, and active browser sessions. The activity is linked to a wider CastleLoader campaign that gives attackers several ways to gain ",
-    "created_at": "2026-07-28T12:01:09.633778+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
-    "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
-    "published": "Tue, 28 Jul 2026 08:10:23 -0400",
-    "source": "BleepingComputer",
-    "summary": "More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management Controller (BMC) interface. [...]",
-    "created_at": "2026-07-28T12:30:59.946727+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html",
     "title": "Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays",
     "link": "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html",
@@ -8926,5 +8908,23 @@
     "source": "CybersecurityNews",
     "summary": "Aurora ransomware has been tied to a Russian-speaking affiliate that used an AI coding assistant while targeting more than 20 organisations. A wrongly exposed server gave investigators a detailed view of the operator’s activity, from intrusion to pay",
     "created_at": "2026-08-27T11:31:17.834174+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/webinar-how-google-workspace-breaches-happen-and-what-to-do-next/",
+    "title": "Webinar: How Google Workspace breaches happen and what to do next",
+    "link": "https://www.bleepingcomputer.com/news/security/webinar-how-google-workspace-breaches-happen-and-what-to-do-next/",
+    "published": "Thu, 27 Aug 2026 08:16:24 -0400",
+    "source": "BleepingComputer",
+    "summary": "Google Workspace breaches can begin with social engineering or forgotten third-party integrations rather than sophisticated exploits. This webinar examines real-world breaches, what happens during the critical first hours, and the security controls t",
+    "created_at": "2026-08-27T12:31:04.837563+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-windows-11-crashes-gaming-issues/",
+    "title": "Microsoft rolls out fix for Windows 11 crashes, gaming issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-windows-11-crashes-gaming-issues/",
+    "published": "Thu, 27 Aug 2026 08:16:32 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft has started rolling out a permanent fix for a known issue that causes system crashes and gaming issues on Windows 11 devices. [...]",
+    "created_at": "2026-08-27T12:31:54.445674+00:00"
   }
 ]
