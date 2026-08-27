@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=157470",
-    "title": "LegacyHive Exploitation Chain Bypasses Windows Security Even With July 2026 Patches Installed",
-    "link": "https://cybersecuritynews.com/legacyhive-exploitation-chain/",
-    "published": "Tue, 28 Jul 2026 08:31:48 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A newly disclosed exploit dubbed LegacyHive is raising alarms across the cybersecurity community after researchers confirmed it executes successfully on fully patched Windows systems running the July 2026 Patch Tuesday updates. Unlike conventional ex",
-    "created_at": "2026-07-28T09:01:15.046781+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157442",
-    "title": "libssh2 Vulnerabilities Allows a Malicious SSH Server to Corrupt Client Memory",
-    "link": "https://cybersecuritynews.com/libssh2-vulnerabilities/",
-    "published": "Tue, 28 Jul 2026 08:41:12 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A set of high-severity vulnerabilities in libssh2 could expose SSH and SFTP client applications to memory corruption, crashes, and potential code execution when connecting to a malicious server. libssh2 is a widely used C library that provides suppor",
-    "created_at": "2026-07-28T09:01:16.890772+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
     "title": "Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit",
     "link": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
@@ -8881,5 +8863,14 @@
     "source": "BleepingComputer",
     "summary": "ATF, the regulatory agency that enforces federal laws governing firearms and explosives in the United States, has confirmed that one of its systems was compromised after breach claims made by the Qilin ransomware gang. [...]",
     "created_at": "2026-08-27T08:31:54.171994+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html",
+    "title": "New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access",
+    "link": "https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html",
+    "published": "Thu, 27 Aug 2026 13:43:11 +0530",
+    "source": "The Hacker News",
+    "summary": "Academic researchers have disclosed a Rowhammer attack impacting NVIDIA workstation GPUs with GDDR6 memory that defeats error correction codes (ECC), the mitigation NVIDIA recommends against GPU Rowhammer, and enables denial-of-service (DoS) and priv",
+    "created_at": "2026-08-27T09:04:49.455326+00:00"
   }
 ]
