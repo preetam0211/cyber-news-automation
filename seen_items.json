@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=157484",
-    "title": "New Tengu Mirai Botnet Reboots Your IoT Device When You Try to Kill It",
-    "link": "https://cybersecuritynews.com/new-tengu-mirai-botnet/",
-    "published": "Tue, 28 Jul 2026 09:37:11 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Tengu, a newly observed Mirai-based botnet, is making infected IoT devices far harder to clean. It targets internet-facing embedded Linux systems, particularly devices that leave Telnet or other remote administration services exposed. Once installed,",
-    "created_at": "2026-07-28T10:01:11.837446+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157496",
-    "title": "Researchers Say a ‘Ghost’ Chinese Company Built the Network Hiding PLA Cyberattacks",
-    "link": "https://cybersecuritynews.com/ghost-chinese-company-built-the-network-hiding-pla-cyberattacks/",
-    "published": "Tue, 28 Jul 2026 10:10:19 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A little-known Chinese company may have helped build the hidden network used to support military-linked cyber operations around the world. Researchers say Guangdong Chanming, a firm with no obvious public-facing business, appears connected to tools d",
-    "created_at": "2026-07-28T10:31:11.414025+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=157491",
     "title": "AI-Assisted Research Uncovers Linux Kernel Zero-Day Enabling Root Privilege Escalation",
     "link": "https://cybersecuritynews.com/ai-assisted-linux-kernel-zero-day/",
@@ -8908,5 +8890,23 @@
     "source": "CybersecurityNews",
     "summary": "Menlo Park, California, USA, August 27th, 2026, CyberNewswire AccuKnox today announced the launch of AgentZ, a platform for building, running, and governing AI agents across teams and workflows. AgentZ brings the agent, its execution environment, too",
     "created_at": "2026-08-27T10:01:06.232375+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
+    "title": "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
+    "link": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
+    "published": "Thu, 27 Aug 2026 15:03:38 +0530",
+    "source": "The Hacker News",
+    "summary": "Threat actors linked by Arctic Wolf to Dark Caracal with medium confidence deployed a previously undocumented Go-based malware framework, GoCaracal, during a June 2026 intrusion at an unnamed communications organization in Venezuela.\n\nGoCaracal provi",
+    "created_at": "2026-08-27T10:31:35.024718+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160849",
+    "title": "Veeam Backup & Replication Flaw Exposes Guest OS Credentials in Cleartext Logs",
+    "link": "https://cybersecuritynews.com/veeam-backup-replication-flaw-exposes/",
+    "published": "Thu, 27 Aug 2026 10:18:20 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Veeam has disclosed a critical security vulnerability in Veeam ONE 13 that could allow an unauthenticated remote attacker to coerce SMB authentication from the product’s service account. Tracked as CVE-2026-65641, the issue carries a CVSS v4.0 score ",
+    "created_at": "2026-08-27T10:32:01.961501+00:00"
   }
 ]
