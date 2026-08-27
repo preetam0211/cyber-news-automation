@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
-    "title": "Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit",
-    "link": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
-    "published": "Tue, 28 Jul 2026 13:34:44 +0530",
-    "source": "The Hacker News",
-    "summary": "STAR Labs has published a Linux kernel exploit that turns an ordinary local user into root on the CentOS Stream 9 build it targeted. The flaw, tracked as CVE-2026-53264 (CVSS score: 7.8), is a use-after-free race in the kernel&#x27;s network traffic-",
-    "created_at": "2026-07-28T09:31:06.363133+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
-    "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
-    "link": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
-    "published": "Tue, 28 Jul 2026 13:41:22 +0530",
-    "source": "The Hacker News",
-    "summary": "JetBrains is urging customers of on-premise versions of TeamCity to update to the latest version following the discovery of a critical security issue that could result in arbitrary code execution.\n\nThe vulnerability, assigned CVE-2026-63077 (CVSS sco",
-    "created_at": "2026-07-28T09:31:08.163249+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/",
-    "title": "Data breach at medical billing firm MCBS affects 1.26 million people",
-    "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/",
-    "published": "Tue, 28 Jul 2026 05:10:03 -0400",
-    "source": "BleepingComputer",
-    "summary": "Healthcare billing company Medical Computer Business Services (MCBS) has disclosed that a 2025 network breach exposed the sensitive information of more than 1.2 million people. [...]",
-    "created_at": "2026-07-28T09:31:09.957475+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=157484",
     "title": "New Tengu Mirai Botnet Reboots Your IoT Device When You Try to Kill It",
     "link": "https://cybersecuritynews.com/new-tengu-mirai-botnet/",
@@ -8872,5 +8845,59 @@
     "source": "The Hacker News",
     "summary": "Academic researchers have disclosed a Rowhammer attack impacting NVIDIA workstation GPUs with GDDR6 memory that defeats error correction codes (ECC), the mitigation NVIDIA recommends against GPU Rowhammer, and enables denial-of-service (DoS) and priv",
     "created_at": "2026-08-27T09:04:49.455326+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160833",
+    "title": "OpenAI AI Agents Chain Zero-Days to Compromise Hugging Face and Internal Systems",
+    "link": "https://cybersecuritynews.com/openai-ai-agents-chain-zero-days/",
+    "published": "Thu, 27 Aug 2026 08:39:25 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OpenAI has disclosed a major AI safety incident in which internal research agents bypassed sandbox restrictions, gained internet access, and compromised portions of Hugging Face and OpenAI research infrastructure during cybersecurity evaluations in J",
+    "created_at": "2026-08-27T09:31:54.596711+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160837",
+    "title": "New Apache Log4j2 Flaw Lets Attackers Bypass Security Checks and Execute Remote Code",
+    "link": "https://cybersecuritynews.com/new-apache-log4j2-flaw/",
+    "published": "Thu, 27 Aug 2026 09:03:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly disclosed Apache Log4j2 issue could allow attackers to bypass a deserialization allowlist and execute code remotely in narrowly defined deployments. The issue, tracked as Log4j2 #4255, affects applications that accept serialized Log4j events ",
+    "created_at": "2026-08-27T09:32:38.398727+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160840",
+    "title": "FBI Shuts Down China-Linked Hacking Platforms Used to Target NASA and U.S. Networks",
+    "link": "https://cybersecuritynews.com/fbi-shuts-down-china-linked-hacking-platforms/",
+    "published": "Thu, 27 Aug 2026 09:15:38 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The U.S. Department of Justice and FBI have seized domains associated with two China-linked hacking platforms, QScan and QTRouter, allegedly used to target NASA, federal agencies, critical infrastructure, and sensitive U.S. networks. Court documents ",
+    "created_at": "2026-08-27T09:33:30.365479+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploiting-citrix-netscaler-rce-flaw-in-attacks/",
+    "title": "CISA orders feds to patch Citrix NetScaler RCE flaw by Saturday",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploiting-citrix-netscaler-rce-flaw-in-attacks/",
+    "published": "Thu, 27 Aug 2026 05:16:50 -0400",
+    "source": "BleepingComputer",
+    "summary": "CISA has ordered U.S. government agencies to patch their Citrix NetScaler appliances against an actively exploited remote code execution vulnerability by Saturday. [...]",
+    "created_at": "2026-08-27T09:34:22.564636+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160861",
+    "title": "Russian Hackers Use Fake Google Drive and Diplomatic Lures to Steal Online Account",
+    "link": "https://cybersecuritynews.com/hackers-use-fake-google-drive/",
+    "published": "Thu, 27 Aug 2026 09:17:29 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Russian-linked operators are using fake cloud-storage pages and diplomatic themes to trick targets into giving away access to online accounts. The following article body is 650 words, excluding the IoC table. Russian cyber espionage campaigns are usi",
+    "created_at": "2026-08-27T09:34:56.455313+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160803",
+    "title": "Nutex Health Data Breach – Hackers Gained Access to Network and Exfiltrated Data",
+    "link": "https://cybersecuritynews.com/nutex-health-data-breach/",
+    "published": "Thu, 27 Aug 2026 09:21:34 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Nutex Health has disclosed a cybersecurity incident involving unauthorized activity on its computer network, with preliminary findings indicating that an unknown third party accessed and exfiltrated information stored on company servers. The Houston,",
+    "created_at": "2026-08-27T09:35:47.197703+00:00"
   }
 ]
