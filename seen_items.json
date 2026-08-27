@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
-    "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
-    "link": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
-    "published": "Tue, 28 Jul 2026 14:08:50 -0400",
-    "source": "BleepingComputer",
-    "summary": "A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]",
-    "created_at": "2026-07-28T18:31:05.240022+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157623",
-    "title": "Claude Mythos Preview Discovers Cryptographic Weaknesses That Human Experts Missed for Years",
-    "link": "https://cybersecuritynews.com/claude-mythos-cryptographic-weaknesses/",
-    "published": "Tue, 28 Jul 2026 18:24:07 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Anthropic researchers using Claude Mythos Preview have uncovered mathematical flaws in major cryptographic algorithms that human experts failed to spot for years. The AI found improved attacks against HAWK, a post-quantum digital signature scheme, an",
-    "created_at": "2026-07-28T18:31:05.949096+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
     "title": "CISA shares advice on isolating vital systems during cyberattacks",
     "link": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
