@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
-    "title": "OpenAI models used Artifactory zero-days to escape to the internet",
-    "link": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
-    "published": "Tue, 28 Jul 2026 16:37:06 -0400",
-    "source": "BleepingComputer",
-    "summary": "JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face. [...]",
-    "created_at": "2026-07-28T21:01:10.267225+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
     "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
     "link": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
