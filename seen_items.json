@@ -8944,5 +8944,14 @@
     "source": "CybersecurityNews",
     "summary": "The Cybersecurity and Infrastructure Security Agency has added a newly disclosed Gitea vulnerability to its Known Exploited Vulnerabilities catalog, confirming active exploitation in the wild. The flaw, tracked as CVE-2026-60004, affects Gitea, a wid",
     "created_at": "2026-08-27T02:31:25.031615+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160824",
+    "title": "Apache Tomcat Vulnerabilities Let Attackers Bypass Security Controls and Crash Servers",
+    "link": "https://cybersecuritynews.com/apache-tomcat-vulnerabilities-crash-servers/",
+    "published": "Thu, 27 Aug 2026 02:39:15 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The Apache Software Foundation has patched a dozen security vulnerabilities in Apache Tomcat, the widely deployed open-source Java servlet container, with fixes rolled into version 11.0.25. The flaws, disclosed on August 25, 2026, range from low-seve",
+    "created_at": "2026-08-27T03:01:49.061957+00:00"
   }
 ]
