@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html",
-    "title": "Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays",
-    "link": "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html",
-    "published": "Tue, 28 Jul 2026 17:25:20 +0530",
-    "source": "The Hacker News",
-    "summary": "The Iranian state-backed hacking group tracked as Nimbus Manticore (aka GalaxyGato, Mirage Kitten, Smoke Sandstorm, Subtle Snail, and UNC1549) has been attributed to a fresh set of attacks targeting entities across the Middle East, Africa, and South ",
-    "created_at": "2026-07-28T13:01:15.451521+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157521",
-    "title": "Dismantled Kratos Phishing Kits Acting as Blueprint for Others to Attack Microsoft 365 Users",
-    "link": "https://cybersecuritynews.com/dismantled-kratos-phishing-kits/",
-    "published": "Tue, 28 Jul 2026 12:42:21 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Kratos is a phishing service built to steal Microsoft 365 credentials at scale. It evolved from the Sneaky2FA kit and gave affiliates ready-made login pages, hosting options, and evasion features that made fraudulent sign-ins harder to detect. The op",
-    "created_at": "2026-07-28T13:01:17.287834+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=157502",
     "title": "An SOC Story of Why Fast Answers Beat Perfect Answers in Cyber Incident Response",
     "link": "https://cybersecuritynews.com/an-soc-story-why-fast-answers-beat-perfect-answers-in-cyber-incident-response/",
@@ -8926,5 +8908,41 @@
     "source": "BleepingComputer",
     "summary": "Microsoft has started rolling out a permanent fix for a known issue that causes system crashes and gaming issues on Windows 11 devices. [...]",
     "created_at": "2026-08-27T12:31:54.445674+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html",
+    "title": "What the Data Says About AI in Security Operations in 2026",
+    "link": "https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html",
+    "published": "Thu, 27 Aug 2026 17:00:00 +0530",
+    "source": "The Hacker News",
+    "summary": "AI is officially mainstream in security operations. According to Prophet Security&#x27;s State of AI in Security Operations 2026 report (produced from ViB’s survey of 250+ cybersecurity pros), 40% of security teams now use AI daily. Another 56% are c",
+    "created_at": "2026-08-27T13:01:16.456882+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html",
+    "title": "Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks",
+    "link": "https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html",
+    "published": "Thu, 27 Aug 2026 17:26:26 +0530",
+    "source": "The Hacker News",
+    "summary": "The Australian Federal Police (AFP) has charged two Western Australian men with a combined total of 14 offences over their alleged role in TeamPCP, the cybercrime group behind the March 2026 compromise of the open-source security scanners Trivy and C",
+    "created_at": "2026-08-27T13:01:18.462645+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+    "title": "Learn How to Build Security Operations Ready for AI-Powered Attacks",
+    "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+    "published": "Thu, 27 Aug 2026 17:26:30 +0530",
+    "source": "The Hacker News",
+    "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act.\n\nAdvanced AI models can now help attackers discover vulnerabilities, generate exploit code, and move through we",
+    "created_at": "2026-08-27T13:01:20.480944+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160892",
+    "title": "Hackers Exploit AI Infrastructure to Steal API Keys, Gain Persistence and Mine Cryptocurrency",
+    "link": "https://cybersecuritynews.com/hackers-exploit-ai-infrastructure/",
+    "published": "Thu, 27 Aug 2026 12:55:39 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are increasingly turning AI platforms into a doorway to valuable corporate systems. New Microsoft research shows that exposed AI gateways, retrieval tools, and workflow services can give intruders a path to provider credentials, databases, co",
+    "created_at": "2026-08-27T13:01:22.540753+00:00"
   }
 ]
