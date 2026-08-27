@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=157502",
-    "title": "An SOC Story of Why Fast Answers Beat Perfect Answers in Cyber Incident Response",
-    "link": "https://cybersecuritynews.com/an-soc-story-why-fast-answers-beat-perfect-answers-in-cyber-incident-response/",
-    "published": "Tue, 28 Jul 2026 13:01:23 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A Formula 1 pit crew doesn’t wait until every sensor, camera, and engineer agrees that a tire needs changing. They have a few seconds to make a decision using the best evidence available. Wait for perfect certainty, and the race is already lost. Secu",
-    "created_at": "2026-07-28T13:31:10.720459+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157517",
-    "title": "Origin Confirms Data Breach – Hackers Accessed 900,000 Customers’ Data",
-    "link": "https://cybersecuritynews.com/origin-confirms-data-breach/",
-    "published": "Tue, 28 Jul 2026 13:01:41 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Origin Energy, an Australian energy provider, has confirmed that unauthorized access to customer information has affected approximately 900,000 current and former customers. The company has completed its initial review of the data security incident, ",
-    "created_at": "2026-07-28T13:31:12.494960+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157525",
-    "title": "Hackers Exploiting FastJson RCE 0-Day in the Wild to Attack US-based Organizations",
-    "link": "https://cybersecuritynews.com/hackers-exploiting-fastjson-rce-0-day/",
-    "published": "Tue, 28 Jul 2026 13:10:52 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A critical vulnerability in FastJson, identified as CVE-2026-16723, is being exploited against organizations in the United States, putting Java applications that process untrusted JSON at immediate risk. This flaw has a CVSS severity score of 9.0 and",
-    "created_at": "2026-07-28T13:31:14.216239+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157533",
-    "title": "Fake Claude Code Install Guide Uses Google Ads to Deliver MacSync Infostealer",
-    "link": "https://cybersecuritynews.com/fake-claude-code-install-guide/",
-    "published": "Tue, 28 Jul 2026 13:23:35 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Fake Google Ads are being used to push a convincing Claude Code installation guide that delivers the MacSync infostealer to macOS users. The campaign turns an ordinary developer search into a path for credential theft and wider account compromise. Th",
-    "created_at": "2026-07-28T13:31:15.945972+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
     "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
     "link": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
@@ -8944,5 +8908,14 @@
     "source": "CybersecurityNews",
     "summary": "Hackers are increasingly turning AI platforms into a doorway to valuable corporate systems. New Microsoft research shows that exposed AI gateways, retrieval tools, and workflow services can give intruders a path to provider credentials, databases, co",
     "created_at": "2026-08-27T13:01:22.540753+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/",
+    "title": "Australia arrests alleged TeamPCP hackers behind supply-chain attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/",
+    "published": "Thu, 27 Aug 2026 09:31:13 -0400",
+    "source": "BleepingComputer",
+    "summary": "Australian authorities have arrested and charged two young men accused of belonging to TeamPCP, a hacking group linked to a string of far-reaching developer supply chain attacks. [...]",
+    "created_at": "2026-08-27T14:00:59.585524+00:00"
   }
 ]
