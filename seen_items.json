@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=157491",
-    "title": "AI-Assisted Research Uncovers Linux Kernel Zero-Day Enabling Root Privilege Escalation",
-    "link": "https://cybersecuritynews.com/ai-assisted-linux-kernel-zero-day/",
-    "published": "Tue, 28 Jul 2026 10:41:14 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A serious Linux kernel zero-day vulnerability capable of local privilege escalation (LPE) has been uncovered by security researchers, underscoring both the growing role of artificial intelligence in vulnerability research and the persistent security ",
-    "created_at": "2026-07-28T11:31:06.506549+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=157506",
     "title": "Hackers Are Using Fake Crypto Wallet Screens to Steal Recovery Phrases and Browser Sessions",
     "link": "https://cybersecuritynews.com/hackers-are-using-fake-crypto-wallet-screens/",
@@ -8908,5 +8899,32 @@
     "source": "CybersecurityNews",
     "summary": "Veeam has disclosed a critical security vulnerability in Veeam ONE 13 that could allow an unauthenticated remote attacker to coerce SMB authentication from the product’s service account. Tracked as CVE-2026-65641, the issue carries a CVSS v4.0 score ",
     "created_at": "2026-08-27T10:32:01.961501+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html",
+    "title": "Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools",
+    "link": "https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html",
+    "published": "Thu, 27 Aug 2026 16:30:57 +0530",
+    "source": "The Hacker News",
+    "summary": "Individuals and organizations in Cambodia have emerged as the target of a new campaign that delivers an open-source remote access trojan (RAT) called Spark RAT.\n\n&quot;The samples employ diverse lure themes, suggesting an effort to appeal to a broad ",
+    "created_at": "2026-08-27T11:31:13.792727+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/",
+    "title": "Carhartt data breach exposes information of 12.9 million accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/",
+    "published": "Thu, 27 Aug 2026 07:10:04 -0400",
+    "source": "BleepingComputer",
+    "summary": "The ShinyHunters extortion group has published sensitive data from nearly 13 million accounts stolen from clothing retailer giant Carhartt earlier this month, according to data breach notification service Have I Been Pwned. [...]",
+    "created_at": "2026-08-27T11:31:15.817663+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160872",
+    "title": "Ransomware Hacker Uses AI to Plan Cyberattacks Against More Than 20 Organizations",
+    "link": "https://cybersecuritynews.com/ransomware-hacker-uses-ai/",
+    "published": "Thu, 27 Aug 2026 11:13:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Aurora ransomware has been tied to a Russian-speaking affiliate that used an AI coding assistant while targeting more than 20 organisations. A wrongly exposed server gave investigators a detailed view of the operator’s activity, from intrusion to pay",
+    "created_at": "2026-08-27T11:31:17.834174+00:00"
   }
 ]
