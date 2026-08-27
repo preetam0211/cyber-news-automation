@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
-    "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
-    "link": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
-    "published": "Tue, 28 Jul 2026 17:17:39 -0400",
-    "source": "BleepingComputer",
-    "summary": "CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack. [...]",
-    "created_at": "2026-07-28T21:31:01.111866+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=157626",
     "title": "First-Ever Fully Autonomous AI Cyberattack Exploits 0-Day Flaws to Infiltrate Hugging Face",
     "link": "https://cybersecuritynews.com/first-ever-ai-agent-cyberattack/",
@@ -8944,5 +8935,14 @@
     "source": "The Hacker News",
     "summary": "OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior as early as late May.\n\nThe incident, the company s",
     "created_at": "2026-08-27T20:30:59.346916+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
+    "title": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
+    "link": "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
+    "published": "Thu, 27 Aug 2026 17:38:53 -0400",
+    "source": "BleepingComputer",
+    "summary": "New details about the July attack on Hugging Face reveal that hundreds of AI agents driven by OpenAI&#x27;s internal IM1 model coordinated the compromise through an unauthorized message board. [...]",
+    "created_at": "2026-08-27T22:01:46.176430+00:00"
   }
 ]
