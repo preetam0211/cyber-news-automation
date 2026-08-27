@@ -8935,5 +8935,14 @@
     "source": "The Hacker News",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added six flaws to its Known Exploited Vulnerabilities (KEV) catalog, including a high-severity security vulnerability impacting Citrix NetScaler ADC and NetScaler Gateway,",
     "created_at": "2026-08-27T07:31:48.788292+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160858",
+    "title": "New Windows Backdoor Hides Inside ESET Agent and Wakes Up With a Secret Network Packet",
+    "link": "https://cybersecuritynews.com/new-windows-backdoor/",
+    "published": "Thu, 27 Aug 2026 07:51:19 +0000",
+    "source": "CybersecurityNews",
+    "summary": "SLEEPWALKER is a Windows backdoor built to stay quiet until an operator sends a specially crafted network packet. Rather than calling home to a fixed command server, it hides inside a trusted management process and waits, creating little network acti",
+    "created_at": "2026-08-27T08:01:28.252805+00:00"
   }
 ]
