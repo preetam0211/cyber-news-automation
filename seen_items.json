@@ -8917,5 +8917,14 @@
     "source": "CybersecurityNews",
     "summary": "WatchGuard has disclosed two critical vulnerabilities in its Windows-based WatchGuard Agent that could allow unauthenticated attackers to execute arbitrary code with elevated privileges. The flaws, tracked as CVE-2026-57910 and CVE-2026-57909, affect",
     "created_at": "2026-08-27T04:31:55.350570+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160831",
+    "title": "AI-Powered AnonyMousKIT PhaaS Steals Apple IDs and 2FA Codes to Unlock Stolen iPhones",
+    "link": "https://cybersecuritynews.com/ai-powered-anonymouskit-phaas/",
+    "published": "Thu, 27 Aug 2026 06:43:05 +0000",
+    "source": "CybersecurityNews",
+    "summary": "AnonyMousKIT is turning stolen iPhones into an entry point for account theft. The phishing-as-a-service platform targets people already searching for a lost device, then uses convincing recovery messages to capture the Apple ID credentials needed to ",
+    "created_at": "2026-08-27T07:01:35.671172+00:00"
   }
 ]
