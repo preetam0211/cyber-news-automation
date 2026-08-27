@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=157411",
-    "title": "OpenAI CEO Sam Altman Claims AI Has Reached Singularity, Where Systems Improve by Themselves",
-    "link": "https://cybersecuritynews.com/ai-has-reached-singularity/",
-    "published": "Tue, 28 Jul 2026 02:20:08 +0000",
-    "source": "CybersecurityNews",
-    "summary": "OpenAI CEO Sam Altman has declared that artificial intelligence has entered the long-theorized singularity, a pivotal stage where AI systems begin improving themselves at an accelerating pace beyond traditional human control. Speaking on the “Relentl",
-    "created_at": "2026-07-28T04:31:09.749872+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157335",
-    "title": "Europol Targets the Online Network Turning Teen Hackers Into Extortionists and Violent Offenders",
-    "link": "https://cybersecuritynews.com/europol-targets-online-network-teen-hackers/",
-    "published": "Tue, 28 Jul 2026 03:53:24 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Europol is enhancing its response to “The Com,” a dangerous online ecosystem that allegedly recruits and manipulates minors into cyberattacks, extortion schemes, sexual exploitation, and violent offenses. This initiative, called Project COMPASS, brin",
-    "created_at": "2026-07-28T04:31:11.467123+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=155769",
     "title": "How DCSync Attack Helps Hackers Steal Password Hashes Silently from Active Directory",
     "link": "https://cybersecuritynews.com/dcsync-attack-active-directory-attack/",
@@ -8953,5 +8935,23 @@
     "source": "CybersecurityNews",
     "summary": "The Apache Software Foundation has patched a dozen security vulnerabilities in Apache Tomcat, the widely deployed open-source Java servlet container, with fixes rolled into version 11.0.25. The flaws, disclosed on August 25, 2026, range from low-seve",
     "created_at": "2026-08-27T03:01:49.061957+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160791",
+    "title": "Adobe Campaign Classic Vulnerabilities Enable Arbitrary Code Execution",
+    "link": "https://cybersecuritynews.com/adobe-campaign-classic-code-execution/",
+    "published": "Thu, 27 Aug 2026 04:19:28 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Adobe has released a Priority 1 security update for Adobe Campaign Classic following the identification of three critical vulnerabilities that could allow unauthenticated remote attackers to execute arbitrary code. The flaws affect on-premises Adobe ",
+    "created_at": "2026-08-27T04:31:28.321278+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160782",
+    "title": "WatchGuard Agent for Windows Vulnerability Allows Code Execution with Elevated Privileges",
+    "link": "https://cybersecuritynews.com/watchguard-agent-for-windows-vulnerability/",
+    "published": "Thu, 27 Aug 2026 04:23:03 +0000",
+    "source": "CybersecurityNews",
+    "summary": "WatchGuard has disclosed two critical vulnerabilities in its Windows-based WatchGuard Agent that could allow unauthenticated attackers to execute arbitrary code with elevated privileges. The flaws, tracked as CVE-2026-57910 and CVE-2026-57909, affect",
+    "created_at": "2026-08-27T04:31:55.350570+00:00"
   }
 ]
