@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/",
-    "title": "These near-mint ASUS Chromebook refurbs are only $145",
-    "link": "https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/",
-    "published": "Wed, 29 Jul 2026 07:12:19 -0400",
-    "source": "BleepingComputer",
-    "summary": "Buying a new computer in 2026 is a unique experience. Rather than deal with incredibly high tech prices, more shoppers are opting for high-quality refurbished tech. This ASUS Chromebook CM30 refurb is in near-mint condition with a grade &quot;A&quot;",
-    "created_at": "2026-07-29T11:31:03.190045+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=157547",
     "title": "VulnGym Uses AI-Trained APT Attackers to Stress-Test Enterprise Patching Strategies",
     "link": "https://cybersecuritynews.com/vulngym-uses-ai-apt-attackers/",
@@ -8872,5 +8863,32 @@
     "source": "BleepingComputer",
     "summary": "ServiceNow released security patches for three new maximum-severity AI Platform vulnerabilities that can be exploited in code injection, SQL injection, and privilege escalation attacks. [...]",
     "created_at": "2026-08-28T10:32:31.414835+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161037",
+    "title": "Russian University Leak Exposes GRU Cyber Training Pipeline Behind APT28 and Sandworm",
+    "link": "https://cybersecuritynews.com/russian-university-leak/",
+    "published": "Fri, 28 Aug 2026 10:48:32 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Leaked university records have opened an unusual window into Russia’s military cyber ecosystem. The documents point to a structured training program, not a newly discovered piece of malware, that appears to feed people into GRU units associated with ",
+    "created_at": "2026-08-28T11:31:50.158711+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html",
+    "title": "China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access",
+    "link": "https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html",
+    "published": "Fri, 28 Aug 2026 16:28:29 +0530",
+    "source": "The Hacker News",
+    "summary": "VulnCheck has disclosed two previously undocumented factory implants in firmware for routers built by Shenzhen Zhibotong Electronics (ZBT), each of which gives an unauthenticated remote attacker the ability to run commands as root on affected devices",
+    "created_at": "2026-08-28T11:32:35.930747+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html",
+    "title": "Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL",
+    "link": "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html",
+    "published": "Fri, 28 Aug 2026 16:50:32 +0530",
+    "source": "The Hacker News",
+    "summary": "ServiceNow has released patches for four security flaws impacting the ServiceNow AI Platform, three of them rated 10.0 on the CVSS scoring system and exploitable, in certain circumstances, by an unauthenticated attacker.\n\nThe company said it deployed",
+    "created_at": "2026-08-28T11:33:08.503590+00:00"
   }
 ]
