@@ -1,68 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=157734",
-    "title": "Hijacked Joyfill npm Packages Deploy Worm-Like RAT and Steal Developer Credentials",
-    "link": "https://cybersecuritynews.com/hijacked-joyfill-npm-packages-worm-like-rat/",
-    "published": "Wed, 29 Jul 2026 14:40:36 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A fresh supply chain scare hit software teams after attackers slipped malware into trusted open source libraries. On July 28, 2026, malicious beta builds of two Joyfill packages appeared on the npm registry. The libraries, @joyfill/components and @jo",
-    "created_at": "2026-07-29T16:01:12.137287+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157762",
-    "title": "Russian Intelligence Hackers Phish Signal Backup Keys to Hijack Accounts and Messages",
-    "link": "https://cybersecuritynews.com/hackers-phish-signal-backup-keys/",
-    "published": "Wed, 29 Jul 2026 15:00:37 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Russian intelligence-linked hackers are trying to seize Signal accounts by posing as support staff and asking targets for backup recovery keys. The campaign targets people with access to sensitive conversations, including officials, military personne",
-    "created_at": "2026-07-29T16:01:14.022176+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157753",
-    "title": "Critical Ruflo MCP Bridge Flaw Lets Attackers Execute Commands and Hijack AI Agents",
-    "link": "https://cybersecuritynews.com/critical-ruflo-mcp-bridge-vulnerability/",
-    "published": "Wed, 29 Jul 2026 15:22:39 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A critical security flaw in the open-source AI orchestration platform Ruflo has been disclosed, allowing unauthenticated attackers to execute arbitrary commands and fully compromise AI agent environments. Assigned a maximum CVSS base score of 10.0, t",
-    "created_at": "2026-07-29T16:01:16.086556+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
-    "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
-    "link": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
-    "published": "Wed, 29 Jul 2026 21:01:15 +0530",
-    "source": "The Hacker News",
-    "summary": "Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity.\n\nThe first of the three critical-rated flaws is CVE-2026-59",
-    "created_at": "2026-07-29T16:01:17.954479+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157769",
-    "title": "macOS ClickFix Attack Deploys Atomic Stealer to Steal Passwords and Crypto Wallets",
-    "link": "https://cybersecuritynews.com/macos-clickfix-attack-atomic-stealer/",
-    "published": "Wed, 29 Jul 2026 15:37:38 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Mac users are being targeted by a ClickFix campaign that turns a fake verification prompt into a path for malware installation. Victims are persuaded to copy a command from a web page, open Terminal, paste it, and run it, believing they are completin",
-    "created_at": "2026-07-29T16:01:20.113767+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
-    "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
-    "link": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
-    "published": "Wed, 29 Jul 2026 21:09:30 +0530",
-    "source": "The Hacker News",
-    "summary": "Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code execution.\n\nThe vulnerability, tracked as",
-    "created_at": "2026-07-29T16:01:21.321907+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157741",
-    "title": "NVIDIA BlueField Vulnerability Enables Code Execution Attacks",
-    "link": "https://cybersecuritynews.com/nvidia-bluefield-vulnerability/",
-    "published": "Wed, 29 Jul 2026 15:44:25 +0000",
-    "source": "CybersecurityNews",
-    "summary": "NVIDIA has disclosed a serious vulnerability affecting its BlueField DPUs and ConnectX networking platforms that could allow attackers to execute code on affected systems if successfully exploited. This vulnerability, tracked as CVE-2026-65094, impac",
-    "created_at": "2026-07-29T16:01:22.069104+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/",
     "title": "OpenAI agent used exposed credentials at 4 services in Hugging Face breach",
     "link": "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/",
@@ -8818,5 +8755,23 @@
     "source": "CybersecurityNews",
     "summary": "Russian hackers have used a new backdoor called HOOKEDGE to target defense manufacturers, government bodies, and diplomatic organizations in Romania, Spain, and Türkiye. The campaign relied on Word documents designed to look routine or official, turn",
     "created_at": "2026-08-28T15:31:12.194885+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html",
+    "title": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code",
+    "link": "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html",
+    "published": "Fri, 28 Aug 2026 20:57:26 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have discovered a cluster of 18 Google Chrome and one Microsoft Edge extensions that were published over the last six months and harbored wallet secret stealing and cryptocurrency draining capabilities.\n\n\nThe extensions, per",
+    "created_at": "2026-08-28T16:01:28.917281+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161134",
+    "title": "Iran-Linked Hackers Reportedly Knock UK Power Plant Offline for Four Days",
+    "link": "https://cybersecuritynews.com/iran-linked-hackers-2/",
+    "published": "Fri, 28 Aug 2026 15:31:57 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A cyber incident reportedly forced a British power plant to halt operations for about four days in July, drawing attention to the security of less-visible energy sites. The shutdown did not cause customer outages, and the wider electricity system con",
+    "created_at": "2026-08-28T16:01:43.803880+00:00"
   }
 ]
