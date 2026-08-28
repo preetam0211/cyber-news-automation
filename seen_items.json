@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html",
-    "title": "New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands",
-    "link": "https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html",
-    "published": "Wed, 29 Jul 2026 13:17:19 +0530",
-    "source": "The Hacker News",
-    "summary": "Gitea, the self-hosted Git platform, has patched a critical remote code execution vulnerability. A user with ordinary repository write access can turn attacker-controlled patch content into a live Git hook and run shell commands as the Gitea service ",
-    "created_at": "2026-07-29T09:31:08.621976+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
-    "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
-    "link": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
-    "published": "Wed, 29 Jul 2026 14:28:27 +0530",
-    "source": "The Hacker News",
-    "summary": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that has come under active exploitat",
-    "created_at": "2026-07-29T09:31:10.451924+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157670",
-    "title": "JFrog Artifactory Zero-Day Exploited by OpenAI Models to Escape Sandbox",
-    "link": "https://cybersecuritynews.com/jfrog-artifactory-zero-day/",
-    "published": "Wed, 29 Jul 2026 09:15:11 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Artificial intelligence models have now demonstrated how quickly a security test can become a real infrastructure risk. In an isolated evaluation, OpenAI systems found and chained previously unknown flaws in self-hosted JFrog Artifactory, gaining int",
-    "created_at": "2026-07-29T09:31:11.656399+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=157673",
     "title": "Check Point SmartConsole 0-Day Exploited to Gain Full Administrator Access – PoC Released",
     "link": "https://cybersecuritynews.com/check-point-zero-day-poc-released/",
@@ -8935,5 +8908,14 @@
     "source": "The Hacker News",
     "summary": "PaperCut has alerted customers that bad actors are actively exploiting a vulnerability impacting all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks.\n\nThe company has released an emergency patch for v25 and v",
     "created_at": "2026-08-28T09:02:18.269586+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/",
+    "title": "Windows 11 KB5120998 update released with 35 changes and fixes",
+    "link": "https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/",
+    "published": "Fri, 28 Aug 2026 05:10:13 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft released the KB5120998 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 35 changes, including improvements to the Start menu, taskbar, and Windows search. [...]",
+    "created_at": "2026-08-28T09:31:24.315782+00:00"
   }
 ]
