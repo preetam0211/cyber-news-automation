@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=157547",
-    "title": "VulnGym Uses AI-Trained APT Attackers to Stress-Test Enterprise Patching Strategies",
-    "link": "https://cybersecuritynews.com/vulngym-uses-ai-apt-attackers/",
-    "published": "Wed, 29 Jul 2026 11:04:33 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A new cybersecurity research tool called VulnGym utilizes reinforcement learning to simulate AI-trained advanced persistent threat (APT) attackers targeting enterprise patching programs. This platform enables security teams to assess whether their vu",
-    "created_at": "2026-07-29T12:01:17.620430+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157718",
-    "title": "Critical VMware Flaws Allow Attackers to Bypass Authentication and Gain Access to the System",
-    "link": "https://cybersecuritynews.com/vmware-flaws-allow-authentication-bypass/",
-    "published": "Wed, 29 Jul 2026 11:16:14 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Broadcom has released a critical security advisory, VMSA-2026-0006, addressing multiple high-impact vulnerabilities across core VMware virtualization platforms, including vCenter, ESX, Workstation, Fusion, Cloud Foundation, and several Telco Cloud of",
-    "created_at": "2026-07-29T12:01:19.508739+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157716",
-    "title": "AsyncAPI Malware Contains Modules to Steal GitHub, npm, Cloud and AI API Credentials",
-    "link": "https://cybersecuritynews.com/asyncapi-malware-contains-modules/",
-    "published": "Wed, 29 Jul 2026 11:27:46 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A dangerous supply chain attack struck the AsyncAPI project on the npm registry, putting developers and automated build systems at risk. Attackers republished five package versions in about ninety minutes on July 14, 2026. Each version carried the sa",
-    "created_at": "2026-07-29T12:01:21.409745+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html",
     "title": "73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack",
     "link": "https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html",
@@ -8890,5 +8863,14 @@
     "source": "The Hacker News",
     "summary": "ServiceNow has released patches for four security flaws impacting the ServiceNow AI Platform, three of them rated 10.0 on the CVSS scoring system and exploitable, in certain circumstances, by an unauthenticated attacker.\n\nThe company said it deployed",
     "created_at": "2026-08-28T11:33:08.503590+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/",
+    "title": "Toy-making giant Hasbro disclose data breach affecting employees",
+    "link": "https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/",
+    "published": "Fri, 28 Aug 2026 07:46:57 -0400",
+    "source": "BleepingComputer",
+    "summary": "Hasbro, one of the world&#x27;s largest toy and game companies, has disclosed that attackers have accessed the personal and financial information of an undisclosed number of employees. [...]",
+    "created_at": "2026-08-28T12:01:44.388856+00:00"
   }
 ]
