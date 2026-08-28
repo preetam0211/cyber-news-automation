@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=157684",
-    "title": "CISA Releases Checklist for Critical Infrastructure Organizations to Isolate Vital Systems",
-    "link": "https://cybersecuritynews.com/cisa-and-partners-release-checklist/",
-    "published": "Wed, 29 Jul 2026 10:42:05 +0000",
-    "source": "CybersecurityNews",
-    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA), in collaboration with the Australian Signals Directorate’s Australian Cyber Security Center (ASD’s ACSC), the Federal Bureau of Investigation (FBI), and international partners, has released",
-    "created_at": "2026-07-29T11:01:06.987123+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157672",
-    "title": "A Leaked Android RAT Is Powering 170 Servers and Its Successor Is Already Online",
-    "link": "https://cybersecuritynews.com/a-leaked-android-rat/",
-    "published": "Wed, 29 Jul 2026 10:59:33 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A leaked Android remote access trojan called Flying Eagle is being used across a large and growing criminal network. The toolkit lets operators create fake Android apps, take control of infected phones, and steal information that can lead to financia",
-    "created_at": "2026-07-29T11:01:08.914962+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html",
-    "title": "Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity",
-    "link": "https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html",
-    "published": "Wed, 29 Jul 2026 16:30:00 +0530",
-    "source": "The Hacker News",
-    "summary": "The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to remove prohibited information in violation of Russian law.\n\nThe ",
-    "created_at": "2026-07-29T11:01:10.793362+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/",
     "title": "These near-mint ASUS Chromebook refurbs are only $145",
     "link": "https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/",
