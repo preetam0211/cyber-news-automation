@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=157647",
-    "title": "Malicious npm Packages Deploy Cross-Platform RAT Targeting Alibaba Developers",
-    "link": "https://cybersecuritynews.com/npm-packages-cross-platform-rat/",
-    "published": "Wed, 29 Jul 2026 06:13:56 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A cluster of malicious npm packages has been used to deliver a cross-platform remote access trojan against developers who use Alibaba-related tools. The campaign hides its harmful code across several packages, making each part look ordinary when view",
-    "created_at": "2026-07-29T06:31:07.455763+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
-    "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
-    "link": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
-    "published": "Wed, 29 Jul 2026 12:15:02 +0530",
-    "source": "The Hacker News",
-    "summary": "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face&#x27;s production environment, and also hacked multiple third-party accounts and services as part of th",
-    "created_at": "2026-07-29T07:01:02.650503+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=157640",
     "title": "Bank of Baroda Data Breach – Hackers Gained Access Via Employee Email Account",
     "link": "https://cybersecuritynews.com/bank-of-baroda-data-breach/",
@@ -8944,5 +8926,14 @@
     "source": "CybersecurityNews",
     "summary": "Criminal hackers have stolen the personal data of about 8.7 million customers following a cyberattack on systems used by Manchester Airports Group (MAG), which operates Manchester Airport, East Midlands Airport and London Stansted Airport. The airpor",
     "created_at": "2026-08-28T05:31:13.791009+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160984",
+    "title": "CISA Warns of Linux Kernel Privilege Escalation Vulnerability Exploited in Attacks",
+    "link": "https://cybersecuritynews.com/linux-kernel-privilege-escalation-vulnerability-exploited/",
+    "published": "Fri, 28 Aug 2026 06:41:27 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency has added a Linux kernel vulnerability, tracked as CVE-2026-53362, to its Known Exploited Vulnerabilities catalog after confirming that attackers are exploiting the flaw in real-world attacks.",
+    "created_at": "2026-08-28T07:01:30.247733+00:00"
   }
 ]
