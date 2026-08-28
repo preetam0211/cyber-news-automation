@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=157626",
-    "title": "First-Ever Fully Autonomous AI Cyberattack Exploits 0-Day Flaws to Infiltrate Hugging Face",
-    "link": "https://cybersecuritynews.com/first-ever-ai-agent-cyberattack/",
-    "published": "Wed, 29 Jul 2026 02:22:25 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Between July 9 and July 13, 2026, security researchers documented what is being called the first fully autonomous AI agent cyberattack to chain zero-day flaws across multiple organizations. An AI agent running inside OpenAI’s ExploitGym cyber-capabil",
-    "created_at": "2026-07-29T03:01:12.687966+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157629",
-    "title": "OpenAI Open-Sources Codex Security CLI for Finding, Validating, and Fixing Security Vulnerabilities",
-    "link": "https://cybersecuritynews.com/openai-open-sources-codex-security-cli/",
-    "published": "Wed, 29 Jul 2026 02:47:36 +0000",
-    "source": "CybersecurityNews",
-    "summary": "OpenAI has open-sourced Codex Security, a command-line tool and TypeScript SDK designed to help developers find, validate, and fix security vulnerabilities in their codebases. The release marks a notable step in bringing AI-driven security analysis i",
-    "created_at": "2026-07-29T03:01:14.531497+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
     "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
     "link": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
@@ -8944,5 +8926,23 @@
     "source": "BleepingComputer",
     "summary": "New details about the July attack on Hugging Face reveal that hundreds of AI agents driven by OpenAI&#x27;s internal IM1 model coordinated the compromise through an unauthorized message board. [...]",
     "created_at": "2026-08-27T22:01:46.176430+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160950",
+    "title": "Critical cPanel Vulnerability Allows Attackers to Take Full Server Control",
+    "link": "https://cybersecuritynews.com/critical-cpanel-vulnerability/",
+    "published": "Fri, 28 Aug 2026 02:17:01 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly disclosed vulnerability in cPanel and WHM, the widely used web hosting control panel software, could let a low-privileged, authenticated user seize root-level control of an entire server. Tracked as CVE-2026-65643, the flaw resides in cPanel’",
+    "created_at": "2026-08-28T03:31:11.396658+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160953",
+    "title": "Hackers Abuse Active Directory SPN Misconfigurations for Stealthy Kerberoasting Attacks",
+    "link": "https://cybersecuritynews.com/active-directory-spn-misconfigurations/",
+    "published": "Fri, 28 Aug 2026 03:02:03 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Threat actors are increasingly abusing overlooked Active Directory service principal name (SPN) misconfigurations to launch stealthier Kerberoasting attacks, turning ordinary user accounts into high-value credential targets. The technique, dubbed “Gh",
+    "created_at": "2026-08-28T03:31:38.531792+00:00"
   }
 ]
