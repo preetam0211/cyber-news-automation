@@ -8809,5 +8809,14 @@
     "source": "The Hacker News",
     "summary": "Berlin&#x27;s state government has confirmed that it is the target of an extortion attempt following the August compromise of the city&#x27;s state administrative network, and said it will not meet the extortionists&#x27; demands.\n\nThe same statement",
     "created_at": "2026-08-28T22:31:11.642910+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
+    "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
+    "link": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
+    "published": "Fri, 28 Aug 2026 18:40:17 -0400",
+    "source": "BleepingComputer",
+    "summary": "Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters extortion group claiming it stole 284 million patient dat",
+    "created_at": "2026-08-28T23:01:13.441388+00:00"
   }
 ]
