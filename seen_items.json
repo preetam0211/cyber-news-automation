@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
-    "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
-    "link": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
-    "published": "Wed, 29 Jul 2026 13:54:05 -0400",
-    "source": "BleepingComputer",
-    "summary": "Health-ISAC is warning healthcare and medical technology organizations of an observed increase in successful attacks by ShinyHunters, which are using social engineering to compromise single sign-on accounts and steal data from cloud services. [...]",
-    "created_at": "2026-07-29T18:01:06.321260+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
-    "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
-    "link": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
-    "published": "Wed, 29 Jul 2026 23:40:00 +0530",
-    "source": "The Hacker News",
-    "summary": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads.\n\nTracked as CVE-2026-66066 (CVSS score: 9.5), the flaw ",
-    "created_at": "2026-07-29T18:31:09.524338+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
     "title": "Anthropic confirms Claude is down worldwide",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
@@ -8782,5 +8764,41 @@
     "source": "CybersecurityNews",
     "summary": "Hackers are actively probing AI systems, turning exposed gateways and agent tools into routes for remote code execution, credential theft, and cryptomining. AI infrastructure is now a cloud entry point. Over 90 days, attackers tailored techniques for",
     "created_at": "2026-08-28T17:01:52.714458+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
+    "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
+    "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
+    "published": "Fri, 28 Aug 2026 21:26:55 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting ownCloud to its Known Exploited Vulnerabilities (KEV) catalog following reports that a Chinese-speaking threat actor weaponized the ",
+    "created_at": "2026-08-28T18:34:31.087174+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html",
+    "title": "Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers",
+    "link": "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html",
+    "published": "Fri, 28 Aug 2026 21:50:46 +0530",
+    "source": "The Hacker News",
+    "summary": "Google on Thursday announced new network security protections in Android 17 to bolster connection privacy, address cellular vulnerabilities, and safeguard the privacy of users&#x27; home networks.\n\nTopping the list is support for Encrypted Client Hel",
+    "created_at": "2026-08-28T18:34:31.260048+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
+    "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
+    "link": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
+    "published": "Fri, 28 Aug 2026 22:42:15 +0530",
+    "source": "The Hacker News",
+    "summary": "Malicious actors are exploiting a newly patched security flaw in PaperCut NG and MF to execute arbitrary code on susceptible instances, as the company released a fresh emergency fix with additional hardening.\n\n&quot;This vulnerability gives an unauth",
+    "created_at": "2026-08-28T18:34:32.099236+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/",
+    "title": "GiveWP WordPress donation plugin flaw lets hackers execute server commands",
+    "link": "https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/",
+    "published": "Fri, 28 Aug 2026 14:18:55 -0400",
+    "source": "BleepingComputer",
+    "summary": "A maximum-severity vulnerability in the GiveWP plugin for WordPress allows an unauthenticated attacker to execute arbitrary commands on the hosting server. [...]",
+    "created_at": "2026-08-28T18:34:34.159454+00:00"
   }
 ]
