@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=157640",
-    "title": "Bank of Baroda Data Breach – Hackers Gained Access Via Employee Email Account",
-    "link": "https://cybersecuritynews.com/bank-of-baroda-data-breach/",
-    "published": "Wed, 29 Jul 2026 06:32:52 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Bank of Baroda has confirmed a cybersecurity incident in which attackers gained unauthorized access to an employee’s email account, exposing internal communications and potentially sensitive information, raising concerns about phishing attacks, accou",
-    "created_at": "2026-07-29T07:31:04.706909+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
-    "title": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates",
-    "link": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
-    "published": "Wed, 29 Jul 2026 12:37:23 +0530",
-    "source": "The Hacker News",
-    "summary": "Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independent researcher NetAskari traced matching control panels and certificates to 170 internet servers.\n\nTh",
-    "created_at": "2026-07-29T08:00:59.350380+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=157653",
     "title": "Critical Gitea Vulnerability Allows Attackers to Execute Malicious Code Remotely",
     "link": "https://cybersecuritynews.com/gitea-rce-vulnerability/",
@@ -8935,5 +8917,23 @@
     "source": "CybersecurityNews",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency has added a Linux kernel vulnerability, tracked as CVE-2026-53362, to its Known Exploited Vulnerabilities catalog after confirming that attackers are exploiting the flaw in real-world attacks.",
     "created_at": "2026-08-28T07:01:30.247733+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160990",
+    "title": "Claude Code Opus 5 Auto Mode Hijacked via Prompt Injection to Execute Malicious Code",
+    "link": "https://cybersecuritynews.com/claude-code-opus-5-auto-mode-hijacked/",
+    "published": "Fri, 28 Aug 2026 07:07:29 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Claude Code Opus 5 in Auto Mode can be tricked into running malicious code via a simple website summary request. In a limited lab test, the attack reportedly succeeded in 60% to 80% of attempts. The finding from Embrace The Red is significant because",
+    "created_at": "2026-08-28T08:01:37.643181+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=160963",
+    "title": "Dark Caracal Hackers Use Ethereum Blockchain to Keep New Malware Connected After C2 Disruption",
+    "link": "https://cybersecuritynews.com/dark-caracal-hackers/",
+    "published": "Fri, 28 Aug 2026 07:54:17 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Dark Caracal has returned with a new tool that helps attackers stay connected when defenders shut down their control servers. The cyberespionage group is linked by researchers to a Venezuelan communications organization intrusion, where it deployed a",
+    "created_at": "2026-08-28T08:02:29.484982+00:00"
   }
 ]
