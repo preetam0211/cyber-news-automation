@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=157731",
-    "title": "Fake Recruiters Target Web3 Developers Through Trusted Bitbucket and npm Workflows",
-    "link": "https://cybersecuritynews.com/fake-recruiter-web3-developers/",
-    "published": "Wed, 29 Jul 2026 12:05:36 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A new wave of job scams is hitting Web3 developers who are simply looking for their next role. Attackers pose as recruiters, start friendly chats about interviews, and then steer candidates toward a fake meeting tool that feels completely normal for ",
-    "created_at": "2026-07-29T13:01:13.581342+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157699",
-    "title": "Houston City College Data Breach Exposes 832k Unique Student Email Addresses",
-    "link": "https://cybersecuritynews.com/houston-city-college-data-breach/",
-    "published": "Wed, 29 Jul 2026 12:31:13 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Houston City College has experienced a serious data breach that exposed sensitive personal information of approximately 832,000 unique students and alums. This incident is linked to a cyber extortion campaign by the ShinyHunters threat group. The bre",
-    "created_at": "2026-07-29T13:01:15.482158+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157738",
-    "title": "Russia Charges Telegram CEO Pavel Durov With Aiding Terrorism, Issues Arrest Warrant",
-    "link": "https://cybersecuritynews.com/russia-charges-telegram-ceo-pavel-durov/",
-    "published": "Wed, 29 Jul 2026 12:40:46 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Russia’s Federal Security Service (FSB) has formally charged Telegram founder and CEO Pavel Durov with aiding terrorism and issued a warrant for his arrest, escalating a long-running clash between the Kremlin and one of the world’s most widely used e",
-    "created_at": "2026-07-29T13:01:16.690594+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157706",
-    "title": "Revolut Alleged Data Breach – Hackers Claiming to Access Over 75 Million Users’ Records",
-    "link": "https://cybersecuritynews.com/revolut-alleged-data-breach/",
-    "published": "Wed, 29 Jul 2026 13:18:43 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Revolut is currently under scrutiny after hackers claimed to be selling a database containing records of more than 75 million users. However, the company asserts that it has found no evidence of a new breach at this time. A threat actor has advertise",
-    "created_at": "2026-07-29T13:31:01.945648+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101684-update-released-with-42-changes-and-fixes/",
     "title": "Windows 11 KB5101684 update released with 42 changes and fixes",
     "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101684-update-released-with-42-changes-and-fixes/",
@@ -8854,5 +8818,23 @@
     "source": "BleepingComputer",
     "summary": "Over 8,300 Internet-exposed Gitea instances are still unpatched against a critical security flaw exploited in ongoing remote code execution attacks, according to cybersecurity watchdog Shadowserver. [...]",
     "created_at": "2026-08-28T13:00:55.652316+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html",
+    "title": "Key Reasons Why Identity Fabric Matters in 2026",
+    "link": "https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html",
+    "published": "Fri, 28 Aug 2026 17:00:00 +0530",
+    "source": "The Hacker News",
+    "summary": "An Identity Fabric knits fragmented identity systems into a coherent layer that observes how identities behave across applications, APIs, and infrastructure. As enterprise access spans more cloud services and automated workloads, identity security de",
+    "created_at": "2026-08-28T13:31:21.890840+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html",
+    "title": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth",
+    "link": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html",
+    "published": "Fri, 28 Aug 2026 17:37:24 +0530",
+    "source": "The Hacker News",
+    "summary": "Security researcher Olivier Laflamme has disclosed two independent root remote code execution (RCE) chains affecting the Unitree G1 EDU, including a Bluetooth Low Energy (BLE) path that can reach root on the robot&#x27;s Locomotion PC.\n\nThe flaws are",
+    "created_at": "2026-08-28T13:31:23.892499+00:00"
   }
 ]
