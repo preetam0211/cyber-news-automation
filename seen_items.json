@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html",
-    "title": "73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack",
-    "link": "https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html",
-    "published": "Wed, 29 Jul 2026 16:43:10 +0530",
-    "source": "The Hacker News",
-    "summary": "Most organizations have incident response plans, security tools, and technical teams in place. Yet new research suggests that many still lack the coordination, visibility, and executive alignment needed to withstand a serious cyberattack.\n\nAccording ",
-    "created_at": "2026-07-29T12:31:00.858338+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html",
-    "title": "Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser",
-    "link": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html",
-    "published": "Wed, 29 Jul 2026 17:27:00 +0530",
-    "source": "The Hacker News",
-    "summary": "Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser.\n\nTracked as CVE-2026-10702, the bug provides arbitrary code execution inside the browser&#x27;s ren",
-    "created_at": "2026-07-29T12:31:02.661002+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
-    "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
-    "link": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
-    "published": "Wed, 29 Jul 2026 17:45:00 +0530",
-    "source": "The Hacker News",
-    "summary": "AI is compressing exploit timelines. The real question isn&#x27;t whether your vulnerability management playbook needs to change, it&#x27;s which part of it you&#x27;ve been getting wrong all along.\n\nThe conversation happening in security circles rig",
-    "created_at": "2026-07-29T12:31:04.438183+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=157731",
     "title": "Fake Recruiters Target Web3 Developers Through Trusted Bitbucket and npm Workflows",
     "link": "https://cybersecuritynews.com/fake-recruiter-web3-developers/",
@@ -8872,5 +8845,14 @@
     "source": "BleepingComputer",
     "summary": "Hasbro, one of the world&#x27;s largest toy and game companies, has disclosed that attackers have accessed the personal and financial information of an undisclosed number of employees. [...]",
     "created_at": "2026-08-28T12:01:44.388856+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/",
+    "title": "Over 8,300 Gitea servers vulnerable to code execution attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/",
+    "published": "Fri, 28 Aug 2026 08:58:43 -0400",
+    "source": "BleepingComputer",
+    "summary": "Over 8,300 Internet-exposed Gitea instances are still unpatched against a critical security flaw exploited in ongoing remote code execution attacks, according to cybersecurity watchdog Shadowserver. [...]",
+    "created_at": "2026-08-28T13:00:55.652316+00:00"
   }
 ]
