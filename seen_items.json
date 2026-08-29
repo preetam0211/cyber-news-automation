@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=157924",
-    "title": "OpenMatter Network Calls on Enterprise Leaders to Rethink AI Security Before the Next Rogue AI Crisis",
-    "link": "https://cybersecuritynews.com/openmatter-network-ai-security-rethink/",
-    "published": "Thu, 30 Jul 2026 16:44:21 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Melbourne, Florida, July 30th, 2026, CyberNewswire The growing number of high-profile AI security incidents making headlines around the world are not simply cybersecurity failures. They are architectural failures, according to OpenMatter Network Co-F",
-    "created_at": "2026-07-30T17:01:05.635741+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/",
-    "title": "ShinyHunters claims Brinks Home breach, threatens to leak stolen data",
-    "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/",
-    "published": "Thu, 30 Jul 2026 12:46:15 -0400",
-    "source": "BleepingComputer",
-    "summary": "Residential security company Brinks Home has disclosed that hackers breached some of its systems and are threatening to leak allegedly stolen data. [...]",
-    "created_at": "2026-07-30T17:01:07.458048+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/",
-    "title": "Google says AI helped Chrome fix 1,072 security bugs in two releases",
-    "link": "https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/",
-    "published": "Thu, 30 Jul 2026 13:00:00 -0400",
-    "source": "BleepingComputer",
-    "summary": "Google says artificial intelligence is dramatically increasing the number of security vulnerabilities it can find and fix in Chrome, with more than 1,000 security bugs patched across the browser&#x27;s two most recent releases as it expands its use o",
-    "created_at": "2026-07-30T17:31:08.056601+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157887",
-    "title": "CISA Warns of Cisco Secure Firewall Management 0-Day Vulnerability Exploited in Attacks",
-    "link": "https://cybersecuritynews.com/cisco-secure-firewall-management-0-day/",
-    "published": "Thu, 30 Jul 2026 17:11:14 +0000",
-    "source": "CybersecurityNews",
-    "summary": "CISA has issued a warning regarding a serious vulnerability in the Cisco Secure Firewall Management Center (FMC), which is currently being exploited in attacks. The flaw, identified as CVE-2026-20316, affects Cisco’s centralized management platform f",
-    "created_at": "2026-07-30T17:31:09.260870+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/",
     "title": "VMware fixes three critical flaws allowing auth bypass, VM escapes",
     "link": "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/",
@@ -8548,5 +8512,23 @@
     "source": "BleepingComputer",
     "summary": "The latest version of the Brave browser, 1.94, introduces a feature called &#x27;Email Aliases&#x27; that allows users to generate disposable email addresses when signing up to a new service. [...]",
     "created_at": "2026-08-29T14:31:28.690171+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
+    "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
+    "link": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
+    "published": "Sat, 29 Aug 2026 21:55:03 +0530",
+    "source": "The Hacker News",
+    "summary": "Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution.\n\nTh",
+    "created_at": "2026-08-29T17:31:23.047661+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161177",
+    "title": "OpenAI Is Pulling Its AI Models From Cursor Following SpaceX Acquisition",
+    "link": "https://cybersecuritynews.com/openai-models-ends-with-cursor/",
+    "published": "Sat, 29 Aug 2026 16:44:24 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OpenAI is pulling its AI models from Cursor following SpaceX’s acquisition of the AI coding assistant, notifying SpaceX that it will wind down the contract that supplies those models to the editor. The proposed shutoff date is November 12, 2026, whic",
+    "created_at": "2026-08-29T17:31:47.796252+00:00"
   }
 ]
