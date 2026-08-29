@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=157899",
-    "title": "Semiconductor Firm Analog Devices Confirms Data Breach After Internal Systems Intrusion",
-    "link": "https://cybersecuritynews.com/analog-devices-data-breach/",
-    "published": "Thu, 30 Jul 2026 15:10:13 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Analog Devices, Inc., a leading U.S. semiconductor manufacturer specializing in analog, mixed-signal, and digital signal processing technology, has confirmed a cybersecurity incident that led to unauthorized access to its internal systems and the exf",
-    "created_at": "2026-07-30T15:31:13.433283+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/",
-    "title": "Analog Devices discloses data breach, says operations unaffected",
-    "link": "https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/",
-    "published": "Thu, 30 Jul 2026 11:12:25 -0400",
-    "source": "BleepingComputer",
-    "summary": "American semiconductor company Analog Devices announced that an unauthorized party accessed some of its systems and exfiltrated certain files. [...]",
-    "created_at": "2026-07-30T15:31:15.368363+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157878",
-    "title": "Hackers Are Exploiting Nearly One in Four Vulnerabilities Before Defenders Get a CVE",
-    "link": "https://cybersecuritynews.com/hackers-exploiting-one-in-four-vulnerabilities/",
-    "published": "Thu, 30 Jul 2026 15:26:27 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Attackers are exploiting a significant portion of vulnerabilities even before defenders receive a published CVE (Common Vulnerabilities and Exposures). In the first half of 2026, 23.43% of known exploited vulnerabilities had evidence of active exploi",
-    "created_at": "2026-07-30T15:31:17.280328+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/",
     "title": "Microsoft Teams vishing attacks lead to Chaos ransomware attacks",
     "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/",
