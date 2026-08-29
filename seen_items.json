@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
-    "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
-    "link": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
-    "published": "Thu, 30 Jul 2026 10:38:39 +0530",
-    "source": "The Hacker News",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities (KEV) catalog, following repor",
-    "created_at": "2026-07-30T06:01:09.323307+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157807",
-    "title": "TA488 May Have Exploited Outlook Web Access 0-Day Flaw Before Microsoft’s Emergency Patch",
-    "link": "https://cybersecuritynews.com/ta488-exploited-outlook-web-access-0-day-flaw/",
-    "published": "Thu, 30 Jul 2026 05:49:26 +0000",
-    "source": "CybersecurityNews",
-    "summary": "TA488 has been linked to a new campaign that turns a routine Outlook Web Access email into a gateway for mailbox compromise. The operation abused a now-patched cross-site scripting flaw, tracked as CVE-2026-42897, and could run malicious code when a ",
-    "created_at": "2026-07-30T06:01:10.069392+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
     "title": "Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet",
     "link": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
