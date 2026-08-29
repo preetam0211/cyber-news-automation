@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
-    "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
-    "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
-    "published": "Wed, 29 Jul 2026 19:44:07 -0400",
-    "source": "BleepingComputer",
-    "summary": "The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor called OWAReaper. [...]",
-    "created_at": "2026-07-30T00:01:04.947144+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=157794",
     "title": "Critical Rails Flaw Lets Attackers Read Arbitrary Files and Execute Malicious Code Remotely",
     "link": "https://cybersecuritynews.com/critical-rails-vulnerability/",
