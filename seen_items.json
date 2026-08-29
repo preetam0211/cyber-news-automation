@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
-    "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
-    "link": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
-    "published": "Thu, 30 Jul 2026 19:04:09 +0530",
-    "source": "The Hacker News",
-    "summary": "A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service&#x27;s Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according to Wiz.\n\nWiz, which codenamed the chain Co",
-    "created_at": "2026-07-30T15:01:19.669900+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157867",
-    "title": "Google Chrome 151 Patches 370 Security Flaws, Including Seven Critical Vulnerabilities",
-    "link": "https://cybersecuritynews.com/chrome-151-patches-370-security-flaws/",
-    "published": "Thu, 30 Jul 2026 14:00:59 +0000",
-    "source": "CybersecurityNews",
-    "summary": "The Stable channel has been updated to Chrome version 151.0.7922.71.72 for Windows and macOS, and 151.0.7922.71 for Linux, with the rollout taking place over the coming days and weeks. According to Google’s security advisory, this release includes 37",
-    "created_at": "2026-07-30T15:01:21.556568+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157883",
-    "title": "New GenieLocker Ransomware Attacks Windows, ESXi, and Linux Instances",
-    "link": "https://cybersecuritynews.com/genielocker-ransomware-attack/",
-    "published": "Thu, 30 Jul 2026 14:08:37 +0000",
-    "source": "CybersecurityNews",
-    "summary": "GenieLocker, a newly identified ransomware linked to the financially motivated Toy Ghouls group, targets Windows, Linux, and VMware ESXi systems and has primarily attacked Russia’s manufacturing sector since March 2026. The Toy Ghouls group, also kno",
-    "created_at": "2026-07-30T15:01:23.425457+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157891",
-    "title": "New CosmosEscape Vulnerability Lets Attackers Take Over Azure Cosmos DB Instances",
-    "link": "https://cybersecuritynews.com/cosmosescape-vulnerability/",
-    "published": "Thu, 30 Jul 2026 14:32:33 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A critical vulnerability, dubbed CosmosEscape, in Microsoft Azure Cosmos DB could have let attackers seize control of virtually every database hosted on the service, including Microsoft’s own internal systems. The vulnerability resided in Cosmos DB’s",
-    "created_at": "2026-07-30T15:01:25.460141+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=157899",
     "title": "Semiconductor Firm Analog Devices Confirms Data Breach After Internal Systems Intrusion",
     "link": "https://cybersecuritynews.com/analog-devices-data-breach/",
