@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/",
-    "title": "After the Break-In: What Attackers Do Once They're Already Inside",
-    "link": "https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/",
-    "published": "Thu, 30 Jul 2026 10:01:11 -0400",
-    "source": "BleepingComputer",
-    "summary": "Attackers rarely stop after gaining initial access. Huntress analyzes a real-world intrusion to show how threat actors establish persistence, disable defenses, and reshape compromised systems, and why defenders must investigate the original entry poi",
-    "created_at": "2026-07-30T14:31:02.065988+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
     "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
     "link": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
@@ -8647,5 +8638,14 @@
     "source": "CybersecurityNews",
     "summary": "Malvertising is becoming harder to identify by looking at the ad itself. A growing share of malicious advertising activity now depends on what happens after the click: redirect chains, disposable domains, cloaking systems, conditional delivery, and c",
     "created_at": "2026-08-29T07:31:43.103835+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/",
+    "title": "Brave browser adds email aliases to help users evade tracking",
+    "link": "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/",
+    "published": "Sat, 29 Aug 2026 10:19:23 -0400",
+    "source": "BleepingComputer",
+    "summary": "The latest version of the Brave browser, 1.94, introduces a feature called &#x27;Email Aliases&#x27; that allows users to generate disposable email addresses when signing up to a new service. [...]",
+    "created_at": "2026-08-29T14:31:28.690171+00:00"
   }
 ]
