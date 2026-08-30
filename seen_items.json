@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=157984",
-    "title": "SSH Bot Profiles Linux CPU, GPU and RAM Before Deploying Cryptocurrency Miner",
-    "link": "https://cybersecuritynews.com/ssh-bot-profiles-linux-cpu/",
-    "published": "Fri, 31 Jul 2026 09:38:27 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A new SSH bot has been caught quietly logging into Linux systems, profiling their CPU, GPU, and memory, and then walking away without dropping any visible payload. The behavior looks harmless at first glance, yet everything about it points to careful",
-    "created_at": "2026-07-31T10:01:15.355146+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html",
     "title": "Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations",
     "link": "https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html",
