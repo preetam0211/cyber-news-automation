@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=157945",
-    "title": "ShutterGap Exposes Millions of AWS Resources Between Cloud Security Scans",
-    "link": "https://cybersecuritynews.com/shuttergap-exposes-millions-of-aws-resources/",
-    "published": "Fri, 31 Jul 2026 08:35:17 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Cloud security teams often utilize Cloud Security Posture Management (CSPM) and Cloud-Native Application Protection Platform (CNAPP) tools to identify risky configurations. However, new research from Aryon Security reveals that this approach may over",
-    "created_at": "2026-07-31T09:31:15.890748+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157951",
-    "title": "Critical SolarWinds Flaw Lets Attackers Bypass Web Help Desk SAML Login",
-    "link": "https://cybersecuritynews.com/solarwinds-flaw-bypass-web-help-desk-saml-login/",
-    "published": "Fri, 31 Jul 2026 08:59:12 +0000",
-    "source": "CybersecurityNews",
-    "summary": "SolarWinds has patched a critical security vulnerability in its Web Help Desk platform that could allow attackers to bypass SAML-based authentication. CVE-2026-28323 affects SolarWinds Web Help Desk deployments using SAML 2.0 single sign-on (SSO)and ",
-    "created_at": "2026-07-31T09:31:17.764674+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=157977",
-    "title": "DeepSeek-Powered Hermes Agent Launches Autonomous Cyberattacks Against Exposed Servers",
-    "link": "https://cybersecuritynews.com/deepseek-powered-hermes-agent/",
-    "published": "Fri, 31 Jul 2026 09:22:22 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A Chinese-speaking threat actor used an AI-driven agent to search for vulnerable internet-facing servers and begin attacks with little direct human input. The campaign shows how automated tools can now move from finding targets to testing public expl",
-    "created_at": "2026-07-31T09:31:19.645240+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=157984",
     "title": "SSH Bot Profiles Linux CPU, GPU and RAM Before Deploying Cryptocurrency Miner",
     "link": "https://cybersecuritynews.com/ssh-bot-profiles-linux-cpu/",
