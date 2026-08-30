@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=157946",
-    "title": "New Backdoors Let Hackers Keylog, Steal Passwords and Control Government Computers",
-    "link": "https://cybersecuritynews.com/new-backdoors-let-hackers-keylog/",
-    "published": "Fri, 31 Jul 2026 06:51:55 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Government networks in Central Asia have been hit by two custom-built backdoors that give intruders deep control over infected computers. Known as OctLurk and SilkLurk, the tools can record keystrokes, collect browser passwords, steal email, and run ",
-    "created_at": "2026-07-31T07:01:10.485361+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=157955",
     "title": "CMMC Phase II Is Paused, But Contractors’ Data-Security Obligations Are Not",
     "link": "https://cybersecuritynews.com/cmmc-phase-ii-is-paused-but-contractors-data-security-obligations-are-not/",
