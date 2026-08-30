@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
-    "title": "Arch Linux disables AUR package adoption to stop malware flood",
-    "link": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
-    "published": "Fri, 31 Jul 2026 17:38:08 -0400",
-    "source": "BleepingComputer",
-    "summary": "The Arch Linux project has temporarily disabled adoption of Arch User Repository (AUR) packages after a surge in malicious takeovers of existing packages. [...]",
-    "created_at": "2026-07-31T22:01:07.866984+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
     "title": "Amgen says cloud data breach exposed patient health, proprietary info",
     "link": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
