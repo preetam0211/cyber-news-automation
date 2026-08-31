@@ -8215,5 +8215,50 @@
     "source": "BleepingComputer",
     "summary": "Two Nigerian men extradited to the U.S. on Thursday have been charged with involvement in sextortion schemes that resulted in the deaths of two minor victims in Mississippi and North Carolina. [...]",
     "created_at": "2026-08-31T09:31:07.748561+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161271",
+    "title": "Critical Microsoft Flaw Lets Hackers Remotely Control Android Devices Without a Login",
+    "link": "https://cybersecuritynews.com/microsoft-flaw/",
+    "published": "Mon, 31 Aug 2026 07:34:58 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical vulnerability in Microsoft’s open-source UFO automation framework, tracked as CVE-2026-73296 with a CVSS score of 9.4, could allow remote attackers to view and control Android devices without authentication or user interaction. The flaw, t",
+    "created_at": "2026-08-31T10:01:23.795518+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161280",
+    "title": "Hackers Use Fake Cloudflare CAPTCHA to Deploy Reverse Tunnel Into Corporate Networks",
+    "link": "https://cybersecuritynews.com/fake-cloudflare-captcha/",
+    "published": "Mon, 31 Aug 2026 07:58:22 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are using a fake Cloudflare CAPTCHA to turn a routine web check into a doorway into corporate networks. The campaign, called TerminalFix, begins on compromised websites and persuades visitors to paste a supposed verification command into Wind",
+    "created_at": "2026-08-31T10:01:29.716423+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161294",
+    "title": "Composer Flaw Lets Malicious Dependencies Expose SSH Keys and Sensitive Files",
+    "link": "https://cybersecuritynews.com/composer-flaw-expose-ssh-keys/",
+    "published": "Mon, 31 Aug 2026 08:11:56 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly disclosed security flaw in Composer, the widely used dependency manager for PHP, could allow a malicious or compromised package to alter permissions on files located outside its own installation directory. The issue, tracked as CVE-2026-59944",
+    "created_at": "2026-08-31T10:01:54.659888+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161336",
+    "title": "Microsoft Confirms False “Defender Antivirus Turned Off” Alerts Spreading Across Windows Devices",
+    "link": "https://cybersecuritynews.com/microsoft-defender-antivirus-turned-off/",
+    "published": "Mon, 31 Aug 2026 09:05:53 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has confirmed that a wave of alarming Windows Security pop-ups telling users their antivirus protection is disabled is nothing more than a software bug, not an actual security issue. In an official statement, Microsoft said the erroneous no",
+    "created_at": "2026-08-31T10:02:00.463589+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161331",
+    "title": "New AI-Built Malware Watches How Security Teams Remove It and Fights Back",
+    "link": "https://cybersecuritynews.com/new-ai-built-malware-watches/",
+    "published": "Mon, 31 Aug 2026 09:25:07 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new Windows malware toolkit is showing how artificial intelligence can change the economics of cybercrime. Known as Gryxa, it gives a criminal operator remote access, stays active after partial cleanup, and targets passwords stored in Chromium-base",
+    "created_at": "2026-08-31T10:02:06.657178+00:00"
   }
 ]
