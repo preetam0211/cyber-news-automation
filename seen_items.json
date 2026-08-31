@@ -8368,5 +8368,32 @@
     "source": "BleepingComputer",
     "summary": "The researchers discovered Fire Ant&#x27;s new tactic after finding an active GRE (Generic Routing Encapsulation) tunnel interface on a Cisco IOS XR router that could not be explained by a running configuration or commit history. [...]",
     "created_at": "2026-08-31T15:01:19.736278+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161390",
+    "title": "HardBreacher PoC Claims Kaspersky Endpoint Security Zero-Day Privilege Escalation on Windows 11",
+    "link": "https://cybersecuritynews.com/hardbreacher-kaspersky-zero-day/",
+    "published": "Mon, 31 Aug 2026 15:16:02 +0000",
+    "source": "CybersecurityNews",
+    "summary": "HardBreacher’s newly published PoC claims a local privilege-escalation flaw in Kaspersky Endpoint Security on fully patched Windows 11 systems, but the issue remains unverified and has not been publicly confirmed or assigned a CVE by Kaspersky. The p",
+    "created_at": "2026-08-31T16:01:07.202308+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161310",
+    "title": "D-Link Router Flaws Let Unauthenticated Attackers Change Admin Password and Steal Wi-Fi Credentials",
+    "link": "https://cybersecuritynews.com/d-link-router-flaws/",
+    "published": "Mon, 31 Aug 2026 15:44:40 +0000",
+    "source": "CybersecurityNews",
+    "summary": "D-Link has released a firmware update for critical access-control and information-disclosure flaws affecting its DIR-X1860Z router. The vulnerabilities could allow an unauthenticated attacker connected to the local network to change the router admini",
+    "created_at": "2026-08-31T16:01:09.455983+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161429",
+    "title": "CISA Warns of Multiple PaperCut NG/MF Vulnerabilities Actively Exploited in Attacks",
+    "link": "https://cybersecuritynews.com/papercut-ng-mf-vulnerabilities-exploited/",
+    "published": "Mon, 31 Aug 2026 15:56:28 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two vulnerabilities affecting PaperCut NG and PaperCut MF to its Known Exploited Vulnerabilities (KEV) Catalog, warning that threat actors are actively exploiting the flaws in",
+    "created_at": "2026-08-31T16:01:11.748757+00:00"
   }
 ]
