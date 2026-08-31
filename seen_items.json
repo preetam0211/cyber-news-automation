@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
-    "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
-    "link": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
-    "published": "Sat, 01 Aug 2026 14:33:07 +0530",
-    "source": "The Hacker News",
-    "summary": "Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses.\n\nAdform detected the incident on July 27, 2026, removed the malicious code, notif",
-    "created_at": "2026-08-01T10:03:45.800491+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=158102",
     "title": "Hackers Turned a Trusted Advertising Platform Into a Crypto-Stealer Delivery Network",
     "link": "https://cybersecuritynews.com/adform-advertising-platform-compromised/",
@@ -8260,5 +8251,23 @@
     "source": "CybersecurityNews",
     "summary": "A new Windows malware toolkit is showing how artificial intelligence can change the economics of cybercrime. Known as Gryxa, it gives a criminal operator remote access, stays active after partial cleanup, and targets passwords stored in Chromium-base",
     "created_at": "2026-08-31T10:02:06.657178+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
+    "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
+    "link": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
+    "published": "Mon, 31 Aug 2026 14:34:55 +0530",
+    "source": "The Hacker News",
+    "summary": "A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller Access-Control System (TACACS) servers, and Linux management hosts u",
+    "created_at": "2026-08-31T10:31:32.927315+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/microsoft-says-windows-11-kb5120998-update-resets-mouse-settings/",
+    "title": "Microsoft says Windows 11 KB5120998 update resets mouse settings",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-windows-11-kb5120998-update-resets-mouse-settings/",
+    "published": "Mon, 31 Aug 2026 06:23:46 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft has confirmed that mouse settings are being reverted on Windows 11 systems after installing the KB5120998 August 2026 non-security preview update. [...]",
+    "created_at": "2026-08-31T10:32:06.116618+00:00"
   }
 ]
