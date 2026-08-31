@@ -8296,5 +8296,32 @@
     "source": "CybersecurityNews",
     "summary": "A widely used npm package has become a credential-stealing delivery channel after attackers planted a self-spreading Shai-Hulud payload in its releases. The affected @7nohe/openapi-react-query-codegen package, which generates TanStack Query code, rec",
     "created_at": "2026-08-31T12:01:52.465626+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html",
+    "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
+    "link": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html",
+    "published": "Mon, 31 Aug 2026 17:01:47 +0530",
+    "source": "The Hacker News",
+    "summary": "Claude Code reads files, runs shell commands, invokes MCP tools, and acts through the credentials available on a developer’s machine. Anthropic’s new Compliance API endpoints give security teams their clearest view yet into that activity. They also e",
+    "created_at": "2026-08-31T12:31:11.300625+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
+    "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
+    "link": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
+    "published": "Mon, 31 Aug 2026 17:17:24 +0530",
+    "source": "The Hacker News",
+    "summary": "Threat actors associated with Aurora (aka Aur0ra) ransomware have been observed using SpaceX&#x27;s artificial intelligence (AI)-powered coding assistant Cursor to break into target networks, according to findings from CloudSEK and Gambit Security.\n\n",
+    "created_at": "2026-08-31T12:31:17.959569+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html",
+    "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
+    "link": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html",
+    "published": "Mon, 31 Aug 2026 17:44:00 +0530",
+    "source": "The Hacker News",
+    "summary": "The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running the malware under a trusted process to slip past users who add such software to their antivirus exclu",
+    "created_at": "2026-08-31T12:31:45.008355+00:00"
   }
 ]
