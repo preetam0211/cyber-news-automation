@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158088",
-    "title": "HackerOne Mandates ID Verification for Bug Bounty Submissions",
-    "link": "https://cybersecuritynews.com/hackerone-mandates-id-verification/",
-    "published": "Sat, 01 Aug 2026 03:05:41 +0000",
-    "source": "CybersecurityNews",
-    "summary": "HackerOne has confirmed that all hackers must now complete identity verification before submitting reports to any bug bounty program (BBP) on its platform, a move the company says is necessary to meet regulatory requirements. The policy distinguishes",
-    "created_at": "2026-08-01T03:33:21.617636+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=158094",
     "title": "Arch Linux Disables AUR Package Takeovers as Attackers Push Malicious Commits",
     "link": "https://cybersecuritynews.com/arch-linux-disables-aur-package/",
@@ -8206,5 +8197,14 @@
     "source": "CybersecurityNews",
     "summary": "Anthropic’s Claude AI platform has become an active target for cybercriminals, with two distinct attack chains now confirmed to be stealing credentials, hijacking paid usage, and reinfecting devices even after cleanup. The company has begun signing o",
     "created_at": "2026-08-31T03:31:52.763899+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161234",
+    "title": "Free Router DNS Tweak Blocks Malware and Phishing Across Home Networks",
+    "link": "https://cybersecuritynews.com/router-dns-tweak-blocks-malware/",
+    "published": "Mon, 31 Aug 2026 03:58:08 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A router configuration change is gaining attention as a way to add defense against phishing and malware. Cybersecurity commentator Luis Catacora urged users to replace default DNS resolvers on a router with Cloudflare’s addresses: 1.1.1.2 as the prim",
+    "created_at": "2026-08-31T04:01:27.200226+00:00"
   }
 ]
