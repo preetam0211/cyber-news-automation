@@ -8422,5 +8422,14 @@
     "source": "The Hacker News",
     "summary": "Threat actors with ties to the Democratic People&#x27;s Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the information technology (IT) sector, with recent investigations identifying suspected workers e",
     "created_at": "2026-08-31T18:01:32.620671+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/",
+    "title": "Microsoft warns of TerminalFix attacks deploying reverse tunnels",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/",
+    "published": "Mon, 31 Aug 2026 14:51:04 -0400",
+    "source": "BleepingComputer",
+    "summary": "A new ClickFix variant dubbed TerminalFix uses fake Cloudflare CAPTCHA prompts on compromised websites to trick victims into running malicious PowerShell commands in Windows Terminal. [...]",
+    "created_at": "2026-08-31T19:01:07.708832+00:00"
   }
 ]
