@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=11214",
-    "title": "Top 10 Best Web Application Firewall (WAF) in 2026",
-    "link": "https://cybersecuritynews.com/best-web-application-firewall-waf/",
-    "published": "Sat, 01 Aug 2026 13:39:23 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A web application firewall (WAF) filters malicious HTTP/S traffic SQL injection, cross-site scripting, credential stuffing, and API abuse — before it reaches your applications. Cloudflare is our top WAF pick for 2026 on the strength of protection-per",
-    "created_at": "2026-08-01T14:31:10.756949+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
-    "title": "Rails patches critical Active Storage flaw with RCE potential",
-    "link": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
-    "published": "Sat, 01 Aug 2026 10:20:30 -0400",
-    "source": "BleepingComputer",
-    "summary": "A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE). [...]",
-    "created_at": "2026-08-01T14:31:10.761915+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158060",
-    "title": "Top 10 Best DNS Security Solutions in 2026",
-    "link": "https://cybersecuritynews.com/best-dns-security-solutions/",
-    "published": "Sat, 01 Aug 2026 14:20:48 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Nearly every attack touches DNS the phishing click, the malware callback, the exfiltration tunnel which makes the DNS layer the cheapest place to break kill chains. Cisco Umbrella is our top pick for 2026 on the strength of Talos-fed intelligence and",
-    "created_at": "2026-08-01T14:31:10.773662+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=158116",
     "title": "Brinks Home Confirms Data Breach Following ShinyHunters Claim",
     "link": "https://cybersecuritynews.com/brinks-home-confirms-data-breach/",
@@ -8350,5 +8323,41 @@
     "source": "CybersecurityNews",
     "summary": "Cybersecurity defines survival in the digital-first era, where organizations battle advanced persistent threats daily. Cyber Threat Intelligence (CTI) companies deliver real-time insights, actionable intel, and defense strategies to shield sensitive ",
     "created_at": "2026-08-31T14:01:30.458859+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
+    "title": "⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
+    "link": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
+    "published": "Mon, 31 Aug 2026 19:20:00 +0530",
+    "source": "The Hacker News",
+    "summary": "The boring parts caused most of the trouble.\n\nA router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs. Old bugs formed new attack chains. Even an AI age",
+    "created_at": "2026-08-31T14:31:10.635378+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/",
+    "title": "File servers are here to stay. Here’s how to manage them securely",
+    "link": "https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/",
+    "published": "Mon, 31 Aug 2026 10:00:10 -0400",
+    "source": "BleepingComputer",
+    "summary": "File servers remain a critical part of many IT environments, but managing access securely can become complex as permissions accumulate. tenfold Software outlines five best practices for simplifying file server administration and maintaining least-pri",
+    "created_at": "2026-08-31T14:31:12.839290+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161386",
+    "title": "Security Risk Advisors Launches SCALR AI as a Free SOC AI Platform for Security Teams",
+    "link": "https://cybersecuritynews.com/security-risk-advisors-launches-scalr-ai-as-a-free-soc-ai-platform-for-security-teams/",
+    "published": "Mon, 31 Aug 2026 14:04:18 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Philadelphia, Pennsylvania, United States, August 24th, 2026, CyberNewswire Security Risk Advisors (SRA), the authors of the free VECTR platform, announce today another great free platform launch: SCALR AI. Security teams can get SCALR AI for free, d",
+    "created_at": "2026-08-31T14:31:14.894130+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161381",
+    "title": "Hackers Hide ValleyRAT Backdoor Inside Adware Targeting Users in China and India",
+    "link": "https://cybersecuritynews.com/hackers-hide-valleyrat-backdoor/",
+    "published": "Mon, 31 Aug 2026 14:12:41 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are using adware to deliver ValleyRAT, a Windows backdoor. The campaign primarily affects users in China and India, turning a program expected to display ads into a route for spying, theft, and further malware delivery. The installer changes ",
+    "created_at": "2026-08-31T14:31:17.014336+00:00"
   }
 ]
