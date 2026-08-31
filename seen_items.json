@@ -8431,5 +8431,14 @@
     "source": "BleepingComputer",
     "summary": "A new ClickFix variant dubbed TerminalFix uses fake Cloudflare CAPTCHA prompts on compromised websites to trick victims into running malicious PowerShell commands in Windows Terminal. [...]",
     "created_at": "2026-08-31T19:01:07.708832+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/",
+    "title": "Cronos blockchain restarts after $74 million Tectonic exploit",
+    "link": "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/",
+    "published": "Mon, 31 Aug 2026 16:47:54 -0400",
+    "source": "BleepingComputer",
+    "summary": "The Cronos blockchain network has resumed trading activity after a price-manipulation attack on the Tectonic cryptocurrency lending platform allowed an attacker to borrow $74 million. [...]",
+    "created_at": "2026-08-31T21:01:04.902766+00:00"
   }
 ]
