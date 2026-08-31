@@ -8395,5 +8395,41 @@
     "source": "CybersecurityNews",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two vulnerabilities affecting PaperCut NG and PaperCut MF to its Known Exploited Vulnerabilities (KEV) Catalog, warning that threat actors are actively exploiting the flaws in",
     "created_at": "2026-08-31T16:01:11.748757+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161441",
+    "title": "Microsoft Investigating New Exchange Online Outage Tracked as EX1464935 [Updated]",
+    "link": "https://cybersecuritynews.com/microsof-new-exchange-online/",
+    "published": "Mon, 31 Aug 2026 16:40:42 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has opened an active investigation into a new Exchange Online disruption after a wave of user reports flagged access and mail-flow problems across the cloud-based email service. The incident, logged in the Microsoft 365 admin center as EX14",
+    "created_at": "2026-08-31T17:01:03.200306+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161442",
+    "title": "Broadcom Launches VMware AI Factory to Secure Enterprise AI Agents",
+    "link": "https://cybersecuritynews.com/broadcom-vmware-ai-factory/",
+    "published": "Mon, 31 Aug 2026 16:43:51 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Broadcom unveiled VMware AI Factory at VMware Explore 2026 in Las Vegas, introducing a software-defined foundation within VMware Private AI Cloud designed to help enterprises deploy, govern, and secure AI workloads from bare-metal infrastructure thro",
+    "created_at": "2026-08-31T17:01:05.270037+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/",
+    "title": "OpenAI confirms ChatGPT outage as users report errors",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/",
+    "published": "Mon, 31 Aug 2026 12:50:50 -0400",
+    "source": "BleepingComputer",
+    "summary": "ChatGPT Work is experiencing a partial outage, and users across multiple subscription plans may be unable to start or continue tasks. [...]",
+    "created_at": "2026-08-31T17:01:32.222100+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
+    "title": "Microsoft Exchange Online outage causes email failures, auth issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
+    "published": "Mon, 31 Aug 2026 12:56:57 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft is investigating a widespread service issue causing authentication issues and email delays and failures for Exchange Online customers. [...]",
+    "created_at": "2026-08-31T17:01:34.229495+00:00"
   }
 ]
