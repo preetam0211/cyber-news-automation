@@ -8422,5 +8422,14 @@
     "source": "BleepingComputer",
     "summary": "Microsoft is investigating a widespread service issue causing authentication issues and email delays and failures for Exchange Online customers. [...]",
     "created_at": "2026-08-31T17:01:34.229495+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
+    "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
+    "link": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
+    "published": "Mon, 31 Aug 2026 22:54:28 +0530",
+    "source": "The Hacker News",
+    "summary": "Threat actors with ties to the Democratic People&#x27;s Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the information technology (IT) sector, with recent investigations identifying suspected workers e",
+    "created_at": "2026-08-31T18:01:32.620671+00:00"
   }
 ]
