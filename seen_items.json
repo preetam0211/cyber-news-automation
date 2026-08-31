@@ -8269,5 +8269,14 @@
     "source": "BleepingComputer",
     "summary": "Microsoft has confirmed that mouse settings are being reverted on Windows 11 systems after installing the KB5120998 August 2026 non-security preview update. [...]",
     "created_at": "2026-08-31T10:32:06.116618+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161352",
+    "title": "OpenClaw 2.0 Released With Major Security Upgrades for AI Agents, Plugins and Credentials",
+    "link": "https://cybersecuritynews.com/openclaw-2-0-released/",
+    "published": "Mon, 31 Aug 2026 10:54:46 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OpenClaw has released version 2026.8.1, also called OpenClaw 2.0, in what the open-source AI agent platform described as its largest update to date. The release was built by 933 contributors, including 569 first-time contributors, and contains more t",
+    "created_at": "2026-08-31T11:01:36.925416+00:00"
   }
 ]
