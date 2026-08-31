@@ -8359,5 +8359,14 @@
     "source": "CybersecurityNews",
     "summary": "Hackers are using adware to deliver ValleyRAT, a Windows backdoor. The campaign primarily affects users in China and India, turning a program expected to display ads into a route for spying, theft, and further malware delivery. The installer changes ",
     "created_at": "2026-08-31T14:31:17.014336+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/",
+    "title": "Chinese Fire Ant hackers turn Cisco routers into spying platforms",
+    "link": "https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/",
+    "published": "Mon, 31 Aug 2026 10:52:03 -0400",
+    "source": "BleepingComputer",
+    "summary": "The researchers discovered Fire Ant&#x27;s new tactic after finding an active GRE (Generic Routing Encapsulation) tunnel interface on a Cisco IOS XR router that could not be explained by a running configuration or commit history. [...]",
+    "created_at": "2026-08-31T15:01:19.736278+00:00"
   }
 ]
