@@ -8296,5 +8296,41 @@
     "source": "The Hacker News",
     "summary": "The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running the malware under a trusted process to slip past users who add such software to their antivirus exclu",
     "created_at": "2026-08-31T12:31:45.008355+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161367",
+    "title": "19 Chrome and Edge Extensions Caught Stealing Crypto Wallets and Passwords",
+    "link": "https://cybersecuritynews.com/extensions-caught-stealing-crypto-wallets-and-passwords/",
+    "published": "Mon, 31 Aug 2026 12:39:35 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Nineteen browser extensions have been linked to a malware operation that steals cryptocurrency wallet secrets, passwords and other data. The extensions appeared to offer useful tools, including search helpers, price monitors and copy-unlocking featur",
+    "created_at": "2026-08-31T13:31:50.300204+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161314",
+    "title": "Android 17 Adds New Protection for Wi-Fi Tracking to Keep Your Device Secure",
+    "link": "https://cybersecuritynews.com/android-17-wi-fi-protection/",
+    "published": "Mon, 31 Aug 2026 12:57:01 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Google has introduced new privacy and network-security protections in Android 17, including stricter controls that prevent apps from scanning devices connected to a user’s local Wi‑Fi network without permission. The update is designed to reduce house",
+    "created_at": "2026-08-31T13:31:52.338356+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161359",
+    "title": "Brave Unveils New Email Aliases to Keep Your Personal Email Address Private",
+    "link": "https://cybersecuritynews.com/brave-unveils-new-email-aliases/",
+    "published": "Mon, 31 Aug 2026 13:02:11 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Brave has introduced a new Email Aliases feature in desktop browser version 1.94, allowing users to sign up for websites without sharing their real email address. The privacy-focused feature generates unique forwarding addresses that deliver messages",
+    "created_at": "2026-08-31T13:31:54.277610+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/",
+    "title": "Berlin confirms data theft after Rhysida ransomware attack claims",
+    "link": "https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/",
+    "published": "Mon, 31 Aug 2026 09:30:01 -0400",
+    "source": "BleepingComputer",
+    "summary": "Berlin&#x27;s city administration has confirmed that cybercriminals are attempting to extort the city after the Rhysida ransomware gang listed it on their data leak site. [...]",
+    "created_at": "2026-08-31T13:32:00.708534+00:00"
   }
 ]
