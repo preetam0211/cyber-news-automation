@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158094",
-    "title": "Arch Linux Disables AUR Package Takeovers as Attackers Push Malicious Commits",
-    "link": "https://cybersecuritynews.com/arch-linux-disables-aur-package/",
-    "published": "Sat, 01 Aug 2026 04:41:51 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Arch Linux has temporarily disabled package adoption on its Arch User Repository (AUR) after security teams detected a wave of malicious takeovers and follow-up commits designed to compromise unsuspecting users. The move, announced by Robin Candau (k",
-    "created_at": "2026-08-01T05:02:42.311816+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
     "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware",
     "link": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
@@ -8206,5 +8197,14 @@
     "source": "CybersecurityNews",
     "summary": "A router configuration change is gaining attention as a way to add defense against phishing and malware. Cybersecurity commentator Luis Catacora urged users to replace default DNS resolvers on a router with Cloudflare’s addresses: 1.1.1.2 as the prim",
     "created_at": "2026-08-31T04:01:27.200226+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161256",
+    "title": "Hackers’ Own Malware Infection Exposes Their RATs, Phishing Kits and Attack Infrastructure",
+    "link": "https://cybersecuritynews.com/hackers-own-malware-infection/",
+    "published": "Mon, 31 Aug 2026 05:22:17 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A malware investigation has exposed the tools and infrastructure used by suspected operators behind a Blind Eagle-linked campaign targeting Colombia and the wider region. The break came after an apparent attacker workstation was infected by a separat",
+    "created_at": "2026-08-31T05:31:55.569652+00:00"
   }
 ]
