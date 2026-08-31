@@ -8188,5 +8188,14 @@
     "source": "CybersecurityNews",
     "summary": "A malware investigation has exposed the tools and infrastructure used by suspected operators behind a Blind Eagle-linked campaign targeting Colombia and the wider region. The break came after an apparent attacker workstation was infected by a separat",
     "created_at": "2026-08-31T05:31:55.569652+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/",
+    "title": "Microsoft asks users to ignore 'Antivirus is turned off' errors",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/",
+    "published": "Mon, 31 Aug 2026 04:29:42 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft asked customers this week to ignore incorrect alerts that Defender Antivirus has been turned off after installing the latest Defender updates. [...]",
+    "created_at": "2026-08-31T08:31:48.995542+00:00"
   }
 ]
