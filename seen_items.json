@@ -8719,5 +8719,23 @@
     "source": "BleepingComputer",
     "summary": "Threat actors are exploiting an unauthenticated remote code execution vulnerability (CVE-2026-0768) in Langflow, an open-source framework for building AI applications, to steal credentials, tokens, and keys. [...]",
     "created_at": "2026-09-01T18:01:32.069093+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
+    "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
+    "link": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
+    "published": "Tue, 01 Sep 2026 22:49:24 +0530",
+    "source": "The Hacker News",
+    "summary": "Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024.\n\nGoogle Threat Intelligence Group (GTIG) and Mandiant teams described",
+    "created_at": "2026-09-01T18:31:23.971782+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
+    "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
+    "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
+    "published": "Tue, 01 Sep 2026 23:23:11 +0530",
+    "source": "The Hacker News",
+    "summary": "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr.\n\nThe vulnerability in question is CVE-2026-82329 (CVSS score: 9.8), a case of authentication ",
+    "created_at": "2026-09-01T18:31:26.040374+00:00"
   }
 ]
