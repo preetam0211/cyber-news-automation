@@ -8458,5 +8458,41 @@
     "source": "CybersecurityNews",
     "summary": "Datadog Security Research observed a password-spraying campaign targeting AWS root accounts at more than 150 organizations between July 24 and August 23, 2026, with repeated failed console login attempts against highly privileged identities. The AWS ",
     "created_at": "2026-09-01T06:31:31.485053+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161493",
+    "title": "Hackers Compromise Cisco Routers to Spy on Networks and Reach Critical Infrastructure",
+    "link": "https://cybersecuritynews.com/hackers-compromise-cisco-routers/",
+    "published": "Tue, 01 Sep 2026 07:14:27 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Fire Ant has moved beyond attacking individual systems and is now compromising network infrastructure that organizations trust to move traffic and manage access. The actor has turned Cisco IOS XR routers into platforms for surveillance, remote connec",
+    "created_at": "2026-09-01T08:01:39.528333+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
+    "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
+    "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
+    "published": "Tue, 01 Sep 2026 12:52:30 +0530",
+    "source": "The Hacker News",
+    "summary": "Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck.\n\nThe vulnerabilities in question are listed below -\n\n\n  CVE-2026-0768 (CVSS score: 9.8) - A lack of proper validation of a",
+    "created_at": "2026-09-01T08:02:14.386619+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/",
+    "title": "Recently patched PaperCut zero-days used in data theft attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/",
+    "published": "Tue, 01 Sep 2026 03:48:24 -0400",
+    "source": "BleepingComputer",
+    "summary": "Two security vulnerabilities in the PaperCut NG and MF print management software, patched last week after being exploited as zero-days, are now being abused in data theft attacks. [...]",
+    "created_at": "2026-09-01T08:02:22.670168+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161510",
+    "title": "Hackers Use Malicious Website Themes to Steal Crypto Wallet Seeds From iPhones",
+    "link": "https://cybersecuritynews.com/malicious-website-themes/",
+    "published": "Tue, 01 Sep 2026 07:58:11 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are using booby-trapped website themes to turn visits from iPhone users into a route for spyware and cryptocurrency theft. The campaign hides harmful code inside themes used by Vietnamese movie and comic streaming websites, exposing visitors ",
+    "created_at": "2026-09-01T08:02:41.075710+00:00"
   }
 ]
