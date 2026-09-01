@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
-    "title": "Google Chrome may soon block New Tab hijacker extensions by default",
-    "link": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
-    "published": "Sun, 02 Aug 2026 10:17:16 -0400",
-    "source": "BleepingComputer",
-    "summary": "Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default search engine. [...]",
-    "created_at": "2026-08-02T14:31:40.484694+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=158140",
     "title": "SabPaisa Partners with AccuKnox for Zero Trust AI-Powered Cloud Security to Secure Its Payments Platform",
     "link": "https://cybersecuritynews.com/sabpaisa-partners-with-accuknox-for-zero-trust-ai-powered-cloud-security-to-secure-its-payments-platform/",
@@ -8692,5 +8683,23 @@
     "source": "BleepingComputer",
     "summary": "Healthtech company Novocure says the data of an undisclosed number of employees and more than 1,400 U.S. cancer patients has been exposed in a mid-August cyberattack. [...]",
     "created_at": "2026-09-01T14:31:10.783219+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
+    "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
+    "link": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
+    "published": "Tue, 01 Sep 2026 19:37:20 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that install those libraries and initiate the deployment of sp",
+    "created_at": "2026-09-01T15:01:14.259571+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/",
+    "title": "Hackers push malicious Virtualizor update in BGP hijacking attack",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/",
+    "published": "Tue, 01 Sep 2026 10:45:06 -0400",
+    "source": "BleepingComputer",
+    "summary": "Hackers delivered malicious updates to the Virtualizor VPS management software after hijacking BGP routing for its update infrastructure and redirecting update requests to malicious servers. [...]",
+    "created_at": "2026-09-01T15:01:17.145885+00:00"
   }
 ]
