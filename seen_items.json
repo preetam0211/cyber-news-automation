@@ -8566,5 +8566,14 @@
     "source": "The Hacker News",
     "summary": "The most common way into a company last year was to ask.\n\nA web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. Then it talks them through opening a terminal and ",
     "created_at": "2026-09-01T12:03:01.959549+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161553",
+    "title": "Hackers Use AI Malware to Rank and Sell Access to Compromised Corporate Networks",
+    "link": "https://cybersecuritynews.com/hackers-use-ai-malware/",
+    "published": "Tue, 01 Sep 2026 12:05:30 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are using a new Windows malware framework to turn corporate break-ins into products for sale. The tool, called BraZetsu, quietly maps a victim’s systems, finds valuable business data and helps criminals decide which footholds deserve the high",
+    "created_at": "2026-09-01T12:31:30.289932+00:00"
   }
 ]
