@@ -8512,5 +8512,14 @@
     "source": "CybersecurityNews",
     "summary": "A JavaScript development package has been caught in a supply-chain compromise that can run malicious code when installed. The incident affects a tool with about 150,000 weekly downloads, risking developer and automated build systems. Attackers publis",
     "created_at": "2026-09-01T09:02:02.303441+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/",
+    "title": "Five Venezuelans plead guilty to ATM jackpotting attacks in US",
+    "link": "https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/",
+    "published": "Tue, 01 Sep 2026 05:15:07 -0400",
+    "source": "BleepingComputer",
+    "summary": "Five Venezuelan nationals pleaded guilty to attempting to empty automated teller machines (ATMs) using malware in a series of ATM jackpotting attacks. [...]",
+    "created_at": "2026-09-01T09:31:53.006354+00:00"
   }
 ]
