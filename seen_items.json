@@ -8530,5 +8530,41 @@
     "source": "The Hacker News",
     "summary": "METR (short for Model Evaluation and Threat Research and pronounced &quot;Meter&quot;), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-horizon, agentic tasks, disclosed that it su",
     "created_at": "2026-09-01T10:31:41.642304+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161526",
+    "title": "Hackers Hide RevStealer Inside Fake Claude Opus 5 App to Steal Passwords and Crypto",
+    "link": "https://cybersecuritynews.com/revstealer-inside-fake-claude/",
+    "published": "Tue, 01 Sep 2026 09:38:49 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are using a fake Claude Opus 5 desktop application to distribute RevStealer, a Windows malware built to take passwords, browser data and cryptocurrency wallet material. The campaign turns demand for AI tools into a trap, giving victims a reas",
+    "created_at": "2026-09-01T12:01:33.386430+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161531",
+    "title": "New Windows Backdoor Stays Completely Silent Until Hackers Send a Secret Trigger",
+    "link": "https://cybersecuritynews.com/new-windows-backdoor-2/",
+    "published": "Tue, 01 Sep 2026 10:58:23 +0000",
+    "source": "CybersecurityNews",
+    "summary": "SLEEPWALKER is a newly identified Windows backdoor built to wait rather than call home. Once placed on a compromised device, it can sit inactive for an extended period, only responding when an operator sends a carefully formed network packet. That re",
+    "created_at": "2026-09-01T12:02:02.759111+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161500",
+    "title": "Public PoC Released for Microsoft Exchange Server Pre-auth RCE Vulnerability",
+    "link": "https://cybersecuritynews.com/poc-microsoft-exchange-server-pre-auth-rce/",
+    "published": "Tue, 01 Sep 2026 11:28:53 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A public proof-of-concept exploit has been released for CVE-2026-62911, a Microsoft Exchange Server vulnerability linked to an authentication capture-and-replay weakness. While Microsoft classifies the issue as an elevation-of-privilege flaw, the pub",
+    "created_at": "2026-09-01T12:02:34.809374+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html",
+    "title": "Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones",
+    "link": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html",
+    "published": "Tue, 01 Sep 2026 17:00:00 +0530",
+    "source": "The Hacker News",
+    "summary": "The most common way into a company last year was to ask.\n\nA web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. Then it talks them through opening a terminal and ",
+    "created_at": "2026-09-01T12:03:01.959549+00:00"
   }
 ]
