@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158140",
-    "title": "SabPaisa Partners with AccuKnox for Zero Trust AI-Powered Cloud Security to Secure Its Payments Platform",
-    "link": "https://cybersecuritynews.com/sabpaisa-partners-with-accuknox-for-zero-trust-ai-powered-cloud-security-to-secure-its-payments-platform/",
-    "published": "Sun, 02 Aug 2026 18:41:20 +0000",
-    "source": "CybersecurityNews",
-    "summary": "CALIFORNIA, USA, August 2nd, 2026, CyberNewswire AccuKnox, a leading Zero Trust Security platform, today announced that SabPaisa, an RBI-authorised digital payments company, has selected its AI-powered cloud security platform to ensure robust securit",
-    "created_at": "2026-08-02T19:01:30.044030+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
     "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
     "link": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
@@ -8737,5 +8728,14 @@
     "source": "The Hacker News",
     "summary": "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr.\n\nThe vulnerability in question is CVE-2026-82329 (CVSS score: 9.8), a case of authentication ",
     "created_at": "2026-09-01T18:31:26.040374+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/",
+    "title": "Aesto Health says data breach affects over 9.5 million patients",
+    "link": "https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/",
+    "published": "Tue, 01 Sep 2026 15:28:17 -0400",
+    "source": "BleepingComputer",
+    "summary": "Aesto LLC, operating as Aesto Health, disclosed that a data breach discovered recently affects more than 9.5 million individuals. [...]",
+    "created_at": "2026-09-01T19:31:08.342821+00:00"
   }
 ]
