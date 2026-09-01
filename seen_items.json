@@ -8494,5 +8494,23 @@
     "source": "CybersecurityNews",
     "summary": "Hackers are using booby-trapped website themes to turn visits from iPhone users into a route for spyware and cryptocurrency theft. The campaign hides harmful code inside themes used by Vietnamese movie and comic streaming websites, exposing visitors ",
     "created_at": "2026-09-01T08:02:41.075710+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
+    "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
+    "link": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
+    "published": "Tue, 01 Sep 2026 13:56:24 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that&#x27;s been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to interfere with artificial intelligence (AI)-assiste",
+    "created_at": "2026-09-01T09:01:36.049405+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161513",
+    "title": "Popular npm Package With 150K Weekly Downloads Compromised in Mini Shai-Hulud Supply-Chain Attack",
+    "link": "https://cybersecuritynews.com/popular-npm-package-2/",
+    "published": "Tue, 01 Sep 2026 08:36:35 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A JavaScript development package has been caught in a supply-chain compromise that can run malicious code when installed. The incident affects a tool with about 150,000 weekly downloads, risking developer and automated build systems. Attackers publis",
+    "created_at": "2026-09-01T09:02:02.303441+00:00"
   }
 ]
