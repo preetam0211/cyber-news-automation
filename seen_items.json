@@ -8674,5 +8674,23 @@
     "source": "CybersecurityNews",
     "summary": "Five Venezuelan nationals have pleaded guilty in a U.S. federal case involving attempted ATM jackpotting attacks. This criminal technique uses malware to force cash machines to dispense money without legitimate customer transactions. The case follows",
     "created_at": "2026-09-01T14:01:37.461356+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/",
+    "title": "Why Even the Best Edge Security Still Misses High-Risk Sessions",
+    "link": "https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/",
+    "published": "Tue, 01 Sep 2026 10:01:11 -0400",
+    "source": "BleepingComputer",
+    "summary": "Attackers can hide behind residential proxies, VPNs, and other infrastructure that makes malicious sessions appear legitimate to existing edge security controls. Spur explains how session enrichment adds data points that help organizations identify r",
+    "created_at": "2026-09-01T14:31:08.521999+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/",
+    "title": "Novocure data breach affects more than 1,400 cancer patients",
+    "link": "https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/",
+    "published": "Tue, 01 Sep 2026 10:28:40 -0400",
+    "source": "BleepingComputer",
+    "summary": "Healthtech company Novocure says the data of an undisclosed number of employees and more than 1,400 U.S. cancer patients has been exposed in a mid-August cyberattack. [...]",
+    "created_at": "2026-09-01T14:31:10.783219+00:00"
   }
 ]
