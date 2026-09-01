@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158124",
-    "title": "Weekly Cyber Security Newsletter– Claude Hacked 3 Companies, Cisco 0-Day, Word Copilot and VMware Flaw +20 Stories",
-    "link": "https://cybersecuritynews.com/cyber-security-newsletter-august/",
-    "published": "Sun, 02 Aug 2026 12:45:45 +0000",
-    "source": "CybersecurityNews",
-    "summary": "AI systems moved from experimental risk to confirmed attacker, a Cisco firewall zero-day was actively exploited in the wild, and a critical VMware authentication bypass put enterprise virtualization infrastructure at risk. Below is a roundup of the w",
-    "created_at": "2026-08-02T13:31:24.735015+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
     "title": "Google Chrome may soon block New Tab hijacker extensions by default",
     "link": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
@@ -8584,5 +8575,77 @@
     "source": "BleepingComputer",
     "summary": "Nearly 22,000 Microsoft Exchange servers exposed online remain unpatched against a high-severity authentication bypass vulnerability that allows attackers to hijack all user mailboxes. [...]",
     "created_at": "2026-09-01T13:01:23.429848+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161505",
+    "title": "WordPress Is Using AI to Find Security Flaws Before Hackers Can Exploit Them",
+    "link": "https://cybersecuritynews.com/wordpress-is-using-ai-to-find-security-flaws/",
+    "published": "Tue, 01 Sep 2026 12:30:59 +0000",
+    "source": "CybersecurityNews",
+    "summary": "WordPress has launched a new security effort that uses artificial intelligence to identify vulnerabilities in its core software before attackers can abuse them. The initiative comes as the project receives an increasing number of security reports, dr",
+    "created_at": "2026-09-01T13:31:03.891452+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161556",
+    "title": "Hackers Abuse Real ChatGPT Links to Trick Windows Users Into Installing Malware",
+    "link": "https://cybersecuritynews.com/hackers-abuse-real-chatgpt-links/",
+    "published": "Tue, 01 Sep 2026 12:45:18 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Windows users are being targeted through a malicious campaign that turns a ChatGPT shared link into the step of a malware infection. Rather than breaking into the AI platform, the operators place a deceptive message inside a shared conversation and r",
+    "created_at": "2026-09-01T13:31:30.879682+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161578",
+    "title": "21,000+ Microsoft Exchange Servers Remain Exposed to Active CVE-2026-62911 Exploitation",
+    "link": "https://cybersecuritynews.com/exchange-servers-remain-exposed-2026-62911/",
+    "published": "Tue, 01 Sep 2026 12:51:09 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Nearly 22,000 Microsoft Exchange servers worldwide are still running unpatched for CVE-2026-62911, a critical authentication-bypass vulnerability that attackers can exploit to seize control of enterprise email infrastructure. According to daily inter",
+    "created_at": "2026-09-01T13:31:32.901419+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161555",
+    "title": "JFrog Artifactory Auth Bypass Exploited in Attacks to Gain Admin Access",
+    "link": "https://cybersecuritynews.com/jfrog-artifactory-auth-bypass-exploited/",
+    "published": "Tue, 01 Sep 2026 13:06:01 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical authentication bypass vulnerability in JFrog Artifactory, tracked as CVE-2026-82329, is being actively exploited, allowing unauthenticated attackers with network access to gain administrator-level privileges. WatchTowr said its intelligenc",
+    "created_at": "2026-09-01T13:31:34.872354+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
+    "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
+    "link": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
+    "published": "Tue, 01 Sep 2026 18:38:58 +0530",
+    "source": "The Hacker News",
+    "summary": "The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its targeting footprint to infect Linux and Apple macOS systems usi",
+    "created_at": "2026-09-01T13:32:01.874582+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161511",
+    "title": "Hackers Pose as OpenAI, Anthropic and DeepSeek to Steal Credentials and Secrets",
+    "link": "https://cybersecuritynews.com/hackers-pose-as-openai-anthropic-to-steal-secrets/",
+    "published": "Tue, 01 Sep 2026 13:10:55 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Threat actors are impersonating web crawlers from OpenAI, Anthropic, DeepSeek, and other major organizations to scan websites for exposed credentials and sensitive configuration files, targeting misconfigured servers that may leak cloud keys, API tok",
+    "created_at": "2026-09-01T13:32:03.932577+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161532",
+    "title": "Boston Scientific Cyberattack Disrupts Medical Device Manufacturing and Global Operations",
+    "link": "https://cybersecuritynews.com/boston-scientific-cyberattack/",
+    "published": "Tue, 01 Sep 2026 13:15:21 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Boston Scientific is investigating a cybersecurity incident that disrupted parts of its global operations, affecting manufacturing, order processing, and product shipments. The company said the incident was detected on August 25, 2026. It caused a ne",
+    "created_at": "2026-09-01T13:32:05.928256+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161579",
+    "title": "Hackers Weaponize Microsoft Teams Help Desk Calls for Malware and Network Lateral Movement",
+    "link": "https://cybersecuritynews.com/hackers-weaponize-microsoft-teams/",
+    "published": "Tue, 01 Sep 2026 13:30:02 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Attackers are turning Microsoft Teams help desk calls into an entry point for malware and network compromise. A campaign tracked as Spring Ring used external accounts that resembled internal IT support to chat with employees, then call them and press",
+    "created_at": "2026-09-01T13:32:07.904241+00:00"
   }
 ]
