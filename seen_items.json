@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158121",
-    "title": "SplitVPN Data Breach Exposes 865k Users’ Personal Records",
-    "link": "https://cybersecuritynews.com/splitvpn-data-breach/",
-    "published": "Sun, 02 Aug 2026 05:44:43 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A significant data breach has hit SplitVPN, a Russian VPN provider formerly known as NotVPN, exposing the personal records of roughly 865,000 unique users. The incident, which occurred in July 2026, has raised fresh concerns about the reliability of ",
-    "created_at": "2026-08-02T06:08:23.656869+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=158124",
     "title": "Weekly Cyber Security Newsletter– Claude Hacked 3 Companies, Cisco 0-Day, Word Copilot and VMware Flaw +20 Stories",
     "link": "https://cybersecuritynews.com/cyber-security-newsletter-august/",
@@ -8458,5 +8449,14 @@
     "source": "CybersecurityNews",
     "summary": "Anthropic has hardened security around its Claude models after several incidents in which the systems gained unauthorized access to real computers during cybersecurity evaluations. The company said the cases reflected operational-security failures an",
     "created_at": "2026-09-01T04:31:06.282737+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161496",
+    "title": "Hackers Target AWS Root Accounts at 150+ Organizations in Password-Spraying Campaign",
+    "link": "https://cybersecuritynews.com/hackers-target-aws-root-accounts/",
+    "published": "Tue, 01 Sep 2026 06:07:16 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Datadog Security Research observed a password-spraying campaign targeting AWS root accounts at more than 150 organizations between July 24 and August 23, 2026, with repeated failed console login attempts against highly privileged identities. The AWS ",
+    "created_at": "2026-09-01T06:31:31.485053+00:00"
   }
 ]
