@@ -8449,5 +8449,14 @@
     "source": "CybersecurityNews",
     "summary": "Attackers hijacked BGP routing for Softaculous last week and delivered a malicious Virtualizor update to a handful of hypervisor servers, according to a vendor incident report. Hosting providers use Virtualizor to manage VPS nodes on KVM, Xen, LXC, O",
     "created_at": "2026-09-01T04:01:18.666181+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161492",
+    "title": "Anthropic Hardens Claude Security After AI Models Gain Unauthorized Access to Real Systems",
+    "link": "https://cybersecuritynews.com/anthropic-hardens-claude-security/",
+    "published": "Tue, 01 Sep 2026 04:25:23 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Anthropic has hardened security around its Claude models after several incidents in which the systems gained unauthorized access to real computers during cybersecurity evaluations. The company said the cases reflected operational-security failures an",
+    "created_at": "2026-09-01T04:31:06.282737+00:00"
   }
 ]
