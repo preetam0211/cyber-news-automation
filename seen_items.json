@@ -8521,5 +8521,14 @@
     "source": "BleepingComputer",
     "summary": "Five Venezuelan nationals pleaded guilty to attempting to empty automated teller machines (ATMs) using malware in a series of ATM jackpotting attacks. [...]",
     "created_at": "2026-09-01T09:31:53.006354+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
+    "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
+    "link": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
+    "published": "Tue, 01 Sep 2026 14:35:30 +0530",
+    "source": "The Hacker News",
+    "summary": "METR (short for Model Evaluation and Threat Research and pronounced &quot;Meter&quot;), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-horizon, agentic tasks, disclosed that it su",
+    "created_at": "2026-09-01T10:31:41.642304+00:00"
   }
 ]
