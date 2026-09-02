@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158154",
-    "title": "Hackers Exploit VeloCloud Orchestrator Command Injection Vulnerability in the Wild",
-    "link": "https://cybersecuritynews.com/velocloud-command-injection-exploit/",
-    "published": "Mon, 03 Aug 2026 14:36:34 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Security researchers have issued a warning about a critical command injection vulnerability that is being actively exploited in on-premises VeloCloud Orchestrator (VCO) deployments. This vulnerability, tracked as CVE-2026-16812, allows remote attacke",
-    "created_at": "2026-08-03T16:01:13.290965+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158190",
-    "title": "TP-Link TL-WR940N Vulnerability Enables Remote Code Execution Attacks",
-    "link": "https://cybersecuritynews.com/tp-link-rce-vulnerability/",
-    "published": "Mon, 03 Aug 2026 14:44:28 +0000",
-    "source": "CybersecurityNews",
-    "summary": "TP-Link has issued a security advisory regarding a high-severity vulnerability affecting its TL-WR940N V6 wireless router. This vulnerability, tracked as CVE-2026-12935, could allow unauthenticated attackers to trigger a denial-of-service condition o",
-    "created_at": "2026-08-03T16:01:14.635503+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158198",
-    "title": "Hugging Face Diffusers Vulnerabilities Enable Remote Code Execution Through Malicious AI Models",
-    "link": "https://cybersecuritynews.com/hugging-face-diffusers-vulnerabilities/",
-    "published": "Mon, 03 Aug 2026 15:01:22 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A set of high-severity vulnerabilities in Hugging Face’s diffusers library that allow a malicious model repository to silently execute arbitrary code on any machine that loads it. The flaws bypass trust_remote_code, the very safeguard designed to sto",
-    "created_at": "2026-08-03T16:01:15.443428+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
     "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
     "link": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
@@ -8926,5 +8899,23 @@
     "source": "BleepingComputer",
     "summary": "A critical authentication bypass vulnerability (CVE-2026-82329) in JFrog Artifactory is being exploited in attacks to create tokens that provide administrative access. [...]",
     "created_at": "2026-09-02T16:01:07.495658+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161822",
+    "title": "Hackers Target US and EU Firms With Microsoft 365 Session Hijacking and RMM Abuse",
+    "link": "https://cybersecuritynews.com/microsoft-365-session-hijacking/",
+    "published": "Wed, 02 Sep 2026 16:04:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A wave of cyberattacks across the US and Europe in August exploited the trust businesses place in everyday tools, turning Microsoft 365 logins, remote-management software, and routine business documents into entry points for attackers. Security resea",
+    "created_at": "2026-09-02T16:31:07.781598+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161830",
+    "title": "GitSpawn Flaws Let Malicious Repositories Execute Code in Claude Code, Codex, Cursor, and Grok",
+    "link": "https://cybersecuritynews.com/gitspawn-flaws-execute-code/",
+    "published": "Wed, 02 Sep 2026 16:29:54 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly disclosed class of vulnerabilities, dubbed GitSpawn, allows a booby-trapped repository to silently execute code on a developer’s machine the moment it is opened with an AI coding agent, no prompt typed, no approval clicked, and in some cases ",
+    "created_at": "2026-09-02T16:31:09.997388+00:00"
   }
 ]
