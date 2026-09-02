@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158176",
-    "title": "ModernStealer Threat Actor Linked to Government and Defense Data-Leak Claims",
-    "link": "https://cybersecuritynews.com/modernstealer-threat-actor/",
-    "published": "Mon, 03 Aug 2026 11:05:10 +0000",
-    "source": "CybersecurityNews",
-    "summary": "ModernStealer is the name behind underground posts claiming to offer military, government, nuclear, and aerospace material. The posts appeared on dark web forums and Telegram, making a single alias a concern for public-sector and defence teams. The a",
-    "created_at": "2026-08-03T13:31:36.627123+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158187",
-    "title": "Android RAT Survives Reboots Using Watchdog Services and Boot Receivers",
-    "link": "https://cybersecuritynews.com/android-rat-survives-reboots/",
-    "published": "Mon, 03 Aug 2026 13:41:37 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Android users are facing a new remote-access threat that hides behind a fake emergency alert application. The malware, called Octagon, poses as Bahrain’s BH Alert service and leads victims through a convincing setup process designed to win dangerous ",
-    "created_at": "2026-08-03T14:01:40.651422+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
     "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
     "link": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
@@ -8863,5 +8845,23 @@
     "source": "CybersecurityNews",
     "summary": "Researchers used Claude AI to help port a pre-authentication remote code execution exploit to a WAGO programmable logic controller, demonstrating how AI can assist with low-level operational technology exploitation. The experiment achieved arbitrary ",
     "created_at": "2026-09-02T13:02:52.116133+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
+    "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
+    "link": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
+    "published": "Wed, 02 Sep 2026 17:52:02 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and can give operators near-complete control of infecte",
+    "created_at": "2026-09-02T14:01:27.499546+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
+    "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
+    "link": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
+    "published": "Wed, 02 Sep 2026 18:42:45 +0530",
+    "source": "The Hacker News",
+    "summary": "Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor package to some installations. A hosting-provider account separat",
+    "created_at": "2026-09-02T14:01:54.592822+00:00"
   }
 ]
