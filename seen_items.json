@@ -8746,5 +8746,14 @@
     "source": "CybersecurityNews",
     "summary": "Anthropic has rolled out two new frontier AI models, Claude Fable 5.1 and Claude Mythos 5.1, positioning them as the most capable systems yet for software development, enterprise knowledge work, and scientific research. While both models share identi",
     "created_at": "2026-09-02T04:31:06.401719+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161679",
+    "title": "OpenAI’s New Astra AI Can Discover Zero-Day Security Flaws and Build Exploits",
+    "link": "https://cybersecuritynews.com/openai-astra-discover-zero-day-flaws/",
+    "published": "Wed, 02 Sep 2026 05:45:39 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OpenAI says its upcoming Astra model has reached the company’s Critical cybersecurity capability threshold, meaning it can independently discover unknown vulnerabilities and develop working exploits against hardened systems when given the right tools",
+    "created_at": "2026-09-02T06:01:08.504969+00:00"
   }
 ]
