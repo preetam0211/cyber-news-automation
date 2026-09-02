@@ -8809,5 +8809,23 @@
     "source": "CybersecurityNews",
     "summary": "Silver Fox-linked hackers are using counterfeit software installers to break into Windows systems and weaken the protections meant to stop them. The campaign relies on convincing download pages that copy well-known software brands and offer a seeming",
     "created_at": "2026-09-02T09:32:37.355236+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161729",
+    "title": "Hackers Pose as IT Support on Microsoft Teams to Take Remote Control of Windows PCs",
+    "link": "https://cybersecuritynews.com/hackers-pose-as-it-support-microsoft-teams/",
+    "published": "Wed, 02 Sep 2026 10:00:55 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cybercriminals are posing as IT technicians on Microsoft Teams and persuading employees to hand over control of their Windows computers. The campaign turns a familiar support conversation into a direct path for installing malware, leaving the intrude",
+    "created_at": "2026-09-02T10:31:23.146444+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/",
+    "title": "Microsoft Defender flags legitimate Google search links as malicious",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/",
+    "published": "Wed, 02 Sep 2026 06:29:39 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft is investigating an issue causing the Defender for Office 365 security software to mistakenly block access to legitimate Google search links. [...]",
+    "created_at": "2026-09-02T10:31:38.589045+00:00"
   }
 ]
