@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
-    "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web",
-    "link": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
-    "published": "Mon, 03 Aug 2026 14:43:56 +0530",
-    "source": "The Hacker News",
-    "summary": "The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web.\n\nThe data included names, organisations and work email addresses belonging to police offic",
-    "created_at": "2026-08-03T11:01:34.702112+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
-    "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
-    "link": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
-    "published": "Mon, 03 Aug 2026 16:19:06 +0530",
-    "source": "The Hacker News",
-    "summary": "An unknown Chinese-threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit.\n\nAttack surface management platform Censys said it identified the threat actor runn",
-    "created_at": "2026-08-03T11:01:38.180992+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
     "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
     "link": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
@@ -8827,5 +8809,14 @@
     "source": "BleepingComputer",
     "summary": "Microsoft is investigating an issue causing the Defender for Office 365 security software to mistakenly block access to legitimate Google search links. [...]",
     "created_at": "2026-09-02T10:31:38.589045+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
+    "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
+    "link": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
+    "published": "Wed, 02 Sep 2026 16:23:49 +0530",
+    "source": "The Hacker News",
+    "summary": "SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks.\n\nThe vulnerabilities, discovered internally by SonicWall&#x27;s Wi",
+    "created_at": "2026-09-02T11:31:25.295712+00:00"
   }
 ]
