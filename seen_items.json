@@ -8827,5 +8827,41 @@
     "source": "BleepingComputer",
     "summary": "Dropbox is warning some users that an unauthorized party accessed their accounts by exploiting a flaw in Lenovo&#x27;s email verification process to register fraudulent Lenovo IDs. [...]",
     "created_at": "2026-09-02T12:31:41.684645+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161732",
+    "title": "Hackers Exploit LiteLLM Admin API Flaw to Steal Secrets and Target AI Gateway Servers",
+    "link": "https://cybersecuritynews.com/hackers-exploit-litellm-admin-api-flaw/",
+    "published": "Wed, 02 Sep 2026 11:44:12 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Attackers are actively probing LiteLLM AI gateway deployments for a known authorization flaw that can turn a low-privilege account into full administrative control. The issue, tracked as CVE-2026-35029, affects LiteLLM versions before 1.83.0 and allo",
+    "created_at": "2026-09-02T13:01:56.222634+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161743",
+    "title": "Palo Alto Networks Acquires Console to Build AI Agents for Autonomous Security Operations",
+    "link": "https://cybersecuritynews.com/palo-alto-networks-acquires-console/",
+    "published": "Wed, 02 Sep 2026 12:02:15 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Palo Alto Networks has acquired Console, an AI-native platform that will strengthen Cortex by enabling AI-driven security workflows to investigate, prioritize, and remediate threats at machine speed. The acquisition comes as security teams face risin",
+    "created_at": "2026-09-02T13:02:48.085825+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161738",
+    "title": "FreeRDP Fixes 22 Security Flaws and Urges Users to Update Immediately",
+    "link": "https://cybersecuritynews.com/freerdp-fixes-22-security-flaws/",
+    "published": "Wed, 02 Sep 2026 12:10:12 +0000",
+    "source": "CybersecurityNews",
+    "summary": "FreeRDP released version 3.31.0, addressing 22 security flaws and multiple bugs in its open-source Remote Desktop Protocol implementation, and urges users and distributors to update promptly. FreeRDP is widely used by Linux systems, thin clients, rem",
+    "created_at": "2026-09-02T13:02:50.126791+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161771",
+    "title": "Claude AI Builds Pre-Auth RCE Exploit for WAGO PLC to Execute ARM Shellcode Without Credentials",
+    "link": "https://cybersecuritynews.com/claude-ai-builds-pre-auth-rce-exploit/",
+    "published": "Wed, 02 Sep 2026 12:37:49 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Researchers used Claude AI to help port a pre-authentication remote code execution exploit to a WAGO programmable logic controller, demonstrating how AI can assist with low-level operational technology exploitation. The experiment achieved arbitrary ",
+    "created_at": "2026-09-02T13:02:52.116133+00:00"
   }
 ]
