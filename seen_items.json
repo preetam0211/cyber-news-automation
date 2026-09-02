@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
-    "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
-    "link": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
-    "published": "Mon, 03 Aug 2026 15:25:10 -0400",
-    "source": "BleepingComputer",
-    "summary": "Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and steals sensitive information. [...]",
-    "created_at": "2026-08-03T19:31:19.402983+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
     "title": "New DOUBLECUP ClickFix service hides malware in browser cache images",
     "link": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
@@ -8890,5 +8881,23 @@
     "source": "CybersecurityNews",
     "summary": "A newly disclosed WhatsApp flaw on Android is raising fresh privacy alarms, allowing anyone holding a locked phone to browse through its entire photo gallery simply by answering an incoming video call. The issue was uncovered by security researcher J",
     "created_at": "2026-09-02T18:01:35.757783+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
+    "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
+    "link": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
+    "published": "Wed, 02 Sep 2026 23:57:49 +0530",
+    "source": "The Hacker News",
+    "summary": "Google on Wednesday announced Gemini 3.8 Flash Cyber, which it described as its most capable cybersecurity model, and has made it available to a set of trusted defenders via a new initiative called the Fairwind Program.\n\n&quot;The Fairwind Program gi",
+    "created_at": "2026-09-02T19:31:10.457754+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
+    "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
+    "published": "Wed, 02 Sep 2026 15:28:46 -0400",
+    "source": "BleepingComputer",
+    "summary": "An SQL injection vulnerability in the All-in-One WP Migration and Backup plugin for WordPress could allow unauthenticated attackers to execute remote code and take control of affected websites. [...]",
+    "created_at": "2026-09-02T19:31:36.247256+00:00"
   }
 ]
