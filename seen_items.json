@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
-    "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
-    "link": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
-    "published": "Mon, 03 Aug 2026 17:00:00 +0530",
-    "source": "The Hacker News",
-    "summary": "AI is moving incredibly fast, and every security leader is feeling the pressure to keep up.\n\nAI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize incidents, and automate repetit",
-    "created_at": "2026-08-03T12:31:28.933207+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=158176",
     "title": "ModernStealer Threat Actor Linked to Government and Defense Data-Leak Claims",
     "link": "https://cybersecuritynews.com/modernstealer-threat-actor/",
@@ -8818,5 +8809,23 @@
     "source": "The Hacker News",
     "summary": "SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks.\n\nThe vulnerabilities, discovered internally by SonicWall&#x27;s Wi",
     "created_at": "2026-09-02T11:31:25.295712+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
+    "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
+    "link": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
+    "published": "Wed, 02 Sep 2026 17:00:00 +0530",
+    "source": "The Hacker News",
+    "summary": "The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizations must focus on adopting AI at business speed w",
+    "created_at": "2026-09-02T12:31:39.545876+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
+    "title": "Dropbox accounts breached through Lenovo email verification flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
+    "published": "Wed, 02 Sep 2026 08:30:22 -0400",
+    "source": "BleepingComputer",
+    "summary": "Dropbox is warning some users that an unauthorized party accessed their accounts by exploiting a flaw in Lenovo&#x27;s email verification process to register fraudulent Lenovo IDs. [...]",
+    "created_at": "2026-09-02T12:31:41.684645+00:00"
   }
 ]
