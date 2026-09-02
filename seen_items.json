@@ -8728,5 +8728,14 @@
     "source": "BleepingComputer",
     "summary": "Phishing actors are abusing the legitimate Faronics Deploy endpoint-management platform to gain remote administrative control over victim computers and install the ScreenConnect remote support software. [...]",
     "created_at": "2026-09-01T21:01:05.509091+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161632",
+    "title": "OWASP Launches OASIS AI Initiative to Fix Open Source Vulnerabilities at Scale",
+    "link": "https://cybersecuritynews.com/owasp-oasis-ai-initiative/",
+    "published": "Wed, 02 Sep 2026 03:46:22 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OWASP has launched the Open Automated Security Initiative for Software (OASIS), a global community effort designed to close the gap between finding vulnerabilities in open source code and actually fixing them. Announced on August 26, 2026, in San Fra",
+    "created_at": "2026-09-02T04:01:15.776388+00:00"
   }
 ]
