@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158143",
-    "title": "Coldcard Hardware Wallet RNG Flaw Linked to $88.6 Million Bitcoin Theft",
-    "link": "https://cybersecuritynews.com/coldcard-hardware-wallet-rng-flaw-bitcoin-theft/",
-    "published": "Mon, 03 Aug 2026 06:09:25 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A firmware flaw in Coldcard hardware wallets has been linked to the theft of approximately $88.6 million in Bitcoin. Attackers exploited a compromised random number generator, allowing them to reconstruct victims’ private keys without ever accessing ",
-    "created_at": "2026-08-03T06:31:22.104113+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158149",
-    "title": "Critical N-Able N-Central Vulnerability Allows Hackers to Gain god-mode Access to the RMM Console",
-    "link": "https://cybersecuritynews.com/n-able-n-central-vulnerability/",
-    "published": "Mon, 03 Aug 2026 06:26:29 +0000",
-    "source": "CybersecurityNews",
-    "summary": "N-able has disclosed a critical security vulnerability in its N-central remote monitoring and management (RMM) platform, which could allow unauthenticated attackers to gain full administrative, or “god-mode,” access to the RMM console. This issue aff",
-    "created_at": "2026-08-03T06:31:37.317833+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
     "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code",
     "link": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
@@ -8755,5 +8737,14 @@
     "source": "CybersecurityNews",
     "summary": "OpenAI says its upcoming Astra model has reached the company’s Critical cybersecurity capability threshold, meaning it can independently discover unknown vulnerabilities and develop working exploits against hardened systems when given the right tools",
     "created_at": "2026-09-02T06:01:08.504969+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
+    "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
+    "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
+    "published": "Wed, 02 Sep 2026 02:39:29 -0400",
+    "source": "BleepingComputer",
+    "summary": "SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks. [...]",
+    "created_at": "2026-09-02T07:04:39.695711+00:00"
   }
 ]
