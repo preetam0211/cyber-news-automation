@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/",
-    "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff",
-    "link": "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/",
-    "published": "Mon, 03 Aug 2026 11:04:39 -0400",
-    "source": "BleepingComputer",
-    "summary": "A cyberattack on the U.K.&#x27;s Police National Legal Database (PNLD) has compromised contact data of more than 100,000 police officers and other criminal justice professionals. [...]",
-    "created_at": "2026-08-03T15:34:37.464108+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=158154",
     "title": "Hackers Exploit VeloCloud Orchestrator Command Injection Vulnerability in the Wild",
     "link": "https://cybersecuritynews.com/velocloud-command-injection-exploit/",
@@ -8926,5 +8917,14 @@
     "source": "CybersecurityNews",
     "summary": "Dropbox has disclosed that approximately 5,000 user accounts were compromised in August after attackers exploited a weakness involving its Lenovo ID sign-in integration. The incident highlights the security risks that can arise when cloud platforms t",
     "created_at": "2026-09-02T15:31:16.794270+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
+    "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
+    "published": "Wed, 02 Sep 2026 11:47:08 -0400",
+    "source": "BleepingComputer",
+    "summary": "A critical authentication bypass vulnerability (CVE-2026-82329) in JFrog Artifactory is being exploited in attacks to create tokens that provide administrative access. [...]",
+    "created_at": "2026-09-02T16:01:07.495658+00:00"
   }
 ]
