@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158164",
-    "title": "XCSSET v40 Abuses Chrome DevTools Protocol to Steal Cookies and Run Commands",
-    "link": "https://cybersecuritynews.com/xcsset-v40-abuses-chrome-devtools/",
-    "published": "Mon, 03 Aug 2026 08:19:33 +0000",
-    "source": "CybersecurityNews",
-    "summary": "XCSSET has returned with a way to target macOS developers. The latest version, v40, hides inside poisoned Xcode projects and can turn a local build into a supply-chain compromise. Once activated, it can spread through other projects, raising risk for",
-    "created_at": "2026-08-03T08:31:41.809906+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
     "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
     "link": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
