@@ -8953,5 +8953,14 @@
     "source": "CybersecurityNews",
     "summary": "Broadcom has issued a critical security advisory warning that two newly disclosed flaws in VMware Workstation and Fusion could let attackers break out of a virtual machine and run malicious code directly on the underlying host system, a scenario that",
     "created_at": "2026-09-03T12:01:58.759469+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/",
+    "title": "Microsoft says KB5120998 Windows update resets desktop settings",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/",
+    "published": "Thu, 03 Sep 2026 08:16:32 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft has confirmed that desktop settings are lost or reset on some Windows devices after installing the KB5120998 August 2026 preview update. [...]",
+    "created_at": "2026-09-03T12:31:08.377369+00:00"
   }
 ]
