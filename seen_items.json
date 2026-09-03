@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158349",
-    "title": "Airlock Digital Unveils Agentic AI Control & Governance to Extend Preventative Endpoint Security",
-    "link": "https://cybersecuritynews.com/airlock-digital-unveils-agentic-ai-control-governance-to-extend-preventative-endpoint-security/",
-    "published": "Tue, 04 Aug 2026 17:03:23 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Atlanta, GA, August 4th, 2026, CyberNewswire Airlock Digital announces Agentic AI Control &amp; Governance, extending its preventative endpoint security solution with visibility into trusted AI agent behavior and governance over what trusted agents a",
-    "created_at": "2026-08-04T17:31:14.184272+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158355",
-    "title": "Hackers Can Weaponize Microsoft Copilot to Hijack CEO Accounts and Redirect Wire Transfers",
-    "link": "https://cybersecuritynews.com/hackers-weaponize-microsoft-copilot/",
-    "published": "Tue, 04 Aug 2026 17:07:31 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A new proof-of-concept reveals how attackers can turn Microsoft Copilot, the AI assistant embedded in Microsoft 365, into an unwitting accomplice for business email compromise (BEC) and large-scale wire fraud. The demonstration shows that a single co",
-    "created_at": "2026-08-04T17:31:16.325620+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158358",
-    "title": "2026 Cybersecurity Excellence Awards: Community Choice Winners Selected Through 80,000 Votes",
-    "link": "https://cybersecuritynews.com/2026-cybersecurity-excellence-awards-community-choice-winners-selected-through-80000-votes/",
-    "published": "Tue, 04 Aug 2026 17:16:35 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Las Vegas, Nevada, August 4th, 2026, CyberNewswire The Cybersecurity Excellence Awards today announced the winners of the 2026 Community Choice Award, selected through 79,455 votes cast during the awards season. AI security ranked among the highest-v",
-    "created_at": "2026-08-04T17:31:18.444534+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html",
-    "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
-    "link": "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html",
-    "published": "Tue, 04 Aug 2026 22:57:39 +0530",
-    "source": "The Hacker News",
-    "summary": "The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the legitimate OAuth 2.0 Device Authorization Grant t",
-    "created_at": "2026-08-04T17:31:20.485289+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
     "title": "77 Open VSX extensions found harvesting developer info",
     "link": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
@@ -8971,5 +8935,23 @@
     "source": "The Hacker News",
     "summary": "Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, alongside an IOS XR hardening release bundling 7 umbrella ",
     "created_at": "2026-09-03T17:04:38.807574+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162002",
+    "title": "Fewer attacks, more force: Link11’s European Cyber Report finds new DDoS records for the first half of 2026",
+    "link": "https://cybersecuritynews.com/fewer-attacks-more-force-link11s-european-cyber-report-finds-new-ddos-records-for-the-first-half-of-2026/",
+    "published": "Thu, 03 Sep 2026 16:45:29 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Frankfurt am Main, Germany, September 3rd, 2026, CyberNewswire Super-botnets and hijacked cloud servers drive new bandwidth and packet-rate records as international law-enforcement pressure pushes attack counts down Link11 has released its European C",
+    "created_at": "2026-09-03T18:01:27.788815+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162042",
+    "title": "LLMjacking Attack Uses Leaked AWS IAM Key to Steal Paid AI Model Access",
+    "link": "https://cybersecuritynews.com/llmjacking-attack/",
+    "published": "Thu, 03 Sep 2026 16:58:34 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly documented cloud intrusion shows how quickly attackers can turn a single leaked AWS credential into a revenue stream by hijacking access to premium AI models, a technique researchers call LLMjacking. Security researchers at FortiGuard Labs tr",
+    "created_at": "2026-09-03T18:01:54.660613+00:00"
   }
 ]
