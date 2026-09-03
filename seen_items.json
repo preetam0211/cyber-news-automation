@@ -8953,5 +8953,14 @@
     "source": "CybersecurityNews",
     "summary": "A newly documented cloud intrusion shows how quickly attackers can turn a single leaked AWS credential into a revenue stream by hijacking access to premium AI models, a technique researchers call LLMjacking. Security researchers at FortiGuard Labs tr",
     "created_at": "2026-09-03T18:01:54.660613+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
+    "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
+    "published": "Thu, 03 Sep 2026 14:28:12 -0400",
+    "source": "BleepingComputer",
+    "summary": "Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution. [...]",
+    "created_at": "2026-09-03T18:31:40.539444+00:00"
   }
 ]
