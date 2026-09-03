@@ -1,86 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158293",
-    "title": "Keyv npm Package with 127M Weekly Downloads Compromised in Shai-Hulud Attack",
-    "link": "https://cybersecuritynews.com/keyv-npm-package-compromised/",
-    "published": "Tue, 04 Aug 2026 11:48:31 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Attackers have compromised the GitHub account of the maintainer behind keyv, a popular key-value storage library that pulls in roughly 127 million weekly downloads on npm, and used that access to push credential-stealing malware across the maintainer",
-    "created_at": "2026-08-04T14:01:44.672818+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158287",
-    "title": "Russian Hacker Breaches Companies, Sells Their Access and Spies on Ukrainian Military Sites",
-    "link": "https://cybersecuritynews.com/russian-hacker-breaches-companies/",
-    "published": "Tue, 04 Aug 2026 11:58:09 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A Russian-speaking hacker has been linked to a broad operation that breached organizations worldwide, collected credentials, and prepared access for sale to ransomware groups. The activity affected education, healthcare, financial services, telecommu",
-    "created_at": "2026-08-04T14:01:46.715874+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158297",
-    "title": "Roblox Malware Streams Victims’ Desktops and Captures Webcam Footage",
-    "link": "https://cybersecuritynews.com/roblox-malware-streams-desktops/",
-    "published": "Tue, 04 Aug 2026 12:14:24 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A malicious Roblox cheat campaign is turning a familiar gaming shortcut into a serious privacy threat. Players seeking an “undetected” Xeno script executor are being lured through gaming forums and Discord communities into downloading files that appe",
-    "created_at": "2026-08-04T14:01:48.805437+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158245",
-    "title": "Public PoC Released for CUPS Vulnerability Allows Attackers to Gain Root Privileges",
-    "link": "https://cybersecuritynews.com/public-poc-released-for-cups-vulnerability/",
-    "published": "Tue, 04 Aug 2026 12:19:29 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A public proof-of-concept (PoC) has been released for CVE-2026-39875, a macOS vulnerability in the Common UNIX Printing System (CUPS) that allows an unprivileged local user to perform arbitrary file writes with root privileges. The flaw affects macOS",
-    "created_at": "2026-08-04T14:01:50.903334+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158280",
-    "title": "CISA Warns of N-able N-central Authentication Bypass Vulnerability Exploited in Attacks",
-    "link": "https://cybersecuritynews.com/n-able-n-central-auth-bypass-exploited/",
-    "published": "Tue, 04 Aug 2026 12:44:52 +0000",
-    "source": "CybersecurityNews",
-    "summary": "CISA has warned that attackers are actively exploiting a critical authentication bypass vulnerability in N-able N-central. Tracked as CVE-2026-18577, the flaw affects N-central servers running versions earlier than 2026.3.1.7. N-central is a remote m",
-    "created_at": "2026-08-04T14:01:52.251317+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158286",
-    "title": "OWASP Subtractive Security Top 10 Project Released to Identify and Reduce Cyber Risks",
-    "link": "https://cybersecuritynews.com/owasp-subtractive-security-top-10-project/",
-    "published": "Tue, 04 Aug 2026 13:06:50 +0000",
-    "source": "CybersecurityNews",
-    "summary": "The Open Worldwide Application Security Project, or OWASP, has introduced the Subtractive Security Top 10 Project, a security engineering initiative focused on eliminating attack paths rather than merely detecting or monitoring them. Traditional cybe",
-    "created_at": "2026-08-04T14:01:53.113344+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158325",
-    "title": "DarkSword iOS Exploit Kit Spreads Across 180 Web Properties and 27 Hosts",
-    "link": "https://cybersecuritynews.com/darksword-ios-exploit-kit/",
-    "published": "Tue, 04 Aug 2026 13:13:51 +0000",
-    "source": "CybersecurityNews",
-    "summary": "DarkSword has expanded from a leaked iOS exploit chain into a broad and fast-changing network of malicious web infrastructure. The campaign targets iPhones running iOS 18.4 through 18.7 and is designed to steal highly sensitive data after a victim vi",
-    "created_at": "2026-08-04T14:01:55.192451+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158326",
-    "title": "Six Flowise RCE Flaws Let Attackers Execute Code on AI Workflow Servers",
-    "link": "https://cybersecuritynews.com/six-flowise-rce-flaws/",
-    "published": "Tue, 04 Aug 2026 13:57:53 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Flowise servers used to build AI agents and automated workflows are facing six newly disclosed remote code execution flaws. The weaknesses could allow authenticated attackers to run commands on the underlying server, putting data, credentials, and co",
-    "created_at": "2026-08-04T14:02:02.965726+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html",
-    "title": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access",
-    "link": "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html",
-    "published": "Tue, 04 Aug 2026 18:41:22 +0530",
-    "source": "The Hacker News",
-    "summary": "Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and system maintenance utilities to stealthily deploy R",
-    "created_at": "2026-08-04T14:31:17.497131+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
     "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
     "link": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
@@ -8953,5 +8872,50 @@
     "source": "BleepingComputer",
     "summary": "Infostealers can expose far more than passwords, including authenticated sessions that may let attackers bypass MFA. Flare explains how defenders can prioritize compromised identities, determine whether stolen access is still usable, and respond befo",
     "created_at": "2026-09-03T14:01:28.907888+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161978",
+    "title": "3 High-Severity HP Easy Start Flaws Let Attackers Escalate Privileges on macOS",
+    "link": "https://cybersecuritynews.com/hp-easy-start-flaws-on-macos/",
+    "published": "Thu, 03 Sep 2026 13:35:41 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Three high-severity vulnerabilities in HP Easy Start for macOS could allow attackers to interfere with printer-software installation workflows and potentially gain elevated privileges. The flaws affect versions earlier than 2.16.7.260722, and HP has ",
+    "created_at": "2026-09-03T14:31:25.043274+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161993",
+    "title": "Microsoft to Expand Memory Integrity Protection Across Windows Devices",
+    "link": "https://cybersecuritynews.com/memory-integrity-protection-windows/",
+    "published": "Thu, 03 Sep 2026 13:46:56 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft will begin expanding memory integrity protection across eligible Windows devices in October 2026, automatically enabling a stronger kernel-level security baseline for more users and organizations. The change is designed to protect Windows f",
+    "created_at": "2026-09-03T14:31:31.478314+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162013",
+    "title": "New $7 SweepLED Device That Allows Anyone to Detect Hidden Cameras in Hotels",
+    "link": "https://cybersecuritynews.com/sweepled-gadget/",
+    "published": "Thu, 03 Sep 2026 14:04:05 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Researchers have developed SweepLED, a low-cost smartphone accessory designed to help travelers find concealed cameras in hotel rooms and short-term rentals. The prototype uses an LED-equipped phone case, computer vision, and machine learning to iden",
+    "created_at": "2026-09-03T14:31:33.435276+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161999",
+    "title": "153 Million Driver’s License Scans Surface on Dark Web as FBI Opens Investigation",
+    "link": "https://cybersecuritynews.com/153-million-driver-license-exposed/",
+    "published": "Thu, 03 Sep 2026 14:24:36 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A dark web identity theft service known as Nexus has reportedly offered scans of more than 153 million driver’s licenses from people in the United States and Canada. The FBI’s New Orleans field office has opened an investigation into the suspected so",
+    "created_at": "2026-09-03T14:31:35.425767+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161994",
+    "title": "Hackers Use QR Codes in Phishing Emails to Steal Login Credentials",
+    "link": "https://cybersecuritynews.com/hackers-use-qr-codes-2/",
+    "published": "Thu, 03 Sep 2026 14:24:47 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are putting QR codes in phishing emails to steal login credentials. Known as quishing, the method hides a dangerous web address inside a square and persuades recipients to scan it with a phone. The tactic exploits a habit: people distrust sus",
+    "created_at": "2026-09-03T14:31:37.389170+00:00"
   }
 ]
