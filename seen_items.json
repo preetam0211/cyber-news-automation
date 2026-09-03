@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
-    "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
-    "link": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
-    "published": "Tue, 04 Aug 2026 19:00:23 +0530",
-    "source": "The Hacker News",
-    "summary": "A credential-stealing npm worm that first appeared in keyv@6.0.0 spread beyond the Keyv and Cacheable namespaces into hundreds of packages across multiple organizations on August 4, 2026.\n\nSafeDep verified 353 poisoned versions across 79 package name",
-    "created_at": "2026-08-04T14:31:44.419627+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
-    "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
-    "link": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
-    "published": "Tue, 04 Aug 2026 10:00:10 -0400",
-    "source": "BleepingComputer",
-    "summary": "AI agents need broad access to be useful, but traditional access controls cannot determine whether an action aligns with a user&#x27;s intent. Varonis explains how Agent IBAC detects intent drift and enforces real-time guardrails to keep agents withi",
-    "created_at": "2026-08-04T14:31:46.452148+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
     "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
     "link": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
@@ -8917,5 +8899,41 @@
     "source": "CybersecurityNews",
     "summary": "Hackers are putting QR codes in phishing emails to steal login credentials. Known as quishing, the method hides a dangerous web address inside a square and persuades recipients to scan it with a phone. The tactic exploits a habit: people distrust sus",
     "created_at": "2026-09-03T14:31:37.389170+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162028",
+    "title": "Claude AI Faces Outage Impacting Mythos 5.1, Fable 5.1, and Opus 5",
+    "link": "https://cybersecuritynews.com/claude-ai-faces-outage/",
+    "published": "Thu, 03 Sep 2026 14:39:32 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Anthropic’s Claude AI experienced a partial outage on September 3, 2026, disrupting requests across several Claude models and affecting developers, enterprise users, and individuals relying on the platform for coding, research, writing, and creative ",
+    "created_at": "2026-09-03T15:01:03.354587+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161928",
+    "title": "Chaotic Eclipse Claims Avast Antivirus 0-Day Vulnerability – PoC Released",
+    "link": "https://cybersecuritynews.com/avast-antivirus-0-day-vulnerability-poc-released/",
+    "published": "Thu, 03 Sep 2026 14:47:29 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Researcher Chaotic Eclipse has claimed to have discovered a zero-day privilege-escalation vulnerability affecting Avast Antivirus and released a public proof-of-concept repository named PrettyPrague. The researcher behind the project, using the GitHu",
+    "created_at": "2026-09-03T15:01:06.654781+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
+    "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
+    "published": "Thu, 03 Sep 2026 10:52:20 -0400",
+    "source": "BleepingComputer",
+    "summary": "A recently patched critical vulnerability (CVE-2026-32475) in the Elementor Pro plugin for WordPress is being exploited in attacks that deliver a webshell payload and execute arbitrary commands on the server. [...]",
+    "created_at": "2026-09-03T15:01:33.711065+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162010",
+    "title": "Hackers Weaponize ScreenConnect to Spread Worm-Like Malware Across Windows Systems",
+    "link": "https://cybersecuritynews.com/hackers-weaponize-screenconnect/",
+    "published": "Thu, 03 Sep 2026 14:52:58 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are turning rogue remote-support installations into a tool that can spread malicious code between Windows computers. The activity stands out because an infected remote-access client can pass staged payloads to connected systems, widening an i",
+    "created_at": "2026-09-03T15:01:35.755210+00:00"
   }
 ]
