@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158229",
-    "title": "North Korean Hackers Are Hiding Malware Servers Inside Empty Crypto Transfers",
-    "link": "https://cybersecuritynews.com/north-korean-hackers-hiding-malware/",
-    "published": "Tue, 04 Aug 2026 07:01:10 +0000",
-    "source": "CybersecurityNews",
-    "summary": "North Korean-linked attackers are using a new way to hide the servers that control malware. The method places a command server address inside an empty Ethereum transaction, making the activity look like a normal crypto transfer rather than a malware ",
-    "created_at": "2026-08-04T07:31:22.118676+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
     "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
     "link": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
@@ -8899,5 +8890,50 @@
     "source": "The Hacker News",
     "summary": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike Falcon.\n\n&quot;FalconFlank is a 0day privil",
     "created_at": "2026-09-03T07:02:02.977014+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161888",
+    "title": "Researcher Claims CrowdStrike Falcon 0-Day Privilege Escalation Vulnerability",
+    "link": "https://cybersecuritynews.com/crowdstrike-falcon-0-day/",
+    "published": "Thu, 03 Sep 2026 05:35:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A security researcher known as Nightmare-Eclipse, who also goes by the names Chaotic Eclipse and MSNightmare, has released a project that claims to take advantage of a security flaw in the CrowdStrike Falcon Sensor. This flaw allows for local privile",
+    "created_at": "2026-09-03T08:01:31.410208+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161912",
+    "title": "CISA Warns of SonicWall SMA1000 Vulnerabilities Actively Exploited in Attacks",
+    "link": "https://cybersecuritynews.com/sonicwall-vulnerabilities-actively-exploited/",
+    "published": "Thu, 03 Sep 2026 06:55:02 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency has added two SonicWall SMA1000 appliance vulnerabilities to its Known Exploited Vulnerabilities catalog, confirming that attackers are exploiting the flaws in real-world attacks. The entries ",
+    "created_at": "2026-09-03T08:01:42.665455+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161925",
+    "title": "Cisco Nexus 9000 Series Switches Flaw Allows Remote Attackers to Execute Malicious Code",
+    "link": "https://cybersecuritynews.com/cisco-nexus-9000-series-switches-vulnerability/",
+    "published": "Thu, 03 Sep 2026 07:08:41 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cisco has disclosed a critical vulnerability in Cisco Nexus 9000 Series Switches that could allow an unauthenticated remote attacker to execute arbitrary code with root privileges. Tracked as CVE-2026-20212, the flaw has received a CVSS score of 9.8 ",
+    "created_at": "2026-09-03T08:02:10.706567+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161904",
+    "title": "VPN Is the Biggest Backdoor Into Your Plant — Here’s What Should Replace It on Your OT Network",
+    "link": "https://cybersecuritynews.com/vpn-is-the-biggest-backdoor-into-your-plant-heres-what-should-replace-it-on-your-ot-network/",
+    "published": "Thu, 03 Sep 2026 07:33:24 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Every industrial organisation now lets someone in from the outside — OEM vendors, system integrators, remote engineers. How they get in determines whether a plant’s biggest convenience becomes its biggest breach path.  Remote Access Has Become OT’s B",
+    "created_at": "2026-09-03T08:02:22.109006+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161889",
+    "title": "Malicious Apache Modules Turn Trusted Government Websites Into Stealth Phishing Proxies",
+    "link": "https://cybersecuritynews.com/malicious-apache-modules/",
+    "published": "Thu, 03 Sep 2026 07:47:10 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Brazilian government websites have been quietly turned into gateways for phishing pages on trusted public domains. Rather than sending victims to obvious scam sites, attackers are using compromised web servers to make fraudulent content look legitima",
+    "created_at": "2026-09-03T08:03:13.990035+00:00"
   }
 ]
