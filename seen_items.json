@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158218",
-    "title": "Check Point Authentication Bypass Flaw Enables Full Compromise of Security Management System",
-    "link": "https://cybersecuritynews.com/check-point-authentication-bypass-flaw/",
-    "published": "Tue, 04 Aug 2026 05:15:04 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Check Point has released security updates for a high-severity authentication-bypass vulnerability (CVE-2026-18574) that could allow attackers to compromise vulnerable Security Management environments fully. This issue affects both Security Management",
-    "created_at": "2026-08-04T07:01:15.861331+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=158229",
     "title": "North Korean Hackers Are Hiding Malware Servers Inside Empty Crypto Transfers",
     "link": "https://cybersecuritynews.com/north-korean-hackers-hiding-malware/",
@@ -8890,5 +8881,23 @@
     "source": "CybersecurityNews",
     "summary": "Melbourne, Florida, September 2nd, 2026, CyberNewswire Less than three months after its commercial launch, OpenMatter Network today announced a significant expansion of the platform with new capabilities that make it easier for enterprises, developer",
     "created_at": "2026-09-03T04:32:18.012527+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
+    "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
+    "link": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
+    "published": "Thu, 03 Sep 2026 10:49:04 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers&#x27; crosshairs.\n\nThe vulnerabilities are as follows -\n\n\n  C",
+    "created_at": "2026-09-03T07:01:31.048113+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
+    "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
+    "link": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
+    "published": "Thu, 03 Sep 2026 11:56:59 +0530",
+    "source": "The Hacker News",
+    "summary": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike Falcon.\n\n&quot;FalconFlank is a 0day privil",
+    "created_at": "2026-09-03T07:02:02.977014+00:00"
   }
 ]
