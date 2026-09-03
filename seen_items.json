@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
-    "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
-    "published": "Mon, 03 Aug 2026 20:17:15 -0400",
-    "source": "BleepingComputer",
-    "summary": "Microsoft has linked a global campaign targeting hospitality Wi-Fi networks to the Russian threat actor Midnight Blizzard, also known as APT29. [...]",
-    "created_at": "2026-08-04T00:31:12.778255+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=158213",
     "title": "Telegram App Reportedly Vanished from Apple’s App Store Worldwide",
     "link": "https://cybersecuritynews.com/telegram-apples-app-store/",
