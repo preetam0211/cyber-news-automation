@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158274",
-    "title": "Critical Gitea Arbitrary File Read Vulnerability Enables Remote Code Execution Attacks",
-    "link": "https://cybersecuritynews.com/gitea-arbitrary-file-read-vulnerability/",
-    "published": "Tue, 04 Aug 2026 11:27:54 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A critical security flaw in Gitea, tracked as CVE-2026-59774, allows unauthenticated remote attackers to read arbitrary files from vulnerable servers and potentially escalate the attack to remote code execution. The issue affects Gitea versions from ",
-    "created_at": "2026-08-04T14:01:28.385256+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158269",
-    "title": "OpenAI Reveals How Cybercriminals are Using ChatGPT to Run Scam Operation",
-    "link": "https://cybersecuritynews.com/openai-cybercriminals-using-chatgpt/",
-    "published": "Tue, 04 Aug 2026 11:33:56 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Online scams are becoming more organized, more personal, and harder to spot. Criminal networks are now using artificial intelligence to create believable messages, fake identities, and fraudulent websites that help them reach victims at scale. A rece",
-    "created_at": "2026-08-04T14:01:29.298150+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=158293",
     "title": "Keyv npm Package with 127M Weekly Downloads Compromised in Shai-Hulud Attack",
     "link": "https://cybersecuritynews.com/keyv-npm-package-compromised/",
@@ -8962,5 +8944,14 @@
     "source": "CybersecurityNews",
     "summary": "Hackers are using QR codes without image files to slip past email defenses. The tactic turns email markup into a scannable code, routing recipients to a phishing page while depriving many security tools of the image object they expect to inspect. QR ",
     "created_at": "2026-09-03T13:31:02.776684+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
+    "title": "Your Employee’s Password Appeared in an Infostealer Log. Now What?",
+    "link": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
+    "published": "Thu, 03 Sep 2026 09:50:59 -0400",
+    "source": "BleepingComputer",
+    "summary": "Infostealers can expose far more than passwords, including authenticated sessions that may let attackers bypass MFA. Flare explains how defenders can prioritize compromised identities, determine whether stolen access is still usable, and respond befo",
+    "created_at": "2026-09-03T14:01:28.907888+00:00"
   }
 ]
