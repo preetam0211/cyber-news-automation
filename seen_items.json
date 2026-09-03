@@ -8890,5 +8890,23 @@
     "source": "CybersecurityNews",
     "summary": "The Gentlemen ransomware operation is moving from access to full network encryption at striking speed. In some intrusions, attackers disabled defenses and recovery services before deploying ransomware in less than 24 hours across enterprises. The gro",
     "created_at": "2026-09-03T10:31:59.487165+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161975",
+    "title": "Microsoft Teams, Outlook Crashes Following August 2026 Updates on ARM-Based Devices",
+    "link": "https://cybersecuritynews.com/microsoft-teams-outlook-crashes/",
+    "published": "Thu, 03 Sep 2026 10:48:19 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has confirmed a known issue causing Microsoft Teams and the new Outlook for Windows to crash or fail to launch on ARM-based PCs after installing security updates released on or after August 11, 2026. The problem traces back to the KB5121003",
+    "created_at": "2026-09-03T11:01:38.979666+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161960",
+    "title": "Hackers Actively Exploiting Sangoma Switchvox VoIP Platform RCE Flaw in Attacks",
+    "link": "https://cybersecuritynews.com/hackers-exploiting-sangoma-switchvox-voip-rce-flaw/",
+    "published": "Thu, 03 Sep 2026 10:59:24 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical vulnerability in Sangoma Switchvox is being actively exploited, affecting the enterprise VoIP platform used to manage business phone systems, voicemail, call forwarding, monitoring, and analytics. The flaw, tracked as CVE-2026-9586, enable",
+    "created_at": "2026-09-03T11:01:45.216697+00:00"
   }
 ]
