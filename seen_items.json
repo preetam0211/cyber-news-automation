@@ -8962,5 +8962,14 @@
     "source": "BleepingComputer",
     "summary": "Microsoft has confirmed that desktop settings are lost or reset on some Windows devices after installing the KB5120998 August 2026 preview update. [...]",
     "created_at": "2026-09-03T12:31:08.377369+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
+    "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
+    "link": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
+    "published": "Thu, 03 Sep 2026 17:28:00 +0530",
+    "source": "The Hacker News",
+    "summary": "An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries.\n\nAround 45% of observed activity was associa",
+    "created_at": "2026-09-03T13:01:09.198189+00:00"
   }
 ]
