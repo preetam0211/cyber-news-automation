@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
-    "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
-    "link": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
-    "published": "Tue, 04 Aug 2026 14:33:23 +0530",
-    "source": "The Hacker News",
-    "summary": "A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims&#x27; browser cache and ultimately deliver CountLoader and a previously undocumented remote access trojan",
-    "created_at": "2026-08-04T10:31:16.738922+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158273",
-    "title": "A Malicious GitHub Issue Could Turn Google’s AI Agent Against Its Own CI/CD Pipeline",
-    "link": "https://cybersecuritynews.com/ai-agent-against-its-own-ci-cd-pipeline/",
-    "published": "Tue, 04 Aug 2026 09:46:04 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A first practical, real-world case of agent-to-agent exploitation inside a production multi-agent system, a novel attack class that turns one AI agent against another to compromise a software supply chain. The flaw was found in google/adk-python, the",
-    "created_at": "2026-08-04T10:31:34.712791+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
     "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
     "link": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
@@ -8890,5 +8872,23 @@
     "source": "The Hacker News",
     "summary": "The iPhone belonging to a member of Serbia&#x27;s student protest movement was infected with NSO Group&#x27;s Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation.\n\n&quot;Our analysis confirmed th",
     "created_at": "2026-09-03T10:04:53.018321+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161954",
+    "title": "WordPress Plugin Flaw Exposes 5 Million Sites to SQL Injection Attacks",
+    "link": "https://cybersecuritynews.com/wordpress-all-in-one-wp-migration-plugin-flaw/",
+    "published": "Thu, 03 Sep 2026 08:52:03 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A high-severity vulnerability in the All-in-One WP Migration and Backup plugin could allow unauthenticated attackers to take over vulnerable WordPress sites. The flaw, tracked as CVE-2026-19949, affects more than 5 million active installations and ha",
+    "created_at": "2026-09-03T10:31:28.749198+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161955",
+    "title": "The Gentlemen Ransomware Hackers Disable EDR and Backups Before Encrypting Networks in Under 24 Hours",
+    "link": "https://cybersecuritynews.com/the-gentlemen-ransomware/",
+    "published": "Thu, 03 Sep 2026 09:02:44 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The Gentlemen ransomware operation is moving from access to full network encryption at striking speed. In some intrusions, attackers disabled defenses and recovery services before deploying ransomware in less than 24 hours across enterprises. The gro",
+    "created_at": "2026-09-03T10:31:59.487165+00:00"
   }
 ]
