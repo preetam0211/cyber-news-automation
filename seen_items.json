@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
-    "title": "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent",
-    "link": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
-    "published": "Tue, 04 Aug 2026 16:46:23 +0530",
-    "source": "The Hacker News",
-    "summary": "Google deleted three AI agent workflows from its Agent Development Kit (ADK) Python repository. Pillar Security showed that a public GitHub issue could manipulate a triage agent into triggering a privileged code-fixing agent.\n\nThe researchers said th",
-    "created_at": "2026-08-04T13:04:26.755365+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
-    "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
-    "link": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
-    "published": "Tue, 04 Aug 2026 17:00:00 +0530",
-    "source": "The Hacker News",
-    "summary": "The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise.\n\nThat assumption is starting to break.\n\nSecurity teams have long estimated risk by ranking attacker sophistication. Nation-state actors s",
-    "created_at": "2026-08-04T13:04:27.638602+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=158274",
     "title": "Critical Gitea Arbitrary File Read Vulnerability Enables Remote Code Execution Attacks",
     "link": "https://cybersecuritynews.com/gitea-arbitrary-file-read-vulnerability/",
@@ -8971,5 +8953,14 @@
     "source": "The Hacker News",
     "summary": "An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries.\n\nAround 45% of observed activity was associa",
     "created_at": "2026-09-03T13:01:09.198189+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161986",
+    "title": "Hackers Use QR Codes With No Images to Bypass Email Security",
+    "link": "https://cybersecuritynews.com/hackers-use-qr-codes/",
+    "published": "Thu, 03 Sep 2026 12:44:42 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are using QR codes without image files to slip past email defenses. The tactic turns email markup into a scannable code, routing recipients to a phishing page while depriving many security tools of the image object they expect to inspect. QR ",
+    "created_at": "2026-09-03T13:31:02.776684+00:00"
   }
 ]
