@@ -8926,5 +8926,14 @@
     "source": "CybersecurityNews",
     "summary": "Brazilian government websites have been quietly turned into gateways for phishing pages on trusted public domains. Rather than sending victims to obvious scam sites, attackers are using compromised web servers to make fraudulent content look legitima",
     "created_at": "2026-09-03T08:03:13.990035+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/",
+    "title": "Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/",
+    "published": "Thu, 03 Sep 2026 04:55:25 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft is working to fix a known issue that causes crashes and launch failures for Microsoft Teams and New Outlook users after installing updates released since the August 2026 Patch Tuesday. [...]",
+    "created_at": "2026-09-03T09:01:49.490990+00:00"
   }
 ]
