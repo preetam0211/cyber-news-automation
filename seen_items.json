@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
-    "title": "77 Open VSX extensions found harvesting developer info",
-    "link": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
-    "published": "Tue, 04 Aug 2026 14:50:55 -0400",
-    "source": "BleepingComputer",
-    "summary": "77 extensions on the Open VSX marketplace impersonated legitimate developer tools while transmitting information about the systems and development environments where they were installed. [...]",
-    "created_at": "2026-08-04T19:01:21.554351+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
-    "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
-    "link": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
-    "published": "Tue, 04 Aug 2026 15:03:09 -0400",
-    "source": "BleepingComputer",
-    "summary": "A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories. [...]",
-    "created_at": "2026-08-04T19:31:35.197671+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
     "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
     "link": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
@@ -8962,5 +8944,14 @@
     "source": "BleepingComputer",
     "summary": "Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution. [...]",
     "created_at": "2026-09-03T18:31:40.539444+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
+    "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
+    "link": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
+    "published": "Thu, 03 Sep 2026 23:32:47 +0530",
+    "source": "The Hacker News",
+    "summary": "The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click “Allow.” Why break in when someone might open the door?\n\nThat idea runs through this edition. Attackers use real tools, fake logi",
+    "created_at": "2026-09-03T19:31:45.995292+00:00"
   }
 ]
