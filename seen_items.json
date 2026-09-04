@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
-    "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
-    "link": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
-    "published": "Wed, 05 Aug 2026 16:05:29 +0530",
-    "source": "The Hacker News",
-    "summary": "GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream credentials without exploiting a software vulnerability.",
-    "created_at": "2026-08-05T12:01:52.795244+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
-    "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
-    "link": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
-    "published": "Wed, 05 Aug 2026 16:34:23 +0530",
-    "source": "The Hacker News",
-    "summary": "An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public repository and crafted Org-mode markup are enough. ",
-    "created_at": "2026-08-05T12:02:14.732295+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
     "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
     "link": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
@@ -8926,5 +8908,32 @@
     "source": "CybersecurityNews",
     "summary": "Microsoft Teams is preparing to introduce new QR code protection controls designed to reduce phishing and fraud risks in chats involving external users. The feature, currently listed as “In Development” on the Microsoft 365 roadmap, will automaticall",
     "created_at": "2026-09-04T11:31:54.917177+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162154",
+    "title": "Trezor Confirms ShipMonk Data Breach Exposed 67,000 Additional US Customers",
+    "link": "https://cybersecuritynews.com/trezor-confirms-shipmonk-data-breach/",
+    "published": "Fri, 04 Sep 2026 11:37:44 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hardware wallet maker Trezor has confirmed that a data breach at logistics partner ShipMonk is substantially larger than first reported, after older U.S. order records that should have been deleted remained in the leaked dataset. On September 4, 2026",
+    "created_at": "2026-09-04T12:01:54.306401+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
+    "title": "Google warns of new Chrome zero-day flaw exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
+    "published": "Fri, 04 Sep 2026 07:48:17 -0400",
+    "source": "BleepingComputer",
+    "summary": "Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities. [...]",
+    "created_at": "2026-09-04T12:02:46.161650+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162141",
+    "title": "Microsoft 365 Phishing Technique Uses Empty Envelope Sender to Evade Direct Send Blocking",
+    "link": "https://cybersecuritynews.com/microsoft-365-phishing/",
+    "published": "Fri, 04 Sep 2026 11:49:30 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft 365 users are facing a phishing technique built on a small change: attackers leave the SMTP envelope sender blank. The omission can let an unauthenticated message pass a Direct Send safeguard while showing employees an address that appears ",
+    "created_at": "2026-09-04T12:03:35.650281+00:00"
   }
 ]
