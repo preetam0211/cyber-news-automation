@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/",
-    "title": "CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/",
-    "published": "Wed, 05 Aug 2026 11:51:33 -0400",
-    "source": "BleepingComputer",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited. [...]",
-    "created_at": "2026-08-05T16:01:10.118488+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=158452",
     "title": "77 Evil Twin Open VSX Extensions Exfiltrate Private Git Repository and CI Data",
     "link": "https://cybersecuritynews.com/77-evil-twin-open-vsx-extensions/",
@@ -8926,5 +8917,41 @@
     "source": "BleepingComputer",
     "summary": "Attackers have begun targeting a critical-severity Citrix NetScaler auth bypass flaw (CVE-2026-19490) in the wild, according to vulnerability intelligence company Previdian. [...]",
     "created_at": "2026-09-04T15:31:20.197756+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162144",
+    "title": "Hackers Turn Claude, Qwen and DeepSeek Into AI Agents for Real-World Cyberattacks",
+    "link": "https://cybersecuritynews.com/ai-agents-for-real-world-cyberattacks/",
+    "published": "Fri, 04 Sep 2026 13:21:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers have turned commercial AI models into working parts of a cyberattack operation. The campaign paired AI-directed tasking with familiar methods such as vulnerable public-facing servers, stolen credentials, webshells, and custom remote-access ma",
+    "created_at": "2026-09-04T16:01:10.730400+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162172",
+    "title": "Hackers Use Invisible Unicode Characters to Evade Phishing Detection in Millions of Emails",
+    "link": "https://cybersecuritynews.com/hackers-use-invisible-unicode/",
+    "published": "Fri, 04 Sep 2026 14:09:55 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Attackers are using invisible Unicode characters to make phishing emails appear harmless while disrupting the security systems built to spot suspicious language. The campaign pushed finance-themed messages at massive scale, showing how a tiny change ",
+    "created_at": "2026-09-04T16:01:12.997299+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162185",
+    "title": "NodeStealer Can Now Record Everything Victims Type and Steal Their Screenshots",
+    "link": "https://cybersecuritynews.com/nodestealer-record-everything/",
+    "published": "Fri, 04 Sep 2026 14:29:44 +0000",
+    "source": "CybersecurityNews",
+    "summary": "NodeStealer has returned with a more invasive toolkit. The Python-based information stealer can now record keystrokes, watch copied text, and capture victims’ screens, turning an account-stealing infection into continuous surveillance. The change rai",
+    "created_at": "2026-09-04T16:01:15.271410+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162189",
+    "title": "Hackers Use Popular Messaging Services to Control New Windows Backdoors",
+    "link": "https://cybersecuritynews.com/popular-messaging-services/",
+    "published": "Fri, 04 Sep 2026 14:44:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A financially motivated threat group known as Toy Ghouls has begun using two custom Windows backdoors that communicate through popular messaging and broker services. The tools give attackers a discreet way to run commands, collect system details, and",
+    "created_at": "2026-09-04T16:01:17.589305+00:00"
   }
 ]
