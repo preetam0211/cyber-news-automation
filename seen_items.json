@@ -8908,5 +8908,23 @@
     "source": "BleepingComputer",
     "summary": "Microsoft is working to resolve a known issue that causes delays or blocks some users from opening the Microsoft Teams desktop client on Windows systems. [...]",
     "created_at": "2026-09-04T15:01:27.910638+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
+    "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
+    "link": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
+    "published": "Fri, 04 Sep 2026 20:21:13 +0530",
+    "source": "The Hacker News",
+    "summary": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected visitors.\n\nThe attackers name",
+    "created_at": "2026-09-04T15:31:18.045717+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
+    "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
+    "published": "Fri, 04 Sep 2026 11:25:59 -0400",
+    "source": "BleepingComputer",
+    "summary": "Attackers have begun targeting a critical-severity Citrix NetScaler auth bypass flaw (CVE-2026-19490) in the wild, according to vulnerability intelligence company Previdian. [...]",
+    "created_at": "2026-09-04T15:31:20.197756+00:00"
   }
 ]
