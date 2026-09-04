@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158381",
-    "title": "CISA Warns of Apache Tomcat Encryption Vulnerability Actively Exploited in Attacks",
-    "link": "https://cybersecuritynews.com/apache-tomcat-encryption-vulnerability/",
-    "published": "Wed, 05 Aug 2026 05:28:59 +0000",
-    "source": "CybersecurityNews",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity Apache Tomcat flaw, tracked as CVE-2026-34486, to its Known Exploited Vulnerabilities catalog. The agency said the vulnerability is being actively exploited an",
-    "created_at": "2026-08-05T06:04:22.395937+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
     "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer",
     "link": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
