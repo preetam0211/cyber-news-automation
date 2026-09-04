@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
-    "title": "Trojanized npm Packages Decode C2 IP From Ethereum Recipient Addresses",
-    "link": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
-    "published": "Wed, 05 Aug 2026 19:11:27 +0530",
-    "source": "The Hacker News",
-    "summary": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty Ethereum transfer.\n\nThe new d",
-    "created_at": "2026-08-05T15:01:08.795895+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
-    "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
-    "link": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
-    "published": "Wed, 05 Aug 2026 19:57:30 +0530",
-    "source": "The Hacker News",
-    "summary": "HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django.\n\nThe three most serious:\n\n\n  An unauthenticated flaw in Veeam&#x27;s console that hands over",
-    "created_at": "2026-08-05T15:01:11.082800+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/",
-    "title": "Google Blogger locks hundreds of blogs in malware false positive",
-    "link": "https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/",
-    "published": "Wed, 05 Aug 2026 10:59:29 -0400",
-    "source": "BleepingComputer",
-    "summary": "Google has locked hundreds of Blogger websites after a false positive claimed they violated its &quot;Malware and Similar Malicious Content&quot; policy, with some sites deleted from the platform. [...]",
-    "created_at": "2026-08-05T15:01:13.474362+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/",
     "title": "CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws",
     "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/",
@@ -8926,5 +8899,14 @@
     "source": "BleepingComputer",
     "summary": "Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication prompts, synced credentials, enrollment, recovery, and",
     "created_at": "2026-09-04T14:31:24.472108+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
+    "title": "Microsoft says some users can’t open the Teams desktop client",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
+    "published": "Fri, 04 Sep 2026 10:30:15 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft is working to resolve a known issue that causes delays or blocks some users from opening the Microsoft Teams desktop client on Windows systems. [...]",
+    "created_at": "2026-09-04T15:01:27.910638+00:00"
   }
 ]
