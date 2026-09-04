@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158421",
-    "title": "Remote Scheduled Tasks Spread EtherRAT Across Compromised Windows Domain",
-    "link": "https://cybersecuritynews.com/remote-scheduled-tasks-etherrat/",
-    "published": "Wed, 05 Aug 2026 09:33:26 +0000",
-    "source": "CybersecurityNews",
-    "summary": "EtherRAT has surfaced in a Windows domain intrusion tied to an affiliate of the Gentlemen ransomware operation. The campaign shows how a single foothold can become a network-wide problem when attackers gain privileged access. The operators used remot",
-    "created_at": "2026-08-05T10:01:35.612722+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
     "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data",
     "link": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
@@ -8926,5 +8917,14 @@
     "source": "The Hacker News",
     "summary": "Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws.\n\nThe fixes are available in Plex Media Server 1.43.3 and Plex Desktop 1.115.0. The streaming media service d",
     "created_at": "2026-09-04T08:32:05.072359+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
+    "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
+    "link": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
+    "published": "Fri, 04 Sep 2026 14:18:45 +0530",
+    "source": "The Hacker News",
+    "summary": "Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence.\n\nThe vulnerabilities in question are -\n\n\n  CVE-2026-14894 (CVSS score: 9.8) - A missing file type valid",
+    "created_at": "2026-09-04T10:01:49.052587+00:00"
   }
 ]
