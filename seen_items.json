@@ -8926,5 +8926,32 @@
     "source": "CybersecurityNews",
     "summary": "Mac users are being targeted with 14 fake application installers that appear to offer familiar software but instead start a credential-stealing remote-access trojan. The files were distributed as macOS disk images and installer packages, giving attac",
     "created_at": "2026-09-04T08:01:54.477987+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html",
+    "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
+    "link": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html",
+    "published": "Fri, 04 Sep 2026 12:17:52 +0530",
+    "source": "The Hacker News",
+    "summary": "OpenAI on Thursday officially unveiled GPT‑6 Astra, which it described as the &quot;world&#x27;s most intelligent and aligned model.&quot;\n\nThe development comes days after the artificial intelligence (AI) company said the model had reached the &quot",
+    "created_at": "2026-09-04T08:31:49.223677+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
+    "title": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
+    "link": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
+    "published": "Fri, 04 Sep 2026 12:48:47 +0530",
+    "source": "The Hacker News",
+    "summary": "Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild.\n\nThe high-severity vulnerability, tracked as CVE-2026-85046 (CVSS score: 8.8), has been described as a type c",
+    "created_at": "2026-09-04T08:31:58.119066+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html",
+    "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
+    "link": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html",
+    "published": "Fri, 04 Sep 2026 13:05:14 +0530",
+    "source": "The Hacker News",
+    "summary": "Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws.\n\nThe fixes are available in Plex Media Server 1.43.3 and Plex Desktop 1.115.0. The streaming media service d",
+    "created_at": "2026-09-04T08:32:05.072359+00:00"
   }
 ]
