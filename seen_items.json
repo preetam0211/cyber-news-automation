@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158405",
-    "title": "Microsoft Defender Stops QNET Ransomware Attack in 128 Seconds With Automatic Device Isolation",
-    "link": "https://cybersecuritynews.com/microsoft-defender-stops-qnet-ransomware-attack/",
-    "published": "Wed, 05 Aug 2026 07:34:01 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Ransomware can turn one careless click into a business-wide emergency. An incident at QNET shows how quickly that risk can grow when attackers use trusted Windows tools to launch a second stage of an intrusion. The attack began after a user opened a ",
-    "created_at": "2026-08-05T08:01:20.097079+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html",
     "title": "CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited",
     "link": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html",
@@ -8926,5 +8917,14 @@
     "source": "CybersecurityNews",
     "summary": "A large campaign has compromised more than 14,000 internet-connected Dahua cameras, exposing how vulnerable surveillance equipment can become a gateway to video feeds and device settings. The operation ran for 35 days, and hit devices worldwide, with",
     "created_at": "2026-09-04T07:32:00.662498+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162138",
+    "title": "14 Fake macOS Installers Linked to DPRK Campaign Deliver Credential-Stealing RAT",
+    "link": "https://cybersecuritynews.com/14-fake-macos-installers/",
+    "published": "Fri, 04 Sep 2026 07:54:34 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Mac users are being targeted with 14 fake application installers that appear to offer familiar software but instead start a credential-stealing remote-access trojan. The files were distributed as macOS disk images and installer packages, giving attac",
+    "created_at": "2026-09-04T08:01:54.477987+00:00"
   }
 ]
