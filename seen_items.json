@@ -1,68 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158452",
-    "title": "77 Evil Twin Open VSX Extensions Exfiltrate Private Git Repository and CI Data",
-    "link": "https://cybersecuritynews.com/77-evil-twin-open-vsx-extensions/",
-    "published": "Wed, 05 Aug 2026 14:05:55 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A wave of counterfeit Open VSX extensions has exposed how easily a familiar developer tool can become a data collection channel. Seventy-seven packages copied the names, namespaces, and descriptions of legitimate extensions, then contacted the same n",
-    "created_at": "2026-08-05T16:31:26.222463+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158470",
-    "title": "Greatness PhaaS Bypasses Email Security and MFA to Hijack Microsoft 365 Accounts",
-    "link": "https://cybersecuritynews.com/greatness-phaas/",
-    "published": "Wed, 05 Aug 2026 14:51:03 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Greatness has emerged as a phishing-as-a-service platform designed to steal Microsoft 365 access at a time when many organizations assume multi-factor authentication will stop account takeovers. Rather than simply collecting a password, it can captur",
-    "created_at": "2026-08-05T16:31:43.708111+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158482",
-    "title": "Uppsala Security Becomes First Blockchain Intelligence Company to Join Cyber Threat Alliance",
-    "link": "https://cybersecuritynews.com/uppsala-security-joins-cyber-threat-alliance/",
-    "published": "Wed, 05 Aug 2026 14:52:42 +0000",
-    "source": "CybersecurityNews",
-    "summary": "SIngapore, Singapore, August 5th, 2026, CyberNewswire Uppsala Security, a Singapore-based blockchain intelligence and crypto forensics company, announced today that it has joined the Cyber Threat Alliance (CTA) as an Affiliate Member, becoming the fi",
-    "created_at": "2026-08-05T16:31:46.149861+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
-    "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
-    "link": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
-    "published": "Wed, 05 Aug 2026 20:44:05 +0530",
-    "source": "The Hacker News",
-    "summary": "Two security flaws in Paperclip could let attackers execute commands on a network server or a developer&#x27;s computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both paths rely on importing a ma",
-    "created_at": "2026-08-05T16:31:48.494474+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158489",
-    "title": "New Research: The Confidence Gap Between CISOs and Their Boards Is Real, and It’s Measurable",
-    "link": "https://cybersecuritynews.com/ciso-board-confidence-gap-research/",
-    "published": "Wed, 05 Aug 2026 15:14:12 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Las Vegas, United States, August 5th, 2026, CyberNewswire Pulse Security AI calls for boards and security leaders to define cyber risk appetite in new report: The CISO-Board Communication Gap Boards of directors believe they understand their company’",
-    "created_at": "2026-08-05T16:31:50.794048+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
-    "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
-    "link": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
-    "published": "Wed, 05 Aug 2026 21:06:03 +0530",
-    "source": "The Hacker News",
-    "summary": "Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platforms.\n\nOne such service, Poison Claude, claims to o",
-    "created_at": "2026-08-05T16:31:53.148366+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158473",
-    "title": "Microsoft Awards Record $20 Million to 562 Researchers in Biggest Bug Bounty Year",
-    "link": "https://cybersecuritynews.com/microsoft-awards-20-million-bug-bounty/",
-    "published": "Wed, 05 Aug 2026 16:19:51 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Microsoft has awarded more than $20 million to 562 security researchers through its bug bounty program, marking the largest annual payout in the company’s history. Researchers from 64 countries reported security flaws that could have affected Microso",
-    "created_at": "2026-08-05T16:31:55.419306+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=158506",
     "title": "Poison Claude is Selling Cheap AI Tokens Built on Fake Accounts and Free Credits",
     "link": "https://cybersecuritynews.com/poison-claude-selling-cheap-ai-tokens/",
@@ -8971,5 +8908,23 @@
     "source": "The Hacker News",
     "summary": "Microsoft is alerting of a &quot;high-volume phishing campaign&quot; that&#x27;s using invisible Unicode tag characters to bypass email filters.\n\n&quot;Instead of using these characters to hide instructions from people while exposing them to AI model",
     "created_at": "2026-09-04T16:31:08.352053+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162199",
+    "title": "Microsoft Unveils Project Zenith Windows PCs That Can Run 30B+ AI Models Locally",
+    "link": "https://cybersecuritynews.com/project-zenith-windows-pcs/",
+    "published": "Fri, 04 Sep 2026 16:44:18 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has introduced Project Zenith, a new developer-optimized Windows 11 experience built for a class of high-memory PCs capable of running large AI models directly on-device, marking a significant shift away from cloud-dependent AI development ",
+    "created_at": "2026-09-04T17:01:06.563796+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
+    "title": "IDScan sued over alleged data breach affecting 153 million drivers",
+    "link": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
+    "published": "Fri, 04 Sep 2026 12:56:45 -0400",
+    "source": "BleepingComputer",
+    "summary": "Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver&#x27;s licenses. [...]",
+    "created_at": "2026-09-04T17:01:09.084890+00:00"
   }
 ]
