@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158371",
-    "title": "1-Click RCE Flaw in Cursor, VS Code, and Google Antigravity Exposes 50M Developers to Cyberattacks",
-    "link": "https://cybersecuritynews.com/1-click-rce-vulnerability-in-code-editors/",
-    "published": "Wed, 05 Aug 2026 03:03:30 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A critical one-click remote code execution (RCE) vulnerability affects three of the world’s most widely used code editors: Cursor, Microsoft VS Code, and Google Antigravity. The flaw, uncovered by AISLE’s AI-powered vulnerability analyzer, put an est",
-    "created_at": "2026-08-05T03:31:23.375245+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=158378",
     "title": "Mythos 5 and GPT-5.6-Sol Agents Went Beyond Their Cyber Test and Targeted the Real World",
     "link": "https://cybersecuritynews.com/mythos-5-and-gpt-5-6-sol-security-incident/",
@@ -8953,5 +8944,14 @@
     "source": "CybersecurityNews",
     "summary": "Every time a major botnet is dismantled, the cybersecurity community celebrates—and rightly so. These operations are technically complex, require international cooperation, and make life considerably harder for cybercriminals. The problem is that the",
     "created_at": "2026-09-04T03:31:21.183246+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162067",
+    "title": "OpenAI GPT-6 Astra Discovers Zero-Day Flaws and Builds Working Exploits in Cyber Tests",
+    "link": "https://cybersecuritynews.com/openai-gpt-6-astra-discovers-zero-day/",
+    "published": "Fri, 04 Sep 2026 03:33:25 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OpenAI has unveiled GPT-6 Astra, a frontier AI model the company says can identify zero-day vulnerabilities and create working proof-of-concept exploits during authorized cybersecurity tests. Announced on September 3, 2026, the model’s release brings",
+    "created_at": "2026-09-04T04:01:17.613724+00:00"
   }
 ]
