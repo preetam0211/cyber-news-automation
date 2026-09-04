@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158395",
-    "title": "Django Urges Immediate Upgrade to 6.0.8 and 5.2.17 After Four Security Fixes",
-    "link": "https://cybersecuritynews.com/django-four-security-fixes/",
-    "published": "Wed, 05 Aug 2026 13:22:30 +0000",
-    "source": "CybersecurityNews",
-    "summary": "The Django development team has released Django 6.0.8 and Django 5.2.17 to fix four security vulnerabilities affecting supported versions of the Python web framework. Developers and administrators are urged to upgrade as soon as possible, especially ",
-    "created_at": "2026-08-05T14:01:15.020641+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158418",
-    "title": "Three PhaaS Kits Targeting US Organizations to Steal M65 Logins by Bypassing MFA",
-    "link": "https://cybersecuritynews.com/phaas-kits-targeting-us-organizations/",
-    "published": "Wed, 05 Aug 2026 13:35:54 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Three distinct Phishing-as-a-Service (PhaaS) platforms, Sneaky 2FA, EvilTokens, and EvilProxy, are actively targeting US organizations to steal Microsoft 365 (M365) credentials and session tokens, effectively neutralizing standard multi-factor authen",
-    "created_at": "2026-08-05T14:01:16.422881+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158407",
-    "title": "15 TP-Link Omada ZTP Flaws Enable Router Hijacking and Root Code Execution",
-    "link": "https://cybersecuritynews.com/tp-link-omada-ztp-flaws/",
-    "published": "Wed, 05 Aug 2026 13:59:59 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A set of 15 vulnerabilities in TP-Link’s Omada Zero-Touch Provisioning (ZTP) could enable attacks against enterprise networks, with the findings set to be presented at Black Hat USA 2026. TP-Link Omada is widely used to manage routers, switches, gate",
-    "created_at": "2026-08-05T14:01:22.587605+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/",
-    "title": "How AI-powered phishing killed blocklists for good",
-    "link": "https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/",
-    "published": "Wed, 05 Aug 2026 10:01:11 -0400",
-    "source": "BleepingComputer",
-    "summary": "AI is helping attackers create disposable phishing infrastructure and rapidly evolving toolkits that blocklists cannot track fast enough. Push Security explains why browser-level, technique-based detection offers a more durable defense than relying o",
-    "created_at": "2026-08-05T14:31:17.337133+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
     "title": "Trojanized npm Packages Decode C2 IP From Ethereum Recipient Addresses",
     "link": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
@@ -8953,5 +8917,14 @@
     "source": "BleepingComputer",
     "summary": "An anonymous security researcher who uses the &quot;Nightmare Eclipse&quot; handle released a CrowdStrike Falcon zero-day exploit named &quot;FalconFlank&quot; that lets attackers escalate privileges on up-to-date Windows systems. [...]",
     "created_at": "2026-09-04T13:31:27.752721+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
+    "title": "39 New Methods That Compromise Passkey Authentication",
+    "link": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
+    "published": "Fri, 04 Sep 2026 10:01:11 -0400",
+    "source": "BleepingComputer",
+    "summary": "Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication prompts, synced credentials, enrollment, recovery, and",
+    "created_at": "2026-09-04T14:31:24.472108+00:00"
   }
 ]
