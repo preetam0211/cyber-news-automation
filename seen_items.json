@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
-    "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
-    "published": "Wed, 05 Aug 2026 15:55:25 -0400",
-    "source": "BleepingComputer",
-    "summary": "Hackers exploited a SQL injection vulnerability to install a post-exploitation toolkit directly inside an Oracle database that was used to breach a corporate network. [...]",
-    "created_at": "2026-08-05T20:01:20.074066+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
     "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
     "link": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
