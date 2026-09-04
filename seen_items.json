@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
-    "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
-    "link": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
-    "published": "Thu, 06 Aug 2026 00:03:47 +0530",
-    "source": "The Hacker News",
-    "summary": "OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enforcement impersonation schemes.\n\nTo that end, it ba",
-    "created_at": "2026-08-05T19:31:12.183340+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
-    "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
-    "link": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
-    "published": "Thu, 06 Aug 2026 00:14:31 +0530",
-    "source": "The Hacker News",
-    "summary": "A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had been watching for weeks.\n\nThe s",
-    "created_at": "2026-08-05T19:31:22.488424+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
     "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
