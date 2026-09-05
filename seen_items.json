@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html",
-    "title": "Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities",
-    "link": "https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html",
-    "published": "Thu, 06 Aug 2026 17:46:58 +0530",
-    "source": "The Hacker News",
-    "summary": "Forescout found 22 internet-facing Rockwell Automation programmable logic controllers (PLCs) in cities hit by recent cyberattacks on US water utilities. Nineteen used the same mobile carrier network.\n\nIts August 3 scan counted 4,407 exposed Rockwell ",
-    "created_at": "2026-08-06T13:31:16.235585+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=158616",
     "title": "Hackers Hid a Remote-Control Toolkit Inside Oracle to Take Over a Windows Server",
     "link": "https://cybersecuritynews.com/hackers-hid-a-remote-control-toolkit/",
