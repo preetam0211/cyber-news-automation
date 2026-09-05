@@ -8665,5 +8665,14 @@
     "source": "BleepingComputer",
     "summary": "A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]",
     "created_at": "2026-09-05T14:31:15.612538+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
+    "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
+    "link": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
+    "published": "Sat, 05 Sep 2026 19:47:02 +0530",
+    "source": "The Hacker News",
+    "summary": "Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk.\n\nThe exposed information includes customer names, email addresses, phone numbers, sh",
+    "created_at": "2026-09-05T15:34:35.978587+00:00"
   }
 ]
