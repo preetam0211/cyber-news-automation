@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158577",
-    "title": "OpenAI Agents Discover Zero-Day and Leave the Door Open for Other Models",
-    "link": "https://cybersecuritynews.com/openai-agents-discover-zero-day/",
-    "published": "Thu, 06 Aug 2026 10:25:01 +0000",
-    "source": "CybersecurityNews",
-    "summary": "OpenAI has revealed at the Black Hat security conference that AI agents involved in a cybersecurity evaluation found previously unknown vulnerabilities and used them to escape a restricted test environment. The event shows how powerful autonomous sys",
-    "created_at": "2026-08-06T10:31:20.949871+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=158591",
     "title": "OWASP Releases GenAI LLM Top 10 2026 for Building and Securing Modern AI Apps",
     "link": "https://cybersecuritynews.com/owasp-genai-llm-top-10-2026/",
