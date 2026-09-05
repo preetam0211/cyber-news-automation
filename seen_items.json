@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158591",
-    "title": "OWASP Releases GenAI LLM Top 10 2026 for Building and Securing Modern AI Apps",
-    "link": "https://cybersecuritynews.com/owasp-genai-llm-top-10-2026/",
-    "published": "Thu, 06 Aug 2026 11:30:26 +0000",
-    "source": "CybersecurityNews",
-    "summary": "The Open Web Application Security Project (OWASP) has officially released the Top 10 for LLM Applications 2026, a foundational security guide targeting the most critical vulnerabilities across modern AI applications and autonomous agents. The updated",
-    "created_at": "2026-08-06T12:01:57.455109+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html",
     "title": "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory",
     "link": "https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html",
