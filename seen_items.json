@@ -8692,5 +8692,14 @@
     "source": "The Hacker News",
     "summary": "JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to breach its own environment.\n\n&quo",
     "created_at": "2026-09-05T17:02:11.644395+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
+    "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
+    "link": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
+    "published": "Sun, 06 Sep 2026 01:44:47 +0530",
+    "source": "The Hacker News",
+    "summary": "Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store&#x27;s server without logging in, Dutch e-commerce security company Sansec said in an advisory publi",
+    "created_at": "2026-09-05T21:01:11.089101+00:00"
   }
 ]
