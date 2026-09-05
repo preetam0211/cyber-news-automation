@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158616",
-    "title": "Hackers Hid a Remote-Control Toolkit Inside Oracle to Take Over a Windows Server",
-    "link": "https://cybersecuritynews.com/hackers-hid-a-remote-control-toolkit/",
-    "published": "Thu, 06 Aug 2026 13:16:33 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A routine web application weakness has been tied to a serious Windows Server compromise after attackers used SQL injection to plant a remote-control toolkit inside an Oracle database. The incident shows how a poorly protected form can become a path f",
-    "created_at": "2026-08-06T14:01:24.331415+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/",
-    "title": "How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore",
-    "link": "https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/",
-    "published": "Thu, 06 Aug 2026 10:02:12 -0400",
-    "source": "BleepingComputer",
-    "summary": "AI did not create a new browser security problem. It exposed one that enterprises have long been able to ignore. Skyhigh Security explains why browsers have become a critical control point for governing data movement, AI interactions, and modern work",
-    "created_at": "2026-08-06T14:31:12.714128+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158628",
-    "title": "One Fake Movie Download Can Expose Passwords, Payments and Crypto Assets",
-    "link": "https://cybersecuritynews.com/fake-movie-download-steal-passwords/",
-    "published": "Thu, 06 Aug 2026 14:19:36 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Cybercriminals are weaponizing pirated downloads of the blockbuster theatrical release “The Odyssey (2026)” to deliver Lumma Stealer. This prolific information-stealing malware quietly strips compromised systems of saved browser passwords, payment ca",
-    "created_at": "2026-08-06T14:31:14.969682+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html",
     "title": "ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories",
     "link": "https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html",
@@ -8683,5 +8656,14 @@
     "source": "BleepingComputer",
     "summary": "OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as model &quot;misalignment&quot; rather than a security ",
     "created_at": "2026-09-05T11:31:54.610560+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
+    "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
+    "link": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
+    "published": "Sat, 05 Sep 2026 10:29:13 -0400",
+    "source": "BleepingComputer",
+    "summary": "A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]",
+    "created_at": "2026-09-05T14:31:15.612538+00:00"
   }
 ]
