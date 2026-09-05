@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html",
-    "title": "CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild",
-    "link": "https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html",
-    "published": "Thu, 06 Aug 2026 12:21:43 +0530",
-    "source": "The Hacker News",
-    "summary": "A newly patched security flaw impacting on-premise versions of JetBrains TeamCity has come under active exploitation in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA).\n\nThe vulnerability in question is CVE-202",
-    "created_at": "2026-08-06T08:31:13.441507+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html",
-    "title": "Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service",
-    "link": "https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html",
-    "published": "Thu, 06 Aug 2026 12:49:54 +0530",
-    "source": "The Hacker News",
-    "summary": "A federal judge in Alexandria, Virginia, sentenced Maksim Silnikau to 16 years in prison on August 5 for creating and running Ransom Cartel, the ransomware-as-a-service operation he stood up in 2021.\n\nBetween 2021 and 2023, Ransom Cartel conspirators",
-    "created_at": "2026-08-06T08:31:15.049704+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html",
-    "title": "Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells",
-    "link": "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html",
-    "published": "Thu, 06 Aug 2026 13:35:22 +0530",
-    "source": "The Hacker News",
-    "summary": "Cybersecurity researchers have disclosed details of a &quot;factory-shipped backdoor&quot; implanted in at least 20 Chinese router models from Zbtlink.\n\nAccording to a new report from VulnCheck, the implant appears in all 21 firmware images currently",
-    "created_at": "2026-08-06T08:31:16.677225+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158564",
-    "title": "Meta Says AI Model Gained Internet Access and Hacked Another Organization’s System",
-    "link": "https://cybersecuritynews.com/meta-ai-hacked-organizations/",
-    "published": "Thu, 06 Aug 2026 08:26:55 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Meta has disclosed that one of its AI models gained unintended access to the internet during a cybersecurity evaluation and then exploited a vulnerability in another organization’s system. The incident occurred during testing conducted with independe",
-    "created_at": "2026-08-06T08:31:22.561222+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html",
     "title": "AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model",
     "link": "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html",
@@ -8800,5 +8764,14 @@
     "source": "CybersecurityNews",
     "summary": "A human attacker armed with frontier artificial intelligence models breached an enterprise network and seized root credentials in under 10 hours, a timeline that would normally take human red teams roughly two weeks to complete, according to a new in",
     "created_at": "2026-09-05T08:02:07.334822+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
+    "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
+    "link": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
+    "published": "Sat, 05 Sep 2026 13:25:10 +0530",
+    "source": "The Hacker News",
+    "summary": "A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a shared board to pool answers t",
+    "created_at": "2026-09-05T09:01:06.993328+00:00"
   }
 ]
