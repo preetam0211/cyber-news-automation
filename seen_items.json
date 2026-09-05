@@ -8773,5 +8773,14 @@
     "source": "The Hacker News",
     "summary": "A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a shared board to pool answers t",
     "created_at": "2026-09-05T09:01:06.993328+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162213",
+    "title": "Microsoft Teams Desktop Client Fails to Load on Windows System – Microsoft Investigating",
+    "link": "https://cybersecuritynews.com/microsoft-teams-desktop-client-fails/",
+    "published": "Sat, 05 Sep 2026 09:20:18 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft is investigating an ongoing issue causing some Windows users to face significant delays or outright failures when launching the Microsoft Teams desktop client. The company acknowledged the problem, tracked internally as TM1466820, and confi",
+    "created_at": "2026-09-05T09:31:38.838231+00:00"
   }
 ]
