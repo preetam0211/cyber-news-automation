@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158527",
-    "title": "Cisco Patched Multiple Critical Vulnerabilities in Catalyst SD-WAN – Update Now",
-    "link": "https://cybersecuritynews.com/cisco-catalyst-sd-wan-vulnerabilities-2/",
-    "published": "Thu, 06 Aug 2026 03:46:44 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Cisco has rolled out software hardening updates for its Catalyst SD-WAN Software after an internal security review uncovered multiple critical vulnerabilities affecting the platform. The flaws were identified proactively by Cisco’s own engineering te",
-    "created_at": "2026-08-06T04:31:17.219803+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=158530",
     "title": "Apple iCloud Private Relay WebKit Flaws Leak Users’ Real IP Addresses",
     "link": "https://cybersecuritynews.com/apple-icloud-private-relay/",
