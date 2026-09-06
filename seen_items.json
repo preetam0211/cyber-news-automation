@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html",
-    "title": "Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets",
-    "link": "https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html",
-    "published": "Fri, 07 Aug 2026 13:48:35 +0530",
-    "source": "The Hacker News",
-    "summary": "A GitHub issue opened by an account with no repository privileges was enough to execute code on the CI runners behind Anthropic&#x27;s and Google&#x27;s own coding-agent repositories. On OpenAI&#x27;s, it was enough to hijack the next agent run.\n\nNov",
-    "created_at": "2026-08-07T10:01:25.713293+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
     "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
     "link": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
@@ -8458,5 +8449,23 @@
     "source": "CybersecurityNews",
     "summary": "Zero Trust Network Access (ZTNA) anchors 2026 cybersecurity amid remote, cloud, and hybrid booms. ZTNA solutions aren’t hype—they’re vital for data locks, compliance wins, and borderless teams. “Never trust, always verify”: ZTNA okays only vetted use",
     "created_at": "2026-09-06T05:31:26.215112+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
+    "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
+    "link": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
+    "published": "Sun, 06 Sep 2026 14:04:20 +0530",
+    "source": "The Hacker News",
+    "summary": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself.\n\nOne of them switches off Windows Updat",
+    "created_at": "2026-09-06T10:01:08.045741+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
+    "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
+    "link": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
+    "published": "Sun, 06 Sep 2026 15:02:38 +0530",
+    "source": "The Hacker News",
+    "summary": "Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to CERT Polska&#x27;s attack warning, published",
+    "created_at": "2026-09-06T10:01:39.944927+00:00"
   }
 ]
