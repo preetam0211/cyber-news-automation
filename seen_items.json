@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
-    "title": "North Carolina Ports confirms cyberattack disrupting operations",
-    "link": "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
-    "published": "Fri, 07 Aug 2026 09:34:40 -0400",
-    "source": "BleepingComputer",
-    "summary": "The North Carolina Ports Authority has confirmed that a cyberattack disrupted IT systems and slowed operations at Port of Wilmington, Port of Morehead City, and Charlotte Inland Port. [...]",
-    "created_at": "2026-08-07T14:01:09.294176+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158738",
-    "title": "CVE-2026-64561 Zapscape Lets KVM Guests Escape to Linux Host With Root Privileges",
-    "link": "https://cybersecuritynews.com/zapscape-kvm-escape-root-privileges/",
-    "published": "Fri, 07 Aug 2026 13:32:14 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A Linux kernel vulnerability, tracked as CVE-2026-64561 and named Zapscape, could allow attackers to escape a KVM virtual machine and take control of its underlying Linux host with root privileges. The issue affects KVM/x86, a virtualization technolo",
-    "created_at": "2026-08-07T14:31:31.963703+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
     "title": "Real emails, hijacked payments: Two H1 2026 attack chains",
     "link": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
@@ -8377,5 +8359,14 @@
     "source": "CybersecurityNews",
     "summary": "CrowdStrike has unveiled SafeMind, a family of purpose-built security models and harnesses that the company is calling the first agentic system engineered specifically for cyber defenders. Announced at Fal.Con 2026 in Las Vegas, the launch marks a st",
     "created_at": "2026-09-06T13:31:23.737177+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
+    "title": "Attackers conceal phishing lures using invisible Unicode characters",
+    "link": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
+    "published": "Sun, 06 Sep 2026 10:23:46 -0400",
+    "source": "BleepingComputer",
+    "summary": "Threat actors have adopted the ASCII smuggling technique in phishing campaigns, using invisible Unicode characters to evade email security filters. [...]",
+    "created_at": "2026-09-06T14:31:37.843029+00:00"
   }
 ]
