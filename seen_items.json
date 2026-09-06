@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
-    "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
-    "link": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
-    "published": "Fri, 07 Aug 2026 15:39:54 +0530",
-    "source": "The Hacker News",
-    "summary": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 candidate attack vectors.\n\nPortSwigger said a separate",
-    "created_at": "2026-08-07T11:01:30.668632+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
-    "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
-    "link": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
-    "published": "Fri, 07 Aug 2026 16:08:27 +0530",
-    "source": "The Hacker News",
-    "summary": "Cybersecurity researchers have called attention to an active &quot;widespread email-driven phishing campaign&quot; that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 accounts with an aim to identify key personnel ",
-    "created_at": "2026-08-07T11:01:56.709930+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=158739",
     "title": "ChainDrop Worm Infects 400+ npm Packages to Steal GitHub and Cloud Credentials",
     "link": "https://cybersecuritynews.com/chaindrop-worm-infects-npm-packages/",
@@ -8440,5 +8422,23 @@
     "source": "The Hacker News",
     "summary": "Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to CERT Polska&#x27;s attack warning, published",
     "created_at": "2026-09-06T10:01:39.944927+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162235",
+    "title": "Hackers Exploiting MikroTik RouterOS Vulnerability in the Wild to Gain Complete Network Access",
+    "link": "https://cybersecuritynews.com/mikrotik-routeros-vulnerability/",
+    "published": "Sun, 06 Sep 2026 10:25:15 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Attackers are actively exploiting an unauthenticated remote access flaw in MikroTik RouterOS, and network administrators worldwide are being urged to patch their devices immediately before compromise turns into a full network takeover. MikroTik confi",
+    "created_at": "2026-09-06T11:31:07.178757+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162238",
+    "title": "ASUS Control Center Flaw Allows Attackers to Gain Full Admin Control of the System",
+    "link": "https://cybersecuritynews.com/asus-control-center-vulnerability/",
+    "published": "Sun, 06 Sep 2026 10:57:47 +0000",
+    "source": "CybersecurityNews",
+    "summary": "ASUS has issued an urgent security update for ASUS Control Center Enterprise (ACC) after researchers uncovered a maximum-severity vulnerability that lets remote attackers seize complete administrative control over the platform and every device it man",
+    "created_at": "2026-09-06T11:31:15.623828+00:00"
   }
 ]
