@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
-    "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
-    "link": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
-    "published": "Fri, 07 Aug 2026 14:22:11 +0530",
-    "source": "The Hacker News",
-    "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called NatJack that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, disclose victim IP addresses and mapped ports, a",
-    "created_at": "2026-08-07T10:02:09.585718+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158730",
-    "title": "UNC6671 Automates Microsoft 365 Data Theft After Hijacking Employee Sessions",
-    "link": "https://cybersecuritynews.com/unc6671-automates-microsoft-365/",
-    "published": "Fri, 07 Aug 2026 09:19:50 +0000",
-    "source": "CybersecurityNews",
-    "summary": "UNC6671 is carrying out data theft campaigns that begin with a phone call. The group poses as an IT helpdesk, claiming an urgent security migration is necessary. A convincing call and a fake sign-in page can turn an ordinary session into an entry poi",
-    "created_at": "2026-08-07T10:02:31.899478+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
-    "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
-    "link": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
-    "published": "Fri, 07 Aug 2026 15:02:57 +0530",
-    "source": "The Hacker News",
-    "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called NatJack that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose mapped ports, and exhaust NAT tables.\n\nPr",
-    "created_at": "2026-08-07T10:02:34.754198+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
     "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
     "link": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
