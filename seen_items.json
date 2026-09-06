@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
-    "title": "Levi Strauss & Co. says hackers stole corporate data in cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
-    "published": "Fri, 07 Aug 2026 11:48:20 -0400",
-    "source": "BleepingComputer",
-    "summary": "Levi Strauss &amp; Co. (Levi&#x27;s) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines. [...]",
-    "created_at": "2026-08-07T16:01:15.243995+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=158758",
     "title": "Malware Abuses Windows Hello for Business Key to Authenticate Microsoft Entra ID",
     "link": "https://cybersecuritynews.com/malware-abuses-windows-hello-key/",
