@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158739",
-    "title": "ChainDrop Worm Infects 400+ npm Packages to Steal GitHub and Cloud Credentials",
-    "link": "https://cybersecuritynews.com/chaindrop-worm-infects-npm-packages/",
-    "published": "Fri, 07 Aug 2026 11:07:15 +0000",
-    "source": "CybersecurityNews",
-    "summary": "ChainDrop has turned routine software installs into a route for credential theft. The self-propagating worm infected more than 400 npm packages, putting developer laptops, build systems and cloud environments at risk. Since compromised packages still",
-    "created_at": "2026-08-07T12:01:40.438686+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158751",
-    "title": "Fake PDFs and Chat Apps Let Patchwork Spy on PCs and Android Phones",
-    "link": "https://cybersecuritynews.com/fake-pdfs-chat-apps-let-patchwork-spy/",
-    "published": "Fri, 07 Aug 2026 11:42:21 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Patchwork, also known as Dropping Elephant, is using fake documents and chat applications to spy on computer and phone users. The long-running espionage group has built separate attack paths for Windows systems and Android devices, allowing it to col",
-    "created_at": "2026-08-07T12:01:42.510300+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html",
     "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers",
     "link": "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html",
