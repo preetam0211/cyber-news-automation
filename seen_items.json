@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
-    "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
-    "published": "Sat, 08 Aug 2026 10:16:23 -0400",
-    "source": "BleepingComputer",
-    "summary": "The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors. [...]",
-    "created_at": "2026-08-08T14:31:18.115239+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=158804",
     "title": "Levi Strauss Data Breach – Hackers Gained Access to the Company’s Systems",
     "link": "https://cybersecuritynews.com/levi-strauss-data-breach/",
@@ -8503,5 +8494,50 @@
     "source": "CybersecurityNews",
     "summary": "Your LG smart TV may be doing far more than displaying your favorite shows while it sits “off” in the corner of your living room. A new investigation from Gamers Nexus, conducted alongside Level1Techs and independent security researchers, alleges tha",
     "created_at": "2026-09-07T14:01:29.675045+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162358",
+    "title": "OpenAI Commits $1 Billion to Give Critical Infrastructure Defenders Frontier AI Cyber Tools",
+    "link": "https://cybersecuritynews.com/openai-commits-1-billion/",
+    "published": "Mon, 07 Sep 2026 14:10:00 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OpenAI has launched Daybreak for Frontline Defenders, a global cybersecurity initiative designed to help organizations protecting essential services use frontier AI capabilities against increasingly advanced cyber threats. The company said it will co",
+    "created_at": "2026-09-07T14:31:31.007012+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162387",
+    "title": "New Linux Bot Hides as Kernel Process and Launches DDoS Attacks",
+    "link": "https://cybersecuritynews.com/new-linux-bot/",
+    "published": "Mon, 07 Sep 2026 14:12:38 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new Linux bot called Tengu is built to stay hidden and turn compromised systems into tools for disruption. The 32-bit malware poses as a routine kernel worker, persists across several Linux setups, and can generate traffic floods against selected t",
+    "created_at": "2026-09-07T14:31:33.285148+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162377",
+    "title": "ConnectWise Warns of New ScreenConnect Remote Access Flaw – Released Mitigation Steps",
+    "link": "https://cybersecuritynews.com/connectwise-screenconnect-remote-access-flaw/",
+    "published": "Mon, 07 Sep 2026 14:14:40 +0000",
+    "source": "CybersecurityNews",
+    "summary": "ConnectWise has warned customers about a newly identified security issue affecting file transfer behavior in ScreenConnect Remote Access Support and Access sessions. The issue impacts both cloud-hosted and on-premises ScreenConnect deployments, and t",
+    "created_at": "2026-09-07T14:31:34.663159+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162368",
+    "title": "Microsoft to Retire Manifest V2 Extensions and Switch to V3 for Improved Security and Performance",
+    "link": "https://cybersecuritynews.com/microsoft-to-retire-manifest-v2-extensions/",
+    "published": "Mon, 07 Sep 2026 14:24:00 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft will retire support for Manifest V2 browser extensions in Microsoft Edge by early 2027, requiring users, enterprises, and developers to move to Manifest V3. The transition is intended to strengthen browser security, improve performance, and",
+    "created_at": "2026-09-07T14:31:35.699584+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162389",
+    "title": "Natural Resources Wales Exposes Sensitive Employee Data in Spreadsheet Breach",
+    "link": "https://cybersecuritynews.com/natural-resources-wales-expose/",
+    "published": "Mon, 07 Sep 2026 14:25:24 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Natural Resources Wales has disclosed a personal data breach involving a spreadsheet containing sensitive diversity information belonging to former and current employees. The incident affected people employed by Natural Resources Wales (NRW) between ",
+    "created_at": "2026-09-07T14:31:37.906482+00:00"
   }
 ]
