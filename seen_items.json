@@ -8584,5 +8584,23 @@
     "source": "BleepingComputer",
     "summary": "A phishing-as-a-service framework called BigBear 2.0 has been used to bypass multi-factor authentication at 258 organizations and steal more than 5,000 Microsoft 365 credentials. [...]",
     "created_at": "2026-09-07T16:04:48.565836+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
+    "title": "⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
+    "link": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
+    "published": "Mon, 07 Sep 2026 20:06:07 +0530",
+    "source": "The Hacker News",
+    "summary": "Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, but an annoying one if that was a precaution you wer",
+    "created_at": "2026-09-07T16:31:29.024856+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
+    "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
+    "link": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
+    "published": "Mon, 07 Sep 2026 21:21:56 +0530",
+    "source": "The Hacker News",
+    "summary": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that&#x27;s targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help desk vishing, adversary-in-the",
+    "created_at": "2026-09-07T16:31:30.990184+00:00"
   }
 ]
