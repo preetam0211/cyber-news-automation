@@ -8359,5 +8359,14 @@
     "source": "The Hacker News",
     "summary": "Every on-premises N-central build below 2026.3.1.14 — including servers updated to Hotfix 3 a day earlier — needs Hotfix 4. N-able&#x27;s incident notice says the flaw has been exploited in the wild; its release notes say that is unconfirmed.\n\nN-able",
     "created_at": "2026-09-07T10:01:06.125932+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/",
+    "title": "ConnectWise warns of new ScreenConnect flaw without patch",
+    "link": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/",
+    "published": "Mon, 07 Sep 2026 06:06:38 -0400",
+    "source": "BleepingComputer",
+    "summary": "ConnectWise has shared temporary mitigation measures for a new ScreenConnect Remote Access vulnerability that it plans to patch later this week. [...]",
+    "created_at": "2026-09-07T10:31:15.339699+00:00"
   }
 ]
