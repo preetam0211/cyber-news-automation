@@ -8431,5 +8431,14 @@
     "source": "CybersecurityNews",
     "summary": "South Korean automotive and media organizations have been hit by a quiet Linux intrusion toolkit built for long-term access. The malware hides inside software that manages web traffic, allowing attackers to watch users, steal information, and change ",
     "created_at": "2026-09-07T12:01:12.602961+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/",
+    "title": "Trezor data breach impact now reaches 81,000 customers",
+    "link": "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/",
+    "published": "Mon, 07 Sep 2026 08:16:32 -0400",
+    "source": "BleepingComputer",
+    "summary": "Cryptocurrency hardware wallet maker Trezor says an August data breach at its shipping and logistics provider, ShipMonk, affects an additional 67,000 U.S. customers. [...]",
+    "created_at": "2026-09-07T12:31:20.657930+00:00"
   }
 ]
