@@ -8368,5 +8368,59 @@
     "source": "BleepingComputer",
     "summary": "ConnectWise has shared temporary mitigation measures for a new ScreenConnect Remote Access vulnerability that it plans to patch later this week. [...]",
     "created_at": "2026-09-07T10:31:15.339699+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162343",
+    "title": "OpenVPN Fixes 7 Security Flaws Affecting VPN Connections and Windows Systems",
+    "link": "https://cybersecuritynews.com/openvpn-fixes-7-security-flaws/",
+    "published": "Mon, 07 Sep 2026 09:46:53 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The OpenVPN project has shipped version 2.7.7, a security-focused release that patches seven distinct vulnerabilities spanning the software’s core reliability layer and its Windows-specific service components. The update, released on September 3, 202",
+    "created_at": "2026-09-07T11:01:05.828210+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162316",
+    "title": "Telerik Flaw Chain Lets Unauthenticated Attackers Turn Padding Oracle Into Remote Code Execution",
+    "link": "https://cybersecuritynews.com/telerik-flaw-chain/",
+    "published": "Mon, 07 Sep 2026 10:01:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Security researchers have uncovered a significant vulnerability chain in Telerik UI for ASP.NET AJAX, allowing unauthenticated attackers to execute remote code in vulnerable enterprise web applications. The issue primarily affects Telerik’s RadAsyncU",
+    "created_at": "2026-09-07T11:01:12.798205+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/",
+    "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/",
+    "published": "Mon, 07 Sep 2026 06:32:40 -0400",
+    "source": "BleepingComputer",
+    "summary": "Hackers are exploiting a chain of two recently disclosed vulnerabilities in MikroTik routers to take control of devices with SSH services exposed to the internet. [...]",
+    "created_at": "2026-09-07T11:01:24.939826+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
+    "title": "ChatGPT can now connect to your personal apps to mimic writing style",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
+    "published": "Mon, 07 Sep 2026 06:36:37 -0400",
+    "source": "BleepingComputer",
+    "summary": "OpenAI appears to be testing a new &quot;Writing Style&quot; feature for ChatGPT that can learn how you write by looking at examples from your connected apps. [...]",
+    "created_at": "2026-09-07T11:01:25.988183+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162341",
+    "title": "Fake Minecraft Mod Deploys Myth Stealer RAT to Steal Browser Credentials and Cookies",
+    "link": "https://cybersecuritynews.com/fake-minecraft-mod/",
+    "published": "Mon, 07 Sep 2026 10:41:21 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A counterfeit Minecraft optimisation mod is installing Myth Stealer, malware that can steal browser passwords, cookies and data. Its malicious file looks useful because features work as advertised, giving players little reason to suspect a hidden thr",
+    "created_at": "2026-09-07T11:01:28.213931+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162348",
+    "title": "Roundcube Webmail Patches 12 Security Flaws, Including Zero-Click XSS and SSRF Bypass",
+    "link": "https://cybersecuritynews.com/roundcube-webmail-patches-12-security-flaws/",
+    "published": "Mon, 07 Sep 2026 10:49:56 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Roundcube Webmail has released security updates for its 1.6 LTS and 1.7 branches, fixing 12 vulnerabilities that could expose users and servers to cross-site scripting, email header injection, cross-user data access, remote-content bypasses, and serv",
+    "created_at": "2026-09-07T11:01:30.453324+00:00"
   }
 ]
