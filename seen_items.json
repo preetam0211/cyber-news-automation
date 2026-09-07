@@ -8467,5 +8467,23 @@
     "source": "The Hacker News",
     "summary": "If managing security across multiple cloud providers wasn&#x27;t hard enough, each one fails in a different way. For the 2026 Cloud Security Index, Intruder analyzed misconfiguration data from 3,000 organizations across AWS, Azure, and Google Cloud a",
     "created_at": "2026-09-07T13:01:19.920017+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162373",
+    "title": "Kimsuky Hackers Use OpenCode AI Agent to Mass-Produce Phishing Decoys in LNK Attacks",
+    "link": "https://cybersecuritynews.com/kimsuky-hackers/",
+    "published": "Mon, 07 Sep 2026 13:02:44 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Kimsuky has been observed using an AI agent to produce convincing phishing decoys at scale, then hiding malware inside Windows shortcut files. The latest activity shows how ordinary-looking documents can become the first step in compromise. The campa",
+    "created_at": "2026-09-07T13:31:02.699704+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/",
+    "title": "Mathspace discloses data breach affecting over 1 million people",
+    "link": "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/",
+    "published": "Mon, 07 Sep 2026 09:05:11 -0400",
+    "source": "BleepingComputer",
+    "summary": "Online maths learning platform Mathspace disclosed over the weekend that attackers stole data from more than 1 million students, staff, and parents after breaching its Metabase internal reporting system. [...]",
+    "created_at": "2026-09-07T13:31:04.776401+00:00"
   }
 ]
