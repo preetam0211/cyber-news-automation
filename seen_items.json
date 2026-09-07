@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html",
-    "title": "New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens",
-    "link": "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html",
-    "published": "Sat, 08 Aug 2026 13:33:57 +0530",
-    "source": "The Hacker News",
-    "summary": "New research shows content inside an email can escape its message boundary and interfere with the webmail interface.\n\nAcross attack chains spanning Outlook, Gmail, Fastmail, Proton Mail, Yahoo Mail, and AOL Mail, the techniques can capture passwords,",
-    "created_at": "2026-08-08T09:31:22.510655+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
-    "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
-    "link": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
-    "published": "Sat, 08 Aug 2026 14:24:50 +0530",
-    "source": "The Hacker News",
-    "summary": "Attacker-controlled instructions can make Atlassian&#x27;s Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to an outside server. Two security firms found that behavior independently, by different routes. ",
-    "created_at": "2026-08-08T09:31:40.230409+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
     "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
@@ -8368,5 +8350,14 @@
     "source": "CybersecurityNews",
     "summary": "PEEP, a malicious Chrome extension posing as Smart Bookmarks, can steal active login sessions and turn an already compromised Windows computer into a remote backdoor. The finding shows how a browser add-on can become far more dangerous than a simple ",
     "created_at": "2026-09-07T09:05:46.879647+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
+    "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
+    "link": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
+    "published": "Mon, 07 Sep 2026 14:01:12 +0530",
+    "source": "The Hacker News",
+    "summary": "Every on-premises N-central build below 2026.3.1.14 — including servers updated to Hotfix 3 a day earlier — needs Hotfix 4. N-able&#x27;s incident notice says the flaw has been exploited in the wild; its release notes say that is unconfirmed.\n\nN-able",
+    "created_at": "2026-09-07T10:01:06.125932+00:00"
   }
 ]
