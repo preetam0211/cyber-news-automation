@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html",
-    "title": "Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts",
-    "link": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html",
-    "published": "Sat, 08 Aug 2026 12:22:16 +0530",
-    "source": "The Hacker News",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in th",
-    "created_at": "2026-08-08T08:04:24.234542+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html",
-    "title": "N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist",
-    "link": "https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html",
-    "published": "Sat, 08 Aug 2026 12:27:43 +0530",
-    "source": "The Hacker News",
-    "summary": "N-able has released a fresh round of hotfixes for N‑central as part of its investigation into ongoing exploitation of a recently disclosed security flaw in the Remote Monitoring and Management (RMM) product.\n\n&quot;We are proactively expanding protec",
-    "created_at": "2026-08-08T08:04:30.776638+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html",
-    "title": "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
-    "link": "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html",
-    "published": "Sat, 08 Aug 2026 12:28:31 +0530",
-    "source": "The Hacker News",
-    "summary": "Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day.\n\nThe vulnerability (CVSS score: 10.0), which does not carry a CVE iden",
-    "created_at": "2026-08-08T08:04:34.820100+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158793",
-    "title": "Bugtraq Is Back: The Original Full Disclosure Mailing List Is Live Again",
-    "link": "https://cybersecuritynews.com/bugtraq-is-back-the-original-full-disclosure-mailing-list-is-live-again/",
-    "published": "Sat, 08 Aug 2026 08:24:35 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Sophia Antipolis, France, August 7th, 2026, CyberNewswire At DEF CON 34 in Las Vegas, security researcher Jonathan Brossard, known in the community as endrazine, announced the rebirth of the original Bugtraq mailing list. Established in 1993, Bugtraq",
-    "created_at": "2026-08-08T08:31:13.563550+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html",
     "title": "New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens",
     "link": "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html",
@@ -8305,5 +8269,14 @@
     "source": "CybersecurityNews",
     "summary": "Tufin scores highest in our 2026 evaluation of network security policy management (NSPM) tools, with AlgoSec close behind on application-centric automation and FireMon leading on real-time change detection. NSPM tools discover, analyse, and automate ",
     "created_at": "2026-09-07T06:31:38.773902+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
+    "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
+    "link": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
+    "published": "Mon, 07 Sep 2026 13:23:04 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities.\n\n&quot;The payloads are protected with javascript-obfuscator, using ",
+    "created_at": "2026-09-07T08:31:46.411880+00:00"
   }
 ]
