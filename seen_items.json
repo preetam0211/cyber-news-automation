@@ -8440,5 +8440,32 @@
     "source": "BleepingComputer",
     "summary": "Cryptocurrency hardware wallet maker Trezor says an August data breach at its shipping and logistics provider, ShipMonk, affects an additional 67,000 U.S. customers. [...]",
     "created_at": "2026-09-07T12:31:20.657930+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
+    "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released",
+    "link": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
+    "published": "Mon, 07 Sep 2026 16:50:14 +0530",
+    "source": "The Hacker News",
+    "summary": "A TantoSec proof-of-concept turns an AES-CBC &quot;padding oracle&quot; in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution — but only against applications in a specific non-default configuration, and Progress patched the chain ",
+    "created_at": "2026-09-07T13:01:16.517745+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
+    "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
+    "link": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
+    "published": "Mon, 07 Sep 2026 17:06:39 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly connected systems.\n\nAccording to Huntress, three unrelated incident",
+    "created_at": "2026-09-07T13:01:17.670421+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html",
+    "title": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does",
+    "link": "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html",
+    "published": "Mon, 07 Sep 2026 17:15:00 +0530",
+    "source": "The Hacker News",
+    "summary": "If managing security across multiple cloud providers wasn&#x27;t hard enough, each one fails in a different way. For the 2026 Cloud Security Index, Intruder analyzed misconfiguration data from 3,000 organizations across AWS, Azure, and Google Cloud a",
+    "created_at": "2026-09-07T13:01:19.920017+00:00"
   }
 ]
