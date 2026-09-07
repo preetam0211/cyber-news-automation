@@ -8422,5 +8422,14 @@
     "source": "CybersecurityNews",
     "summary": "Roundcube Webmail has released security updates for its 1.6 LTS and 1.7 branches, fixing 12 vulnerabilities that could expose users and servers to cross-site scripting, email header injection, cross-user data access, remote-content bypasses, and serv",
     "created_at": "2026-09-07T11:01:30.453324+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162353",
+    "title": "DPRK-Linked Hackers Deploy Ted Backdoor and CurlRAT Against South Korean Firms",
+    "link": "https://cybersecuritynews.com/dprk-linked-hackers/",
+    "published": "Mon, 07 Sep 2026 11:54:56 +0000",
+    "source": "CybersecurityNews",
+    "summary": "South Korean automotive and media organizations have been hit by a quiet Linux intrusion toolkit built for long-term access. The malware hides inside software that manages web traffic, allowing attackers to watch users, steal information, and change ",
+    "created_at": "2026-09-07T12:01:12.602961+00:00"
   }
 ]
