@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158779",
-    "title": "OpenAI Slows Down New Astra Model Development to Measure Cybersecurity Capabilities",
-    "link": "https://cybersecuritynews.com/openai-slows-down-new-astra-model/",
-    "published": "Sat, 08 Aug 2026 04:26:21 +0000",
-    "source": "CybersecurityNews",
-    "summary": "OpenAI has announced that it is deliberately slowing the development of Astra, its upcoming frontier AI model, after internal evaluations revealed advancements in agentic coding and cybersecurity that could push the system into “Critical” risk territ",
-    "created_at": "2026-08-08T04:31:36.461116+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html",
     "title": "Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts",
     "link": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html",
