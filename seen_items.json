@@ -8566,5 +8566,14 @@
     "source": "CybersecurityNews",
     "summary": "Online maths learning platform Mathspace has confirmed a data breach that exposed the personal information of more than one million students, parents, guardians, and school staff across Australia and New Zealand, after attackers exploited a critical ",
     "created_at": "2026-09-07T15:01:09.466423+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162408",
+    "title": "Linux Rootkit Injects Fileless PHP Web Shells Into Compromised F5 BIG-IP Servers",
+    "link": "https://cybersecuritynews.com/linux-rootkit/",
+    "published": "Mon, 07 Sep 2026 15:02:56 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A stealthy Linux rootkit is giving attackers a new way to keep control of compromised F5 BIG-IP Access Policy Manager servers. Instead of leaving an obvious malicious PHP file behind, it places a web shell only in the memory used by the running serve",
+    "created_at": "2026-09-07T15:31:05.896514+00:00"
   }
 ]
