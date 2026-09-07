@@ -8611,5 +8611,14 @@
     "source": "CybersecurityNews",
     "summary": "Bimbo Bakeries USA, the American arm of the world’s largest baking company, has confirmed that hackers stole employee data by exploiting a zero-day vulnerability in Oracle’s E-Business Suite (EBS), joining a growing list of organizations swept up in ",
     "created_at": "2026-09-07T17:31:01.562859+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
+    "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
+    "link": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
+    "published": "Mon, 07 Sep 2026 23:42:09 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser.\n\n&quot;Requiring prior administrative or code execution access, its inst",
+    "created_at": "2026-09-07T18:31:03.165493+00:00"
   }
 ]
