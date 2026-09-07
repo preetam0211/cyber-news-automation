@@ -8602,5 +8602,14 @@
     "source": "The Hacker News",
     "summary": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that&#x27;s targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help desk vishing, adversary-in-the",
     "created_at": "2026-09-07T16:31:30.990184+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/",
+    "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
+    "link": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/",
+    "published": "Mon, 07 Sep 2026 12:50:29 -0400",
+    "source": "BleepingComputer",
+    "summary": "A zero-day vulnerability dubbed &quot;StyleSmuggler&quot; affecting all versions of Magento and Adobe Commerce is being exploited in attacks to deploy a backdoor. [...]",
+    "created_at": "2026-09-07T17:01:12.728846+00:00"
   }
 ]
