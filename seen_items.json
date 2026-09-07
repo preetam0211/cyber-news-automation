@@ -8611,5 +8611,14 @@
     "source": "BleepingComputer",
     "summary": "A zero-day vulnerability dubbed &quot;StyleSmuggler&quot; affecting all versions of Magento and Adobe Commerce is being exploited in attacks to deploy a backdoor. [...]",
     "created_at": "2026-09-07T17:01:12.728846+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162442",
+    "title": "Bimbo Bakeries USA Confirms Data Breach in Oracle EBS Zero-Day Attack",
+    "link": "https://cybersecuritynews.com/bimbo-oracle-ebs-data-breach/",
+    "published": "Mon, 07 Sep 2026 17:12:09 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Bimbo Bakeries USA, the American arm of the world’s largest baking company, has confirmed that hackers stole employee data by exploiting a zero-day vulnerability in Oracle’s E-Business Suite (EBS), joining a growing list of organizations swept up in ",
+    "created_at": "2026-09-07T17:31:01.562859+00:00"
   }
 ]
