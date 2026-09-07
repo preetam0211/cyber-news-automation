@@ -8278,5 +8278,95 @@
     "source": "The Hacker News",
     "summary": "Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities.\n\n&quot;The payloads are protected with javascript-obfuscator, using ",
     "created_at": "2026-09-07T08:31:46.411880+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162265",
+    "title": "Hackers Actively Exploiting PaperCut Servers Command Execution Vulnerabilities",
+    "link": "https://cybersecuritynews.com/papercut-command-execution-flaws-exploited/",
+    "published": "Mon, 07 Sep 2026 07:05:58 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Two critical vulnerabilities in PaperCut servers, CVE-2026-81578 and CVE-2026-82078, are being actively exploited, allowing attackers to execute commands, steal credentials, and potentially create privileged accounts within victim networks. Recent re",
+    "created_at": "2026-09-07T09:01:14.651756+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162295",
+    "title": "OpenAI Confirms ‘wiki Hijack,’ and Says It’s Working on a Framework for Disclosure Details",
+    "link": "https://cybersecuritynews.com/openai-confirms-wiki-hijack/",
+    "published": "Mon, 07 Sep 2026 07:24:29 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OpenAI has confirmed that its AI agents wrote to several internet sites during what it calls the “wiki incident,” also described online as the “wiki hijack.” The company said the event shows why AI developers need clearer rules for disclosing real-wo",
+    "created_at": "2026-09-07T09:02:04.469757+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162289",
+    "title": "Russian Hackers Use New HOOKEDGE Backdoor to Spy on European Organizations",
+    "link": "https://cybersecuritynews.com/russian-hackers-use-new-hookedge/",
+    "published": "Mon, 07 Sep 2026 07:42:01 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Russian hackers have used a Windows backdoor called HOOKEDGE in espionage operations against diplomatic, government, and defense-related organizations across Europe. The activity focused on targets in Romania, Spain, and Turkey, where seemingly ordin",
+    "created_at": "2026-09-07T09:02:35.500026+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=158579",
+    "title": "Top 10 Best Managed Firewall Services in 2026",
+    "link": "https://cybersecuritynews.com/best-managed-firewall-services/",
+    "published": "Mon, 07 Sep 2026 07:57:21 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Palo Alto Networks scores highest in our 2026 evaluation of managed firewall service, with Fortinet close behind on breadth and value and Cato Networks leading on cloud-native delivery. A managed firewall service transfers day-to-day firewall operati",
+    "created_at": "2026-09-07T09:03:22.756527+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159394",
+    "title": "Top 10 Best Antivirus (Endpoint Protection) Software for Business in 2026",
+    "link": "https://cybersecuritynews.com/best-business-antivirus-software/",
+    "published": "Mon, 07 Sep 2026 08:05:23 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Business antivirus has become endpoint security: prevention, detection, and response in one agent rather than signature scanning alone. CrowdStrike leads on detection engineering and threat intelligence, Microsoft Defender for Endpoint wins on econom",
+    "created_at": "2026-09-07T09:03:53.461061+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159561",
+    "title": "Top 10 Best Antivirus Software for Mac in 2026",
+    "link": "https://cybersecuritynews.com/best-mac-antivirus/",
+    "published": "Mon, 07 Sep 2026 08:10:25 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Macs get malware. Not as much as Windows, but the volume of macOS infostealers harvesting browser credentials, crypto wallets, and keychain data has grown sharply, and they arrive through cracked software, fake installers, and malicious ads rather th",
+    "created_at": "2026-09-07T09:03:59.440505+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159567",
+    "title": "Top 10 Best Endpoint Detection & Response (EDR) Solutions in 2026",
+    "link": "https://cybersecuritynews.com/best-edr-solutions/",
+    "published": "Mon, 07 Sep 2026 08:18:27 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Endpoint detection and response (EDR) records what happens on your endpoints, detects attacker behaviour that prevention missed, and gives you the ability to investigate and contain it. CrowdStrike leads on detection engineering and threat intelligen",
+    "created_at": "2026-09-07T09:04:20.912991+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162325",
+    "title": "Critical Software Vulnerabilities Surge From Under 100 to More Than 600 a Month",
+    "link": "https://cybersecuritynews.com/critical-software-vulnerabilities-surge/",
+    "published": "Mon, 07 Sep 2026 08:24:09 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The cybersecurity industry is confronting a threat landscape that is changing faster than most defenders can keep track of. New data from Epoch AI shows that critical and high-severity vulnerability disclosures from major technology firms have gone v",
+    "created_at": "2026-09-07T09:04:49.225345+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162307",
+    "title": "N-able Released Hotfix for RCE Vulnerability Affecting Platform",
+    "link": "https://cybersecuritynews.com/n-able-released-hotfix/",
+    "published": "Mon, 07 Sep 2026 08:35:40 +0000",
+    "source": "CybersecurityNews",
+    "summary": "N-able has released N-central 2026.3 Hotfix 4 to fix CVE-2026-86218. This critical vulnerability could allow an unauthenticated attacker to execute code remotely on an exposed N-central server. The update, identified as build 2026.3.1.14, was issued ",
+    "created_at": "2026-09-07T09:05:39.444418+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162314",
+    "title": "Malicious Chrome Extension Can Steal Login Sessions and Turn PCs Into Remote Backdoors",
+    "link": "https://cybersecuritynews.com/malicious-chrome-extension-2/",
+    "published": "Mon, 07 Sep 2026 08:50:33 +0000",
+    "source": "CybersecurityNews",
+    "summary": "PEEP, a malicious Chrome extension posing as Smart Bookmarks, can steal active login sessions and turn an already compromised Windows computer into a remote backdoor. The finding shows how a browser add-on can become far more dangerous than a simple ",
+    "created_at": "2026-09-07T09:05:46.879647+00:00"
   }
 ]
