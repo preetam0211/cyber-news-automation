@@ -8485,5 +8485,23 @@
     "source": "BleepingComputer",
     "summary": "Online maths learning platform Mathspace disclosed over the weekend that attackers stole data from more than 1 million students, staff, and parents after breaching its Metabase internal reporting system. [...]",
     "created_at": "2026-09-07T13:31:04.776401+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162380",
+    "title": "New BYOTC Attack Hijacks Trusted Windows Apps to Abuse Privileged Kernel Drivers",
+    "link": "https://cybersecuritynews.com/new-byotc-attack-hijacks/",
+    "published": "Mon, 07 Sep 2026 13:40:00 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new Windows attack shows how a trusted program can become a path to sensitive system functions. The method, called Bring Your Own Trusted Caller, or BYOTC, turns a legitimate user-mode application into the tool that asks a privileged driver to perf",
+    "created_at": "2026-09-07T14:01:27.606901+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162365",
+    "title": "LG Smart TVs Caught Scanning Networks and Logging Audio in Standby",
+    "link": "https://cybersecuritynews.com/lg-smart-tvs-caught-scanning-networks/",
+    "published": "Mon, 07 Sep 2026 13:50:28 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Your LG smart TV may be doing far more than displaying your favorite shows while it sits “off” in the corner of your living room. A new investigation from Gamers Nexus, conducted alongside Level1Techs and independent security researchers, alleges tha",
+    "created_at": "2026-09-07T14:01:29.675045+00:00"
   }
 ]
