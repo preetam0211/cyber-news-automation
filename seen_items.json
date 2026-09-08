@@ -8854,5 +8854,14 @@
     "source": "CybersecurityNews",
     "summary": "New York, NY, United States, September 8th, 2026, CyberNewswire Mars Security, the autonomous threat hunting and detection engineering platform founded by offensive security veterans, today announced Real-Time Intel-Based Detection, a capability that",
     "created_at": "2026-09-08T13:31:19.283470+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-magento-zero-day-exploited-to-backdoor-servers/",
+    "title": "Adobe fixes critical Magento zero-day exploited to backdoor servers",
+    "link": "https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-magento-zero-day-exploited-to-backdoor-servers/",
+    "published": "Tue, 08 Sep 2026 09:34:47 -0400",
+    "source": "BleepingComputer",
+    "summary": "Adobe has released an emergency fix for CVE-2026-75650, an actively exploited max-severity zero-day vulnerability dubbed StyleSmuggler, that impacts multiple versions of Magento and Adobe Commerce. [...]",
+    "created_at": "2026-09-08T14:01:08.078867+00:00"
   }
 ]
