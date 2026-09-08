@@ -8872,5 +8872,23 @@
     "source": "CybersecurityNews",
     "summary": "Boston, MA, USA, September 8th, 2026, CyberNewswire Specialized team of AI agents that discover, attack, and validate web vulnerabilities, leveraging pre-existing site context to eliminate noise and speed remediation.  Reflectiz, the continuous web e",
     "created_at": "2026-09-08T14:31:03.395702+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-astra-can-find-zero-days-but-is-also-harder-to-monitor/",
+    "title": "OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-astra-can-find-zero-days-but-is-also-harder-to-monitor/",
+    "published": "Tue, 08 Sep 2026 10:40:32 -0400",
+    "source": "BleepingComputer",
+    "summary": "OpenAI confirmed that GPT-6 Astra is the first model it has broadly deployed to reach the &quot;Critical level&quot; for cybersecurity capabilities. [...]",
+    "created_at": "2026-09-08T15:04:32.992108+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-overpass-kernel-vulnerability/",
+    "title": "SAP warns of maximum severity 'OVERPASS' kernel vulnerability",
+    "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-overpass-kernel-vulnerability/",
+    "published": "Tue, 08 Sep 2026 10:55:20 -0400",
+    "source": "BleepingComputer",
+    "summary": "SAP has addressed 20 vulnerabilities across multiple products in its September 2026 security updates, including a maximum-severity memory corruption flaw in the SAP Kernel code. [...]",
+    "created_at": "2026-09-08T15:04:44.242282+00:00"
   }
 ]
