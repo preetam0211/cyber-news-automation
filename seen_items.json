@@ -8638,5 +8638,23 @@
     "source": "CybersecurityNews",
     "summary": "A familiar npm worm has returned after more than three months of silence, carrying the same malicious file linked to an earlier supply-chain incident. The reappearance shows how a known threat can regain access to developer environments when it is re",
     "created_at": "2026-09-08T07:31:15.974717+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/",
+    "title": "220 million traveler records exposed in Vietnam-linked APIS leak",
+    "link": "https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/",
+    "published": "Tue, 08 Sep 2026 03:35:50 -0400",
+    "source": "BleepingComputer",
+    "summary": "Exclusive: An exposed Advance Passenger Information System (APIS) database held 220 million passenger and crew records containing names, passport numbers, dates of birth, nationalities, and flight details spanning 2017 to 2026. Researchers accessed t",
+    "created_at": "2026-09-08T08:01:46.497943+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162465",
+    "title": "ShinyHunters Gained Access to 6 Million Customers’ Records Using a Single Call",
+    "link": "https://cybersecuritynews.com/shinyhunters-6-million-customers-records-odido/",
+    "published": "Tue, 08 Sep 2026 07:43:37 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A single phone call was all it took to trigger one of the largest data breaches in Dutch history. In early February 2026, Dutch telecom giant Odido and its budget subsidiary Ben became the latest casualties of ShinyHunters, a hacking and extortion co",
+    "created_at": "2026-09-08T08:02:17.049561+00:00"
   }
 ]
