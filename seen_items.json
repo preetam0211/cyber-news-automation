@@ -8782,5 +8782,23 @@
     "source": "CybersecurityNews",
     "summary": "SAP has released its September 2026 Security Patch Day updates, delivering 19 new security notes and one update to a previously issued note. The patches address vulnerabilities across SAP NetWeaver, SAP Extended Passport Processing, SAP Cloud Applica",
     "created_at": "2026-09-08T11:31:15.325036+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html",
+    "title": "FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials",
+    "link": "https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html",
+    "published": "Tue, 08 Sep 2026 16:52:07 +0530",
+    "source": "The Hacker News",
+    "summary": "A flaw in FreeIPA lets a client that has never logged in create a Kerberos identity of its own choosing in the directory and end up in the administrators group, Red Hat says.\n\nFreeIPA is the system that determines who may log in across a Linux domain",
+    "created_at": "2026-09-08T12:01:14.099314+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2025-changes-may-cause-app-crashes/",
+    "title": "Microsoft: Windows Server 2025 changes causing app crashes",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2025-changes-may-cause-app-crashes/",
+    "published": "Tue, 08 Sep 2026 07:57:51 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft warned customers last week that they may experience application crashes on some Windows Server 2025 due to recent memory management changes. [...]",
+    "created_at": "2026-09-08T12:01:22.243471+00:00"
   }
 ]
