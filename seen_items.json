@@ -9025,5 +9025,23 @@
     "source": "BleepingComputer",
     "summary": "Microsoft has released the Windows 10 KB5122878 extended security update, which includes this month&#x27;s record-breaking September 2026 Patch Tuesday fixes, along with a few bug fixes. [...]",
     "created_at": "2026-09-08T19:01:07.837320+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/",
+    "title": "Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/",
+    "published": "Tue, 08 Sep 2026 16:08:55 -0400",
+    "source": "BleepingComputer",
+    "summary": "A Linux rootkit targeting devices in F5 BIG-IP APM environments can intercept PHP file loading and inject a fileless web shell directly into memory, avoiding the need to write malicious code to disk. [...]",
+    "created_at": "2026-09-08T20:31:08.073473+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/",
+    "title": "The EU CRA's Real Question: What Shipped, and When Did You Know?",
+    "link": "https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/",
+    "published": "Tue, 08 Sep 2026 16:24:16 -0400",
+    "source": "BleepingComputer",
+    "summary": "The EU Cyber Resilience Act&#x27;s vulnerability reporting requirements take effect September 11, giving software vendors as little as 24 hours to report actively exploited flaws. ActiveState explains why knowing exactly what shipped and when vulnera",
+    "created_at": "2026-09-08T20:31:20.531924+00:00"
   }
 ]
