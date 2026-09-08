@@ -8620,5 +8620,14 @@
     "source": "The Hacker News",
     "summary": "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser.\n\n&quot;Requiring prior administrative or code execution access, its inst",
     "created_at": "2026-09-07T18:31:03.165493+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162448",
+    "title": "New InjectEave Attack Allows Hackers to Recover Audio Playing on Headphones from 30 Meters",
+    "link": "https://cybersecuritynews.com/injecteave-attack/",
+    "published": "Tue, 08 Sep 2026 03:20:01 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Researchers have unveiled a novel electromagnetic (EM) attack called InjectEave that lets an adversary eavesdrop on audio playing through wired and wireless headphones from as far as 30 meters away, even through walls, using nothing more than commerc",
+    "created_at": "2026-09-08T06:15:24.080581+00:00"
   }
 ]
