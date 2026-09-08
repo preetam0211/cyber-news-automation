@@ -8998,5 +8998,14 @@
     "source": "CybersecurityNews",
     "summary": "Fortinet has disclosed a high-severity certificate validation flaw in the Agentless ZTNA portal of FortiOS and FortiProxy that could let an unauthenticated remote attacker intercept traffic flowing between the ZTNA portal and the backend destination ",
     "created_at": "2026-09-08T17:31:08.832984+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/",
+    "title": "Windows 11 cumulative updates KB5124008 & KB5122880 released",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/",
+    "published": "Tue, 08 Sep 2026 13:57:03 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft has released Windows 11 KB5124008 and KB5122880 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
+    "created_at": "2026-09-08T18:01:02.871745+00:00"
   }
 ]
