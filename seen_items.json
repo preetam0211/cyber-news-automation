@@ -8773,5 +8773,14 @@
     "source": "CybersecurityNews",
     "summary": "The U.S. Department of State’s Rewards for Justice program has announced a reward of up to $10 million for information leading to the identification or whereabouts of Amir Yaryab, a senior figure in Iran’s Islamic Revolutionary Guard Corps Cyber-Elec",
     "created_at": "2026-09-08T10:03:47.065800+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162531",
+    "title": "SAP Security Updates September 2026 – Critical Flaws Patched in SAP NetWeaver, Cloud and Extended Passport",
+    "link": "https://cybersecuritynews.com/sap-security-updates-september-2026/",
+    "published": "Tue, 08 Sep 2026 11:19:03 +0000",
+    "source": "CybersecurityNews",
+    "summary": "SAP has released its September 2026 Security Patch Day updates, delivering 19 new security notes and one update to a previously issued note. The patches address vulnerabilities across SAP NetWeaver, SAP Extended Passport Processing, SAP Cloud Applica",
+    "created_at": "2026-09-08T11:31:15.325036+00:00"
   }
 ]
