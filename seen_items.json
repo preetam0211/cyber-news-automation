@@ -8890,5 +8890,50 @@
     "source": "BleepingComputer",
     "summary": "SAP has addressed 20 vulnerabilities across multiple products in its September 2026 security updates, including a maximum-severity memory corruption flaw in the SAP Kernel code. [...]",
     "created_at": "2026-09-08T15:04:44.242282+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
+    "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
+    "link": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
+    "published": "Tue, 08 Sep 2026 19:18:16 +0530",
+    "source": "The Hacker News",
+    "summary": "Threat actors are continuing to leverage artificial intelligence (AI) to streamline their operations, with one financially motivated hacking group employing an autonomous, multi-agent attack framework to carry out a large-scale credential harvesting ",
+    "created_at": "2026-09-08T15:31:11.735232+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
+    "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
+    "link": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
+    "published": "Tue, 08 Sep 2026 19:49:17 +0530",
+    "source": "The Hacker News",
+    "summary": "Check Point Research said in a report published today that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the user&#x27;s question as usual.\n\nIn the company&#x27;s proof of c",
+    "created_at": "2026-09-08T15:31:13.828470+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html",
+    "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
+    "link": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html",
+    "published": "Tue, 08 Sep 2026 20:24:30 +0530",
+    "source": "The Hacker News",
+    "summary": "Whoever took nearly 4,000 bitcoin from the Liquid Network on Sunday, September 6, returned 3,400 of it the next day, Bitcoin&#x27;s public record shows. About 598.5 bitcoin has not come back.\n\nLiquid is a Bitcoin sidechain that holds real bitcoin to ",
+    "created_at": "2026-09-08T15:31:38.178111+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162582",
+    "title": "ChatGPT Sandbox Flaw Lets Attackers Steal Gmail Data Across Accounts via Hidden Channel",
+    "link": "https://cybersecuritynews.com/chatgpt-sandbox-gmail-data/",
+    "published": "Tue, 08 Sep 2026 15:20:31 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A covert cross-account communication channel inside ChatGPT let an attacker hijack a victim’s session and silently exfiltrate data from connected apps like Gmail, all while the victim saw nothing unusual in their conversation. The vulnerability explo",
+    "created_at": "2026-09-08T15:31:40.278644+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162541",
+    "title": "Dell Secure Connect Gateway Vulnerabilities Allow Hackers to Gain Unauthorized Access",
+    "link": "https://cybersecuritynews.com/dell-secure-connect-gateway-vulnerabilities/",
+    "published": "Tue, 08 Sep 2026 15:22:46 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Dell has disclosed three critical vulnerabilities in its Secure Connect Gateway 5.0 platform that could allow attackers to gain unauthorized access, execute commands remotely, and obtain root-level control of affected systems. The flaws affect Dell S",
+    "created_at": "2026-09-08T15:31:42.431501+00:00"
   }
 ]
