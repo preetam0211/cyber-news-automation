@@ -8629,5 +8629,14 @@
     "source": "CybersecurityNews",
     "summary": "Researchers have unveiled a novel electromagnetic (EM) attack called InjectEave that lets an adversary eavesdrop on audio playing through wired and wireless headphones from as far as 30 meters away, even through walls, using nothing more than commerc",
     "created_at": "2026-09-08T06:15:24.080581+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162468",
+    "title": "Shai-Hulud npm Worm Resurfaces After 111 Days and Slips Past Malware Scanning",
+    "link": "https://cybersecuritynews.com/shai-hulud-npm-worm/",
+    "published": "Tue, 08 Sep 2026 07:03:34 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A familiar npm worm has returned after more than three months of silence, carrying the same malicious file linked to an earlier supply-chain incident. The reappearance shows how a known threat can regain access to developer environments when it is re",
+    "created_at": "2026-09-08T07:31:15.974717+00:00"
   }
 ]
