@@ -8800,5 +8800,32 @@
     "source": "BleepingComputer",
     "summary": "Microsoft warned customers last week that they may experience application crashes on some Windows Server 2025 due to recent memory management changes. [...]",
     "created_at": "2026-09-08T12:01:22.243471+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-build-ai-frameworks-for-widescale-credential-theft/",
+    "title": "Hackers build AI frameworks for widescale credential theft",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-build-ai-frameworks-for-widescale-credential-theft/",
+    "published": "Tue, 08 Sep 2026 08:03:03 -0400",
+    "source": "BleepingComputer",
+    "summary": "Threat actors are increasingly switching from AI-powered coding assistants to multi-agent frameworks that automate every stage of an attack. [...]",
+    "created_at": "2026-09-08T12:31:34.324683+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162555",
+    "title": "WeWorm – First 0-Click Worm Spreading Through WeChat Calls Across iOS and Android",
+    "link": "https://cybersecuritynews.com/weworm-first-0-click-worm/",
+    "published": "Tue, 08 Sep 2026 12:09:47 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A proof-of-concept zero-click worm dubbed “WeWorm” that it says can spread through WeChat voice calls on both iOS and Android, compromising a target’s WeChat account in seconds without the victim answering the call. Calif says the bug was reported to",
+    "created_at": "2026-09-08T12:31:36.383554+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162518",
+    "title": "Hackers Disable Endpoint Protection and Deploy Sliver Across Compromised Windows Domain",
+    "link": "https://cybersecuritynews.com/hackers-disable-endpoint-protection/",
+    "published": "Tue, 08 Sep 2026 12:10:57 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new intrusion campaign shows how quickly a Windows domain can be turned into a launchpad for deeper compromise. The operators used a Sliver command-and-control beacon, account creation, credential theft and remote administration to establish contro",
+    "created_at": "2026-09-08T12:31:44.442330+00:00"
   }
 ]
