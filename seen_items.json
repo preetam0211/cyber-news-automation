@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158557",
-    "title": "From Reactive Forensics to Predictive Defence: Strengthening Cyber Resilience in Banking",
-    "link": "https://cybersecuritynews.com/from-reactive-forensics-to-predictive-defence-strengthening-cyber-resilience-in-banking/",
-    "published": "Sun, 09 Aug 2026 07:03:50 +0000",
-    "source": "CybersecurityNews",
-    "summary": "By Tarun Wig, Co-founder &amp; CEO, Innefu Labs  A bank in India can be doing everything right on paper. ISO certifications in place. RBI-mandated controls implemented. A SOC running around the clock. And it can still find out about a compromise from",
-    "created_at": "2026-08-09T13:01:13.715071+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158810",
-    "title": "CSS Bomb Attacks Turn Malicious Emails Into Password-Stealing Keyloggers",
-    "link": "https://cybersecuritynews.com/css-bomb-attack/",
-    "published": "Sun, 09 Aug 2026 12:58:22 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A new class of email-based attacks that exploit ordinary CSS styling code to hijack webmail interfaces, spy on user activity, and even steal passwords in real time, all without relying on JavaScript or traditional malware. Dubbed “CSS bomb” attacks, ",
-    "created_at": "2026-08-09T13:01:19.885236+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=158820",
     "title": "Microsoft to Launch New Security Detection Report in Teams",
     "link": "https://cybersecuritynews.com/teams-security-detection-report/",
@@ -8836,5 +8818,41 @@
     "source": "CybersecurityNews",
     "summary": "Claude Mythos is the first model reported to complete a cyber kill chain without step-by-step human direction. The finding does not describe malware or a confirmed victim breach. It is a controlled test, but shows how quickly autonomous attack capabi",
     "created_at": "2026-09-08T13:01:07.407283+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html",
+    "title": "What It Took to Reach 1 Billion Build Manifests",
+    "link": "https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html",
+    "published": "Tue, 08 Sep 2026 17:19:02 +0530",
+    "source": "The Hacker News",
+    "summary": "In the last six months, Chainguard doubled its output from 500 million to more than 1 billion container build manifests. We also surpassed 3,000 unique container images and 675,000 image versions in our catalog. Those are the headline numbers, but I ",
+    "created_at": "2026-09-08T13:31:13.182528+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
+    "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
+    "link": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
+    "published": "Tue, 08 Sep 2026 17:24:29 +0530",
+    "source": "The Hacker News",
+    "summary": "Researchers at the security firm Calif have built a worm that takes over a WeChat account via an incoming call and demonstrated it spreading among three test phones.\n\nThe person being called does not have to answer or touch their phone for it to work",
+    "created_at": "2026-09-08T13:31:15.315507+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/webinar-the-forgotten-google-workspace-access-that-can-lead-to-a-breach/",
+    "title": "Webinar: The forgotten Google Workspace access that can lead to a breach",
+    "link": "https://www.bleepingcomputer.com/news/security/webinar-the-forgotten-google-workspace-access-that-can-lead-to-a-breach/",
+    "published": "Tue, 08 Sep 2026 08:40:48 -0400",
+    "source": "BleepingComputer",
+    "summary": "Third-party applications connected to Google Workspace can retain access long after their original purpose is forgotten. This webinar examines how overly permissive integrations contribute to breaches and which security controls can help fast-growing",
+    "created_at": "2026-09-08T13:31:17.299988+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162565",
+    "title": "Mars Security Launches Real-Time Intel-to-Detection Engine That Turns Live Threat Intelligence Into Backtested Detections in Minutes",
+    "link": "https://cybersecuritynews.com/mars-security-launches-real-time-intel-to-detection-engine-that-turns-live-threat-intelligence-into-backtested-detections-in-minutes/",
+    "published": "Tue, 08 Sep 2026 13:20:42 +0000",
+    "source": "CybersecurityNews",
+    "summary": "New York, NY, United States, September 8th, 2026, CyberNewswire Mars Security, the autonomous threat hunting and detection engineering platform founded by offensive security veterans, today announced Real-Time Intel-Based Detection, a capability that",
+    "created_at": "2026-09-08T13:31:19.283470+00:00"
   }
 ]
