@@ -8953,5 +8953,14 @@
     "source": "CybersecurityNews",
     "summary": "Ivanti has disclosed a wave of security advisories affecting three flagship enterprise products, Endpoint Manager Mobile, Neurons for ITSM, and Sentry, exposing organizations to risks ranging from privilege escalation to full remote code execution. T",
     "created_at": "2026-09-08T16:02:14.067527+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/technology/openai-says-chatgpt-outage-causes-image-generation-errors/",
+    "title": "OpenAI says ChatGPT outage causes image generation errors",
+    "link": "https://www.bleepingcomputer.com/news/technology/openai-says-chatgpt-outage-causes-image-generation-errors/",
+    "published": "Tue, 08 Sep 2026 12:28:42 -0400",
+    "source": "BleepingComputer",
+    "summary": "OpenAI is investigating an ongoing incident causing ChatGPT image generation failures and delays when uploading files. [...]",
+    "created_at": "2026-09-08T16:30:55.708922+00:00"
   }
 ]
