@@ -9043,5 +9043,14 @@
     "source": "BleepingComputer",
     "summary": "The EU Cyber Resilience Act&#x27;s vulnerability reporting requirements take effect September 11, giving software vendors as little as 24 hours to report actively exploited flaws. ActiveState explains why knowing exactly what shipped and when vulnera",
     "created_at": "2026-09-08T20:31:20.531924+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/",
+    "title": "DoppelCart fraud network uses 119,000 fake shops to steal credit cards",
+    "link": "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/",
+    "published": "Tue, 08 Sep 2026 16:35:14 -0400",
+    "source": "BleepingComputer",
+    "summary": "A massive operation dubbed &quot;DoppelCart&quot; uses more than 119,000 domains to run a network of fake e-shops that steal payment card details. [...]",
+    "created_at": "2026-09-08T21:01:27.472053+00:00"
   }
 ]
