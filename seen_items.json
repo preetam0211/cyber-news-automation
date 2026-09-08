@@ -8665,5 +8665,113 @@
     "source": "The Hacker News",
     "summary": "Online dating app Grindr has opted to pay £26 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users&#x27; personal information, including their HIV status, with third-parties.\n\nGrindr, which is the largest LGBT",
     "created_at": "2026-09-08T08:31:10.845908+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162461",
+    "title": "Hackers Hijack Coder Registry to Push Malicious Terraform Modules and Steal Cloud Credentials",
+    "link": "https://cybersecuritynews.com/hackers-hijack-coder-registry/",
+    "published": "Tue, 08 Sep 2026 08:07:59 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical security incident at Coder exposed users of its Terraform module registry to malicious packages designed to steal credentials from cloud development environments. The attack involved unauthorized changes to Coder’s Cloudflare infrastructur",
+    "created_at": "2026-09-08T10:01:14.125460+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157965",
+    "title": "Top 10 Best Web Application Firewall (WAF) Solutions in 2026",
+    "link": "https://cybersecuritynews.com/best-web-application-firewall-solutions/",
+    "published": "Tue, 08 Sep 2026 08:15:51 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A web application firewall (WAF) filters malicious HTTP/S traffic SQL injection, cross-site scripting, credential stuffing, and API abuse before it reaches your applications. Cloudflare is our top WAF pick for 2026 on the strength of protection-per-d",
+    "created_at": "2026-09-08T10:01:26.171288+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=157997",
+    "title": "Top 10 Best Firewall-as-a-Service (FWaaS) Providers in 2026",
+    "link": "https://cybersecuritynews.com/best-fwaas-providers/",
+    "published": "Tue, 08 Sep 2026 08:21:32 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Firewall-as-a-service moves inspection, IPS, and policy into the cloud, so every user and site gets the same protection without appliances to size, patch, or refresh. Zscaler is our top FWaaS pick for 2026 on the strength of the industry’s largest de",
+    "created_at": "2026-09-08T10:01:48.344991+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159577",
+    "title": "Top 10 Best Extended Detection & Response (XDR) Platforms in 2026",
+    "link": "https://cybersecuritynews.com/best-xdr-platforms/",
+    "published": "Tue, 08 Sep 2026 08:25:06 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Palo Alto Cortex XDR scores highest in our 2026 evaluation, with CrowdStrike close behind on detection engineering and Microsoft Defender XDR leading on economics for organizations already holding E5. Modern Extended Detection and Response (XDR) solu",
+    "created_at": "2026-09-08T10:02:15.310080+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159586",
+    "title": "Top 10 Best Managed Detection & Response (MDR) Services in 2026",
+    "link": "https://cybersecuritynews.com/best-mdr-services/",
+    "published": "Tue, 08 Sep 2026 08:28:56 +0000",
+    "source": "CybersecurityNews",
+    "summary": "MDR gives you a 24/7 security operations team without hiring one. Modern Managed Detection and Response (MDR) services fuse advanced analytics with continuous human oversight to contain intrusions across distributed environments. CrowdStrike Falcon C",
+    "created_at": "2026-09-08T10:02:22.118535+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159600",
+    "title": "Top 10 Best Managed XDR Services in 2026",
+    "link": "https://cybersecuritynews.com/best-managed-xdr-services/",
+    "published": "Tue, 08 Sep 2026 08:32:24 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Managed XDR is MDR with a wider aperture: analysts monitoring correlated telemetry from endpoints, network, email, identity, and cloud rather than endpoints alone. Deploying modern Extended Detection and Response (XDR) solutions helps bridge coverage",
+    "created_at": "2026-09-08T10:02:41.141090+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162473",
+    "title": "BigBear 2.0 Evilginx2 Phishing Campaign Bypasses Microsoft 365 MFA With Session Cookie Theft",
+    "link": "https://cybersecuritynews.com/bigbear-2-0-evilginx2/",
+    "published": "Tue, 08 Sep 2026 08:33:39 +0000",
+    "source": "CybersecurityNews",
+    "summary": "BigBear 2.0 is a phishing operation designed to steal proof that a user has already passed multi-factor authentication. It targets Microsoft 365 accounts through convincing sign-in links, then takes over the logged-in browser session rather than atte",
+    "created_at": "2026-09-08T10:02:46.277656+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html",
+    "title": "BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams",
+    "link": "https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html",
+    "published": "Tue, 08 Sep 2026 14:13:51 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have disclosed details of a sprawling search engine optimization (SEO) poisoning campaign that paves the way for malware deployment and tech support scams.\n\nThe campaign, discovered by the DFIR Report in March 2026, has been",
+    "created_at": "2026-09-08T10:03:17.031585+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162470",
+    "title": "AI Customer Service Bots Can Be Tricked Into Stealing Security Codes and Acting as Victims",
+    "link": "https://cybersecuritynews.com/ai-bots-tricked-into-stealing-security-codes/",
+    "published": "Tue, 08 Sep 2026 08:50:11 +0000",
+    "source": "CybersecurityNews",
+    "summary": "AI-powered customer service bots are being given more responsibility inside businesses, including access to customer profiles, billing data, support inboxes, account changes, and refund tools. The research showed that attackers may not need tradition",
+    "created_at": "2026-09-08T10:03:28.162548+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162500",
+    "title": "Panzer Ransomware Targets Italian Manufacturers and Telecom Firms With ESXi-Ready RaaS",
+    "link": "https://cybersecuritynews.com/panzer-ransomware-targets/",
+    "published": "Tue, 08 Sep 2026 09:10:50 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Panzer ransomware has entered Italy amid a sharp rise in attacks. The ransomware-as-a-service, or RaaS, operation surfaced on August 5 and listed a kitchen manufacturer in Treviso and a telecommunications engineering firm in Catanzaro among its alleg",
+    "created_at": "2026-09-08T10:03:44.914954+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html",
+    "title": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell",
+    "link": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html",
+    "published": "Tue, 08 Sep 2026 14:43:47 +0530",
+    "source": "The Hacker News",
+    "summary": "Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe Commerce and Magento Open Source that has come under active exploitation in the wild.\n\nThe vulnerability, now tracked as CVE-2026-75650 (CVSS score: 10.0), h",
+    "created_at": "2026-09-08T10:03:46.265473+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162488",
+    "title": "U.S. Offers $10 Million Reward for Iranian IRGC Cyber Chief Linked to Critical Infrastructure Attacks",
+    "link": "https://cybersecuritynews.com/u-s-offers-10-million-reward-for-iranian-irgc-cyber-chief/",
+    "published": "Tue, 08 Sep 2026 09:14:03 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The U.S. Department of State’s Rewards for Justice program has announced a reward of up to $10 million for information leading to the identification or whereabouts of Amir Yaryab, a senior figure in Iran’s Islamic Revolutionary Guard Corps Cyber-Elec",
+    "created_at": "2026-09-08T10:03:47.065800+00:00"
   }
 ]
