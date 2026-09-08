@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158823",
-    "title": "Metabase 0-Day Vulnerability Exploited in the Wild to Gain Admin Access",
-    "link": "https://cybersecuritynews.com/metabase-0-day-vulnerability/",
-    "published": "Sun, 09 Aug 2026 16:35:29 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Metabase, the widely used open-source business intelligence and data visualization platform, has confirmed that a critical zero-day vulnerability tracked as GHSA-vwf4-m7j8-wcjf was actively exploited in the wild, allowing unauthenticated attackers to",
-    "created_at": "2026-08-09T18:01:19.189857+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158826",
-    "title": "Weekly Cyber Security Newsletter — OWASP Top 10 for LLM, Cisco IOS XE Flaw, and 1-Click Cursor RCE +20 Stories",
-    "link": "https://cybersecuritynews.com/weekly-cyber-security-newsletter-aug/",
-    "published": "Sun, 09 Aug 2026 17:21:41 +0000",
-    "source": "CybersecurityNews",
-    "summary": "This week’s roundup covers active exploitation of Apache Tomcat and SonicWall SMA, a nearly two-decade-old Linux kernel flaw, critical bugs in N-able N-Central, Veeam ONE, Jenkins, and Cisco IOS XE, plus a wave of AI-security incidents touching Claud",
-    "created_at": "2026-08-09T18:01:52.779862+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=158829",
     "title": "Claude-Powered OpenClaw AI Agent Exploits Gym API to Steal a Workout Slot",
     "link": "https://cybersecuritynews.com/gym-api-exploited-by-ai-agent/",
@@ -9007,5 +8989,32 @@
     "source": "BleepingComputer",
     "summary": "Microsoft has released Windows 11 KB5124008 and KB5122880 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
     "created_at": "2026-09-08T18:01:02.871745+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162634",
+    "title": "Massive Microsoft Patch Tuesday September 2026 – 973 Vulnerabilities Fixed, Including 2 Zero-Days",
+    "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-september-2026/",
+    "published": "Tue, 08 Sep 2026 17:46:31 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft released its September 2026 Patch Tuesday security updates on September 8, addressing 973 vulnerabilities, including two zero-days already exploited in attacks. This massive patch follows the recent Microsoft update on artificial intelligen",
+    "created_at": "2026-09-08T18:31:01.909481+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162523",
+    "title": "Phishing Powers 80% of Attacks on US Companies: How SOCs Can Detect It Early",
+    "link": "https://cybersecuritynews.com/phishing-powers-80-of-attacks-on-us-companies-how-socs-can-detect-it-early/",
+    "published": "Tue, 08 Sep 2026 17:54:52 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Phishing remains one of the most effective ways for attackers to gain access to corporate environments. From 2013-2023, the FBI recorded 158,436 US victims of Business Email Compromise (BEC), with over $20 billion in reported losses.  The FBI specifi",
+    "created_at": "2026-09-08T18:31:03.896717+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/",
+    "title": "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/",
+    "published": "Tue, 08 Sep 2026 14:18:05 -0400",
+    "source": "BleepingComputer",
+    "summary": "Today is Microsoft&#x27;s September 2026 Patch Tuesday, with security updates released for a record-breaking 966 flaws, including two actively exploited zero-day vulnerabilities. [...]",
+    "created_at": "2026-09-08T18:31:05.273735+00:00"
   }
 ]
