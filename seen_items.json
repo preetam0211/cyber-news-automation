@@ -8863,5 +8863,14 @@
     "source": "BleepingComputer",
     "summary": "Adobe has released an emergency fix for CVE-2026-75650, an actively exploited max-severity zero-day vulnerability dubbed StyleSmuggler, that impacts multiple versions of Magento and Adobe Commerce. [...]",
     "created_at": "2026-09-08T14:01:08.078867+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162576",
+    "title": "Reflectiz Launches Agentic Pentesting for Websites: Up to 10x Coverage vs Conventional Pentests",
+    "link": "https://cybersecuritynews.com/reflectiz-launches-agentic-pentesting-for-websites-up-to-10x-coverage-vs-conventional-pentests/",
+    "published": "Tue, 08 Sep 2026 14:02:40 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Boston, MA, USA, September 8th, 2026, CyberNewswire Specialized team of AI agents that discover, attack, and validate web vulnerabilities, leveraging pre-existing site context to eliminate noise and speed remediation.  Reflectiz, the continuous web e",
+    "created_at": "2026-09-08T14:31:03.395702+00:00"
   }
 ]
