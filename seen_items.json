@@ -1,68 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158889",
-    "title": "Interlock Turns the Tools Incident Responders Use Into Weapons for Stealing Windows Passwords",
-    "link": "https://cybersecuritynews.com/interlock-turns-the-tools/",
-    "published": "Mon, 10 Aug 2026 11:32:58 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Interlock ransomware is taking a familiar Windows security tool and using it for credential theft. The group has turned memory analysis software into a way to pull password hashes and account data from compromised computers. One compromised workstati",
-    "created_at": "2026-08-10T15:01:21.787508+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158898",
-    "title": "Malicious Solidity Pro VS Code Extension Steals Crypto Wallets, API Keys and SSH Keys via Telegram",
-    "link": "https://cybersecuritynews.com/malicious-solidity-pro-vs-code-extension/",
-    "published": "Mon, 10 Aug 2026 11:56:27 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Malicious extensions are turning a routine developer task into a route for theft. A package named Solidity Pro, promoted as a useful tool for Solidity work in Visual Studio Code, has been used to steal cryptocurrency wallet data and developer secrets",
-    "created_at": "2026-08-10T15:01:26.886835+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158880",
-    "title": "Apple Private Cloud Compute Flaw Enables Root File Writes and AI Inference Telemetry Leakage",
-    "link": "https://cybersecuritynews.com/apple-private-cloud-compute-vulnerability/",
-    "published": "Mon, 10 Aug 2026 11:58:17 +0000",
-    "source": "CybersecurityNews",
-    "summary": "CVE-2026-20685 is a path traversal vulnerability affecting Apple’s Private Cloud Compute (PCC), potentially allowing attackers to write files as root during node boot and redirect sensitive AI inference telemetry to an external server. Sentry Securit",
-    "created_at": "2026-08-10T15:01:28.160235+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158870",
-    "title": "Top 10 Malware Threats of the Week – AsyncRAT, Remcos, and Xworm Lead the Surge",
-    "link": "https://cybersecuritynews.com/top-10-malware-threats/",
-    "published": "Mon, 10 Aug 2026 12:08:53 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Global malware activity climbed sharply over the past week, with remote access trojans (RATs), information stealers, and loaders all posting significant week-over-week gains, according to threat sample uploads tracked by ANY.RUN. AsyncRAT topped the ",
-    "created_at": "2026-08-10T15:01:30.492455+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158916",
-    "title": "Valve Steam Hardware Buyers Hit by CEVA Logistics Data Breach",
-    "link": "https://cybersecuritynews.com/valve-steam-ceva-data-breach/",
-    "published": "Mon, 10 Aug 2026 12:31:53 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Valve has confirmed that a cyberattack on CEVA Logistics, its European shipping partner for Steam hardware such as the Steam Deck, Steam Machine, and Steam Controller, exposed customer data belonging to buyers across Europe. The breach occurred betwe",
-    "created_at": "2026-08-10T15:01:31.941929+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158917",
-    "title": "Ransomware Operators Disable EDR, Backup Software and Windows Telemetry Before Encryption",
-    "link": "https://cybersecuritynews.com/ransomware-operators-disable-edr/",
-    "published": "Mon, 10 Aug 2026 12:33:31 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Ransomware crews are increasingly trying to blind a victim before they encrypt anything. Analysis shows that attackers can disable endpoint detection and response tools, interrupt Windows telemetry, and target backup services to reduce the chance tha",
-    "created_at": "2026-08-10T15:01:33.113739+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158918",
-    "title": "Google Play Apps Use Stealth Loaders to Deliver Anatsa Banking Malware",
-    "link": "https://cybersecuritynews.com/google-play-apps-use-stealth-loaders/",
-    "published": "Mon, 10 Aug 2026 13:12:59 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Android users are facing a fresh reminder that a familiar app-store listing can hide a financial threat. Researchers have observed malicious loaders on Google Play that can prepare the ground for Anatsa, an Android banking Trojan designed to put acco",
-    "created_at": "2026-08-10T15:01:35.430061+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=158934",
     "title": "Fake GoogleTranslate Chrome Extension Lets Attackers Remotely Control Your Browsers",
     "link": "https://cybersecuritynews.com/fake-googletranslate-chrome-extension/",
@@ -9178,5 +9115,14 @@
     "source": "BleepingComputer",
     "summary": "MFA makes account takeover harder, but attackers are increasingly targeting the recovery processes used to reset passwords and authentication methods. Specops explains why stronger identity verification at the service desk is critical to preventing s",
     "created_at": "2026-09-09T14:31:11.259015+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html",
+    "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
+    "link": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html",
+    "published": "Wed, 09 Sep 2026 19:53:55 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create &quot;stolen keys&quot; that grant illicit access to tools from model providers like Google, Anthropic, and others. \n\nInformation stealers ",
+    "created_at": "2026-09-09T15:01:34.387233+00:00"
   }
 ]
