@@ -9169,5 +9169,14 @@
     "source": "The Hacker News",
     "summary": "Google on Thursday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild.\n\nThe medium-severity vulnerability, assigned the CVE identifier CVE-2026-87491 (CVSS score: N/A), has been d",
     "created_at": "2026-09-09T09:35:27.105743+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162673",
+    "title": "New Windows Defender ShieldCrash 0-Day Bypasses Microsoft Patch to Read Files as SYSTEM",
+    "link": "https://cybersecuritynews.com/defender-shieldcrash-0-day-bypasses/",
+    "published": "Wed, 09 Sep 2026 09:15:09 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly published ShieldCrash proof of concept from researcher MSNightmare claims that Microsoft Defender remains vulnerable to an arbitrary file-read flaw, despite Microsoft’s earlier fix for ShieldBreak, tracked as CVE-2026-69414. The researcher sa",
+    "created_at": "2026-09-09T10:01:05.868528+00:00"
   }
 ]
