@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
-    "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
-    "link": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
-    "published": "Mon, 10 Aug 2026 18:49:58 +0530",
-    "source": "The Hacker News",
-    "summary": "North Korea&#x27;s state hackers are no longer content to type prompts into public chatbots. One of the country&#x27;s main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting document-search tools t",
-    "created_at": "2026-08-10T14:31:00.853119+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/",
-    "title": "When Credentials Are No Longer Enough: Device Trust in the AI Era",
-    "link": "https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/",
-    "published": "Mon, 10 Aug 2026 10:01:11 -0400",
-    "source": "BleepingComputer",
-    "summary": "AI is making phishing, credential theft, and social engineering faster and more efficient, while traditional trust signals such as passwords, MFA, IP reputation, and geolocation become easier to bypass. Specops explains why organizations are increasi",
-    "created_at": "2026-08-10T14:31:08.957533+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=158889",
     "title": "Interlock Turns the Tools Incident Responders Use Into Weapons for Stealing Windows Passwords",
     "link": "https://cybersecuritynews.com/interlock-turns-the-tools/",
@@ -9187,5 +9169,14 @@
     "source": "CybersecurityNews",
     "summary": "Microsoft has released a security update for CVE-2026-65812, a vulnerability in Microsoft Teams for Android that could allow an authorized attacker to disclose sensitive information, including user credentials. Microsoft published the flaw on Septemb",
     "created_at": "2026-09-09T13:31:42.094848+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/",
+    "title": "MFA's Weakest Link: Account Recovery Is the New Attack Path",
+    "link": "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/",
+    "published": "Wed, 09 Sep 2026 10:01:11 -0400",
+    "source": "BleepingComputer",
+    "summary": "MFA makes account takeover harder, but attackers are increasingly targeting the recovery processes used to reset passwords and authentication methods. Specops explains why stronger identity verification at the service desk is critical to preventing s",
+    "created_at": "2026-09-09T14:31:11.259015+00:00"
   }
 ]
