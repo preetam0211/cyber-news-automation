@@ -9070,5 +9070,23 @@
     "source": "CybersecurityNews",
     "summary": "Google has rolled out Chrome 153 to the stable channel for Windows, Mac, and Linux, shipping as version 153.0.8010.36 on Linux and 153.0.8010.36/.37 on Windows and Mac. The update will reach users over the coming days and weeks and includes 230 secur",
     "created_at": "2026-09-09T06:01:08.247200+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
+    "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
+    "link": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
+    "published": "Wed, 09 Sep 2026 10:11:29 +0530",
+    "source": "The Hacker News",
+    "summary": "Microsoft on Tuesday broke Patch Tuesday records by addressing an earth-shattering 974 vulnerabilities spanning its software portfolio, including two flaws that it said have been actively exploited in the wild.\n\nThese include 723 flaws in Windows, 11",
+    "created_at": "2026-09-09T06:31:09.297458+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
+    "title": "Google warns of new Chrome zero-day bug exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
+    "published": "Wed, 09 Sep 2026 02:25:48 -0400",
+    "source": "BleepingComputer",
+    "summary": "Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched since the start of the year. [...]",
+    "created_at": "2026-09-09T06:31:15.667869+00:00"
   }
 ]
