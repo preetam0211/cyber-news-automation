@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
-    "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins",
-    "link": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
-    "published": "Mon, 10 Aug 2026 17:12:10 -0400",
-    "source": "BleepingComputer",
-    "summary": "A threat actor compromised the upstream infrastructure of BdThemes, a developer of premium WordPress web-design tools, and modified a remote JSON feed delivered to administrators&#x27; browsers to create rogue admin accounts. [...]",
-    "created_at": "2026-08-10T21:31:14.167726+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
     "title": "Hackers breached a small Polish energy plant via private APN last year",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
@@ -9133,5 +9124,23 @@
     "source": "The Hacker News",
     "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram channels used to run the service, confiscating two cr",
     "created_at": "2026-09-09T20:01:02.010984+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
+    "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
+    "link": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
+    "published": "Wed, 09 Sep 2026 17:02:14 -0400",
+    "source": "BleepingComputer",
+    "summary": "The Carnegie Mellon University CERT Coordination Center (CERT/CC) is warning that Skullcandy Dime 3 wireless earbuds accept Bluetooth pairing requests from nearby unpaired devices without requiring user interaction. [...]",
+    "created_at": "2026-09-09T21:31:22.417220+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
+    "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
+    "published": "Wed, 09 Sep 2026 17:30:36 -0400",
+    "source": "BleepingComputer",
+    "summary": "Healthcare company AdaptHealth has confirmed that data of 4.1 million people was exposed in a cyberattack discovered in July that was attributed to the ShinyHunters threat group. [...]",
+    "created_at": "2026-09-09T21:31:24.697956+00:00"
   }
 ]
