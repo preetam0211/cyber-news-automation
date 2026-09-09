@@ -9124,5 +9124,50 @@
     "source": "CybersecurityNews",
     "summary": "Microsoft has disclosed a new security flaw in Windows BitLocker, the operating system’s built-in disk encryption feature, that could let an attacker execute malicious code on a vulnerable device. Tracked as CVE-2026-69449 and published on September ",
     "created_at": "2026-09-09T09:02:55.331207+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html",
+    "title": "SAP Patches CVSS 10.0 Kernel Flaw Enabling Unauthenticated Remote Code Execution",
+    "link": "https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html",
+    "published": "Wed, 09 Sep 2026 11:55:45 +0530",
+    "source": "The Hacker News",
+    "summary": "SAP has released security updates to address multiple vulnerabilities, including a maximum-severity flaw in SAP Extended Passport (EPP) Processing that could have a severe impact on the confidentiality, integrity, and availability of the application\n",
+    "created_at": "2026-09-09T09:34:29.081454+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html",
+    "title": "Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed",
+    "link": "https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html",
+    "published": "Wed, 09 Sep 2026 12:17:27 +0530",
+    "source": "The Hacker News",
+    "summary": "The security researcher known as Chaotic Eclipse has dropped a proof-of-concept (PoC) for yet another zero-day in Microsoft Defender.\n\nThe vulnerability, codenamed ShieldCrash, is assessed to be a patch bypass for CVE-2026-69414 (CVSS score: 7.8), al",
+    "created_at": "2026-09-09T09:34:58.414616+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html",
+    "title": "F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans",
+    "link": "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html",
+    "published": "Wed, 09 Sep 2026 13:06:49 +0530",
+    "source": "The Hacker News",
+    "summary": "Malware linked to break-ins at F5 BIG-IP Access Policy Manager appliances hides a PHP web shell in memory instead of in a file on disk, Sophos said in an analysis published on September 7.\n\nWhen Apache loads any of the three appliances&#x27; own PHP ",
+    "created_at": "2026-09-09T09:35:24.285873+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html",
+    "title": "New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root",
+    "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html",
+    "published": "Wed, 09 Sep 2026 13:49:32 +0530",
+    "source": "The Hacker News",
+    "summary": "cPanel has patched a flaw that it says lets a single hosting account take control of an entire server. An authenticated account holder with mail-related privileges can create files of their choosing on the server through EmailTrack and, from there, r",
+    "created_at": "2026-09-09T09:35:25.079495+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
+    "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
+    "link": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
+    "published": "Wed, 09 Sep 2026 14:41:03 +0530",
+    "source": "The Hacker News",
+    "summary": "Google on Thursday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild.\n\nThe medium-severity vulnerability, assigned the CVE identifier CVE-2026-87491 (CVSS score: N/A), has been d",
+    "created_at": "2026-09-09T09:35:27.105743+00:00"
   }
 ]
