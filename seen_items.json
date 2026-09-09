@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/",
-    "title": "Critical Progress LoadMaster flaw now actively exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/",
-    "published": "Mon, 10 Aug 2026 05:49:37 -0400",
-    "source": "BleepingComputer",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity Progress Kemp LoadMaster command injection vulnerability. [...]",
-    "created_at": "2026-08-10T10:04:20.660830+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158869",
-    "title": "Payroll Pirates AiTM Phishing Hijacks Microsoft 365 Sessions and Targets Payroll Emails",
-    "link": "https://cybersecuritynews.com/payroll-pirates-aitm-phishing/",
-    "published": "Mon, 10 Aug 2026 09:07:40 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Payroll Pirates are using phishing emails to seize Microsoft 365 sessions and search payroll-related mailboxes. The campaign turns a voicemail alert into a route for financial fraud, even when multi-factor authentication is enabled. The messages imit",
-    "created_at": "2026-08-10T10:31:16.222345+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=158861",
     "title": "Connective eID Extension Flaws Let Attackers Steal Belgian ID PINs and Trigger Drive-By RCE",
     "link": "https://cybersecuritynews.com/connective-eid-extension-flaws/",
@@ -9178,5 +9160,23 @@
     "source": "CybersecurityNews",
     "summary": "A newly published ShieldCrash proof of concept from researcher MSNightmare claims that Microsoft Defender remains vulnerable to an arbitrary file-read flaw, despite Microsoft’s earlier fix for ShieldBreak, tracked as CVE-2026-69414. The researcher sa",
     "created_at": "2026-09-09T10:01:05.868528+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162685",
+    "title": "Windows Remote Desktop Client Vulnerability Allows Attackers to Execute Remote Code",
+    "link": "https://cybersecuritynews.com/windows-remote-desktop-client-rce-vulnerability/",
+    "published": "Wed, 09 Sep 2026 10:10:58 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has released security updates for CVE-2026-69485, an Important-rated remote code execution vulnerability affecting the Windows Remote Desktop Client. The flaw could allow an authenticated attacker with low privileges to execute code on an a",
+    "created_at": "2026-09-09T10:31:11.560030+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/",
+    "title": "Over 36,000 exposed Plex servers vulnerable to recent flaws",
+    "link": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/",
+    "published": "Wed, 09 Sep 2026 06:11:29 -0400",
+    "source": "BleepingComputer",
+    "summary": "Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks. [...]",
+    "created_at": "2026-09-09T10:31:19.044813+00:00"
   }
 ]
