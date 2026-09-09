@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
-    "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
-    "link": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
-    "published": "Mon, 10 Aug 2026 15:24:40 -0400",
-    "source": "BleepingComputer",
-    "summary": "OpenAI has developed a new model called &quot;GPT 5.6 Cyber,&quot; designed for vulnerability research, penetration testing, incident response, and remediation. [...]",
-    "created_at": "2026-08-10T19:31:18.336200+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
     "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins",
     "link": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
@@ -9124,5 +9115,23 @@
     "source": "CybersecurityNews",
     "summary": "Multiple espionage-motivated threat actors have rapidly adopted a newly discovered exploit kit that chains Chrome browser and Microsoft Windows vulnerabilities to deploy backdoors and surveillance tools against government, defense, and commercial tar",
     "created_at": "2026-09-09T17:02:07.203697+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
+    "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
+    "link": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
+    "published": "Wed, 09 Sep 2026 22:04:05 +0530",
+    "source": "The Hacker News",
+    "summary": "Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows and Google Chrome.\n\nThe first in-the-wild use of ",
+    "created_at": "2026-09-09T20:01:00.051645+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
+    "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
+    "link": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
+    "published": "Wed, 09 Sep 2026 23:56:05 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram channels used to run the service, confiscating two cr",
+    "created_at": "2026-09-09T20:01:02.010984+00:00"
   }
 ]
