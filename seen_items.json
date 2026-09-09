@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
-    "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore",
-    "link": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
-    "published": "Mon, 10 Aug 2026 17:03:41 +0530",
-    "source": "The Hacker News",
-    "summary": "The threat actor known as Head Mare has been observed weaponizing security flaws in unpatched TrueConf servers once again in attacks targeting Russian companies spanning instrumentation, electronics, transport, energy, IT, and software development se",
-    "created_at": "2026-08-10T13:01:08.883226+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
-    "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
-    "link": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
-    "published": "Mon, 10 Aug 2026 17:22:16 +0530",
-    "source": "The Hacker News",
-    "summary": "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed.\n\nWhen software output jumps 10 to 50 times, the proble",
-    "created_at": "2026-08-10T13:01:19.990140+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
-    "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
-    "link": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
-    "published": "Mon, 10 Aug 2026 17:55:04 +0530",
-    "source": "The Hacker News",
-    "summary": "Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on.\n\nPasskeys are designed to replace reusable passwords and resist phishing. The attacks instead reused signed auth",
-    "created_at": "2026-08-10T13:01:22.170466+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/",
-    "title": "Member of The Com sent to prison for blackmail, sextortion",
-    "link": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/",
-    "published": "Mon, 10 Aug 2026 08:56:28 -0400",
-    "source": "BleepingComputer",
-    "summary": "A member of &quot;The Com,&quot; a loose-knit online cybercrime collective that targets children and teenagers, has been sentenced to two years in prison for blackmail and sextortion offenses against nearly 120 victims worldwide. [...]",
-    "created_at": "2026-08-10T13:01:31.895441+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
     "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
     "link": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
@@ -9187,5 +9151,41 @@
     "source": "The Hacker News",
     "summary": "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed?\n\nFor many security teams, answering that means jumping between vulnerability scanners, endpoint tools, cloud inventories, SBOMs,",
     "created_at": "2026-09-09T13:01:06.964036+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162738",
+    "title": "Hackers Use Autonomous AI Agents to Launch Mass Credential Theft Attacks in Under 6 Hours",
+    "link": "https://cybersecuritynews.com/autonomous-ai-agents/",
+    "published": "Wed, 09 Sep 2026 12:47:07 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cybercriminals are using autonomous AI agents to turn compromised cloud systems into fast-moving credential theft platforms. In one recent case, attackers planned, built, and launched a large-scale campaign in less than six hours, stealing thousands ",
+    "created_at": "2026-09-09T13:31:27.949389+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162758",
+    "title": "SpyCloud 2026 Identity Threat Report Finds Non-Human Identities Are Now the Leading Path into the Enterprise",
+    "link": "https://cybersecuritynews.com/spycloud-2026-identity-threat-report-finds-non-human-identities-are-now-the-leading-path-into-the-enterprise/",
+    "published": "Wed, 09 Sep 2026 12:51:48 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Austin, Texas / USA, September 9th, 2026, CyberNewswire Ninety-five percent of organizations believe they have visibility into their AI and machine identity exposures, yet only 36% are actually monitoring them. SpyCloud, the leader in identity threat",
+    "created_at": "2026-09-09T13:31:38.098881+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162763",
+    "title": "Hackers Clone Banking Apps Into Hidden Android Work Profiles to Evade Fraud Detection",
+    "link": "https://cybersecuritynews.com/hackers-clone-banking-apps/",
+    "published": "Wed, 09 Sep 2026 13:11:36 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Android banking fraud is entering a deceptive phase. Attackers are using malware that copies targeted banking apps into a concealed Android work profile, separating a fraudulent session from warning signs seen on the phone. The operation begins with ",
+    "created_at": "2026-09-09T13:31:40.081398+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162747",
+    "title": "Microsoft Teams for Android Vulnerability Exposes Sensitive Information",
+    "link": "https://cybersecuritynews.com/microsoft-teams-android-vulnerability/",
+    "published": "Wed, 09 Sep 2026 13:14:09 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has released a security update for CVE-2026-65812, a vulnerability in Microsoft Teams for Android that could allow an authorized attacker to disclose sensitive information, including user credentials. Microsoft published the flaw on Septemb",
+    "created_at": "2026-09-09T13:31:42.094848+00:00"
   }
 ]
