@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158964",
-    "title": "Gunra Ransomware Exploits Fortinet VPN Flaws to Bypass MFA and Steal Enterprise Data",
-    "link": "https://cybersecuritynews.com/gunra-ransomware-exploits-fortinet-vpn-flaws/",
-    "published": "Mon, 10 Aug 2026 17:24:00 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A joint cybersecurity advisory from the FBI, CISA, the Department of Defense Cyber Crime Center, the NSA, the U.S. Secret Service, and South Korea’s National Police Agency has exposed a dangerous new wave of attacks by the Gunra ransomware group, whi",
-    "created_at": "2026-08-10T18:31:07.523792+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
     "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
     "link": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
