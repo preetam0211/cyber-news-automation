@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158888",
-    "title": "Ransomware Attackers Target Managers to Steal Data and Move Deeper Into Corporate Networks",
-    "link": "https://cybersecuritynews.com/ransomware-attackers-target-managers/",
-    "published": "Mon, 10 Aug 2026 10:58:36 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Ransomware campaigns are increasingly starting with people who hold the keys to everyday business decisions. Attackers are compromising managers whose accounts can open doors to contracts, payments, customer records, and internal teams. Their job tit",
-    "created_at": "2026-08-10T11:31:14.347019+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/",
-    "title": "Valve notifies Steam hardware customers of a data breach",
-    "link": "https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/",
-    "published": "Mon, 10 Aug 2026 07:47:55 -0400",
-    "source": "BleepingComputer",
-    "summary": "Video game publisher and digital distribution giant Valve is notifying Steam hardware customers in Europe that hackers stole their data after hacking its shipping partner, CEVA Logistics. [...]",
-    "created_at": "2026-08-10T12:01:13.257451+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/",
     "title": "LexisNexis shuts down services after suspicious activity on servers",
     "link": "https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/",
@@ -9169,5 +9151,41 @@
     "source": "CybersecurityNews",
     "summary": "Hackers are using Google Sheets as an unlikely control channel in a cryptocurrency theft campaign. The operation turns a familiar browser session into a place where malicious code runs, rather than placing a conventional program on a victim’s compute",
     "created_at": "2026-09-09T11:01:12.787227+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
+    "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
+    "link": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
+    "published": "Wed, 09 Sep 2026 15:02:26 +0530",
+    "source": "The Hacker News",
+    "summary": "U.S. cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting &quot;systematic extraction&quot; of proprietary functionalities and capabilities of American frontier models through distillat",
+    "created_at": "2026-09-09T12:01:04.608765+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html",
+    "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets",
+    "link": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html",
+    "published": "Wed, 09 Sep 2026 16:13:04 +0530",
+    "source": "The Hacker News",
+    "summary": "Bitcoin wallet company Alby has warned of a critical flaw in Alby Hub that could have let an attacker take over a wallet and send its funds, but only where the owner had made the Hub reachable from the internet.\n\nAlby Hub is a self-hosted Lightning w",
+    "created_at": "2026-09-09T12:01:13.597661+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
+    "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
+    "link": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
+    "published": "Wed, 09 Sep 2026 16:47:07 +0530",
+    "source": "The Hacker News",
+    "summary": "A flaw in DeepSeek Harness, DeepSeek&#x27;s open-source tool for running AI coding agents on a developer&#x27;s machine, let a sandboxed agent turn off its own sandbox with a single command.\n\nThe tool runs an agent&#x27;s commands inside an operating",
+    "created_at": "2026-09-09T12:01:15.660873+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162730",
+    "title": "Hackers Target Claude, Cursor and Codex AI Agents to Steal Tokens and Prompt Histories",
+    "link": "https://cybersecuritynews.com/ai-agents-2/",
+    "published": "Wed, 09 Sep 2026 11:41:29 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cybercriminals are widening the reach of information-stealing malware by targeting the local data created by AI coding agents. The shift puts access tokens, saved connections, prompt histories, and project records at risk on already infected computer",
+    "created_at": "2026-09-09T12:01:17.711738+00:00"
   }
 ]
