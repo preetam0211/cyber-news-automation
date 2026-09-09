@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html",
-    "title": "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials",
-    "link": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html",
-    "published": "Mon, 10 Aug 2026 13:08:23 +0530",
-    "source": "The Hacker News",
-    "summary": "Cybersecurity researchers have flagged a malicious Microsoft Visual Studio Code (VS Code) extension named Solidity Pro (&quot;solidity-pro&quot;) that has been observed delivering a browser wallet and credential stealer.\n\nThe names of the extensions ",
-    "created_at": "2026-08-10T08:31:13.330320+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158835",
-    "title": "Claude Code Sessions Spawn Reverse Tunnels and LaunchAgent Persistence on macOS",
-    "link": "https://cybersecuritynews.com/claude-code-sessions-spawn/",
-    "published": "Mon, 10 Aug 2026 07:41:56 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Claude Code activity on a macOS developer machine has raised a difficult security question: when does convenient automation become a serious exposure? A new Elastic investigation found a session that opened reverse tunnels, sent login details to temp",
-    "created_at": "2026-08-10T08:31:27.249435+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158854",
-    "title": "Atlassian Rovo Prompt Injection Exfiltrates Jira and Confluence Data Without User Approval",
-    "link": "https://cybersecuritynews.com/atlassian-rovo-prompt-injection-flaw/",
-    "published": "Mon, 10 Aug 2026 08:21:40 +0000",
-    "source": "CybersecurityNews",
-    "summary": "RovoBlast is a one-click prompt-injection vulnerability in Atlassian Rovo that could allow attackers to exfiltrate sensitive enterprise data from Jira, Confluence, SharePoint, and other connected services. Atlassian addressed the reported URL-based i",
-    "created_at": "2026-08-10T08:31:32.925269+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158860",
-    "title": "Hackers Distributing Malicious VBS/PowerShell RAT Chain Via Multiple DuckDNS Hosts",
-    "link": "https://cybersecuritynews.com/powershell-rat-chain-duckdns-hosts/",
-    "published": "Mon, 10 Aug 2026 08:38:34 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A newly observed malware campaign is using simple Windows scripts to open the door to remote control and data theft. The chain relies on Visual Basic Script, or VBS, and PowerShell, two tools present on business computers, making an infection appear ",
-    "created_at": "2026-08-10T09:01:18.547875+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/",
     "title": "Critical Progress LoadMaster flaw now actively exploited in attacks",
     "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/",
@@ -9124,5 +9088,41 @@
     "source": "CybersecurityNews",
     "summary": "Allowlisting inverts the security model: instead of detecting bad software, only approved software runs. Done well, it stops ransomware protection threats and unknown malware regardless of signatures. Done badly, it breaks the business in week one. T",
     "created_at": "2026-09-09T08:05:13.008885+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162667",
+    "title": "New cPanel Vulnerability Allows Attacker to Gain Full Control of the Server",
+    "link": "https://cybersecuritynews.com/cpanel-sql-injection-vulnerability/",
+    "published": "Wed, 09 Sep 2026 08:37:37 +0000",
+    "source": "CybersecurityNews",
+    "summary": "cPanel has disclosed CVE-2026-67401, a critical SQL injection flaw in EmailTrack that could let authenticated attackers gain root-level control of vulnerable servers. cPanel disclosed the security issue on September 8, 2026. According to cPanel, an a",
+    "created_at": "2026-09-09T09:01:47.688488+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162686",
+    "title": "CISA Warns Chinese AI Firms Extract Billions of Tokens From Claude, GPT, Gemini and Grok",
+    "link": "https://cybersecuritynews.com/cisa-warns-chinese-ai-firms/",
+    "published": "Wed, 09 Sep 2026 08:41:38 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new U.S. government advisory has raised concerns over large-scale attempts to copy the capabilities of leading artificial intelligence systems. The activity did not involve conventional malware, but instead focused on harvesting model outputs at a ",
+    "created_at": "2026-09-09T09:02:32.363874+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/",
+    "title": "Man gets 15 years for extorting women with AI-generated porn videos",
+    "link": "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/",
+    "published": "Wed, 09 Sep 2026 04:44:22 -0400",
+    "source": "BleepingComputer",
+    "summary": "An Ohio man was sentenced to 15 years in prison for multiple cybercrimes, including sextortion and cyberstalking of numerous victims using AI-generated sexually explicit content. [...]",
+    "created_at": "2026-09-09T09:02:53.305762+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162687",
+    "title": "Windows BitLocker Vulnerability Allows Attackers to Execute Malicious Code Remotely",
+    "link": "https://cybersecuritynews.com/windows-bitlocker-remote-code-execution/",
+    "published": "Wed, 09 Sep 2026 08:51:25 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has disclosed a new security flaw in Windows BitLocker, the operating system’s built-in disk encryption feature, that could let an attacker execute malicious code on a vulnerable device. Tracked as CVE-2026-69449 and published on September ",
+    "created_at": "2026-09-09T09:02:55.331207+00:00"
   }
 ]
