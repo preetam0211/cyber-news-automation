@@ -9061,5 +9061,14 @@
     "source": "BleepingComputer",
     "summary": "Microsoft is adding new age-awareness APIs to Windows 11 that will allow apps to determine whether someone is a child, teenager, or adult without exposing their exact date of birth. [...]",
     "created_at": "2026-09-09T01:31:09.564811+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162626",
+    "title": "FortiSandbox Vulnerability Allows Attackers to Access Sensitive Information via Crafted HTTP Requests",
+    "link": "https://cybersecuritynews.com/fortisandbox-vulnerability-access-sensitive-data/",
+    "published": "Wed, 09 Sep 2026 03:08:26 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Fortinet has disclosed a new high-severity vulnerability affecting its FortiSandbox platform, warning that unauthenticated attackers could exploit weaknesses in the product’s web interface to siphon off sensitive information without ever needing vali",
+    "created_at": "2026-09-09T03:31:27.190142+00:00"
   }
 ]
