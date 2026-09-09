@@ -9061,5 +9061,68 @@
     "source": "BleepingComputer",
     "summary": "Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched since the start of the year. [...]",
     "created_at": "2026-09-09T06:31:15.667869+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/",
+    "title": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access",
+    "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/",
+    "published": "Wed, 09 Sep 2026 03:30:15 -0400",
+    "source": "BleepingComputer",
+    "summary": "An anonymous security researcher known as Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named &quot;ShieldCrash&quot; right after Microsoft rolled out its September 2026 Patch Tuesday security updates. [...]",
+    "created_at": "2026-09-09T08:01:38.786782+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159616",
+    "title": "Top 10 Best Unified Endpoint Management (UEM) Solutions in 2026",
+    "link": "https://cybersecuritynews.com/best-uem-solutions/",
+    "published": "Wed, 09 Sep 2026 07:32:27 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Bottom line up front: if you’re a Microsoft 365 organization, Intune is almost certainly your answer and the only real question is what it doesn’t cover. If your estate is Apple-heavy, Jamf beats every generalist. If you have rugged devices, kiosks, ",
+    "created_at": "2026-09-09T08:02:24.600003+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159627",
+    "title": "Top 10 Best Mobile Device Management (MDM) Solutions in 2026",
+    "link": "https://cybersecuritynews.com/best-mdm-solutions/",
+    "published": "Wed, 09 Sep 2026 07:45:10 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Bottom line up front: Microsoft Intune wins by default for Microsoft 365 organizations because you already own it. Jamf wins outright for Apple estates. Kandji and Mosyle are the modern Apple challengers worth quoting against Jamf. ManageEngine, Scal",
+    "created_at": "2026-09-09T08:03:16.637656+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162677",
+    "title": "Hackers Turn More Than 3,500 Redis Servers Into Cryptocurrency Miners",
+    "link": "https://cybersecuritynews.com/hackers-turn-redis-servers/",
+    "published": "Wed, 09 Sep 2026 07:47:48 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A large cryptomining operation has compromised 3,562 Redis servers and turned their processing power into a source of Monero revenue. The campaign did not rely on a newly discovered software flaw. Instead, it targeted internet-facing Redis instances ",
+    "created_at": "2026-09-09T08:03:35.224590+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159655",
+    "title": "Top 10 Best Mobile Threat Defense (MTD) Solutions in 2026",
+    "link": "https://cybersecuritynews.com/best-mobile-threat-defense-solutions/",
+    "published": "Wed, 09 Sep 2026 07:50:25 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Bottom line up front: if you already run Microsoft 365 E5, Defender for Endpoint’s mobile capability covers the common cases at no extra cost — start there and identify the gap. If your threat model includes targeted attacks, journalists, executives,",
+    "created_at": "2026-09-09T08:04:23.593692+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159692",
+    "title": "Top 10 Best Patch Management Software in 2026",
+    "link": "https://cybersecuritynews.com/best-patch-management-software/",
+    "published": "Wed, 09 Sep 2026 07:54:51 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Patching remains the single highest-value security control most organizations execute badly. Automox leads on cloud-native simplicity, Tanium on speed at enormous scale, and Action1 offers something rare in enterprise software a genuinely free tier f",
+    "created_at": "2026-09-09T08:04:52.356979+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159722",
+    "title": "Top 10 Best Application Control & Allowlisting Tools in 2026",
+    "link": "https://cybersecuritynews.com/best-application-control-allowlisting-tools/",
+    "published": "Wed, 09 Sep 2026 07:59:07 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Allowlisting inverts the security model: instead of detecting bad software, only approved software runs. Done well, it stops ransomware protection threats and unknown malware regardless of signatures. Done badly, it breaks the business in week one. T",
+    "created_at": "2026-09-09T08:05:13.008885+00:00"
   }
 ]
