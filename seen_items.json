@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158861",
-    "title": "Connective eID Extension Flaws Let Attackers Steal Belgian ID PINs and Trigger Drive-By RCE",
-    "link": "https://cybersecuritynews.com/connective-eid-extension-flaws/",
-    "published": "Mon, 10 Aug 2026 09:25:22 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Critical flaws have been found in the Connective Signing Extension, a browser component used by more than 2 million people in Belgium to access electronic identity cards and Maestro payment cards. The now-patched issues could have allowed malicious w",
-    "created_at": "2026-08-10T10:31:32.460775+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158877",
-    "title": "Kimsuky Uses Local LLMs, AI-Generated Lures and GitHub C2 to Deploy AsyncRAT",
-    "link": "https://cybersecuritynews.com/kimsuky-uses-local-llms/",
-    "published": "Mon, 10 Aug 2026 10:07:26 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Kimsuky has been observed blending polished AI-made documents with familiar phishing tactics to push AsyncRAT, a remote-access trojan. The campaign shows how old delivery methods can gain new credibility when the bait looks professionally written and",
-    "created_at": "2026-08-10T10:31:53.203133+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=158888",
     "title": "Ransomware Attackers Target Managers to Steal Data and Move Deeper Into Corporate Networks",
     "link": "https://cybersecuritynews.com/ransomware-attackers-target-managers/",
@@ -9178,5 +9160,14 @@
     "source": "BleepingComputer",
     "summary": "Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks. [...]",
     "created_at": "2026-09-09T10:31:19.044813+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162682",
+    "title": "Hackers Abuse Google Sheets to Hijack Crypto Wallet Addresses in ClickFix Attacks",
+    "link": "https://cybersecuritynews.com/hackers-abuse-google-sheets/",
+    "published": "Wed, 09 Sep 2026 10:57:01 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are using Google Sheets as an unlikely control channel in a cryptocurrency theft campaign. The operation turns a familiar browser session into a place where malicious code runs, rather than placing a conventional program on a victim’s compute",
+    "created_at": "2026-09-09T11:01:12.787227+00:00"
   }
 ]
