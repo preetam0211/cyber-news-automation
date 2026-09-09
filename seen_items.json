@@ -9160,5 +9160,14 @@
     "source": "CybersecurityNews",
     "summary": "A Russian-speaking threat actor has weaponized artificial intelligence at an unprecedented scale, deploying hundreds of autonomous AI agents to exploit critical vulnerabilities in PaperCut NG/MF print management software and compromise at least 440 s",
     "created_at": "2026-09-09T15:31:36.623024+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/",
+    "title": "Veradigm warns of patient data breach after ransomware gang claims attack",
+    "link": "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/",
+    "published": "Wed, 09 Sep 2026 11:31:23 -0400",
+    "source": "BleepingComputer",
+    "summary": "Healthcare technology company Veradigm disclosed a data breach after a cybersecurity incident at one of its third-party vendors exposed patients&#x27; personal data. [...]",
+    "created_at": "2026-09-09T16:01:01.425443+00:00"
   }
 ]
