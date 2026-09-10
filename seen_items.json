@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
-    "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
-    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
-    "published": "Tue, 11 Aug 2026 15:45:31 -0400",
-    "source": "BleepingComputer",
-    "summary": "Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices. [...]",
-    "created_at": "2026-08-11T20:01:15.249720+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
     "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
     "link": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
