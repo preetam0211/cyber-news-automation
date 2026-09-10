@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158978",
-    "title": "CISA Warns of SonicWall SMA1000 Vulnerabilities Exploited in Attacks to Deploy Ransomware",
-    "link": "https://cybersecuritynews.com/sonicwall-sma1000-vulnerabilities-exploited/",
-    "published": "Tue, 11 Aug 2026 08:35:34 +0000",
-    "source": "CybersecurityNews",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency warned that two SonicWall SMA1000 vulnerabilities, CVE-2026-15409 and CVE-2026-15410, are being exploited in ransomware attacks and have been added to its KEV catalog. CISA has also marked bot",
-    "created_at": "2026-08-11T09:01:09.990997+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=159014",
     "title": "LiteLLM Supply Chain Attack Potentially Exposes 2,500 Companies and 434,000 CI/CD Pipelines",
     "link": "https://cybersecuritynews.com/litellm-supply-chain-attack/",
@@ -9151,5 +9142,23 @@
     "source": "CybersecurityNews",
     "summary": "Bottom line up front: servers are not big laptops. They run Linux as often as Windows, can’t tolerate agent-induced latency, host the data ransomware actually wants, and increasingly live as VMs, containers, or cloud instances. Deploying dedicated en",
     "created_at": "2026-09-10T08:33:05.530327+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
+    "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
+    "link": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
+    "published": "Thu, 10 Sep 2026 12:34:01 +0530",
+    "source": "The Hacker News",
+    "summary": "Anthropic on Wednesday disclosed a fourth incident in which its artificial intelligence (AI) model broke into real third-party systems, marking the latest in a growing list of cases that have raised concerns about the security risks posed by autonomo",
+    "created_at": "2026-09-10T09:01:14.401890+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html",
+    "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
+    "link": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html",
+    "published": "Thu, 10 Sep 2026 12:42:55 +0530",
+    "source": "The Hacker News",
+    "summary": "Nearly one in ten of the internet-facing LiteLLM servers that Wiz Research scanned in February accepted sk-1234, the example admin key in LiteLLM&#x27;s own setup guide.\n\nLiteLLM is an open-source AI gateway, the software a company puts between its a",
+    "created_at": "2026-09-10T09:01:46.934515+00:00"
   }
 ]
