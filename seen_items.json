@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158990",
-    "title": "Abyssos RAT Includes RDPWrap-Related Module for Expanded Remote Access",
-    "link": "https://cybersecuritynews.com/abyssos-rat-rdpwrap/",
-    "published": "Tue, 11 Aug 2026 07:27:12 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A new remote access trojan called Abyssos lets attackers control infected Windows systems. The malware can steal credentials, collect files, and open remote viewing sessions, while its modular design allows operators to add functions after an infecti",
-    "created_at": "2026-08-11T08:01:25.796741+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159002",
-    "title": "Hackers Actively Scanning to Exploit VMware VCenter Vulnerabilities",
-    "link": "https://cybersecuritynews.com/hackers-scan-vmware-vcenter-vulnerabilities/",
-    "published": "Tue, 11 Aug 2026 07:59:20 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Attackers are scanning VMware vCenter after critical vulnerabilities were disclosed, with DefusedCyber’s honeypots recording increased vCenter fingerprinting activity. The activity includes requests to the /sdk/ endpoint using RetrieveServiceContent ",
-    "created_at": "2026-08-11T08:01:37.752077+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=158978",
     "title": "CISA Warns of SonicWall SMA1000 Vulnerabilities Exploited in Attacks to Deploy Ransomware",
     "link": "https://cybersecuritynews.com/sonicwall-sma1000-vulnerabilities-exploited/",
@@ -9115,5 +9097,59 @@
     "source": "CybersecurityNews",
     "summary": "Local admin rights are the fuel most endpoint attacks run on: malware inherits the user’s privileges, and an admin user means an admin infection. EPM removes standing admin rights and elevates individual applications or tasks just-in-time within a br",
     "created_at": "2026-09-10T08:01:10.334526+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159756",
+    "title": "Top 10 Best Device Control & USB Security Tools in 2026",
+    "link": "https://cybersecuritynews.com/best-device-control-usb-security-tools/",
+    "published": "Thu, 10 Sep 2026 08:05:41 +0000",
+    "source": "CybersecurityNews",
+    "summary": "USB ports remain a two-way risk: malware walks in, data walks out. Device control governs what can connect by device class, vendor ID, even serial number and what connected devices may do, with encryption enforced on whatever leaves. Governing remova",
+    "created_at": "2026-09-10T08:31:15.142136+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162828",
+    "title": "Hackers Use Claude and GPT-Powered Tools to Help Breach Government and Financial Networks",
+    "link": "https://cybersecuritynews.com/gpt-powered-tools/",
+    "published": "Thu, 10 Sep 2026 08:06:02 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers have used commercial AI models to help break into government, transport and financial networks across Latin America. The activity shows how chat-based tools can speed up familiar intrusion work, from fixing faulty scripts to moving stolen inf",
+    "created_at": "2026-09-10T08:31:42.768156+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/",
+    "title": "Microsoft fixes bug that wiped Windows desktop settings",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/",
+    "published": "Thu, 10 Sep 2026 04:08:16 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft says the September 2026 Patch Tuesday updates fix a known issue causing desktop settings to be lost or reset on some Windows devices. [...]",
+    "created_at": "2026-09-10T08:31:48.737590+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159765",
+    "title": "Top 10 Best Endpoint Encryption Software in 2026",
+    "link": "https://cybersecuritynews.com/best-endpoint-encryption-software/",
+    "published": "Thu, 10 Sep 2026 08:15:00 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Bottom line up front: the encryption engines are largely solved BitLocker and FileVault are strong, free, and built in. What you’re actually buying in 2026 is management: proof for auditors, key escrow and recovery, policy across mixed fleets, and pr",
+    "created_at": "2026-09-10T08:32:39.008847+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159777",
+    "title": "Top 10 Best Ransomware Protection Solutions in 2026",
+    "link": "https://cybersecuritynews.com/best-ransomware-protection-solutions-2/",
+    "published": "Thu, 10 Sep 2026 08:18:32 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Bottom line up front: no single product “stops ransomware.” Modern attacks are staged intrusions initial access, credential theft, lateral movement, exfiltration, then encryption — and each stage has different controls. Deploying dedicated ransomware",
+    "created_at": "2026-09-10T08:32:45.480052+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159813",
+    "title": "Top 10 Best Server Security Solutions in 2026",
+    "link": "https://cybersecuritynews.com/best-server-security-solutions/",
+    "published": "Thu, 10 Sep 2026 08:23:05 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Bottom line up front: servers are not big laptops. They run Linux as often as Windows, can’t tolerate agent-induced latency, host the data ransomware actually wants, and increasingly live as VMs, containers, or cloud instances. Deploying dedicated en",
+    "created_at": "2026-09-10T08:33:05.530327+00:00"
   }
 ]
