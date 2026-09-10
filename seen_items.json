@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
-    "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
-    "link": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
-    "published": "Tue, 11 Aug 2026 18:41:23 +0530",
-    "source": "The Hacker News",
-    "summary": "OpenAI on Monday unveiled a new cybersecurity-focused model called GPT‑5.6‑Cyber that it said is focused on vulnerability research, penetration testing, and incident response.\n\n&quot;Built on GPT‑5.6 Sol, it is trained to improve capabilities on seve",
-    "created_at": "2026-08-11T14:01:00.160230+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=158993",
     "title": "Alert Fatigue Is Hitting US SOCs Hard: How to Cut Through the Noise",
     "link": "https://cybersecuritynews.com/alert-fatigue-is-hitting-us-socs-hard-how-to-cut-through-the-noise/",
@@ -9097,5 +9088,59 @@
     "source": "The Hacker News",
     "summary": "Check Point has patched two critical vulnerabilities in the way its firewall and management products handle VPN certificates. The company says both could allow an unauthenticated remote attacker to run code, but only &quot;under specific conditions&q",
     "created_at": "2026-09-10T13:32:19.880432+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162891",
+    "title": "LiteLLM Flaws Let Attackers Execute Code as Root and Steal Cloud Credentials",
+    "link": "https://cybersecuritynews.com/litellm-flaws/",
+    "published": "Thu, 10 Sep 2026 12:26:49 +0000",
+    "source": "CybersecurityNews",
+    "summary": "LiteLLM deployments can expose far more than an organization’s AI spending. Newly disclosed weaknesses in the open-source gateway could let attackers run code as root inside a container, reach connected tools, and retrieve cloud credentials that open",
+    "created_at": "2026-09-10T14:01:09.826654+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162892",
+    "title": "Critical Check Point VPN Vulnerabilities Enable Remote Code Execution Attacks",
+    "link": "https://cybersecuritynews.com/check-point-vpn-vulnerabilities/",
+    "published": "Thu, 10 Sep 2026 12:31:31 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Check Point Software has disclosed and patched two critical VPN-related vulnerabilities, CVE-2026-85102 and CVE-2026-85103, both carrying a maximum CVSS score of 9.8 and both capable of allowing unauthenticated remote code execution under specific co",
+    "created_at": "2026-09-10T14:01:36.753727+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162822",
+    "title": "Hackers Can Turn AI Workflows Into Privileged Data-Stealing Proxies Without Jailbreaking Models",
+    "link": "https://cybersecuritynews.com/ai-workflows-stealing-proxies/",
+    "published": "Thu, 10 Sep 2026 12:57:15 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Enterprise AI workflows can be vulnerable to misuse that exposes sensitive information without prompt injection, account compromise, or jailbreaking a large language model. This vulnerability, termed Workflow Identity Hijacking, exploits authorizatio",
+    "created_at": "2026-09-10T14:01:38.771491+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162862",
+    "title": "Hackers Use Passkey-Themed Phishing to Hijack Microsoft 365 Accounts and Steal Cloud Data",
+    "link": "https://cybersecuritynews.com/passkey-themed-phishing/",
+    "published": "Thu, 10 Sep 2026 13:23:09 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are using passkey-themed phishing to take control of Microsoft 365 accounts and collect cloud data. It can defeat MFA protections. The campaign starts with calls and texts to employees. Attackers pose as IT support, claim a passkey, MFA, or s",
+    "created_at": "2026-09-10T14:01:51.352368+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162890",
+    "title": "CISA Warns of Citrix NetScaler Authentication Bypass Vulnerability Exploited in Attacks",
+    "link": "https://cybersecuritynews.com/cisa-citrix-netscaler-authentication/",
+    "published": "Thu, 10 Sep 2026 13:23:50 +0000",
+    "source": "CybersecurityNews",
+    "summary": "CISA added a critical Citrix NetScaler authentication bypass flaw (CVE-2026-19490) to its Known Exploited Vulnerabilities catalog after observing in-the-wild attacks targeting the issue. Federal civilian agencies must apply vendor mitigations by Sept",
+    "created_at": "2026-09-10T14:01:53.411706+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162902",
+    "title": "Hackers Exploit Critical Cisco Firewall Flaw to Gain Root Access and Deploy Malware",
+    "link": "https://cybersecuritynews.com/cisco-firewall-root-access-flaw/",
+    "published": "Thu, 10 Sep 2026 13:33:41 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cisco Talos has confirmed active exploitation of two vulnerabilities affecting Cisco Secure Firewall Management Center (FMC) Software, with state-sponsored hacking groups and a ransomware affiliate leveraging the flaws to seize root access, plant mal",
+    "created_at": "2026-09-10T14:01:55.416595+00:00"
   }
 ]
