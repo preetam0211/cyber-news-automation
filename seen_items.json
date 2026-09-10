@@ -9142,5 +9142,50 @@
     "source": "CybersecurityNews",
     "summary": "Cisco Talos has confirmed active exploitation of two vulnerabilities affecting Cisco Secure Firewall Management Center (FMC) Software, with state-sponsored hacking groups and a ransomware affiliate leveraging the flaws to seize root access, plant mal",
     "created_at": "2026-09-10T14:01:55.416595+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/",
+    "title": "The Top 4 Threats We Found by Investigating Every Alert for a Quarter",
+    "link": "https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/",
+    "published": "Thu, 10 Sep 2026 10:00:10 -0400",
+    "source": "BleepingComputer",
+    "summary": "Identity was the target in roughly half of all confirmed malicious activity. Prophet Security breaks down the four main attack patterns seen across customer environments between May and July 2026, and explains why some attacks succeeded while others ",
+    "created_at": "2026-09-10T14:31:02.057063+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162908",
+    "title": "Hackers Use Blob URLs and Microsoft Teams to Create Phishing Pages Inside Victims’ Browsers",
+    "link": "https://cybersecuritynews.com/hackers-use-blob-urls/",
+    "published": "Thu, 10 Sep 2026 14:04:56 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new phishing campaign is moving fake login pages into victims’ browsers. Rather than sending people to a malicious website, its operators use browser-generated blob URLs to assemble the page in local memory, leaving less for security tools to inspe",
+    "created_at": "2026-09-10T14:31:04.093797+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162918",
+    "title": "WordPress Uses AI to Stop Malicious Plugin Updates Before They Reach Millions of Websites",
+    "link": "https://cybersecuritynews.com/wordpress-uses-ai-to-stop-malicious-plugin/",
+    "published": "Thu, 10 Sep 2026 14:08:51 +0000",
+    "source": "CybersecurityNews",
+    "summary": "WordPress has rolled out an automated, AI-driven security review that screens every plugin release before it reaches the WordPress.org update API, adding a critical checkpoint to a distribution pipeline that had previously lacked one. The move follow",
+    "created_at": "2026-09-10T14:31:06.161631+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/",
+    "title": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws",
+    "link": "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/",
+    "published": "Thu, 10 Sep 2026 10:11:34 -0400",
+    "source": "BleepingComputer",
+    "summary": "Multiple cyber-espionage groups deployed an exploit kit dubbed &quot;BlueMoon&quot; that leveraged zero-day vulnerabilities in Microsoft Windows and Google Chrome. [...]",
+    "created_at": "2026-09-10T14:31:08.232837+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162917",
+    "title": "Hackers Use Fake GTA 6 Downloads to Deploy RATs, Infostealers and Data-Wiping Malware",
+    "link": "https://cybersecuritynews.com/fake-gta-6-downloads/",
+    "published": "Thu, 10 Sep 2026 14:23:36 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cybercriminals are exploiting intense interest in Grand Theft Auto VI by pushing fake game downloads that install several types of malware instead of a playable game. The campaign targets people looking for an early build, leaked copy, or unofficial ",
+    "created_at": "2026-09-10T14:31:10.342821+00:00"
   }
 ]
