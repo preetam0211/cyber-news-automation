@@ -9061,5 +9061,14 @@
     "source": "BleepingComputer",
     "summary": "Surfshark disclosed that hackers accessed one of its internal test servers after a configuration error exposed it to the internet. [...]",
     "created_at": "2026-09-10T19:31:13.300879+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/",
+    "title": "September Windows Server updates break Remote Desktop Services",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/",
+    "published": "Thu, 10 Sep 2026 16:34:37 -0400",
+    "source": "BleepingComputer",
+    "summary": "Windows admins report that the September 2026 security updates are causing Remote Desktop Services (RDS) failures on Windows Server 2019, 2022, and 2025 servers, preventing users from connecting and, in some cases, requiring a hard reset to restore f",
+    "created_at": "2026-09-10T21:01:10.400861+00:00"
   }
 ]
