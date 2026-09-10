@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=159089",
-    "title": "Critical SAP Vulnerabilities Let Attackers Inject Malicious Code and Corrupt Memory",
-    "link": "https://cybersecuritynews.com/sap-vulnerabilities-malicious-code-injection/",
-    "published": "Tue, 11 Aug 2026 15:02:28 +0000",
-    "source": "CybersecurityNews",
-    "summary": "SAP’s August 2026 Security Patch Day has delivered a substantial round of fixes, addressing 28 new security notes and one GitHub security advisory, alongside two updates to previously released notes. Released on August 11, 2026, this patch batch miti",
-    "created_at": "2026-08-11T16:01:27.545026+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159094",
-    "title": "Ivanti Endpoint Manager Vulnerabilities Let Remote Attackers Crash Agent Service",
-    "link": "https://cybersecuritynews.com/ivanti-endpoint-manager-flaw-crash-service/",
-    "published": "Tue, 11 Aug 2026 15:06:44 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Ivanti has issued a security advisory for Ivanti Endpoint Manager (EPM), disclosing three high-severity vulnerabilities that could allow remote attackers to crash agent services, hijack cloud storage configurations, and intercept sensitive database c",
-    "created_at": "2026-08-11T16:01:36.861988+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=159101",
     "title": "OpenAI, Anthropic, and Google LLM APIs vulnerability Exposes Hidden Reasoning Traces",
     "link": "https://cybersecuritynews.com/top-ai-models-apis-flaw-exposes-hidden-reasoning/",
@@ -9169,5 +9151,14 @@
     "source": "BleepingComputer",
     "summary": "Identity verification company IDScan has confirmed that hackers accessed customer data stored in its cloud platform, days after reports linked the company to a massive database containing more than 153 million driver&#x27;s license scans. [...]",
     "created_at": "2026-09-10T15:01:07.705446+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/",
+    "title": "Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers",
+    "link": "https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/",
+    "published": "Thu, 10 Sep 2026 11:43:58 -0400",
+    "source": "BleepingComputer",
+    "summary": "Cisco Talos says two recently patched Secure Firewall Management Center (FMC) vulnerabilities have been exploited by three separate threat clusters linked to ransomware and state-sponsored attacks. [...]",
+    "created_at": "2026-09-10T16:01:41.991890+00:00"
   }
 ]
