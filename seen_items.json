@@ -1,59 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
-    "title": "Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks",
-    "link": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
-    "published": "Tue, 11 Aug 2026 14:46:24 +0530",
-    "source": "The Hacker News",
-    "summary": "Cybersecurity and intelligence agencies from South Korea and the U.S. warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world.\n\nTargets of these attacks include healthcare and public health, fin",
-    "created_at": "2026-08-11T11:04:21.478226+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html",
-    "title": "Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets",
-    "link": "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html",
-    "published": "Tue, 11 Aug 2026 15:54:00 +0530",
-    "source": "The Hacker News",
-    "summary": "A malicious tool server connected to an AI coding assistant can quietly walk off with SSH keys, environment secrets, source code, and customer data without ever sending one obviously harmful instruction.\n\nThe trick can work even after a blunt version",
-    "created_at": "2026-08-11T11:04:33.752562+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html",
-    "title": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11",
-    "link": "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html",
-    "published": "Tue, 11 Aug 2026 16:18:26 +0530",
-    "source": "The Hacker News",
-    "summary": "Windows Plug and Play can be abused to fetch signed vendor software for an emulated USB device and execute privileged installation components that researchers chained to SYSTEM access on a fully updated Windows 11 machine.\n\nThe same PnP path can be t",
-    "created_at": "2026-08-11T11:04:48.536430+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159011",
-    "title": "New ‘Ghostjacking’ Attack Lets Hackers Hijack AI Agents to Run Their Code on Developer Machines",
-    "link": "https://cybersecuritynews.com/ghostjacking-attack/",
-    "published": "Tue, 11 Aug 2026 10:33:29 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A new AI-agent attack technique called “Ghostjacking,” can trick coding agents into running attacker-controlled commands, changing cloud settings, stealing credentials, and creating persistent backdoors. The research was presented by Tenet Security a",
-    "created_at": "2026-08-11T11:31:17.899534+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/",
-    "title": "Cisco warns of high-severity ClamAV flaws with public exploits",
-    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/",
-    "published": "Tue, 11 Aug 2026 07:03:01 -0400",
-    "source": "BleepingComputer",
-    "summary": "Cisco warned of two high-severity vulnerabilities affecting the Secure Endpoint Connector that allow threat actors to crash the ClamAV scanning process in denial-of-service (DoS) attacks. [...]",
-    "created_at": "2026-08-11T11:31:20.174991+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159031",
-    "title": "Compromised FortiGate VPN Opens First Step in Multi-Network Polish Energy Attack",
-    "link": "https://cybersecuritynews.com/compromised-fortigate-vpn/",
-    "published": "Tue, 11 Aug 2026 11:23:52 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Poland’s energy sector attack has revealed how one compromised remote-access device can become the first step in a wider industrial intrusion. The campaign moved from a wind-farm network into a heat and power plant, turning trusted connectivity into ",
-    "created_at": "2026-08-11T11:31:22.491709+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html",
     "title": "Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers",
     "link": "https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html",
@@ -9142,5 +9088,59 @@
     "source": "CybersecurityNews",
     "summary": "OpenAI has introduced a “Defense Factory,” an automated, agent-first cybersecurity operation that continuously discovers, validates, and remediates vulnerabilities. The company says traditional defenses may no longer be sufficient as long-running AI ",
     "created_at": "2026-09-10T11:01:06.900121+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html",
+    "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
+    "link": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html",
+    "published": "Thu, 10 Sep 2026 16:06:46 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added three flaws, each impacting Cisco, Citrix, and Fortinet, to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agen",
+    "created_at": "2026-09-10T11:31:10.958674+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162835",
+    "title": "Palo Alto PAN-OS Vulnerability Enables Arbitrary Code Execution as Root User",
+    "link": "https://cybersecuritynews.com/palo-alto-pan-os-vulnerability-code-execution/",
+    "published": "Thu, 10 Sep 2026 11:09:03 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Palo Alto Networks has disclosed a high-severity PAN-OS vulnerability that could allow an unauthenticated remote attacker to execute arbitrary code with root privileges on affected PA-Series hardware firewalls. Tracked as CVE-2026-0310, the flaw exis",
+    "created_at": "2026-09-10T11:31:15.353769+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/",
+    "title": "Microsoft says September updates fix mouse settings reset issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/",
+    "published": "Thu, 10 Sep 2026 07:14:28 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft has fixed a known issue that wiped mouse settings on some Windows 11 systems after installing the KB5120998 August 2026 preview update. [...]",
+    "created_at": "2026-09-10T11:31:20.453444+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162827",
+    "title": "OpenSSL 4.1.0 Alpha1 Released With DTLS 1.3 and Faster Post-Quantum Cryptography",
+    "link": "https://cybersecuritynews.com/openssl-4-1-0-alpha1-released/",
+    "published": "Thu, 10 Sep 2026 11:22:28 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The OpenSSL Project has released OpenSSL 4.1.0 Alpha1, an early preview of its forthcoming feature release. This update adds support for Datagram Transport Layer Security (DTLS) 1.3, GREASE for more resilient TLS deployments, and architecture-specifi",
+    "created_at": "2026-09-10T11:31:22.425871+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162865",
+    "title": "CISA Warns of Fortinet Heap-based Buffer Overflow Flaw Exploited in Attacks",
+    "link": "https://cybersecuritynews.com/fortinet-heap-based-buffer-overflow/",
+    "published": "Thu, 10 Sep 2026 11:26:05 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency has added a critical Fortinet vulnerability, tracked as CVE-2025-25249, to its Known Exploited Vulnerabilities catalog after confirming evidence of active exploitation. The flaw affects FortiO",
+    "created_at": "2026-09-10T11:31:24.363218+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162847",
+    "title": "Hackers Pose as Domain Controllers to Steal Active Directory Password Hashes",
+    "link": "https://cybersecuritynews.com/active-directory-password-hashes/",
+    "published": "Thu, 10 Sep 2026 11:29:46 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Threat actors are increasingly abusing Active Directory replication to impersonate domain controllers and steal password hashes from enterprise networks. This technique, known as a DCSync attack, can let attackers obtain credential data for privilege",
+    "created_at": "2026-09-10T11:31:26.357483+00:00"
   }
 ]
