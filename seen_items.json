@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html",
-    "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
-    "link": "https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html",
-    "published": "Tue, 11 Aug 2026 12:25:45 +0530",
-    "source": "The Hacker News",
-    "summary": "Attackers shut down a steam turbine and the process-water treatment system at a Polish combined heat and power plant by coming in over the private cellular network the local grid operator uses to reach remote equipment.\n\nThe plant supplies heat to ro",
-    "created_at": "2026-08-11T07:34:20.422150+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=158990",
     "title": "Abyssos RAT Includes RDPWrap-Related Module for Expanded Remote Access",
     "link": "https://cybersecuritynews.com/abyssos-rat-rdpwrap/",
@@ -9115,5 +9106,14 @@
     "source": "BleepingComputer",
     "summary": "Trezor warned customers on Wednesday that threat actors who breached its third-party email provider are targeting them in phishing attacks. [...]",
     "created_at": "2026-09-10T07:01:49.292163+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159738",
+    "title": "Top 10 Best Endpoint Privilege Management (EPM) Tools in 2026",
+    "link": "https://cybersecuritynews.com/best-endpoint-privilege-management-tools/",
+    "published": "Thu, 10 Sep 2026 07:58:21 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Local admin rights are the fuel most endpoint attacks run on: malware inherits the user’s privileges, and an admin user means an admin infection. EPM removes standing admin rights and elevates individual applications or tasks just-in-time within a br",
+    "created_at": "2026-09-10T08:01:10.334526+00:00"
   }
 ]
