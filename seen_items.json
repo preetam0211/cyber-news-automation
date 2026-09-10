@@ -9052,5 +9052,23 @@
     "source": "The Hacker News",
     "summary": "A lot of this week’s security news has the same awkward answer to one question: “Why was that allowed to work?”\n\nAn extension asks for access and takes too much. A trusted service becomes part of a phishing chain. An old bug still gets results. An ex",
     "created_at": "2026-09-10T19:01:20.033709+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/",
+    "title": "Microsoft Excel KB5002914 update breaks copy and paste for some users",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/",
+    "published": "Thu, 10 Sep 2026 15:07:33 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft Excel users report that this week&#x27;s KB5002914 Office security update is breaking copy-and-paste operations and formula dragging, with affected users saying that removing or rolling back the update restores normal functionality. [...]",
+    "created_at": "2026-09-10T19:31:06.426083+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/",
+    "title": "Surfshark VPN says hackers breached internal testing, proxy servers",
+    "link": "https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/",
+    "published": "Thu, 10 Sep 2026 15:15:07 -0400",
+    "source": "BleepingComputer",
+    "summary": "Surfshark disclosed that hackers accessed one of its internal test servers after a configuration error exposed it to the internet. [...]",
+    "created_at": "2026-09-10T19:31:13.300879+00:00"
   }
 ]
