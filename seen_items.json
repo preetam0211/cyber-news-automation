@@ -9160,5 +9160,14 @@
     "source": "The Hacker News",
     "summary": "Nearly one in ten of the internet-facing LiteLLM servers that Wiz Research scanned in February accepted sk-1234, the example admin key in LiteLLM&#x27;s own setup guide.\n\nLiteLLM is an open-source AI gateway, the software a company puts between its a",
     "created_at": "2026-09-10T09:01:46.934515+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/",
+    "title": "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/",
+    "published": "Thu, 10 Sep 2026 05:10:20 -0400",
+    "source": "BleepingComputer",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a critical WatchGuard Firebox firewall vulnerability, which it flagged as actively exploited in December. [...]",
+    "created_at": "2026-09-10T09:31:16.651992+00:00"
   }
 ]
