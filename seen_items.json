@@ -9043,5 +9043,14 @@
     "source": "CybersecurityNews",
     "summary": "Windows administrators worldwide are grappling with a disruptive Remote Desktop Services (RDS) bug that surfaced immediately after Microsoft shipped its September 2026 Patch Tuesday cumulative updates. Session hosts running Windows Server 2019, 2022,",
     "created_at": "2026-09-11T05:01:13.083735+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/",
+    "title": "Conti ransomware gang member sentenced to 4 years in prison",
+    "link": "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/",
+    "published": "Fri, 11 Sep 2026 02:48:37 -0400",
+    "source": "BleepingComputer",
+    "summary": "A Ukrainian national has been sentenced to four years in prison for his role in Conti ransomware attacks between 2021 and 2022. [...]",
+    "created_at": "2026-09-11T07:01:16.304889+00:00"
   }
 ]
