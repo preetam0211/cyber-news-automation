@@ -9016,5 +9016,14 @@
     "source": "BleepingComputer",
     "summary": "The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the attackers gained access using credentials belonging to a police department employee. [...]",
     "created_at": "2026-09-11T19:01:03.068114+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
+    "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
+    "published": "Fri, 11 Sep 2026 16:19:09 -0400",
+    "source": "BleepingComputer",
+    "summary": "Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes. [...]",
+    "created_at": "2026-09-11T20:31:58.414250+00:00"
   }
 ]
