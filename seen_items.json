@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
-    "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
-    "link": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
-    "published": "Wed, 12 Aug 2026 17:11:34 +0530",
-    "source": "The Hacker News",
-    "summary": "Enterprise defenses are tuned to catch the attacks that make noise. This year&#x27;s data shows attackers winning by making none.\n\nAccording to Picus Labs&#x27; new Blue Report 2026, which measured more than 338 million real attack simulations across",
-    "created_at": "2026-08-12T13:31:12.264888+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
-    "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
-    "link": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
-    "published": "Wed, 12 Aug 2026 17:17:38 +0530",
-    "source": "The Hacker News",
-    "summary": "A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords.\n\nThe weakness affected encrypted",
-    "created_at": "2026-08-12T13:31:14.520289+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159176",
-    "title": "737 Fake Chrome VPN Extensions Hijack Browser Traffic Through Attacker-Controlled SOCKS5 Proxies",
-    "link": "https://cybersecuritynews.com/fake-chrome-vpn-extensions/",
-    "published": "Wed, 12 Aug 2026 13:05:25 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Hundreds of Chrome extensions advertised as free VPN or proxy tools have been tied to a large traffic-redirection operation. The listings promised privacy and access to blocked services, but their code sent browser sessions through SOCKS5 proxy serve",
-    "created_at": "2026-08-12T14:01:28.968687+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159175",
-    "title": "Hackers Actively Exploiting VMware vCenter Systems to Gain and Maintain Remote Access",
-    "link": "https://cybersecuritynews.com/vmware-vcenter-remote-access-exploited/",
-    "published": "Wed, 12 Aug 2026 13:58:15 +0000",
-    "source": "CybersecurityNews",
-    "summary": "An active cyberattack campaign targeting internet-accessible VMware vCenter instances. During recent incident-response engagements, security analysts uncovered evidence that advanced persistent threat (APT) actors are actively weaponizing CVE-2026-59",
-    "created_at": "2026-08-12T14:01:31.221017+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/",
     "title": "The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In",
     "link": "https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/",
@@ -9079,5 +9043,23 @@
     "source": "CybersecurityNews",
     "summary": "Microsoft’s September 2026 security update KB5124008 is knocking some Windows 11 enterprise clients off Always On VPN after the Patch Tuesday package landed on September 8. Administrators who can reproduce the failure say certificate-based tunnels th",
     "created_at": "2026-09-11T13:31:05.208906+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
+    "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
+    "link": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
+    "published": "Fri, 11 Sep 2026 17:00:00 +0530",
+    "source": "The Hacker News",
+    "summary": "Security teams have become exceptionally talented at finding vulnerabilities. Now, it’s time to turn our attention to optimizing the process for determining which of those vulnerabilities actually create a path to compromise.\n\nA critical vulnerabilit",
+    "created_at": "2026-09-11T14:01:28.380743+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163055",
+    "title": "Hackers Impersonate CEOs in 1 Million Emails to Trick Employees Into $50,000 Payments",
+    "link": "https://cybersecuritynews.com/hackers-impersonate-ceos/",
+    "published": "Fri, 11 Sep 2026 13:38:23 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A large email fraud campaign used fake CEO messages and invoices to push employees toward payments of nearly $50,000. The operation did not rely on a malicious attachment or software flaw. Instead, it used ordinary email to deliver a scam. The attack",
+    "created_at": "2026-09-11T14:01:30.421314+00:00"
   }
 ]
