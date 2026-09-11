@@ -9088,5 +9088,68 @@
     "source": "CybersecurityNews",
     "summary": "The CL0P ransomware operation has allegedly added iconic motorcycle manufacturer Harley-Davidson to its public leak site, claiming it compromised the company. Harley-Davidson has not confirmed the alleged cyberattack, and the specific scope, timing, ",
     "created_at": "2026-09-11T07:32:21.090131+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
+    "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
+    "link": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
+    "published": "Fri, 11 Sep 2026 11:49:59 +0530",
+    "source": "The Hacker News",
+    "summary": "Cisco has revealed that three distinct threat clusters linked to ransomware and state-sponsored attacks have been exploiting two recently patched Secure Firewall Management Center (FMC) vulnerabilities.\n\nThe attacks leverage CVE-2026-20079 (CVSS scor",
+    "created_at": "2026-09-11T08:01:20.061245+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html",
+    "title": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws",
+    "link": "https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html",
+    "published": "Fri, 11 Sep 2026 12:16:18 +0530",
+    "source": "The Hacker News",
+    "summary": "PaperCut on Thursday released a new security maintenance release that replaces all previously published emergency patches that were pushed to address two security flaws that have come under active exploitation.\n\nThe software development company said ",
+    "created_at": "2026-09-11T08:01:49.674416+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html",
+    "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor",
+    "link": "https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html",
+    "published": "Fri, 11 Sep 2026 12:44:09 +0530",
+    "source": "The Hacker News",
+    "summary": "A China-linked hacking group exploited a flaw in Sogou Input Method, one of the most widely used tools for typing Chinese characters on Windows, to install a backdoor on victims&#x27; computers, security company Gen Digital said in research published",
+    "created_at": "2026-09-11T08:02:18.160578+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
+    "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
+    "link": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
+    "published": "Fri, 11 Sep 2026 13:01:05 +0530",
+    "source": "The Hacker News",
+    "summary": "Attackers have chained two flaws in JFrog Artifactory, the repository that software build pipelines pull from, to take administrator control of self-hosted servers and plant backdoors, cloud security company Wiz said in a report.\n\nWiz saw the attacks",
+    "created_at": "2026-09-11T08:02:29.528540+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162969",
+    "title": "Microsoft Investigating Microsoft 365 Copilot Access Issues Under Incident CP1470554",
+    "link": "https://cybersecuritynews.com/microsoft-365-copilot-access-issues/",
+    "published": "Fri, 11 Sep 2026 07:34:44 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft is investigating a Microsoft 365 Copilot disruption in which users may be unable to open the assistant or encounter errors while using it. The company is tracking the event as CP1470554 and pointed administrators to the Service Health Dashb",
+    "created_at": "2026-09-11T08:02:51.182561+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162958",
+    "title": "Hackers Can Hide Malicious AI Commands Inside Normal English to Bypass Security Filters",
+    "link": "https://cybersecuritynews.com/malicious-ai-commands/",
+    "published": "Fri, 11 Sep 2026 07:36:42 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly disclosed AI attack technique shows that harmful commands do not need strange symbols, hidden text, or coded strings to evade security checks. Attackers can conceal an instruction inside ordinary English and rely on different AI models to int",
+    "created_at": "2026-09-11T08:02:53.192393+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/",
+    "title": "Trezor: 347,000 users targeted in phishing attacks after Brevo breach",
+    "link": "https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/",
+    "published": "Fri, 11 Sep 2026 03:55:15 -0400",
+    "source": "BleepingComputer",
+    "summary": "Trezor has revealed that phishing attacks against its customers earlier this week targeted 347,000 email addresses and affected 2,500 users who clicked an embedded malicious link. [...]",
+    "created_at": "2026-09-11T08:03:00.524878+00:00"
   }
 ]
