@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=159140",
-    "title": "Microsoft Outlook Vulnerability Allows Attackers to Execute Malicious Code Remotely",
-    "link": "https://cybersecuritynews.com/microsoft-outlook-rce-vulnerability-2/",
-    "published": "Wed, 12 Aug 2026 03:40:32 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Microsoft has disclosed a new remote code execution flaw in Outlook, tracked as CVE-2026-70329, as part of its August 2026 Patch Tuesday rollout. The vulnerability stems from an integer overflow or wraparound weakness in Microsoft Office Outlook, and",
-    "created_at": "2026-08-12T07:01:56.740299+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159143",
-    "title": "Microsoft SharePoint Server Vulnerability Allows Attackers to Inject and Execute Malicious Code Remotely",
-    "link": "https://cybersecuritynews.com/microsoft-sharepoint-server-vulnerability/",
-    "published": "Wed, 12 Aug 2026 05:16:52 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A newly disclosed flaw in Microsoft SharePoint Server has raised fresh concerns across enterprise IT environments, as security researchers reveal how attackers could remotely inject and execute malicious code without needing any authentication. The v",
-    "created_at": "2026-08-12T07:02:12.053711+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
     "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
     "link": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
@@ -9052,5 +9034,59 @@
     "source": "BleepingComputer",
     "summary": "A Ukrainian national has been sentenced to four years in prison for his role in Conti ransomware attacks between 2021 and 2022. [...]",
     "created_at": "2026-09-11T07:01:16.304889+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159873",
+    "title": "Top 10 Best Browser Isolation Solutions in 2026",
+    "link": "https://cybersecuritynews.com/best-browser-isolation-solutions/",
+    "published": "Fri, 11 Sep 2026 07:01:25 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Remote browser isolation executes web content on a remote machine and sends only a safe representation to the user so whatever the page tries to run, it runs somewhere disposable. Menlo Security remains the reference pure-play, Zscaler and Cloudflare",
+    "created_at": "2026-09-11T07:31:15.998349+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159900",
+    "title": "Top 10 Best Enterprise Browsers in 2026",
+    "link": "https://cybersecuritynews.com/best-enterprise-browsers/",
+    "published": "Fri, 11 Sep 2026 07:07:11 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The enterprise browser puts security inside the thing people actually work in: policy, data loss prevention (DLP), and visibility in the browser itself, instead of streamed around it or bolted on the network. Island defined the category and still lea",
+    "created_at": "2026-09-11T07:31:46.371314+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159938",
+    "title": "Top 10 Best Cloud Security Posture Management (CSPM) Tools in 2026",
+    "link": "https://cybersecuritynews.com/best-cspm-tools/",
+    "published": "Fri, 11 Sep 2026 07:10:59 +0000",
+    "source": "CybersecurityNews",
+    "summary": "CSPM finds the cloud misconfigurations that cause most cloud breaches public buckets, permissive IAM, exposed databases continuously, across accounts and providers. Wiz still sets the pace on agentless visibility and attack-path context, Microsoft De",
+    "created_at": "2026-09-11T07:31:54.970409+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159949",
+    "title": "Top 10 Best Cloud Workload Protection (CWPP) Solutions in 2026",
+    "link": "https://cybersecuritynews.com/best-cwpp-solutions/",
+    "published": "Fri, 11 Sep 2026 07:15:16 +0000",
+    "source": "CybersecurityNews",
+    "summary": "CWPP protects the workloads themselves VMs, containers, Kubernetes, serverless at runtime: detecting compromise, blocking malicious behaviour, and feeding cloud-context response into a unified Zero Trust Architecture. Posture tools find the open door",
+    "created_at": "2026-09-11T07:31:56.305230+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=159968",
+    "title": "Top 10 Best CNAPP (Cloud-Native Application Protection) Platforms in 2026",
+    "link": "https://cybersecuritynews.com/best-cnapp-platforms/",
+    "published": "Fri, 11 Sep 2026 07:21:51 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Bottom line up front: CNAPP is the umbrella — it bundles CSPM (posture), CWPP (runtime), CIEM (entitlements), and increasingly DSPM (data) into one platform. Wiz leads on the graph that connects them, Prisma Cloud on module breadth, Defender for Clou",
+    "created_at": "2026-09-11T07:32:05.529271+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162950",
+    "title": "Harley-Davidson Alleged Breach – CL0P Ransomware Adds Motorcycle Maker to the List",
+    "link": "https://cybersecuritynews.com/harley-davidson-alleged-breach/",
+    "published": "Fri, 11 Sep 2026 07:26:40 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The CL0P ransomware operation has allegedly added iconic motorcycle manufacturer Harley-Davidson to its public leak site, claiming it compromised the company. Harley-Davidson has not confirmed the alleged cyberattack, and the specific scope, timing, ",
+    "created_at": "2026-09-11T07:32:21.090131+00:00"
   }
 ]
