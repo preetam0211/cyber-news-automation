@@ -9025,5 +9025,14 @@
     "source": "CybersecurityNews",
     "summary": "Anthropic’s Threat Intelligence team has disclosed a sweeping new report detailing how state-sponsored espionage groups, financially motivated cybercriminals, and lone hacktivists weaponized its Claude AI models to automate entire cyberattack chains,",
     "created_at": "2026-09-11T03:01:05.710709+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162900",
+    "title": "Skullcandy Dime 3 Bluetooth Flaw Lets Nearby Attackers Hijack Audio and Spy Through Microphone",
+    "link": "https://cybersecuritynews.com/skullcandy-dime-3-bluetooth-flaw/",
+    "published": "Fri, 11 Sep 2026 04:16:42 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A security vulnerability in Skullcandy Dime 3 wireless earbuds could allow nearby attackers to pair with the device without the owner’s approval, hijack audio playback, and potentially capture live microphone audio. Tracked as Vulnerability Note VU#8",
+    "created_at": "2026-09-11T04:31:04.544135+00:00"
   }
 ]
