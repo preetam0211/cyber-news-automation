@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=159137",
-    "title": "Lazarus Hackers Actively Exploiting Windows AFD.sys Zero-Day to Deploy FudModule Rootkit",
-    "link": "https://cybersecuritynews.com/windows-afd-sys-zero-day-exploited/",
-    "published": "Wed, 12 Aug 2026 03:23:37 +0000",
-    "source": "CybersecurityNews",
-    "summary": "North Korea’s Lazarus group has been caught exploiting a Windows kernel 0-day vulnerability to deploy an upgraded version of its notorious FudModule rootkit, according to new research from Check Point Research. The flaw, now tracked as CVE-2026-68820",
-    "created_at": "2026-08-12T03:31:37.944118+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=159140",
     "title": "Microsoft Outlook Vulnerability Allows Attackers to Execute Malicious Code Remotely",
     "link": "https://cybersecuritynews.com/microsoft-outlook-rce-vulnerability-2/",
