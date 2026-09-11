@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/",
-    "title": "Hundreds of fake Chrome VPN extensions route traffic through a proxy",
-    "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/",
-    "published": "Wed, 12 Aug 2026 14:54:57 -0400",
-    "source": "BleepingComputer",
-    "summary": "More than 737 browser extensions published on the Chrome Web Store impersonated well-known VPN and proxy services while routing users&#x27; traffic through SOCKS5 proxies operated by a single provider. [...]",
-    "created_at": "2026-08-12T19:01:18.316912+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/",
     "title": "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/",
