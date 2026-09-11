@@ -9025,5 +9025,14 @@
     "source": "BleepingComputer",
     "summary": "A new Android malware strain called Mantax Otax combines ransomware and spyware capabilities to encrypt files, steal sensitive data, and spam and harass victims. [...]",
     "created_at": "2026-09-10T22:01:23.509890+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162936",
+    "title": "Hackers Use Claude AI Agents to Automate Cyberattacks, Develop 0-Days and Evade Detection",
+    "link": "https://cybersecuritynews.com/claude-ai-agents-used-to-automate-cyberattacks/",
+    "published": "Fri, 11 Sep 2026 02:40:02 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Anthropic’s Threat Intelligence team has disclosed a sweeping new report detailing how state-sponsored espionage groups, financially motivated cybercriminals, and lone hacktivists weaponized its Claude AI models to automate entire cyberattack chains,",
+    "created_at": "2026-09-11T03:01:05.710709+00:00"
   }
 ]
