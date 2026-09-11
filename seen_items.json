@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=159165",
-    "title": "13-Minute WindRelay Malware Attack Uses SpyNote RAT and NFC Relay Malware to Drain Victim Accounts",
-    "link": "https://cybersecuritynews.com/13-minute-windrelay-malware-attack/",
-    "published": "Wed, 12 Aug 2026 12:00:34 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A new Android fraud operation shows how quickly a convincing phone call can turn into financial loss. The campaign combines the SpyNote remote-control tool with WindRelay, a newly tracked NFC relay malware family. Together, they give criminals access",
-    "created_at": "2026-08-12T13:01:14.662803+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159170",
-    "title": "Fake CCleaner Download Installs GhostDesk Chrome Spyware on Windows PCs",
-    "link": "https://cybersecuritynews.com/fake-ccleaner-download/",
-    "published": "Wed, 12 Aug 2026 12:28:02 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Windows users looking for a familiar cleanup utility are being steered toward a convincing counterfeit download page. The file they receive installs GhostDesk, a malicious Chrome extension built to watch activity inside the browser. The campaign turn",
-    "created_at": "2026-08-12T13:01:16.947186+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159173",
-    "title": "2.86 Billion Credentials Flood Criminal Markets as Enterprise Access Moves Upmarket",
-    "link": "https://cybersecuritynews.com/credentials-flood-criminal-markets/",
-    "published": "Wed, 12 Aug 2026 12:52:07 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Stolen login data is so abundant that criminal markets can sell it for almost nothing. Meanwhile, verified entry into large companies commands far higher prices, reshaping the underground economy. Infostealer malware drives that divide. It reaches vi",
-    "created_at": "2026-08-12T13:01:19.249777+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
     "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
     "link": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
@@ -9097,5 +9070,14 @@
     "source": "CybersecurityNews",
     "summary": "A Ukrainian national has been sentenced to four years in U.S. prison for his role in the Conti ransomware operation, which compromised more than 1,000 victims worldwide and generated at least $150 million in ransom payments. Oleksii Oleksiyovych Lytv",
     "created_at": "2026-09-11T13:01:12.288644+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163057",
+    "title": "Windows 11 Security Update KB5124008 Breaks Always-On VPN Connections",
+    "link": "https://cybersecuritynews.com/windows-11-security-update-kb5124008/",
+    "published": "Fri, 11 Sep 2026 13:11:35 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft’s September 2026 security update KB5124008 is knocking some Windows 11 enterprise clients off Always On VPN after the Patch Tuesday package landed on September 8. Administrators who can reproduce the failure say certificate-based tunnels th",
+    "created_at": "2026-09-11T13:31:05.208906+00:00"
   }
 ]
