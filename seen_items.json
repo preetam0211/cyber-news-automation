@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/",
-    "title": "Hackers leverage new Microsoft SharePoint exploit in attacks",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/",
-    "published": "Wed, 12 Aug 2026 08:25:37 -0400",
-    "source": "BleepingComputer",
-    "summary": "Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday. [...]",
-    "created_at": "2026-08-12T12:34:35.449926+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=159165",
     "title": "13-Minute WindRelay Malware Attack Uses SpyNote RAT and NFC Relay Malware to Drain Victim Accounts",
     "link": "https://cybersecuritynews.com/13-minute-windrelay-malware-attack/",
@@ -9079,5 +9070,32 @@
     "source": "CybersecurityNews",
     "summary": "A critical vulnerability in ConfigServer Security &amp; Firewall (CSF), used on cPanel and WHM servers, could allow an unauthenticated remote attacker to execute arbitrary commands through the software’s MESSENGER service. The issue is tracked as CVE",
     "created_at": "2026-09-11T12:01:22.773816+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163013",
+    "title": "Ubuntu 24.04.5 LTS Released With Linux 7.0 Kernel and Latest Security Updates",
+    "link": "https://cybersecuritynews.com/ubuntu-24-04-5-lts-linux-7/",
+    "published": "Fri, 11 Sep 2026 12:03:45 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Canonical has officially rolled out Ubuntu 24.04.5 LTS, the fifth maintenance update to the “Noble Numbat” long-term support release, delivering a fresh installation image packed with the latest security patches, bug fixes, and an upgraded hardware e",
+    "created_at": "2026-09-11T13:01:06.549152+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163033",
+    "title": "New Android Ransomware Records Screens, Steals OTPs and Secretly Takes Photos of Victims",
+    "link": "https://cybersecuritynews.com/new-android-ransomware/",
+    "published": "Fri, 11 Sep 2026 12:14:12 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly uncovered Android threat combines ransomware with spying, creating a trap for people who install apps from untrusted links. Called Mantax Otax, the malware can lock files, watch the screen, intercept verification codes and secretly use a phon",
+    "created_at": "2026-09-11T13:01:12.119701+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163026",
+    "title": "Conti Ransomware Hacker Sentenced After Group Attacked Over 1,000 Victims Worldwide",
+    "link": "https://cybersecuritynews.com/conti-ransomware-hacker-sentenced/",
+    "published": "Fri, 11 Sep 2026 12:31:07 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A Ukrainian national has been sentenced to four years in U.S. prison for his role in the Conti ransomware operation, which compromised more than 1,000 victims worldwide and generated at least $150 million in ransom payments. Oleksii Oleksiyovych Lytv",
+    "created_at": "2026-09-11T13:01:12.288644+00:00"
   }
 ]
