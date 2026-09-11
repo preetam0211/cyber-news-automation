@@ -9061,5 +9061,14 @@
     "source": "CybersecurityNews",
     "summary": "A large email fraud campaign used fake CEO messages and invoices to push employees toward payments of nearly $50,000. The operation did not rely on a malicious attachment or software flaw. Instead, it used ordinary email to deliver a scam. The attack",
     "created_at": "2026-09-11T14:01:30.421314+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
+    "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
+    "link": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
+    "published": "Fri, 11 Sep 2026 10:01:11 -0400",
+    "source": "BleepingComputer",
+    "summary": "Threat actors are abusing trusted AI platforms to host malicious content, poison search results, and trick users into installing malware. Huntress examines campaigns targeting AI users through weaponized Claude Artifacts, shared AI conversations, spo",
+    "created_at": "2026-09-11T14:31:23.887837+00:00"
   }
 ]
