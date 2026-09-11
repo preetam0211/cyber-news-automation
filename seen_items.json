@@ -9034,5 +9034,14 @@
     "source": "CybersecurityNews",
     "summary": "Russia-aligned operators are testing a new way to make artificial intelligence overlook malicious code. The technique, called GuardBreaker, hides a safety-sensitive request inside an otherwise ordinary script comment, hoping that an AI code scanner r",
     "created_at": "2026-09-11T16:02:22.948088+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
+    "title": "Artifactory flaws chained in attacks deploying backdoor malware",
+    "link": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
+    "published": "Fri, 11 Sep 2026 12:29:44 -0400",
+    "source": "BleepingComputer",
+    "summary": "Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hosted servers. [...]",
+    "created_at": "2026-09-11T16:31:02.829894+00:00"
   }
 ]
