@@ -1,68 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=13042",
-    "title": "Top 10 Best DDoS Protection Services in 2026",
-    "link": "https://cybersecuritynews.com/ddos-protection-tools/",
-    "published": "Wed, 12 Aug 2026 07:41:58 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Cloudflare is the best DDoS protection service for most organizations in 2026, scoring highest in our evaluation on the combination of network capacity, always-on mitigation speed, and cost predictability it publicly absorbed a record 31.4 Tbps attac",
-    "created_at": "2026-08-12T09:31:54.918260+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158398",
-    "title": "Top 10 Best Network Access Control (NAC) Solutions in 2026",
-    "link": "https://cybersecuritynews.com/best-nac-solutions/",
-    "published": "Wed, 12 Aug 2026 07:46:43 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Modern network access control solutions decide which devices get onto your network, what they can reach once connected, and what happens when an unmanaged printer, camera, or unmanaged POS device shows up uninvited. Cisco ISE remains the enterprise s",
-    "created_at": "2026-08-12T09:32:46.830591+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159148",
-    "title": "ClickFix Attack Abuses Signed IBM SPSS IDE to Deploy New CNCMachineRMS RAT",
-    "link": "https://cybersecuritynews.com/clickfix-attack-ibm-spss-ide/",
-    "published": "Wed, 12 Aug 2026 08:05:00 +0000",
-    "source": "CybersecurityNews",
-    "summary": "ClickFix campaigns are once again turning an ordinary user action into the opening move of a serious intrusion. A newly documented chain uses a fake fix prompt to lead victims toward CNCMachineRMS, a previously undocumented remote access trojan that ",
-    "created_at": "2026-08-12T09:33:14.989964+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158415",
-    "title": "Top 10 Best Business VPN Solutions in 2026",
-    "link": "https://cybersecuritynews.com/best-business-vpn-solutions/",
-    "published": "Wed, 12 Aug 2026 08:18:08 +0000",
-    "source": "CybersecurityNews",
-    "summary": "The best business VPN solutions in 2026 are increasingly the ones that aren’t traditional VPNs at all. Twingate and Tailscale lead for modern least-privilege remote access, Cisco Secure Client (AnyConnect) and Palo Alto GlobalProtect remain the enter",
-    "created_at": "2026-08-12T09:33:41.246225+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159152",
-    "title": "Google-themed Credential Phishing Attempt Delivered Through a Fake ‘New Audio MSG’ Email",
-    "link": "https://cybersecuritynews.com/google-themed-credential-phishing/",
-    "published": "Wed, 12 Aug 2026 08:34:05 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A new credential phishing campaign is using a fake “New Audio MSG” email to draw recipients toward a convincing Google-themed sign-in page. The message turns a familiar voicemail-style prompt into a way to steal account credentials, relying on a simp",
-    "created_at": "2026-08-12T09:34:12.197962+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159158",
-    "title": "Sandworm Fake Job Interviews Push Trojanized WireGuard VPN to Infect IT Professionals",
-    "link": "https://cybersecuritynews.com/sandworm-fake-job-interviews/",
-    "published": "Wed, 12 Aug 2026 09:04:15 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Sandworm has turned the routine job interview into a route for compromising IT workers. The campaign uses convincing recruiter conversations, live video calls and a booby-trapped virtual private network client to reach people who may hold privileged ",
-    "created_at": "2026-08-12T09:34:38.467342+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
-    "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
-    "link": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
-    "published": "Wed, 12 Aug 2026 14:31:54 +0530",
-    "source": "The Hacker News",
-    "summary": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO.\n\nThe vulnerability in question is CVE-2026-59310 (CVSS score: 9.8), a directory-traversal vulner",
-    "created_at": "2026-08-12T10:01:13.115641+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=159161",
     "title": "CAV3RN Uses Google Apps Script as C2 Relay to Hide Malware Traffic Behind Google Infrastructure",
     "link": "https://cybersecuritynews.com/cav3rn-uses-google-apps-script/",
@@ -9142,5 +9079,32 @@
     "source": "CybersecurityNews",
     "summary": "GitLab has released security updates for Community Edition and Enterprise Edition to fix multiple vulnerabilities, including two critical flaws that could enable arbitrary file reads and credential theft. A separate high-severity issue in GitLab Ente",
     "created_at": "2026-09-11T08:31:59.926759+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162981",
+    "title": "Hackers Deploy New SloppyRAT via ClickFix to Enable Ransomware Lateral Movement",
+    "link": "https://cybersecuritynews.com/hackers-deploy-new-sloppyrat/",
+    "published": "Fri, 11 Sep 2026 09:12:37 +0000",
+    "source": "CybersecurityNews",
+    "summary": "SloppyRAT is a remote access tool that appears designed to help ransomware operators move deeper into compromised networks. The malware arrives through ClickFix, a social-engineering method that tricks people into running commands presented as a rout",
+    "created_at": "2026-09-11T10:01:39.526791+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/",
+    "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/",
+    "published": "Fri, 11 Sep 2026 05:39:37 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft has fixed a bug that prevented Teams and Outlook from launching on ARM-based Windows devices after installing updates released since the August 2026 Patch Tuesday. [...]",
+    "created_at": "2026-09-11T10:02:01.648511+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163006",
+    "title": "IDScan Confirms Data Breach Following 153 Million Driver’s Licenses Leaked on the Dark Web",
+    "link": "https://cybersecuritynews.com/idscan-confirms-data-breach/",
+    "published": "Fri, 11 Sep 2026 09:59:45 +0000",
+    "source": "CybersecurityNews",
+    "summary": "IDScan.net, a Louisiana-based identity verification firm whose technology underpins age and identity checks for retailers, bars, and other Fortune 500 clients, has confirmed a data breach after a criminal marketplace began advertising more than 153 m",
+    "created_at": "2026-09-11T10:02:02.983747+00:00"
   }
 ]
