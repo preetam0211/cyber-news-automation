@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/",
-    "title": "Android malware combo takes out loans and relays victims' credit cards",
-    "link": "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/",
-    "published": "Wed, 12 Aug 2026 18:22:57 -0400",
-    "source": "BleepingComputer",
-    "summary": "A new Android NFC relay malware called WindRelay is being used alongside the SpyNote remote administration tool (RAT) to steal live card data and send it to attackers in real time. [...]",
-    "created_at": "2026-08-12T22:31:10.802437+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/",
     "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals",
     "link": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/",
