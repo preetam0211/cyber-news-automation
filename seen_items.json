@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
-    "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
-    "link": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
-    "published": "Wed, 12 Aug 2026 13:34:52 +0530",
-    "source": "The Hacker News",
-    "summary": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems that installed them.\n\nThreat ",
-    "created_at": "2026-08-12T09:00:59.992859+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=13042",
     "title": "Top 10 Best DDoS Protection Services in 2026",
     "link": "https://cybersecuritynews.com/ddos-protection-tools/",
