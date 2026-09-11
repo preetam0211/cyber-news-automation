@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
-    "title": "Lazarus hackers exploited Windows zero-day to target defense firms",
-    "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
-    "published": "Wed, 12 Aug 2026 11:38:08 -0400",
-    "source": "BleepingComputer",
-    "summary": "North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. [...]",
-    "created_at": "2026-08-12T16:00:56.517106+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/",
     "title": "Plug and Pwn attack uses fake USB devices for Windows SYSTEM access",
     "link": "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/",
@@ -9025,5 +9016,23 @@
     "source": "The Hacker News",
     "summary": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026.\n\nThe threat actors, which the artificia",
     "created_at": "2026-09-11T15:31:27.558466+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163068",
+    "title": "New KATARU IoT Malware Packs Linux Privilege Escalation Exploits and Mirai-Style DDoS Attacks",
+    "link": "https://cybersecuritynews.com/new-kataru-iot-malware/",
+    "published": "Fri, 11 Sep 2026 14:17:53 +0000",
+    "source": "CybersecurityNews",
+    "summary": "KATARU is a newly observed IoT malware strain that can turn poorly secured devices into DDoS attack nodes. The sample was captured after an attacker used repeated Telnet password guesses against a honeypot, then downloaded an ARM payload. It shows ho",
+    "created_at": "2026-09-11T16:01:55.889983+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163070",
+    "title": "Russia-Aligned Hackers Use GuardBreaker Prompt Injection to Disrupt AI Malware Analysis",
+    "link": "https://cybersecuritynews.com/hackers-guardbreaker-prompt-injection/",
+    "published": "Fri, 11 Sep 2026 14:32:13 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Russia-aligned operators are testing a new way to make artificial intelligence overlook malicious code. The technique, called GuardBreaker, hides a safety-sensitive request inside an otherwise ordinary script comment, hoping that an AI code scanner r",
+    "created_at": "2026-09-11T16:02:22.948088+00:00"
   }
 ]
