@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/",
-    "title": "WhatsApp rolls out new feature that flags potential scam messages",
-    "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/",
-    "published": "Thu, 13 Aug 2026 07:50:22 -0400",
-    "source": "BleepingComputer",
-    "summary": "WhatsApp has begun rolling out a new optional &quot;Scam Alert&quot; feature, which uses a local machine learning model to warn users when scammers are targeting them. [...]",
-    "created_at": "2026-08-13T12:04:34.991429+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=159309",
     "title": "Gunra Uses Stolen Sessions and RDP to Pivot Into Active Directory and IT Workstations",
     "link": "https://cybersecuritynews.com/gunra-uses-stolen-sessions/",
