@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=159264",
-    "title": "Critical Adobe Commerce Vulnerabilities Allows Hackers to Execute Arbitrary Code",
-    "link": "https://cybersecuritynews.com/adobe-commerce-vulnerabilities/",
-    "published": "Thu, 13 Aug 2026 07:41:52 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Adobe has released an urgent security update for Adobe Commerce and Magento Open Source, fixing several vulnerabilities that could allow attackers to bypass security controls, gain higher privileges, and execute arbitrary code. The most serious issue",
-    "created_at": "2026-08-13T08:01:26.084059+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=159271",
     "title": "Trump Signs Memo Authorizing Private Firms for Cyber Operations Against Foreign Criminals",
     "link": "https://cybersecuritynews.com/trump-memos-private-firms-cyber/",
