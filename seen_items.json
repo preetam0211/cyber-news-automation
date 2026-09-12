@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=159261",
-    "title": "Cisco Firewall 0-Day Vulnerability Exploited in the Wild to Trigger DoS Condition",
-    "link": "https://cybersecuritynews.com/cisco-firewall-0-day-vulnerability/",
-    "published": "Thu, 13 Aug 2026 04:36:14 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Security teams managing Cisco edge infrastructure face a high-priority patching deadline after Cisco confirmed active exploitation of a newly disclosed zero-day in its firewall VPN stack. Tracked as CVE-2026-20349, the flaw affects the Remote Access ",
-    "created_at": "2026-08-13T07:31:30.234083+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=159264",
     "title": "Critical Adobe Commerce Vulnerabilities Allows Hackers to Execute Arbitrary Code",
     "link": "https://cybersecuritynews.com/adobe-commerce-vulnerabilities/",
