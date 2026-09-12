@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=159284",
-    "title": "Phantom Stealer Hides Inside PNG Files, Then Steals Your Passwords, Cookies and Crypto",
-    "link": "https://cybersecuritynews.com/phantom-stealer-inside-png/",
-    "published": "Thu, 13 Aug 2026 09:08:52 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Phantom Stealer is taking a familiar computer file and turning it into a hiding place. The credential-stealing malware can conceal its next stage in PNG resources, then quietly collect passwords, browser cookies, cryptocurrency wallet material and ot",
-    "created_at": "2026-08-13T09:31:36.633810+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=159267",
     "title": "Blacklight Toolkit Finds Codex, Claude Code, and Cursor Artifacts Exposing Tokens and Session Data",
     "link": "https://cybersecuritynews.com/blacklight-toolkit/",
@@ -8962,5 +8953,14 @@
     "source": "CybersecurityNews",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a critical GitLab vulnerability, tracked as CVE-2026-85706, to its Known Exploited Vulnerabilities catalog, warning that attackers are actively exploiting the flaw. The issue ",
     "created_at": "2026-09-12T05:01:08.202552+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
+    "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
+    "link": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
+    "published": "Sat, 12 Sep 2026 14:37:56 +0530",
+    "source": "The Hacker News",
+    "summary": "The &quot;major malicious attack&quot; that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx.\n\nOn May 12, Maciej Mensfeld, seni",
+    "created_at": "2026-09-12T10:01:18.071713+00:00"
   }
 ]
