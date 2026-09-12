@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=159382",
-    "title": "Fortinet Patches Multiple Authentication Vulnerabilities in FortiWeb, FortiManager, and FortiClient",
-    "link": "https://cybersecuritynews.com/fortinet-authentication-vulnerabilities/",
-    "published": "Thu, 13 Aug 2026 16:41:55 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Fortinet has rolled out fixes for a batch of authentication-related vulnerabilities across its FortiWeb, FortiManager, and FortiClient product lines, urging administrators to patch quickly given the sensitivity of the affected systems. The most sever",
-    "created_at": "2026-08-13T19:05:32.234107+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
     "title": "Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt",
     "link": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
