@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=159313",
-    "title": "CISA Warns of Windows Ancillary Function 0-Day Vulnerability Exploited in Attacks",
-    "link": "https://cybersecuritynews.com/windows-ancillary-function-0-day-exploited/",
-    "published": "Thu, 13 Aug 2026 13:12:38 +0000",
-    "source": "CybersecurityNews",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency has added a Microsoft Windows vulnerability to its Known Exploited Vulnerabilities Catalog, warning that the flaw is being exploited in attacks. The issue, tracked as CVE-2026-68820, is a use-",
-    "created_at": "2026-08-13T14:01:11.595237+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159336",
-    "title": "North Korean IT Workers Use AI-Forged IDs and Remote Desktops to Become Trusted Employees",
-    "link": "https://cybersecuritynews.com/north-korean-it-workers-ai-forged-ids/",
-    "published": "Thu, 13 Aug 2026 13:30:47 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A joint undercover investigation has pulled back the curtain on how North Korean IT worker operatives don’t just slip past hiring checks; they settle in, gain trusted access, and quietly work from inside legitimate companies for months at a time. The",
-    "created_at": "2026-08-13T14:01:13.858890+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159355",
-    "title": "Trezor ShipMonk Data Breach Exposes Personal Data of Over 13,000 Hardware Wallet Customers",
-    "link": "https://cybersecuritynews.com/trezor-shipmonk-data-breach/",
-    "published": "Thu, 13 Aug 2026 13:44:21 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A third-party logistics breach has put thousands of Trezor hardware wallet buyers at higher phishing risk, even though Trezor’s own systems and devices were not compromised. On Monday, August 10, 2026, crypto hardware wallet maker Trezor said ShipMon",
-    "created_at": "2026-08-13T14:01:16.085571+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/",
-    "title": "Who Vets AI’s Code? The Scale Challenge Facing Open Source Ingestion",
-    "link": "https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/",
-    "published": "Thu, 13 Aug 2026 10:00:10 -0400",
-    "source": "BleepingComputer",
-    "summary": "AI coding tools can introduce unvetted or hallucinated open source dependencies faster than traditional security reviews can keep pace. ActiveState explains why organizations should govern packages at the point of selection, before they enter the dev",
-    "created_at": "2026-08-13T14:01:18.355007+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=159343",
     "title": "Microsoft Exchange Server Vulnerabilities Enable DoS, Privilege Escalation, and RCE Attacks",
     "link": "https://cybersecuritynews.com/microsoft-exchange-server-vulnerabilities-rce/",
@@ -8863,5 +8827,14 @@
     "source": "CybersecurityNews",
     "summary": "A critical flaw in current security operations is assuming time is on our side. Historically, attacks progressed slowly, allowing analysts and response teams time to detect, discuss, and respond. Even severe incidents operated at a human pace. Our de",
     "created_at": "2026-09-12T13:01:26.296149+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
+    "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
+    "link": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
+    "published": "Sat, 12 Sep 2026 10:14:32 -0400",
+    "source": "BleepingComputer",
+    "summary": "The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-85102 and CVE-2026-85103. [...]",
+    "created_at": "2026-09-12T14:31:41.606984+00:00"
   }
 ]
