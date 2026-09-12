@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
-    "title": "Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt",
-    "link": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
-    "published": "Thu, 13 Aug 2026 16:47:02 -0400",
-    "source": "BleepingComputer",
-    "summary": "An Akira ransomware affiliate disabled the endpoint detection and response (EDR) solution on a compromised system by restarting the machine into Safe Mode with Networking. [...]",
-    "created_at": "2026-08-13T21:01:11.072018+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/",
-    "title": "Ukraine shuts down 94 fraudulent call centers, seize millions in cash",
-    "link": "https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/",
-    "published": "Thu, 13 Aug 2026 17:12:47 -0400",
-    "source": "BleepingComputer",
-    "summary": "Authorities in Ukraine shut down 94 fraudulent call centers across the country that lured people into investment scams or tried to obtain access to bank accounts. [...]",
-    "created_at": "2026-08-13T21:30:58.349732+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/",
     "title": "Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks",
     "link": "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/",
