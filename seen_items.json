@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/",
-    "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals",
-    "link": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/",
-    "published": "Wed, 12 Aug 2026 19:07:23 -0400",
-    "source": "BleepingComputer",
-    "summary": "An ongoing data theft campaign uses custom tools to steal data exposed to anonymous users through Salesforce Experience Cloud and ServiceNow customer portals. [...]",
-    "created_at": "2026-08-12T23:31:14.760014+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=159251",
     "title": "Critical WordPress RCE Vulnerability Allows Authors to Execute Code via Malicious PNG File",
     "link": "https://cybersecuritynews.com/wordpress-imagick-rce-vulnerability/",
