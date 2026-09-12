@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
-    "title": "Critical VMware vCenter RCE flaw exploited for reverse SSH access",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
-    "published": "Thu, 13 Aug 2026 12:40:23 -0400",
-    "source": "BleepingComputer",
-    "summary": "A recently patched critical vulnerability (CVE-2026-59310) in VMware vCenter Syslog Server is being exploited in an active campaign to deploy a reverse SSH tool for persistence and remote access. [...]",
-    "created_at": "2026-08-13T17:01:27.053526+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/ai-watermark-removers-flood-the-web-almost-none-can-prove-they-work/",
     "title": "AI 'watermark removers' flood the web. Almost none can prove they work.",
     "link": "https://www.bleepingcomputer.com/news/security/ai-watermark-removers-flood-the-web-almost-none-can-prove-they-work/",
@@ -8809,5 +8800,14 @@
     "source": "CybersecurityNews",
     "summary": "Two security vulnerabilities in VLC Media Player could allow attackers to corrupt heap memory or disclose sensitive data from a victim’s memory. The flaws, tracked as CVE-2026-56711 and CVE-2026-73324, affect VLC Media Player versions 3.0.0 through 3",
     "created_at": "2026-09-12T15:01:35.707337+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
+    "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
+    "link": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
+    "published": "Sat, 12 Sep 2026 21:24:45 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports of ac",
+    "created_at": "2026-09-12T17:31:50.925121+00:00"
   }
 ]
