@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=159512",
-    "title": "Dysphoria Botnet Turns Compromised Routers and Cameras Into DDoS Bots and C2 Relay Nodes",
-    "link": "https://cybersecuritynews.com/dysphoria-botnet/",
-    "published": "Fri, 14 Aug 2026 12:19:37 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Dysphoria has turned a large number of everyday internet-connected devices into a potential attack network. The botnet is linked to roughly 296,000 compromised devices, placing routers, cameras, gateways, and other connected equipment at risk of bein",
-    "created_at": "2026-08-14T12:31:14.603597+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
     "title": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
     "link": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
