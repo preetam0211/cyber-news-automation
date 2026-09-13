@@ -1,50 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
-    "title": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
-    "published": "Fri, 14 Aug 2026 09:45:18 -0400",
-    "source": "BleepingComputer",
-    "summary": "A maximum-severity SAP Commerce Cloud remote code execution vulnerability patched three days ago is already being targeted in attacks, according to threat intelligence company Defused. [...]",
-    "created_at": "2026-08-14T14:04:21.140912+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159519",
-    "title": "AI Agents Don’t Stop When Malware Fails, They Write Another Tool and Keep Attacking",
-    "link": "https://cybersecuritynews.com/ai-agents/",
-    "published": "Fri, 14 Aug 2026 12:44:03 +0000",
-    "source": "CybersecurityNews",
-    "summary": "AI agents are changing the shape of cyberattacks. Instead of relying on a fixed piece of malware, an agent can test an approach, see it fail, write a replacement tool, and continue toward the same goal. Recent incidents show that this is no longer on",
-    "created_at": "2026-08-14T14:31:33.037852+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159468",
-    "title": "Citrix NetScaler Heap Overflow Flaw Lets Remote Attackers Execute Code as Root – PoC Released",
-    "link": "https://cybersecuritynews.com/citrix-netscaler-heap-overflow/",
-    "published": "Fri, 14 Aug 2026 13:32:45 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A working proof-of-concept (PoC) exploit demonstrating how a pre-authentication heap overflow in Citrix NetScaler ADC and NetScaler Gateway can be turned into unauthenticated root-level remote code execution (RCE). The vulnerability was originally ad",
-    "created_at": "2026-08-14T14:31:35.435786+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159497",
-    "title": "Bring Your Own EDR Attack Turns SentinelOne Into PPL-Protected Trojan Horse to Shield Malware",
-    "link": "https://cybersecuritynews.com/bring-your-own-edr-attack/",
-    "published": "Fri, 14 Aug 2026 13:36:51 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A “Bring Your Own EDR” attack abuses trusted SentinelOne components to turn endpoint protection into a powerful malware shield. The research was presented at DEF CON 34 in Las Vegas, and SentinelOne fixed the reported issue in Agent version 26.1.1. E",
-    "created_at": "2026-08-14T14:31:37.718944+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159453",
-    "title": "Multiple TP-Link Vulnerabilities Allow Attackers to Bypass Authentication and Escalate Privileges",
-    "link": "https://cybersecuritynews.com/multiple-tp-link-bypass-authentication-vulnerabilities/",
-    "published": "Fri, 14 Aug 2026 13:54:56 +0000",
-    "source": "CybersecurityNews",
-    "summary": "TP-Link has disclosed multiple high-severity vulnerabilities affecting ISP-managed Aginet networking products, including mesh systems, routers, PON devices, and xDSL modems. The flaws could allow attackers with network access to bypass authentication",
-    "created_at": "2026-08-14T14:31:40.038756+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
     "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
     "link": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
@@ -8611,5 +8566,14 @@
     "source": "The Hacker News",
     "summary": "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments.\n\nThe first ",
     "created_at": "2026-09-13T10:31:19.601555+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
+    "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
+    "published": "Sun, 13 Sep 2026 10:26:32 -0400",
+    "source": "BleepingComputer",
+    "summary": "Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent&#x27;s Sogou Input Method for Windows to deploy the GrayRabbit backdoor. [...]",
+    "created_at": "2026-09-13T14:31:45.368726+00:00"
   }
 ]
