@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=159393",
-    "title": "New DRAM Scrambling Attack Exposes CPU’s Most Protected Memory Zones",
-    "link": "https://cybersecuritynews.com/dram-scrambling-attack/",
-    "published": "Fri, 14 Aug 2026 03:26:34 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A new attack technique that manipulates a computer’s memory controller to bypass some of the strongest hardware security boundaries built into modern processors, including protections around System Management Mode, the Platform Security Processor, an",
-    "created_at": "2026-08-14T03:31:10.282862+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=158433",
     "title": "Top 10 Best Microsegmentation Tools in 2026",
     "link": "https://cybersecuritynews.com/best-microsegmentation-tools/",
