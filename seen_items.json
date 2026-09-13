@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=159413",
-    "title": "Download More RAM Attack Bypasses Windows VBS and Disables Defender Through Memory Aliasing",
-    "link": "https://cybersecuritynews.com/download-more-ram-attack/",
-    "published": "Fri, 14 Aug 2026 07:19:42 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A new attack dubbed “Download More RAM” can bypass Windows Virtualization-Based Security (VBS), weaken Hypervisor-Enforced Code Integrity (HVCI), and disable Microsoft Defender. Microsoft tracked the issue as CVE-2026-23670 and released mitigations i",
-    "created_at": "2026-08-14T07:31:26.746150+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=159416",
     "title": "Aeternum Botnet Uses Polygon Smart Contracts for Takedown-Resistant Malware C2",
     "link": "https://cybersecuritynews.com/aeternum-botnet-uses-polygon/",
