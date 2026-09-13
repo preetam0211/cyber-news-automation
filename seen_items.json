@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
-    "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
-    "link": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
-    "published": "Fri, 14 Aug 2026 10:00:10 -0400",
-    "source": "BleepingComputer",
-    "summary": "Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defenses that cover the entire Workspace attack chain",
-    "created_at": "2026-08-14T14:31:54.314055+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
     "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
