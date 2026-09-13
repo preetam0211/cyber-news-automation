@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=159456",
-    "title": "Hackers Using New BlackHat AI Tool MessiahGPT to Generate Ransomware and Phishing Kits",
-    "link": "https://cybersecuritynews.com/messiahgpt-ai-tool/",
-    "published": "Fri, 14 Aug 2026 08:48:15 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A newly surfaced criminal AI service called MessiahGPT is being openly marketed on BreachForums as a purpose-built offensive model that writes ransomware, phishing kits, stealers, crypters, and rootkits on demand, according to findings published by t",
-    "created_at": "2026-08-14T09:31:24.663034+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159455",
-    "title": "AI Token Jacking Lets Hackers Steal API Keys and Rack Up Nearly $1 Million in Charges",
-    "link": "https://cybersecuritynews.com/ai-token-jacking/",
-    "published": "Fri, 14 Aug 2026 09:05:35 +0000",
-    "source": "CybersecurityNews",
-    "summary": "AI credentials are drawing criminal attention. A growing form of abuse, called AI token jacking, lets intruders take API keys and consume expensive model services on someone else’s account. The result can be a sudden bill. The theft is not limited to",
-    "created_at": "2026-08-14T09:31:46.947913+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
     "title": "RingCentral data breach exposed info of 1.6 million accounts",
     "link": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
