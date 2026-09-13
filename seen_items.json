@@ -8656,5 +8656,14 @@
     "source": "CybersecurityNews",
     "summary": "Revolut has disclosed a data-security incident in which sensitive customer information was released after the financial technology company received a fraudulent request that appeared to originate from a legitimate government agency. The incident repo",
     "created_at": "2026-09-13T05:31:10.583080+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
+    "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
+    "link": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
+    "published": "Sun, 13 Sep 2026 15:41:48 +0530",
+    "source": "The Hacker News",
+    "summary": "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments.\n\nThe first ",
+    "created_at": "2026-09-13T10:31:19.601555+00:00"
   }
 ]
