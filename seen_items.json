@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
-    "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
-    "published": "Fri, 14 Aug 2026 10:59:55 -0400",
-    "source": "BleepingComputer",
-    "summary": "The Netherlands&#x27; National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged. [...]",
-    "created_at": "2026-08-14T15:01:02.585717+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=159535",
     "title": "VINclarity Publishes Investigation Into Alleged Scam and Fraud Reputation Attack Across Search and AI",
     "link": "https://cybersecuritynews.com/vinclarity-publishes-investigation-into-alleged-scam-and-fraud-reputation-attack-across-search-and-ai/",
@@ -8566,5 +8557,14 @@
     "source": "BleepingComputer",
     "summary": "Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent&#x27;s Sogou Input Method for Windows to deploy the GrayRabbit backdoor. [...]",
     "created_at": "2026-09-13T14:31:45.368726+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163022",
+    "title": "Critical Dell ObjectScale Vulnerabilities Allows Malicious Users to Compromise the Affected system",
+    "link": "https://cybersecuritynews.com/dell-objectscale-vulnerabilities/",
+    "published": "Sun, 13 Sep 2026 14:43:29 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Dell Technologies released a security advisory about multiple vulnerabilities affecting Dell ObjectScale and Elastic Cloud Storage (ECS) deployments. Including a critical remote code execution flaw that could let an unauthenticated attacker compromis",
+    "created_at": "2026-09-13T15:31:13.531432+00:00"
   }
 ]
