@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
-    "title": "RingCentral data breach exposed info of 1.6 million accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
-    "published": "Fri, 14 Aug 2026 06:52:05 -0400",
-    "source": "BleepingComputer",
-    "summary": "The ShinyHunters extortion group stole personal information from 1.6 million RingCentral accounts after hacking the company in July, according to the data breach notification service Have I Been Pwned. [...]",
-    "created_at": "2026-08-14T11:04:32.121835+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=159485",
     "title": "HACKERAI Malware Turns GitHub Gists Into a Command-and-Control Channel",
     "link": "https://cybersecuritynews.com/hackerai-malware/",
