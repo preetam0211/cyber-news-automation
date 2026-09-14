@@ -8539,5 +8539,14 @@
     "source": "CybersecurityNews",
     "summary": "Dell Technologies released a security advisory about multiple vulnerabilities affecting Dell ObjectScale and Elastic Cloud Storage (ECS) deployments. Including a critical remote code execution flaw that could let an unauthenticated attacker compromis",
     "created_at": "2026-09-13T15:31:13.531432+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163187",
+    "title": "Weekly Cybersecurity Newsletter Bulletin – Microsoft 0-day, FortiOS, PAN-OS Flaw, Revolut Data Breach, and 20+ Stories",
+    "link": "https://cybersecuritynews.com/cybersecurity-weekly-newsletter-bulletin-september/",
+    "published": "Mon, 14 Sep 2026 03:10:36 +0000",
+    "source": "CybersecurityNews",
+    "summary": "This week’s roundup covers a massive Microsoft Patch Tuesday with two exploited zero-days, active FortiGate exploitation, a critical PAN-OS root-level RCE flaw, the Revolut KYC data breach, and more than 20 other stories spanning AI-driven cyberattac",
+    "created_at": "2026-09-14T03:31:32.400809+00:00"
   }
 ]
