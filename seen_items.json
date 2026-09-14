@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=159549",
-    "title": "Shell Investigating Data Breach Following Cl0p Ransomware Group Claim",
-    "link": "https://cybersecuritynews.com/shell-investigating-data-breach/",
-    "published": "Sat, 15 Aug 2026 12:56:42 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Multinational energy giant Shell has launched an active investigation after the notorious Cl0p ransomware syndicate claimed responsibility for exfiltrating sensitive internal data. Security researchers and enterprise defenders are closely monitoring ",
-    "created_at": "2026-08-15T13:31:10.068655+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
     "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
     "link": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
@@ -8665,5 +8656,23 @@
     "source": "BleepingComputer",
     "summary": "Attackers can combine social engineering with malicious OAuth applications to gain access to Google Workspace data without relying solely on stolen passwords. This webinar examines two attacks to show how these breaches unfold and which security cont",
     "created_at": "2026-09-14T12:31:16.964642+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163243",
+    "title": "One Click on a Malicious Link Lets Hackers Backdoor Sogou Input Method Users",
+    "link": "https://cybersecuritynews.com/one-click-on-a-malicious-link/",
+    "published": "Mon, 14 Sep 2026 13:01:36 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A single click on a malicious link could have given attackers a direct path into Windows systems running Sogou Input Method. The flaw turned a commonly installed Chinese-language typing tool into an entry point for the GRAYRABBIT backdoor, exposing u",
+    "created_at": "2026-09-14T13:31:06.434677+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163250",
+    "title": "New ZcopyReaper Linux Kernel Vulnerability Enables Privilege Escalation Attacks",
+    "link": "https://cybersecuritynews.com/zcopyreaper-linux-kernel-vulnerability/",
+    "published": "Mon, 14 Sep 2026 13:29:59 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new Linux kernel vulnerability dubbed ZcopyReaper allows an unprivileged local attacker to escalate privileges and potentially gain root-level control. Tracked as CVE-2026-43502, the flaw was demonstrated through an exploit called ZcopyReaper by se",
+    "created_at": "2026-09-14T13:31:10.772949+00:00"
   }
 ]
