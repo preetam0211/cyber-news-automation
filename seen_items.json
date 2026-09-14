@@ -8719,5 +8719,32 @@
     "source": "CybersecurityNews",
     "summary": "A critical vulnerability in the AWS Systems Manager Agent could let authenticated attackers bypass remote-host port-forwarding restrictions and access sensitive link-local services, including the Amazon EC2 Instance Metadata Service. The flaw, tracke",
     "created_at": "2026-09-14T16:01:04.711669+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163277",
+    "title": "Microsoft Offers Up to $30,000 for Critical AI Flaws in Dynamics 365 and Power Platform",
+    "link": "https://cybersecuritynews.com/microsoft-ai-bug-bounty/",
+    "published": "Mon, 14 Sep 2026 16:11:38 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft is offering security researchers up to $30,000 for finding critical AI vulnerabilities in Dynamics 365 and Power Platform, sharpening its focus on flaws that could manipulate AI inference or expose information through model behavior. The pr",
+    "created_at": "2026-09-14T16:31:13.526545+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
+    "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
+    "published": "Mon, 14 Sep 2026 12:15:58 -0400",
+    "source": "BleepingComputer",
+    "summary": "A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments. [...]",
+    "created_at": "2026-09-14T16:31:15.992485+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163283",
+    "title": "Nintendo Switch Vulnerability Allows Attackers to Run Unauthorized Code on Your Console",
+    "link": "https://cybersecuritynews.com/nintendo-switch-code-execution-flaw/",
+    "published": "Mon, 14 Sep 2026 16:23:56 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Nintendo has patched a high-severity vulnerability in the original Nintendo Switch that could let a nearby attacker execute unauthorized code and access information stored on the console. Tracked as CVE-2026-82079, the flaw affects firmware earlier t",
+    "created_at": "2026-09-14T16:31:18.126181+00:00"
   }
 ]
