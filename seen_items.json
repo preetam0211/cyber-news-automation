@@ -8629,5 +8629,14 @@
     "source": "CybersecurityNews",
     "summary": "GitHub has awarded security researcher Saif Ghani a $100,000 bug bounty after the disclosure of CVE-2026-3854, a critical remote code execution vulnerability affecting GitHub’s Git push processing pipeline. The reward is reportedly the largest public",
     "created_at": "2026-09-14T09:01:39.707325+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/",
+    "title": "Microsoft: September updates cause RDS failures on Windows Server",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/",
+    "published": "Mon, 14 Sep 2026 05:50:25 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft has confirmed reports that the September 2026 security updates cause Remote Desktop Services (RDS) failures on Windows Server systems. [...]",
+    "created_at": "2026-09-14T10:01:49.516418+00:00"
   }
 ]
