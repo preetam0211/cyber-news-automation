@@ -8575,5 +8575,23 @@
     "source": "CybersecurityNews",
     "summary": "Hackers are using a familiar Windows automation tool to hide AsyncRAT, a remote-access trojan, inside a trusted system process. The campaign starts with a deceptive batch file named “Right-click to open Invoice Details.bat,” which can appear harmless",
     "created_at": "2026-09-14T08:01:25.313871+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
+    "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
+    "link": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
+    "published": "Mon, 14 Sep 2026 12:54:39 +0530",
+    "source": "The Hacker News",
+    "summary": "A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian commercial bot service.\n\nThe extension, named &quot;Twitch Enhanced Viewer | JeetBot,&quot; lists HISH",
+    "created_at": "2026-09-14T08:31:04.267168+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/",
+    "title": "Microsoft: September updates break audio on some Windows PCs",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/",
+    "published": "Mon, 14 Sep 2026 04:08:16 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft has confirmed that USB audio devices may fail on some Windows systems after installing the KB5124008and KB5124012 September 2026 security updates. [...]",
+    "created_at": "2026-09-14T08:31:34.472108+00:00"
   }
 ]
