@@ -8674,5 +8674,32 @@
     "source": "CybersecurityNews",
     "summary": "A new Linux kernel vulnerability dubbed ZcopyReaper allows an unprivileged local attacker to escalate privileges and potentially gain root-level control. Tracked as CVE-2026-43502, the flaw was demonstrated through an exploit called ZcopyReaper by se",
     "created_at": "2026-09-14T13:31:10.772949+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163255",
+    "title": "Cyclops Blink Evolves Into x86-64 Linux Implant With Packet Sniffing and Internal Network Scanning",
+    "link": "https://cybersecuritynews.com/cyclops-blink-evolves/",
+    "published": "Mon, 14 Sep 2026 13:33:25 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cyclops Blink has returned in a form that gives attackers a deeper view inside corporate networks. The malware was found on compromised Cisco Firewall Management Center devices, where it can maintain remote access, inspect traffic, and map systems be",
+    "created_at": "2026-09-14T14:01:51.133868+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163249",
+    "title": "WhatsApp’s New Restricted Chat Feature Locks Conversation on Your Primary Phone",
+    "link": "https://cybersecuritynews.com/whatsapps-new-restricted-chat-feature/",
+    "published": "Mon, 14 Sep 2026 13:40:09 +0000",
+    "source": "CybersecurityNews",
+    "summary": "WhatsApp is developing a new privacy control called Restricted Chat that will keep selected conversations accessible only from a user’s primary mobile phone. The feature is designed to prevent protected chats from syncing to WhatsApp Web, desktop ses",
+    "created_at": "2026-09-14T14:01:53.627680+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163258",
+    "title": "Malicious Twitch Extension Exposes OAuth Tokens of 30,000 Chrome and Firefox Users",
+    "link": "https://cybersecuritynews.com/malicious-twitch-extension/",
+    "published": "Mon, 14 Sep 2026 13:50:00 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A browser extension promoted as a Twitch viewing helper has been found sending live account tokens through servers controlled by its operator. The add-on, called “Twitch Enhanced Viewer | JeetBot,” was available to Chrome and Firefox users and advert",
+    "created_at": "2026-09-14T14:01:54.977658+00:00"
   }
 ]
