@@ -8701,5 +8701,14 @@
     "source": "BleepingComputer",
     "summary": "Patch automation can help IT teams keep pace with growing update volumes, but deploying faster also means bad updates can spread faster. Action1 explains how update rings, predefined success criteria, and human oversight can make automated patching f",
     "created_at": "2026-09-14T14:31:09.461968+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
+    "title": "⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
+    "link": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
+    "published": "Mon, 14 Sep 2026 20:10:34 +0530",
+    "source": "The Hacker News",
+    "summary": "AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That is not a great combination.\n\nThe rest of the week is more famili",
+    "created_at": "2026-09-14T15:30:56.969662+00:00"
   }
 ]
