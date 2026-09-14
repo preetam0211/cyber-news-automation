@@ -8755,5 +8755,32 @@
     "source": "CybersecurityNews",
     "summary": "Hackers are conducting a large-scale automated scanning campaign against internet-exposed Vite development servers, attempting to steal AWS credentials, Azure access tokens, environment variables, and Infrastructure-as-Code secrets. F5 honeypot senso",
     "created_at": "2026-09-14T17:01:36.339240+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
+    "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
+    "link": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
+    "published": "Mon, 14 Sep 2026 22:26:30 +0530",
+    "source": "The Hacker News",
+    "summary": "A Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign.\n\n&quot;Red Heron scanned 1",
+    "created_at": "2026-09-14T17:31:02.711859+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
+    "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
+    "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
+    "published": "Mon, 14 Sep 2026 22:28:42 +0530",
+    "source": "The Hacker News",
+    "summary": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server&#x27;s memory, so the processor keeps reading old encrypted data as if i",
+    "created_at": "2026-09-14T17:31:12.788291+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163308",
+    "title": "Hackers Exploit FortiGate SSL-VPN Vulnerability to Attack Broadband Provider",
+    "link": "https://cybersecuritynews.com/fortigate-ssl-vpn-vulnerability/",
+    "published": "Mon, 14 Sep 2026 17:08:51 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Researchers have uncovered an exposed attacker-controlled staging server containing evidence of a wide-ranging intrusion targeting 3BB, the consumer brand operated by Thailand’s Triple T Broadband. The investigation links the operation to the exploit",
+    "created_at": "2026-09-14T17:31:14.797191+00:00"
   }
 ]
