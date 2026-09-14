@@ -8638,5 +8638,23 @@
     "source": "BleepingComputer",
     "summary": "Microsoft has confirmed reports that the September 2026 security updates cause Remote Desktop Services (RDS) failures on Windows Server systems. [...]",
     "created_at": "2026-09-14T10:01:49.516418+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163240",
+    "title": "Microsoft Confirms Remote Desktop Services Might Stop Working Following Sept. 2026 Security Update",
+    "link": "https://cybersecuritynews.com/remote-desktop-services-stop-working/",
+    "published": "Mon, 14 Sep 2026 10:43:26 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has confirmed that its September 2026 Windows security updates can destabilize Remote Desktop Services (RDS), potentially disrupting remote administration across a broad range of enterprise endpoints and servers. Last week, Windows administ",
+    "created_at": "2026-09-14T11:01:11.813074+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163210",
+    "title": "Hackers Leverage Claude to Exfiltrate Secrets from 1.8M Android apps",
+    "link": "https://cybersecuritynews.com/hackers-leverage-claude-to-exfiltrate-secrets-android-apps/",
+    "published": "Mon, 14 Sep 2026 11:00:15 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cybercriminals linked to the ShinyHunters ecosystem used Claude to support a large-scale credential theft operation that downloaded, decompiled, and scanned 1.8 million Android applications for hardcoded secrets. The campaign shows how AI-assisted wo",
+    "created_at": "2026-09-14T11:01:24.473032+00:00"
   }
 ]
