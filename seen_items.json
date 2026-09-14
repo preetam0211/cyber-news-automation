@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
-    "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
-    "link": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
-    "published": "Sat, 15 Aug 2026 10:14:38 -0400",
-    "source": "BleepingComputer",
-    "summary": "A new Mirai-based modular Linux botnet malware called Evooo1Bot has been targeting internet-facing gateway devices, turning them into SOCKS5 traffic relay nodes. [...]",
-    "created_at": "2026-08-15T14:34:26.183243+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=159553",
     "title": "Hackers Started to Exploit Critical SAP Commerce Cloud, Still No Public PoC",
     "link": "https://cybersecuritynews.com/hackers-exploit-sap-commerce-cloud/",
