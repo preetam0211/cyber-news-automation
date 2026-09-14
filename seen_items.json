@@ -8593,5 +8593,41 @@
     "source": "BleepingComputer",
     "summary": "Microsoft has confirmed that USB audio devices may fail on some Windows systems after installing the KB5124008and KB5124012 September 2026 security updates. [...]",
     "created_at": "2026-09-14T08:31:34.472108+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163232",
+    "title": "Hackers Abuse YouTube Gaming Channels and SEO Poisoning to Deploy RATs and Chrome Hijacker",
+    "link": "https://cybersecuritynews.com/hackers-abuse-youtube-gaming/",
+    "published": "Mon, 14 Sep 2026 08:01:44 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are turning ordinary searches and gaming videos into malware traps. A long-running campaign used YouTube channels and search-engine manipulation to steer victims toward installers that looked like useful software, game tools or performance fi",
+    "created_at": "2026-09-14T09:01:17.805307+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163234",
+    "title": "Hackers Deploy Casbaneiro Banking Trojan That Activates When Victims Open Bank Websites",
+    "link": "https://cybersecuritynews.com/casbaneiro-banking-trojan/",
+    "published": "Mon, 14 Sep 2026 08:42:16 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Casbaneiro is targeting online banking users in Latin America through phishing messages that look like urgent invoices or legal notices. The campaign uses personalised PDF lures to push recipients toward a malicious download chain, putting email data",
+    "created_at": "2026-09-14T09:01:28.371865+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/",
+    "title": "Revolut discloses data breach exposing financial info, passports",
+    "link": "https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/",
+    "published": "Mon, 14 Sep 2026 04:48:24 -0400",
+    "source": "BleepingComputer",
+    "summary": "Fintech company Revolut has disclosed a data breach after sharing data from an undisclosed number of customers with a threat actor impersonating a government agency. [...]",
+    "created_at": "2026-09-14T09:01:35.151555+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163220",
+    "title": "GitHub Pays $100,000 Bounty for Critical RCE Flaw in Git Push Pipeline",
+    "link": "https://cybersecuritynews.com/github-pays-bounty-for-rce-flaw-in-git-push/",
+    "published": "Mon, 14 Sep 2026 08:50:25 +0000",
+    "source": "CybersecurityNews",
+    "summary": "GitHub has awarded security researcher Saif Ghani a $100,000 bug bounty after the disclosure of CVE-2026-3854, a critical remote code execution vulnerability affecting GitHub’s Git push processing pipeline. The reward is reportedly the largest public",
+    "created_at": "2026-09-14T09:01:39.707325+00:00"
   }
 ]
