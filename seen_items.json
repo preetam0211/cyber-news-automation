@@ -8791,5 +8791,32 @@
     "source": "BleepingComputer",
     "summary": "Hackers compromised HBO Max&#x27;s official Reddit account and used it to push malicious ads that launched ClickFix attacks to infect Windows and macOS devices with information-stealing malware. [...]",
     "created_at": "2026-09-14T19:02:18.205400+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
+    "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
+    "link": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
+    "published": "Mon, 14 Sep 2026 23:28:16 +0530",
+    "source": "The Hacker News",
+    "summary": "A flaw in Telegram Desktop let a bot&#x27;s message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a writeup published on September 12.\n\nIn Telegram, the message looked ordinary, with a",
+    "created_at": "2026-09-14T19:31:27.550516+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
+    "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
+    "link": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
+    "published": "Mon, 14 Sep 2026 23:31:49 +0530",
+    "source": "The Hacker News",
+    "summary": "An attacker was operating inside the network of 3BB, one of Thailand&#x27;s largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCentral, threat intelligence firm Hunt.io said.\n",
+    "created_at": "2026-09-14T19:31:54.597989+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
+    "title": "Twitch extension with 30K installs exposes users’ OAuth tokens",
+    "link": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
+    "published": "Mon, 14 Sep 2026 15:03:51 -0400",
+    "source": "BleepingComputer",
+    "summary": "A browser extension called Twitch Enhanced Viewer | JeetBot, available in the official Chrome and Firefox stores, sends users&#x27; Twitch OAuth session tokens to a commercial bot service. [...]",
+    "created_at": "2026-09-14T19:32:02.612717+00:00"
   }
 ]
