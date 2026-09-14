@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
-    "title": "How Anthropic plans to watermark Claude's AI-generated text",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
-    "published": "Fri, 14 Aug 2026 19:24:17 -0400",
-    "source": "BleepingComputer",
-    "summary": "It could soon become easier to identify AI-generated content, even if it&#x27;s not the usual &quot;It&#x27;s Not X, it&#x27;s Y&quot; type of post you&#x27;d come across on LinkedIn and other socials. [...]",
-    "created_at": "2026-08-14T23:31:07.240136+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=159508",
     "title": "Microsoft to Make Passkeys Default in Entra ID and Retires SMS and Voice Authentication",
     "link": "https://cybersecuritynews.com/microsoft-make-passkeys-default-in-entra-id/",
