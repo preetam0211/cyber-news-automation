@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=159508",
-    "title": "Microsoft to Make Passkeys Default in Entra ID and Retires SMS and Voice Authentication",
-    "link": "https://cybersecuritynews.com/microsoft-make-passkeys-default-in-entra-id/",
-    "published": "Sat, 15 Aug 2026 10:48:25 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Microsoft will make passkeys the default authentication experience in Microsoft Entra ID as part of a broader move away from phishing-prone sign-in methods. The company will also retire Microsoft-provided SMS and voice authentication for multifactor ",
-    "created_at": "2026-08-15T12:01:19.897339+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=159549",
     "title": "Shell Investigating Data Breach Following Cl0p Ransomware Group Claim",
     "link": "https://cybersecuritynews.com/shell-investigating-data-breach/",
@@ -8656,5 +8647,23 @@
     "source": "CybersecurityNews",
     "summary": "Cybercriminals linked to the ShinyHunters ecosystem used Claude to support a large-scale credential theft operation that downloaded, decompiled, and scanned 1.8 million Android applications for hardcoded secrets. The campaign shows how AI-assisted wo",
     "created_at": "2026-09-14T11:01:24.473032+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
+    "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
+    "link": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
+    "published": "Mon, 14 Sep 2026 17:28:00 +0530",
+    "source": "The Hacker News",
+    "summary": "There&#x27;s a lot of noise around AI and cybersecurity right now. What’s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and happening at a much greater scale, while defenders still have to w",
+    "created_at": "2026-09-14T12:31:14.905652+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
+    "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
+    "link": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
+    "published": "Mon, 14 Sep 2026 08:15:23 -0400",
+    "source": "BleepingComputer",
+    "summary": "Attackers can combine social engineering with malicious OAuth applications to gain access to Google Workspace data without relying solely on stolen passwords. This webinar examines two attacks to show how these breaches unfold and which security cont",
+    "created_at": "2026-09-14T12:31:16.964642+00:00"
   }
 ]
