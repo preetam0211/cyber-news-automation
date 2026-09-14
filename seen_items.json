@@ -8818,5 +8818,14 @@
     "source": "BleepingComputer",
     "summary": "A browser extension called Twitch Enhanced Viewer | JeetBot, available in the official Chrome and Firefox stores, sends users&#x27; Twitch OAuth session tokens to a commercial bot service. [...]",
     "created_at": "2026-09-14T19:32:02.612717+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
+    "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
+    "link": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
+    "published": "Mon, 14 Sep 2026 15:51:04 -0400",
+    "source": "BleepingComputer",
+    "summary": "Homebrew package manager version 7.0.0 has been released with a built-in vulnerability scanner, stronger security controls, and the full release of its native BrewUI graphical interface. [...]",
+    "created_at": "2026-09-14T20:01:11.507877+00:00"
   }
 ]
