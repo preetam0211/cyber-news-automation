@@ -9169,5 +9169,32 @@
     "source": "CybersecurityNews",
     "summary": "Microsoft has published a draft Humanist AI Code of Conduct that would prohibit its in-house MAI models from launching cyberattacks, supplying operational attack capabilities, or increasing their own privileges. The rules also require agents to remai",
     "created_at": "2026-09-15T15:31:11.086974+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
+    "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
+    "link": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
+    "published": "Tue, 15 Sep 2026 20:53:19 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communication channel to control Windows and Linux systems.\n\nThe emerging malware family, codenamed ",
+    "created_at": "2026-09-15T16:01:03.223321+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163406",
+    "title": "How to Keep Malware’s Rotating Infrastructure From Becoming a Detection Gap",
+    "link": "https://cybersecuritynews.com/how-to-keep-malwares-rotating-infrastructure-from-becoming-a-detection-gap/",
+    "published": "Tue, 15 Sep 2026 15:36:38 +0000",
+    "source": "CybersecurityNews",
+    "summary": "You can’t detect today’s attacks with yesterday’s threat intelligence; that’s how you could briefly formulate the challenge many modern SOCs face.  Indicators lose relevance quickly. New infrastructure appears daily. SOCs struggle to keep up.  This i",
+    "created_at": "2026-09-15T16:01:05.578800+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163455",
+    "title": "Apple Rolls Out Massive Security Update Fixing 273 Vulnerabilities Across Its Devices",
+    "link": "https://cybersecuritynews.com/apple-security-update-273-vulnerabilities/",
+    "published": "Tue, 15 Sep 2026 15:51:12 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Apple has released one of its largest coordinated security rollouts, addressing 273 distinct critical vulnerabilities across iPhone, iPad, Mac, Apple Watch, Apple TV, Vision Pro, Safari, and Xcode. The patches arrived on September 14, 2026, through i",
+    "created_at": "2026-09-15T16:01:07.659186+00:00"
   }
 ]
