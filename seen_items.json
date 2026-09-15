@@ -9052,5 +9052,59 @@
     "source": "CybersecurityNews",
     "summary": "Attackers are actively exploiting a critical flaw in a WooCommerce extension to seize control of WordPress sites without a username or password. The issue affects Wholesale Lead Capture and turns a routine file-upload feature into a direct path to se",
     "created_at": "2026-09-15T12:01:11.500890+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html",
+    "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
+    "link": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html",
+    "published": "Tue, 15 Sep 2026 16:42:32 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have disclosed details of a mass-scanning campaign that has targeted Vite deployments siphon sensitive data.\n\nThe first is an automated effort aimed at internet-exposed Vite development servers that&#x27;s designed to steal ",
+    "created_at": "2026-09-15T12:31:15.934166+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
+    "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
+    "link": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
+    "published": "Tue, 15 Sep 2026 16:56:36 +0530",
+    "source": "The Hacker News",
+    "summary": "Introduction\n\nSecurity teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the phishing simulation? Does this SIEM rule fire on this particular technique? And, in more ",
+    "created_at": "2026-09-15T12:31:17.025606+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
+    "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
+    "link": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
+    "published": "Tue, 15 Sep 2026 17:22:28 +0530",
+    "source": "The Hacker News",
+    "summary": "With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human operators can move just as swiftly after gainin",
+    "created_at": "2026-09-15T12:31:19.327679+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163405",
+    "title": "New Phishing Attacks Use Trusted Email Infrastructure and URL Cloaking to Bypass Security Tools",
+    "link": "https://cybersecuritynews.com/new-phishing-attacks/",
+    "published": "Tue, 15 Sep 2026 12:02:50 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Phishing is arriving via trusted email systems. Instead of using obvious malicious addresses, attackers send ordinary account alerts, invoices and renewal notices that lead victims into web-based traps. The approach moves danger into a click path tha",
+    "created_at": "2026-09-15T12:31:21.618808+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/",
+    "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/",
+    "published": "Tue, 15 Sep 2026 08:16:32 -0400",
+    "source": "BleepingComputer",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned security teams that ransomware gangs have now joined ongoing attacks exploiting a critical VMware vCenter vulnerability patched in July. [...]",
+    "created_at": "2026-09-15T12:31:23.009155+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163417",
+    "title": "Google’s New Search Redirects Make It Harder to Check Where Links Lead Before Clicking",
+    "link": "https://cybersecuritynews.com/googles-new-search/",
+    "published": "Tue, 15 Sep 2026 12:21:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Google is changing how some search-result links behave. Certain results now pass through an encoded Google redirect rather than opening the listed site, making a browser’s link preview less useful as a quick safety check. The change comes as maliciou",
+    "created_at": "2026-09-15T12:31:25.129463+00:00"
   }
 ]
