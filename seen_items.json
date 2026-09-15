@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=159580",
-    "title": "McDonald’s, Vodafone Hit by Azure Credential Theft Campaign Exposing Millions of Enterprise Records",
-    "link": "https://cybersecuritynews.com/azure-credential-theft-campaign/",
-    "published": "Sun, 16 Aug 2026 14:27:18 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A sprawling Azure data exfiltration campaign is unfolding across the dark web, with a threat actor systematically selling off internal employee directories stolen from some of the world’s largest corporations. The seller, operating under the alias “T",
-    "created_at": "2026-08-16T14:31:18.662025+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
     "title": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control",
     "link": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
@@ -9133,5 +9124,41 @@
     "source": "CybersecurityNews",
     "summary": "Homebrew has released version 7.0.0, introducing a native vulnerability scanner, a Homebrew-specific advisory database, stronger sandboxing, and faster package installation workflows. The release also ends support for macOS Catalina 10.15 and moves I",
     "created_at": "2026-09-15T14:31:09.217510+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163424",
+    "title": "Japan’s Digital Agency Breach Exposes 240,000+ Users’ Personal Records to Hackers",
+    "link": "https://cybersecuritynews.com/japan-digital-agency-data-breach/",
+    "published": "Tue, 15 Sep 2026 14:43:47 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Japan’s Digital Agency has confirmed a significant data breach affecting the Government Solution Service (GSS), a shared IT platform used across multiple ministries and government bodies, after attackers exploited a vulnerability in a VPN appliance t",
+    "created_at": "2026-09-15T15:01:00.747156+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/",
+    "title": "Hackers target WordPress sites via third-party WooCommerce plugin",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/",
+    "published": "Tue, 15 Sep 2026 10:45:10 -0400",
+    "source": "BleepingComputer",
+    "summary": "Hackers are actively exploiting a critical vulnerability in the WooCommerce Wholesale Lead Capture premium plugin for WordPress to upload a PHP backdoor. [...]",
+    "created_at": "2026-09-15T15:01:02.233958+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163404",
+    "title": "CISA Warns of Cisco Secure Email Gateway 0-Day Vulnerability Actively Exploited in Attacks",
+    "link": "https://cybersecuritynews.com/cisco-secure-email-gateway-0-day-vulnerability-exploited/",
+    "published": "Tue, 15 Sep 2026 14:46:21 +0000",
+    "source": "CybersecurityNews",
+    "summary": "CISA has added a critical Cisco Secure Email Gateway vulnerability to its Known Exploited Vulnerabilities catalog, warning that attackers are actively exploiting the flaw in real-world attacks. The issue, tracked as CVE-2026-76461, affects Cisco Asyn",
+    "created_at": "2026-09-15T15:01:02.370026+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163432",
+    "title": "Hackers Advertise Uncensored Luciferus AI Service on Underground Forums",
+    "link": "https://cybersecuritynews.com/hackers-advertise-luciferus-ai-service/",
+    "published": "Tue, 15 Sep 2026 14:59:59 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are advertising a new “uncensored” artificial intelligence service called Luciferus, positioning it as a subscription assistant willing to process malware-development requests that mainstream AI systems would reject. Sophos Counter Threat Uni",
+    "created_at": "2026-09-15T15:01:03.207169+00:00"
   }
 ]
