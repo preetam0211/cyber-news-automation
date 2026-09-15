@@ -8863,5 +8863,32 @@
     "source": "CybersecurityNews",
     "summary": "Cisco has issued an urgent warning regarding an actively exploited zero-day vulnerability in its Secure Email Gateway appliances that allows remote, unauthenticated attackers to execute arbitrary commands with highest-level root privileges. Tracked a",
     "created_at": "2026-09-15T04:31:25.815727+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html",
+    "title": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE",
+    "link": "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html",
+    "published": "Tue, 15 Sep 2026 11:01:05 +0530",
+    "source": "The Hacker News",
+    "summary": "A Chinese threat actor has been attributed to a spear-phishing campaign that exploits recently patched security flaws in Google Chrome and Microsoft Windows to deliver a malicious JavaScript backdoor called GRIMWEDGE.\n\nVolexity, which is tracking the",
+    "created_at": "2026-09-15T06:31:28.502212+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html",
+    "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
+    "link": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html",
+    "published": "Tue, 15 Sep 2026 11:41:11 +0530",
+    "source": "The Hacker News",
+    "summary": "Cisco has warned that a new critical vulnerability impacting AsyncOS Software for Cisco Secure Email Gateway has come under active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-76461, carries a CVSS score of 9.8 out of a maximum o",
+    "created_at": "2026-09-15T06:31:38.649802+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161360",
+    "title": "Top 10 Best Cloud Access Security Broker (CASB) Solutions in 2026",
+    "link": "https://cybersecuritynews.com/best-casb-solutions/",
+    "published": "Tue, 15 Sep 2026 06:24:54 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Bottom line up front: almost nobody buys a standalone CASB anymore it’s a function of a secure web gateway/SSE platform, and increasingly overlaps with SSPM for SaaS posture. Netskope leads on depth, Microsoft Defender for Cloud Apps on Microsoft-est",
+    "created_at": "2026-09-15T06:31:44.425560+00:00"
   }
 ]
