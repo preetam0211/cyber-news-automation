@@ -8962,5 +8962,14 @@
     "source": "CybersecurityNews",
     "summary": "Windows attackers are turning a built-in recovery feature into a tool for disruption. By abusing Volume Shadow Copy Service, intruders can copy protected data, access the Active Directory database, and erase recovery copies after ransomware. The tech",
     "created_at": "2026-09-15T08:32:00.868226+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/",
+    "title": "Microsoft confirms KB5002914 Excel update breaks copy and paste",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/",
+    "published": "Tue, 15 Sep 2026 04:40:20 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft has confirmed that copy and paste may silently fail for some Excel users after installing the September 2026 KB5002914 security update. [...]",
+    "created_at": "2026-09-15T09:01:04.536281+00:00"
   }
 ]
