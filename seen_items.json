@@ -9205,5 +9205,14 @@
     "source": "The Hacker News",
     "summary": "Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN.\n\nElastic Security Labs is tracking the activity under the moniker REF9334. Active since at least May 20",
     "created_at": "2026-09-15T19:01:37.662588+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
+    "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
+    "link": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
+    "published": "Tue, 15 Sep 2026 16:34:15 -0400",
+    "source": "BleepingComputer",
+    "summary": "Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer&#x27;s website and pushed updates that created a hidden user account. [...]",
+    "created_at": "2026-09-15T21:01:16.524290+00:00"
   }
 ]
