@@ -8935,5 +8935,14 @@
     "source": "CybersecurityNews",
     "summary": "Hackers have used a trusted Reddit identity to turn advertisements into a malware delivery channel. A compromised, verified HBO Max account, u/hbomax, published 108 malicious ClickFix ads over 48 hours, sending people toward fake software pages. The ",
     "created_at": "2026-09-15T07:32:56.991242+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/",
+    "title": "Cisco patches Secure Email Gateway zero-day exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/",
+    "published": "Tue, 15 Sep 2026 03:31:09 -0400",
+    "source": "BleepingComputer",
+    "summary": "Cisco warned customers to patch a critical Secure Email Gateway zero-day security flaw that threat actors have been exploiting in attacks. [...]",
+    "created_at": "2026-09-15T08:01:32.877612+00:00"
   }
 ]
