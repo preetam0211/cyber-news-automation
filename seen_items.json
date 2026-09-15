@@ -9115,5 +9115,23 @@
     "source": "BleepingComputer",
     "summary": "AI is shrinking the time between vulnerability disclosure and exploitation, leaving defenders less time to wait for patches or public exploits. Picus Security explains how exploitability validation, security control testing, and autonomous pentesting",
     "created_at": "2026-09-15T14:01:13.100357+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163401",
+    "title": "cPanel LiteSpeed Web Server Vulnerability Allows Shared Server Users to Gain Root-Level Access",
+    "link": "https://cybersecuritynews.com/cpanel-litespeed-web-server-vulnerability/",
+    "published": "Tue, 15 Sep 2026 13:52:07 +0000",
+    "source": "CybersecurityNews",
+    "summary": "cPanel has issued an urgent security advisory warning that a critical vulnerability in LiteSpeed Web Server Enterprise could allow a low-privileged shared-hosting user to gain root-level access to an affected server. Administrators are urged to upgra",
+    "created_at": "2026-09-15T14:31:07.244907+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163391",
+    "title": "Homebrew 7.0.0 Adds Built-In Vulnerability Scanner and Stronger Package Sandboxing",
+    "link": "https://cybersecuritynews.com/homebrew-7-0-0-adds-vulnerability-scanner/",
+    "published": "Tue, 15 Sep 2026 13:55:02 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Homebrew has released version 7.0.0, introducing a native vulnerability scanner, a Homebrew-specific advisory database, stronger sandboxing, and faster package installation workflows. The release also ends support for macOS Catalina 10.15 and moves I",
+    "created_at": "2026-09-15T14:31:09.217510+00:00"
   }
 ]
