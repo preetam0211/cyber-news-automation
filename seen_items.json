@@ -8944,5 +8944,23 @@
     "source": "BleepingComputer",
     "summary": "Cisco warned customers to patch a critical Secure Email Gateway zero-day security flaw that threat actors have been exploiting in attacks. [...]",
     "created_at": "2026-09-15T08:01:32.877612+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
+    "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
+    "link": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
+    "published": "Tue, 15 Sep 2026 12:22:16 +0530",
+    "source": "The Hacker News",
+    "summary": "A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an advisory published on September 14.\n\nOn such servers, many customers&#x27; sites run o",
+    "created_at": "2026-09-15T08:31:30.869169+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163348",
+    "title": "Hackers Abuse VSSAdmin to Extract NTDS.dit and Delete Windows Recovery Copies",
+    "link": "https://cybersecuritynews.com/hackers-abuse-vssadmin/",
+    "published": "Tue, 15 Sep 2026 08:29:37 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Windows attackers are turning a built-in recovery feature into a tool for disruption. By abusing Volume Shadow Copy Service, intruders can copy protected data, access the Active Directory database, and erase recovery copies after ransomware. The tech",
+    "created_at": "2026-09-15T08:32:00.868226+00:00"
   }
 ]
