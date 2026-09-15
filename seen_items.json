@@ -8845,5 +8845,14 @@
     "source": "BleepingComputer",
     "summary": "Microsoft has released emergency out-of-band Windows updates to fix Remote Desktop Services failures caused by this month&#x27;s security updates, along with Hyper-V and USB audio problems on some Windows versions. [...]",
     "created_at": "2026-09-14T21:01:15.448446+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163327",
+    "title": "Revolut Data Breach Via Fake Government Requests – What We Know So Far",
+    "link": "https://cybersecuritynews.com/fintech-revolut-data-breach/",
+    "published": "Tue, 15 Sep 2026 03:46:35 +0000",
+    "source": "CybersecurityNews",
+    "summary": "British fintech Revolut has confirmed a data breach in which an unauthorized third party obtained sensitive customer records by submitting fraudulent information requests through an email address using a legitimate government agency’s domain. Unlike ",
+    "created_at": "2026-09-15T04:01:20.284238+00:00"
   }
 ]
