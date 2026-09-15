@@ -9106,5 +9106,14 @@
     "source": "CybersecurityNews",
     "summary": "Google is changing how some search-result links behave. Certain results now pass through an encoded Google redirect rather than opening the listed site, making a browser’s link preview less useful as a quick safety check. The change comes as maliciou",
     "created_at": "2026-09-15T12:31:25.129463+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/",
+    "title": "What Zero-Day Response Should Be in the Post-Mythos Era",
+    "link": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/",
+    "published": "Tue, 15 Sep 2026 09:45:54 -0400",
+    "source": "BleepingComputer",
+    "summary": "AI is shrinking the time between vulnerability disclosure and exploitation, leaving defenders less time to wait for patches or public exploits. Picus Security explains how exploitability validation, security control testing, and autonomous pentesting",
+    "created_at": "2026-09-15T14:01:13.100357+00:00"
   }
 ]
