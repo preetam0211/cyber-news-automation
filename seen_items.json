@@ -9043,5 +9043,14 @@
     "source": "CybersecurityNews",
     "summary": "Two critical vulnerabilities in The Events Calendar WordPress plugin could allow unauthenticated attackers to take over vulnerable websites. The flaws affect more than 600,000 active installations. They can lead to remote code execution, administrato",
     "created_at": "2026-09-15T10:31:15.281255+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163393",
+    "title": "Hackers Exploit WooCommerce Plugin Bug to Take Over WordPress Sites Without Login",
+    "link": "https://cybersecuritynews.com/hackers-exploit-woocommerce-plugin/",
+    "published": "Tue, 15 Sep 2026 11:41:56 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Attackers are actively exploiting a critical flaw in a WooCommerce extension to seize control of WordPress sites without a username or password. The issue affects Wholesale Lead Capture and turns a routine file-upload feature into a direct path to se",
+    "created_at": "2026-09-15T12:01:11.500890+00:00"
   }
 ]
