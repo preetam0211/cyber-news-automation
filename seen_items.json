@@ -9196,5 +9196,14 @@
     "source": "The Hacker News",
     "summary": "Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran&#x27;s intelligence service uses to spy on dissidents, journalists, and activists around the world.\n\nThe malware i",
     "created_at": "2026-09-15T18:00:59.739462+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
+    "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
+    "link": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
+    "published": "Wed, 16 Sep 2026 00:24:14 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN.\n\nElastic Security Labs is tracking the activity under the moniker REF9334. Active since at least May 20",
+    "created_at": "2026-09-15T19:01:37.662588+00:00"
   }
 ]
