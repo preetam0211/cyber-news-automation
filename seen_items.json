@@ -9196,5 +9196,68 @@
     "source": "CybersecurityNews",
     "summary": "DSPM finds sensitive data you didn’t know you had, classifies it, maps who can reach it, and flags exposure answering “where is our sensitive data, and who can get to it.” Wiz leads on the graph, Cyera and BigID on classification depth, and no cloud-",
     "created_at": "2026-09-16T07:32:01.008720+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161851",
+    "title": "Top 10 Best SaaS Security Posture Management (SSPM) Tools in 2026",
+    "link": "https://cybersecuritynews.com/best-sspm-tools/",
+    "published": "Wed, 16 Sep 2026 07:35:42 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Your SaaS estate M365, Salesforce, Workday, Slack, hundreds of others is a sprawl of misconfigurations, over-permissioned OAuth grants, and shadow apps nobody sanctioned. SSPM continuously checks SaaS configuration, monitors SaaS identity and third-p",
+    "created_at": "2026-09-16T08:31:29.536716+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162056",
+    "title": "Top 10 Best Cloud Detection & Response (CDR) Solutions in 2026",
+    "link": "https://cybersecuritynews.com/best-cloud-detection-response-solutions/",
+    "published": "Wed, 16 Sep 2026 07:41:12 +0000",
+    "source": "CybersecurityNews",
+    "summary": "CDR is the runtime, real-time half of cloud security: while CSPM tells you what’s misconfigured, CDR tells you what’s happening right now an attacker using stolen cloud credentials, a workload behaving maliciously, an identity escalating privileges. ",
+    "created_at": "2026-09-16T08:32:02.671367+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163512",
+    "title": "Microsoft Releases Emergency Windows 11 Update Following Patch Tuesday Bugs",
+    "link": "https://cybersecuritynews.com/emergency-windows-11-update/",
+    "published": "Wed, 16 Sep 2026 07:45:47 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has pushed out an emergency, out-of-band Windows 11 update after its September Patch Tuesday release triggered a wave of stability failures across enterprise and consumer machines. The rushed fix, KB5129195, arrives less than a week after o",
+    "created_at": "2026-09-16T08:32:26.723660+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163501",
+    "title": "Acronis Plugin Vulnerability in cPanel and Plesk Exploited in the Wild",
+    "link": "https://cybersecuritynews.com/acronis-plugin-vulnerability-exploited/",
+    "published": "Wed, 16 Sep 2026 08:01:49 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Acronis has released security updates for its Backup plugin for cPanel &amp; WHM and Backup extension for Plesk after detecting limited, targeted exploitation of a high-severity local privilege-escalation vulnerability in the wild. Tracked as CVE-202",
+    "created_at": "2026-09-16T08:32:52.982551+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163498",
+    "title": "Public PoC Released for Apache Superset SQL Injection Vulnerability",
+    "link": "https://cybersecuritynews.com/poc-apache-superset-sql-injection/",
+    "published": "Wed, 16 Sep 2026 08:04:33 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A public proof-of-concept exploit has been released for CVE-2026-23980, a SQL injection vulnerability affecting Apache Superset versions before 6.0.0. The flaw could allow authenticated users with read-level access to trigger error-based SQL injectio",
+    "created_at": "2026-09-16T08:33:02.193970+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163509",
+    "title": "KREMLIN Banking Malware Infects Over 1,500 Systems With Malicious Chrome Extension",
+    "link": "https://cybersecuritynews.com/kremlin-banking-malware/",
+    "published": "Wed, 16 Sep 2026 08:12:32 +0000",
+    "source": "CybersecurityNews",
+    "summary": "KREMLIN is a banking malware operation that plants a hostile browser extension on infected computers. The extension can harvest passwords, session cookies, and other data that can let criminals enter online accounts. The campaign begins with fake Jav",
+    "created_at": "2026-09-16T08:33:06.623668+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163528",
+    "title": "Iranian Hackers Use Fake MRI Results to Infect Victims With CHOSEN BRICK Spyware",
+    "link": "https://cybersecuritynews.com/fake-mri-results/",
+    "published": "Wed, 16 Sep 2026 08:31:15 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Iranian state-linked hackers are using fake MRI scan results to infect selected people with CHOSEN BRICK, a Windows spyware family built for long-term surveillance. The campaign has targeted individuals in the United Kingdom, United States and Nether",
+    "created_at": "2026-09-16T08:33:50.358430+00:00"
   }
 ]
