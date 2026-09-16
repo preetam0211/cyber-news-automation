@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
-    "title": "Microsoft working on Defender patch for ShieldBreak zero-day",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
-    "published": "Mon, 17 Aug 2026 05:05:33 -0400",
-    "source": "BleepingComputer",
-    "summary": "Microsoft is working on a security patch for the &quot;ShieldBreak&quot; zero-day vulnerability disclosed last week by security researcher &quot;Nightmare Eclipse&quot; and now tracked as CVE-2026-69414. [...]",
-    "created_at": "2026-08-17T09:34:46.885788+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
     "title": "French tax authority data breach affects 678,000 individuals",
     "link": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
@@ -9241,5 +9232,41 @@
     "source": "BleepingComputer",
     "summary": "Microsoft has reminded customers that Windows Server 2022 will reach the end of mainstream support next month and enter extended support until October 2031. [...]",
     "created_at": "2026-09-16T09:31:02.256705+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163506",
+    "title": "Parallels Desktop Vulnerability Lets Non-Admin Mac Users Execute Code as Root",
+    "link": "https://cybersecuritynews.com/parallels-desktop-vulnerability/",
+    "published": "Wed, 16 Sep 2026 09:24:31 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical local privilege escalation vulnerability in Parallels Desktop for Mac could allow a non-administrator user or unprivileged process to execute attacker-controlled code with root privileges. Tracked as CVE-2026-90894 and called “ParaShells,”",
+    "created_at": "2026-09-16T10:01:36.346274+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163525",
+    "title": "Android 0-day Vulnerability on Google Pixel Devices Actively Exploited in Attacks",
+    "link": "https://cybersecuritynews.com/android-pixel-zero-day/",
+    "published": "Wed, 16 Sep 2026 09:40:35 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Google has confirmed that a high-severity Android zero-day flaw affecting its Pixel smartphones is being actively exploited in the wild, and it has shipped emergency patches as part of the September 2026 Pixel Update Bulletin. Tracked as CVE-2026-587",
+    "created_at": "2026-09-16T10:01:37.684833+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162086",
+    "title": "Top 10 Best Multi-Cloud Security Platforms in 2026",
+    "link": "https://cybersecuritynews.com/best-multi-cloud-security-platforms/",
+    "published": "Wed, 16 Sep 2026 09:50:56 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Multi-cloud is the reality AWS and Azure and GCP, often plus Oracle and on-prem and each models identity, networking, and services differently. A dedicated multi-cloud security platform normalizes these discrepancies, delivering one unified policy fr",
+    "created_at": "2026-09-16T10:01:37.792767+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=162175",
+    "title": "Top 10 Best AWS Security Tools in 2026",
+    "link": "https://cybersecuritynews.com/best-aws-security-tools/",
+    "published": "Wed, 16 Sep 2026 09:57:37 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Quick Answer: Start with AWS-native tools GuardDuty, Security Hub, and free IAM Access Analyzer then add a third-party platform for correlation and multicloud parity: Wiz for attack-path analysis, Prisma Cloud for breadth, CrowdStrike for runtime, Or",
+    "created_at": "2026-09-16T10:01:45.212433+00:00"
   }
 ]
