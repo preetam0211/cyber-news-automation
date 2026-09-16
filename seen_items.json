@@ -9214,5 +9214,23 @@
     "source": "CybersecurityNews",
     "summary": "GhostCode is a newly identified phishing kit that turns a normal Microsoft 365 sign-in into an account takeover. It does not need to steal a password. Instead, it persuades people to approve a login that gives criminals access to their work account. ",
     "created_at": "2026-09-16T15:01:09.047535+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163570",
+    "title": "Critical WSO2 Vulnerability Allow Hackers to Gain Full Admin Access",
+    "link": "https://cybersecuritynews.com/critical-wso2-vulnerability/",
+    "published": "Wed, 16 Sep 2026 15:05:48 +0000",
+    "source": "CybersecurityNews",
+    "summary": "WSO2 has disclosed a critical authentication bypass vulnerability that could allow remote attackers to take over accounts, including administrative accounts, in affected API management products. Tracked as CVE-2026-5430, the flaw has received a CVSS ",
+    "created_at": "2026-09-16T15:31:11.610048+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163606",
+    "title": "German Manufacturer Shrinks Security Alert Response While Protecting 10,000 Endpoints",
+    "link": "https://cybersecuritynews.com/german-manufacturer-security-alerts/",
+    "published": "Wed, 16 Sep 2026 15:12:24 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A five-person security team at an unnamed German manufacturer has cut a reported 15 minutes from each alert investigation after replacing an air-gapped forensic laptop with ANY.RUN’s cloud-managed Interactive Sandbox. The team protects approximately ",
+    "created_at": "2026-09-16T15:31:14.011916+00:00"
   }
 ]
