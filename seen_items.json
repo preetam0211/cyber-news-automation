@@ -9241,5 +9241,32 @@
     "source": "CybersecurityNews",
     "summary": "CenterPoint Energy disclosed a data breach after an unauthorized third party obtained personal information from some of its customers through an internet-facing company system. The Houston-based utility company revealed the incident in a Form 8-K fil",
     "created_at": "2026-09-16T16:01:06.632360+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
+    "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
+    "link": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
+    "published": "Wed, 16 Sep 2026 20:06:44 +0530",
+    "source": "The Hacker News",
+    "summary": "Security researchers at Forever Security have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based products: Gemini Live in Chrome, Perplexity Comet, Microsoft Edge, Opera Neon and the Claud",
+    "created_at": "2026-09-16T16:31:05.874036+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
+    "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
+    "link": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
+    "published": "Wed, 16 Sep 2026 20:57:49 +0530",
+    "source": "The Hacker News",
+    "summary": "Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky.\n\nThe cybersecurity vendor said it has identified attacks mounted by N",
+    "created_at": "2026-09-16T16:31:08.027837+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
+    "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
+    "link": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
+    "published": "Wed, 16 Sep 2026 21:20:59 +0530",
+    "source": "The Hacker News",
+    "summary": "A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation.\n\nThe vulnerability in question is CVE-2026-89026 (CVSS v3.1 score: 9.8/CVSS v4.0 score: ",
+    "created_at": "2026-09-16T16:31:10.178820+00:00"
   }
 ]
