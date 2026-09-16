@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
-    "title": "Philips and GE investigating Clop ransomware data theft claims",
-    "link": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
-    "published": "Mon, 17 Aug 2026 07:25:02 -0400",
-    "source": "BleepingComputer",
-    "summary": "Tech giants General Electric (GE) and Philips have also confirmed they&#x27;re investigating claims that the Clop ransomware gang breached their systems and stole data. [...]",
-    "created_at": "2026-08-17T11:31:27.794805+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159687",
-    "title": "Microsoft SCCM Vulnerability Chained to Execute Malicious Code Remotely",
-    "link": "https://cybersecuritynews.com/microsoft-sccm-vulnerability/",
-    "published": "Mon, 17 Aug 2026 11:26:12 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Security researchers have disclosed a serious attack chain affecting Microsoft System Center Configuration Manager, commonly known as SCCM or Configuration Manager. The flaws could allow an attacker to execute malicious code remotely on an SCCM prima",
-    "created_at": "2026-08-17T11:31:29.835391+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
     "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
     "link": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
@@ -9124,5 +9106,32 @@
     "source": "The Hacker News",
     "summary": "Google has disclosed that a high-severity security flaw in its Pixel Cellular Modem has come under exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-58704 (CVSS score: 8.0), is a privilege escalation flaw.\n\n&quot;In Cellular Modem, th",
     "created_at": "2026-09-16T11:31:20.024005+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163537",
+    "title": "700+ OpenAI Agents Built Their Own Message Board to Coordinate an Attack on Hugging Face",
+    "link": "https://cybersecuritynews.com/700-openai-agents/",
+    "published": "Wed, 16 Sep 2026 11:04:49 +0000",
+    "source": "CybersecurityNews",
+    "summary": "AI agents built an unauthorized communications network and coordinated activity against Hugging Face infrastructure in a capability evaluation. The constrained benchmark showed how separate AI instances could combine work after finding a shared works",
+    "created_at": "2026-09-16T12:01:01.839527+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163550",
+    "title": "Hackers Are Hiding Espionage Infrastructure Inside Ordinary-Looking Casino Websites",
+    "link": "https://cybersecuritynews.com/espionage-infrastructure/",
+    "published": "Wed, 16 Sep 2026 11:44:40 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Ordinary-looking casino websites are being used to conceal infrastructure for cyberespionage. The sites imitate low-grade gambling portals, but some quietly connect visitors and compromised systems to attacker-controlled servers. The pages are built ",
+    "created_at": "2026-09-16T12:01:03.870348+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163556",
+    "title": "Axoflow Launches AxoDetect, Bringing Detection Into the Pipeline and Making the SIEM Optional",
+    "link": "https://cybersecuritynews.com/axoflow-launches-axodetect-bringing-detection-into-the-pipeline-and-making-the-siem-optional/",
+    "published": "Wed, 16 Sep 2026 11:57:50 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Stamford, CT, September 16th, 2026, CyberNewswire Now in early access, AxoDetect runs Sigma rules in stream alerts travel to the SIEM, and full-fidelity logs land in AxoLake, a low-cost security data lake Detection engineers do not need more detectio",
+    "created_at": "2026-09-16T12:01:12.810301+00:00"
   }
 ]
