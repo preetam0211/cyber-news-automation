@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=159718",
-    "title": "OpenMatter Network to Take Verification Message to Belgrade Blockchain Week 2026",
-    "link": "https://cybersecuritynews.com/openmatter-network-belgrade-blockchain-week-2026/",
-    "published": "Mon, 17 Aug 2026 16:48:56 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Melbourne, Florida, August 17th, 2026, CyberNewswire Head of Operations and Partnerships Chris Biele to lead sessions on secure scientific collaboration, agentic AI and the need to move from trust to cryptographic proof Continuing its effort to build",
-    "created_at": "2026-08-17T17:01:37.703605+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
     "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
     "link": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
@@ -9268,5 +9259,23 @@
     "source": "The Hacker News",
     "summary": "A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation.\n\nThe vulnerability in question is CVE-2026-89026 (CVSS v3.1 score: 9.8/CVSS v4.0 score: ",
     "created_at": "2026-09-16T16:31:10.178820+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163641",
+    "title": "Check Point Vulnerability Lets Remote Hackers Gain Root Access Without Authentication",
+    "link": "https://cybersecuritynews.com/check-point-root-access-flaw/",
+    "published": "Wed, 16 Sep 2026 17:14:35 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Check Point has released an urgent security fix for CVE-2026-91843, a critical stack-based buffer overflow that could let an unauthenticated remote attacker execute arbitrary code with root privileges on vulnerable security management and logging sys",
+    "created_at": "2026-09-16T17:31:10.272326+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/spain-reports-first-alleged-ai-powered-data-theft-attack/",
+    "title": "Spain reports first alleged AI-powered data theft attack",
+    "link": "https://www.bleepingcomputer.com/news/security/spain-reports-first-alleged-ai-powered-data-theft-attack/",
+    "published": "Wed, 16 Sep 2026 13:26:41 -0400",
+    "source": "BleepingComputer",
+    "summary": "The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). [...]",
+    "created_at": "2026-09-16T17:31:12.397913+00:00"
   }
 ]
