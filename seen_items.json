@@ -9259,5 +9259,14 @@
     "source": "BleepingComputer",
     "summary": "Government agencies are warning that Iranian state-linked hackers are using a Windows malware strain named CHOSEN BRICK to target dissidents, activists, and journalists worldwide. [...]",
     "created_at": "2026-09-16T20:31:32.206508+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/",
+    "title": "Windows 11 KB5124008 update breaks domain trust for some users",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/",
+    "published": "Wed, 16 Sep 2026 16:39:29 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft is investigating reports that the Windows 11 KB5124008 security update is breaking domain trust relationships on some enterprise systems, preventing users from logging in with valid domain credentials. [...]",
+    "created_at": "2026-09-16T21:01:15.207638+00:00"
   }
 ]
