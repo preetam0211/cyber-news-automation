@@ -9133,5 +9133,32 @@
     "source": "CybersecurityNews",
     "summary": "Stamford, CT, September 16th, 2026, CyberNewswire Now in early access, AxoDetect runs Sigma rules in stream alerts travel to the SIEM, and full-fidelity logs land in AxoLake, a low-cost security data lake Detection engineers do not need more detectio",
     "created_at": "2026-09-16T12:01:12.810301+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/",
+    "title": "Webinar: What happens in the first hours of a Google Workspace breach",
+    "link": "https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/",
+    "published": "Wed, 16 Sep 2026 08:11:19 -0400",
+    "source": "BleepingComputer",
+    "summary": "The first hours after discovering a Google Workspace breach can determine how an incident unfolds. This webinar examines real-world breaches to show which early response decisions can limit the impact and which can make matters worse. [...]",
+    "created_at": "2026-09-16T12:31:04.158820+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/",
+    "title": "Microsoft says Copilot buttons still missing in classic Outlook",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/",
+    "published": "Wed, 16 Sep 2026 08:16:32 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft says it&#x27;s still investigating a known issue that causes the Copilot and Copilot Chat buttons in Classic Outlook to disappear for some Windows users. [...]",
+    "created_at": "2026-09-16T12:31:06.285853+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163571",
+    "title": "PAPERMILL Hackers Abuse Signed Notepad++ to Deploy VenomRAT in Tax Audit Attacks",
+    "link": "https://cybersecuritynews.com/papermill-hackers/",
+    "published": "Wed, 16 Sep 2026 12:23:45 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A phishing campaign using a fake tax-audit notice is deploying VenomRAT through a signed copy of Notepad++. The operation, tracked as PAPERMILL, uses an email and a disk-image attachment to make a dangerous file look routine. The attachment arrives w",
+    "created_at": "2026-09-16T12:31:08.354858+00:00"
   }
 ]
