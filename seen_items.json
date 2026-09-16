@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=159635",
-    "title": "ChainDrop npm Worm Poisons 444 Packages Through GitHub Actions and Trusted Publishing",
-    "link": "https://cybersecuritynews.com/chaindrop-npm-worm/",
-    "published": "Mon, 17 Aug 2026 06:32:48 +0000",
-    "source": "CybersecurityNews",
-    "summary": "ChainDrop has made an npm package compromise a warning about developer machines. The self-propagating campaign poisoned 444 packages and more than 1,300 malicious releases after attackers took over the GitHub account tied to the Keyv caching library.",
-    "created_at": "2026-08-17T07:31:56.594739+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=159645",
     "title": "Evooo1Bot Linux Botnet Uses 16 DDoS Methods and SOCKS5 Proxies to Hijack Edge Devices",
     "link": "https://cybersecuritynews.com/evooo1bot-linux-botnet/",
@@ -9214,5 +9205,23 @@
     "source": "BleepingComputer",
     "summary": "Google has released the September 2026 security patches to address 110 vulnerabilities affecting its Pixel devices, including one zero-day flaw actively exploited in targeted attacks. [...]",
     "created_at": "2026-09-16T07:01:54.898361+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163502",
+    "title": "OpenAI Agent Swarm Linked to 3,022 Malicious RubyGems Packages in GemStuffer Campaign",
+    "link": "https://cybersecuritynews.com/openai-agent-swarm/",
+    "published": "Wed, 16 Sep 2026 07:19:07 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Open-source packages are meant to save developers time. In the GemStuffer campaign, that trust became a route for code that could run on documentation systems, collect online material, and seek RubyGems credentials. The expanded inventory shows an op",
+    "created_at": "2026-09-16T07:31:39.383412+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=161756",
+    "title": "Top 10 Best Data Security Posture Management (DSPM) Tools in 2026",
+    "link": "https://cybersecuritynews.com/best-dspm-tools/",
+    "published": "Wed, 16 Sep 2026 07:29:59 +0000",
+    "source": "CybersecurityNews",
+    "summary": "DSPM finds sensitive data you didn’t know you had, classifies it, maps who can reach it, and flags exposure answering “where is our sensitive data, and who can get to it.” Wiz leads on the graph, Cyera and BigID on classification depth, and no cloud-",
+    "created_at": "2026-09-16T07:32:01.008720+00:00"
   }
 ]
