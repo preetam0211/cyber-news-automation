@@ -9205,5 +9205,14 @@
     "source": "BleepingComputer",
     "summary": "Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild. [...]",
     "created_at": "2026-09-15T22:01:12.357584+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163482",
+    "title": "Google Chrome 153 Update Fixes 42 Security Flaws, Including 3 Critical Ones",
+    "link": "https://cybersecuritynews.com/google-chrome-fixes-42-flaws/",
+    "published": "Wed, 16 Sep 2026 03:01:19 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Google has released an important Chrome 153 security update that fixes 42 vulnerabilities across the browser, including three bugs rated Critical. The Stable channel is moving to 153.0.8010.47/.48 for Windows and macOS and 153.0.8010.47 for Linux, wi",
+    "created_at": "2026-09-16T03:31:35.911991+00:00"
   }
 ]
