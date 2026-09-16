@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=159645",
-    "title": "Evooo1Bot Linux Botnet Uses 16 DDoS Methods and SOCKS5 Proxies to Hijack Edge Devices",
-    "link": "https://cybersecuritynews.com/evooo1bot-linux-botnet/",
-    "published": "Mon, 17 Aug 2026 06:49:16 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A newly tracked Linux botnet is turning exposed edge devices into tools for disruption, remote access, and traffic relaying. Evooo1Bot is the threat that reaches internet-facing edge systems by exploiting known flaws and attempting weak SSH logins. I",
-    "created_at": "2026-08-17T07:32:35.029138+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159648",
-    "title": "Fake Web3 Interview Uses Signed ClickOnce to Deploy NeedleStealer and hVNC RAT",
-    "link": "https://cybersecuritynews.com/fake-web3-interview/",
-    "published": "Mon, 17 Aug 2026 07:03:02 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Fake job interviews are again being used to breach cryptocurrency teams. In a documented case, a convincing Web3 recruitment process led a Windows user to install malware that stole private keys, browser data, and other sensitive information. The ope",
-    "created_at": "2026-08-17T07:33:23.954369+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159632",
-    "title": "New MessiahGPT AI Model Fueling Automated Ransomware and Phishing Attacks",
-    "link": "https://cybersecuritynews.com/messiahgpt-fueling-ransomware-phishing-attacks/",
-    "published": "Mon, 17 Aug 2026 07:28:32 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A criminal AI service called MessiahGPT is being marketed on BreachForums as an uncensored platform for creating ransomware, phishing kits, stealers, crypters, rootkits, and social-engineering content. Trellix researchers describe it as part of a gro",
-    "created_at": "2026-08-17T07:33:43.255064+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=159617",
     "title": "Z.ai Unveils GLM-5.3 with Major Enhancements for Coding and Cybersecurity",
     "link": "https://cybersecuritynews.com/glm-5-3-major-enhancements/",
