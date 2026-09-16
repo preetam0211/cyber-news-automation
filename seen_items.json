@@ -9169,5 +9169,32 @@
     "source": "CybersecurityNews",
     "summary": "A new SMS phishing campaign turns a routine payment check into a live fraud session. Victims who tap a link reach convincing pages seeking card details, passwords, and one-time passcodes, while criminals see information as it is entered. The operatio",
     "created_at": "2026-09-16T14:01:27.108400+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html",
+    "title": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix",
+    "link": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html",
+    "published": "Wed, 16 Sep 2026 18:44:05 +0530",
+    "source": "The Hacker News",
+    "summary": "Parallels Desktop for Mac has a flaw that lets an ordinary local account run code as root, the highest level of access on a Mac, software company JFrog said this week.\n\nThe attack needs code already running on the machine as a normal user, so it does",
+    "created_at": "2026-09-16T14:31:01.454211+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
+    "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
+    "link": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
+    "published": "Wed, 16 Sep 2026 19:07:07 +0530",
+    "source": "The Hacker News",
+    "summary": "Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread Shai-Hulud across about 100 internal code repositories.\n\nBefore the repository spread, the assistant recommended so",
+    "created_at": "2026-09-16T14:31:02.348348+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
+    "title": "The true cost of a ransomware attack, with and without BCDR",
+    "link": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
+    "published": "Wed, 16 Sep 2026 10:00:10 -0400",
+    "source": "BleepingComputer",
+    "summary": "The ransom itself can be only a fraction of the total cost of a ransomware attack, with downtime, recovery, remediation, and legal obligations adding millions to the bill. Datto explains how a mature BCDR strategy can reduce downtime and provide a fa",
+    "created_at": "2026-09-16T14:31:05.918999+00:00"
   }
 ]
