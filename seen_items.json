@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
-    "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
-    "published": "Mon, 17 Aug 2026 08:33:11 -0400",
-    "source": "BleepingComputer",
-    "summary": "Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...]",
-    "created_at": "2026-08-17T13:01:37.814515+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=158520",
-    "title": "Top 10 Best Software-Defined Perimeter (SDP) Solutions in 2026",
-    "link": "https://cybersecuritynews.com/best-software-defined-perimeter-solutions/",
-    "published": "Mon, 17 Aug 2026 13:27:28 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A software-defined perimeter makes your infrastructure invisible: resources accept no unauthenticated connections, so attackers cannot scan, probe, or exploit what they cannot see. Zscaler leads at enterprise scale, Appgate remains the purest SDP imp",
-    "created_at": "2026-08-17T13:31:07.052766+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
     "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
     "link": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
@@ -9142,5 +9124,50 @@
     "source": "The Hacker News",
     "summary": "N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication flows. Successful attacks can give threat actors access to valid accounts without relying on",
     "created_at": "2026-09-16T13:01:10.961987+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163562",
+    "title": "Oracle Critical Security Update – 673 Vulnerabilities Patched Across Product Families",
+    "link": "https://cybersecuritynews.com/oracle-security-update-673-vulnerabilities/",
+    "published": "Wed, 16 Sep 2026 13:03:04 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Oracle has released one of its largest monthly security bundles to date, shipping 673 new security patches in its September 2026 Critical Security Patch Update (CSPU) to close serious flaws spanning its enterprise software portfolio. The advisory, pu",
+    "created_at": "2026-09-16T13:31:12.584924+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163553",
+    "title": "Critical Issabel PBX Command Execution Vulnerability Exploited in the Wild",
+    "link": "https://cybersecuritynews.com/issabel-pbx-command-execution-vulnerability/",
+    "published": "Wed, 16 Sep 2026 13:12:32 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical vulnerability in the Issabel Framework, which supports Issabel PBX deployments, is being actively exploited in the wild. The flaw, tracked as CVE-2026-89026, allows unauthenticated remote attackers to execute OS commands on vulnerable PBX ",
+    "created_at": "2026-09-16T13:31:22.282359+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163535",
+    "title": "Critical HPE Vulnerabilities Allow Remote Attackers to Achieve Complete System Compromise",
+    "link": "https://cybersecuritynews.com/critical-hpe-vulnerabilities/",
+    "published": "Wed, 16 Sep 2026 13:14:24 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hewlett Packard Enterprise has released security updates for HPE Networking EdgeConnect SD-WAN Gateways and SD-WAN Orchestrator after identifying dozens of vulnerabilities, including critical flaws that could let remote attackers take full control of",
+    "created_at": "2026-09-16T13:31:24.415906+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163518",
+    "title": "Apache Syncope Vulnerabilities Allow Attackers to Execute Malicious Code and Bypass Controls",
+    "link": "https://cybersecuritynews.com/apache-syncope-vulnerabilities/",
+    "published": "Wed, 16 Sep 2026 13:21:37 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Apache Syncope has disclosed three important security vulnerabilities that could allow authorized administrators to execute malicious SQL commands, bypass Groovy sandbox protections, and impersonate higher-privileged users. The issues affect several ",
+    "created_at": "2026-09-16T13:31:32.035992+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163596",
+    "title": "TP-Link Cameras 0-Day Vulnerabilities Allow Attackers to Spy on Users",
+    "link": "https://cybersecuritynews.com/tp-link-cameras-0-day-vulnerabilities/",
+    "published": "Wed, 16 Sep 2026 13:27:04 +0000",
+    "source": "CybersecurityNews",
+    "summary": "TP-Link Tapo C200 smart cameras were affected by two zero-day vulnerabilities that could allow attackers on the same network to bypass authentication or disrupt camera services. The flaws, tracked as CVE-2026-15315 and CVE-2026-15316, were fixed in f",
+    "created_at": "2026-09-16T13:31:34.311138+00:00"
   }
 ]
