@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
-    "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
-    "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
-    "published": "Mon, 17 Aug 2026 10:00:10 -0400",
-    "source": "BleepingComputer",
-    "summary": "CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity infrastructure it has always been. [...",
-    "created_at": "2026-08-17T14:34:18.576692+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
-    "title": "Microsoft confirms GitHub is down worldwide",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
-    "published": "Mon, 17 Aug 2026 10:47:08 -0400",
-    "source": "BleepingComputer",
-    "summary": "GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. [...]",
-    "created_at": "2026-08-17T15:00:59.267686+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=159727",
     "title": "GitHub Outage Disrupts Developers Worldwide Amid Ongoing Investigation",
     "link": "https://cybersecuritynews.com/github-outage-worldwide/",
@@ -9196,5 +9178,41 @@
     "source": "BleepingComputer",
     "summary": "The ransom itself can be only a fraction of the total cost of a ransomware attack, with downtime, recovery, remediation, and legal obligations adding millions to the bill. Datto explains how a mature BCDR strategy can reduce downtime and provide a fa",
     "created_at": "2026-09-16T14:31:05.918999+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163577",
+    "title": "Hackers Use Cross-Platform Noodle RAT to Secretly Control Windows and Linux Systems",
+    "link": "https://cybersecuritynews.com/cross-platform-noodle-rat/",
+    "published": "Wed, 16 Sep 2026 14:03:51 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Noodle RAT is a remote-access trojan that gives attackers control of compromised computers and servers. Its renewed visibility matters because it runs on both Windows and Linux, allowing one malware family to follow victims across corporate networks.",
+    "created_at": "2026-09-16T15:01:02.779418+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163611",
+    "title": "Hackers Can Rent VectraRAT for $250 a Month to Take Control of Windows PCs",
+    "link": "https://cybersecuritynews.com/hackers-can-rent-vectrarat/",
+    "published": "Wed, 16 Sep 2026 14:36:15 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers can now rent a Windows-focused remote access tool called VectraRAT for $250 a month, lowering the barrier to deep and persistent compromise. The malware gives paying operators a way to watch victims, steal data, run commands, and move traffic",
+    "created_at": "2026-09-16T15:01:04.854356+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163614",
+    "title": "Microsoft 365 Hit by New Outage as Users Report Widespread 502 and 503 Errors",
+    "link": "https://cybersecuritynews.com/microsoft-365-hit-by-new-outage/",
+    "published": "Wed, 16 Sep 2026 14:37:38 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has confirmed a fresh service degradation affecting its Microsoft 365 suite, with users worldwide reporting an inability to access core applications since the evening of September 16, 2026. The incident, tracked internally as MO1472904, beg",
+    "created_at": "2026-09-16T15:01:06.892897+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163615",
+    "title": "GhostCode Phishing Kit Bypasses Microsoft 365 MFA to Hijack Accounts in 78 Seconds",
+    "link": "https://cybersecuritynews.com/ghostcode-phishing-kit/",
+    "published": "Wed, 16 Sep 2026 14:54:18 +0000",
+    "source": "CybersecurityNews",
+    "summary": "GhostCode is a newly identified phishing kit that turns a normal Microsoft 365 sign-in into an account takeover. It does not need to steal a password. Instead, it persuades people to approve a login that gives criminals access to their work account. ",
+    "created_at": "2026-09-16T15:01:09.047535+00:00"
   }
 ]
