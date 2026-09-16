@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
-    "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
-    "link": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
-    "published": "Mon, 17 Aug 2026 18:53:51 +0530",
-    "source": "The Hacker News",
-    "summary": "The expensive attacks are not always the clever ones.\n\nThis week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading farther than the original comprom",
-    "created_at": "2026-08-17T14:00:59.327094+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
     "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
     "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
@@ -9169,5 +9160,14 @@
     "source": "CybersecurityNews",
     "summary": "TP-Link Tapo C200 smart cameras were affected by two zero-day vulnerabilities that could allow attackers on the same network to bypass authentication or disrupt camera services. The flaws, tracked as CVE-2026-15315 and CVE-2026-15316, were fixed in f",
     "created_at": "2026-09-16T13:31:34.311138+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163593",
+    "title": "Smishing Hackers Can Watch Every Keystroke as Victims Enter Card Details and OTPs",
+    "link": "https://cybersecuritynews.com/smishing-hackers/",
+    "published": "Wed, 16 Sep 2026 13:39:36 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new SMS phishing campaign turns a routine payment check into a live fraud session. Victims who tap a link reach convincing pages seeking card details, passwords, and one-time passcodes, while criminals see information as it is entered. The operatio",
+    "created_at": "2026-09-16T14:01:27.108400+00:00"
   }
 ]
