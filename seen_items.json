@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=159617",
-    "title": "Z.ai Unveils GLM-5.3 with Major Enhancements for Coding and Cybersecurity",
-    "link": "https://cybersecuritynews.com/glm-5-3-major-enhancements/",
-    "published": "Mon, 17 Aug 2026 08:35:01 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Z.ai has released GLM-5.3, a new AI model built to handle complex coding, long-running agent tasks, and cybersecurity analysis. The company says the model uses the same base model as GLM-5.2, with improvements coming entirely from larger-scale post-t",
-    "created_at": "2026-08-17T09:01:36.539173+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159663",
-    "title": "GeoServer’s Unauthenticated SQL injection Vulnerability Enables RCE Attacks",
-    "link": "https://cybersecuritynews.com/geoservers-unauthenticated-sql-injection-vulnerability/",
-    "published": "Mon, 17 Aug 2026 08:36:08 +0000",
-    "source": "CybersecurityNews",
-    "summary": "GeoServer administrators should urgently update affected systems after researchers disclosed an unauthenticated SQL injection flaw in the jsonArrayContains filter function. The issue can allow attackers to manipulate database queries via publicly acc",
-    "created_at": "2026-08-17T09:01:47.318764+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159662",
-    "title": "HoneyMyte CoolClient Backdoor Uses Signed Kernel Rootkit to Hide Processes, Files and C2 Traffic",
-    "link": "https://cybersecuritynews.com/honeymyte-coolclient-backdoor/",
-    "published": "Mon, 17 Aug 2026 08:55:57 +0000",
-    "source": "CybersecurityNews",
-    "summary": "HoneyMyte has upgraded its CoolClient backdoor with a kernel-level rootkit for Windows. The change makes routine investigation much harder for defenders. It gives intruders tools designed to survive ordinary security checks. The activity targeted org",
-    "created_at": "2026-08-17T09:02:18.692238+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
     "title": "Microsoft working on Defender patch for ShieldBreak zero-day",
     "link": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
@@ -9259,5 +9232,14 @@
     "source": "CybersecurityNews",
     "summary": "Iranian state-linked hackers are using fake MRI scan results to infect selected people with CHOSEN BRICK, a Windows spyware family built for long-term surveillance. The campaign has targeted individuals in the United Kingdom, United States and Nether",
     "created_at": "2026-09-16T08:33:50.358430+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/",
+    "title": "Windows Server 2022 reaches end of mainstream support next month",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/",
+    "published": "Wed, 16 Sep 2026 05:10:20 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft has reminded customers that Windows Server 2022 will reach the end of mainstream support next month and enter extended support until October 2031. [...]",
+    "created_at": "2026-09-16T09:31:02.256705+00:00"
   }
 ]
