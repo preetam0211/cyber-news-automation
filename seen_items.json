@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
-    "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
-    "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
-    "published": "Tue, 18 Aug 2026 02:33:04 +0530",
-    "source": "The Hacker News",
-    "summary": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker to remotely modify or delete pu",
-    "created_at": "2026-08-17T21:31:22.342487+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=159742",
     "title": "Pokémon Center Confirms Data Breach – Hackers Stole Customers’ Personal Data",
     "link": "https://cybersecuritynews.com/pokemon-center-confirms-data-breach/",
