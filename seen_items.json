@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/",
-    "title": "Clop created custom web shell for Windchill data theft attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/",
-    "published": "Tue, 18 Aug 2026 13:29:51 -0400",
-    "source": "BleepingComputer",
-    "summary": "A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal files. [...]",
-    "created_at": "2026-08-18T17:31:01.797192+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=159904",
     "title": "Hackers Hijack Thousands of WordPress Sites to Use as C2 Servers for StopAndProtect Malware",
     "link": "https://cybersecuritynews.com/wordpress-sites-stopandprotect-malware/",
@@ -9268,5 +9259,14 @@
     "source": "CybersecurityNews",
     "summary": "The FBI has seized domains supporting NightmareStresser, disrupting one of the world’s longest-running DDoS-for-hire operations. The court-authorized action targets a service that allegedly enabled paying customers to overwhelm online services with m",
     "created_at": "2026-09-17T16:01:12.095088+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
+    "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
+    "link": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
+    "published": "Thu, 17 Sep 2026 13:11:34 -0400",
+    "source": "BleepingComputer",
+    "summary": "Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware. [...]",
+    "created_at": "2026-09-17T17:31:10.899494+00:00"
   }
 ]
