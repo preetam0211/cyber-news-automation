@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/",
-    "title": "CISA: Windows Task Host flaw now exploited by ransomware gangs",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/",
-    "published": "Tue, 18 Aug 2026 06:32:16 -0400",
-    "source": "BleepingComputer",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a high-severity Windows Task Host vulnerability that was flagged as actively exploited in April. [...]",
-    "created_at": "2026-08-18T11:01:24.522474+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159800",
-    "title": "Shadow hVNC Gives Attackers Remote Desktop Control Without Moving the Victim’s Mouse",
-    "link": "https://cybersecuritynews.com/shadow-hvnc-gives-attackers/",
-    "published": "Tue, 18 Aug 2026 10:55:12 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Shadow hVNC is a remote access tool built to operate where victims cannot see it. Instead of taking over the visible desktop, it can create a separate Windows workspace and give criminals a live view of activity inside it. The malware steals browser ",
-    "created_at": "2026-08-18T11:01:26.790836+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159795",
-    "title": "CISA Warns of Ray-Project Ray Code Injection Vulnerability Exploited in Attacks",
-    "link": "https://cybersecuritynews.com/ray-project-ray-code-injection/",
-    "published": "Tue, 18 Aug 2026 11:06:28 +0000",
-    "source": "CybersecurityNews",
-    "summary": "CISA has added a critical Ray-Project Ray vulnerability, tracked as CVE-2025-62593, to its Known Exploited Vulnerabilities catalog after confirming exploitation in the wild. The flaw can allow remote code execution on systems where vulnerable Ray dev",
-    "created_at": "2026-08-18T11:31:14.516787+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/",
-    "title": "Microsoft tests faster Windows File Explorer, new context menu",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/",
-    "published": "Tue, 18 Aug 2026 07:14:28 -0400",
-    "source": "BleepingComputer",
-    "summary": "Microsoft has started testing a faster File Explorer and a less cluttered and more customizable context menu in Windows 11 preview builds rolling out to Insiders this week. [...]",
-    "created_at": "2026-08-18T11:31:15.598670+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html",
     "title": "One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025",
     "link": "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html",
@@ -9250,5 +9214,59 @@
     "source": "CybersecurityNews",
     "summary": "BlackHatSect0r &amp;&amp; DXQRTXX has been linked to an automated cybercrime operation that used an AI agent connected to a DeepSeek model to scan for exposed secrets, test stolen access, and feed results into a custom control platform. The activity ",
     "created_at": "2026-09-17T10:01:39.679701+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163687",
+    "title": "APT36 Uses USB-Spreading Malware to Reach Air-Gapped Government Networks",
+    "link": "https://cybersecuritynews.com/apt36-uses-usb/",
+    "published": "Thu, 17 Sep 2026 10:17:21 +0000",
+    "source": "CybersecurityNews",
+    "summary": "APT36, a Pakistan-linked threat group, has launched a campaign that uses infected removable drives to carry malware into disconnected government environments. The operation, called RapidRust, targets India and Afghanistan with a backdoor, file steale",
+    "created_at": "2026-09-17T11:31:15.410845+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163688",
+    "title": "AWS Says Some Cloud Data Cannot Be Recovered After Data Centers Suffer War Damage",
+    "link": "https://cybersecuritynews.com/aws-cloud-data-war-damage/",
+    "published": "Thu, 17 Sep 2026 10:52:33 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Amazon Web Services has confirmed that some customer data hosted in its war-damaged Middle East data centers is permanently unrecoverable, marking what appears to be the first time military action has caused irreversible data loss at a global cloud p",
+    "created_at": "2026-09-17T11:31:30.614575+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163691",
+    "title": "One Compromised Kubernetes Node Can Expose Every Workload Identity Running on It",
+    "link": "https://cybersecuritynews.com/kubernetes-node/",
+    "published": "Thu, 17 Sep 2026 11:02:59 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A Kubernetes node becomes an identity breach point when an attacker gains root access. Research shows a hostile process can impersonate other workloads and obtain their credentials, turning one foothold into wider access across a shared node. The iss",
+    "created_at": "2026-09-17T11:31:38.657640+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163676",
+    "title": "Cisco Warns of Critical ISE 0-Day Vulnerability Exploited in Attacks",
+    "link": "https://cybersecuritynews.com/cisco-warns-of-critical-ise-0-day-vulnerability-exploited/",
+    "published": "Thu, 17 Sep 2026 11:10:16 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cisco has issued an urgent security advisory for a critical zero-day vulnerability in Cisco Identity Services Engine (ISE) and Cisco ISE Passive Identity Connector (ISE-PIC). The flaw, tracked as CVE-2026-76460, is already being actively exploited, a",
+    "created_at": "2026-09-17T11:31:40.021890+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163649",
+    "title": "Critical Docker Sandbox Vulnerabilities Enable Malicious Guests to Escape Isolated microVM Workspaces",
+    "link": "https://cybersecuritynews.com/critical-docker-sandboxes-vulnerabilities/",
+    "published": "Thu, 17 Sep 2026 11:15:48 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Docker patched two serious vulnerabilities in Docker Sandboxes that could let a malicious guest workload break out of its intended shared workspace and access sensitive host-side resources. The flaws, tracked as CVE-2026-77179 and CVE-2026-79994, wer",
+    "created_at": "2026-09-17T11:31:41.078939+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163695",
+    "title": "FamousSparrow Exploits Public-Facing Exchange Servers to Deploy SparroWocky Backdoor",
+    "link": "https://cybersecuritynews.com/famoussparrow-exploits/",
+    "published": "Thu, 17 Sep 2026 11:20:03 +0000",
+    "source": "CybersecurityNews",
+    "summary": "FamousSparrow has introduced a new backdoor called SparroWocky after breaking into public-facing Microsoft Exchange servers. The campaign shows how a known espionage group can turn an exposed email system into a quiet, long-term entry point inside a ",
+    "created_at": "2026-09-17T11:31:43.241125+00:00"
   }
 ]
