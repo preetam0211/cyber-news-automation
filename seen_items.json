@@ -9295,5 +9295,14 @@
     "source": "CybersecurityNews",
     "summary": "Internet Systems Consortium has released security updates for BIND 9 after identifying 14 vulnerabilities that could allow attackers to poison DNS caches, crash exposed servers remotely, exhaust resources, or bypass DNSSEC protections. Administrators",
     "created_at": "2026-09-17T15:01:03.271199+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163762",
+    "title": "FBI Takes Down NightmareStresser DDoS Service Used in Hundreds of Thousands of Attacks",
+    "link": "https://cybersecuritynews.com/nightmarestresser-ddos-service/",
+    "published": "Thu, 17 Sep 2026 15:48:58 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The FBI has seized domains supporting NightmareStresser, disrupting one of the world’s longest-running DDoS-for-hire operations. The court-authorized action targets a service that allegedly enabled paying customers to overwhelm online services with m",
+    "created_at": "2026-09-17T16:01:12.095088+00:00"
   }
 ]
