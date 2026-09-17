@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=159761",
-    "title": "VMware Syslog Path Traversal Becomes Root RCE, Persistent SSH Access and ESXi Ransomware",
-    "link": "https://cybersecuritynews.com/vmware-syslog-path-traversal/",
-    "published": "Tue, 18 Aug 2026 08:02:41 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A fast-moving campaign is turning a VMware vCenter flaw into a route to full control of virtual infrastructure. Attackers are abusing CVE-2026-59310, a critical path traversal bug in the Syslog Server, to run commands as root without a normal login. ",
-    "created_at": "2026-08-18T08:31:56.297606+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/",
-    "title": "Microsoft starts removing WMIC tool used by cybercriminals",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/",
-    "published": "Tue, 18 Aug 2026 04:12:08 -0400",
-    "source": "BleepingComputer",
-    "summary": "Microsoft announced that it removed the Windows Management Instrumentation Command-line (WMIC) tool from Windows 11 24H2 and 25H2, as well as from Windows 11 beta builds released this week. [...]",
-    "created_at": "2026-08-18T08:32:48.276980+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=159792",
     "title": "Critical WordPress Plugin Vulnerability Exposes 600,000 Sites to File Upload Attacks",
     "link": "https://cybersecuritynews.com/wordpress-forminator-plugin-vulnerability/",
@@ -9232,5 +9214,50 @@
     "source": "BleepingComputer",
     "summary": "Microsoft shared a temporary fix on Wednesday for a known issue that prevents Windows 11 users from logging in with valid domain credentials after installing the September 2026 security updates. [...]",
     "created_at": "2026-09-17T08:31:08.338542+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163654",
+    "title": "NightEagle Hackers Abuse Microsoft Dev Tunnels and GhostContainer to Breach Russian Companies",
+    "link": "https://cybersecuritynews.com/nighteagle-hackers/",
+    "published": "Thu, 17 Sep 2026 07:55:49 +0000",
+    "source": "CybersecurityNews",
+    "summary": "NightEagle, also tracked as APT-Q-95, has expanded its operations against Russian businesses with a campaign built around stolen VPN credentials, a Microsoft Exchange backdoor, and covert remote-access routes. The activity shows how an intruder can t",
+    "created_at": "2026-09-17T09:01:06.850227+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163112",
+    "title": "Top 10 Best Microsoft Azure Security Tools in 2026",
+    "link": "https://cybersecuritynews.com/best-azure-security-tools/",
+    "published": "Thu, 17 Sep 2026 08:31:31 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Quick Answer: Microsoft Defender for Cloud with its free foundational tier and published per-resource plans is the anchor for every Azure estate. Add Wiz or Orca for agentless attack-path correlation, Prisma Cloud for multicloud breadth, CrowdStrike ",
+    "created_at": "2026-09-17T09:01:08.328744+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163144",
+    "title": "Top 10 Best Google Cloud (GCP) Security Tools in 2026",
+    "link": "https://cybersecuritynews.com/best-gcp-security-tools/",
+    "published": "Thu, 17 Sep 2026 08:37:13 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Quick Answer: Google Security Command Center (Standard tier included) is every GCP project’s floor; Wiz leads agentless attack-path correlation; Sysdig leads GKE runtime; Prisma Cloud leads multicloud breadth; Fortinet (Lacework) brings behavioral an",
+    "created_at": "2026-09-17T09:01:08.633434+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163666",
+    "title": "New Android Malware Steals Banking PINs and Reinstalls Itself After Users Delete It",
+    "link": "https://cybersecuritynews.com/new-android-malware/",
+    "published": "Thu, 17 Sep 2026 08:55:37 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly tracked Android malware called RatHat is targeting banking customers with fake screens, stolen verification codes and persistent phone access. The threat can capture PINs, passwords and unlock patterns, raising the risk of account takeovers a",
+    "created_at": "2026-09-17T09:01:09.834949+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/",
+    "title": "Chinese hackers use SparroWocky malware in govt espionage attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/",
+    "published": "Thu, 17 Sep 2026 05:00:00 -0400",
+    "source": "BleepingComputer",
+    "summary": "The China-linked espionage group FamousSparrow has been using a new backdoor named SparroWocky in attacks on government organizations in Latin America. [...]",
+    "created_at": "2026-09-17T09:01:12.077087+00:00"
   }
 ]
