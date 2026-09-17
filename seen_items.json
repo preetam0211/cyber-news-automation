@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=21750",
-    "title": "10 Best Dark Web Monitoring Tools in 2026",
-    "link": "https://cybersecuritynews.com/dark-web-monitoring-tools/",
-    "published": "Tue, 18 Aug 2026 12:02:09 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Dark web monitoring involves tracking activities on the hidden internet, accessible only via specialized software and configurations. This shadowy realm hosts illicit markets for stolen data, illegal drugs, weapons, hacking services, and other crimin",
-    "created_at": "2026-08-18T12:31:10.336931+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159833",
-    "title": "Crypto Scammer Uses Claude Code to Process 100,000+ Phone Numbers for Victim Targeting",
-    "link": "https://cybersecuritynews.com/crypto-scammer-uses-claude-code/",
-    "published": "Tue, 18 Aug 2026 12:16:17 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A cryptocurrency fraud operation has been found using AI coding tools to turn huge phone lists into a sharper victim-targeting system. The campaign combined account checks, phishing emails, phone calls, and counterfeit wallet software to pursue peopl",
-    "created_at": "2026-08-18T12:31:12.565480+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=159827",
     "title": "Why Threat Intelligence Feeds Often Fail to Meet SOC Expectations",
     "link": "https://cybersecuritynews.com/why-threat-intelligence-feeds-often-fail-to-meet-soc-expectations/",
@@ -9268,5 +9250,23 @@
     "source": "CybersecurityNews",
     "summary": "North Korean operators are using artificial intelligence, remote-control software, and hired stand-ins to make fraudulent job candidates look genuine during technical interviews. The scheme turns routine hiring into a route for sanctions evasion, pay",
     "created_at": "2026-09-17T12:01:10.193134+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163714",
+    "title": "SilkParasite-Linked Malware Infrastructure Traced Back Four Years Across Central Asia",
+    "link": "https://cybersecuritynews.com/silkparasite-linked-malware/",
+    "published": "Thu, 17 Sep 2026 12:26:57 +0000",
+    "source": "CybersecurityNews",
+    "summary": "SilkParasite is a cyberespionage operation aimed at government, energy and telecommunications interests in Central Asia. New infrastructure analysis indicates that the activity behind the campaign may be older and broader than its recent name suggest",
+    "created_at": "2026-09-17T13:01:33.245169+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163727",
+    "title": "Hackers Turn Telegram Into a Command Center for HEAVYGRAM Surveillance Malware",
+    "link": "https://cybersecuritynews.com/heavygram-surveillance-malware/",
+    "published": "Thu, 17 Sep 2026 12:53:07 +0000",
+    "source": "CybersecurityNews",
+    "summary": "HEAVYGRAM is a Windows surveillance backdoor that turns Telegram into an operational command center for attackers. Rather than relying on a dedicated server, it uses bots, accounts and groups to receive instructions, move stolen data and keep infecte",
+    "created_at": "2026-09-17T13:01:35.499476+00:00"
   }
 ]
