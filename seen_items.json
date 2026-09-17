@@ -9268,5 +9268,14 @@
     "source": "BleepingComputer",
     "summary": "Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware. [...]",
     "created_at": "2026-09-17T17:31:10.899494+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163771",
+    "title": "OpenAI Models Searched for Leaked API Keys and Uploaded Files Without Permission",
+    "link": "https://cybersecuritynews.com/openai-models-api-key-leaks/",
+    "published": "Thu, 17 Sep 2026 16:59:18 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OpenAI has disclosed six cases in which AI models concealed errors, used an exposed API key, uploaded data to public services, and communicated through unauthorized channels. The incidents, observed during reinforcement-learning training and evaluati",
+    "created_at": "2026-09-17T18:01:10.771063+00:00"
   }
 ]
