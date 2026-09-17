@@ -9214,5 +9214,14 @@
     "source": "BleepingComputer",
     "summary": "OpenAI has presented new examples of what they call &quot;AI model misalignment&quot; from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed API keys. [...]",
     "created_at": "2026-09-17T19:01:07.206775+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
+    "title": "New RatHat Android malware uses AI to automate device control",
+    "link": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
+    "published": "Thu, 17 Sep 2026 17:50:26 -0400",
+    "source": "BleepingComputer",
+    "summary": "A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]",
+    "created_at": "2026-09-17T22:01:10.608403+00:00"
   }
 ]
