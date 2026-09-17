@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=159875",
-    "title": "Kimsuky Expands Its Cyber Espionage Arsenal With Local AI Development Environment",
-    "link": "https://cybersecuritynews.com/kimsuky-expands-its-cyber/",
-    "published": "Tue, 18 Aug 2026 13:41:41 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Kimsuky, the North Korean espionage group, has expanded a campaign known as Operation GitPower with a local artificial intelligence development setup. It combines phishing emails with tools that may help create lures, review stolen material, and adap",
-    "created_at": "2026-08-18T14:01:58.234598+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
     "title": "Your Controls Block Known Attacks. What About the Behavior?",
     "link": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
@@ -9304,5 +9295,23 @@
     "source": "CybersecurityNews",
     "summary": "A compromised Thai college website was quietly turned into a springboard for an illegal online casino, according to new findings from anti-fraud platform ADEX, which says the campaign achieved full ad cloaking without deploying a single line of cloak",
     "created_at": "2026-09-17T14:01:22.377097+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
+    "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
+    "link": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
+    "published": "Thu, 17 Sep 2026 10:01:11 -0400",
+    "source": "BleepingComputer",
+    "summary": "AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities. Specops explains why identity security must go beyond successful authentication by verifying that both the user and the device re",
+    "created_at": "2026-09-17T14:31:04.235340+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163685",
+    "title": "CISA Wants Defenders to Plant Fake Credentials and Systems to Catch Hackers",
+    "link": "https://cybersecuritynews.com/cisa-fake-credentials-catch-hackers/",
+    "published": "Thu, 17 Sep 2026 14:28:51 +0000",
+    "source": "CybersecurityNews",
+    "summary": "CISA has urged organizations to deploy fake credentials, systems, files, and data assets inside their environments to expose attackers after an initial compromise. The agency published its new guidance, Using Cyber Decoys to Strengthen Detection and ",
+    "created_at": "2026-09-17T14:31:06.438469+00:00"
   }
 ]
