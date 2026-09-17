@@ -9259,5 +9259,14 @@
     "source": "BleepingComputer",
     "summary": "Microsoft is investigating reports that the Windows 11 KB5124008 security update is breaking domain trust relationships on some enterprise systems, preventing users from logging in with valid domain credentials. [...]",
     "created_at": "2026-09-16T21:01:15.207638+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163646",
+    "title": "Windows 11 KB5124008 Update Breaks Active Directory Domain Trust and Blocks User Logins",
+    "link": "https://cybersecuritynews.com/windows-11-kb5124008-update/",
+    "published": "Thu, 17 Sep 2026 00:29:16 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft is investigating reports that the Windows 11 KB5124008 security update is breaking Active Directory domain trust on some enterprise computers, leaving users unable to sign in with valid credentials. The problem appears linked to Machine Ide",
+    "created_at": "2026-09-17T00:31:04.151138+00:00"
   }
 ]
