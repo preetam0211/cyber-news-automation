@@ -9268,5 +9268,14 @@
     "source": "CybersecurityNews",
     "summary": "Microsoft is investigating reports that the Windows 11 KB5124008 security update is breaking Active Directory domain trust on some enterprise computers, leaving users unable to sign in with valid credentials. The problem appears linked to Machine Ide",
     "created_at": "2026-09-17T00:31:04.151138+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/",
+    "title": "Anthropic wants Claude to analyze your bank account and financial data",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/",
+    "published": "Wed, 16 Sep 2026 20:35:48 -0400",
+    "source": "BleepingComputer",
+    "summary": "Anthropic is testing a new personal finance feature called &quot;Claude Money&quot; that will allow you to connect your bank accounts directly to Claude and &quot;understand your money.&quot; [...]",
+    "created_at": "2026-09-17T01:01:36.537786+00:00"
   }
 ]
