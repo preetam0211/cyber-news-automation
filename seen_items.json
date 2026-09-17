@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
-    "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
-    "link": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
-    "published": "Tue, 18 Aug 2026 23:17:22 +0530",
-    "source": "The Hacker News",
-    "summary": "Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to the victim&#x27;s Copilot ses",
-    "created_at": "2026-08-18T19:01:24.184188+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/",
     "title": "Comcast turns your Xfinity WiFi into a home motion detector",
     "link": "https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/",
