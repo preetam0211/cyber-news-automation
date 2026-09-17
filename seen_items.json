@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
-    "title": "Your Controls Block Known Attacks. What About the Behavior?",
-    "link": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
-    "published": "Tue, 18 Aug 2026 10:01:11 -0400",
-    "source": "BleepingComputer",
-    "summary": "Security controls can block a familiar attack method while missing quieter ways to achieve the same objective. Picus Security&#x27;s Blue Report 2026 shows how prevention rates can vary dramatically by technique and why behavioral testing is needed t",
-    "created_at": "2026-08-18T14:31:32.594363+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159885",
-    "title": "JWR Phishing Framework Uses Real-Time WebSocket Control and AES Encryption to Steal Banking Credentials",
-    "link": "https://cybersecuritynews.com/jwr-phishing-framework/",
-    "published": "Tue, 18 Aug 2026 14:03:57 +0000",
-    "source": "CybersecurityNews",
-    "summary": "JWR is a phishing framework built for live fraud. It turns a fake payment or bank page into a live channel that lets criminals watch details arrive as they are typed. The campaign uses SMS messages posing as unpaid toll notices, parcel delivery charg",
-    "created_at": "2026-08-18T14:31:34.820223+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159886",
-    "title": "GEEKOM Mini PC Realtek LAN Driver Package Found Infected With Asruex Trojan",
-    "link": "https://cybersecuritynews.com/geekom-mini-pc/",
-    "published": "Tue, 18 Aug 2026 14:27:15 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A network driver download is meant to get a computer online. In this case, it became a potential malware route after a Realtek LAN driver package on a legacy GEEKOM support page was flagged as carrying the Asruex Trojan. The exposure involved a downl",
-    "created_at": "2026-08-18T14:32:01.882978+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=159889",
     "title": "BTMob Fraud-as-a-Service Platform Uses 1,400 Live Servers to Power Android Device Takeovers",
     "link": "https://cybersecuritynews.com/btmob-fraud-as-a-service-platform/",
@@ -9313,5 +9286,14 @@
     "source": "CybersecurityNews",
     "summary": "CISA has urged organizations to deploy fake credentials, systems, files, and data assets inside their environments to expose attackers after an initial compromise. The agency published its new guidance, Using Cyber Decoys to Strengthen Detection and ",
     "created_at": "2026-09-17T14:31:06.438469+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163713",
+    "title": "BIND DNS Servers Hit by 14 Security Flaws Enabling Cache Poisoning and Remote Crashes",
+    "link": "https://cybersecuritynews.com/bind-dns-servers-hit-by-14-security-flaws/",
+    "published": "Thu, 17 Sep 2026 14:58:48 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Internet Systems Consortium has released security updates for BIND 9 after identifying 14 vulnerabilities that could allow attackers to poison DNS caches, crash exposed servers remotely, exhaust resources, or bypass DNSSEC protections. Administrators",
+    "created_at": "2026-09-17T15:01:03.271199+00:00"
   }
 ]
