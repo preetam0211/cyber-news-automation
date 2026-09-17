@@ -1,68 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=159827",
-    "title": "Why Threat Intelligence Feeds Often Fail to Meet SOC Expectations",
-    "link": "https://cybersecuritynews.com/why-threat-intelligence-feeds-often-fail-to-meet-soc-expectations/",
-    "published": "Tue, 18 Aug 2026 12:36:51 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Threat intelligence (TI) feeds are expected to close visibility gaps that inevitably emerge in enterprise SOCs and make investigations faster and more effective. This promise sounds particularly attractive to leaders of growing SOC teams that need to",
-    "created_at": "2026-08-18T13:31:04.098828+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html",
-    "title": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks",
-    "link": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html",
-    "published": "Tue, 18 Aug 2026 18:08:20 +0530",
-    "source": "The Hacker News",
-    "summary": "Cybersecurity researchers have disclosed details of a previously undocumented Python implant framework dubbed TWINLOOT.\n\n&quot;TWINLOOT is a modular, PyArmor-hardened Python implant designed to operate its entire command-and-control infrastructure in",
-    "created_at": "2026-08-18T13:31:06.169394+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
-    "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
-    "link": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
-    "published": "Tue, 18 Aug 2026 18:08:36 +0530",
-    "source": "The Hacker News",
-    "summary": "Security researchers at Anthropic and Switzerland&#x27;s EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system prompt files that autonomous agent harnesses",
-    "created_at": "2026-08-18T13:31:23.771824+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159863",
-    "title": "C2Looper Updates Itself Through OneDrive DLL Sideloading to Evade Detection",
-    "link": "https://cybersecuritynews.com/c2looper-updates/",
-    "published": "Tue, 18 Aug 2026 12:47:11 +0000",
-    "source": "CybersecurityNews",
-    "summary": "C2Looper is a newly identified backdoor that gives attackers a quiet way to control a compromised Windows computer. It can run commands, inspect the victim’s network and bring in more malware, making it a serious concern for organisations facing rans",
-    "created_at": "2026-08-18T13:31:25.829352+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159839",
-    "title": "OpenAI Warns AI Models Can Automate Cyberattacks and Exploit Security Vulnerabilities",
-    "link": "https://cybersecuritynews.com/openai-ai-cyberattacks/",
-    "published": "Tue, 18 Aug 2026 12:53:09 +0000",
-    "source": "CybersecurityNews",
-    "summary": "OpenAI has warned that advancing artificial intelligence models are increasingly capable of automating critical phases of real-world cyberattacks. This technological shift enables threat actors to identify and exploit long-standing security weaknesse",
-    "created_at": "2026-08-18T13:31:27.888083+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159822",
-    "title": "Apple Fixes 28 Security Vulnerabilities Across macOS, iOS, and iPadOS",
-    "link": "https://cybersecuritynews.com/apple-fixes-28-security-vulnerabilities/",
-    "published": "Tue, 18 Aug 2026 13:02:16 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Apple has released security updates for macOS, iOS, and iPadOS, addressing 28 vulnerabilities that could expose users to data leakage, application crashes, kernel memory access, and arbitrary code execution. The updates were released on August 17, 20",
-    "created_at": "2026-08-18T13:31:29.970711+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159865",
-    "title": "Octagon Can Steal SMS One-Time Codes During Banking and Crypto Account Takeovers",
-    "link": "https://cybersecuritynews.com/octagon-steal-sms-one-time-codes/",
-    "published": "Tue, 18 Aug 2026 13:21:28 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Octagon is an Android theft tool that turns an infected phone into a platform for account takeover. It can steal login details, watch the screen, and capture verification codes that banks and exchanges use to protect accounts. It is sold as a service",
-    "created_at": "2026-08-18T13:31:32.018677+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=159875",
     "title": "Kimsuky Expands Its Cyber Espionage Arsenal With Local AI Development Environment",
     "link": "https://cybersecuritynews.com/kimsuky-expands-its-cyber/",
@@ -9277,5 +9214,95 @@
     "source": "BleepingComputer",
     "summary": "Microsoft reminded customers this week that devices running Windows 11 24H2 Home and Pro editions will stop receiving updates next month. [...]",
     "created_at": "2026-09-17T13:30:57.986023+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html",
+    "title": "U.S. Seizes NightmareStresser Domains Linked to Hundreds of Thousands of DDoS Attacks",
+    "link": "https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html",
+    "published": "Thu, 17 Sep 2026 10:43:46 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the court-authorized seizure of internet domains associated with a distributed denial-of-service (DDoS)-for-hire service known as NightmareStresser.\n\nThe domains in question are: nightmare-str",
+    "created_at": "2026-09-17T14:01:05.700616+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html",
+    "title": "Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks",
+    "link": "https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html",
+    "published": "Thu, 17 Sep 2026 12:09:40 +0530",
+    "source": "The Hacker News",
+    "summary": "Cisco has warned of a fresh maximum-severity security flaw impacting Identity Services Engine (ISE) that has come under active exploitation.\n\nThe vulnerability, tracked as CVE-2026-76460 (CVSS score: 10.0), could allow an unauthenticated, remote atta",
+    "created_at": "2026-09-17T14:01:07.086938+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html",
+    "title": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records",
+    "link": "https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html",
+    "published": "Thu, 17 Sep 2026 13:00:01 +0530",
+    "source": "The Hacker News",
+    "summary": "A security breach at Gyazo, Helpfeel&#x27;s image-sharing service, exposed about 23.62 million user records, including email addresses and password hashes, the Kyoto-based company said in a notice published Wednesday.\n\nIt also exposed about 490 milli",
+    "created_at": "2026-09-17T14:01:07.887172+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html",
+    "title": "BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS",
+    "link": "https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html",
+    "published": "Thu, 17 Sep 2026 13:30:29 +0530",
+    "source": "The Hacker News",
+    "summary": "The Internet Systems Consortium (ISC) has released BIND 9.20.29 and 9.21.26 to fix fourteen security flaws it disclosed on 16 September in BIND 9, its open-source DNS server software. One of them affects any BIND server that answers DNS-over-HTTPS (D",
+    "created_at": "2026-09-17T14:01:10.116324+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html",
+    "title": "OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads",
+    "link": "https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html",
+    "published": "Thu, 17 Sep 2026 15:23:38 +0530",
+    "source": "The Hacker News",
+    "summary": "OpenAI on Wednesday disclosed six new instances of &quot;unexpected or concerning model behavior&quot; that took place over the past six months, while sharing a new framework for reporting, tracking, investigating, and disclosing model misalignment i",
+    "created_at": "2026-09-17T14:01:12.168695+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html",
+    "title": "China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America",
+    "link": "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html",
+    "published": "Thu, 17 Sep 2026 15:35:45 +0530",
+    "source": "The Hacker News",
+    "summary": "The China-aligned state-sponsored threat actor known as FamousSparrow has been observed deploying a previously unreported backdoor called SparroWocky in attacks targeting multiple countries in Latin America since at least August 2025.\n\n&quot;SparroWo",
+    "created_at": "2026-09-17T14:01:14.223808+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
+    "title": "CISO's Expert Guide to Agentic Pentesting for Websites",
+    "link": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
+    "published": "Thu, 17 Sep 2026 16:20:53 +0530",
+    "source": "The Hacker News",
+    "summary": "Attackers now weaponize new vulnerabilities in about five days (Mandiant, part of Google Cloud). The median organization takes 43 days to patch one (Verizon DBIR 2026). A new free guide explains how autonomous AI agents are closing that gap, and what",
+    "created_at": "2026-09-17T14:01:16.265583+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+    "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+    "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+    "published": "Thu, 17 Sep 2026 17:20:00 +0530",
+    "source": "The Hacker News",
+    "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly.\n\nBut that still does not answer the question that matters: Can it actually be exploited in your environment?\n\nMythos-class AI is compressing the time between disclosure and workin",
+    "created_at": "2026-09-17T14:01:18.268186+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
+    "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
+    "link": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
+    "published": "Thu, 17 Sep 2026 18:00:00 +0530",
+    "source": "The Hacker News",
+    "summary": "Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an advisory on Wednesday.\n\nAn attacker who controls a malicious zone and queries a vulnerable resolver can tri",
+    "created_at": "2026-09-17T14:01:20.280482+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163728",
+    "title": "Hacked Thai College Website Abused to Redirect Google Searchers to Illegal Online Casino",
+    "link": "https://cybersecuritynews.com/hacked-thai-college-website-abused-to-redirect-google-searchers-to-illegal-online-casino/",
+    "published": "Thu, 17 Sep 2026 13:34:09 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A compromised Thai college website was quietly turned into a springboard for an illegal online casino, according to new findings from anti-fraud platform ADEX, which says the campaign achieved full ad cloaking without deploying a single line of cloak",
+    "created_at": "2026-09-17T14:01:22.377097+00:00"
   }
 ]
