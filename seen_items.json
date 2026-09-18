@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=160024",
-    "title": "Windows Defender Update for 0-day Vulnerability Breaks Virus Scans",
-    "link": "https://cybersecuritynews.com/windows-defender-0-day-update-crash/",
-    "published": "Wed, 19 Aug 2026 12:54:51 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Microsoft Defender has been aborting Quick, Full, and Offline virus scans after a cluster of Security Intelligence updates reached Windows PCs on August 18, 2026, leaving home users and Defender for Endpoint admins without a reliable malware check. C",
-    "created_at": "2026-08-19T13:31:56.239850+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160011",
-    "title": "Hackers Actively Exploiting macOS’s Built-in Screen Sharing Service Vulnerability in the Wild",
-    "link": "https://cybersecuritynews.com/hackers-exploiting-macoss-screen-sharing-service/",
-    "published": "Wed, 19 Aug 2026 13:03:03 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Hackers are actively abusing a flaw in macOS Screen Sharing to take root-level control of a small number of devices. The attacks turn a built-in remote-access feature into a doorway for quietly placing files, changing system settings, and running a c",
-    "created_at": "2026-08-19T13:31:58.508127+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160018",
-    "title": "MacSync Stealer Hides Behind 30+ Domains While Stealing Passwords and Sensitive Mac Data",
-    "link": "https://cybersecuritynews.com/macsync-stealer/",
-    "published": "Wed, 19 Aug 2026 13:18:33 +0000",
-    "source": "CybersecurityNews",
-    "summary": "MacSync Stealer is expanding the risk facing Mac users by turning everyday web browsing and Terminal activity into a route for password theft. The macOS-focused malware uses short-lived online infrastructure, making simple blocklists less effective a",
-    "created_at": "2026-08-19T13:32:25.554349+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
-    "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
-    "link": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
-    "published": "Wed, 19 Aug 2026 17:00:00 +0530",
-    "source": "The Hacker News",
-    "summary": "Most email defenses still do the job they did a decade ago. Scan the message, look for something malicious, block it. That worked when the danger sat in the payload, a bad link or an attachment. It stopped working when the danger moved into the messa",
-    "created_at": "2026-08-19T14:01:08.458935+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
     "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
     "link": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
@@ -9322,5 +9286,50 @@
     "source": "CybersecurityNews",
     "summary": "Ransomware attacks are entering a new phase. Researchers have documented a campaign in which an AI agent planned, executed, and escalated an extortion operation without evidence that a human approved its actions. The operation, tracked as JADEPUFFER,",
     "created_at": "2026-09-18T13:31:17.066665+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
+    "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
+    "link": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
+    "published": "Fri, 18 Sep 2026 16:31:01 +0530",
+    "source": "The Hacker News",
+    "summary": "A flaw in four widely used AI coding agents lets someone who controls a plugin&#x27;s code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a specific reviewed version, security firm Air Secu",
+    "created_at": "2026-09-18T14:01:03.722295+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
+    "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
+    "link": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
+    "published": "Fri, 18 Sep 2026 16:31:16 +0530",
+    "source": "The Hacker News",
+    "summary": "In July 2025, someone registered a domain that used to belong to a content delivery network.  The CDN had been wound down years earlier, and the domain it served assets from was allowed to expire. What it had not lost were its callers. Thousands of w",
+    "created_at": "2026-09-18T14:01:05.768296+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
+    "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
+    "link": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
+    "published": "Fri, 18 Sep 2026 18:17:04 +0530",
+    "source": "The Hacker News",
+    "summary": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required.\n\nThe vulnerability, tracked as CVE-2026-85889, carries a CVSS score of 10.0",
+    "created_at": "2026-09-18T14:01:07.772199+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163936",
+    "title": "New SETTRA Ransomware Uses MeshAgent RMM and BYOVD to Encrypt Windows Systems",
+    "link": "https://cybersecuritynews.com/new-settra-ransomware/",
+    "published": "Fri, 18 Sep 2026 13:44:33 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Settra ransomware is emerging as a serious threat to Windows networks after investigators linked it to two recent intrusions involving remote-management software and recovery-blocking actions. The operation encrypts files, leaves victims with ransom ",
+    "created_at": "2026-09-18T14:01:09.791204+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163939",
+    "title": "Feral Wolf Ransomware Attacks Exploit Atlassian Confluence and Misconfigured 1C Systems",
+    "link": "https://cybersecuritynews.com/feral-wolf-ransomware/",
+    "published": "Fri, 18 Sep 2026 13:59:26 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Feral Wolf is using exposed business software and weak server settings to reach corporate networks, then locking files with ransomware. The campaign shows how one overlooked internet-facing system can become the starting point for a much larger incid",
+    "created_at": "2026-09-18T14:01:11.824426+00:00"
   }
 ]
