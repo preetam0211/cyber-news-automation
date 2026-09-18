@@ -9223,5 +9223,14 @@
     "source": "BleepingComputer",
     "summary": "A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]",
     "created_at": "2026-09-17T22:01:10.608403+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163779",
+    "title": "Steam Windows 0-Day Vulnerability Allows Users to Silently Escalate to Full SYSTEM Privileges",
+    "link": "https://cybersecuritynews.com/steam-windows-0-day-vulnerability/",
+    "published": "Fri, 18 Sep 2026 03:12:00 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly disclosed Windows zero-day affecting the Steam Client Service can reportedly let a standard local user obtain NT AUTHORITY\\SYSTEM privileges without administrator credentials, a User Account Control prompt, Steam authentication, or launching ",
+    "created_at": "2026-09-18T03:31:28.559177+00:00"
   }
 ]
