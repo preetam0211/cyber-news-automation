@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=159817",
-    "title": "Irregular Pushes Stronger Containment Standards for Secure Frontier AI Cyber Evaluations",
-    "link": "https://cybersecuritynews.com/irregular-pushes-stronger-secure-frontier-ai-cyber-evaluations/",
-    "published": "Wed, 19 Aug 2026 02:06:28 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Irregular has detailed an investigation into an AI cyber-evaluation incident in which internet access unintentionally allowed models to interact with real-world systems. The company said the issue was contained and fixed before the first public discl",
-    "created_at": "2026-08-19T03:31:37.969317+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159935",
-    "title": "Critical Microsoft Copilot CoSnitch Vulnerability Lets Attackers Steal Sensitive Data With One Click",
-    "link": "https://cybersecuritynews.com/copilot-cosnitch-vulnerability/",
-    "published": "Wed, 19 Aug 2026 02:32:43 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A critical vulnerability in Microsoft Copilot Personal, tracked as CVE-2026-24301 and nicknamed CoSnitch, lets attackers silently siphon sensitive data from a victim’s connected accounts with nothing more than a single click on a malicious link. The ",
-    "created_at": "2026-08-19T03:31:42.889110+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=159943",
     "title": "Cl0p Hackers Exploit PTC Windchill Flaw to Steal Passwords and Sensitive Company Data",
     "link": "https://cybersecuritynews.com/cl0p-hackers-exploit-ptc/",
@@ -9232,5 +9214,41 @@
     "source": "CybersecurityNews",
     "summary": "A newly disclosed Windows zero-day affecting the Steam Client Service can reportedly let a standard local user obtain NT AUTHORITY\\SYSTEM privileges without administrator credentials, a User Account Control prompt, Steam authentication, or launching ",
     "created_at": "2026-09-18T03:31:28.559177+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html",
+    "title": "Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords",
+    "link": "https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html",
+    "published": "Thu, 17 Sep 2026 19:33:13 +0530",
+    "source": "The Hacker News",
+    "summary": "The Iran-linked &quot;hacktivist&quot; persona known as Handala Hack has been attributed to a Telegram-based surveillance backdoor called HEAVYGRAM and a Delphi-based utility known as CRUDEEXCLUDE.\n\n&quot;HEAVYGRAM offers builtin commands supporting ",
+    "created_at": "2026-09-18T04:01:06.297473+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html",
+    "title": "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files",
+    "link": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html",
+    "published": "Thu, 17 Sep 2026 21:07:56 +0530",
+    "source": "The Hacker News",
+    "summary": "Malicious code running inside a Docker Sandboxes virtual machine on macOS could escape the project directory shared into it and read or change files anywhere else on the host, Docker warns in a security announcement on September 15.\n\nThe escape runs ",
+    "created_at": "2026-09-18T04:01:15.362046+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html",
+    "title": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories",
+    "link": "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html",
+    "published": "Thu, 17 Sep 2026 23:02:22 +0530",
+    "source": "The Hacker News",
+    "summary": "Attackers keep finding new keys. The funny part is that defenders keep inventing where to store them.\n\nThis week, those keys sit in AI tools, exposed services, old bugs, weak logins, and software sold like a monthly subscription. Some attacks use new",
+    "created_at": "2026-09-18T04:01:17.478029+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
+    "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
+    "link": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
+    "published": "Thu, 17 Sep 2026 23:38:28 +0530",
+    "source": "The Hacker News",
+    "summary": "A critical vulnerability in Check Point&#x27;s Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network.\n\nThe Security Management Server is the system that controls fi",
+    "created_at": "2026-09-18T04:01:19.536306+00:00"
   }
 ]
