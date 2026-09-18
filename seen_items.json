@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
-    "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
-    "link": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
-    "published": "Wed, 19 Aug 2026 17:04:28 +0530",
-    "source": "The Hacker News",
-    "summary": "Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attacks, two authentication-bypass flaws, and a peer-to-peer (P2P) ",
-    "created_at": "2026-08-19T14:01:15.261501+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
-    "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
-    "link": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
-    "published": "Wed, 19 Aug 2026 18:42:17 +0530",
-    "source": "The Hacker News",
-    "summary": "A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia.\n\nThe intrusion set makes use of seven remote access tool (RAT) families, five of which have never been previously doc",
-    "created_at": "2026-08-19T14:01:17.468510+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160038",
-    "title": "Ransomware Hackers Pose as Recovery Firm and Demand Up to $60,000",
-    "link": "https://cybersecuritynews.com/ransomware-hackers/",
-    "published": "Wed, 19 Aug 2026 13:39:38 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Ransomware victims are facing a new kind of pressure campaign. Instead of receiving another demand from the attackers who stole their data, some companies are being contacted by a supposed recovery firm that says it can retrieve files and erase stole",
-    "created_at": "2026-08-19T14:01:19.769013+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
-    "title": "Password spraying attacks surge 155x as hackers exploit MFA gaps",
-    "link": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
-    "published": "Wed, 19 Aug 2026 10:00:10 -0400",
-    "source": "BleepingComputer",
-    "summary": "Huntress observed a 155x increase in password spraying attacks in H1 2026, including a campaign that generated more than 81 million login attempts in two weeks. The attacks exploited legacy authentication and gaps in MFA policies that left some login",
-    "created_at": "2026-08-19T14:01:22.244888+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=160060",
     "title": "Hundreds of Leaked Stripe Merchant Keys Expose Payment and Payout Capabilities",
     "link": "https://cybersecuritynews.com/hundreds-of-leaked-stripe-merchant-keys/",
@@ -9331,5 +9295,32 @@
     "source": "CybersecurityNews",
     "summary": "Feral Wolf is using exposed business software and weak server settings to reach corporate networks, then locking files with ransomware. The campaign shows how one overlooked internet-facing system can become the starting point for a much larger incid",
     "created_at": "2026-09-18T14:01:11.824426+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/",
+    "title": "Microsoft Teams will let admins block custom file extensions",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/",
+    "published": "Fri, 18 Sep 2026 09:58:40 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft Teams will soon let administrators tweak the list of file extensions commonly associated with security threats to meet their company&#x27;s security requirements. [...]",
+    "created_at": "2026-09-18T14:31:15.942342+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
+    "title": "Secure enterprise sharing with access reviews for Microsoft 365",
+    "link": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
+    "published": "Fri, 18 Sep 2026 10:00:10 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft 365 makes sharing files easy, but access can remain long after its original purpose has ended, leaving organizations with little visibility into who can still reach sensitive data. tenfold Software explains how centralized access governance",
+    "created_at": "2026-09-18T14:31:19.202242+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163946",
+    "title": "Critical Microsoft Azure AI Foundry Vulnerability Allows Attackers to Escalate Privileges",
+    "link": "https://cybersecuritynews.com/microsoft-azure-ai-foundry-vulnerability/",
+    "published": "Fri, 18 Sep 2026 14:14:16 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has patched a maximum-severity security flaw in Azure AI Foundry, its enterprise platform for building and managing generative AI applications and agents, that could have allowed an unauthenticated attacker to escalate privileges over the n",
+    "created_at": "2026-09-18T14:31:20.610244+00:00"
   }
 ]
