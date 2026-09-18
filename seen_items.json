@@ -9286,5 +9286,14 @@
     "source": "BleepingComputer",
     "summary": "Microsoft has resolved a known issue that causes incorrect alerts warning that Defender Antivirus was turned off after installing recent updates. [...]",
     "created_at": "2026-09-18T12:31:26.553819+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163912",
+    "title": "Hackers Impersonate ChatGPT Subscription Alerts to Steal OpenAI Account Credentials",
+    "link": "https://cybersecuritynews.com/chatgpt-subscription/",
+    "published": "Fri, 18 Sep 2026 12:30:16 +0000",
+    "source": "CybersecurityNews",
+    "summary": "ChatGPT subscription notices have become the latest cover for credential-stealing emails. The campaign uses a familiar billing problem to push recipients toward a fake sign-in page, where attackers can collect OpenAI account details. A successful the",
+    "created_at": "2026-09-18T13:01:15.314382+00:00"
   }
 ]
