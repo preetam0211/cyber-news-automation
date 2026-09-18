@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
-    "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
-    "link": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
-    "published": "Wed, 19 Aug 2026 11:09:25 +0530",
-    "source": "The Hacker News",
-    "summary": "A JavaServer Pages (JSP) web shell deployed following the exploitation of a critical security flaw in PTC Windchill and FlexPLM servers is specifically designed for the enterprise Product Lifecycle Management (PLM) software, according to new findings",
-    "created_at": "2026-08-19T10:01:23.836102+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
-    "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
-    "link": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
-    "published": "Wed, 19 Aug 2026 11:31:53 +0530",
-    "source": "The Hacker News",
-    "summary": "Microsoft Defender Experts have linked more than 30 web domains to MacSync Stealer, a macOS-focused information stealer, after correlating recurring endpoint and network behaviors across changing infrastructure, tracing the malware from payload retri",
-    "created_at": "2026-08-19T10:01:41.496935+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159976",
-    "title": "BeyondTrust Windows EPM Vulnerabilities Allows Attackers to Escalate Privileges",
-    "link": "https://cybersecuritynews.com/beyondtrust-windows-epm-vulnerabilities/",
-    "published": "Wed, 19 Aug 2026 09:44:48 +0000",
-    "source": "CybersecurityNews",
-    "summary": "BeyondTrust has disclosed two high-severity vulnerabilities in its Endpoint Privilege Management (EPM) product for Windows that could allow attackers with local access to elevate privileges or bypass anti-tamper controls. Tracked as CVE-2026-40144 an",
-    "created_at": "2026-08-19T10:02:09.800330+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
     "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
     "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
