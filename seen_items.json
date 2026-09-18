@@ -9304,5 +9304,14 @@
     "source": "The Hacker News",
     "summary": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry.\n\n&quot;The developer likely wrote the malware using a large la",
     "created_at": "2026-09-18T09:34:26.343326+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
+    "title": "New Check Point flaw lets hackers execute code with root privileges",
+    "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
+    "published": "Fri, 18 Sep 2026 05:34:33 -0400",
+    "source": "BleepingComputer",
+    "summary": "Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]",
+    "created_at": "2026-09-18T10:01:00.369242+00:00"
   }
 ]
