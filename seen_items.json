@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=160021",
-    "title": "CISA Adds Microsoft SharePoint Weak Authentication Vulnerability to KEV List",
-    "link": "https://cybersecuritynews.com/microsoft-sharepoint-authentication-vulnerability/",
-    "published": "Wed, 19 Aug 2026 15:15:31 +0000",
-    "source": "CybersecurityNews",
-    "summary": "CISA added a critical Microsoft SharePoint authentication flaw to its KEV catalog after CVE-2026-55040 was confirmed in active exploitation, urging organizations to secure affected on-premises environments. CVE-2026-55040 is a weakness in Microsoft S",
-    "created_at": "2026-08-19T15:31:31.795016+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160046",
-    "title": "Former Ping Identity and CyberArk Executives Join AppViewX to Scale Machine and Agent Identity Security",
-    "link": "https://cybersecuritynews.com/former-ping-identity-and-cyberark-executives-join-appviewx-to-scale-machine-and-agent-identity-security/",
-    "published": "Wed, 19 Aug 2026 15:19:41 +0000",
-    "source": "CybersecurityNews",
-    "summary": "New York, New York, August 19th, 2026, CyberNewswire New revenue leader and board member join as AppViewX’s identity security business continues its rapid growth  AppViewX, the leading machine and agent identity security company built for the AI and ",
-    "created_at": "2026-08-19T15:31:34.201289+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160100",
-    "title": "Microsoft 365 Service Degradation Disrupts Users Across South America",
-    "link": "https://cybersecuritynews.com/microsoft-365-service-degradation/",
-    "published": "Wed, 19 Aug 2026 15:53:44 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Microsoft is responding to a regional outage that may leave users in South America unable to use multiple Microsoft 365 services. The company is tracking the disruption as issue MO1457636, a service degradation of the Microsoft 365 suite that began a",
-    "created_at": "2026-08-19T16:01:06.231940+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/",
-    "title": "US charges Iranian hackers over $3.4 billion intellectual property theft",
-    "link": "https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/",
-    "published": "Wed, 19 Aug 2026 11:56:09 -0400",
-    "source": "BleepingComputer",
-    "summary": "The U.S. has charged 17 Iranians, alleged members of a hacking-for-hire company called Mabna Institute, involved in years-long operations that stole data from American organizations. [...]",
-    "created_at": "2026-08-19T16:01:08.259056+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=160096",
     "title": "Hackers Let Microsoft 365 Users Complete MFA, Then Steal Logged-In Sessions",
     "link": "https://cybersecuritynews.com/microsoft-365-session-theft/",
@@ -9295,5 +9259,23 @@
     "source": "BleepingComputer",
     "summary": "An ongoing malware campaign uses SEO-optimized GitHub repositories to impersonate well-known software firms to push a previously undocumented information stealer called Rapuncel. [...]",
     "created_at": "2026-09-18T15:31:23.596777+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
+    "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
+    "link": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
+    "published": "Fri, 18 Sep 2026 20:54:16 +0530",
+    "source": "The Hacker News",
+    "summary": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India and Afghanistan.\n\nThe attacks, per Zscaler ThreatLab",
+    "created_at": "2026-09-18T16:01:57.560717+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
+    "title": "Gyazo server flaw exploited to steal 23.6 million user records",
+    "link": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
+    "published": "Fri, 18 Sep 2026 12:00:38 -0400",
+    "source": "BleepingComputer",
+    "summary": "The Gyazo image-sharing platform has confirmed it suffered a data breach after hackers exploited a server vulnerability that allowed them to steal 23.6 million user records. [...]",
+    "created_at": "2026-09-18T16:01:59.744051+00:00"
   }
 ]
