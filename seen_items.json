@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=160060",
-    "title": "Hundreds of Leaked Stripe Merchant Keys Expose Payment and Payout Capabilities",
-    "link": "https://cybersecuritynews.com/hundreds-of-leaked-stripe-merchant-keys/",
-    "published": "Wed, 19 Aug 2026 14:09:07 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Hundreds of leaked Stripe merchant keys have exposed a serious risk for online businesses and their customers. The collection contains active credentials tied to hundreds of accounts, allowing a criminal to use payment tools that should remain strict",
-    "created_at": "2026-08-19T15:01:26.530504+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160062",
-    "title": "Hackers Use AI Voice Calls and Fake Banking Pages to Bypass MFA and Steal Accounts",
-    "link": "https://cybersecuritynews.com/hackers-use-ai-voice-calls/",
-    "published": "Wed, 19 Aug 2026 14:50:20 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Hackers are pairing AI-generated phone calls with fake banking pages to take over customer accounts, even when multi-factor authentication is enabled. The campaign, tracked as Balonx Sistema, gives criminals a live view of a victim’s phishing session",
-    "created_at": "2026-08-19T15:01:28.681494+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160087",
-    "title": "China-Nexus Hackers Disguise Malicious VHD as JPEG to Deploy QUICAgent Backdoor",
-    "link": "https://cybersecuritynews.com/china-nexus-hackers/",
-    "published": "Wed, 19 Aug 2026 15:05:35 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A China-nexus cyber espionage campaign is using a convincing visual trick to reach Myanmar government and technology personnel. The attackers present a virtual hard disk, or VHD, as an ordinary JPEG image, betting that recipients will not question a ",
-    "created_at": "2026-08-19T15:31:06.708883+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160034",
-    "title": "Microsoft to End Support for Windows 11 24H2 Home and Pro Editions",
-    "link": "https://cybersecuritynews.com/microsoft-end-support-for-windows-11-24h2/",
-    "published": "Wed, 19 Aug 2026 15:07:23 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Microsoft has issued a 60-day reminder that Windows 11 Home and Pro editions, version 24H2, will reach the end of updates on October 13, 2026. After that date, affected devices will no longer receive Microsoft’s monthly security updates or non-securi",
-    "created_at": "2026-08-19T15:31:08.091428+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=160021",
     "title": "CISA Adds Microsoft SharePoint Weak Authentication Vulnerability to KEV List",
     "link": "https://cybersecuritynews.com/microsoft-sharepoint-authentication-vulnerability/",
@@ -9322,5 +9286,14 @@
     "source": "CybersecurityNews",
     "summary": "Microsoft has patched a maximum-severity security flaw in Azure AI Foundry, its enterprise platform for building and managing generative AI applications and agents, that could have allowed an unauthenticated attacker to escalate privileges over the n",
     "created_at": "2026-09-18T14:31:20.610244+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
+    "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
+    "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
+    "published": "Fri, 18 Sep 2026 11:19:06 -0400",
+    "source": "BleepingComputer",
+    "summary": "An ongoing malware campaign uses SEO-optimized GitHub repositories to impersonate well-known software firms to push a previously undocumented information stealer called Rapuncel. [...]",
+    "created_at": "2026-09-18T15:31:23.596777+00:00"
   }
 ]
