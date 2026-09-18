@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=160008",
-    "title": "RAVEN Tool Exfiltrates Entire Elasticsearch Databases and Maintains Access After Password Rotation",
-    "link": "https://cybersecuritynews.com/raven-tool-exfiltrates-entire-elasticsearch/",
-    "published": "Wed, 19 Aug 2026 11:42:58 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A newly detailed offensive security tool called RAVEN shows how a compromised Elasticsearch environment can become a data-loss incident with persistent access. The tool demonstrates what an intruder could do after reaching an exposed cluster or contr",
-    "created_at": "2026-08-19T12:01:08.539236+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=160024",
     "title": "Windows Defender Update for 0-day Vulnerability Breaks Virus Scans",
     "link": "https://cybersecuritynews.com/windows-defender-0-day-update-crash/",
@@ -9268,5 +9259,32 @@
     "source": "CybersecurityNews",
     "summary": "Android has released new Security State libraries that allow apps and enterprise tools to check whether a device is missing important security patches. The update gives developers a more detailed view of Android security than the traditional monthly ",
     "created_at": "2026-09-18T11:01:26.193868+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163901",
+    "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws",
+    "link": "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/",
+    "published": "Fri, 18 Sep 2026 11:24:13 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Google has released Chrome 153 to the Stable channel for Windows, macOS, and Linux, addressing 16 security vulnerabilities, including two critical memory-safety flaws in Dawn and WebGL. The update is rolling out as version 153.0.8010.52/.53 for Windo",
+    "created_at": "2026-09-18T12:31:22.313575+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163879",
+    "title": "Tutor LMS Flaw Exposes 100,000+ WordPress Sites to Remote Code Execution",
+    "link": "https://cybersecuritynews.com/tutor-lms-flaw/",
+    "published": "Fri, 18 Sep 2026 11:52:01 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A high-severity flaw in the Tutor LMS WordPress plugin could let a low-privileged user take control of an affected server. The issue affects more than 100,000 sites that use the e-learning plugin, particularly installations that allow visitors to reg",
+    "created_at": "2026-09-18T12:31:24.446045+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
+    "title": "Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
+    "published": "Fri, 18 Sep 2026 08:16:32 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft has resolved a known issue that causes incorrect alerts warning that Defender Antivirus was turned off after installing recent updates. [...]",
+    "created_at": "2026-09-18T12:31:26.553819+00:00"
   }
 ]
