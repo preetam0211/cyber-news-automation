@@ -1,50 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=159953",
-    "title": "Critical Cursor 0-day Vulnerability Enables Arbitrary Code Execution Attacks",
-    "link": "https://cybersecuritynews.com/cursor-0-day-vulnerability/",
-    "published": "Wed, 19 Aug 2026 08:45:14 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A binary planting vulnerability in the Cursor IDE that lets a malicious git.exe file, placed at the root of a repository, run automatically the moment a developer opens that project on Windows. The attack requires no prompt injection, no agent, no AI",
-    "created_at": "2026-08-19T09:03:01.064305+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159967",
-    "title": "Google Fixes Two Critical Chrome Flaws in WebGL and Dawn — Update Your Browser",
-    "link": "https://cybersecuritynews.com/google-fixes-two-chrome-flaws-in-webgl-and-dawn/",
-    "published": "Wed, 19 Aug 2026 09:06:19 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Google has released a new Chrome Stable channel update that fixes two critical security vulnerabilities affecting graphics-related components. Users should update their browsers as soon as the release becomes available for their device. The update mo",
-    "created_at": "2026-08-19T09:31:33.655016+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159950",
-    "title": "CISA Warns of VMware vCenter Path Traversal Vulnerability Actively Exploited in Attacks",
-    "link": "https://cybersecuritynews.com/vmware-vcenter-path-traversal-vulnerability-exploited/",
-    "published": "Wed, 19 Aug 2026 09:09:45 +0000",
-    "source": "CybersecurityNews",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency has added a critical Broadcom VMware vCenter vulnerability, tracked as CVE-2026-59310, to its Known Exploited Vulnerabilities catalog after evidence showed active exploitation in attacks. The ",
-    "created_at": "2026-08-19T09:31:50.144034+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/",
-    "title": "Windows 11 24H2 Home and Pro reach end of support in 2 months",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/",
-    "published": "Wed, 19 Aug 2026 05:10:20 -0400",
-    "source": "BleepingComputer",
-    "summary": "Microsoft has reminded customers that systems running Home and Pro editions of Windows 11 24H2 will stop receiving updates in two months. [...]",
-    "created_at": "2026-08-19T09:32:05.359336+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159987",
-    "title": "Claude Can Now Send Emails in Gmail and Manage Files in Google Drive",
-    "link": "https://cybersecuritynews.com/claude-can-now-send-emails-in-gmail/",
-    "published": "Wed, 19 Aug 2026 09:30:02 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Anthropic has moved Claude out of the draft-only inbox and into live Google accounts. In an August 18, 2026 post, the company said users can ask Claude to reply to a Gmail thread and have the assistant draft and send the response, while Google Drive ",
-    "created_at": "2026-08-19T09:32:26.137616+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
     "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
     "link": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
@@ -9286,5 +9241,68 @@
     "source": "CybersecurityNews",
     "summary": "Quick Answer: Cloud compliance splits into two jobs: technical posture against benchmarks where free Prowler and CNAPP compliance (Wiz, Prisma Cloud, Orca) lead and audit evidence automation for SOC 2/ISO where Vanta, Drata, and Scrut dominate. Most ",
     "created_at": "2026-09-18T08:01:58.282919+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163791",
+    "title": "Top 10 Best Cloud Encryption Solutions in 2026",
+    "link": "https://cybersecuritynews.com/best-cloud-encryption-solutions/",
+    "published": "Fri, 18 Sep 2026 08:05:08 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Quick Answer: Native KMS AWS KMS, Azure Key Vault, Google Cloud KMS is the usage-based default for single-cloud estates. Dedicated platforms earn their price on multicloud key control and sovereignty: Thales CipherTrust for enterprise KMS/HSM, Fortan",
+    "created_at": "2026-09-18T09:31:20.611991+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163817",
+    "title": "One Click in a Malicious VS Code Project Can Give Attackers Persistent Access to Your PC",
+    "link": "https://cybersecuritynews.com/one-click-in-a-malicious-vs-code-project-give-persistent-access/",
+    "published": "Fri, 18 Sep 2026 08:05:49 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A serious Visual Studio Code security issue could let attackers gain persistent access to a developer’s workstation with a single click inside a malicious project folder. The attack abuses clickable links in VS Code’s source editor to bypass the prot",
+    "created_at": "2026-09-18T09:32:00.068818+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163823",
+    "title": "Top 10 Best Container Registry Security Tools in 2026",
+    "link": "https://cybersecuritynews.com/best-container-registry-security-tools/",
+    "published": "Fri, 18 Sep 2026 08:10:39 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Quick Answer: The free floor is unusually strong here: Harbor (CNCF registry with scanning/signing) and Anchore’s Grype/Syft (scanning + SBOM) cover startups at $0. Pay for Snyk (dev-first fixes), Aqua (lifecycle depth), JFrog Xray (registry-native),",
+    "created_at": "2026-09-18T09:32:12.575688+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163841",
+    "title": "AI-Powered Malware Rewrites Itself Every Hour to Evade Signature-Based Detection",
+    "link": "https://cybersecuritynews.com/ai-powered-malware/",
+    "published": "Fri, 18 Sep 2026 08:12:27 +0000",
+    "source": "CybersecurityNews",
+    "summary": "AI-powered malware is making a familiar security problem harder to contain. Instead of keeping the same code long enough for antivirus tools to recognize it, these programs can alter their form repeatedly while retaining the same harmful purpose. The",
+    "created_at": "2026-09-18T09:33:03.373995+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163837",
+    "title": "Plugin4Shell Zero-Click RCE Hits Claude Code, Codex, Copilot and Gemini CLI",
+    "link": "https://cybersecuritynews.com/plugin4shell-zero-click-rce/",
+    "published": "Fri, 18 Sep 2026 08:43:56 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Plugin4Shell is a high-severity, zero-click remote code execution vulnerability affecting major AI coding agents, including Anthropic Claude Code, OpenAI Codex, GitHub Copilot, and Google Gemini CLI. The flaw allows a malicious plugin update to execu",
+    "created_at": "2026-09-18T09:33:51.880011+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163842",
+    "title": "Brevo Supply Chain Attack Pushes WordPress Backdoors and ClickFix Malware to 100,000+ Sites",
+    "link": "https://cybersecuritynews.com/brevo-supply-chain-attack/",
+    "published": "Fri, 18 Sep 2026 09:09:11 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A supply-chain compromise involving Brevo briefly turned widely used website tools into a delivery channel for malware. Attackers inserted hostile JavaScript into services that customer websites load, exposing both visitors and WordPress administrato",
+    "created_at": "2026-09-18T09:34:18.112102+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
+    "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
+    "link": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
+    "published": "Fri, 18 Sep 2026 14:48:03 +0530",
+    "source": "The Hacker News",
+    "summary": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry.\n\n&quot;The developer likely wrote the malware using a large la",
+    "created_at": "2026-09-18T09:34:26.343326+00:00"
   }
 ]
