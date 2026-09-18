@@ -9259,5 +9259,14 @@
     "source": "CybersecurityNews",
     "summary": "Researchers used Anthropic’s Claude Opus 5 to help weaponize an image-decoder vulnerability, compromise OpenAI’s community forum, take over employees’ ChatGPT and Codex accounts, and reach an internal source-code repository. The July 25, 2026 operati",
     "created_at": "2026-09-18T05:01:13.542511+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
+    "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
+    "link": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
+    "published": "Fri, 18 Sep 2026 11:47:25 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have flagged a new Android malware called RatHat that&#x27;s assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to navigate and control compromised devices.\n\n\n&qu",
+    "created_at": "2026-09-18T06:31:08.563369+00:00"
   }
 ]
