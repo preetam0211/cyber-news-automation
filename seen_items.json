@@ -9295,5 +9295,32 @@
     "source": "CybersecurityNews",
     "summary": "ChatGPT subscription notices have become the latest cover for credential-stealing emails. The campaign uses a familiar billing problem to push recipients toward a fake sign-in page, where attackers can collect OpenAI account details. A successful the",
     "created_at": "2026-09-18T13:01:15.314382+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
+    "title": "Webinar: Which Google Workspace security controls actually matter?",
+    "link": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
+    "published": "Fri, 18 Sep 2026 09:10:19 -0400",
+    "source": "BleepingComputer",
+    "summary": "Fast-growing companies face countless recommendations for securing Google Workspace, but not every control provides the same value. This webinar examines real-world breaches to explore which security controls matter most, which may be overrated, and ",
+    "created_at": "2026-09-18T13:31:02.413558+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163909",
+    "title": "Linux Kernel Hit by Four Privilege Escalation Flaws Enabling Root Access",
+    "link": "https://cybersecuritynews.com/linux-kernel-privilege-escalation-flaws/",
+    "published": "Fri, 18 Sep 2026 13:13:23 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Four newly disclosed Linux kernel vulnerabilities could allow local attackers to corrupt kernel memory and escalate privileges to root on affected systems. The flaws, named DirtyAH6, TUNderflow, PPPoEject, and DiagSpill, affect long-standing networki",
+    "created_at": "2026-09-18T13:31:04.442632+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163933",
+    "title": "AI Agents Now Run Ransomware Attacks End-to-End Without Human Operators",
+    "link": "https://cybersecuritynews.com/ai-agents-3/",
+    "published": "Fri, 18 Sep 2026 13:24:09 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Ransomware attacks are entering a new phase. Researchers have documented a campaign in which an AI agent planned, executed, and escalated an extortion operation without evidence that a human approved its actions. The operation, tracked as JADEPUFFER,",
+    "created_at": "2026-09-18T13:31:17.066665+00:00"
   }
 ]
