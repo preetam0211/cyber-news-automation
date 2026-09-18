@@ -9250,5 +9250,14 @@
     "source": "The Hacker News",
     "summary": "A critical vulnerability in Check Point&#x27;s Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network.\n\nThe Security Management Server is the system that controls fi",
     "created_at": "2026-09-18T04:01:19.536306+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163794",
+    "title": "Researchers Use Claude Opus 5 to Hack OpenAI Forum and Reach Internal Repositories",
+    "link": "https://cybersecuritynews.com/opus-5-to-help-exploit-openai-flaws/",
+    "published": "Fri, 18 Sep 2026 04:52:30 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Researchers used Anthropic’s Claude Opus 5 to help weaponize an image-decoder vulnerability, compromise OpenAI’s community forum, take over employees’ ChatGPT and Codex accounts, and reach an internal source-code repository. The July 25, 2026 operati",
+    "created_at": "2026-09-18T05:01:13.542511+00:00"
   }
 ]
