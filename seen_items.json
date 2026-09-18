@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
-    "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
-    "published": "Wed, 19 Aug 2026 06:12:24 -0400",
-    "source": "BleepingComputer",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity remote code execution (RCE) flaw in the Windows Internet Key Exchange (IKE) Service Extensions component. [...]",
-    "created_at": "2026-08-19T10:31:52.472038+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=159957",
-    "title": "Hackers Use Fake Claude Install Guide to Deploy MacSync Stealer and Trojanize Crypto Wallet Apps",
-    "link": "https://cybersecuritynews.com/fake-claude-install-guide/",
-    "published": "Wed, 19 Aug 2026 10:34:19 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Mac users searching for help with Claude Code are being lured into a malware campaign that turns a routine installation task into a full device compromise. The operation uses paid Google search results and a convincing shared Claude conversation to p",
-    "created_at": "2026-08-19T11:01:22.453430+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=159995",
     "title": "Oracle Releases 943 Security Patches Including Critical WebLogic Full Takeover Vulnerability",
     "link": "https://cybersecuritynews.com/oracle-releases-943-security-patches/",
@@ -9286,5 +9268,41 @@
     "source": "BleepingComputer",
     "summary": "Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]",
     "created_at": "2026-09-18T10:01:00.369242+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163865",
+    "title": "Hackers Use Fake T-Mobile Rewards Expiry Texts to Lure Users to Phishing Sites",
+    "link": "https://cybersecuritynews.com/fake-t-mobile-rewards/",
+    "published": "Fri, 18 Sep 2026 09:47:09 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A widespread text-message phishing campaign is posing as T-Mobile to pressure customers into visiting fraudulent reward-redemption pages. The messages claim that loyalty points are about to expire, turning an ordinary account reminder into a trap for",
+    "created_at": "2026-09-18T11:01:12.230273+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163869",
+    "title": "MikroTrick Attack Lets Hackers Gain Full Admin Control of MikroTik Routers Without Login",
+    "link": "https://cybersecuritynews.com/mikrotrick-attack/",
+    "published": "Fri, 18 Sep 2026 09:59:32 +0000",
+    "source": "CybersecurityNews",
+    "summary": "MikroTik router owners face a security problem after researchers reproduced a takeover chain that can hand an outsider full administrator control without a password. The attack, MikroTrick, targets exposed RouterOS devices through SSH and can turn a ",
+    "created_at": "2026-09-18T11:01:22.235428+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
+    "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
+    "link": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
+    "published": "Fri, 18 Sep 2026 16:10:06 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit.\n\nThe new malware family, per OpenSourceMalware, exhibits functional overlaps ",
+    "created_at": "2026-09-18T11:01:24.215195+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163892",
+    "title": "Android Apps Can Now Check If Your Phone Is Missing Critical Security Patches",
+    "link": "https://cybersecuritynews.com/android-apps-check-security-patches/",
+    "published": "Fri, 18 Sep 2026 10:46:01 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Android has released new Security State libraries that allow apps and enterprise tools to check whether a device is missing important security patches. The update gives developers a more detailed view of Android security than the traditional monthly ",
+    "created_at": "2026-09-18T11:01:26.193868+00:00"
   }
 ]
