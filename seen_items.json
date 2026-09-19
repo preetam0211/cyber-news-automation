@@ -9133,5 +9133,14 @@
     "source": "The Hacker News",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vulnerabilities are li",
     "created_at": "2026-09-19T07:31:02.741564+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
+    "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
+    "link": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
+    "published": "Sat, 19 Sep 2026 12:44:54 +0530",
+    "source": "The Hacker News",
+    "summary": "An attacker copied about 170 of CrowdSec&#x27;s private GitHub repositories on May 22 using the account of an employee who had just left, CrowdSec said on September 18.\n\nThe French security company had kept his GitHub access open. CrowdSec says his l",
+    "created_at": "2026-09-19T08:01:12.350437+00:00"
   }
 ]
