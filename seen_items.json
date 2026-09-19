@@ -9142,5 +9142,23 @@
     "source": "The Hacker News",
     "summary": "An attacker copied about 170 of CrowdSec&#x27;s private GitHub repositories on May 22 using the account of an employee who had just left, CrowdSec said on September 18.\n\nThe French security company had kept his GitHub access open. CrowdSec says his l",
     "created_at": "2026-09-19T08:01:12.350437+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
+    "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
+    "link": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
+    "published": "Sat, 19 Sep 2026 13:21:34 +0530",
+    "source": "The Hacker News",
+    "summary": "Google&#x27;s Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first reported by The Wall Street Journal.\n\nThe incident",
+    "created_at": "2026-09-19T09:01:10.796309+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
+    "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
+    "link": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
+    "published": "Sat, 19 Sep 2026 13:48:54 +0530",
+    "source": "The Hacker News",
+    "summary": "A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet.\n\nThe vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score: 9.3), which relates to a case of unauthenticated ",
+    "created_at": "2026-09-19T09:01:35.174674+00:00"
   }
 ]
