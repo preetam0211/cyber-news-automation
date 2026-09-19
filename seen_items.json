@@ -9169,5 +9169,14 @@
     "source": "CybersecurityNews",
     "summary": "A new attack technique dubbed “BragJack” allows a malicious browser extension to seize trusted communication channels used by AI assistants in Chrome, Edge, Opera Neon, Comet, and Claude in Chrome. Rather than bypassing model guardrails or hiding ins",
     "created_at": "2026-09-19T03:31:40.705979+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163968",
+    "title": "Click2Shell WordPress Flaw Lets Attackers Gain RCE With a Single Malicious Link",
+    "link": "https://cybersecuritynews.com/click2shell-wordpress-vulnerability/",
+    "published": "Sat, 19 Sep 2026 04:30:11 +0000",
+    "source": "CybersecurityNews",
+    "summary": "WordPress administrators are being urged to update after researchers disclosed Click2Shell, an exploit chain that can turn one malicious link into remote code execution (RCE) on a vulnerable website. The issue begins with a WordPress Core theme-previ",
+    "created_at": "2026-09-19T05:31:16.611631+00:00"
   }
 ]
