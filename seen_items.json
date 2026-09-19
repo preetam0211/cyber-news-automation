@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/",
-    "title": "New Manic Android malware can exfiltrate data through nearby devices",
-    "link": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/",
-    "published": "Thu, 20 Aug 2026 06:02:02 -0400",
-    "source": "BleepingComputer",
-    "summary": "A new Android malware named Manic targeting users in multiple European countries has a fallback data exfiltration mechanism that uses nearby infected devices. [...]",
-    "created_at": "2026-08-20T10:31:10.464645+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html",
     "title": "40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets",
     "link": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html",
