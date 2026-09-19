@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=160270",
-    "title": "Popular Rust Packages With 244M Downloads Compromised to Run Malware",
-    "link": "https://cybersecuritynews.com/rust-packages-malware/",
-    "published": "Thu, 20 Aug 2026 16:15:06 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A major supply chain attack targeting the Rust ecosystem, in which two widely used crates, arrayref and append-only-vec, were hijacked to silently deliver malware the moment developers compiled their projects. Together, the two packages account for h",
-    "created_at": "2026-08-20T16:31:11.518182+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=160280",
     "title": "Microsoft Defender Driver Can Be Weaponized to Disable EDR and AV From Windows Kernel",
     "link": "https://cybersecuritynews.com/defender-driver-can-be-weaponized/",
