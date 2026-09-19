@@ -8962,5 +8962,14 @@
     "source": "BleepingComputer",
     "summary": "BragJack, a proof-of-concept attack from Forever Security&#x27;s Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. The Prompt Forcing technique earned over $20,00",
     "created_at": "2026-09-19T15:01:02.882696+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164019",
+    "title": "CISA Warns of Linux Kernel Vulnerabilities Actively Exploited in Attacks",
+    "link": "https://cybersecuritynews.com/linux-kernel-vulnerabilities-actively-exploited/",
+    "published": "Sat, 19 Sep 2026 15:09:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has warned that attackers are actively exploiting three Linux kernel vulnerabilities, creating an urgent patching and investigation deadline. CISA added CVE-2025-39682, CVE-2026-53266, ",
+    "created_at": "2026-09-19T15:31:25.435428+00:00"
   }
 ]
