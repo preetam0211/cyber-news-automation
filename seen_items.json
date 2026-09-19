@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
-    "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
-    "link": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
-    "published": "Fri, 21 Aug 2026 01:29:19 +0530",
-    "source": "The Hacker News",
-    "summary": "Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think tanks across Europe, as well a",
-    "created_at": "2026-08-20T20:31:28.013998+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
     "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
     "link": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
