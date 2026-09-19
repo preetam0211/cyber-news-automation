@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=160131",
-    "title": "Critical Zimbra RCE Vulnerability Actively Exploited in the Wild",
-    "link": "https://cybersecuritynews.com/zimbra-rce-vulnerability-exploited/",
-    "published": "Thu, 20 Aug 2026 06:34:27 +0000",
-    "source": "CybersecurityNews",
-    "summary": "CERT Polska has warned that threat actors are actively exploiting a critical remote code execution vulnerability in Zimbra Collaboration Suite. Tracked as CVE-2026-73570, the flaw allows unauthenticated attackers to run arbitrary operating system com",
-    "created_at": "2026-08-20T07:01:37.066935+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/",
-    "title": "Microsoft says August Windows updates may cause gaming issues",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/",
-    "published": "Thu, 20 Aug 2026 02:51:03 -0400",
-    "source": "BleepingComputer",
-    "summary": "Microsoft is investigating a potential issue with the August 2026 updates that may prevent some games from launching or cause them to crash on affected Windows 11 systems. [...]",
-    "created_at": "2026-08-20T07:01:58.023605+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160128",
-    "title": "Claude AI Finds SAML Security Flaws That Can Let Attackers Take Over Accounts",
-    "link": "https://cybersecuritynews.com/claude-ai-finds-saml-security-flaws/",
-    "published": "Thu, 20 Aug 2026 06:51:49 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Security researchers have used Anthropic’s Claude AI to uncover serious flaws in Security Assertion Markup Language (SAML) implementations that could allow attackers to bypass authentication and take over user accounts. The findings highlight the per",
-    "created_at": "2026-08-20T07:02:16.844474+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=160153",
     "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
     "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/",
@@ -9151,5 +9124,14 @@
     "source": "CybersecurityNews",
     "summary": "WordPress administrators are being urged to update after researchers disclosed Click2Shell, an exploit chain that can turn one malicious link into remote code execution (RCE) on a vulnerable website. The issue begins with a WordPress Core theme-previ",
     "created_at": "2026-09-19T05:31:16.611631+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
+    "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
+    "link": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
+    "published": "Sat, 19 Sep 2026 11:54:10 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vulnerabilities are li",
+    "created_at": "2026-09-19T07:31:02.741564+00:00"
   }
 ]
