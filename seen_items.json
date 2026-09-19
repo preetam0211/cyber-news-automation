@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=160112",
-    "title": "AI Agent Hacks Snowflake GitHub Workflow and Reaches Internal Jira",
-    "link": "https://cybersecuritynews.com/ai-agent-hacks-snowflake-github-workflow/",
-    "published": "Thu, 20 Aug 2026 02:32:50 +0000",
-    "source": "CybersecurityNews",
-    "summary": "An autonomous AI security agent built by Wiz Research has demonstrated how quickly a single overlooked line of shell code can cascade into a full credential leak. The tool, known as Wiz Red Agent, independently discovered, exploited, and validated a ",
-    "created_at": "2026-08-20T03:31:36.039078+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=160115",
     "title": "T-Mobile Cyber Team Physically Cuts Cable to Remove Chinese Hackers From Network",
     "link": "https://cybersecuritynews.com/t-mobile-cyber-team-physically-cuts-cable/",
@@ -9178,5 +9169,14 @@
     "source": "The Hacker News",
     "summary": "A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine.\n\nKernel maintainers have fixed all four over the past few weeks, so a system running a",
     "created_at": "2026-09-18T20:31:24.996320+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163949",
+    "title": "BragJack Attack Lets Malicious Extensions Hijack AI Agents Across 5 Major Browsers",
+    "link": "https://cybersecuritynews.com/bragjack-ai-agent-hijacking/",
+    "published": "Sat, 19 Sep 2026 03:05:12 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new attack technique dubbed “BragJack” allows a malicious browser extension to seize trusted communication channels used by AI assistants in Chrome, Edge, Opera Neon, Comet, and Claude in Chrome. Rather than bypassing model guardrails or hiding ins",
+    "created_at": "2026-09-19T03:31:40.705979+00:00"
   }
 ]
