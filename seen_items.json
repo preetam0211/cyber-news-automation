@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=160280",
-    "title": "Microsoft Defender Driver Can Be Weaponized to Disable EDR and AV From Windows Kernel",
-    "link": "https://cybersecuritynews.com/defender-driver-can-be-weaponized/",
-    "published": "Thu, 20 Aug 2026 16:39:41 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Microsoft Defender’s legitimate Boot-Time Removal (BTR.sys) driver can be repurposed to perform powerful kernel-level file and registry operations, potentially enabling attackers with administrative privileges to neutralize endpoint security protecti",
-    "created_at": "2026-08-20T17:01:03.204117+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160261",
-    "title": "AWS Shows How to Stop a Hijacked AI Agent From Reading Data the User Cannot Access",
-    "link": "https://cybersecuritynews.com/aws-ai-agent-data-access/",
-    "published": "Thu, 20 Aug 2026 16:55:37 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Enterprises are racing to deploy AI agents that pull from databases, document repositories, SaaS platforms, and internal knowledge bases to automate workflows. But a quiet risk lurks beneath the convenience: most agents have no built-in awareness of ",
-    "created_at": "2026-08-20T17:01:11.217194+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
     "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
     "link": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
