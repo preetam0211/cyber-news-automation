@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
-    "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
-    "published": "Thu, 20 Aug 2026 10:39:48 -0400",
-    "source": "BleepingComputer",
-    "summary": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
-    "created_at": "2026-08-20T15:01:02.697101+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
     "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
     "link": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
@@ -8962,5 +8953,14 @@
     "source": "BleepingComputer",
     "summary": "A joint law enforcement advisory warns that the North Korean hacking group WaterPlum compromised at least 30,000 devices worldwide from December 2025 through July 2026 and transferred more than $10.7 million in stolen cryptocurrency to North Korea. [",
     "created_at": "2026-09-19T14:31:39.430041+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
+    "title": "BragJack attacks hijack AI browser agents through malicious extensions",
+    "link": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
+    "published": "Sat, 19 Sep 2026 10:56:31 -0400",
+    "source": "BleepingComputer",
+    "summary": "BragJack, a proof-of-concept attack from Forever Security&#x27;s Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. The Prompt Forcing technique earned over $20,00",
+    "created_at": "2026-09-19T15:01:02.882696+00:00"
   }
 ]
