@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
-    "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
-    "published": "Fri, 21 Aug 2026 11:55:15 -0400",
-    "source": "BleepingComputer",
-    "summary": "More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...]",
-    "created_at": "2026-08-21T16:01:04.970869+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
     "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
     "link": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
