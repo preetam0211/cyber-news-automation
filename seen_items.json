@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
-    "title": "Is Online Privacy Possible? How Digital Identities Can Help",
-    "link": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
-    "published": "Fri, 21 Aug 2026 10:00:10 -0400",
-    "source": "BleepingComputer",
-    "summary": "Using the same email, phone number, payment method, and other identifiers makes it easier for data brokers and attackers to profile your activity. Anonyome Labs explains how separate digital personas can reduce correlation and limit the impact of bre",
-    "created_at": "2026-08-21T14:31:54.787433+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160359",
-    "title": "Hackers Hide Agent Tesla JScript Behind Unicode Emojis to Evade Detection",
-    "link": "https://cybersecuritynews.com/hackers-hide-agent-tesla/",
-    "published": "Fri, 21 Aug 2026 14:14:20 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Hackers are using Unicode emoji characters to hide an Agent Tesla JScript dropper in a business email compromise campaign aimed at finance teams. The tactic turns a payment-related attachment into a difficult-to-read script while leaving malicious in",
-    "created_at": "2026-08-21T14:32:20.808187+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160373",
-    "title": "Chinese Hackers Use AI Agents to Exploit Web Servers and Automate Attacks",
-    "link": "https://cybersecuritynews.com/chinese-hackers-use-ai-agents/",
-    "published": "Fri, 21 Aug 2026 14:41:55 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A Chinese-speaking cybercrime group is using AI-assisted tools to turn vulnerable web servers into entry points. It shows how familiar flaws become more dangerous when attackers automate the work around them. The group, tracked as UAT-10147, targeted",
-    "created_at": "2026-08-21T15:01:06.266699+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=160379",
     "title": "Scammers Use WhatsApp Groups to Coordinate Millions in Victim Trades and Pump Real Stocks",
     "link": "https://cybersecuritynews.com/scammers-use-whatsapp-groups/",
