@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=160334",
-    "title": "Hackers Use Fake Google Gemini Installer to Deploy Vidar Stealer and Steal Browser Credentials",
-    "link": "https://cybersecuritynews.com/fake-google-gemini-installer/",
-    "published": "Fri, 21 Aug 2026 10:56:24 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Cybercriminals are abusing interest in generative AI to trick users into downloading malware. In a newly documented incident, a file posing as a Google Gemini installer delivered the Vidar information stealer, putting saved browser passwords and othe",
-    "created_at": "2026-08-21T11:01:17.434477+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
-    "title": "Hackers abuse FTP server banners to deliver new Windows malware",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
-    "published": "Fri, 21 Aug 2026 07:00:00 -0400",
-    "source": "BleepingComputer",
-    "summary": "Threat actors are abusing FTP banners to hide commands that deliver two previously undocumented remote access trojans named E4del and PINHOLE. [...]",
-    "created_at": "2026-08-21T11:01:19.541278+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
     "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
     "link": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
