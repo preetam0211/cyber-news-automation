@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
-    "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
-    "link": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
-    "published": "Sat, 22 Aug 2026 00:23:00 +0530",
-    "source": "The Hacker News",
-    "summary": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux implant dubbed RedC2 4.0.\n\n&quo",
-    "created_at": "2026-08-21T20:31:34.724121+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=160391",
     "title": "Grok Zero-Click Attack Steals Chat Data Using Encrypted Prompt Injection",
     "link": "https://cybersecuritynews.com/grok-zero-click-attack/",
