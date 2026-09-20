@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/",
-    "title": "Microsoft rolls out Classic Outlook theme for New Outlook users",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/",
-    "published": "Fri, 21 Aug 2026 09:39:35 -0400",
-    "source": "BleepingComputer",
-    "summary": "Microsoft has started rolling out a Classic Outlook theme for users of Outlook on the web and the New Outlook for Windows. [...]",
-    "created_at": "2026-08-21T14:01:05.982046+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
     "title": "Is Online Privacy Possible? How Digital Identities Can Help",
     "link": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
@@ -8692,5 +8683,14 @@
     "source": "BleepingComputer",
     "summary": "Researchers escaped OpenAI&#x27;s Codex sandbox two ways, one running commands on a developer&#x27;s machine from its most locked-down mode. OpenAI has patched both. [...]",
     "created_at": "2026-09-20T12:31:12.861375+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
+    "title": "Malicious npm packages evade install-script defenses at runtime",
+    "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
+    "published": "Sun, 20 Sep 2026 10:11:21 -0400",
+    "source": "BleepingComputer",
+    "summary": "An ongoing npm malware campaign involving the &#x27;indexed-btree&#x27; package shows how threat actors bypass supply chain defenses by hiding malicious code in a package&#x27;s normal runtime behavior rather than in installation scripts. [...]",
+    "created_at": "2026-09-20T14:31:25.193270+00:00"
   }
 ]
