@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=160386",
-    "title": "Claude Mythos 5 Now Available in Claude Security for Vulnerability Scanning",
-    "link": "https://cybersecuritynews.com/mythos-5-claude-security-scanning/",
-    "published": "Fri, 21 Aug 2026 17:46:37 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Anthropic has expanded access to its frontier AI cyber-defense capabilities by making Claude Mythos 5 available in Claude Security, enabling enterprise customers to scan codebases for vulnerabilities and receive AI-generated remediation guidance. The",
-    "created_at": "2026-08-21T18:01:06.665861+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
     "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
     "link": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
