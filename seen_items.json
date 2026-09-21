@@ -8602,5 +8602,14 @@
     "source": "CybersecurityNews",
     "summary": "Quick Answer: Microsoft Entra ID wins on bundled value inside M365 estates; Okta wins on neutrality and app-catalog breadth; Ping Identity (which now includes ForgeRock) owns complex enterprise and CIAM; CyberArk leads security-first identity; JumpCl",
     "created_at": "2026-09-21T08:02:37.754785+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
+    "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
+    "link": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
+    "published": "Mon, 21 Sep 2026 14:09:38 +0530",
+    "source": "The Hacker News",
+    "summary": "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript.\n\n&quot;ChainScript has appeared under multiple build names, including ComponentTask33, UpdateDigital, HostShared, and",
+    "created_at": "2026-09-21T09:01:03.998847+00:00"
   }
 ]
