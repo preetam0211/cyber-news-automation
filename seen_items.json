@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=158534",
-    "title": "Top 10 Best Wireless / Wi-Fi Security Solutions in 2026",
-    "link": "https://cybersecuritynews.com/best-wireless-wifi-security-solutions/",
-    "published": "Sat, 22 Aug 2026 09:31:33 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Cisco Meraki scores highest in our 2026 evaluation of automatic Wi-Fi security solutions, combining cloud-managed simplicity with strong policy enforcement, while HPE Aruba leads on enterprise-grade wireless security depth, and Juniper Mist wins on A",
-    "created_at": "2026-08-22T10:31:35.549767+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
     "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
     "link": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
@@ -8611,5 +8602,95 @@
     "source": "The Hacker News",
     "summary": "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript.\n\n&quot;ChainScript has appeared under multiple build names, including ComponentTask33, UpdateDigital, HostShared, and",
     "created_at": "2026-09-21T09:01:03.998847+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163913",
+    "title": "Top 10 Best Privileged Access Management (PAM) Solutions in 2026",
+    "link": "https://cybersecuritynews.com/best-pam-solutions/",
+    "published": "Mon, 21 Sep 2026 08:07:16 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Quick Answer: CyberArk remains the enterprise PAM benchmark; BeyondTrust and Delinea complete the leader trio; ManageEngine PAM360 wins value; HashiCorp Vault owns machine/secrets privilege; and Microsoft Entra PIM covers Azure-role JIT for E5 estate",
+    "created_at": "2026-09-21T10:31:11.786763+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164078",
+    "title": "OpenAI Codex Sandbox Flaws Let Malicious Repositories Execute Commands on Host Systems",
+    "link": "https://cybersecuritynews.com/openai-codex-sandbox-flaws/",
+    "published": "Mon, 21 Sep 2026 08:08:23 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OpenAI Codex recently faced two significant security vulnerabilities that allowed malicious repositories to potentially execute commands on a developer’s local system. These vulnerabilities, identified as Overpatch and Heapjack, were reported to Open",
+    "created_at": "2026-09-21T10:31:30.958314+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163976",
+    "title": "Top 10 Best Identity Governance & Administration (IGA) Tools in 2026",
+    "link": "https://cybersecuritynews.com/best-iga-tools/",
+    "published": "Mon, 21 Sep 2026 08:10:29 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Quick Answer: SailPoint remains the IGA benchmark with AI-driven certifications; Saviynt leads cloud-native converged governance; Microsoft Entra ID Governance wins bundled economics in M365 estates; Omada owns the configurable mid-enterprise; One Id",
+    "created_at": "2026-09-21T10:31:49.349098+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163988",
+    "title": "Top 10 Best Single Sign-On (SSO) Solutions in 2026",
+    "link": "https://cybersecuritynews.com/best-sso-solutions/",
+    "published": "Mon, 21 Sep 2026 08:14:08 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Quick Answer: Microsoft Entra ID is the bundled default for M365 estates; Okta leads neutral catalog breadth; Ping Identity owns complex enterprise; JumpCloud wins SMB directory+SSO (free tier); Cisco Duo pairs SSO with best-in-class MFA. Ownership n",
+    "created_at": "2026-09-21T10:31:59.263311+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164014",
+    "title": "Top 10 Best Multi-Factor Authentication (MFA) Solutions in  2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-mfa-solutions-2026/",
+    "published": "Mon, 21 Sep 2026 08:18:31 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Push-bombing, real-time phishing kits, and helpdesk social engineering broke “any MFA is fine.” The 2026 question is which MFA survives an attacker who can relay codes and spam approvals so we scored ten leading solutions against a weighted rubric th",
+    "created_at": "2026-09-21T10:32:06.385525+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164074",
+    "title": "New Android Malware Uses AI to Steal Bank Logins and Reconstruct Your PIN",
+    "link": "https://cybersecuritynews.com/android-malware-uses-ai/",
+    "published": "Mon, 21 Sep 2026 08:23:04 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly identified Android banking Trojan called RatHat uses phone features for account theft. The malware can guide itself through an infected device, capture banking logins, intercept verification codes and reconstruct a victim’s screen-lock PIN or",
+    "created_at": "2026-09-21T10:32:25.834102+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164091",
+    "title": "North Korean WaterPlum Hackers Infect 30,000 PCs via Fake Job Interviews, Steal $10.7M Crypto",
+    "link": "https://cybersecuritynews.com/north-korean-waterplum-hackers/",
+    "published": "Mon, 21 Sep 2026 08:42:32 +0000",
+    "source": "CybersecurityNews",
+    "summary": "North Korean-linked WaterPlum operators have turned job hunting into a route for theft. By posing as recruiters, they persuaded software developers to run harmful files during apparently normal online interviews. The campaign, also known as Contagiou",
+    "created_at": "2026-09-21T10:32:49.226059+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164111",
+    "title": "Hackers Exploit cPanel CVE-2026-41940 Auth Bypass to Deploy Mirai Malware",
+    "link": "https://cybersecuritynews.com/cpanel-cve-2026-41940/",
+    "published": "Mon, 21 Sep 2026 09:11:46 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are exploiting a critical cPanel and WHM flaw to place Mirai malware on exposed servers, extending a botnet threat normally associated with connected devices. The activity produced a sharp rise in suspicious Telnet traffic and exposed a wider",
+    "created_at": "2026-09-21T10:32:56.449810+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164087",
+    "title": "MSNightmare has Released a Windows Defender Update DoS Vulnerability Called BigDiskBuster",
+    "link": "https://cybersecuritynews.com/defender-bigdiskbuster-dos-flaw/",
+    "published": "Mon, 21 Sep 2026 09:12:39 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Security researcher MSNightmare, also known as Nightmare-Eclipse, has released BigDiskBuster, a proof-of-concept denial-of-service technique designed to stop Microsoft Defender Antivirus from completing platform and security-intelligence updates. The",
+    "created_at": "2026-09-21T10:32:58.427740+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164119",
+    "title": "Hackers Hide Malware Servers on Blockchain to Steal Bank Logins and 2FA Codes",
+    "link": "https://cybersecuritynews.com/hackers-hide-malware-servers/",
+    "published": "Mon, 21 Sep 2026 09:24:39 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new malware campaign is using blockchain technology to keep its control servers out of reach. The operation tricks visitors to compromised business websites into running a malicious command, then steals bank logins and two-factor authentication cod",
+    "created_at": "2026-09-21T10:33:00.420294+00:00"
   }
 ]
