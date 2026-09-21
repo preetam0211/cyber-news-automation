@@ -8575,5 +8575,14 @@
     "source": "BleepingComputer",
     "summary": "An ongoing npm malware campaign involving the &#x27;indexed-btree&#x27; package shows how threat actors bypass supply chain defenses by hiding malicious code in a package&#x27;s normal runtime behavior rather than in installation scripts. [...]",
     "created_at": "2026-09-20T14:31:25.193270+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164039",
+    "title": "Weekly Cybersecurity Newsletter Bulletin – Cisco and Android 0-Day, BragJack Attack, Claude Opus 5 Used to Hack OpenAI, and 20+ Stories",
+    "link": "https://cybersecuritynews.com/weekly-cybersecurity-newsletter-sept-21/",
+    "published": "Mon, 21 Sep 2026 02:32:05 +0000",
+    "source": "CybersecurityNews",
+    "summary": "This week’s roundup covers a maximum-severity Cisco ISE zero-day under active exploitation, an actively exploited Android modem flaw on Pixel devices, a browser-extension attack that hijacks AI agents across five browsers, and researchers using Claud",
+    "created_at": "2026-09-21T04:01:04.996564+00:00"
   }
 ]
