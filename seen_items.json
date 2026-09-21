@@ -8863,5 +8863,41 @@
     "source": "BleepingComputer",
     "summary": "Microsoft will retire the Calendar, People, and Files Microsoft 365 companion apps on December 16 and has asked admins to remove them from managed devices. [...]",
     "created_at": "2026-09-21T18:01:03.676320+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html",
+    "title": "Google Fined €403 Million Over GDPR Violations Tied to Location Data",
+    "link": "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html",
+    "published": "Mon, 21 Sep 2026 22:27:31 +0530",
+    "source": "The Hacker News",
+    "summary": "Google has been fined €403 million for breaking the EU&#x27;s data protection law, the GDPR, in the way three of its features handled people&#x27;s location data from May 2018 to February 2020.\n\nIreland&#x27;s Data Protection Commission (DPC), Google",
+    "created_at": "2026-09-21T18:30:54.958395+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
+    "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
+    "link": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
+    "published": "Mon, 21 Sep 2026 22:49:00 +0530",
+    "source": "The Hacker News",
+    "summary": "The North Korean threat actors behind the Contagious Interview campaign have compromised at least 30,000 devices located in more than 100 countries and siphoned funds or account credentials from over 7,000 cryptocurrency wallets, according to a new j",
+    "created_at": "2026-09-21T18:30:55.733011+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
+    "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
+    "link": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
+    "published": "Mon, 21 Sep 2026 23:01:01 +0530",
+    "source": "The Hacker News",
+    "summary": "A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and runs it, researchers at LastPass and Delphos Labs",
+    "created_at": "2026-09-21T18:30:59.071032+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
+    "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
+    "link": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
+    "published": "Mon, 21 Sep 2026 14:23:11 -0400",
+    "source": "BleepingComputer",
+    "summary": "Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed &#x27;Click2Shell&#x27; that affects the platform&#x27;s Core component. [...]",
+    "created_at": "2026-09-21T18:31:01.013989+00:00"
   }
 ]
