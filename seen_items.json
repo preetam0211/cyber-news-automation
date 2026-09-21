@@ -8575,5 +8575,32 @@
     "source": "The Hacker News",
     "summary": "The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based &quot;much smaller organization&quot; in the information technology (IT) services industry, once again highlighting how the adversary continues ",
     "created_at": "2026-09-21T06:31:35.883438+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164056",
+    "title": "Exim Mail Server 4.100.1 Fixes 4 Security Flaws Including SMTP Smuggling and Heap Corruption",
+    "link": "https://cybersecuritynews.com/exim-mail-server-4-100-1-fixes-security-flaws/",
+    "published": "Mon, 21 Sep 2026 07:51:07 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Exim 4.100.1 fixes four security vulnerabilities, including high-severity Proxy Protocol and GnuTLS use-after-free flaws and a medium-severity SMTP smuggling issue that could let attackers alter submitted email content. The security release was annou",
+    "created_at": "2026-09-21T08:01:45.896352+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164073",
+    "title": "Hackers Hide XMRig Miner in Windows Registry, PNG and WAV Files to Evade Detection",
+    "link": "https://cybersecuritynews.com/hackers-hide-xmrig-miner/",
+    "published": "Mon, 21 Sep 2026 07:52:49 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are using a layered Windows malware chain to run an XMRig cryptocurrency miner while keeping its key parts out of sight. The operation hides code in the Windows Registry, a PNG image, and files that appear to be ordinary WAV audio, making rou",
+    "created_at": "2026-09-21T08:02:18.091280+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=163853",
+    "title": "Top 10 Best Identity & Access Management (IAM) Solutions in 2026",
+    "link": "https://cybersecuritynews.com/best-iam-solutions/",
+    "published": "Mon, 21 Sep 2026 07:57:26 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Quick Answer: Microsoft Entra ID wins on bundled value inside M365 estates; Okta wins on neutrality and app-catalog breadth; Ping Identity (which now includes ForgeRock) owns complex enterprise and CIAM; CyberArk leads security-first identity; JumpCl",
+    "created_at": "2026-09-21T08:02:37.754785+00:00"
   }
 ]
