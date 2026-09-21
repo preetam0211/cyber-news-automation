@@ -8773,5 +8773,32 @@
     "source": "CybersecurityNews",
     "summary": "A malicious npm package that appeared to be an ordinary data-indexing tool has exposed a weakness in software supply-chain defenses. The package, indexed-btree, copied the identity of the legitimate sorted-btree library and recorded almost two millio",
     "created_at": "2026-09-21T14:01:03.899122+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/",
+    "title": "FBI's CJIS v6.1: What Security Teams Need to Know.",
+    "link": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/",
+    "published": "Mon, 21 Sep 2026 10:02:12 -0400",
+    "source": "BleepingComputer",
+    "summary": "The FBI&#x27;s CJIS Security Policy v6.1 strengthens requirements around encryption and vulnerability scanning while continuing the shift toward more continuous security assessment. Specops explains what changed and how agencies can address password,",
+    "created_at": "2026-09-21T14:31:10.902055+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164179",
+    "title": "PAYLOAD Ransomware Hijacks Active Directory GPO to Disrupt Entire Windows Domain Without Encryption",
+    "link": "https://cybersecuritynews.com/payload-ransomware-hijacks-active-directory/",
+    "published": "Mon, 21 Sep 2026 14:03:12 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A PAYLOAD ransomware attack used Active Directory Group Policy Objects to disrupt an entire Windows domain without encrypting files or deploying ransomware binaries. The operation targeted a manufacturing organization in the Middle East. It relied on",
+    "created_at": "2026-09-21T14:31:13.231199+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164200",
+    "title": "Microsoft Investigating Teams Calling Issue Blocking Some Users From Making or Receiving Calls",
+    "link": "https://cybersecuritynews.com/microsoft-teams-calling-issue/",
+    "published": "Mon, 21 Sep 2026 14:18:59 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft is investigating a service incident that is preventing some users from placing or receiving calls through Microsoft Teams. The company disclosed the issue through its verified Microsoft 365 Status account on September 21, directing administ",
+    "created_at": "2026-09-21T14:31:17.615066+00:00"
   }
 ]
