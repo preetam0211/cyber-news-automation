@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html",
-    "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
-    "link": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html",
-    "published": "Sat, 22 Aug 2026 20:02:41 +0530",
-    "source": "The Hacker News",
-    "summary": "The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws in the country.\n\nAs part of the settlement, the social media plat",
-    "created_at": "2026-08-22T15:31:14.527892+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=160421",
     "title": "Microsoft Windows 11 App Pushes Bing as Default Search in Chrome, Firefox and Brave",
     "link": "https://cybersecuritynews.com/windows-11-default-search-app/",
@@ -8827,5 +8818,14 @@
     "source": "BleepingComputer",
     "summary": "Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates. [...]",
     "created_at": "2026-09-21T15:01:49.801546+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
+    "title": "Google fined €403 million over location data privacy violations",
+    "link": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
+    "published": "Mon, 21 Sep 2026 11:41:22 -0400",
+    "source": "BleepingComputer",
+    "summary": "Ireland&#x27;s Data Protection Commission (DPC) has fined Google €403 million ($463M) for multiple GDPR violations related to processing users&#x27; location data. [...]",
+    "created_at": "2026-09-21T16:01:10.666869+00:00"
   }
 ]
