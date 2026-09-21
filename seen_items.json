@@ -8566,5 +8566,14 @@
     "source": "CybersecurityNews",
     "summary": "This week’s roundup covers a maximum-severity Cisco ISE zero-day under active exploitation, an actively exploited Android modem flaw on Pixel devices, a browser-extension attack that hijacks AI agents across five browsers, and researchers using Claud",
     "created_at": "2026-09-21T04:01:04.996564+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
+    "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
+    "link": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
+    "published": "Mon, 21 Sep 2026 11:36:44 +0530",
+    "source": "The Hacker News",
+    "summary": "The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based &quot;much smaller organization&quot; in the information technology (IT) services industry, once again highlighting how the adversary continues ",
+    "created_at": "2026-09-21T06:31:35.883438+00:00"
   }
 ]
