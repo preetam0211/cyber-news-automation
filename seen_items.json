@@ -8827,5 +8827,32 @@
     "source": "BleepingComputer",
     "summary": "Ireland&#x27;s Data Protection Commission (DPC) has fined Google €403 million ($463M) for multiple GDPR violations related to processing users&#x27; location data. [...]",
     "created_at": "2026-09-21T16:01:10.666869+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164212",
+    "title": "Claude Code Agent Allegedly Deletes 48,000 Files in 103 Seconds",
+    "link": "https://cybersecuritynews.com/claude-code-agent-file-deletion/",
+    "published": "Mon, 21 Sep 2026 16:12:31 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A Claude Code user has reported a severe data-loss incident in which an autonomous coding agent allegedly deleted 48,218 live files from a Windows project tree and destroyed the repository’s Git object store. The deletion reportedly occurred in just ",
+    "created_at": "2026-09-21T17:31:06.412887+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164205",
+    "title": "AWS Automatically Quarantines Exposed IAM Keys Within 10 Seconds of GitHub Leak",
+    "link": "https://cybersecuritynews.com/aws-automatically-quarantines-exposed-iam-keys/",
+    "published": "Mon, 21 Sep 2026 16:19:59 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Amazon Web Services can move from detection to containment in seconds when an Identity and Access Management access key appears in a public GitHub repository. In a controlled Unit 42 exposure test, AWS attached its AWSCompromisedKeyQuarantineV3 manag",
+    "created_at": "2026-09-21T17:31:08.619290+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164219",
+    "title": "Google Fined €403 Million for GDPR Violations Over Users’ Location Data",
+    "link": "https://cybersecuritynews.com/google-fined-e403-million/",
+    "published": "Mon, 21 Sep 2026 16:43:32 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Ireland’s Data Protection Commission (DPC) has fined Google Ireland Limited €403 million after concluding that the technology giant violated the General Data Protection Regulation (GDPR) while processing users’ location data. Announced on September 2",
+    "created_at": "2026-09-21T17:31:09.984899+00:00"
   }
 ]
