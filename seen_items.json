@@ -8701,5 +8701,77 @@
     "source": "BleepingComputer",
     "summary": "Microsoft warned that the built-in File History backup feature in Windows may stop working on some systems after installing the September 2026 security updates. [...]",
     "created_at": "2026-09-21T12:01:29.462130+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164128",
+    "title": "Remus Infostealer Removes Syscall Hooks to Evade EDR and Steal Sensitive Credentials",
+    "link": "https://cybersecuritynews.com/remus-infostealer/",
+    "published": "Mon, 21 Sep 2026 11:07:08 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Remus is a Windows information stealer that is gaining attention for the way it hides before taking data. The malware surfaced on underground marketplaces in March 2026 and is built to collect browser information, cryptocurrency wallet data, password",
+    "created_at": "2026-09-21T13:31:32.134136+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164129",
+    "title": "Hackers Use Microsoft-Signed Driver to Disable 145 Security Tools and Steal Passwords",
+    "link": "https://cybersecuritynews.com/signed-driver-disable-security-tools-and-passwords/",
+    "published": "Mon, 21 Sep 2026 11:30:57 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Researchers uncovered a malware campaign that used a Microsoft-attested Windows kernel driver to turn off 145 antivirus and endpoint security processes, then stole passwords, cryptocurrency wallet data, browser sessions, and other sensitive informati",
+    "created_at": "2026-09-21T13:31:45.139161+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164132",
+    "title": "Claude Opus 5 Helps Researchers Weaponize HEIF Image Flaw Into Remote Code Execution",
+    "link": "https://cybersecuritynews.com/claude-opus-5/",
+    "published": "Mon, 21 Sep 2026 11:34:03 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A specially crafted image file was enough to turn a normal upload feature into a potential path to server takeover. Researchers have shown that a flaw in widely used image-decoding software can corrupt memory and, in certain cases, allow attackers to",
+    "created_at": "2026-09-21T13:31:47.294665+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164137",
+    "title": "North Korean TraderTraitor Hackers Use Fake Terraform Job Tests to Deploy macOS Backdoors",
+    "link": "https://cybersecuritynews.com/tradertraitor-hackers/",
+    "published": "Mon, 21 Sep 2026 12:18:33 +0000",
+    "source": "CybersecurityNews",
+    "summary": "North Korean threat actors are using fake Terraform job tests to compromise macOS developers and reach cloud systems. The campaign shows how a routine coding assignment can become an entry point for data theft, remote control, and deeper network intr",
+    "created_at": "2026-09-21T13:31:49.795107+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164156",
+    "title": "Leaky TLS Certificate Exposes North Korea’s Hangro VPN Infrastructure Across Two Countries",
+    "link": "https://cybersecuritynews.com/leaky-tls-certificate/",
+    "published": "Mon, 21 Sep 2026 12:57:10 +0000",
+    "source": "CybersecurityNews",
+    "summary": "North Korea’s Hangro platform has exposed an unusually detailed view of infrastructure used to connect officials and trade representatives abroad with systems inside the country. A newly observed TLS certificate listed servers in North Korea and Russ",
+    "created_at": "2026-09-21T13:31:51.913786+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164133",
+    "title": "ChatGPT Ad Tracking Cookie Follows Users Across Third-Party Advertiser Websites",
+    "link": "https://cybersecuritynews.com/chatgpt-ad-tracking-cookie-follows-users/",
+    "published": "Mon, 21 Sep 2026 13:02:53 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OpenAI’s advertising measurement system appears to use a cross-site cookie that can link activity on advertiser websites to a person’s ChatGPT account. The cookie, named __obi, is created. At the same time, a user visits ChatGPT and can later be sent",
+    "created_at": "2026-09-21T13:31:54.277230+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
+    "title": "Microsoft reminds admins to migrate Entra ID users to passkeys",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
+    "published": "Mon, 21 Sep 2026 09:16:20 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft has reminded admins to migrate Entra ID users to phishing-resistant authentication methods to avoid sign-in disruptions after it retires SMS first-factor sign-in starting in February 2027. [...]",
+    "created_at": "2026-09-21T13:31:56.466492+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164183",
+    "title": "Microsoft Confirms September 2026 Windows Updates Break File History Backups",
+    "link": "https://cybersecuritynews.com/windows-updates-breaks-file-history-backup/",
+    "published": "Mon, 21 Sep 2026 13:18:56 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has confirmed that its September 2026 Windows security updates can prevent File History from creating or updating backups on some systems. The regression places users who rely on the built-in feature at risk of assuming their files are prot",
+    "created_at": "2026-09-21T13:31:57.823646+00:00"
   }
 ]
