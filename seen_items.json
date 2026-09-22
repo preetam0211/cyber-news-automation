@@ -9349,5 +9349,14 @@
     "source": "BleepingComputer",
     "summary": "The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and job applicants. [...]",
     "created_at": "2026-09-22T19:32:46.097012+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
+    "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
+    "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
+    "published": "Tue, 22 Sep 2026 16:35:24 -0400",
+    "source": "BleepingComputer",
+    "summary": "A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from 996 devices and more than 18,500 records stored in backend databases. [...]",
+    "created_at": "2026-09-22T21:01:27.975391+00:00"
   }
 ]
