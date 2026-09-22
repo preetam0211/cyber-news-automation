@@ -9223,5 +9223,23 @@
     "source": "CybersecurityNews",
     "summary": "Microsoft has confirmed a high-severity remote code execution vulnerability in on-premises SharePoint Server that lets an authenticated, low-privileged attacker run arbitrary code over a network without user interaction. Tracked as CVE-2026-65660, th",
     "created_at": "2026-09-22T14:01:06.675933+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
+    "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
+    "published": "Tue, 22 Sep 2026 11:00:00 -0400",
+    "source": "BleepingComputer",
+    "summary": "The EvilTokens platform that compromised more than 12,000 Microsoft accounts at over 10,000 organizations has been disrupted in an effort led by Microsoft&#x27;s Digital Crimes Unit (DCU). [...]",
+    "created_at": "2026-09-22T15:31:13.550203+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164414",
+    "title": "A New Tool for Tracking AI Malware Uncovers Malware That Operates Without Human Control",
+    "link": "https://cybersecuritynews.com/cairn-tool-for-tracking-ai-malware/",
+    "published": "Tue, 22 Sep 2026 15:27:12 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cisco Talos has released CAIRN, an open-source toolkit designed to hunt, classify, and track AI-integrated malware by examining the digital markers developers leave behind. The Cognitive Artifact Intelligence Research Network searches for prompt temp",
+    "created_at": "2026-09-22T15:31:17.481255+00:00"
   }
 ]
