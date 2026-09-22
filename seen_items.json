@@ -9115,5 +9115,41 @@
     "source": "CybersecurityNews",
     "summary": "Aikido Security has unveiled Altar-1, an open-weight artificial intelligence model designed to run defensive cybersecurity workloads entirely inside an organization’s own infrastructure. The model aims to help security teams use advanced AI for vulne",
     "created_at": "2026-09-22T11:01:30.438524+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
+    "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
+    "link": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
+    "published": "Tue, 22 Sep 2026 16:47:41 +0530",
+    "source": "The Hacker News",
+    "summary": "A SharePoint Server vulnerability that Microsoft initially classified as a spoofing flaw with a CVSS score of 6.5 actually enables authenticated remote code execution, according to full technical details published today by Viettel Cyber Security rese",
+    "created_at": "2026-09-22T12:01:11.244795+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164344",
+    "title": "Hackers Clone Legitimate Websites to Silently Trigger Chrome and Windows Zero-Day Exploits",
+    "link": "https://cybersecuritynews.com/hackers-clone-legitimate-websites/",
+    "published": "Tue, 22 Sep 2026 11:25:01 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are using convincing copies of trusted websites to turn an ordinary browser visit into a full Windows compromise. The campaign pairs targeted phishing emails with a chained set of previously unknown flaws in Google Chrome and Microsoft Window",
+    "created_at": "2026-09-22T12:01:13.476567+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html",
+    "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory",
+    "link": "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html",
+    "published": "Tue, 22 Sep 2026 17:08:40 +0530",
+    "source": "The Hacker News",
+    "summary": "A new flaw in the Linux kernel&#x27;s KVM virtualization code for ARM64 processors can leave a freed piece of host memory exposed to a guest virtual machine on hosts with nested virtualization enabled.\n\nThe bug, tracked as CVE-2026-89775, allows a gu",
+    "created_at": "2026-09-22T12:01:16.109005+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
+    "title": "DORA Year Two: Can Your SOC Actually See the Attack?",
+    "link": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
+    "published": "Tue, 22 Sep 2026 17:15:00 +0530",
+    "source": "The Hacker News",
+    "summary": "When the Digital Operational Resilience Act (DORA) became enforceable across the European Union in January 2025, it triggered an administrative sprint. Financial entities spent the first year establishing risk governance, assessing third-party servic",
+    "created_at": "2026-09-22T12:01:18.919130+00:00"
   }
 ]
