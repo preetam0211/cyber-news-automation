@@ -9052,5 +9052,23 @@
     "source": "The Hacker News",
     "summary": "The threat actor known as SideCopy has been observed using spear-phishing lures to target academic institutions in India, expanding their strategic focus beyond government entities.\n\n&quot;SideCopy campaign operations typically initiate through spear",
     "created_at": "2026-09-22T09:31:33.847795+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164313",
+    "title": "Windows COM Flaw Lets Attackers Gain SYSTEM Privileges With a Malicious DLL",
+    "link": "https://cybersecuritynews.com/windows-com-system-privilege-escalation/",
+    "published": "Tue, 22 Sep 2026 09:45:30 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly detailed Windows privilege escalation flaw tracked as CVE-2026-66804 allowed a standard, low-privileged user to plant a malicious DLL and execute arbitrary code with full NT AUTHORITY\\SYSTEM privileges, exploiting a lingering weakness in how ",
+    "created_at": "2026-09-22T10:01:24.597503+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164311",
+    "title": "Hackers Exploit WordPress Flaws to Steal 18,566 Government Records and Plaintext Passwords",
+    "link": "https://cybersecuritynews.com/wordpress-flaws/",
+    "published": "Tue, 22 Sep 2026 09:51:53 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A suspected Chinese-speaking threat actor has used WordPress vulnerabilities to break into at least 49 organizations across 29 countries. The campaign exposed how a compromised website can become a launchpad for database theft, credential abuse, and ",
+    "created_at": "2026-09-22T10:01:51.574190+00:00"
   }
 ]
