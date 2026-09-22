@@ -9358,5 +9358,23 @@
     "source": "BleepingComputer",
     "summary": "A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from 996 devices and more than 18,500 records stored in backend databases. [...]",
     "created_at": "2026-09-22T21:01:27.975391+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/",
+    "title": "Sweden fines Miljödata $183,000 over breach affecting 2.2 million",
+    "link": "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/",
+    "published": "Tue, 22 Sep 2026 17:40:37 -0400",
+    "source": "BleepingComputer",
+    "summary": "Sweden&#x27;s data privacy regulator, IMY, has imposed a $183,000 (SEK 1.8 million) fine on IT systems provider Miljödata for inadequate security measures leading to a breach in August 2025 affecting 2.2 million people. [...]",
+    "created_at": "2026-09-22T22:01:28.390305+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
+    "title": "Rogue external MFA providers can steal passwords during logins",
+    "link": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
+    "published": "Tue, 22 Sep 2026 17:45:45 -0400",
+    "source": "BleepingComputer",
+    "summary": "Security researchers developed an attack that lets hackers with privileged access register a rogue external MFA provider that steals users&#x27; passwords during legitimate login attempts. [...]",
+    "created_at": "2026-09-22T22:01:55.623998+00:00"
   }
 ]
