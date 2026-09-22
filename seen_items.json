@@ -9277,5 +9277,41 @@
     "source": "BleepingComputer",
     "summary": "Shadow IT can leave security teams unaware of unmanaged endpoints, unauthorized software, and other assets that fall outside existing monitoring. Wazuh explains how endpoint inventory, agentless monitoring, and centralized analysis can help organizat",
     "created_at": "2026-09-22T17:31:51.676539+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
+    "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
+    "link": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
+    "published": "Tue, 22 Sep 2026 21:44:04 +0530",
+    "source": "The Hacker News",
+    "summary": "A zero-day proof-of-concept tool that stops Microsoft Defender from installing platform and signature updates by filling all available disk space was published on GitHub on September 19.\n\nThe tool, called BigDiskBuster, has no patch, no CVE, and no M",
+    "created_at": "2026-09-22T18:01:04.330395+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
+    "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
+    "link": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
+    "published": "Tue, 22 Sep 2026 22:11:12 +0530",
+    "source": "The Hacker News",
+    "summary": "A critical vulnerability in Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway server with a single HTTP request.\n\nThe flaw, tracked as CV",
+    "created_at": "2026-09-22T18:01:05.278081+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
+    "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
+    "link": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
+    "published": "Tue, 22 Sep 2026 22:33:31 +0530",
+    "source": "The Hacker News",
+    "summary": "Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) &quot;at every step of the attack chain.&quot;\n\nThe action, carried out with authorization from the U.S. Distric",
+    "created_at": "2026-09-22T18:01:07.566548+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164443",
+    "title": "Check Point Management Server 0-Day Vulnerability Actively Exploited in Attacks",
+    "link": "https://cybersecuritynews.com/check-point-management-server-0-day-exploited/",
+    "published": "Tue, 22 Sep 2026 17:17:03 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Check Point has warned customers that attackers are exploiting a critical zero-day vulnerability in its Security Management infrastructure. Tracked as CVE-2026-93616, the flaw carries a CVSS score of 9.8 and enables an unauthenticated remote attacker",
+    "created_at": "2026-09-22T18:01:08.903464+00:00"
   }
 ]
