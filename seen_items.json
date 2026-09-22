@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=160424",
-    "title": "Weekly Cyber Security Newsletter Bulletin – Entra ID RCE, Claude Code Ransomware, T-Mobile Cable, Azure Credential Theft +20 Stories",
-    "link": "https://cybersecuritynews.com/cyber-security-newsletter-bulletin-august/",
-    "published": "Sun, 23 Aug 2026 16:45:52 +0000",
-    "source": "CybersecurityNews",
-    "summary": "This week’s bulletin captures a cybersecurity landscape increasingly shaped by artificial intelligence, both as a weapon and a shield. A ransomware affiliate weaponized Claude Code to autonomously steal LDAP credentials, backdoor VPNs, and exfiltrate",
-    "created_at": "2026-08-23T17:01:12.619524+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=160427",
     "title": "Iran-Linked Hackers Force UK Power Plant Offline in Unprecedented Four-Day Cyberattack",
     "link": "https://cybersecuritynews.com/hackers-force-uk-power-plant-offline/",
@@ -9277,5 +9268,14 @@
     "source": "CybersecurityNews",
     "summary": "Silver Spring, Maryland, USA, September 22nd, 2026, CyberNewswire Aembit, the identity and access management (IAM) company for AI agents, today announced support for Cross App Access (XAA), an open protocol introduced by Okta that lets a user’s exist",
     "created_at": "2026-09-22T17:01:07.505609+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
+    "title": "Reducing shadow IT visibility gaps with Wazuh",
+    "link": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
+    "published": "Tue, 22 Sep 2026 13:17:41 -0400",
+    "source": "BleepingComputer",
+    "summary": "Shadow IT can leave security teams unaware of unmanaged endpoints, unauthorized software, and other assets that fall outside existing monitoring. Wazuh explains how endpoint inventory, agentless monitoring, and centralized analysis can help organizat",
+    "created_at": "2026-09-22T17:31:51.676539+00:00"
   }
 ]
