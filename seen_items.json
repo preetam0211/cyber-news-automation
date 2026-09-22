@@ -9313,5 +9313,41 @@
     "source": "BleepingComputer",
     "summary": "A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take during post-compromise stages of an attack. [...]",
     "created_at": "2026-09-22T18:31:05.940490+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
+    "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
+    "link": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
+    "published": "Tue, 22 Sep 2026 23:28:15 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have disclosed details of a malicious npm package named &quot;tw-pkgprobe-7731&quot; that masquerades as a security tool targeting developers integrating Twilio into their applications, while stealthily attempting to harvest",
+    "created_at": "2026-09-22T19:32:24.884159+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
+    "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
+    "link": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
+    "published": "Tue, 22 Sep 2026 23:33:10 +0530",
+    "source": "The Hacker News",
+    "summary": "WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders.\n\nOn some servers, that can go further, allowing the attacker to run their own code. The fix shi",
+    "created_at": "2026-09-22T19:32:43.899602+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
+    "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
+    "link": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
+    "published": "Tue, 22 Sep 2026 23:59:39 +0530",
+    "source": "The Hacker News",
+    "summary": "Attackers exploited a previously unknown flaw in Check Point&#x27;s Security Management Server in a handful of targeted attacks on July 23, the company said.\n\nThe flaw, CVE-2026-93616, allows an attacker who can access the server&#x27;s web service t",
+    "created_at": "2026-09-22T19:32:45.234968+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
+    "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
+    "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
+    "published": "Tue, 22 Sep 2026 15:13:29 -0400",
+    "source": "BleepingComputer",
+    "summary": "The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and job applicants. [...]",
+    "created_at": "2026-09-22T19:32:46.097012+00:00"
   }
 ]
