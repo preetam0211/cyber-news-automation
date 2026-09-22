@@ -9241,5 +9241,14 @@
     "source": "CybersecurityNews",
     "summary": "Cisco Talos has released CAIRN, an open-source toolkit designed to hunt, classify, and track AI-integrated malware by examining the digital markers developers leave behind. The Cognitive Artifact Intelligence Research Network searches for prompt temp",
     "created_at": "2026-09-22T15:31:17.481255+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164404",
+    "title": "Autonomous AI Agents Hack Retailers for $25 and Steal 600,000 Credit Cards",
+    "link": "https://cybersecuritynews.com/ai-agents-retail-credit-card-theft/",
+    "published": "Tue, 22 Sep 2026 15:51:18 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A financially motivated operator has been quietly running three open-source AI harnesses against hundreds of online retailers, almost entirely unattended, and the results are staggering: more than 600,000 credit card records stolen, card-skimming scr",
+    "created_at": "2026-09-22T16:01:08.197372+00:00"
   }
 ]
