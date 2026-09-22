@@ -8962,5 +8962,59 @@
     "source": "The Hacker News",
     "summary": "Malware already running on a Mac can quietly take over Meta&#x27;s Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a proof-of-concept released on September 21.\n\nIt works by changing a",
     "created_at": "2026-09-22T07:03:33.145776+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164285",
+    "title": "ZTE SmartLife Flaws Let Attackers Hijack Accounts by Resetting Passwords Without Verification",
+    "link": "https://cybersecuritynews.com/zte-smartlife-flaws/",
+    "published": "Tue, 22 Sep 2026 07:39:59 +0000",
+    "source": "CybersecurityNews",
+    "summary": "ZTE has addressed four vulnerabilities in its SmartLife mobile application following the discovery of critical weaknesses that allowed attackers to enumerate accounts, retrieve account identifiers, reset passwords, and take over user accounts. The mo",
+    "created_at": "2026-09-22T08:31:33.968475+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164268",
+    "title": "CISA Warns of Zyxel GS1900 Switches Flaw Actively Exploited in Attacks",
+    "link": "https://cybersecuritynews.com/cisa-warns-of-zyxel-gs1900-switches-flaw-exploited/",
+    "published": "Tue, 22 Sep 2026 07:42:44 +0000",
+    "source": "CybersecurityNews",
+    "summary": "CISA added CVE-2026-7273, a critical stack-based buffer overflow in the CGI program of Zyxel GS1900 Series Switches, to its KEV catalog after confirming active exploitation. The vulnerability could allow an unauthenticated attacker on the local netwo",
+    "created_at": "2026-09-22T08:31:37.322387+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164043",
+    "title": "Top 10 Best Passwordless Authentication Solutions in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-passwordless-authentication/",
+    "published": "Tue, 22 Sep 2026 07:49:22 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The password’s obituary has been written for a decade, but 2026 is the year the funeral actually gets scheduled: platform passkeys are mainstream, attackers pivoted to stealing sessions instead of secrets via adversary-in-the-middle reverse proxies, ",
+    "created_at": "2026-09-22T08:32:02.357046+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164079",
+    "title": "Top 10 Best Customer Identity & Access Management (CIAM) Solutions in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-ciam-solutions/",
+    "published": "Tue, 22 Sep 2026 07:53:49 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Customer identity is where security meets revenue: every point of login friction costs conversions, while every authentication gap invites account takeover (ATO) attacks and automated credential stuffing. Customer identity is where security meets rev",
+    "created_at": "2026-09-22T08:32:24.296277+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164166",
+    "title": "Top 10 Best Identity Threat Detection & Response (ITDR) Tools in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-itdr-tools/",
+    "published": "Tue, 22 Sep 2026 07:59:29 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The modern breach doesn’t kick the door in it signs in. Stolen sessions, abused service accounts, and helpdesk-reset social engineering made identity the primary attack surface, and Identity Threat Detection and Response (ITDR) solutions the fastest-",
+    "created_at": "2026-09-22T08:33:15.089899+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164274",
+    "title": "Hackers Steal NTDS.dit to Dump Active Directory Password Hashes and Forge Golden Tickets",
+    "link": "https://cybersecuritynews.com/hackers-steal-ntds-dit/",
+    "published": "Tue, 22 Sep 2026 08:02:10 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Threat actors that gain a foothold in a Windows network are increasingly aiming for the domain controller, the server that manages identities and permissions. A successful theft of its Active Directory database can expose password material for every ",
+    "created_at": "2026-09-22T08:33:48.539823+00:00"
   }
 ]
