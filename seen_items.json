@@ -8926,5 +8926,14 @@
     "source": "CybersecurityNews",
     "summary": "A zero-day vulnerability in Meta’s Muse AI agent for macOS could allow malware already running under a user account to hijack the assistant, intercept dictated prompts, inject malicious instructions, and steal authentication material. The flaw is esp",
     "created_at": "2026-09-22T03:31:14.436270+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164063",
+    "title": "Hackers Impersonate IT Help Desk on Microsoft Teams to Steal Windows Passwords",
+    "link": "https://cybersecuritynews.com/hackers-impersonate-it-help-desk-on-teams/",
+    "published": "Tue, 22 Sep 2026 04:46:11 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are abusing Microsoft Teams chats to impersonate IT help desk staff, trick employees into installing malware or granting remote access, and steal Windows passwords through a fake lock screen. The attacks don’t require a software vulnerability",
+    "created_at": "2026-09-22T05:01:15.904470+00:00"
   }
 ]
