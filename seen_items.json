@@ -9070,5 +9070,32 @@
     "source": "CybersecurityNews",
     "summary": "A suspected Chinese-speaking threat actor has used WordPress vulnerabilities to break into at least 49 organizations across 29 countries. The campaign exposed how a compromised website can become a launchpad for database theft, credential abuse, and ",
     "created_at": "2026-09-22T10:01:51.574190+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
+    "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
+    "link": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
+    "published": "Tue, 22 Sep 2026 05:55:11 -0400",
+    "source": "BleepingComputer",
+    "summary": "Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that blocks antivirus updates. [...]",
+    "created_at": "2026-09-22T10:31:23.325053+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164337",
+    "title": "GHAPPIER Supply Chain Attack Compromises 65 GitHub Repositories and Poisons npm Package",
+    "link": "https://cybersecuritynews.com/ghappier-supply-chain-attack/",
+    "published": "Tue, 22 Sep 2026 10:21:22 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly uncovered software supply chain attack has shown how quickly a trusted developer account can become a delivery route for malware. The operation, tracked as GHAPPIER, reached 65 GitHub repositories, infecting 73 files across 22 accounts. It in",
+    "created_at": "2026-09-22T10:31:25.649969+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164290",
+    "title": "Context Bombs Trick Autonomous Qwen AI Agents Into Stopping Cyberattacks",
+    "link": "https://cybersecuritynews.com/context-bombs/",
+    "published": "Tue, 22 Sep 2026 10:21:44 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A hidden “context bomb” prompt in a cloud decoy can disrupt AI agents and force Qwen3.8-27B to stop simulated attacks. The technique worked against both the original and modified “abliterated” versions. Context bombs are defensive strings placed in v",
+    "created_at": "2026-09-22T10:31:28.014613+00:00"
   }
 ]
