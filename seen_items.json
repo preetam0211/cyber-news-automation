@@ -9097,5 +9097,23 @@
     "source": "CybersecurityNews",
     "summary": "A hidden “context bomb” prompt in a cloud decoy can disrupt AI agents and force Qwen3.8-27B to stop simulated attacks. The technique worked against both the original and modified “abliterated” versions. Context bombs are defensive strings placed in v",
     "created_at": "2026-09-22T10:31:28.014613+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html",
+    "title": "Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal",
+    "link": "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html",
+    "published": "Tue, 22 Sep 2026 15:08:18 +0530",
+    "source": "The Hacker News",
+    "summary": "A malicious npm package named &quot;indexed-btree&quot; has been observed hiding its malicious behavior within application code rather than using lifecycle scripts, indicating that threat actors are likely shifting tactics in response to recent secur",
+    "created_at": "2026-09-22T11:01:28.359842+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164302",
+    "title": "Aikido Security Unveils Altar-1 Open-Weight AI for Cybersecurity Defense",
+    "link": "https://cybersecuritynews.com/aikido-security-unveils-altar-1/",
+    "published": "Tue, 22 Sep 2026 10:50:04 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Aikido Security has unveiled Altar-1, an open-weight artificial intelligence model designed to run defensive cybersecurity workloads entirely inside an organization’s own infrastructure. The model aims to help security teams use advanced AI for vulne",
+    "created_at": "2026-09-22T11:01:30.438524+00:00"
   }
 ]
