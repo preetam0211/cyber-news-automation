@@ -8917,5 +8917,14 @@
     "source": "BleepingComputer",
     "summary": "Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applications and used them to inject malicious scripts into online stores. [...]",
     "created_at": "2026-09-21T21:31:32.923503+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164233",
+    "title": "Meta’s Muse AI Agent 0-Day Vulnerability Allows Attackers to Hijack the Tool and Inject Malware",
+    "link": "https://cybersecuritynews.com/metas-muse-ai-agent-0-day-vulnerability/",
+    "published": "Tue, 22 Sep 2026 03:13:18 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A zero-day vulnerability in Meta’s Muse AI agent for macOS could allow malware already running under a user account to hijack the assistant, intercept dictated prompts, inject malicious instructions, and steal authentication material. The flaw is esp",
+    "created_at": "2026-09-22T03:31:14.436270+00:00"
   }
 ]
