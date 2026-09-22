@@ -8935,5 +8935,32 @@
     "source": "CybersecurityNews",
     "summary": "Hackers are abusing Microsoft Teams chats to impersonate IT help desk staff, trick employees into installing malware or granting remote access, and steal Windows passwords through a fake lock screen. The attacks don’t require a software vulnerability",
     "created_at": "2026-09-22T05:01:15.904470+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
+    "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access",
+    "link": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
+    "published": "Tue, 22 Sep 2026 11:01:59 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a now-patched security flaw impacting Zyxel GS1900 series switches to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vul",
+    "created_at": "2026-09-22T07:01:49.091416+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
+    "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
+    "link": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
+    "published": "Tue, 22 Sep 2026 11:33:14 +0530",
+    "source": "The Hacker News",
+    "summary": "A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site&#x27;s server.\n\nWordPress fixed the flaw, track",
+    "created_at": "2026-09-22T07:02:41.162950+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
+    "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
+    "link": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
+    "published": "Tue, 22 Sep 2026 12:03:57 +0530",
+    "source": "The Hacker News",
+    "summary": "Malware already running on a Mac can quietly take over Meta&#x27;s Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a proof-of-concept released on September 21.\n\nIt works by changing a",
+    "created_at": "2026-09-22T07:03:33.145776+00:00"
   }
 ]
