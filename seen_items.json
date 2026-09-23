@@ -9448,5 +9448,32 @@
     "source": "CybersecurityNews",
     "summary": "IBM has released security fixes for Financial Transaction Manager for Red Hat OpenShift after identifying multiple vulnerabilities that could enable remote code execution, unauthorized payment actions, credential theft, data exposure, and service dis",
     "created_at": "2026-09-23T15:01:07.586605+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
+    "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
+    "link": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
+    "published": "Wed, 23 Sep 2026 19:47:58 +0530",
+    "source": "The Hacker News",
+    "summary": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker&#x27;s server, Cisco Talos said on September 22.\n\nThe models can choose to steal Windows credentials, saved browser passwords, an",
+    "created_at": "2026-09-23T15:31:06.563371+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164555",
+    "title": "New Cpanel Vulnerability Allows Attackers to Access Other Users’ Accounts",
+    "link": "https://cybersecuritynews.com/cpanel-user-account-access-flaw/",
+    "published": "Wed, 23 Sep 2026 15:18:34 +0000",
+    "source": "CybersecurityNews",
+    "summary": "cPanel has patched three newly disclosed security vulnerabilities that threaten tenant isolation on shared-hosting servers, including a permissions flaw that exposes other users’ calendars and contacts. The September 22, 2026, security release addres",
+    "created_at": "2026-09-23T15:31:09.780947+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164571",
+    "title": "Outerlimit Raises $16M to Build Zero Trust Security Layer for Autonomous AI Agents",
+    "link": "https://cybersecuritynews.com/outerlimit-ai-agent-zero-trust/",
+    "published": "Wed, 23 Sep 2026 15:24:38 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Outerlimit has emerged from stealth with $16 million in pre-seed funding to develop a decentralized security and authorization layer for autonomous AI agents. Announced on September 22, 2026, the round was backed by AlbionVC, Evolution Equity Partner",
+    "created_at": "2026-09-23T15:31:11.858196+00:00"
   }
 ]
