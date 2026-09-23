@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
-    "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
-    "published": "Mon, 24 Aug 2026 06:45:12 -0400",
-    "source": "BleepingComputer",
-    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days. [...]",
-    "created_at": "2026-08-24T11:01:26.294136+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=160487",
     "title": "AmnesiaStealer Gives Hackers Hidden Control of Logged-In Browsers on Macs",
     "link": "https://cybersecuritynews.com/amnesiastealer-hidden-control/",
@@ -9466,5 +9457,14 @@
     "source": "CybersecurityNews",
     "summary": "EvilTokens turns a Microsoft sign-in into a route to corporate email fraud. The phishing kit, first seen in February 2026, tricks people into approving an attacker’s login through a real device code process without handing over a password. The lure u",
     "created_at": "2026-09-23T11:01:10.252040+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/",
+    "title": "Microsoft: September Windows updates break Always On VPN connections",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/",
+    "published": "Wed, 23 Sep 2026 07:18:13 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft warned that the September 2026 security updates may also break Always On VPN connections on some Windows 11 systems. [...]",
+    "created_at": "2026-09-23T11:30:58.743073+00:00"
   }
 ]
