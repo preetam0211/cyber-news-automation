@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=160459",
-    "title": "Hackers Infect Android Car Screens Through Their Built-In Software Update System",
-    "link": "https://cybersecuritynews.com/hackers-infect-android-car-screens/",
-    "published": "Mon, 24 Aug 2026 07:30:28 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A newly uncovered Android malware campaign has turned car infotainment screens into an unexpected target. Rather than tricking drivers into installing a suspicious app, attackers used the software update path already built into Android-based head uni",
-    "created_at": "2026-08-24T08:01:17.095781+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=160468",
     "title": "Anthropic’s Claude AI Suffers Another Outage With Elevated Errors",
     "link": "https://cybersecuritynews.com/claude-ai-suffers-outage/",
@@ -9403,5 +9394,50 @@
     "source": "CybersecurityNews",
     "summary": "A Windows malware sample called CLOSEDQUORUM can choose its next move without waiting for an attacker to send instructions. Once configured and deployed, it asks AI models whether to steal data, hide in a process, or maintain access. The decision mak",
     "created_at": "2026-09-23T07:32:16.112061+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164483",
+    "title": "ChatGPT Computer History Feature Creates New Attack Surface for macOS Infostealers",
+    "link": "https://cybersecuritynews.com/chatgpt-computer-history-feature/",
+    "published": "Wed, 23 Sep 2026 07:31:10 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new feature in ChatGPT now records your actions on your Mac, creating a detailed, plain-text diary of your work. This unencrypted log is vulnerable to cybercriminals, offering them an easy target. Released by OpenAI in mid-August 2026 and available",
+    "created_at": "2026-09-23T08:01:23.677576+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164264",
+    "title": "Top 10 Best Secrets Management Tools in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-secrets-management-tools/",
+    "published": "Wed, 23 Sep 2026 07:43:53 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Machine identities now outnumber humans many times over, and a single API key in a public repo can undo a security program. We scored ten secrets managers on rotation depth, integration reach, and cost clarity. HashiCorp Vault ranks #1 the dynamic-se",
+    "created_at": "2026-09-23T08:01:25.753659+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164469",
+    "title": "Chrome Patches 108 Vulnerabilities Including Crticial Flaws that Enable Code Execution Attacks",
+    "link": "https://cybersecuritynews.com/chrome-patches-108-vulnerabilities/",
+    "published": "Wed, 23 Sep 2026 07:46:37 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Google has released Chrome 154 for Windows, macOS, and Linux, fixing 108 security vulnerabilities, including several critical memory-safety flaws that could potentially allow attackers to execute code through malicious web content. The update is roll",
+    "created_at": "2026-09-23T08:01:28.721315+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164462",
+    "title": "Critical ManageEngine Flaw Lets Attackers Gain SYSTEM Access Through Windows Login Screen",
+    "link": "https://cybersecuritynews.com/critical-manageengine-flaw/",
+    "published": "Wed, 23 Sep 2026 07:53:01 +0000",
+    "source": "CybersecurityNews",
+    "summary": "ManageEngine has fixed a critical remote code execution vulnerability in ADSelfService Plus that could allow an unauthenticated attacker to run code as NT AUTHORITY\\SYSTEM through a Windows device’s login screen. The flaw, tracked as CVE-2026-74849, ",
+    "created_at": "2026-09-23T08:01:44.636176+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164329",
+    "title": "Top 10 Best Decentralized Identity Solutions in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-decentralized-identity/",
+    "published": "Wed, 23 Sep 2026 07:54:37 +0000",
+    "source": "CybersecurityNews",
+    "summary": "EU digital identity and GDPR compliance mandates, deepfake-driven fraud in authentication and verification, and credential-reuse fatigue pushed decentralized identity from conference-talk to contract. We scored ten players on standards depth, product",
+    "created_at": "2026-09-23T08:01:46.102424+00:00"
   }
 ]
