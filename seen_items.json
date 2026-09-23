@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
-    "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
-    "link": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
-    "published": "Mon, 24 Aug 2026 17:14:30 -0400",
-    "source": "BleepingComputer",
-    "summary": "An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can expose local network devices to the public internet",
-    "created_at": "2026-08-24T21:31:10.436571+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
     "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
     "link": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
@@ -9493,5 +9484,14 @@
     "source": "BleepingComputer",
     "summary": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway product. [...]",
     "created_at": "2026-09-23T20:01:32.974203+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
+    "title": "New RemControl Android banking malware targets users in Europe and Canada",
+    "link": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
+    "published": "Wed, 23 Sep 2026 17:25:13 -0400",
+    "source": "BleepingComputer",
+    "summary": "A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]",
+    "created_at": "2026-09-23T21:31:15.727820+00:00"
   }
 ]
