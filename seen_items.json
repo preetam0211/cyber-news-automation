@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=160468",
-    "title": "Anthropic’s Claude AI Suffers Another Outage With Elevated Errors",
-    "link": "https://cybersecuritynews.com/claude-ai-suffers-outage/",
-    "published": "Mon, 24 Aug 2026 08:01:43 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Anthropic’s Claude AI platform experienced another wave of elevated errors on August 24, 2026, marking yet another disruption in what has become a troubling pattern of instability for one of the industry’s leading AI providers. The incident, first fl",
-    "created_at": "2026-08-24T08:31:32.826899+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160475",
-    "title": "Hugging Face Reportedly Explores $13 Billion Sale Following Recent AI Security Incident",
-    "link": "https://cybersecuritynews.com/hugging-face-13-billion-sale/",
-    "published": "Mon, 24 Aug 2026 08:10:09 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Hugging Face is testing a sale that could value the open-source AI hub at $13 billion or more, even as it is still closing out July’s autonomous-agent intrusion. People familiar with the process said the New York platform has hired a bank to sound ou",
-    "created_at": "2026-08-24T08:31:42.238482+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html",
-    "title": "UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit",
-    "link": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html",
-    "published": "Mon, 24 Aug 2026 13:38:31 +0530",
-    "source": "The Hacker News",
-    "summary": "Cybersecurity researchers have disclosed details of a Chinese-speaking cybercrime group dubbed UAT-10147 that&#x27;s targeting Windows and Linux web servers globally across the education, media, technology, and gaming sectors.\n\nThe vast majority of t",
-    "created_at": "2026-08-24T09:01:35.895891+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
     "title": "Microsoft shares temporary fix for Windows 11 gaming issues",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
@@ -9448,5 +9421,23 @@
     "source": "BleepingComputer",
     "summary": "An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. [...]",
     "created_at": "2026-09-23T08:31:11.981844+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html",
+    "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
+    "link": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html",
+    "published": "Wed, 23 Sep 2026 13:59:24 +0530",
+    "source": "The Hacker News",
+    "summary": "A Chinese threat actor codenamed UTA0565 has been observed exploiting the recently disclosed Google Chrome-Microsoft Windows exploit chain as zero-days through fake websites.\n\nThe attacks, detected on September 3 and 4, 2026, involved the chaining of",
+    "created_at": "2026-09-23T09:01:21.821037+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
+    "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
+    "link": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
+    "published": "Wed, 23 Sep 2026 13:59:48 +0530",
+    "source": "The Hacker News",
+    "summary": "Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says.\n\nThe flaw, CVE-2026-94127, affects only systems in which APM serves as an OAuth authorization se",
+    "created_at": "2026-09-23T09:01:41.172513+00:00"
   }
 ]
