@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html",
-    "title": "The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk",
-    "link": "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html",
-    "published": "Mon, 24 Aug 2026 17:00:00 +0530",
-    "source": "The Hacker News",
-    "summary": "Big security risks come in small packages. While enterprise security teams focus on policing the proliferation of employees using ChatGPT and Claude for quick drafting tasks, a more urgent threat is posed by a handful of AI super-adopters who are qui",
-    "created_at": "2026-08-24T12:31:25.744476+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html",
-    "title": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
-    "link": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html",
-    "published": "Mon, 24 Aug 2026 17:21:36 +0530",
-    "source": "The Hacker News",
-    "summary": "Cybersecurity researchers have flagged a cyber espionage campaign targeting Myanmar that uses graduation ceremony invitation lures to deliver a Go backdoor called QUICAgent.\n\nThe campaign, codenamed Operation QUICSILVER, has been found to target gove",
-    "created_at": "2026-08-24T12:31:37.950883+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
-    "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
-    "link": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
-    "published": "Mon, 24 Aug 2026 17:26:34 +0530",
-    "source": "The Hacker News",
-    "summary": "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any user account by forcing a passwor",
-    "created_at": "2026-08-24T12:32:01.629260+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
-    "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
-    "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
-    "published": "Mon, 24 Aug 2026 17:28:00 +0530",
-    "source": "The Hacker News",
-    "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work.\n\nThe harder part is what comes after. AI can also introduce open-source packages at a pace y",
-    "created_at": "2026-08-24T12:32:08.867529+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=160493",
     "title": "Microsoft Teams Phishing Deploys New SynkLoader Malware to Steal Windows Passwords",
     "link": "https://cybersecuritynews.com/microsoft-teams-phishing/",
@@ -9475,5 +9439,50 @@
     "source": "BleepingComputer",
     "summary": "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
     "created_at": "2026-09-23T12:31:09.390549+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
+    "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
+    "link": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
+    "published": "Wed, 23 Sep 2026 16:42:18 +0530",
+    "source": "The Hacker News",
+    "summary": "A use-after-free in the Linux kernel&#x27;s AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst said in research published September 22.\n\nThe flaw, tracked as CVE-2026-80521 (CVSS score: 7.8)",
+    "created_at": "2026-09-23T13:01:06.841543+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
+    "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
+    "link": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
+    "published": "Wed, 23 Sep 2026 17:17:13 +0530",
+    "source": "The Hacker News",
+    "summary": "Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior.\n\nOpus 5.5, per Anthropic, is a &quot;major step up from ",
+    "created_at": "2026-09-23T13:01:08.954027+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
+    "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
+    "link": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
+    "published": "Wed, 23 Sep 2026 17:17:19 +0530",
+    "source": "The Hacker News",
+    "summary": "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: confident prose, a list of findings, and no way to t",
+    "created_at": "2026-09-23T13:01:11.054103+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
+    "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
+    "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
+    "published": "Wed, 23 Sep 2026 17:46:00 +0530",
+    "source": "The Hacker News",
+    "summary": "A flaw in cPanel&#x27;s CalDAV and CardDAV service lets anyone with a cPanel hosting account run code as root and take &quot;full control of the server,&quot; the company said on September 22.\n\nA second bug in the WP Toolkit plugin, used to install a",
+    "created_at": "2026-09-23T13:01:13.122087+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164539",
+    "title": "Fake Crypto Wallet App Spreads PamStealer Malware to Steal Mac Passwords",
+    "link": "https://cybersecuritynews.com/fake-crypto-wallet-app-spreads-pamstealer-malware-to-steal-mac-passwords/",
+    "published": "Wed, 23 Sep 2026 12:44:40 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A fake cryptocurrency wallet download is delivering a new version of PamStealer to Mac users. The attack starts with a convincing website whose installer asks visitors to follow instructions. Running the disguised file starts a hidden chain that can ",
+    "created_at": "2026-09-23T13:01:15.225530+00:00"
   }
 ]
