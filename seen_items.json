@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
-    "title": "Microsoft shares temporary fix for Windows 11 gaming issues",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
-    "published": "Mon, 24 Aug 2026 05:42:05 -0400",
-    "source": "BleepingComputer",
-    "summary": "Microsoft has shared a temporary fix for ongoing gaming issues caused by Windows 11 updates released during the August 2026 Patch Tuesday. [...]",
-    "created_at": "2026-08-24T10:01:29.208919+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160467",
-    "title": "Fake CAPTCHA Tricks Mac Users Into Installing a Backdoor That Steals Passwords and Mines Crypto",
-    "link": "https://cybersecuritynews.com/fake-captcha-tricks-mac-users/",
-    "published": "Mon, 24 Aug 2026 09:49:32 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Mac users are being lured into a ClickFix campaign that turns a routine CAPTCHA check into a path for password theft, remote control, and cryptocurrency mining. It persuades a visitor to run an attackers’ command in Terminal rather than download an a",
-    "created_at": "2026-08-24T10:01:44.792752+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
     "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
     "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
@@ -9439,5 +9421,41 @@
     "source": "The Hacker News",
     "summary": "Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says.\n\nThe flaw, CVE-2026-94127, affects only systems in which APM serves as an OAuth authorization se",
     "created_at": "2026-09-23T09:01:41.172513+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164484",
+    "title": "Critical SolarWinds Flaws Let Attackers Remotely Execute Code on Observability Servers",
+    "link": "https://cybersecuritynews.com/solarwinds-flaws-execute-code-on-observability-servers/",
+    "published": "Wed, 23 Sep 2026 08:15:42 +0000",
+    "source": "CybersecurityNews",
+    "summary": "SolarWinds released Observability Self-Hosted 2026.2.3 to fix two serious vulnerabilities that could let unauthenticated attackers remotely execute code on affected observability servers. The flaws, tracked as CVE-2026-28324 and CVE-2026-28325, affec",
+    "created_at": "2026-09-23T10:01:35.139224+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164474",
+    "title": "A Fake Streaming App Turned Android Phones Into Remote-Controlled Devices",
+    "link": "https://cybersecuritynews.com/a-fake-streaming-app/",
+    "published": "Wed, 23 Sep 2026 08:46:27 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A free television offer led Android users to a dangerous download. Ads for a streaming service urged them to install an app that could give criminals control of their phones, rather than access to shows. The malware behind the campaign is called Stre",
+    "created_at": "2026-09-23T10:01:44.117380+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164495",
+    "title": "AI-Driven Cyberattacks Enter New Phase With Autonomous Fraud and Digital Trust Abuse",
+    "link": "https://cybersecuritynews.com/ai-driven-cyberattacks/",
+    "published": "Wed, 23 Sep 2026 08:59:52 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cyberattacks are increasingly built around familiar actions: signing in, approving a payment, or using a trusted app. Artificial intelligence can help attackers repeat those actions at speed, making financial fraud and network intrusion harder to spo",
+    "created_at": "2026-09-23T10:01:46.181180+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164503",
+    "title": "The Malware Hiding in Developer Tools That Turned Terraform Providers Into Attack Paths",
+    "link": "https://cybersecuritynews.com/malware-hiding-in-developer-tools/",
+    "published": "Wed, 23 Sep 2026 09:22:31 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Malware has moved into tools developers use to build and manage cloud infrastructure. A campaign linked to Graphalgo planted a remote access program in Terraform providers and Go software packages, turning routine development work into a possible rou",
+    "created_at": "2026-09-23T10:01:48.350142+00:00"
   }
 ]
