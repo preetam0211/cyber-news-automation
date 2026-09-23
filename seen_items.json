@@ -9358,5 +9358,50 @@
     "source": "The Hacker News",
     "summary": "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency.\n\n&quot;We have compromised the FBI. We hold very sens",
     "created_at": "2026-09-23T07:01:17.250348+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164466",
+    "title": "WordPress Malware Uses Hidden Plugin and Blockchain C2 to Stay Undetected",
+    "link": "https://cybersecuritynews.com/wordpress-malware/",
+    "published": "Wed, 23 Sep 2026 06:42:53 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly identified WordPress malware strain is using a hidden plugin, stolen administrator access, and a blockchain-based command channel to remain active on compromised websites. The threat is built to survive common cleanup efforts while quietly co",
+    "created_at": "2026-09-23T07:31:13.873758+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
+    "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
+    "link": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
+    "published": "Wed, 23 Sep 2026 12:34:40 +0530",
+    "source": "The Hacker News",
+    "summary": "A new security vulnerability in Next.js could allow attackers to run code on a server via ImageResponse, the feature that generates Open Graph and other social preview images, Vercel said.\n\nThe risk applies when an app puts values an attacker control",
+    "created_at": "2026-09-23T07:31:44.581555+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164457",
+    "title": "Critical WordPress Core Vulnerability Lets Attackers Execute Code Without Logging In",
+    "link": "https://cybersecuritynews.com/wordpress-core-vulnerability/",
+    "published": "Wed, 23 Sep 2026 07:05:59 +0000",
+    "source": "CybersecurityNews",
+    "summary": "WordPress has released version 7.1.2 to address a critical security vulnerability that could allow unauthenticated attackers to execute code on vulnerable websites under specific conditions. Site administrators should update immediately because succe",
+    "created_at": "2026-09-23T07:32:02.119729+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
+    "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
+    "published": "Wed, 23 Sep 2026 03:17:23 -0400",
+    "source": "BleepingComputer",
+    "summary": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
+    "created_at": "2026-09-23T07:32:08.453721+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164472",
+    "title": "This Malware Doesn’t Wait for Hackers—It Asks AI Models What to Do Next",
+    "link": "https://cybersecuritynews.com/ai-models/",
+    "published": "Wed, 23 Sep 2026 07:20:40 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A Windows malware sample called CLOSEDQUORUM can choose its next move without waiting for an attacker to send instructions. Once configured and deployed, it asks AI models whether to steal data, hide in a process, or maintain access. The decision mak",
+    "created_at": "2026-09-23T07:32:16.112061+00:00"
   }
 ]
