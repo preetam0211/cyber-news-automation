@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=160433",
-    "title": "New Malware-as-a-service Leveraging Adobe-themed Domain to Attack Windows Users Using .bat File",
-    "link": "https://cybersecuritynews.com/malware-as-a-service-adobe-themed-domain/",
-    "published": "Mon, 24 Aug 2026 04:47:41 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A criminal service is hiding behind a website that appears to offer Adobe Acrobat Reader. The site, acrobatreaderonline.com, is not a document service. Instead, it appears to expose an operator panel for building and managing attacks against Windows ",
-    "created_at": "2026-08-24T05:01:25.246377+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=160442",
     "title": "Cybermes – AI Red Teaming Agent for Automated Penetration Testing",
     "link": "https://cybersecuritynews.com/cybermes-ai-red-teaming-agent/",
