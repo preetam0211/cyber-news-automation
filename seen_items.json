@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
-    "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
-    "link": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
-    "published": "Mon, 24 Aug 2026 18:05:36 +0530",
-    "source": "The Hacker News",
-    "summary": "Cybersecurity researchers have flagged two new malware families called  WordlistLoader and SynkLoader that&#x27;s used to deliver next-stage payloads and likely sell access to ransomware groups.\n\nAccording to findings from Gen Digital, WordlistLoader",
-    "created_at": "2026-08-24T14:05:00.972440+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/",
-    "title": "South Korean startup platform breach exposes key management failures",
-    "link": "https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/",
-    "published": "Mon, 24 Aug 2026 10:00:10 -0400",
-    "source": "BleepingComputer",
-    "summary": "A breach at South Korea&#x27;s government-backed startup platform exposed encrypted personal data after an encryption key was included in an API. Penta Security explains why encryption keys must be securely managed and kept separate from the data the",
-    "created_at": "2026-08-24T14:05:03.036286+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
-    "title": "Microsoft Teams now lets admins block external bots from meetings",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
-    "published": "Mon, 24 Aug 2026 10:00:19 -0400",
-    "source": "BleepingComputer",
-    "summary": "Microsoft is rolling out a new Teams meeting protection policy that allows administrators to automatically block all identified external bots from joining Teams meetings. [...]",
-    "created_at": "2026-08-24T14:05:05.087857+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=160456",
     "title": "WordPress Plugin Vulnerability Exposes 100,000 Sites to Complete Site Takeover Attacks",
     "link": "https://cybersecuritynews.com/wordpress-everest-forms-plugin-flaw/",
@@ -9475,5 +9448,41 @@
     "source": "CybersecurityNews",
     "summary": "A critical Next.js vulnerability, tracked as CVE-2026-94545, affects the Node.js ImageResponse implementation in the next/og package and could allow remote code execution by exploiting malicious SVG content during image generation. The issue affects ",
     "created_at": "2026-09-23T14:01:05.648187+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
+    "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
+    "link": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
+    "published": "Wed, 23 Sep 2026 19:22:46 +0530",
+    "source": "The Hacker News",
+    "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for Windows, Linux, and macOS.\n\nAccordin",
+    "created_at": "2026-09-23T14:31:05.818289+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
+    "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
+    "link": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
+    "published": "Wed, 23 Sep 2026 10:01:11 -0400",
+    "source": "BleepingComputer",
+    "summary": "A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to Google Kubernetes Config Connector. Varonis explains how this confused deputy problem can turn a sin",
+    "created_at": "2026-09-23T14:31:07.869479+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164536",
+    "title": "AWS Lambda Flaw Lets Attackers Bypass IAM Permissions and Access Cloud Services",
+    "link": "https://cybersecuritynews.com/aws-lambda-flaw/",
+    "published": "Wed, 23 Sep 2026 14:23:53 +0000",
+    "source": "CybersecurityNews",
+    "summary": "AWS disclosed a high-severity authorization flaw in its Amazon Connect Salesforce Lambda application that could let attackers perform privileged cloud actions beyond their assigned IAM permissions. The vulnerability, tracked as CVE-2026-94384, affect",
+    "created_at": "2026-09-23T14:31:10.349269+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164548",
+    "title": "Ryuk Ransomware Operator Sentenced for Deploying Malware and Extorting Victim Networks",
+    "link": "https://cybersecuritynews.com/ryuk-ransomware-operator-sentenced/",
+    "published": "Wed, 23 Sep 2026 14:28:35 +0000",
+    "source": "CybersecurityNews",
+    "summary": "An Armenian national extradited from Ukraine to the United States has been sentenced to federal prison for his role in Ryuk ransomware attacks that targeted organizations worldwide, including a company in Oregon. Karen Vardanyan, 35, received a 24-mo",
+    "created_at": "2026-09-23T14:31:12.342109+00:00"
   }
 ]
