@@ -9466,5 +9466,23 @@
     "source": "BleepingComputer",
     "summary": "Microsoft warned that the September 2026 security updates may also break Always On VPN connections on some Windows 11 systems. [...]",
     "created_at": "2026-09-23T11:30:58.743073+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164498",
+    "title": "NVIDIA Fixes Linux Component Flaws That Could Expose Sensitive System Information",
+    "link": "https://cybersecuritynews.com/nvidia-fixes-linux-component-flaws/",
+    "published": "Wed, 23 Sep 2026 11:05:30 +0000",
+    "source": "CybersecurityNews",
+    "summary": "NVIDIA released a security update for its Infrastructure Controller software for Linux, addressing 14 vulnerabilities that could let attackers access sensitive system information, execute code, alter data, or disrupt affected environments. The update",
+    "created_at": "2026-09-23T12:01:08.676144+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164519",
+    "title": "The Domains Keep Disappearing, but the Malware Infrastructure Behind Them Never Moves",
+    "link": "https://cybersecuritynews.com/domains-keep-disappearing/",
+    "published": "Wed, 23 Sep 2026 11:53:15 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Fake verification pages are steering people toward malware, but the web addresses behind the lures keep changing. Over five months, investigators tracked four different attack chains that began with the same hosting network, even as domains, download",
+    "created_at": "2026-09-23T12:01:12.323511+00:00"
   }
 ]
