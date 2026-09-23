@@ -9376,5 +9376,23 @@
     "source": "BleepingComputer",
     "summary": "Security researchers developed an attack that lets hackers with privileged access register a rogue external MFA provider that steals users&#x27; passwords during legitimate login attempts. [...]",
     "created_at": "2026-09-22T22:01:55.623998+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164449",
+    "title": "ShinyHunters Allegedly Claims Breach of FBI Jobs Site and Stolen Agents’ Data",
+    "link": "https://cybersecuritynews.com/shinyhunters-allegedly-claims-fbi-breach/",
+    "published": "Wed, 23 Sep 2026 02:43:07 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The FBI is investigating alleged unauthorized activity affecting its recruitment infrastructure after the ShinyHunters cybercrime group claimed it breached FBI systems, defaced the bureau’s jobs portal, and stole sensitive records belonging to employ",
+    "created_at": "2026-09-23T03:31:06.408637+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164452",
+    "title": "Hackers Exploiting F5 BIG-IP OAuth Server 0-day Flaw to Gain Remote Code Execution",
+    "link": "https://cybersecuritynews.com/f5-big-ip-oauth-server-0-day-flaw/",
+    "published": "Wed, 23 Sep 2026 03:24:27 +0000",
+    "source": "CybersecurityNews",
+    "summary": "F5 has warned that hackers are actively exploiting a critical zero-day vulnerability in BIG-IP Access Policy Manager (APM) deployments to execute code remotely without authentication. Tracked as CVE-2026-94127, the flaw affects virtual servers config",
+    "created_at": "2026-09-23T03:31:08.558791+00:00"
   }
 ]
