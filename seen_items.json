@@ -9439,5 +9439,14 @@
     "source": "CybersecurityNews",
     "summary": "EU digital identity and GDPR compliance mandates, deepfake-driven fraud in authentication and verification, and credential-reuse fatigue pushed decentralized identity from conference-talk to contract. We scored ten players on standards depth, product",
     "created_at": "2026-09-23T08:01:46.102424+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/",
+    "title": "Ryuk ransomware member sentenced to 24 months in prison",
+    "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/",
+    "published": "Wed, 23 Sep 2026 04:20:05 -0400",
+    "source": "BleepingComputer",
+    "summary": "An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. [...]",
+    "created_at": "2026-09-23T08:31:11.981844+00:00"
   }
 ]
