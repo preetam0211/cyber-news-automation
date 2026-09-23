@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=160497",
-    "title": "Zimbra Collaboration Suite Vulnerability Actively Exploited in the Wild",
-    "link": "https://cybersecuritynews.com/zimbra-collaboration-suite-vulnerability-exploited/",
-    "published": "Mon, 24 Aug 2026 17:04:30 +0000",
-    "source": "CybersecurityNews",
-    "summary": "CERT Polska has warned that threat actors are actively exploiting CVE-2026-73570, a critical OS command-injection vulnerability in Zimbra Collaboration Suite that allows remote, unauthenticated attackers to execute arbitrary shell commands as the zim",
-    "created_at": "2026-08-24T19:01:11.973840+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
     "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
