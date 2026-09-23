@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=160487",
-    "title": "AmnesiaStealer Gives Hackers Hidden Control of Logged-In Browsers on Macs",
-    "link": "https://cybersecuritynews.com/amnesiastealer-hidden-control/",
-    "published": "Mon, 24 Aug 2026 11:15:30 +0000",
-    "source": "CybersecurityNews",
-    "summary": "AmnesiaStealer is a newly identified macOS information stealer that does more than copy saved passwords. It can give criminals quiet control of a browser that is already signed in, turning an infected Mac into a gateway to email, business apps, crypt",
-    "created_at": "2026-08-24T12:01:19.081265+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160492",
-    "title": "Microsoft August 2026 Windows Updates Trigger Issues on Devices Using RGB Lighting Features",
-    "link": "https://cybersecuritynews.com/windows-updates-triggers-rgb-lighting-issues/",
-    "published": "Mon, 24 Aug 2026 11:33:47 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Microsoft is investigating a Windows 11 issue in which the August 2026 security updates can cause certain games to freeze, crash, display access-violation errors, or restart affected PCs. The problem appears to be linked to RGB lighting hardware and ",
-    "created_at": "2026-08-24T12:01:49.753291+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html",
     "title": "The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk",
     "link": "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html",
@@ -9484,5 +9466,14 @@
     "source": "CybersecurityNews",
     "summary": "Fake verification pages are steering people toward malware, but the web addresses behind the lures keep changing. Over five months, investigators tracked four different attack chains that began with the same hosting network, even as domains, download",
     "created_at": "2026-09-23T12:01:12.323511+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
+    "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
+    "link": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
+    "published": "Wed, 23 Sep 2026 08:29:53 -0400",
+    "source": "BleepingComputer",
+    "summary": "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
+    "created_at": "2026-09-23T12:31:09.390549+00:00"
   }
 ]
