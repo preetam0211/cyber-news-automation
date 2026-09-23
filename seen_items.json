@@ -9457,5 +9457,14 @@
     "source": "CybersecurityNews",
     "summary": "Malware has moved into tools developers use to build and manage cloud infrastructure. A campaign linked to Graphalgo planted a remote access program in Terraform providers and Go software packages, turning routine development work into a possible rou",
     "created_at": "2026-09-23T10:01:48.350142+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164506",
+    "title": "The Phishing Kit That Turned Microsoft’s Login Flow Into an AI-Powered Fraud Machine",
+    "link": "https://cybersecuritynews.com/the-phishing-kit/",
+    "published": "Wed, 23 Sep 2026 10:59:51 +0000",
+    "source": "CybersecurityNews",
+    "summary": "EvilTokens turns a Microsoft sign-in into a route to corporate email fraud. The phishing kit, first seen in February 2026, tricks people into approving an attacker’s login through a real device code process without handing over a password. The lure u",
+    "created_at": "2026-09-23T11:01:10.252040+00:00"
   }
 ]
