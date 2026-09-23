@@ -9349,5 +9349,14 @@
     "source": "CybersecurityNews",
     "summary": "F5 has warned that hackers are actively exploiting a critical zero-day vulnerability in BIG-IP Access Policy Manager (APM) deployments to execute code remotely without authentication. Tracked as CVE-2026-94127, the flaw affects virtual servers config",
     "created_at": "2026-09-23T03:31:08.558791+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
+    "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
+    "link": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
+    "published": "Wed, 23 Sep 2026 11:00:09 +0530",
+    "source": "The Hacker News",
+    "summary": "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency.\n\n&quot;We have compromised the FBI. We hold very sens",
+    "created_at": "2026-09-23T07:01:17.250348+00:00"
   }
 ]
