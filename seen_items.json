@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=160546",
-    "title": "Multiple TP-Link Archer Vulnerabilities Enable Command Injection Attacks",
-    "link": "https://cybersecuritynews.com/tp-link-archer-command-injection-flaw/",
-    "published": "Tue, 25 Aug 2026 06:15:54 +0000",
-    "source": "CybersecurityNews",
-    "summary": "TP-Link has disclosed three high-severity command injection vulnerabilities affecting Archer BE800 V1, Archer BE3600 V1, and Archer AX75 V1 routers. The flaws could allow nearby attackers to run arbitrary commands with root privileges, potentially le",
-    "created_at": "2026-08-25T06:31:17.751974+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
     "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
     "link": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
