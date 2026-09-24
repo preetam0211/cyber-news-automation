@@ -1,86 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
-    "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
-    "link": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
-    "published": "Tue, 25 Aug 2026 16:44:07 +0530",
-    "source": "The Hacker News",
-    "summary": "Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management teams has also existed for that time and has gone through waves of c",
-    "created_at": "2026-08-25T13:01:17.976009+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
-    "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
-    "link": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
-    "published": "Tue, 25 Aug 2026 17:03:44 +0530",
-    "source": "The Hacker News",
-    "summary": "Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4del and PINHOLE.\n\nWhile threat actors are known to",
-    "created_at": "2026-08-25T13:01:33.072850+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
-    "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
-    "link": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
-    "published": "Tue, 25 Aug 2026 17:22:43 +0530",
-    "source": "The Hacker News",
-    "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages.\n\n&quot;While the malware is simply a single HTML page insi",
-    "created_at": "2026-08-25T13:01:40.083499+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
-    "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
-    "link": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
-    "published": "Tue, 25 Aug 2026 17:26:15 +0530",
-    "source": "The Hacker News",
-    "summary": "Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing two-factor authentication.\n\nAccording t",
-    "created_at": "2026-08-25T13:01:42.074553+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160575",
-    "title": "91 Spring Vulnerabilities Impact 209,000+ Software Components Across Open-Source Ecosystem",
-    "link": "https://cybersecuritynews.com/91-spring-vulnerabilities/",
-    "published": "Tue, 25 Aug 2026 12:39:38 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Broadcom has released a major batch of Spring security advisories, with Sonatype tracking 91 CVEs across Spring Framework and related projects. The August 20, 2026 disclosure affects an estimated 209,569 software components, highlighting the growing ",
-    "created_at": "2026-08-25T13:01:44.034856+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160583",
-    "title": "Multiple Zscaler Client Connector Vulnerabilities Enable RCE Attacks",
-    "link": "https://cybersecuritynews.com/multiple-zscaler-client-connector-vulnerabilities/",
-    "published": "Tue, 25 Aug 2026 12:53:23 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Multiple vulnerabilities affecting Zscaler Client Connector have been disclosed, potentially allowing remote code execution on vulnerable systems. Tracked as CVE-2026-59568, the critical flaw chain enables an unauthenticated and unprivileged attacker",
-    "created_at": "2026-08-25T13:02:02.442625+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/",
-    "title": "WhatsApp adds stronger two-step verification, multiple passkeys",
-    "link": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/",
-    "published": "Tue, 25 Aug 2026 09:00:00 -0400",
-    "source": "BleepingComputer",
-    "summary": "WhatsApp has started rolling out several new account security features, including support for multiple passkeys and stronger two-step verification. [...]",
-    "created_at": "2026-08-25T13:31:04.887060+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160595",
-    "title": "Microsoft August 2026 Update Breaks When Generating PDF/XPS Content",
-    "link": "https://cybersecuritynews.com/microsoft-august-2026-update-pdf-xps/",
-    "published": "Tue, 25 Aug 2026 13:11:38 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Microsoft has confirmed that its August 2026 .NET Framework cumulative updates are causing printing failures and PDF/XPS generation errors in Windows Presentation Foundation (WPF) applications, creating fresh headaches for enterprises just days after",
-    "created_at": "2026-08-25T13:31:06.248125+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160590",
-    "title": "ClickFix Campaigns Deploy PavinLoader With Blockchain-Based C2 and Amatera Stealer",
-    "link": "https://cybersecuritynews.com/clickfix-campaigns-pavinloader/",
-    "published": "Tue, 25 Aug 2026 13:12:40 +0000",
-    "source": "CybersecurityNews",
-    "summary": "ClickFix campaigns are turning routine web prompts into Windows infections. A tracked loader, PavinLoader, is delivered through fake verification pages, software downloads, and malicious game installers before pulling in malware. The activity makes v",
-    "created_at": "2026-08-25T13:31:07.213936+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
     "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
     "link": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
@@ -9538,5 +9457,14 @@
     "source": "CybersecurityNews",
     "summary": "AvisLoader is a Windows malware loader built to keep taking instructions after server takedowns. That makes it difficult to disrupt by simply removing a malicious website. It starts with a fake document-signing page that asks visitors to run a comman",
     "created_at": "2026-09-24T13:01:05.640055+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
+    "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
+    "published": "Thu, 24 Sep 2026 09:27:57 -0400",
+    "source": "BleepingComputer",
+    "summary": "A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. [...]",
+    "created_at": "2026-09-24T13:31:08.072062+00:00"
   }
 ]
