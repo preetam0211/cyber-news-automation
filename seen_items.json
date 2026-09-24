@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=160534",
-    "title": "Researcher Discloses Five High-Risk Vulnerabilities in Palo Alto GlobalProtect",
-    "link": "https://cybersecuritynews.com/5-vulnerabilities-palo-alto-globalprotect/",
-    "published": "Tue, 25 Aug 2026 01:54:08 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A security researcher has disclosed five vulnerabilities that he responsibly reported to Palo Alto Networks, affecting GlobalProtect, the VPN and endpoint agent used across thousands of enterprise networks worldwide. The disclosure, published through",
-    "created_at": "2026-08-25T02:01:11.329583+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=160546",
     "title": "Multiple TP-Link Archer Vulnerabilities Enable Command Injection Attacks",
     "link": "https://cybersecuritynews.com/tp-link-archer-command-injection-flaw/",
