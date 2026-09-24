@@ -9349,5 +9349,23 @@
     "source": "The Hacker News",
     "summary": "The &quot;third-party[.]com&quot; domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while displaying a harmless decoy to other users.\n\n&quot;third-party[.]com has been a generic docume",
     "created_at": "2026-09-24T16:31:04.556957+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
+    "title": "Exposed GitLab project email addresses let attackers push code",
+    "link": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
+    "published": "Thu, 24 Sep 2026 13:47:44 -0400",
+    "source": "BleepingComputer",
+    "summary": "Private GitLab email addresses that allow developers to push issues or tasks to a project are being deliberately exposed in READMEs, contributing guides, and support pages used to collect bug reports. [...]",
+    "created_at": "2026-09-24T18:01:39.578621+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164704",
+    "title": "Researchers Found a New Way to Break RSA that Doesn’t Require Factoring the Key",
+    "link": "https://cybersecuritynews.com/new-way-to-break-rsa/",
+    "published": "Thu, 24 Sep 2026 17:48:12 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Security researchers have demonstrated a faster way to undermine certain RSA deployments without factoring the public modulus, challenging the assumption that RSA’s practical strength always tracks the cost of integer factorization. The attack conver",
+    "created_at": "2026-09-24T18:01:41.578383+00:00"
   }
 ]
