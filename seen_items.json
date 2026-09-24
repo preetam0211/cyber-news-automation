@@ -9358,5 +9358,14 @@
     "source": "The Hacker News",
     "summary": "An active ClickFix campaign has been observed compromising legitimate Ukrainian business websites to inject bogus Cloudflare verification pages and trick victims into downloading a previously undocumented information stealer called Psychedelic.\n\n&quo",
     "created_at": "2026-09-24T15:31:03.701501+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
+    "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
+    "link": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
+    "published": "Thu, 24 Sep 2026 20:57:32 +0530",
+    "source": "The Hacker News",
+    "summary": "The &quot;third-party[.]com&quot; domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while displaying a harmless decoy to other users.\n\n&quot;third-party[.]com has been a generic docume",
+    "created_at": "2026-09-24T16:31:04.556957+00:00"
   }
 ]
