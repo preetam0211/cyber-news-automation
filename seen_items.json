@@ -9484,5 +9484,23 @@
     "source": "CybersecurityNews",
     "summary": "A Firefox add-on posing as a tool for opening protected PDF documents can quietly turn a signed-in browser into a route to Google account theft. It waits until installation to obtain the instructions that make it dangerous, leaving little suspicious ",
     "created_at": "2026-09-24T07:31:20.545148+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164600",
+    "title": "Hackers Exploit Critical Check Point VPN Flaws to Gain Remote Access Without Login",
+    "link": "https://cybersecuritynews.com/hackers-exploit-critical-check-point-vpn-flaws/",
+    "published": "Thu, 24 Sep 2026 07:35:19 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Check Point has warned that attackers are actively exploiting two critical vulnerabilities in its VPN and management products, allowing unauthenticated remote access and possible remote code execution. Both flaws carry a CVSS severity score of 9.8, a",
+    "created_at": "2026-09-24T08:01:02.992622+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164608",
+    "title": "Roundcube Webmail SQL Injection Vulnerability Exploited in the Wild",
+    "link": "https://cybersecuritynews.com/roundcube-webmail-vulnerability-exploited/",
+    "published": "Thu, 24 Sep 2026 07:37:03 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical security issue affecting Roundcube Webmail is now being exploited in the wild, prompting administrators to update exposed installations urgently. The Canadian Center for Cyber Security said open-source reporting confirmed active exploitati",
+    "created_at": "2026-09-24T08:01:08.270186+00:00"
   }
 ]
