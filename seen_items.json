@@ -9511,5 +9511,32 @@
     "source": "BleepingComputer",
     "summary": "​The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July. [...]",
     "created_at": "2026-09-24T11:01:12.905918+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html",
+    "title": "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
+    "link": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html",
+    "published": "Thu, 24 Sep 2026 16:30:00 +0530",
+    "source": "The Hacker News",
+    "summary": "AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed. According to GitGuardian’s 2026 State of Secrets Sprawl Report, commits identified as AI-assisted are leaking secr",
+    "created_at": "2026-09-24T12:31:01.511767+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html",
+    "title": "Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls",
+    "link": "https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html",
+    "published": "Thu, 24 Sep 2026 17:35:27 +0530",
+    "source": "The Hacker News",
+    "summary": "The logistics sector has become the target of a new malicious cyber campaign that distributes an Android spyware codenamed Corp MDM.\n\nAccording to Have I Been Squatted, the campaign uses fake Google Play pages branded as CEVA and TKW Logistics to dis",
+    "created_at": "2026-09-24T12:31:04.345755+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/",
+    "title": "Windows 11 KB5124010 update released with 46 changes and fixes",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/",
+    "published": "Thu, 24 Sep 2026 08:16:32 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft released the KB5124010 September 2026 non-security preview update for Windows 11 24H2 and 25H2, with 46 changes including Bluetooth improvements and the ability to remap the Copilot key. [...]",
+    "created_at": "2026-09-24T12:31:06.567693+00:00"
   }
 ]
