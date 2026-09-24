@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=160569",
-    "title": "Hackers Abuse Google Sites to Host Fake OpenAI Codex Download Pages",
-    "link": "https://cybersecuritynews.com/hackers-abuse-google-sites/",
-    "published": "Tue, 25 Aug 2026 11:12:26 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Cybercriminals are using Google Sites to host fake download pages for OpenAI Codex, turning a familiar search into a malware trap. The campaign targets macOS users and relies on paid search placements to steer them toward a convincing but fraudulent ",
-    "created_at": "2026-08-25T12:32:02.965684+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/",
-    "title": "Hackers breached over 270 Zimbra servers in ongoing attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/",
-    "published": "Tue, 25 Aug 2026 08:04:02 -0400",
-    "source": "BleepingComputer",
-    "summary": "Threat actors have already compromised over 270 Zimbra instances in remote code execution attacks targeting a high-severity Zimbra Collaboration Suite (ZCS) vulnerability. [...]",
-    "created_at": "2026-08-25T12:32:14.048832+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
     "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
     "link": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
@@ -9538,5 +9520,23 @@
     "source": "BleepingComputer",
     "summary": "Microsoft released the KB5124010 September 2026 non-security preview update for Windows 11 24H2 and 25H2, with 46 changes including Bluetooth improvements and the ability to remap the Copilot key. [...]",
     "created_at": "2026-09-24T12:31:06.567693+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164653",
+    "title": "Microsoft Rebuilds the SOC with AI Agents, SIEM Integration and Machine-Speed Defense",
+    "link": "https://cybersecuritynews.com/microsoft-rebuilds-the-soc/",
+    "published": "Thu, 24 Sep 2026 11:12:28 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cyberattacks can move faster than a security team can investigate them. Attackers increasingly use AI agents to automate steps that once needed several people, while defenders still work across separate monitoring and protection tools. Microsoft says",
+    "created_at": "2026-09-24T13:01:02.694601+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164665",
+    "title": "AvisLoader Windows Malware That Learned to Survive Even After Its Servers Are Taken Down",
+    "link": "https://cybersecuritynews.com/avisloader-windows-malware/",
+    "published": "Thu, 24 Sep 2026 12:07:32 +0000",
+    "source": "CybersecurityNews",
+    "summary": "AvisLoader is a Windows malware loader built to keep taking instructions after server takedowns. That makes it difficult to disrupt by simply removing a malicious website. It starts with a fake document-signing page that asks visitors to run a comman",
+    "created_at": "2026-09-24T13:01:05.640055+00:00"
   }
 ]
