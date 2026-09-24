@@ -9493,5 +9493,32 @@
     "source": "BleepingComputer",
     "summary": "OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an Australian government portal while performing information-retrieval tasks as part of a research project. [..",
     "created_at": "2026-09-24T10:01:02.829916+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
+    "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
+    "link": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
+    "published": "Thu, 24 Sep 2026 14:44:21 +0530",
+    "source": "The Hacker News",
+    "summary": "ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new global threat report traces the technique from a novelty in late 2023 to a subscription produ",
+    "created_at": "2026-09-24T11:01:07.355203+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164633",
+    "title": "New Android Banking Trojan Uses AI-Built Overlays to Steal Users’ Banking PINs",
+    "link": "https://cybersecuritynews.com/android-banking-trojan/",
+    "published": "Thu, 24 Sep 2026 10:04:44 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new Android banking trojan is turning an app download into a banking PIN trap. Called RemControl, it hides behind fake download pages for a television streaming app, then waits for banking apps to open. The campaign uses pages that look like Google",
+    "created_at": "2026-09-24T11:01:10.520520+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
+    "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
+    "published": "Thu, 24 Sep 2026 06:42:37 -0400",
+    "source": "BleepingComputer",
+    "summary": "​The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July. [...]",
+    "created_at": "2026-09-24T11:01:12.905918+00:00"
   }
 ]
