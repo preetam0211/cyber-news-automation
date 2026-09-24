@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
-    "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
-    "link": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
-    "published": "Tue, 25 Aug 2026 11:42:35 +0530",
-    "source": "The Hacker News",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active ",
-    "created_at": "2026-08-25T07:01:29.440919+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=160542",
     "title": "Top Google Results for Minecraft Client Led Gamers to Malware, McAfee Finds",
     "link": "https://cybersecuritynews.com/google-results-minecraft-client/",
@@ -9484,5 +9475,14 @@
     "source": "CybersecurityNews",
     "summary": "Apache Software Foundation has released Tomcat 11.0.26 to address 12 security vulnerabilities spanning WebSocket, HTTP/2, AJP, authentication, and TLS certificate validation. The flaws, disclosed September 23, 2026, include four rated Important, thre",
     "created_at": "2026-09-24T04:31:16.808179+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164609",
+    "title": "Malicious Firefox Extension Disguised as PDF Tool Steals Google Account Sessions",
+    "link": "https://cybersecuritynews.com/malicious-firefox-extension/",
+    "published": "Thu, 24 Sep 2026 07:15:03 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A Firefox add-on posing as a tool for opening protected PDF documents can quietly turn a signed-in browser into a route to Google account theft. It waits until installation to obtain the instructions that make it dangerous, leaving little suspicious ",
+    "created_at": "2026-09-24T07:31:20.545148+00:00"
   }
 ]
