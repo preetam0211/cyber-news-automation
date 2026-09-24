@@ -9448,5 +9448,14 @@
     "source": "CybersecurityNews",
     "summary": "A newly documented campaign targeting people and organizations focused on Ukraine uses document-themed Windows shortcuts to install a malware downloader called VelvetCake. The goal appears to be gathering political and military intelligence about the",
     "created_at": "2026-09-24T14:01:08.295644+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
+    "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
+    "link": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
+    "published": "Thu, 24 Sep 2026 10:02:12 -0400",
+    "source": "BleepingComputer",
+    "summary": "FedRAMP&#x27;s new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronger evidence requirements. Anecdotes explains why the December 7 deadline is just the beginning o",
+    "created_at": "2026-09-24T14:31:06.910732+00:00"
   }
 ]
