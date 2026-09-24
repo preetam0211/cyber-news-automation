@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=160542",
-    "title": "Top Google Results for Minecraft Client Led Gamers to Malware, McAfee Finds",
-    "link": "https://cybersecuritynews.com/google-results-minecraft-client/",
-    "published": "Tue, 25 Aug 2026 07:05:46 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Minecraft players searching for a popular client can now land on malware instead of a game tool. A renewed WeedHack campaign is using poisoned search results, copied websites and free-download lures to place dangerous Java files in front of players. ",
-    "created_at": "2026-08-25T08:01:10.167272+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160557",
-    "title": "Anthropic Rolls Out Enterprise-Managed Auth for Claude’s MCP Connectors",
-    "link": "https://cybersecuritynews.com/anthropic-enterprise-managed-mcp-connectors/",
-    "published": "Tue, 25 Aug 2026 07:13:33 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Anthropic has taken its Model Context Protocol (MCP) connector framework a significant step further, announcing on August 24, 2026, that Enterprise-managed authorization is now generally available. The update expands support to Datadog, Notion, and S",
-    "created_at": "2026-08-25T08:01:18.456392+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160559",
-    "title": "Fake GTA 6 Demo Is Actually Malware That Steals Your Passwords and Logged-In Sessions",
-    "link": "https://cybersecuritynews.com/fake-gta-6-demo/",
-    "published": "Tue, 25 Aug 2026 08:20:35 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A fake Grand Theft Auto VI demo is being used to steal passwords and active browser sessions from people looking for early access. The campaign turns excitement around game footage and a forthcoming official video into a route for installing an infor",
-    "created_at": "2026-08-25T08:31:21.334039+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=160551",
     "title": "Critical Red Hat Keycloak Flaw Lets Unauthenticated Attackers Take Over Any User Account",
     "link": "https://cybersecuritynews.com/red-hat-keycloak-flaw/",
@@ -9502,5 +9475,59 @@
     "source": "CybersecurityNews",
     "summary": "A critical security issue affecting Roundcube Webmail is now being exploited in the wild, prompting administrators to update exposed installations urgently. The Canadian Center for Cyber Security said open-source reporting confirmed active exploitati",
     "created_at": "2026-09-24T08:01:08.270186+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
+    "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
+    "link": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
+    "published": "Thu, 24 Sep 2026 11:06:18 +0530",
+    "source": "The Hacker News",
+    "summary": "Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure.\n\nThe vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an unauthenticated attacker to obtain remote c",
+    "created_at": "2026-09-24T08:31:02.831875+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
+    "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
+    "link": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
+    "published": "Thu, 24 Sep 2026 12:02:03 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants.\n\nAccording to Proofpoint, the activity has primarily focused o",
+    "created_at": "2026-09-24T08:31:18.293556+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
+    "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
+    "link": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
+    "published": "Thu, 24 Sep 2026 12:37:25 +0530",
+    "source": "The Hacker News",
+    "summary": "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister Anthony Albanese said.\n\nThe portal publishes aggregate figures, such as spending, and is separate ",
+    "created_at": "2026-09-24T08:31:22.256248+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164626",
+    "title": "OpenAI Agent Hacked Australian Government Medicare Portal in World’s First Rogue AI Breach",
+    "link": "https://cybersecuritynews.com/openai-agent-hacked-australian-portal/",
+    "published": "Thu, 24 Sep 2026 08:01:49 +0000",
+    "source": "CybersecurityNews",
+    "summary": "An autonomous OpenAI agent breached an Australian government Medicare statistics portal after a research task escalated into unauthorized system access, marking a reported world-first rogue AI intrusion into a government service. Prime Minister Antho",
+    "created_at": "2026-09-24T08:31:23.604008+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164619",
+    "title": "New Galago Ransomware Operation Emerges With Links to Panzer Group",
+    "link": "https://cybersecuritynews.com/new-galago-ransomware/",
+    "published": "Thu, 24 Sep 2026 08:08:44 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Galago is a new ransomware operation drawing attention because it claims a partnership with the Panzer group. That matters, but its reach is uncertain: researchers have not confirmed a Galago intrusion or seen any victims published on its own leak si",
+    "created_at": "2026-09-24T08:31:26.503435+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/",
+    "title": "Microsoft fixes bug that broke Windows File History backup feature",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/",
+    "published": "Thu, 24 Sep 2026 04:14:47 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 security updates. [...]",
+    "created_at": "2026-09-24T08:31:28.813190+00:00"
   }
 ]
