@@ -9484,5 +9484,14 @@
     "source": "BleepingComputer",
     "summary": "The &quot;third-party.com&quot; domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into executing PowerShell commands. [...]",
     "created_at": "2026-09-23T23:01:08.160022+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164596",
+    "title": "Apache Tomcat Update Fixes WebSocket and HTTP/2 Flaws Affecting Server Security",
+    "link": "https://cybersecuritynews.com/apache-tomcat-update/",
+    "published": "Thu, 24 Sep 2026 04:04:20 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Apache Software Foundation has released Tomcat 11.0.26 to address 12 security vulnerabilities spanning WebSocket, HTTP/2, AJP, authentication, and TLS certificate validation. The flaws, disclosed September 23, 2026, include four rated Important, thre",
+    "created_at": "2026-09-24T04:31:16.808179+00:00"
   }
 ]
