@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=160628",
-    "title": "ToxNetV2 Linux Botnet Uses NVIDIA AI to Generate Shell and Remote SSH Attack Actions",
-    "link": "https://cybersecuritynews.com/toxnetv2-linux-botnet/",
-    "published": "Tue, 25 Aug 2026 14:30:19 +0000",
-    "source": "CybersecurityNews",
-    "summary": "ToxNetV2 is a Linux botnet that shows how artificial intelligence can move closer to real attack operations. Instead of using a model only to write text, the malware feeds system and botnet data into an AI service, then turns selected replies into pr",
-    "created_at": "2026-08-25T15:01:33.803898+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160633",
-    "title": "SynkLoader Mimic as IT Support Personnel Attacking Users Via Microsoft Teams",
-    "link": "https://cybersecuritynews.com/synkloader-mimic-as-it-support/",
-    "published": "Tue, 25 Aug 2026 14:32:47 +0000",
-    "source": "CybersecurityNews",
-    "summary": "SynkLoader is using Microsoft Teams conversations to turn routine IT support requests into a route for malware delivery. The campaign relies on impersonation rather than a software flaw, placing the decision to install a supposed fix directly in fron",
-    "created_at": "2026-08-25T15:01:36.079477+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
-    "title": "Hospital operator Nutex Health says data stolen in cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
-    "published": "Tue, 25 Aug 2026 10:44:16 -0400",
-    "source": "BleepingComputer",
-    "summary": "Healthcare and services provider Nutex is investigating a data breach incident where an unauthorized third party exfiltrated information from company servers. [...]",
-    "created_at": "2026-08-25T15:01:38.403886+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
-    "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
-    "link": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
-    "published": "Tue, 25 Aug 2026 19:37:37 +0530",
-    "source": "The Hacker News",
-    "summary": "Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden instructions inside the model itself.\n\nThe finding",
-    "created_at": "2026-08-25T15:31:00.497613+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/",
     "title": "Massive DDoS attack disrupts Norway’s government digital services",
     "link": "https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/",
@@ -9394,5 +9358,14 @@
     "source": "BleepingComputer",
     "summary": "FedRAMP&#x27;s new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronger evidence requirements. Anecdotes explains why the December 7 deadline is just the beginning o",
     "created_at": "2026-09-24T14:31:06.910732+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html",
+    "title": "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer",
+    "link": "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html",
+    "published": "Thu, 24 Sep 2026 19:59:06 +0530",
+    "source": "The Hacker News",
+    "summary": "An active ClickFix campaign has been observed compromising legitimate Ukrainian business websites to inject bogus Cloudflare verification pages and trick victims into downloading a previously undocumented information stealer called Psychedelic.\n\n&quo",
+    "created_at": "2026-09-24T15:31:03.701501+00:00"
   }
 ]
