@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
-    "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
-    "link": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
-    "published": "Wed, 26 Aug 2026 17:25:00 +0530",
-    "source": "The Hacker News",
-    "summary": "The CERT Coordination Center (CERT/CC) has disclosed two unpatched vulnerabilities in Kaltura&#x27;s HTML5 video player library that allow a remote, unauthenticated attacker to read arbitrary files from a server and execute code on it.\n\nThe flaws, tr",
-    "created_at": "2026-08-26T13:31:58.787145+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/",
-    "title": "Ubiquiti patches three max severity security vulnerabilities",
-    "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/",
-    "published": "Wed, 26 Aug 2026 09:17:54 -0400",
-    "source": "BleepingComputer",
-    "summary": "Ubiquiti has released security patches for three new maximum-severity vulnerabilities that threat actors can exploit remotely without privileges. [...]",
-    "created_at": "2026-08-26T13:32:25.918866+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160798",
-    "title": "Iran-Linked Hackers Expand Attacks With New Backdoor and Reverse SSH Tunnels",
-    "link": "https://cybersecuritynews.com/iran-linked-hackers/",
-    "published": "Wed, 26 Aug 2026 13:47:36 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Iran-linked hackers have expanded an espionage effort with a Windows backdoor and reverse SSH tunnelling utility. The activity is tied to Tortoiseshell, also tracked as Mirage Kitten, UNC1549 and Nimbus Manticore. The campaign gives operators more wa",
-    "created_at": "2026-08-26T14:01:27.322929+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
     "title": "CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing",
     "link": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
