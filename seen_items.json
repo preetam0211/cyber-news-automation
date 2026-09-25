@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
-    "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
-    "link": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
-    "published": "Wed, 26 Aug 2026 15:57:23 +0530",
-    "source": "The Hacker News",
-    "summary": "Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a client-side-only booking restriction in 9 of 10 run",
-    "created_at": "2026-08-26T10:31:25.775891+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=160767",
     "title": "SonicWall NetExtender Vulnerabilities Allow an Attacker to Write Arbitrary Files as Root",
     "link": "https://cybersecuritynews.com/sonicwall-netextender-vulnerabilities/",
