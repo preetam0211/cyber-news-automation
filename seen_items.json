@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=160712",
-    "title": "NVIDIA NemoClaw Flaw Lets Attackers Hijack AI Agents With One Website Visit",
-    "link": "https://cybersecuritynews.com/nvidia-nemoclaw-flaw/",
-    "published": "Wed, 26 Aug 2026 07:33:38 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A critical vulnerability in NVIDIA NemoClaw that could let attackers hijack an AI agent after a victim visits a malicious website. The issue, tracked as CVE-2026-65105, can expose the local Ollama model server used by NemoClaw and allow persistent po",
-    "created_at": "2026-08-26T08:01:56.568630+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160721",
-    "title": "28,000 Exposed Git Repositories Reveal API Keys, Bank Details and Employee Disciplinary Files",
-    "link": "https://cybersecuritynews.com/28000-exposed-git-repositories/",
-    "published": "Wed, 26 Aug 2026 07:49:10 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A routine development mistake has exposed thousands of software repositories. Researchers found 28,000 publicly reachable .git repositories containing credentials, financial information and internal employee records that could give criminals a direct",
-    "created_at": "2026-08-26T08:02:48.509987+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160745",
-    "title": "Google Chrome 152 Released With 327 Security Fixes, Including 10 Critical Vulnerabilities",
-    "link": "https://cybersecuritynews.com/chrome-152-released-with-327-security-fixes/",
-    "published": "Wed, 26 Aug 2026 07:50:36 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Google has released Chrome 152 for Windows, macOS, and Linux, delivering 327 security fixes and improvements. The update addresses 10 critical vulnerabilities, making it an important security release for individual users and enterprise environments. ",
-    "created_at": "2026-08-26T08:03:40.466291+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
     "title": "Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
     "link": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
@@ -9367,5 +9340,14 @@
     "source": "The Hacker News",
     "summary": "A flaw in Cloudflare Containers let a paying customer read data that other customers&#x27; containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday.\n\nThe data came from disk space that earlier contai",
     "created_at": "2026-09-25T06:31:07.625577+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164767",
+    "title": "New MacSync Malware Turns macOS Apps Into Tools for Crypto and Password Theft",
+    "link": "https://cybersecuritynews.com/new-macsync-malware/",
+    "published": "Fri, 25 Sep 2026 08:11:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "MacSync, a fast-changing macOS information stealer, has returned with a more complex delivery chain aimed at people who use cryptocurrency and developer tools. Instead of relying mainly on a pasted Terminal command, the latest activity begins with ma",
+    "created_at": "2026-09-25T08:31:07.822620+00:00"
   }
 ]
