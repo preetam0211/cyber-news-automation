@@ -9376,5 +9376,14 @@
     "source": "BleepingComputer",
     "summary": "A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]",
     "created_at": "2026-09-24T21:01:02.662989+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164709",
+    "title": "Cloudflare Containers Vulnerability Could Leak Data Between Customer Workloads",
+    "link": "https://cybersecuritynews.com/cloudflare-containers-vulnerability/",
+    "published": "Fri, 25 Sep 2026 03:13:12 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cloudflare has patched a cross-tenant data exposure vulnerability in its Containers platform across its global, multi-tenant cloud computing infrastructure that could allow one customer’s workload to recover residual disk data left by another tenant ",
+    "created_at": "2026-09-25T03:31:26.076646+00:00"
   }
 ]
