@@ -9385,5 +9385,23 @@
     "source": "CybersecurityNews",
     "summary": "Crypto casino Duelbits has confirmed a cybersecurity breach that drained approximately $7 million from its hot wallets, forcing the platform offline while investigators establish the attack’s root cause. Co-founder Joe disclosed the incident on X, as",
     "created_at": "2026-09-25T06:01:02.426597+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
+    "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
+    "link": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
+    "published": "Fri, 25 Sep 2026 10:16:34 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitat",
+    "created_at": "2026-09-25T06:31:05.628272+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
+    "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
+    "link": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
+    "published": "Fri, 25 Sep 2026 10:19:22 +0530",
+    "source": "The Hacker News",
+    "summary": "A flaw in Cloudflare Containers let a paying customer read data that other customers&#x27; containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday.\n\nThe data came from disk space that earlier contai",
+    "created_at": "2026-09-25T06:31:07.625577+00:00"
   }
 ]
