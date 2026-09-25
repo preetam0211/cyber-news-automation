@@ -9349,5 +9349,23 @@
     "source": "CybersecurityNews",
     "summary": "MacSync, a fast-changing macOS information stealer, has returned with a more complex delivery chain aimed at people who use cryptocurrency and developer tools. Instead of relying mainly on a pasted Terminal command, the latest activity begins with ma",
     "created_at": "2026-09-25T08:31:07.822620+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
+    "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
+    "published": "Fri, 25 Sep 2026 04:33:44 -0400",
+    "source": "BleepingComputer",
+    "summary": "​Cryptocurrency exchange Bitget disclosed today that suspected North Korean hackers have stolen $351.6 million from its hot and warm wallets. [...]",
+    "created_at": "2026-09-25T09:01:11.612897+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164762",
+    "title": "Salesforce Indirect Prompt Injection Vulnerability Enables 0-click Data Exfiltration",
+    "link": "https://cybersecuritynews.com/salesforce-salesbleed-vulnerability/",
+    "published": "Fri, 25 Sep 2026 08:34:03 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Zenity Labs disclosed a now-patched Salesforce Agentforce vulnerability, dubbed SalesBleed, that could have allowed attackers to steal sensitive CRM data without logging in, accessing a target Salesforce tenant, or requiring victim interaction. The a",
+    "created_at": "2026-09-25T09:01:20.473560+00:00"
   }
 ]
