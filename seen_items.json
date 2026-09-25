@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/",
-    "title": "Boston Scientific says cyberattack disrupted operations globally",
-    "link": "https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/",
-    "published": "Wed, 26 Aug 2026 11:19:21 -0400",
-    "source": "BleepingComputer",
-    "summary": "Medical technology company Boston Scientific has been targeted in a cyberattack that disrupted some of its IT systems, causing operational disruptions globally. [...]",
-    "created_at": "2026-08-26T16:01:26.403049+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/",
     "title": "Meta agrees to $18 billion settlement over teen social media harms",
     "link": "https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/",
@@ -9421,5 +9412,14 @@
     "source": "The Hacker News",
     "summary": "Two actions-cool GitHub Actions have been disabled for a second time after the repositories became accessible last week, months after they were compromised during the May 2026 Mini Shai-Hulud campaign.\n\nThe affected GitHub Actions are listed below -\n",
     "created_at": "2026-09-25T16:00:59.304864+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/",
+    "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/",
+    "published": "Fri, 25 Sep 2026 12:00:00 -0400",
+    "source": "BleepingComputer",
+    "summary": "Anthropic now allows you to run Claude Code via cloud sessions without signing up for the research preview, and it&#x27;s offering up to $250 in free usage credits, so more users can give it a try. [...]",
+    "created_at": "2026-09-25T16:31:19.850871+00:00"
   }
 ]
