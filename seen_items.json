@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/",
-    "title": "Microsoft tests new privacy controls for Windows 11 desktop apps",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/",
-    "published": "Wed, 26 Aug 2026 08:06:28 -0400",
-    "source": "BleepingComputer",
-    "summary": "Microsoft has begun testing new privacy controls that will let Windows 11 users choose which desktop applications can access their camera, microphone, and precise location. [...]",
-    "created_at": "2026-08-26T12:31:07.866621+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160787",
-    "title": "Hackers Use Fake Claude Desktop App to Disable Defender and Install Remote Access Malware",
-    "link": "https://cybersecuritynews.com/hackers-use-fake-claude/",
-    "published": "Wed, 26 Aug 2026 12:15:43 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Cybercriminals are using a counterfeit Claude desktop application to compromise Windows systems, disable key security checks, and install remote-access malware. The campaign turns a familiar AI software search into a route for credential theft and lo",
-    "created_at": "2026-08-26T12:31:10.298695+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
     "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
     "link": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
@@ -9394,5 +9376,32 @@
     "source": "CybersecurityNews",
     "summary": "Microsoft has confirmed a Windows 11 issue that can leave users staring at a black screen after signing in, with the desktop shell failing to start automatically. The problem emerged after installation of the August 27, 2026 non-security preview upda",
     "created_at": "2026-09-25T12:01:24.330739+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164828",
+    "title": "Attackers Are Turning Everyday Business Emails Into Malware Delivery Machines",
+    "link": "https://cybersecuritynews.com/business-emails/",
+    "published": "Fri, 25 Sep 2026 12:01:17 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Attackers are turning routine business complaints into malware traps. A message about a damaged delivery or refund request can look ordinary, yet one click leads employees to a fake download page and a harmful ZIP archive. The campaign targeted organ",
+    "created_at": "2026-09-25T12:31:09.788506+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164841",
+    "title": "WordPress Comment2Shell Vulnerability Lets Hackers Take Over Sites Through Comments",
+    "link": "https://cybersecuritynews.com/wordpress-comment2shell-vulnerability/",
+    "published": "Fri, 25 Sep 2026 12:16:25 +0000",
+    "source": "CybersecurityNews",
+    "summary": "WordPress administrators are being urged to patch a high-severity core vulnerability that can turn an anonymous comment into server-side command execution. Tracked as CVE-2026-93485 and demonstrated by the Comment2Shell proof-of-concept, the flaw is ",
+    "created_at": "2026-09-25T12:31:12.128435+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164814",
+    "title": "Critical ServiceNow Vulnerabilities Let Attackers Bypass Authorization – Update Now!",
+    "link": "https://cybersecuritynews.com/critical-servicenow-vulnerabilities/",
+    "published": "Fri, 25 Sep 2026 12:18:09 +0000",
+    "source": "CybersecurityNews",
+    "summary": "ServiceNow released security updates for five AI Platform flaws, including two critical vulnerabilities that could let unauthenticated attackers access, modify, or extract sensitive instance data, urging self-hosted users to verify versions and patch",
+    "created_at": "2026-09-25T12:31:14.236863+00:00"
   }
 ]
