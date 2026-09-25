@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html",
-    "title": "Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler",
-    "link": "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html",
-    "published": "Wed, 26 Aug 2026 21:05:05 +0530",
-    "source": "The Hacker News",
-    "summary": "Cybersecurity researchers have discovered additional infrastructure and previously undocumented malware associated with Nimbus Manticore, an Iranian state-sponsored hacking group affiliated with the Islamic Revolutionary Guard Corps (IRGC).\n\nGroup-IB",
-    "created_at": "2026-08-26T18:04:21.425552+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html",
-    "title": "FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations",
-    "link": "https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html",
-    "published": "Wed, 26 Aug 2026 22:12:03 +0530",
-    "source": "The Hacker News",
-    "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced the disruption of two hacking platforms named QScan and QTRouter operated by Chinese threat actors to target critical infrastructure and other sensitive networks in the country.\n\nThe activit",
-    "created_at": "2026-08-26T18:04:22.297829+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/",
     "title": "New GPUThor attack defeats NVIDIA ECC protection for root access",
     "link": "https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/",
@@ -9430,5 +9412,23 @@
     "source": "CybersecurityNews",
     "summary": "A 14-year-old Linux kernel vulnerability can let a local attacker escalate to root privileges and, in a proof-of-concept environment, escape a Docker container to compromise the underlying host. The flaw in Linux’s AF_ALG userspace cryptographic inte",
     "created_at": "2026-09-25T18:01:07.231000+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164848",
+    "title": "OnePlus 15 Flaws Let Zero-Permission Apps Gain Root Access Through OxygenOS Services",
+    "link": "https://cybersecuritynews.com/oneplus-15-flaws-zero-permission-apps/",
+    "published": "Fri, 25 Sep 2026 18:02:16 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Two flaws in the latest OxygenOS build could let malicious Android apps run code with root privileges on OnePlus devices, including the OnePlus 15, by exploiting accessible privileged services. The vulnerabilities are significant because Android perm",
+    "created_at": "2026-09-25T18:31:07.567267+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
+    "title": "Elementor WordPress flaw lets attackers create admin accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
+    "published": "Fri, 25 Sep 2026 14:13:33 -0400",
+    "source": "BleepingComputer",
+    "summary": "A cross-site request forgery (CSRF) vulnerability in the Elementor plugin for WordPress could allow an unauthenticated attacker to create administrator accounts. [...]",
+    "created_at": "2026-09-25T18:31:09.665540+00:00"
   }
 ]
