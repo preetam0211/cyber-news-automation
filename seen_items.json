@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=160689",
-    "title": "Microsoft Teams Outage Largely Mitigated After Users Lost Access to Multiple Features",
-    "link": "https://cybersecuritynews.com/microsoft-teams-outage-multiple-features/",
-    "published": "Wed, 26 Aug 2026 02:26:41 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Microsoft confirmed early Wednesday that customers may have been unable to use multiple Microsoft Teams features, then said its monitoring showed the problem was largely under control. The latest customer note, posted at 7:26 a.m. IST on August 26, 2",
-    "created_at": "2026-08-26T03:31:47.498952+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=160695",
     "title": "Multiple OpenSSL Flaws Let Remote Attackers Crash Servers and Corrupt Heap Memory",
     "link": "https://cybersecuritynews.com/openssl-patches-9-vulnerabilities/",
