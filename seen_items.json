@@ -9421,5 +9421,14 @@
     "source": "BleepingComputer",
     "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) warns that hackers are exploiting a critical authentication bypass vulnerability (CVE-2026-5430) affecting multiple products from enterprise software provider WSO2. [...]",
     "created_at": "2026-09-25T17:31:03.988919+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164837",
+    "title": "14-Year-Old Linux Kernel Flaw Lets Local Users Gain Root Access and Escape Containers",
+    "link": "https://cybersecuritynews.com/14-year-old-linux-kernel-flaw/",
+    "published": "Fri, 25 Sep 2026 17:56:35 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A 14-year-old Linux kernel vulnerability can let a local attacker escalate to root privileges and, in a proof-of-concept environment, escape a Docker container to compromise the underlying host. The flaw in Linux’s AF_ALG userspace cryptographic inte",
+    "created_at": "2026-09-25T18:01:07.231000+00:00"
   }
 ]
