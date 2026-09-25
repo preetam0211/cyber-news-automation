@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/",
-    "title": "Meta agrees to $18 billion settlement over teen social media harms",
-    "link": "https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/",
-    "published": "Wed, 26 Aug 2026 12:41:05 -0400",
-    "source": "BleepingComputer",
-    "summary": "Meta has reached a proposed settlement worth up to approximately $18 billion with a bipartisan coalition of 52 attorneys generals over allegations that Facebook and Instagram were deliberately designed to encourage compulsive use by children and teen",
-    "created_at": "2026-08-26T17:04:32.453006+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html",
     "title": "Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler",
     "link": "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html",
@@ -9421,5 +9412,14 @@
     "source": "BleepingComputer",
     "summary": "Anthropic now allows you to run Claude Code via cloud sessions without signing up for the research preview, and it&#x27;s offering up to $250 in free usage credits, so more users can give it a try. [...]",
     "created_at": "2026-09-25T16:31:19.850871+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
+    "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
+    "published": "Fri, 25 Sep 2026 13:24:20 -0400",
+    "source": "BleepingComputer",
+    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) warns that hackers are exploiting a critical authentication bypass vulnerability (CVE-2026-5430) affecting multiple products from enterprise software provider WSO2. [...]",
+    "created_at": "2026-09-25T17:31:03.988919+00:00"
   }
 ]
