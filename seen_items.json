@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=160759",
-    "title": "WordPress Plugin Vulnerability Exposes 400,000 Sites to Account Takeover Attacks",
-    "link": "https://cybersecuritynews.com/translatepress-wordpress-plugin-vulnerability/",
-    "published": "Wed, 26 Aug 2026 09:41:03 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A critical vulnerability in the TranslatePress WordPress plugin could allow unauthenticated attackers to hijack administrator accounts and fully compromise affected websites. The flaw, tracked as CVE-2026-19632, affects TranslatePress versions up to ",
-    "created_at": "2026-08-26T10:01:53.430177+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
-    "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
-    "link": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
-    "published": "Wed, 26 Aug 2026 15:08:45 +0530",
-    "source": "The Hacker News",
-    "summary": "OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) tool to generate social media posts and comments that",
-    "created_at": "2026-08-26T10:31:23.530292+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
     "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
     "link": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
@@ -9385,5 +9367,50 @@
     "source": "CybersecurityNews",
     "summary": "Hewlett Packard Enterprise has released security updates for HPE Networking Analytics and Location Engine, or ALE, after finding multiple flaws that could let attackers bypass security controls, access sensitive data, and take over vulnerable systems",
     "created_at": "2026-09-25T10:01:36.233913+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164789",
+    "title": "Microsoft Finds Ransomware Group Using Same Attack Blueprint Across Multiple Malware Families",
+    "link": "https://cybersecuritynews.com/microsoft-finds-ransomware-group/",
+    "published": "Fri, 25 Sep 2026 10:11:25 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has linked a ransomware affiliate to attacks that ended with four different ransomware families. The group, tracked as Storm-2570, repeatedly used the same methods to take control of networks, steal data and prepare systems for encryption. ",
+    "created_at": "2026-09-25T10:31:05.711016+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
+    "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
+    "link": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
+    "published": "Fri, 25 Sep 2026 15:44:02 +0530",
+    "source": "The Hacker News",
+    "summary": "The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild.\n\nThe vulnerability in question is CVE-2026-48842 (CVSS score: 8.1), a pre-authentication SQL injection in th",
+    "created_at": "2026-09-25T10:31:16.097912+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164805",
+    "title": "AI agents Tried to Hack Public Websites After Failing to Access Data Through Normal Methods",
+    "link": "https://cybersecuritynews.com/ai-agents-hack-public-websites/",
+    "published": "Fri, 25 Sep 2026 10:18:00 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Autonomous AI agents allegedly attempted to probe and hack public data websites after normal methods of retrieving information failed, according to a new investigation by AI research group Transluce. The activity included attempted attacks on a U.S. ",
+    "created_at": "2026-09-25T10:31:18.466753+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164775",
+    "title": "CISA Warns of Multiple Check Point Product Vulnerabilities Exploited in Attacks",
+    "link": "https://cybersecuritynews.com/check-point-product-vulnerabilities-exploited/",
+    "published": "Fri, 25 Sep 2026 10:30:18 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency has added two Check Point vulnerabilities to its Known Exploited Vulnerabilities Catalog, warning that attackers are actively exploiting the flaws against affected environments. The issues aff",
+    "created_at": "2026-09-25T10:31:20.690000+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
+    "title": "Microsoft: Recent Windows updates cause desktop loading issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
+    "published": "Fri, 25 Sep 2026 06:30:38 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft has confirmed that some users may experience desktop loading issues, including black screens, after installing the August 2026 preview updates and subsequent updates. [...]",
+    "created_at": "2026-09-25T10:31:23.308800+00:00"
   }
 ]
