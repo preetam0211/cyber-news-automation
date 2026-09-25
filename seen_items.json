@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=160695",
-    "title": "Multiple OpenSSL Flaws Let Remote Attackers Crash Servers and Corrupt Heap Memory",
-    "link": "https://cybersecuritynews.com/openssl-patches-9-vulnerabilities/",
-    "published": "Wed, 26 Aug 2026 03:46:16 +0000",
-    "source": "CybersecurityNews",
-    "summary": "OpenSSL has issued a fresh security advisory disclosing seven vulnerabilities across its cryptographic library, ranging from a heap-corrupting write bug to memory-exhaustion flaws in its QUIC and DTLS implementations. The flaws affect widely deployed",
-    "created_at": "2026-08-26T04:01:07.681578+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=160699",
     "title": "Linux Turns 35 – Hobby Kernel Now Powers Cloud, Android, and Global Cyber Defense",
     "link": "https://cybersecuritynews.com/linux-turns-35/",
@@ -9376,5 +9367,14 @@
     "source": "CybersecurityNews",
     "summary": "Cloudflare has patched a cross-tenant data exposure vulnerability in its Containers platform across its global, multi-tenant cloud computing infrastructure that could allow one customer’s workload to recover residual disk data left by another tenant ",
     "created_at": "2026-09-25T03:31:26.076646+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164715",
+    "title": "Bitget Hot Wallet Hacked – Attackers Stole $351.6 Million From Hot Wallets",
+    "link": "https://cybersecuritynews.com/bitget-hot-wallet-hacked/",
+    "published": "Fri, 25 Sep 2026 03:34:38 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cryptocurrency exchange Bitget has confirmed a security breach affecting approximately $351.6 million in assets after unauthorized transfers were detected in parts of its hot and warm wallet infrastructure. The incident was identified at 18:31 UTC on",
+    "created_at": "2026-09-25T04:31:16.767542+00:00"
   }
 ]
