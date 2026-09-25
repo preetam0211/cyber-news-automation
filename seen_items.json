@@ -1,50 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
-    "title": "CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing",
-    "link": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
-    "published": "Wed, 26 Aug 2026 18:37:02 +0530",
-    "source": "The Hacker News",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published the results of two red team assessments it conducted simultaneously against two critical infrastructure organizations, using what it described as similar tradecraft while ",
-    "created_at": "2026-08-26T14:31:08.132853+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
-    "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
-    "link": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
-    "published": "Wed, 26 Aug 2026 19:14:31 +0530",
-    "source": "The Hacker News",
-    "summary": "Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that&#x27;s used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated sessions in the process.\n\nIn a ",
-    "created_at": "2026-08-26T14:31:10.430306+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/",
-    "title": "Snowflake ends service-account passwords. Now comes the hard part",
-    "link": "https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/",
-    "published": "Wed, 26 Aug 2026 10:01:11 -0400",
-    "source": "BleepingComputer",
-    "summary": "Snowflake is ending password authentication for legacy service accounts, forcing organizations to migrate them to passwordless methods. Token Security explains why the harder challenge is identifying what uses each account, who owns it, and how much ",
-    "created_at": "2026-08-26T14:31:12.970724+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160804",
-    "title": "OpenAI Bans Russia-Linked ChatGPT Accounts Used in Covert Influence Campaign",
-    "link": "https://cybersecuritynews.com/openai-bans-russia-linked-chatgpt/",
-    "published": "Wed, 26 Aug 2026 14:13:02 +0000",
-    "source": "CybersecurityNews",
-    "summary": "OpenAI has removed a cluster of ChatGPT accounts linked to a covert influence operation from Russia. The accounts produced social-media posts and replies designed to steer people toward the International Burke Institute, or IBI, a purported Israeli e",
-    "created_at": "2026-08-26T14:31:14.371929+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/",
-    "title": "FBI disrupts proxy network enabling Chinese espionage operations",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/",
-    "published": "Wed, 26 Aug 2026 10:17:59 -0400",
-    "source": "BleepingComputer",
-    "summary": "The FBI has disrupted infrastructure associated with a technical &quot;quartermaster&quot; that provided reconnaissance, proxy management, and operational routing capabilities for Chinese cyber espionage activities. [...]",
-    "created_at": "2026-08-26T14:31:15.453689+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/",
     "title": "Hackers target Microsoft SharePoint RCE chain with PoC exploit",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/",
@@ -9403,5 +9358,32 @@
     "source": "CybersecurityNews",
     "summary": "TWEAKOS steals messaging accounts and turns them into items for sale. The operation pairs a Windows stealer with a Telegram bot for managing victims and selling stolen access. The threat surfaced after its source code appeared on Pastebin. Researcher",
     "created_at": "2026-09-25T13:01:14.279207+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164854",
+    "title": "Salmon Introduces Execution Verification Infrastructure (EVI) for Securing AI Agents and Autonomous Systems",
+    "link": "https://cybersecuritynews.com/salmon-introduces-execution-verification-infrastructure-evi-for-securing-ai-agents-and-autonomous-systems/",
+    "published": "Fri, 25 Sep 2026 13:35:24 +0000",
+    "source": "CybersecurityNews",
+    "summary": "San Francisco, USA, September 25th, 2026, CyberNewswire Archipelo today announced Salmon, Execution Verification Infrastructure (EVI) for AI agents and autonomous systems, powered by a cryptographic protocol designed to make execution history verifia",
+    "created_at": "2026-09-25T14:31:11.993803+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164849",
+    "title": "Sauron Loader Malware Uses DLL Side-Loading and In-Memory Decryption to Evade Detection",
+    "link": "https://cybersecuritynews.com/sauron-loader-malware/",
+    "published": "Fri, 25 Sep 2026 13:47:28 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Sauron Loader has surfaced in attacks on German organizations, giving intruders a way to deliver more malware. The new tool need not be the first thing a victim encounters. In the cases examined, it arrived at the end of attack chains built around de",
+    "created_at": "2026-09-25T14:31:15.451742+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164859",
+    "title": "Researchers Found a Botnet That Uses an AI Agent to Operate Inside Compromised Servers",
+    "link": "https://cybersecuritynews.com/botnet-uses-ai-agent/",
+    "published": "Fri, 25 Sep 2026 14:17:54 +0000",
+    "source": "CybersecurityNews",
+    "summary": "CARBONATO is a botnet that turns Docker servers into footholds for attackers. It places an AI agent inside compromised systems, letting operators send tasks through Telegram and receive results. The campaign begins with Docker services carelessly exp",
+    "created_at": "2026-09-25T14:31:17.695910+00:00"
   }
 ]
