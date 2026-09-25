@@ -9385,5 +9385,23 @@
     "source": "CybersecurityNews",
     "summary": "CARBONATO is a botnet that turns Docker servers into footholds for attackers. It places an AI agent inside compromised systems, letting operators send tasks through Telegram and receive results. The campaign begins with Docker services carelessly exp",
     "created_at": "2026-09-25T14:31:17.695910+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
+    "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
+    "link": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
+    "published": "Fri, 25 Sep 2026 10:51:10 -0400",
+    "source": "BleepingComputer",
+    "summary": "AI agents can operate through human credentials and take actions that existing SOC 2 controls may not distinguish from human activity. Token Security explains why SOC 2 needs to adapt to address the security gaps created by agent identities. [...]",
+    "created_at": "2026-09-25T15:01:24.262253+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
+    "title": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
+    "published": "Fri, 25 Sep 2026 10:54:33 -0400",
+    "source": "BleepingComputer",
+    "summary": "OpenAI appears to be preparing a new ChatGPT Pro Max subscription that could cost $500 per month, but it&#x27;s unclear when it&#x27;ll begin rolling out. [...]",
+    "created_at": "2026-09-25T15:01:26.459140+00:00"
   }
 ]
