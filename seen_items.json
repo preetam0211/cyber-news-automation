@@ -9331,5 +9331,59 @@
     "source": "CybersecurityNews",
     "summary": "Zenity Labs disclosed a now-patched Salesforce Agentforce vulnerability, dubbed SalesBleed, that could have allowed attackers to steal sensitive CRM data without logging in, accessing a target Salesforce tenant, or requiring victim interaction. The a",
     "created_at": "2026-09-25T09:01:20.473560+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164768",
+    "title": "Sudo Security Vulnerability Lets Attackers Escalate Privileges",
+    "link": "https://cybersecuritynews.com/sudo-security-vulnerability/",
+    "published": "Fri, 25 Sep 2026 09:29:32 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A high-severity security vulnerability in Sudo could allow local attackers to bypass time-based access restrictions and run commands with elevated privileges. Tracked as CVE-2026-96512, the flaw affects Sudo versions from 1.8.20 through 1.9.17p2 and ",
+    "created_at": "2026-09-25T10:01:10.410374+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164771",
+    "title": "CISA Warns of WSO2 Multiple Products Vulnerability Exploited in Attacks",
+    "link": "https://cybersecuritynews.com/wso2-vulnerability-exploited/",
+    "published": "Fri, 25 Sep 2026 09:39:45 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a critical WSO2 vulnerability (CVE-2026-5430) to its Known Exploited Vulnerabilities catalog, warning that attackers are actively exploiting the flaw in real-world attacks. Th",
+    "created_at": "2026-09-25T10:01:12.855803+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164616",
+    "title": "Hackers Actively Exploiting WordPress Vulnerability to Execute Malicious Code",
+    "link": "https://cybersecuritynews.com/hackers-exploiting-wordpress-vulnerability/",
+    "published": "Fri, 25 Sep 2026 09:43:24 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The critical WordPress vulnerability CVE-2026-87902 is being actively exploited, with activity progressing from reconnaissance to attempts to write malicious PHP files on vulnerable servers. The flaw affects WordPress Core versions 4.7.0 through 7.1.",
+    "created_at": "2026-09-25T10:01:19.711844+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164635",
+    "title": "Critical GitLab Bugs Let Attackers Execute Code Through Malicious CI/CD Regex",
+    "link": "https://cybersecuritynews.com/gitlab-bugs-enable-code-execution/",
+    "published": "Fri, 25 Sep 2026 09:51:07 +0000",
+    "source": "CybersecurityNews",
+    "summary": "GitLab has released emergency security updates to fix two critical vulnerabilities that could allow authenticated attackers to execute arbitrary code on vulnerable GitLab servers through specially crafted regular expressions in CI/CD configurations. ",
+    "created_at": "2026-09-25T10:01:28.068486+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164644",
+    "title": "Microsoft Password Reset Portal Could Reveal Users and MFA Protection Details",
+    "link": "https://cybersecuritynews.com/microsoft-password-reset-portal-reveal/",
+    "published": "Fri, 25 Sep 2026 09:53:32 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft’s SSPR portal may expose sensitive account details to unauthenticated users, including whether an Entra ID account exists and its registered password-reset methods. Such exposure might assist attackers in refining their phishing, password-s",
+    "created_at": "2026-09-25T10:01:34.302517+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164512",
+    "title": "HPE Networking ALE Flaws Let Hackers Bypass Security Controls and Compromise Systems",
+    "link": "https://cybersecuritynews.com/hpe-networking-ale-flaws/",
+    "published": "Fri, 25 Sep 2026 09:58:22 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hewlett Packard Enterprise has released security updates for HPE Networking Analytics and Location Engine, or ALE, after finding multiple flaws that could let attackers bypass security controls, access sensitive data, and take over vulnerable systems",
+    "created_at": "2026-09-25T10:01:36.233913+00:00"
   }
 ]
