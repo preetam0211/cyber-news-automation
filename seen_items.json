@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/",
-    "title": "New GPUThor attack defeats NVIDIA ECC protection for root access",
-    "link": "https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/",
-    "published": "Wed, 26 Aug 2026 14:48:24 -0400",
-    "source": "BleepingComputer",
-    "summary": "A newly disclosed Rowhammer attack called GPUThor can bypass error-correcting code (ECC) protections on NVIDIA GPUs, enabling denial-of-service (DoS) and root-level privilege escalation. [...]",
-    "created_at": "2026-08-26T19:01:03.348395+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=160790",
     "title": "Critical Next.js Vulnerabilities Enables Remote Code Execution Attacks",
     "link": "https://cybersecuritynews.com/next-js-vulnerabilities/",
