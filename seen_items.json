@@ -9403,5 +9403,14 @@
     "source": "BleepingComputer",
     "summary": "Microsoft has confirmed that some users may experience desktop loading issues, including black screens, after installing the August 2026 preview updates and subsequent updates. [...]",
     "created_at": "2026-09-25T10:31:23.308800+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
+    "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
+    "link": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
+    "published": "Fri, 25 Sep 2026 16:05:55 +0530",
+    "source": "The Hacker News",
+    "summary": "Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets. \n\n&quot;At 18:31 UTC on September 24, 2026, Bitget&#x27;s security systems identified unauthorized transfers involving ",
+    "created_at": "2026-09-25T11:31:08.865001+00:00"
   }
 ]
