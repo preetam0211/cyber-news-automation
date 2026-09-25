@@ -9403,5 +9403,32 @@
     "source": "CybersecurityNews",
     "summary": "ServiceNow released security updates for five AI Platform flaws, including two critical vulnerabilities that could let unauthenticated attackers access, modify, or extract sensitive instance data, urging self-hosted users to verify versions and patch",
     "created_at": "2026-09-25T12:31:14.236863+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
+    "title": "The SOC Doesn't Need to Start Over with Every Alert",
+    "link": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
+    "published": "Fri, 25 Sep 2026 17:00:00 +0530",
+    "source": "The Hacker News",
+    "summary": "Security leaders keep debating whether AI will produce an entirely new class of cyberattack. The nearer change is quieter and already visible: AI has made a failed attack cheap to retry.\n\nThe routine version looks like this. An attacker lands on a lo",
+    "created_at": "2026-09-25T13:01:10.006413+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/",
+    "title": "Microsoft plans to deprecate Windows Deployment Services",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/",
+    "published": "Fri, 25 Sep 2026 08:40:59 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft announced it will deprecate the Windows Deployment Services (WDS) server role starting with the next Windows Server release. [...]",
+    "created_at": "2026-09-25T13:01:12.107929+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164829",
+    "title": "TWEAKOS Malware Turns Telegram Into a Stealer, C2 Platform and Stolen Account Marketplace",
+    "link": "https://cybersecuritynews.com/tweakos-malware/",
+    "published": "Fri, 25 Sep 2026 12:53:52 +0000",
+    "source": "CybersecurityNews",
+    "summary": "TWEAKOS steals messaging accounts and turns them into items for sale. The operation pairs a Windows stealer with a Telegram bot for managing victims and selling stolen access. The threat surfaced after its source code appeared on Pastebin. Researcher",
+    "created_at": "2026-09-25T13:01:14.279207+00:00"
   }
 ]
