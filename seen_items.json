@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=160698",
-    "title": "New CoreRAT Malware Gives Core Werewolf Hackers Full Control of Compromised Systems",
-    "link": "https://cybersecuritynews.com/new-corerat-malware/",
-    "published": "Wed, 26 Aug 2026 06:02:39 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A new remote access trojan called CoreRAT is giving the Core Werewolf threat group a way to take over infected Windows systems. The malware appeared in campaigns observed from June through July 2026, though evidence shows it has been active since at ",
-    "created_at": "2026-08-26T07:01:55.367445+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160703",
-    "title": "Two Microsoft SharePoint Flaws Can Be Chained to Hack Servers Without a Password",
-    "link": "https://cybersecuritynews.com/sharepoint-flaws-chained-to-hack-servers/",
-    "published": "Wed, 26 Aug 2026 07:00:28 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Two serious Microsoft SharePoint Server vulnerabilities can be chained to let remote attackers take control of vulnerable servers without a password. The attack combines an authentication bypass tracked as 78 with a remote code execution flaw, CVE-20",
-    "created_at": "2026-08-26T07:02:47.349087+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html",
     "title": "Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes",
     "link": "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html",
