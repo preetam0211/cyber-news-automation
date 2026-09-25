@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=160699",
-    "title": "Linux Turns 35 – Hobby Kernel Now Powers Cloud, Android, and Global Cyber Defense",
-    "link": "https://cybersecuritynews.com/linux-turns-35/",
-    "published": "Wed, 26 Aug 2026 04:31:15 +0000",
-    "source": "CybersecurityNews",
-    "summary": "On August 25, 1991, a 21-year-old University of Helsinki student posted a modest note to the Usenet group comp.os.minix. “I’m doing a (free) operating system (just a hobby, won’t be big and professional like gnu) for 386(486) AT clones,” Linus Torval",
-    "created_at": "2026-08-26T05:01:28.069903+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=160698",
     "title": "New CoreRAT Malware Gives Core Werewolf Hackers Full Control of Compromised Systems",
     "link": "https://cybersecuritynews.com/new-corerat-malware/",
@@ -9376,5 +9367,14 @@
     "source": "CybersecurityNews",
     "summary": "Cryptocurrency exchange Bitget has confirmed a security breach affecting approximately $351.6 million in assets after unauthorized transfers were detected in parts of its hot and warm wallet infrastructure. The incident was identified at 18:31 UTC on",
     "created_at": "2026-09-25T04:31:16.767542+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164745",
+    "title": "Hackers Exploited Ethereum Bridge Contract to Drain Full Balance from Payy Network",
+    "link": "https://cybersecuritynews.com/payy-ethereum-bridge-contract-drain/",
+    "published": "Fri, 25 Sep 2026 05:18:27 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Payy Network has confirmed that attackers exploited its Ethereum bridge contract and drained the contract’s entire balance, forcing the stablecoin payments platform to suspend network and wallet functions. According to a public statement from Payy, t",
+    "created_at": "2026-09-25T05:31:17.337710+00:00"
   }
 ]
