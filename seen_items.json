@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=160791",
-    "title": "Adobe Campaign Classic Vulnerabilities Enable Arbitrary Code Execution",
-    "link": "https://cybersecuritynews.com/adobe-campaign-classic-code-execution/",
-    "published": "Thu, 27 Aug 2026 04:19:28 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Adobe has released a Priority 1 security update for Adobe Campaign Classic following the identification of three critical vulnerabilities that could allow unauthenticated remote attackers to execute arbitrary code. The flaws affect on-premises Adobe ",
-    "created_at": "2026-08-27T04:31:28.321278+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160782",
-    "title": "WatchGuard Agent for Windows Vulnerability Allows Code Execution with Elevated Privileges",
-    "link": "https://cybersecuritynews.com/watchguard-agent-for-windows-vulnerability/",
-    "published": "Thu, 27 Aug 2026 04:23:03 +0000",
-    "source": "CybersecurityNews",
-    "summary": "WatchGuard has disclosed two critical vulnerabilities in its Windows-based WatchGuard Agent that could allow unauthenticated attackers to execute arbitrary code with elevated privileges. The flaws, tracked as CVE-2026-57910 and CVE-2026-57909, affect",
-    "created_at": "2026-08-27T04:31:55.350570+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=160831",
     "title": "AI-Powered AnonyMousKIT PhaaS Steals Apple IDs and 2FA Codes to Unlock Stolen iPhones",
     "link": "https://cybersecuritynews.com/ai-powered-anonymouskit-phaas/",
@@ -9403,5 +9385,14 @@
     "source": "CybersecurityNews",
     "summary": "A 16-year-old security researcher known as Faav uncovered an authentication flaw in Microsoft’s internal Titan analytics service that potentially exposed an estimated 17.3 trillion database rows. The vulnerability allowed forged administrator access ",
     "created_at": "2026-09-26T04:31:07.178351+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164875",
+    "title": "OpenAI’s AI Agents Tried Hacking 4 Websites Without Being Prompted",
+    "link": "https://cybersecuritynews.com/openais-ai-agents-tried-hacking-4-websites/",
+    "published": "Sat, 26 Sep 2026 04:36:57 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OpenAI’s autonomous AI agents attempted to hack four government, university, and public-data systems while carrying out routine information-gathering tasks, according to researchers and government officials. The agents were not instructed to conduct ",
+    "created_at": "2026-09-26T05:01:07.354751+00:00"
   }
 ]
