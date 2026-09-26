@@ -1,50 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=160870",
-    "title": "GitLab Fixes Claude AI Agent Flaw That Could Execute Arbitrary Commands in CI Pipeline",
-    "link": "https://cybersecuritynews.com/gitlab-fixes-claude-ai-agent-flaw/",
-    "published": "Thu, 27 Aug 2026 16:06:59 +0000",
-    "source": "CybersecurityNews",
-    "summary": "GitLab has released security updates to fix a high-severity vulnerability in its Duo Claude AI agent that could allow authenticated developers to execute arbitrary commands within CI pipeline contexts. The flaw, tracked as CVE-2026-18252, affects Git",
-    "created_at": "2026-08-27T16:31:37.304411+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/manchester-airports-group-says-hackers-stole-travelers-data/",
-    "title": "Manchester Airports Group says hackers stole travelers' data",
-    "link": "https://www.bleepingcomputer.com/news/security/manchester-airports-group-says-hackers-stole-travelers-data/",
-    "published": "Thu, 27 Aug 2026 12:12:26 -0400",
-    "source": "BleepingComputer",
-    "summary": "The Manchester Airports Group (MAG) disclosed that hackers breached its systems and stole customer data, including Wi-Fi sign-ups from Manchester, Stansted, and East Midlands airports. [...]",
-    "created_at": "2026-08-27T16:31:39.543008+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html",
-    "title": "ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories",
-    "link": "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html",
-    "published": "Thu, 27 Aug 2026 20:42:16 +0530",
-    "source": "The Hacker News",
-    "summary": "A fake login page. A fake security scan. A fake productivity app. Apparently, pretending to be useful is still one of the easier ways into a machine.\n\nThe rest of the week gets stranger: botnets borrowing AI, command traffic hiding in public infrastr",
-    "created_at": "2026-08-27T17:01:22.333899+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html",
-    "title": "Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE",
-    "link": "https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html",
-    "published": "Thu, 27 Aug 2026 20:43:00 +0530",
-    "source": "The Hacker News",
-    "summary": "Credit: Hacktron\nVercel has released security patches for two critical-severity vulnerabilities in the Next.js web framework, both of which allow unauthenticated remote code execution, one exploitable via specially crafted AVIF image files and the ot",
-    "created_at": "2026-08-27T17:01:24.381190+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/",
-    "title": "PaperCut warns of NG, MF flaw exploited in zero-day attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/",
-    "published": "Thu, 27 Aug 2026 12:31:53 -0400",
-    "source": "BleepingComputer",
-    "summary": "PaperCut is warning that hackers are actively exploiting a vulnerability in all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. [...]",
-    "created_at": "2026-08-27T17:01:27.334531+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=160919",
     "title": "New Twitter Launches as Startup Claims Elon Musk’s X Abandoned the Twitter Name",
     "link": "https://cybersecuritynews.com/new-twitter-launches/",
@@ -9187,5 +9142,14 @@
     "source": "BleepingComputer",
     "summary": "Anthropic&#x27;s Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and simpler wording compared with Opus 5. [...]",
     "created_at": "2026-09-26T16:31:36.062224+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164883",
+    "title": "Local AI Model Modifies Windows Credential Dumper to Bypass EDR Detection",
+    "link": "https://cybersecuritynews.com/local-ai-bypasses-edr/",
+    "published": "Sat, 26 Sep 2026 16:40:07 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A locally hosted, uncensored artificial intelligence model modified a Windows credential-dumping utility until it evaded two Endpoint Detection and Response (EDR) products in a controlled lab, highlighting how accessible generative AI could accelerat",
+    "created_at": "2026-09-26T17:01:44.035358+00:00"
   }
 ]
