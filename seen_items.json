@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
-    "title": "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
-    "link": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
-    "published": "Thu, 27 Aug 2026 15:03:38 +0530",
-    "source": "The Hacker News",
-    "summary": "Threat actors linked by Arctic Wolf to Dark Caracal with medium confidence deployed a previously undocumented Go-based malware framework, GoCaracal, during a June 2026 intrusion at an unnamed communications organization in Venezuela.\n\nGoCaracal provi",
-    "created_at": "2026-08-27T10:31:35.024718+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160849",
-    "title": "Veeam Backup & Replication Flaw Exposes Guest OS Credentials in Cleartext Logs",
-    "link": "https://cybersecuritynews.com/veeam-backup-replication-flaw-exposes/",
-    "published": "Thu, 27 Aug 2026 10:18:20 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Veeam has disclosed a critical security vulnerability in Veeam ONE 13 that could allow an unauthenticated remote attacker to coerce SMB authentication from the product’s service account. Tracked as CVE-2026-65641, the issue carries a CVSS v4.0 score ",
-    "created_at": "2026-08-27T10:32:01.961501+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html",
     "title": "Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools",
     "link": "https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html",
