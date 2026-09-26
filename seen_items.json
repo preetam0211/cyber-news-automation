@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/webinar-how-google-workspace-breaches-happen-and-what-to-do-next/",
-    "title": "Webinar: How Google Workspace breaches happen and what to do next",
-    "link": "https://www.bleepingcomputer.com/news/security/webinar-how-google-workspace-breaches-happen-and-what-to-do-next/",
-    "published": "Thu, 27 Aug 2026 08:16:24 -0400",
-    "source": "BleepingComputer",
-    "summary": "Google Workspace breaches can begin with social engineering or forgotten third-party integrations rather than sophisticated exploits. This webinar examines real-world breaches, what happens during the critical first hours, and the security controls t",
-    "created_at": "2026-08-27T12:31:04.837563+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-windows-11-crashes-gaming-issues/",
     "title": "Microsoft rolls out fix for Windows 11 crashes, gaming issues",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-windows-11-crashes-gaming-issues/",
@@ -9268,5 +9259,14 @@
     "source": "The Hacker News",
     "summary": "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of a site.\n\nThe cross-site reque",
     "created_at": "2026-09-26T10:31:16.398123+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
+    "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
+    "published": "Sat, 26 Sep 2026 08:28:41 -0400",
+    "source": "BleepingComputer",
+    "summary": "OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...]",
+    "created_at": "2026-09-26T12:31:08.440557+00:00"
   }
 ]
