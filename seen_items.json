@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/",
-    "title": "Australia arrests alleged TeamPCP hackers behind supply-chain attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/",
-    "published": "Thu, 27 Aug 2026 09:31:13 -0400",
-    "source": "BleepingComputer",
-    "summary": "Australian authorities have arrested and charged two young men accused of belonging to TeamPCP, a hacking group linked to a string of far-reaching developer supply chain attacks. [...]",
-    "created_at": "2026-08-27T14:00:59.585524+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/android-17-adds-ech-support-to-make-web-browsing-harder-to-track/",
-    "title": "Android 17 adds ECH support to make web browsing harder to track",
-    "link": "https://www.bleepingcomputer.com/news/security/android-17-adds-ech-support-to-make-web-browsing-harder-to-track/",
-    "published": "Thu, 27 Aug 2026 10:00:00 -0400",
-    "source": "BleepingComputer",
-    "summary": "Google is introducing new network security protections in Android 17 to strengthen connection privacy, address cellular vulnerabilities, and protect the privacy of users&#x27; home networks. [...]",
-    "created_at": "2026-08-27T14:31:08.812338+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/how-threat-research-and-mdr-help-smbs-build-a-defensive-edge/",
-    "title": "How Threat Research and MDR Help SMBs Build a Defensive Edge",
-    "link": "https://www.bleepingcomputer.com/news/security/how-threat-research-and-mdr-help-smbs-build-a-defensive-edge/",
-    "published": "Thu, 27 Aug 2026 10:00:10 -0400",
-    "source": "BleepingComputer",
-    "summary": "Threat research gives security teams insight into how attackers operate, while MDR turns that intelligence into faster detection and response. ESET explains how combining threat intelligence, continuous monitoring, and human expertise can help SMBs s",
-    "created_at": "2026-08-27T14:31:14.685000+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=160899",
     "title": "Hackers Exploit ownCloud and WordPress Flaws to Steal Philippine Nuclear and Naval Data",
     "link": "https://cybersecuritynews.com/hackers-exploit-owncloud/",
@@ -9223,5 +9196,32 @@
     "source": "BleepingComputer",
     "summary": "OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...]",
     "created_at": "2026-09-26T12:31:08.440557+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
+    "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
+    "link": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
+    "published": "Sat, 26 Sep 2026 16:00:00 +0530",
+    "source": "The Hacker News",
+    "summary": "The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quickly organizations could stand up agents and how much productivity they could promise, a str",
+    "created_at": "2026-09-26T14:31:25.972719+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
+    "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
+    "link": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
+    "published": "Sat, 26 Sep 2026 17:16:40 +0530",
+    "source": "The Hacker News",
+    "summary": "Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally.\n\nThe ShinyHunters-linked activity involves the weaponization of CVE-2026-35273 (CVSS scor",
+    "created_at": "2026-09-26T14:31:43.218995+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
+    "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
+    "link": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
+    "published": "Sat, 26 Sep 2026 10:19:46 -0400",
+    "source": "BleepingComputer",
+    "summary": "Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code. [...]",
+    "created_at": "2026-09-26T14:31:51.077883+00:00"
   }
 ]
