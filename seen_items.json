@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=160841",
-    "title": "AccuKnox Launches AgentZ to Help Enterprises Build, Run, and Govern AI Agents at Scale",
-    "link": "https://cybersecuritynews.com/accuknox-launches-agentz-to-help-enterprises-build-run-and-govern-ai-agents-at-scale/",
-    "published": "Thu, 27 Aug 2026 09:34:22 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Menlo Park, California, USA, August 27th, 2026, CyberNewswire AccuKnox today announced the launch of AgentZ, a platform for building, running, and governing AI agents across teams and workflows. AgentZ brings the agent, its execution environment, too",
-    "created_at": "2026-08-27T10:01:06.232375+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
     "title": "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
     "link": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
@@ -9295,5 +9286,32 @@
     "source": "CybersecurityNews",
     "summary": "OpenAI’s autonomous AI agents attempted to hack four government, university, and public-data systems while carrying out routine information-gathering tasks, according to researchers and government officials. The agents were not instructed to conduct ",
     "created_at": "2026-09-26T05:01:07.354751+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
+    "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
+    "link": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
+    "published": "Sat, 26 Sep 2026 13:18:33 +0530",
+    "source": "The Hacker News",
+    "summary": "Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threat intelligence about an imminent cyber attack.\n\n&quot;Kiteworks received credible threat i",
+    "created_at": "2026-09-26T10:31:03.280721+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
+    "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
+    "link": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
+    "published": "Sat, 26 Sep 2026 14:19:53 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nTh",
+    "created_at": "2026-09-26T10:31:10.911996+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
+    "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
+    "link": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
+    "published": "Sat, 26 Sep 2026 15:25:22 +0530",
+    "source": "The Hacker News",
+    "summary": "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of a site.\n\nThe cross-site reque",
+    "created_at": "2026-09-26T10:31:16.398123+00:00"
   }
 ]
