@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=160919",
-    "title": "New Twitter Launches as Startup Claims Elon Musk’s X Abandoned the Twitter Name",
-    "link": "https://cybersecuritynews.com/new-twitter-launches/",
-    "published": "Thu, 27 Aug 2026 16:34:08 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A startup operating as Operation Bluebird, Inc. has launched early access to a new social media service on Twitter.now, positioning itself as a revival of the Twitter brand that Elon Musk’s X Corp. abandoned after its 2023 rebrand. The company says i",
-    "created_at": "2026-08-27T18:01:38.422079+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160896",
-    "title": "CISA Warns of Citrix NetScaler ADC and Gateway Vulnerability Exploited in Attacks",
-    "link": "https://cybersecuritynews.com/citrix-netscaler-adc-and-gateway-vulnerability-exploited/",
-    "published": "Thu, 27 Aug 2026 16:46:55 +0000",
-    "source": "CybersecurityNews",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency has added a critical Citrix NetScaler ADC and NetScaler Gateway security flaw, tracked as CVE-2026-8452, to its Known Exploited Vulnerabilities catalog after confirming exploitation in attacks",
-    "created_at": "2026-08-27T18:01:39.754361+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160920",
-    "title": "Cybercriminals Are Selling Corporate Executives’ Social Security Numbers for Just 25 Cents",
-    "link": "https://cybersecuritynews.com/executive-social-security-numbers/",
-    "published": "Thu, 27 Aug 2026 16:54:31 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Corporate executives’ most sensitive identity data is being sold on dark web marketplaces for as little as a quarter, according to new threat intelligence from Rapid7. Unlike stolen credit cards, which can be canceled within minutes, a compromised So",
-    "created_at": "2026-08-27T18:02:05.579014+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160947",
-    "title": "PaperCut NG/MF Vulnerability Actively Exploited in Attack – All Versions Impacted",
-    "link": "https://cybersecuritynews.com/papercut-ng-mf-vulnerability-actively-exploited/",
-    "published": "Thu, 27 Aug 2026 17:27:34 +0000",
-    "source": "CybersecurityNews",
-    "summary": "PaperCut has confirmed that hackers are actively exploiting an unpatched vulnerability in its widely used PaperCut NG and PaperCut MF print management software, prompting the company to rush out an emergency patch just hours after issuing its first w",
-    "created_at": "2026-08-27T18:02:06.916658+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
     "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
     "link": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
