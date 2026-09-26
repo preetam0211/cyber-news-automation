@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=160885",
-    "title": "CISA Warns of Microsoft SQL Server RCE Vulnerability Exploited in Attacks",
-    "link": "https://cybersecuritynews.com/microsoft-sql-server-rce-vulnerability/",
-    "published": "Thu, 27 Aug 2026 15:49:42 +0000",
-    "source": "CybersecurityNews",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency has added a Microsoft SQL Server remote code execution vulnerability, tracked as CVE-2019-1068, to its Known Exploited Vulnerabilities catalog after confirming exploitation in attacks. The fla",
-    "created_at": "2026-08-27T16:31:08.771241+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160890",
-    "title": "TP-Link Kasa Smart Home Devices Vulnerability Allows Attackers to Disrupt Device Functionality",
-    "link": "https://cybersecuritynews.com/tp-link-kasa-smart-home-devices-vulnerability/",
-    "published": "Thu, 27 Aug 2026 16:03:24 +0000",
-    "source": "CybersecurityNews",
-    "summary": "TP-Link has disclosed a high-severity vulnerability affecting multiple Kasa smart home devices that could allow attackers on the same local network to intercept, replay, or forge device-control commands. Tracked as CVE-2026-76784, the flaw can lead t",
-    "created_at": "2026-08-27T16:31:10.144472+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=160870",
     "title": "GitLab Fixes Claude AI Agent Flaw That Could Execute Arbitrary Commands in CI Pipeline",
     "link": "https://cybersecuritynews.com/gitlab-fixes-claude-ai-agent-flaw/",
@@ -9187,5 +9169,23 @@
     "source": "BleepingComputer",
     "summary": "Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations. [...]",
     "created_at": "2026-09-26T16:00:56.744016+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164827",
+    "title": "F-Droid 2.0 Released After 10 years With Major Redesign to Transform Open-Source Android App Discovery",
+    "link": "https://cybersecuritynews.com/f-droid-2-0-released/",
+    "published": "Sat, 26 Sep 2026 15:56:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "F-Droid has released version 2.0 of its official Android app, delivering its largest client update in a decade. The open-source Android app repository said the release follows more than a year of development and 14 test builds, with a staged rollout ",
+    "created_at": "2026-09-26T16:31:19.027395+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
+    "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
+    "published": "Sat, 26 Sep 2026 12:26:58 -0400",
+    "source": "BleepingComputer",
+    "summary": "Anthropic&#x27;s Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and simpler wording compared with Opus 5. [...]",
+    "created_at": "2026-09-26T16:31:36.062224+00:00"
   }
 ]
