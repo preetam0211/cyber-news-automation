@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html",
-    "title": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code",
-    "link": "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html",
-    "published": "Fri, 28 Aug 2026 20:57:26 +0530",
-    "source": "The Hacker News",
-    "summary": "Cybersecurity researchers have discovered a cluster of 18 Google Chrome and one Microsoft Edge extensions that were published over the last six months and harbored wallet secret stealing and cryptocurrency draining capabilities.\n\n\nThe extensions, per",
-    "created_at": "2026-08-28T16:01:28.917281+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=161134",
-    "title": "Iran-Linked Hackers Reportedly Knock UK Power Plant Offline for Four Days",
-    "link": "https://cybersecuritynews.com/iran-linked-hackers-2/",
-    "published": "Fri, 28 Aug 2026 15:31:57 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A cyber incident reportedly forced a British power plant to halt operations for about four days in July, drawing attention to the security of less-visible energy sites. The shutdown did not cause customer outages, and the wider electricity system con",
-    "created_at": "2026-08-28T16:01:43.803880+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=161136",
     "title": "Hackers Make Phishing Pages Change Their Code Every Time Someone Opens Them",
     "link": "https://cybersecuritynews.com/hackers-make-phishing-pages/",
@@ -8935,5 +8917,23 @@
     "source": "BleepingComputer",
     "summary": "Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers&#x27; containers on the same physical host. [...]",
     "created_at": "2026-09-27T14:31:14.612502+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164901",
+    "title": "New Windows Process Injection Attack Evades EDR Monitoring Without WriteProcessMemory",
+    "link": "https://cybersecuritynews.com/windows-process-injection-evades-edr/",
+    "published": "Sun, 27 Sep 2026 16:00:24 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A Windows process injection method disclosed by security researcher Two Seven One Three sidesteps two APIs closely associated with remote code injection: VirtualAllocEx and WriteProcessMemory. Dubbed console named-pipe injection, the technique delive",
+    "created_at": "2026-09-27T16:31:15.993312+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
+    "title": "Citrix admins warned to shut down NetScalers over 2 exploited zero-days",
+    "link": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
+    "published": "Sun, 27 Sep 2026 12:02:37 -0400",
+    "source": "BleepingComputer",
+    "summary": "Two unpatched Citrix NetScaler zero-day vulnerabilities are reportedly being exploited in attacks, with cybersecurity agencies, security researchers, and IT providers privately warning organizations about the flaws ahead of patches expected next week",
+    "created_at": "2026-09-27T16:31:21.349626+00:00"
   }
 ]
