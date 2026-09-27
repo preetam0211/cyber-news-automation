@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/",
-    "title": "Toy-making giant Hasbro disclose data breach affecting employees",
-    "link": "https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/",
-    "published": "Fri, 28 Aug 2026 07:46:57 -0400",
-    "source": "BleepingComputer",
-    "summary": "Hasbro, one of the world&#x27;s largest toy and game companies, has disclosed that attackers have accessed the personal and financial information of an undisclosed number of employees. [...]",
-    "created_at": "2026-08-28T12:01:44.388856+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/",
     "title": "Over 8,300 Gitea servers vulnerable to code execution attacks",
     "link": "https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/",
