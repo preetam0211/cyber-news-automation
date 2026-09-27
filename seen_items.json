@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=160990",
-    "title": "Claude Code Opus 5 Auto Mode Hijacked via Prompt Injection to Execute Malicious Code",
-    "link": "https://cybersecuritynews.com/claude-code-opus-5-auto-mode-hijacked/",
-    "published": "Fri, 28 Aug 2026 07:07:29 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Claude Code Opus 5 in Auto Mode can be tricked into running malicious code via a simple website summary request. In a limited lab test, the attack reportedly succeeded in 60% to 80% of attempts. The finding from Embrace The Red is significant because",
-    "created_at": "2026-08-28T08:01:37.643181+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=160963",
-    "title": "Dark Caracal Hackers Use Ethereum Blockchain to Keep New Malware Connected After C2 Disruption",
-    "link": "https://cybersecuritynews.com/dark-caracal-hackers/",
-    "published": "Fri, 28 Aug 2026 07:54:17 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Dark Caracal has returned with a new tool that helps attackers stay connected when defenders shut down their control servers. The cyberespionage group is linked by researchers to a Venezuelan communications organization intrusion, where it deployed a",
-    "created_at": "2026-08-28T08:02:29.484982+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html",
     "title": "APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations",
     "link": "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html",
@@ -9079,5 +9061,14 @@
     "source": "CybersecurityNews",
     "summary": "Citrix NetScaler administrators are confronting reports of two undisclosed remote code execution vulnerabilities allegedly exploited in real-world attacks. watchTowr said the flaws are unpatched zero-days, were identified during forensic investigatio",
     "created_at": "2026-09-27T05:01:13.818868+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
+    "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
+    "link": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
+    "published": "Sun, 27 Sep 2026 13:17:57 +0530",
+    "source": "The Hacker News",
+    "summary": "Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr said on September 26.\n\nCitrix has not confirmed the",
+    "created_at": "2026-09-27T08:31:04.560043+00:00"
   }
 ]
