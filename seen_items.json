@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/",
-    "title": "Windows 11 KB5120998 update released with 35 changes and fixes",
-    "link": "https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/",
-    "published": "Fri, 28 Aug 2026 05:10:13 -0400",
-    "source": "BleepingComputer",
-    "summary": "Microsoft released the KB5120998 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 35 changes, including improvements to the Start menu, taskbar, and Windows search. [...]",
-    "created_at": "2026-08-28T09:31:24.315782+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html",
     "title": "Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server",
     "link": "https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html",
