@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/",
-    "title": "AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?",
-    "link": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/",
-    "published": "Fri, 28 Aug 2026 10:00:10 -0400",
-    "source": "BleepingComputer",
-    "summary": "AI is accelerating vulnerability discovery, putting pressure on systems built to enrich, prioritize, and remediate flaws at a slower pace. Action1 explains why defenders increasingly need to correlate multiple intelligence sources and turn vulnerabil",
-    "created_at": "2026-08-28T14:31:33.933471+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=161101",
     "title": "Hackers Use Fake Student Resume to Secretly Install Malware on Researchers’ Computers",
     "link": "https://cybersecuritynews.com/hackers-use-fake-student-resume/",
