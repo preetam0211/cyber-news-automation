@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html",
-    "title": "Key Reasons Why Identity Fabric Matters in 2026",
-    "link": "https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html",
-    "published": "Fri, 28 Aug 2026 17:00:00 +0530",
-    "source": "The Hacker News",
-    "summary": "An Identity Fabric knits fragmented identity systems into a coherent layer that observes how identities behave across applications, APIs, and infrastructure. As enterprise access spans more cloud services and automated workloads, identity security de",
-    "created_at": "2026-08-28T13:31:21.890840+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html",
-    "title": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth",
-    "link": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html",
-    "published": "Fri, 28 Aug 2026 17:37:24 +0530",
-    "source": "The Hacker News",
-    "summary": "Security researcher Olivier Laflamme has disclosed two independent root remote code execution (RCE) chains affecting the Unitree G1 EDU, including a Bluetooth Low Energy (BLE) path that can reach root on the robot&#x27;s Locomotion PC.\n\nThe flaws are",
-    "created_at": "2026-08-28T13:31:23.892499+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/",
     "title": "AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?",
     "link": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/",
@@ -8980,5 +8962,14 @@
     "source": "The Hacker News",
     "summary": "Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr said on September 26.\n\nCitrix has not confirmed the",
     "created_at": "2026-09-27T08:31:04.560043+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
+    "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
+    "published": "Sun, 27 Sep 2026 09:38:40 -0400",
+    "source": "BleepingComputer",
+    "summary": "Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more. [...]",
+    "created_at": "2026-09-27T14:04:37.202135+00:00"
   }
 ]
