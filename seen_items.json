@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/",
-    "title": "PaperCut releases second emergency patch for exploited flaws",
-    "link": "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/",
-    "published": "Fri, 28 Aug 2026 15:08:26 -0400",
-    "source": "BleepingComputer",
-    "summary": "PaperCut has released a second emergency security update for two actively exploited vulnerabilities in its PaperCut NG and MF print management software after researchers discovered multiple ways to bypass the initial fixes. [...]",
-    "created_at": "2026-08-28T19:31:24.425699+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
     "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
     "link": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
