@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/",
-    "title": "Over 8,300 Gitea servers vulnerable to code execution attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/",
-    "published": "Fri, 28 Aug 2026 08:58:43 -0400",
-    "source": "BleepingComputer",
-    "summary": "Over 8,300 Internet-exposed Gitea instances are still unpatched against a critical security flaw exploited in ongoing remote code execution attacks, according to cybersecurity watchdog Shadowserver. [...]",
-    "created_at": "2026-08-28T13:00:55.652316+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html",
     "title": "Key Reasons Why Identity Fabric Matters in 2026",
     "link": "https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html",
