@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html",
-    "title": "APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations",
-    "link": "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html",
-    "published": "Fri, 28 Aug 2026 13:50:59 +0530",
-    "source": "The Hacker News",
-    "summary": "Cybersecurity researchers have flagged a fresh set of campaigns targeting government and diplomatic organizations in Romania, Spain, and Türkiye between late September 2025 and early April 2026.\n\nThese campaigns, per Recorded Future Insikt Group, hav",
-    "created_at": "2026-08-28T09:01:52.007548+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
-    "title": "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions",
-    "link": "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
-    "published": "Fri, 28 Aug 2026 13:55:36 +0530",
-    "source": "The Hacker News",
-    "summary": "PaperCut has alerted customers that bad actors are actively exploiting a vulnerability impacting all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks.\n\nThe company has released an emergency patch for v25 and v",
-    "created_at": "2026-08-28T09:02:18.269586+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/",
     "title": "Windows 11 KB5120998 update released with 35 changes and fixes",
     "link": "https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/",
