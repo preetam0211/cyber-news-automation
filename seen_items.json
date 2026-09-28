@@ -9115,5 +9115,41 @@
     "source": "CybersecurityNews",
     "summary": "Florida Attorney General James Uthmeier has asked a Highlands County judge to impose sweeping temporary restrictions on OpenAI, CEO Sam Altman, and affiliated companies while Florida’s ChatGPT lawsuit proceeds. Filed September 28 in Florida’s Tenth J",
     "created_at": "2026-09-28T17:01:10.255258+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
+    "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
+    "link": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
+    "published": "Mon, 28 Sep 2026 23:08:33 +0530",
+    "source": "The Hacker News",
+    "summary": "RatHat&#x27;s operators build and publish the Android banking trojan and control infected phones from a web console, according to security company Cleafy. Cleafy has traced nearly 100 deployments of that console since April 2026. It said this fits a ",
+    "created_at": "2026-09-28T19:00:59.634520+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html",
+    "title": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M",
+    "link": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html",
+    "published": "Mon, 28 Sep 2026 23:12:18 +0530",
+    "source": "The Hacker News",
+    "summary": "The attacker who stole about $388 million from the cryptocurrency exchange Bitget gained access through a vulnerability in a third-party security product the exchange used, Bitget said on Monday.\n\nThe attacker exploited the flaw to obtain high-level ",
+    "created_at": "2026-09-28T19:01:01.944375+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
+    "title": "IAM for AI agents: A Practical Enterprise Framework",
+    "link": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
+    "published": "Mon, 28 Sep 2026 23:50:38 +0530",
+    "source": "The Hacker News",
+    "summary": "What is IAM for AI agents?\n\nAI agents authenticate, invoke tools, and act across enterprise systems with delegated authority. IAM for AI Agents is the identity-control architecture that governs those actors. This guide covers the limits of convention",
+    "created_at": "2026-09-28T19:01:03.885181+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
+    "title": "Misconfigured Supabase apps expose data in over 16,000 databases",
+    "link": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
+    "published": "Mon, 28 Sep 2026 14:50:59 -0400",
+    "source": "BleepingComputer",
+    "summary": "Researchers found more than 16,000 misconfigured Supabase databases exposing readable tables with personally identifiable information, passwords, or authentication tokens. [...]",
+    "created_at": "2026-09-28T19:01:06.115679+00:00"
   }
 ]
