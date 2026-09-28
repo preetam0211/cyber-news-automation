@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
-    "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
-    "link": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
-    "published": "Sat, 29 Aug 2026 21:55:03 +0530",
-    "source": "The Hacker News",
-    "summary": "Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution.\n\nTh",
-    "created_at": "2026-08-29T17:31:23.047661+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=161177",
-    "title": "OpenAI Is Pulling Its AI Models From Cursor Following SpaceX Acquisition",
-    "link": "https://cybersecuritynews.com/openai-models-ends-with-cursor/",
-    "published": "Sat, 29 Aug 2026 16:44:24 +0000",
-    "source": "CybersecurityNews",
-    "summary": "OpenAI is pulling its AI models from Cursor following SpaceX’s acquisition of the AI coding assistant, notifying SpaceX that it will wind down the contract that supplies those models to the editor. The proposed shutoff date is November 12, 2026, whic",
-    "created_at": "2026-08-29T17:31:47.796252+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
     "title": "Anthropic is cutting Claude Code's current weekly limits by 17%",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
