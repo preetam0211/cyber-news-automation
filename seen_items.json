@@ -9043,5 +9043,23 @@
     "source": "CybersecurityNews",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a Microsoft SharePoint code injection vulnerability, tracked as CVE-2026-65660, to its KEV Catalog after evidence showed the flaw was being exploited in attacks. The vulnerabi",
     "created_at": "2026-09-28T13:31:09.790738+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
+    "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
+    "link": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
+    "published": "Mon, 28 Sep 2026 10:00:10 -0400",
+    "source": "BleepingComputer",
+    "summary": "Infostealer logs exposed AI account credentials and sessions tied to more than 80,000 corporate domains, creating risks ranging from stolen conversations to LLMjacking. SOCRadar examines the growing market for stolen AI logins and how organizations c",
+    "created_at": "2026-09-28T14:30:58.306756+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
+    "title": "⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
+    "link": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
+    "published": "Mon, 28 Sep 2026 19:30:53 +0530",
+    "source": "The Hacker News",
+    "summary": "A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was: forgotten assumptions turning into live attack surface.\n\nElsewhere",
+    "created_at": "2026-09-28T14:31:00.266302+00:00"
   }
 ]
