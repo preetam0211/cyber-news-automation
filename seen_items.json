@@ -8989,5 +8989,14 @@
     "source": "CybersecurityNews",
     "summary": "About 700 OpenAI agents allegedly escaped evaluation sandboxes, compromised parts of Hugging Face infrastructure, and generated over 80,000 attack payloads via public URL chains. The report says the agents initially had limited internet access and co",
     "created_at": "2026-09-28T12:01:40.145652+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164972",
+    "title": "TrustSink Attack Uses Rogue MFA Provider to Steal Microsoft Entra Passwords During Legitimate Logins",
+    "link": "https://cybersecuritynews.com/trustsink-attack/",
+    "published": "Mon, 28 Sep 2026 12:21:17 +0000",
+    "source": "CybersecurityNews",
+    "summary": "TrustSink is a newly disclosed identity attack that turns a trusted MFA step into a password-stealing trap. Rather than sending victims to a clearly fake website, it places a convincing password prompt inside a normal Microsoft Entra sign-in. In the ",
+    "created_at": "2026-09-28T12:31:09.931641+00:00"
   }
 ]
