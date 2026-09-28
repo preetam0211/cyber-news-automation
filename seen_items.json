@@ -9106,5 +9106,14 @@
     "source": "CybersecurityNews",
     "summary": "The UK National Cyber Security Center (NCSC) has urged organizations to take immediate action against eight vulnerabilities affecting customer-managed Citrix NetScaler ADC and NetScaler Gateway appliances. Two critical flaws, CVE-2026-88771 and CVE-2",
     "created_at": "2026-09-28T15:31:21.725910+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
+    "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
+    "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
+    "published": "Mon, 28 Sep 2026 11:49:27 -0400",
+    "source": "BleepingComputer",
+    "summary": "The JadePuffer ransomware operator is targeting Azure tenants with agent-driven attacks that conduct reconnaissance, steal credentials, and destroy core components. [...]",
+    "created_at": "2026-09-28T16:00:57.861418+00:00"
   }
 ]
