@@ -8908,5 +8908,59 @@
     "source": "CybersecurityNews",
     "summary": "A Python-based malware builder can turn a single stealer into Windows programs for different operators. The tool packages a payload designed to take saved passwords, payment card details and browser cookies, then send them to an attacker-controlled w",
     "created_at": "2026-09-28T09:01:11.221720+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164967",
+    "title": "Hackers Don’t Need to Break Into the Cloud When They Can Steal the Keys",
+    "link": "https://cybersecuritynews.com/break-into-the-cloud/",
+    "published": "Mon, 28 Sep 2026 09:21:40 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Infostealer malware is giving criminals a quieter route into corporate cloud environments. Instead of forcing their way through a hardened cloud perimeter, they infect a developer or employee device and take the credentials, API keys, and active sess",
+    "created_at": "2026-09-28T09:32:00.670647+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
+    "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
+    "link": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
+    "published": "Mon, 28 Sep 2026 05:25:29 -0400",
+    "source": "BleepingComputer",
+    "summary": "Cryptocurrency exchange Bitget has resumed Bitcoin withdrawals suspended after suspected North Korean hackers breached its systems last week and stole over $350 million. [...]",
+    "created_at": "2026-09-28T09:32:15.962053+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164929",
+    "title": "Critical ViewSonic vCast Vulnerabilities Allow Attackers to Gain Full Control Over the Device",
+    "link": "https://cybersecuritynews.com/viewsonic-vcast-vulnerabilities/",
+    "published": "Mon, 28 Sep 2026 09:27:28 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Critical vulnerabilities in ViewSonic’s vCast software could allow attackers on the same network to steal screen content, install malicious Android applications, and potentially gain full control of affected ViewBoard smart displays. The issues were ",
+    "created_at": "2026-09-28T09:33:07.926054+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164933",
+    "title": "Kiteworks Warned Customers to Shut Down Servers Over Potential Zero-Day Attack",
+    "link": "https://cybersecuritynews.com/kiteworks-warned-customers-over-zero-day-attack/",
+    "published": "Mon, 28 Sep 2026 09:28:02 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Kiteworks warned customers to temporarily shut down their servers after receiving credible threat intelligence that a threat actor could target some Kiteworks systems. The company said the measure was preventative, stressed that it had no evidence of",
+    "created_at": "2026-09-28T09:33:11.964689+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164949",
+    "title": "CISA Warns of Citrix NetScaler 0-Day RCE Vulnerabilities Exploited in Attacks",
+    "link": "https://cybersecuritynews.com/citrix-netscaler-0-day-rce-vulnerabilities-exploited/",
+    "published": "Mon, 28 Sep 2026 09:28:38 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two critical Citrix NetScaler vulnerabilities to its Known Exploited Vulnerabilities catalog after evidence showed they were being actively exploited in attacks. The flaws aff",
+    "created_at": "2026-09-28T09:33:13.323215+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164959",
+    "title": "PHP Fixed a Bug That Could Send Your Login Credentials to the Wrong Server",
+    "link": "https://cybersecuritynews.com/php-fixed-a-bug/",
+    "published": "Mon, 28 Sep 2026 09:29:32 +0000",
+    "source": "CybersecurityNews",
+    "summary": "PHP has fixed a security flaw that could expose login credentials, cookies, and proxy authentication data to an unintended server during HTTP redirects. The vulnerability, tracked as CVE-2026-91766 and GHSA-fpwc-w8rq-cr92, affects PHP’s HTTP stream w",
+    "created_at": "2026-09-28T09:34:04.177915+00:00"
   }
 ]
