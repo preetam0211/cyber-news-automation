@@ -8827,5 +8827,23 @@
     "source": "BleepingComputer",
     "summary": "OpenAI is testing a new always-on assistant called &quot;o&quot;, and references to the unannounced feature briefly showed up on the company&#x27;s website. [...]",
     "created_at": "2026-09-28T00:01:14.742636+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164879",
+    "title": "Which Platforms to Use for Enterprise Threat Intelligence",
+    "link": "https://cybersecuritynews.com/which-platforms-to-use-for-enterprise-threat-intelligence/",
+    "published": "Sun, 27 Sep 2026 03:59:32 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Enterprise threat intelligence calls for a platform that filters the flood of global threat data down to what is relevant to a specific organization, draws on collection broad enough to surface threats before they appear publicly, ties activity to th",
+    "created_at": "2026-09-28T04:31:13.668528+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164915",
+    "title": "Wireshark 4.6.9 Fixes 19 Vulnerabilities Including Code Execution Via Malicious Packet",
+    "link": "https://cybersecuritynews.com/wireshark-4-6-9-fixes-19-vulnerabilities/",
+    "published": "Mon, 28 Sep 2026 03:38:53 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Wireshark has released version 4.6.9, a security-focused update that addresses 19 documented vulnerabilities across protocol dissectors, capture-file parsers, the Sharkd utility, and configuration-profile handling. Released on September 23 alongside ",
+    "created_at": "2026-09-28T04:31:16.313686+00:00"
   }
 ]
