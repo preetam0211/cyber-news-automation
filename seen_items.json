@@ -8854,5 +8854,32 @@
     "source": "BleepingComputer",
     "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulnerabilities. [...]",
     "created_at": "2026-09-28T06:31:09.589819+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164625",
+    "title": "Top 10 Best Cloud Directory Services in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-cloud-directory-services/",
+    "published": "Mon, 28 Sep 2026 06:34:00 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Every domain controller still humming in a server closet is a patch cycle, an attack surface, and a reminder that identity hasn’t finished moving to the cloud. We scored the leading cloud directories on identity depth, protocol coverage, device integ",
+    "created_at": "2026-09-28T07:01:20.783078+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164663",
+    "title": "Top 10 Best Authentication-as-a-Service (AaaS) Providers in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-authentication-as-a-service/",
+    "published": "Mon, 28 Sep 2026 06:48:35 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Nobody gets promoted for building login, but plenty get breached maintaining it. Authentication-as-a-Service moved from convenience to best practice: passkeys, attack protection, and compliance maintained by vendors whose whole business is sign-in. I",
+    "created_at": "2026-09-28T07:01:34.544132+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164701",
+    "title": "Top 10 Best Biometric Authentication Solutions in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-biometric-authentication/",
+    "published": "Mon, 28 Sep 2026 06:56:08 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Matching a face got easy; proving the face is a live human at a real camera while generative AI mass-produces convincing deepfake threats is where the modern biometric authentication market earns its keep. We scored ten vendors with liveness and inje",
+    "created_at": "2026-09-28T07:01:39.761476+00:00"
   }
 ]
