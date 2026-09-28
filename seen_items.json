@@ -8845,5 +8845,14 @@
     "source": "CybersecurityNews",
     "summary": "Citrix has released emergency security updates for NetScaler ADC and NetScaler Gateway after confirming that attackers are exploiting two critical remote code execution vulnerabilities against unmitigated appliances. The flaws, CVE-2026-88771 and CVE",
     "created_at": "2026-09-27T17:01:23.285121+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
+    "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
+    "published": "Sun, 27 Sep 2026 19:40:39 -0400",
+    "source": "BleepingComputer",
+    "summary": "OpenAI is testing a new always-on assistant called &quot;o&quot;, and references to the unannounced feature briefly showed up on the company&#x27;s website. [...]",
+    "created_at": "2026-09-28T00:01:14.742636+00:00"
   }
 ]
