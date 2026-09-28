@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=161162",
-    "title": "Malvertising Is Moving From Deceptive Content to Weaponized Infrastructure",
-    "link": "https://cybersecuritynews.com/malvertising-is-moving-from-deceptive-content-to-weaponized-infrastructure/",
-    "published": "Sat, 29 Aug 2026 07:08:41 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Malvertising is becoming harder to identify by looking at the ad itself. A growing share of malicious advertising activity now depends on what happens after the click: redirect chains, disposable domains, cloaking systems, conditional delivery, and c",
-    "created_at": "2026-08-29T07:31:43.103835+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/",
     "title": "Brave browser adds email aliases to help users evade tracking",
     "link": "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/",
@@ -8899,5 +8890,14 @@
     "source": "CybersecurityNews",
     "summary": "Hackers broke into business networks, stole customer records and used those details to send convincing fake bills. The campaign, called Operation Master, combined a VPN login bypass with attacks on web applications and a large-scale invoice fraud sys",
     "created_at": "2026-09-28T07:31:19.679754+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
+    "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
+    "link": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
+    "published": "Mon, 28 Sep 2026 03:30:15 -0400",
+    "source": "BleepingComputer",
+    "summary": "A former U.S. Army soldier has been sentenced to 70 months in prison for hacking and extorting at least 10 U.S. technology and telecommunications companies between April 2023 and December 2024. [...]",
+    "created_at": "2026-09-28T08:01:02.558494+00:00"
   }
 ]
