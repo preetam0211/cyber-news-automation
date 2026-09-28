@@ -8998,5 +8998,23 @@
     "source": "CybersecurityNews",
     "summary": "TrustSink is a newly disclosed identity attack that turns a trusted MFA step into a password-stealing trap. Rather than sending victims to a clearly fake website, it places a convincing password prompt inside a normal Microsoft Entra sign-in. In the ",
     "created_at": "2026-09-28T12:31:09.931641+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
+    "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
+    "link": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
+    "published": "Mon, 28 Sep 2026 17:16:00 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have disclosed details of a new botnet malware called Carbonato that&#x27;s targeting exposed Docker daemons to deploy an open-source artificial intelligence (AI) agent framework called Hermes Agent.\n\n&quot;The implant insta",
+    "created_at": "2026-09-28T13:00:59.037091+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
+    "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
+    "link": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
+    "published": "Mon, 28 Sep 2026 17:28:00 +0530",
+    "source": "The Hacker News",
+    "summary": "AI agents are moving into production faster than security teams can govern them. They are connecting to apps, handling data, calling APIs, and acting across business systems—often without the same controls applied to human users.\n\nAccording to Okta’s",
+    "created_at": "2026-09-28T13:01:01.307048+00:00"
   }
 ]
