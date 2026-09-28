@@ -9052,5 +9052,59 @@
     "source": "The Hacker News",
     "summary": "A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was: forgotten assumptions turning into live attack surface.\n\nElsewhere",
     "created_at": "2026-09-28T14:31:00.266302+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165003",
+    "title": "ShinyHunters Bypasses WAF Protections to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
+    "link": "https://cybersecuritynews.com/shinyhunters-bypasses/",
+    "published": "Mon, 28 Sep 2026 13:46:26 +0000",
+    "source": "CybersecurityNews",
+    "summary": "ShinyHunters has renewed attacks against Oracle PeopleSoft systems by slipping past web application firewall protections and planting web shells. The campaign shows how a small change in an attack request can reopen exposure that administrators belie",
+    "created_at": "2026-09-28T15:31:09.048704+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165015",
+    "title": "Bitget Backend Breach Drains $387.5 Million as DPRK-Linked Launderers Expose Themselves",
+    "link": "https://cybersecuritynews.com/bitget-backend-breach/",
+    "published": "Mon, 28 Sep 2026 14:07:52 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cryptocurrency exchange Bitget has begun restoring withdrawals after attackers exploited its backend wallet infrastructure on September 24, stealing approximately $387.5 million from hot and warm wallets. The incident did not involve stolen private k",
+    "created_at": "2026-09-28T15:31:12.293175+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165008",
+    "title": "OpenCode AI Coding Agent Flaw Lets Malicious Websites Execute Code on Developer Machines",
+    "link": "https://cybersecuritynews.com/opencode-ai-coding-agent-flaw/",
+    "published": "Mon, 28 Sep 2026 14:22:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical attack path in OpenCode, an open-source AI coding agent, could let a malicious website execute commands on a developer’s computer. Tracked as GHSA-632h-h47v-g4x4, the remote code execution vulnerability combines content-type confusion in O",
+    "created_at": "2026-09-28T15:31:14.928161+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165013",
+    "title": "Hackers Built an AI-Powered Attack Machine and Accidentally Left the Control Panel Open",
+    "link": "https://cybersecuritynews.com/ai-powered-attack-machine/",
+    "published": "Mon, 28 Sep 2026 14:26:54 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A criminal crew linked to Blackhatsect0r and DXQRTXX built an automated system designed to find weaknesses across the internet. Its exposed server revealed a credential vault, source code, chat logs, fraud notes, and a target list, offering a rare lo",
+    "created_at": "2026-09-28T15:31:17.133532+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165017",
+    "title": "New File Notification Attack Lets Hackers Track User Activity Across Linux, Windows and macOS",
+    "link": "https://cybersecuritynews.com/new-file-notification-attack/",
+    "published": "Mon, 28 Sep 2026 14:33:25 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A cross-platform side-channel attack that abuses file-notification services to monitor user activity on Linux, Windows and macOS. The technique turns inotify, ReadDirectoryChangesW, and FSEvents, which alert applications when files are changed, into ",
+    "created_at": "2026-09-28T15:31:19.477060+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165022",
+    "title": "NCSC Urges UK organizations to Patch for Citrix NetScaler ADC and Gateway 0-Day Vulnerabilities",
+    "link": "https://cybersecuritynews.com/citrix-netscaler-0-day-vulnerabilities/",
+    "published": "Mon, 28 Sep 2026 14:56:26 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The UK National Cyber Security Center (NCSC) has urged organizations to take immediate action against eight vulnerabilities affecting customer-managed Citrix NetScaler ADC and NetScaler Gateway appliances. Two critical flaws, CVE-2026-88771 and CVE-2",
+    "created_at": "2026-09-28T15:31:21.725910+00:00"
   }
 ]
