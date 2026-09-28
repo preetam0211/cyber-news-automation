@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/",
-    "title": "Brave browser adds email aliases to help users evade tracking",
-    "link": "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/",
-    "published": "Sat, 29 Aug 2026 10:19:23 -0400",
-    "source": "BleepingComputer",
-    "summary": "The latest version of the Brave browser, 1.94, introduces a feature called &#x27;Email Aliases&#x27; that allows users to generate disposable email addresses when signing up to a new service. [...]",
-    "created_at": "2026-08-29T14:31:28.690171+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
     "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
     "link": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
