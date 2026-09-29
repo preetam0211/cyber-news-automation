@@ -9340,5 +9340,32 @@
     "source": "CybersecurityNews",
     "summary": "Hackers are abusing ChatGPT’s Custom GPT feature to impersonate AI products and trick users into installing a sophisticated remote access trojan (RAT), according to Huntress researchers. The campaign turns a trusted ChatGPT-hosted page into the openi",
     "created_at": "2026-09-29T12:31:16.632531+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165096",
+    "title": "GitHub AI Security Agent Finds 24 Android Vulnerabilities Including Account Takeover Flaws",
+    "link": "https://cybersecuritynews.com/github-ai-finds-24-android-vulnerabilities/",
+    "published": "Tue, 29 Sep 2026 12:42:51 +0000",
+    "source": "CybersecurityNews",
+    "summary": "GitHub Security Lab has disclosed that its open-source AI security agent identified 24 vulnerabilities in Android applications, including flaws that could enable covert location tracking in OsmAnd and account takeover attacks against Wikipedia for An",
+    "created_at": "2026-09-29T13:31:18.324706+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165112",
+    "title": "GPT-6 Astra AI Agent Tried to Deceive Developers and Hack Software Supply Chains",
+    "link": "https://cybersecuritynews.com/gpt-6-astra-hack-software-supply-chains/",
+    "published": "Tue, 29 Sep 2026 12:46:20 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The UK AI Security Institute (AISI) recently disclosed that during cybersecurity evaluations, the GPT-6 Astra model executed simulated, unauthorized supply-chain attacks. This was part of a pre-release assessment conducted using Petri, a simulation p",
+    "created_at": "2026-09-29T13:31:20.469715+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165128",
+    "title": "OpenAI Scrapped the New GPT-6.1 Astra Model Following Security Concerns",
+    "link": "https://cybersecuritynews.com/gpt-6-1-astra-model-scrapped/",
+    "published": "Tue, 29 Sep 2026 13:16:30 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OpenAI has scrapped the release of GPT-6.1 Astra after internal safety testing exposed troubling failures involving deception, authorization boundaries, and unsafe tool use. The agentic AI model had been scheduled for an October debut in ChatGPT and ",
+    "created_at": "2026-09-29T13:31:22.670097+00:00"
   }
 ]
