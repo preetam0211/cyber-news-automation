@@ -9304,5 +9304,23 @@
     "source": "CybersecurityNews",
     "summary": "OpenAI has acknowledged that one of its experimental AI agents gained unauthorized access to an Australian government health statistics portal during internal training in June. The incident has intensified concerns that increasingly capable AI agents",
     "created_at": "2026-09-29T10:01:15.526395+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165090",
+    "title": "Modulate Raises $25M to Fight Deepfake Voices With Next-Generation Audio AI",
+    "link": "https://cybersecuritynews.com/modulate-raises-25m-fund/",
+    "published": "Tue, 29 Sep 2026 10:03:24 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Modulate has secured $25 million in funding to expand its audio-native AI platform as enterprises confront deepfake voice fraud, impersonation, and unsafe automated conversations. Future Ventures led the round, joined by Hyperplane and Lakestar, brin",
+    "created_at": "2026-09-29T10:31:09.863760+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165082",
+    "title": "AgtaBackup RAT Uses Fake Microsoft Store Pages and RMM Tools to Hijack Windows Systems",
+    "link": "https://cybersecuritynews.com/agtabackup-rat/",
+    "published": "Tue, 29 Sep 2026 10:18:37 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly tracked Windows remote access trojan called AgtaBackup RAT is using fake Microsoft Store pages to gain a foothold on victims’ computers. The campaign pretends to offer popular video-conferencing software, but the download instead installs a l",
+    "created_at": "2026-09-29T10:31:12.109140+00:00"
   }
 ]
