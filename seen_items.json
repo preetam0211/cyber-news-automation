@@ -9511,5 +9511,14 @@
     "source": "BleepingComputer",
     "summary": "Custom variants of OpenAI&#x27;s ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware. [...]",
     "created_at": "2026-09-29T21:01:04.907832+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
+    "title": "Signal adds encypted local backup support to iOS, desktop apps",
+    "link": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
+    "published": "Tue, 29 Sep 2026 17:30:08 -0400",
+    "source": "BleepingComputer",
+    "summary": "Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows). [...]",
+    "created_at": "2026-09-29T21:31:24.208713+00:00"
   }
 ]
