@@ -9493,5 +9493,14 @@
     "source": "BleepingComputer",
     "summary": "Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into internal networks. [...]",
     "created_at": "2026-09-29T19:01:06.402033+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
+    "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
+    "published": "Tue, 29 Sep 2026 16:09:55 -0400",
+    "source": "BleepingComputer",
+    "summary": "The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of the group&#x27;s alleged leaders. [...]",
+    "created_at": "2026-09-29T20:31:18.458526+00:00"
   }
 ]
