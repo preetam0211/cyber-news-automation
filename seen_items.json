@@ -9259,5 +9259,23 @@
     "source": "CybersecurityNews",
     "summary": "A newly documented Windows remote access trojan, dubbed BotHelper RAT, gives attackers a quiet way to watch an infected user’s screen and control the device. The malware arrives through a small starter program, hides its main code with encryption, an",
     "created_at": "2026-09-29T08:01:09.831121+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165058",
+    "title": "Critical WatchGuard API Vulnerabilities Enables Command Execution Attacks",
+    "link": "https://cybersecuritynews.com/watchguard-api-vulnerabilities/",
+    "published": "Tue, 29 Sep 2026 08:00:44 +0000",
+    "source": "CybersecurityNews",
+    "summary": "WatchGuard has disclosed three security vulnerabilities affecting WatchGuard AP devices, including two critical flaws that could allow attackers to gain unauthenticated access and execute commands on vulnerable access points. Organizations using Watc",
+    "created_at": "2026-09-29T09:01:08.968668+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165076",
+    "title": "Storm-3168 Deletes Azure Resources in 7-Minute Destructive Cloud Attack",
+    "link": "https://cybersecuritynews.com/storm-3168/",
+    "published": "Tue, 29 Sep 2026 08:48:40 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Storm-3168 used compromised cloud identities to carry out a destructive attack against an Azure environment in minutes. The operation shows how a stolen application credential can give an intruder broad control over hosted data, services, and recover",
+    "created_at": "2026-09-29T09:01:25.242085+00:00"
   }
 ]
