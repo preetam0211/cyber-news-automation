@@ -9430,5 +9430,23 @@
     "source": "CybersecurityNews",
     "summary": "FBI Director Kash Patel has announced the arrest of an alleged leader of ShinyHunters, the cyber-extortion group linked to attacks across the United States, the Netherlands, and other countries. Dutch police detained the 24-year-old Amsterdam suspect",
     "created_at": "2026-09-29T17:01:19.242000+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
+    "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
+    "link": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
+    "published": "Tue, 29 Sep 2026 22:30:00 +0530",
+    "source": "The Hacker News",
+    "summary": "A group of academics from VUSec and Scuola Superiore Sant&#x27;Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel,",
+    "created_at": "2026-09-29T17:30:58.747211+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
+    "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
+    "link": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
+    "published": "Tue, 29 Sep 2026 13:10:11 -0400",
+    "source": "BleepingComputer",
+    "summary": "A new Branch Target Reuse (BTR) attack has been devised that can recover root password hashes on Intel computers running Linux in 3-5 minutes on average. [...]",
+    "created_at": "2026-09-29T17:31:02.006743+00:00"
   }
 ]
