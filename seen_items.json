@@ -9403,5 +9403,14 @@
     "source": "The Hacker News",
     "summary": "Kiteworks on Monday said it worked with federal intelligence authorities over the weekend as it identified and addressed a critical security vulnerability during the scheduled precautionary shutdown.\n\n&quot;During the shutdown, this activity led to t",
     "created_at": "2026-09-29T15:31:08.817693+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
+    "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
+    "link": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
+    "published": "Tue, 29 Sep 2026 11:39:19 -0400",
+    "source": "BleepingComputer",
+    "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) suffered an AI-driven cyberattack that the organization described as &quot;loud and very, very messy.&quot; [...]",
+    "created_at": "2026-09-29T16:01:08.892114+00:00"
   }
 ]
