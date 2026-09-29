@@ -9241,5 +9241,23 @@
     "source": "CybersecurityNews",
     "summary": "Apple has released iOS 26.7.1 and iPadOS 26.7.1 to fix a critical zero-day vulnerability that it says may have been exploited in an extremely sophisticated attack against specifically targeted individuals. The security issue, tracked as CVE-2026-8695",
     "created_at": "2026-09-29T07:31:03.454542+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
+    "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
+    "published": "Tue, 29 Sep 2026 03:33:12 -0400",
+    "source": "BleepingComputer",
+    "summary": "Apple released security updates to fix a zero-day vulnerability exploited in &quot;extremely sophisticated&quot; targeted attacks on iOS devices. [...]",
+    "created_at": "2026-09-29T08:01:07.645951+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165065",
+    "title": "BotHelper RAT Uses Encrypted Payloads and Live Screen Surveillance to Spy on Windows Users",
+    "link": "https://cybersecuritynews.com/bothelper-rat/",
+    "published": "Tue, 29 Sep 2026 07:36:41 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly documented Windows remote access trojan, dubbed BotHelper RAT, gives attackers a quiet way to watch an infected user’s screen and control the device. The malware arrives through a small starter program, hides its main code with encryption, an",
+    "created_at": "2026-09-29T08:01:09.831121+00:00"
   }
 ]
