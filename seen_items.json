@@ -9385,5 +9385,23 @@
     "source": "CybersecurityNews",
     "summary": "Malware operators are hiding code inside the part of a 7-Zip installer that unpacks files. A seemingly ordinary installation can start while a concealed loader contacts an attacker-controlled server. Users and analysts may overlook that step because ",
     "created_at": "2026-09-29T15:01:06.788475+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
+    "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
+    "link": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
+    "published": "Tue, 29 Sep 2026 19:15:10 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have identified a cluster of 101 npm packages that are used to trap developers into a WhatsApp group subscriber campaign dubbed PhantomSub.\n\n&quot;The malicious packages abuse the &#x27;Baileys&#x27; WhatsApp open source pro",
+    "created_at": "2026-09-29T15:31:06.738496+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
+    "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
+    "link": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
+    "published": "Tue, 29 Sep 2026 19:43:20 +0530",
+    "source": "The Hacker News",
+    "summary": "Kiteworks on Monday said it worked with federal intelligence authorities over the weekend as it identified and addressed a critical security vulnerability during the scheduled precautionary shutdown.\n\n&quot;During the shutdown, this activity led to t",
+    "created_at": "2026-09-29T15:31:08.817693+00:00"
   }
 ]
