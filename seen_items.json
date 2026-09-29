@@ -9502,5 +9502,14 @@
     "source": "BleepingComputer",
     "summary": "The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of the group&#x27;s alleged leaders. [...]",
     "created_at": "2026-09-29T20:31:18.458526+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
+    "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
+    "link": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
+    "published": "Tue, 29 Sep 2026 16:59:39 -0400",
+    "source": "BleepingComputer",
+    "summary": "Custom variants of OpenAI&#x27;s ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware. [...]",
+    "created_at": "2026-09-29T21:01:04.907832+00:00"
   }
 ]
