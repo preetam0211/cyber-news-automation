@@ -9322,5 +9322,14 @@
     "source": "CybersecurityNews",
     "summary": "A newly tracked Windows remote access trojan called AgtaBackup RAT is using fake Microsoft Store pages to gain a foothold on victims’ computers. The campaign pretends to offer popular video-conferencing software, but the download instead installs a l",
     "created_at": "2026-09-29T10:31:12.109140+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/",
+    "title": "Vietnamese man charged in $16 million 'pig butchering' crypto scam",
+    "link": "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/",
+    "published": "Tue, 29 Sep 2026 07:41:53 -0400",
+    "source": "BleepingComputer",
+    "summary": "A Vietnamese national was charged with money laundering for his role in a massive &quot;pig butchering&quot; scam, which defrauded a victim out of $16 million worth of cryptocurrency. [...]",
+    "created_at": "2026-09-29T12:00:58.410183+00:00"
   }
 ]
