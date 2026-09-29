@@ -9376,5 +9376,23 @@
     "source": "CybersecurityNews",
     "summary": "Fake software download pages are drawing Windows users into a Silver Fox-linked malware campaign. The pages imitate familiar vendors and supply installers that can leave an infected computer vulnerable to continued access. Microsoft has observed comp",
     "created_at": "2026-09-29T14:01:08.167656+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
+    "title": "Catch threats before they escalate with real-time Identity Telemetry",
+    "link": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
+    "published": "Tue, 29 Sep 2026 10:01:11 -0400",
+    "source": "BleepingComputer",
+    "summary": "Identity governance helps control who should have access, but periodic reviews alone may not reveal attacks as they happen. tenfold Software explains how real-time identity telemetry can help security teams investigate suspicious activity before it e",
+    "created_at": "2026-09-29T14:31:04.695639+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165133",
+    "title": "Hackers Turned Ethereum Into a Secret Messaging System for Malware",
+    "link": "https://cybersecuritynews.com/ethereum-secret-messaging-system/",
+    "published": "Tue, 29 Sep 2026 14:07:33 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A North Korea-linked malware campaign has found a way to keep infected computers connected to its operators. Instead of storing malware on Ethereum, the attackers hide the location of a control server inside cryptocurrency transfers. The campaign rea",
+    "created_at": "2026-09-29T14:31:06.773006+00:00"
   }
 ]
