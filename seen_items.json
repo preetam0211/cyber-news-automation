@@ -9205,5 +9205,32 @@
     "source": "CybersecurityNews",
     "summary": "A coordinated cluster of 31 Russian-language Chrome extensions that present themselves as convenient “VPN for X” tools while quietly steering browser traffic through remotely controlled proxy infrastructure. Disclosed by Risky Plugins on September 19",
     "created_at": "2026-09-29T06:31:33.999237+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html",
+    "title": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot",
+    "link": "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html",
+    "published": "Tue, 29 Sep 2026 10:15:20 +0530",
+    "source": "The Hacker News",
+    "summary": "OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loophole in its internet-access restrictions.\n\n&quot;",
+    "created_at": "2026-09-29T07:01:02.989384+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
+    "title": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions",
+    "link": "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
+    "published": "Tue, 29 Sep 2026 10:42:32 +0530",
+    "source": "The Hacker News",
+    "summary": "OpenAI on Monday shelved plans to release GPT-6.1 Astra, a next-generation artificial intelligence (AI) model that was planned for an October launch, after it failed internal safety and alignment audits.\n\nThe development was first reported by The Wal",
+    "created_at": "2026-09-29T07:01:20.070520+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
+    "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
+    "link": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
+    "published": "Tue, 29 Sep 2026 11:38:25 +0530",
+    "source": "The Hacker News",
+    "summary": "A malicious MCP server could trick an application built on the official MCP Python SDK into handing over the OAuth credentials it uses to log in to a real service, the SDK&#x27;s maintainers said in a security advisory.\n\nAffected versions sent the cl",
+    "created_at": "2026-09-29T07:01:31.072814+00:00"
   }
 ]
