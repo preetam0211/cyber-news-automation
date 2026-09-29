@@ -9187,5 +9187,23 @@
     "source": "BleepingComputer",
     "summary": "Keio Corporation (Keio), a major private railway operator in Japan, said its network was hit by a ransomware attack over the weekend, disrupting  some of its business systems. [...]",
     "created_at": "2026-09-28T21:01:34.879774+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165052",
+    "title": "Pentagon Data Breach – Hackers Reportedly Accessed 3 Million People’s Sensitive Data",
+    "link": "https://cybersecuritynews.com/pentagon-data-breach/",
+    "published": "Tue, 29 Sep 2026 04:09:30 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The Pentagon has confirmed a major data breach involving a Defense Manpower Data Center (DMDC) information system, exposing sensitive personal information belonging to more than three million people. The incident affected 2.76 million living individu",
+    "created_at": "2026-09-29T06:31:06.950327+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165040",
+    "title": "Fake VPN Extensions Hijack Browser Traffic Through Hidden Proxy Servers",
+    "link": "https://cybersecuritynews.com/fake-vpn-extensions-hijack-browser-traffic/",
+    "published": "Tue, 29 Sep 2026 04:20:20 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A coordinated cluster of 31 Russian-language Chrome extensions that present themselves as convenient “VPN for X” tools while quietly steering browser traffic through remotely controlled proxy infrastructure. Disclosed by Risky Plugins on September 19",
+    "created_at": "2026-09-29T06:31:33.999237+00:00"
   }
 ]
