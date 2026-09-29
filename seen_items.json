@@ -9457,5 +9457,32 @@
     "source": "BleepingComputer",
     "summary": "Microsoft has started rolling out Windows 11 26H2 to everyone, and while it&#x27;s this year&#x27;s big annual feature update, you probably won&#x27;t notice a massive difference after installing it. [...]",
     "created_at": "2026-09-29T18:01:07.312617+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
+    "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
+    "link": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
+    "published": "Tue, 29 Sep 2026 22:50:08 +0530",
+    "source": "The Hacker News",
+    "summary": "Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers, according to Microsoft.\n\nThe campaigns, aimed at people and organizations tied to Ukraine, have",
+    "created_at": "2026-09-29T18:31:14.704992+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
+    "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
+    "link": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
+    "published": "Tue, 29 Sep 2026 23:17:01 +0530",
+    "source": "The Hacker News",
+    "summary": "An attacker used stolen passwords of staff at France&#x27;s tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July.\n\nNeither the tax administration nor France&#x27;s national cybersecurity agency saw",
+    "created_at": "2026-09-29T18:31:17.130266+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/",
+    "title": "Former US Air Force members sent to prison over BEC attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/",
+    "published": "Tue, 29 Sep 2026 14:09:39 -0400",
+    "source": "BleepingComputer",
+    "summary": "Two former members of the United States Air Force were sentenced to a combined 189 months in federal prison for their roles in a multi-year series of business email compromise (BEC) scams and phishing campaigns. [...]",
+    "created_at": "2026-09-29T18:31:19.914698+00:00"
   }
 ]
