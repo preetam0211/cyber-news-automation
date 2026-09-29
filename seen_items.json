@@ -9412,5 +9412,23 @@
     "source": "BleepingComputer",
     "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) suffered an AI-driven cyberattack that the organization described as &quot;loud and very, very messy.&quot; [...]",
     "created_at": "2026-09-29T16:01:08.892114+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165147",
+    "title": "How US SOCs and MSSPs Can Use Threat Intelligence to Detect Phishing Infrastructure Earlier",
+    "link": "https://cybersecuritynews.com/how-us-socs-and-mssps-can-use-threat-intelligence-to-detect-phishing-infrastructure-earlier/",
+    "published": "Tue, 29 Sep 2026 16:06:22 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Phishing remains one of the most persistent problems for security teams, as the challenge is no longer limited to identifying suspicious emails.  Behind a single malicious link there may be a newly registered domain, a compromised website, a redirect",
+    "created_at": "2026-09-29T17:01:16.980043+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165158",
+    "title": "FBI and Dutch Police Arrested Alleged ShinyHunters Hackers Group Leader",
+    "link": "https://cybersecuritynews.com/alleged-shinyhunters-leader-arrested/",
+    "published": "Tue, 29 Sep 2026 16:33:09 +0000",
+    "source": "CybersecurityNews",
+    "summary": "FBI Director Kash Patel has announced the arrest of an alleged leader of ShinyHunters, the cyber-extortion group linked to attacks across the United States, the Netherlands, and other countries. Dutch police detained the 24-year-old Amsterdam suspect",
+    "created_at": "2026-09-29T17:01:19.242000+00:00"
   }
 ]
