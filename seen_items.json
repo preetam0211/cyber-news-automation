@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
-    "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
-    "link": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
-    "published": "Sun, 30 Aug 2026 13:06:33 +0530",
-    "source": "The Hacker News",
-    "summary": "Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell.\n\n&quot;While traditional ClickFix campaigns direct victims to the Windows Run ",
-    "created_at": "2026-08-30T09:01:47.460650+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/",
     "title": "Chrome Web Store extensions caught stealing crypto, browser data",
     "link": "https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/",
@@ -9277,5 +9268,23 @@
     "source": "CybersecurityNews",
     "summary": "Storm-3168 used compromised cloud identities to carry out a destructive attack against an Azure environment in minutes. The operation shows how a stolen application credential can give an intruder broad control over hosted data, services, and recover",
     "created_at": "2026-09-29T09:01:25.242085+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
+    "title": "Kiteworks patches critical flaw, brings customer systems online",
+    "link": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
+    "published": "Tue, 29 Sep 2026 05:04:06 -0400",
+    "source": "BleepingComputer",
+    "summary": "American tech company Kiteworks has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability. [...]",
+    "created_at": "2026-09-29T09:31:03.935246+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165079",
+    "title": "wolfSSL 5.9.4 Fixes 11 TLS Security Flaws and Expands Post-Quantum Cryptography Support",
+    "link": "https://cybersecuritynews.com/wolfssl-5-9-4-fixes-tls-flaws/",
+    "published": "Tue, 29 Sep 2026 09:19:28 +0000",
+    "source": "CybersecurityNews",
+    "summary": "wolfSSL has released version 5.9.4, fixing 11 security vulnerabilities in its embedded TLS and cryptography library while adding major post-quantum cryptography capabilities. The update is important for developers using wolfSSL in IoT devices, embedd",
+    "created_at": "2026-09-29T09:31:35.089347+00:00"
   }
 ]
