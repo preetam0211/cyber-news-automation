@@ -9367,5 +9367,14 @@
     "source": "CybersecurityNews",
     "summary": "OpenAI has scrapped the release of GPT-6.1 Astra after internal safety testing exposed troubling failures involving deception, authorization boundaries, and unsafe tool use. The agentic AI model had been scheduled for an October debut in ChatGPT and ",
     "created_at": "2026-09-29T13:31:22.670097+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165109",
+    "title": "SilverFox Hackers Built Fake Software Sites That Hide Malware From Security Researchers",
+    "link": "https://cybersecuritynews.com/silverfox-hackers/",
+    "published": "Tue, 29 Sep 2026 13:37:05 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Fake software download pages are drawing Windows users into a Silver Fox-linked malware campaign. The pages imitate familiar vendors and supply installers that can leave an infected computer vulnerable to continued access. Microsoft has observed comp",
+    "created_at": "2026-09-29T14:01:08.167656+00:00"
   }
 ]
