@@ -9232,5 +9232,14 @@
     "source": "The Hacker News",
     "summary": "A malicious MCP server could trick an application built on the official MCP Python SDK into handing over the OAuth credentials it uses to log in to a real service, the SDK&#x27;s maintainers said in a security advisory.\n\nAffected versions sent the cl",
     "created_at": "2026-09-29T07:01:31.072814+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165061",
+    "title": "Critical Apple Zero-Day Vulnerability Actively Exploited in Attacks",
+    "link": "https://cybersecuritynews.com/apple-zero-day-vulnerability-exploited/",
+    "published": "Tue, 29 Sep 2026 06:34:38 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Apple has released iOS 26.7.1 and iPadOS 26.7.1 to fix a critical zero-day vulnerability that it says may have been exploited in an extremely sophisticated attack against specifically targeted individuals. The security issue, tracked as CVE-2026-8695",
+    "created_at": "2026-09-29T07:31:03.454542+00:00"
   }
 ]
