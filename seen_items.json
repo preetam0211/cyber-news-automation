@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/",
-    "title": "Microsoft asks users to ignore 'Antivirus is turned off' errors",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/",
-    "published": "Mon, 31 Aug 2026 04:29:42 -0400",
-    "source": "BleepingComputer",
-    "summary": "Microsoft asked customers this week to ignore incorrect alerts that Defender Antivirus has been turned off after installing the latest Defender updates. [...]",
-    "created_at": "2026-08-31T08:31:48.995542+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html",
     "title": "DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims",
     "link": "https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html",
@@ -9547,5 +9538,23 @@
     "source": "The Hacker News",
     "summary": "Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-88772 (CVSS score",
     "created_at": "2026-09-30T07:01:01.403422+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165184",
+    "title": "Fortinet Uncovers SectopRAT Variant Hidden Inside Tampered Legitimate Windows Software",
+    "link": "https://cybersecuritynews.com/fortinet-uncovers-sectoprat/",
+    "published": "Wed, 30 Sep 2026 08:13:22 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A SectopRAT variant has been found hidden inside tampered Windows software, allowing attackers to control an infected computer and steal sensitive information. The intrusion used legitimate application components as cover, with encrypted files concea",
+    "created_at": "2026-09-30T08:31:39.734082+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165170",
+    "title": "Unsloth Studio RCE Flaw Lets Malicious Hugging Face Models Execute Code",
+    "link": "https://cybersecuritynews.com/unsloth-studio-rce-flaw/",
+    "published": "Wed, 30 Sep 2026 08:14:51 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A now-patched vulnerability in Unsloth Studio allowed a malicious Hugging Face model repository to execute Python code when a user merely selected the model in the browser interface. Unsloth fixed the issue in version 2026.6.9, and users running Stud",
+    "created_at": "2026-09-30T08:32:31.640874+00:00"
   }
 ]
