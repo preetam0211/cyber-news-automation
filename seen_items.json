@@ -9520,5 +9520,14 @@
     "source": "BleepingComputer",
     "summary": "Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows). [...]",
     "created_at": "2026-09-29T21:31:24.208713+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
+    "title": "Microsoft is rolling out Linux container support to WSL",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
+    "published": "Tue, 29 Sep 2026 20:40:57 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft is taking Windows Subsystem for Linux beyond just running Linux distributions, as WSL Containers is now generally available. [...]",
+    "created_at": "2026-09-30T01:01:13.957892+00:00"
   }
 ]
