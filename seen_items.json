@@ -9520,5 +9520,32 @@
     "source": "BleepingComputer",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service condition. [...]",
     "created_at": "2026-09-30T16:01:13.926855+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165296",
+    "title": "PaperPhone Headless Browser Network Uses 75,000 IPs and Fabricated Mobile Identities Across 43 Countries",
+    "link": "https://cybersecuritynews.com/paperphone-headless/",
+    "published": "Wed, 30 Sep 2026 16:05:54 +0000",
+    "source": "CybersecurityNews",
+    "summary": "PaperPhone is a large headless-browser network built to make automated web requests look like ordinary mobile traffic. It does not rely on a single obvious source. Instead, it spreads activity across thousands of addresses while repeatedly presenting",
+    "created_at": "2026-09-30T16:31:06.953149+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165276",
+    "title": "Phishing Response: 3 Steps SOC Teams Can Take to Investigate Threats Faster",
+    "link": "https://cybersecuritynews.com/phishing-response-3-steps-soc-teams-can-take-to-investigate-threats-faster/",
+    "published": "Wed, 30 Sep 2026 16:06:16 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Investigating a phishing alert often means working through several layers of activity before an analyst can confidently close or escalate the case. Modern campaigns can hide malicious activity behind encrypted traffic, CAPTCHA challenges, redirects, ",
+    "created_at": "2026-09-30T16:31:09.026412+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165299",
+    "title": "Russian Hackers Target 100+ Organizations With New RedFlick Phishing Attack",
+    "link": "https://cybersecuritynews.com/russian-hackers-2/",
+    "published": "Wed, 30 Sep 2026 16:28:35 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Russian state-linked hackers have expanded a phishing operation that uses a new RedFlick delivery chain to reach more than 100 organizations. The campaign replaces an obvious malicious attachment with a conversation that looks like ordinary professio",
+    "created_at": "2026-09-30T16:31:11.075150+00:00"
   }
 ]
