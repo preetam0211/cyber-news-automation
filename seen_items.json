@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=161349",
-    "title": "Popular npm Package With 150K+ Weekly Downloads Hit by Credential-Stealing Supply-Chain Worm",
-    "link": "https://cybersecuritynews.com/popular-npm-package/",
-    "published": "Mon, 31 Aug 2026 11:42:55 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A widely used npm package has become a credential-stealing delivery channel after attackers planted a self-spreading Shai-Hulud payload in its releases. The affected @7nohe/openapi-react-query-codegen package, which generates TanStack Query code, rec",
-    "created_at": "2026-08-31T12:01:52.465626+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html",
     "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
     "link": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html",
@@ -9565,5 +9556,14 @@
     "source": "The Hacker News",
     "summary": "AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security company Glow said.\n\nIts researchers found more than 13,000 internal images from developers at over 300 org",
     "created_at": "2026-09-30T12:01:36.179711+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
+    "title": "TeamViewer urges users to patch severe flaws “as soon as possible”",
+    "link": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
+    "published": "Wed, 30 Sep 2026 08:25:10 -0400",
+    "source": "BleepingComputer",
+    "summary": "Remote access software company TeamViewer warned customers on Tuesday to immediately patch a set of high-severity vulnerabilities affecting its client and host software. [...]",
+    "created_at": "2026-09-30T12:31:00.143908+00:00"
   }
 ]
