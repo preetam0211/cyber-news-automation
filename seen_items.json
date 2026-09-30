@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=161390",
-    "title": "HardBreacher PoC Claims Kaspersky Endpoint Security Zero-Day Privilege Escalation on Windows 11",
-    "link": "https://cybersecuritynews.com/hardbreacher-kaspersky-zero-day/",
-    "published": "Mon, 31 Aug 2026 15:16:02 +0000",
-    "source": "CybersecurityNews",
-    "summary": "HardBreacher’s newly published PoC claims a local privilege-escalation flaw in Kaspersky Endpoint Security on fully patched Windows 11 systems, but the issue remains unverified and has not been publicly confirmed or assigned a CVE by Kaspersky. The p",
-    "created_at": "2026-08-31T16:01:07.202308+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=161310",
-    "title": "D-Link Router Flaws Let Unauthenticated Attackers Change Admin Password and Steal Wi-Fi Credentials",
-    "link": "https://cybersecuritynews.com/d-link-router-flaws/",
-    "published": "Mon, 31 Aug 2026 15:44:40 +0000",
-    "source": "CybersecurityNews",
-    "summary": "D-Link has released a firmware update for critical access-control and information-disclosure flaws affecting its DIR-X1860Z router. The vulnerabilities could allow an unauthenticated attacker connected to the local network to change the router admini",
-    "created_at": "2026-08-31T16:01:09.455983+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=161429",
-    "title": "CISA Warns of Multiple PaperCut NG/MF Vulnerabilities Actively Exploited in Attacks",
-    "link": "https://cybersecuritynews.com/papercut-ng-mf-vulnerabilities-exploited/",
-    "published": "Mon, 31 Aug 2026 15:56:28 +0000",
-    "source": "CybersecurityNews",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two vulnerabilities affecting PaperCut NG and PaperCut MF to its Known Exploited Vulnerabilities (KEV) Catalog, warning that threat actors are actively exploiting the flaws in",
-    "created_at": "2026-08-31T16:01:11.748757+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=161441",
     "title": "Microsoft Investigating New Exchange Online Outage Tracked as EX1464935 [Updated]",
     "link": "https://cybersecuritynews.com/microsof-new-exchange-online/",
@@ -9529,5 +9502,23 @@
     "source": "The Hacker News",
     "summary": "Attackers are exploiting a critical flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an advisory on September 30.\n\nThe flaw, CVE-2026-76504, could allow a remote attacker with no log",
     "created_at": "2026-09-30T15:31:47.930062+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165292",
+    "title": "Supply Chain Attacks Turn Developer Machines Into Gateways for Cloud Breaches",
+    "link": "https://cybersecuritynews.com/supply-chain-attacks/",
+    "published": "Wed, 30 Sep 2026 15:02:09 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A routine software update can now open the door to a cloud breach. Attackers are hiding credential stealing malware inside trusted packages and development tools, allowing malicious code to run on developer computers and automated build systems befor",
+    "created_at": "2026-09-30T16:01:10.614740+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
+    "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
+    "published": "Wed, 30 Sep 2026 11:49:29 -0400",
+    "source": "BleepingComputer",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service condition. [...]",
+    "created_at": "2026-09-30T16:01:13.926855+00:00"
   }
 ]
