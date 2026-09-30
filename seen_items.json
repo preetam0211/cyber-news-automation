@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html",
-    "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
-    "link": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html",
-    "published": "Mon, 31 Aug 2026 17:01:47 +0530",
-    "source": "The Hacker News",
-    "summary": "Claude Code reads files, runs shell commands, invokes MCP tools, and acts through the credentials available on a developer’s machine. Anthropic’s new Compliance API endpoints give security teams their clearest view yet into that activity. They also e",
-    "created_at": "2026-08-31T12:31:11.300625+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
-    "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
-    "link": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
-    "published": "Mon, 31 Aug 2026 17:17:24 +0530",
-    "source": "The Hacker News",
-    "summary": "Threat actors associated with Aurora (aka Aur0ra) ransomware have been observed using SpaceX&#x27;s artificial intelligence (AI)-powered coding assistant Cursor to break into target networks, according to findings from CloudSEK and Gambit Security.\n\n",
-    "created_at": "2026-08-31T12:31:17.959569+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html",
-    "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
-    "link": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html",
-    "published": "Mon, 31 Aug 2026 17:44:00 +0530",
-    "source": "The Hacker News",
-    "summary": "The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running the malware under a trusted process to slip past users who add such software to their antivirus exclu",
-    "created_at": "2026-08-31T12:31:45.008355+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=161367",
     "title": "19 Chrome and Edge Extensions Caught Stealing Crypto Wallets and Passwords",
     "link": "https://cybersecuritynews.com/extensions-caught-stealing-crypto-wallets-and-passwords/",
@@ -9565,5 +9538,23 @@
     "source": "BleepingComputer",
     "summary": "Remote access software company TeamViewer warned customers on Tuesday to immediately patch a set of high-severity vulnerabilities affecting its client and host software. [...]",
     "created_at": "2026-09-30T12:31:00.143908+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
+    "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
+    "link": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
+    "published": "Wed, 30 Sep 2026 17:28:00 +0530",
+    "source": "The Hacker News",
+    "summary": "Given that the browser is where business apps are accessed and used, it makes sense that attacks are happening there too. Most breaches today begin in a browser session. Often, they never leave it, with the entire attack chain from initial access to ",
+    "created_at": "2026-09-30T13:01:10.418393+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165247",
+    "title": "Hackers Broke Into Microsoft 365 Through Forgotten Accounts Nobody Was Watching",
+    "link": "https://cybersecuritynews.com/hackers-broke-into-microsoft-365/",
+    "published": "Wed, 30 Sep 2026 12:46:18 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers have breached Microsoft 365 environments by targeting accounts that were still active but unmonitored. An old password and missing sign-in protections gave intruders a route into email, files, and cloud applications. The campaign focused heav",
+    "created_at": "2026-09-30T13:01:37.467830+00:00"
   }
 ]
