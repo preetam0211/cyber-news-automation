@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
-    "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
-    "link": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
-    "published": "Mon, 31 Aug 2026 22:54:28 +0530",
-    "source": "The Hacker News",
-    "summary": "Threat actors with ties to the Democratic People&#x27;s Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the information technology (IT) sector, with recent investigations identifying suspected workers e",
-    "created_at": "2026-08-31T18:01:32.620671+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/",
     "title": "Microsoft warns of TerminalFix attacks deploying reverse tunnels",
     "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/",
@@ -9556,5 +9547,14 @@
     "source": "The Hacker News",
     "summary": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team.\n\nThe attack exploits CVE-2026-73570 (CVSS sco",
     "created_at": "2026-09-30T18:01:16.564454+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
+    "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
+    "link": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
+    "published": "Wed, 30 Sep 2026 14:08:34 -0400",
+    "source": "BleepingComputer",
+    "summary": "More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform&#x27;s security measures to prevent accidental leaks of sensitive data. [...]",
+    "created_at": "2026-09-30T18:31:08.574345+00:00"
   }
 ]
