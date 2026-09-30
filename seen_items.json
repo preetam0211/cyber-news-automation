@@ -9538,5 +9538,23 @@
     "source": "CybersecurityNews",
     "summary": "Cloudflare is building a certificate authority to make post-quantum website authentication practical without burdening TLS connections with oversized signatures. The company plans to issue conventional certificates alongside Merkle Tree Certificates,",
     "created_at": "2026-09-30T17:31:08.344978+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
+    "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
+    "link": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
+    "published": "Wed, 30 Sep 2026 22:02:59 +0530",
+    "source": "The Hacker News",
+    "summary": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and other social-engineering conten",
+    "created_at": "2026-09-30T18:01:14.524573+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
+    "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
+    "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
+    "published": "Wed, 30 Sep 2026 22:16:29 +0530",
+    "source": "The Hacker News",
+    "summary": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team.\n\nThe attack exploits CVE-2026-73570 (CVSS sco",
+    "created_at": "2026-09-30T18:01:16.564454+00:00"
   }
 ]
