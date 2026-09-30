@@ -9547,5 +9547,14 @@
     "source": "BleepingComputer",
     "summary": "More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform&#x27;s security measures to prevent accidental leaks of sensitive data. [...]",
     "created_at": "2026-09-30T18:31:08.574345+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
+    "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
+    "link": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
+    "published": "Wed, 30 Sep 2026 15:49:15 -0400",
+    "source": "BleepingComputer",
+    "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]",
+    "created_at": "2026-09-30T20:01:39.334295+00:00"
   }
 ]
