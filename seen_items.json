@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/",
-    "title": "OpenAI confirms ChatGPT outage as users report errors",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/",
-    "published": "Mon, 31 Aug 2026 12:50:50 -0400",
-    "source": "BleepingComputer",
-    "summary": "ChatGPT Work is experiencing a partial outage, and users across multiple subscription plans may be unable to start or continue tasks. [...]",
-    "created_at": "2026-08-31T17:01:32.222100+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
-    "title": "Microsoft Exchange Online outage causes email failures, auth issues",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
-    "published": "Mon, 31 Aug 2026 12:56:57 -0400",
-    "source": "BleepingComputer",
-    "summary": "Microsoft is investigating a widespread service issue causing authentication issues and email delays and failures for Exchange Online customers. [...]",
-    "created_at": "2026-08-31T17:01:34.229495+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
     "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
     "link": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
@@ -9547,5 +9529,14 @@
     "source": "CybersecurityNews",
     "summary": "Google released a Chrome Stable update fixing 32 security vulnerabilities across Windows, macOS, and Linux, including one critical and multiple high-severity flaws in V8, ANGLE, GPU, WebGPU, Bluetooth, Passwords, and UI components. Chrome version 154",
     "created_at": "2026-09-30T17:01:14.617246+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165231",
+    "title": "Cloudflare Builds Post-Quantum CA With Merkle Tree Certificates for Faster Quantum-Safe TLS",
+    "link": "https://cybersecuritynews.com/cloudflare-post-quantum-ca/",
+    "published": "Wed, 30 Sep 2026 17:01:17 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cloudflare is building a certificate authority to make post-quantum website authentication practical without burdening TLS connections with oversized signatures. The company plans to issue conventional certificates alongside Merkle Tree Certificates,",
+    "created_at": "2026-09-30T17:31:08.344978+00:00"
   }
 ]
