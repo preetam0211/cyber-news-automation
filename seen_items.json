@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=161352",
-    "title": "OpenClaw 2.0 Released With Major Security Upgrades for AI Agents, Plugins and Credentials",
-    "link": "https://cybersecuritynews.com/openclaw-2-0-released/",
-    "published": "Mon, 31 Aug 2026 10:54:46 +0000",
-    "source": "CybersecurityNews",
-    "summary": "OpenClaw has released version 2026.8.1, also called OpenClaw 2.0, in what the open-source AI agent platform described as its largest update to date. The release was built by 933 contributors, including 569 first-time contributors, and contains more t",
-    "created_at": "2026-08-31T11:01:36.925416+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=161330",
-    "title": "Hackers Use Ethereum Blockchain to Steal Credit Card Data From Online Shoppers",
-    "link": "https://cybersecuritynews.com/hackers-use-ethereum-blockchain/",
-    "published": "Mon, 31 Aug 2026 11:06:00 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Online shoppers can have their card details stolen without ever leaving a legitimate store. A tracked Magecart campaign plants malicious checkout code on compromised e-commerce sites, then uses Ethereum blockchain infrastructure to keep its delivery ",
-    "created_at": "2026-08-31T11:31:53.555486+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=161349",
     "title": "Popular npm Package With 150K+ Weekly Downloads Hit by Credential-Stealing Supply-Chain Worm",
     "link": "https://cybersecuritynews.com/popular-npm-package/",
@@ -9520,5 +9502,50 @@
     "source": "The Hacker News",
     "summary": "Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizations in North America and Europe.\n\nThe activity, observed by Mandiant Consulting and Google ",
     "created_at": "2026-09-30T10:02:12.562252+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165188",
+    "title": "RSA Launches Agent ID Platform to Secure AI Agents and MCP Servers",
+    "link": "https://cybersecuritynews.com/rsa-agent-id/",
+    "published": "Wed, 30 Sep 2026 09:49:50 +0000",
+    "source": "CybersecurityNews",
+    "summary": "RSA has announced RSA Agent ID, a new identity security platform that helps regulated organizations discover, secure, and govern AI agents. The launch targets financial services, government agencies, critical infrastructure operators, and other organ",
+    "created_at": "2026-09-30T11:31:28.267845+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165222",
+    "title": "Security Teams Can Now Monitor Claude Chats, Files and AI Agent Activity",
+    "link": "https://cybersecuritynews.com/security-teams-can-monitor-claude-activity/",
+    "published": "Wed, 30 Sep 2026 10:46:10 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The Claude Compliance API gives security teams visibility into employee and AI-agent activity, integrating Claude data with existing monitoring, DLP, identity, eDiscovery, SIEM, and security workflows. The change addresses a growing enterprise securi",
+    "created_at": "2026-09-30T11:31:55.530542+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
+    "title": "Bitget hacked via zero-day in third-party security products",
+    "link": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
+    "published": "Wed, 30 Sep 2026 07:11:46 -0400",
+    "source": "BleepingComputer",
+    "summary": "Cryptocurrency exchange Bitget revealed today that attackers who stole $387.5 million last week breached its systems after exploiting a zero-day flaw in third-party security products. [...]",
+    "created_at": "2026-09-30T11:32:30.162846+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165218",
+    "title": "Hackers Turn One Compromised Account Into Access to Azure DevOps and Kubernetes",
+    "link": "https://cybersecuritynews.com/hackers-turn-one-compromised-account/",
+    "published": "Wed, 30 Sep 2026 11:15:34 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A single compromised account can open the door to an entire cloud estate. A recent investigation shows how an attacker used one compromised identity to move from password recovery into Azure DevOps, development pipelines, and Kubernetes resources. Th",
+    "created_at": "2026-09-30T11:32:32.271255+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165251",
+    "title": "FBI’s Operation Blackout Dismantles Scammers Operating Overseas Targeting Americans",
+    "link": "https://cybersecuritynews.com/fbis-operation-blackout-dismantles-scammers/",
+    "published": "Wed, 30 Sep 2026 11:15:39 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The FBI has dismantled overseas scam compounds accused of stealing Americans’ savings through cryptocurrency investment fraud, romance schemes, impersonation scams, and other cyber-enabled operations. Under Operation Blackout, authorities have seized",
+    "created_at": "2026-09-30T11:32:34.377779+00:00"
   }
 ]
