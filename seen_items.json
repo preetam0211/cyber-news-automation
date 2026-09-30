@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=161256",
-    "title": "Hackers’ Own Malware Infection Exposes Their RATs, Phishing Kits and Attack Infrastructure",
-    "link": "https://cybersecuritynews.com/hackers-own-malware-infection/",
-    "published": "Mon, 31 Aug 2026 05:22:17 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A malware investigation has exposed the tools and infrastructure used by suspected operators behind a Blind Eagle-linked campaign targeting Colombia and the wider region. The break came after an apparent attacker workstation was infected by a separat",
-    "created_at": "2026-08-31T05:31:55.569652+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/",
     "title": "Microsoft asks users to ignore 'Antivirus is turned off' errors",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/",
@@ -9538,5 +9529,14 @@
     "source": "CybersecurityNews",
     "summary": "OpenAI has upgraded Codex with Codex Security Cloud, an always-on application security service designed to scan GitHub repositories, monitor incoming commits, investigate flaws, remove duplicate findings, and prepare fixes for human review. The cloud",
     "created_at": "2026-09-30T05:01:23.567129+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165127",
+    "title": "MCP Python SDK OAuth Flaw Lets Malicious Servers Hijack AI Agent Accounts",
+    "link": "https://cybersecuritynews.com/mcp-python-sdk-oauth-flaw/",
+    "published": "Wed, 30 Sep 2026 05:30:04 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A high-severity flaw in the official Model Context Protocol (MCP) Python SDK could allow a malicious MCP server to steal OAuth authentication material and take over AI agent accounts. The issue affects vulnerable HTTP-based MCP clients that connect t",
+    "created_at": "2026-09-30T06:01:22.155151+00:00"
   }
 ]
