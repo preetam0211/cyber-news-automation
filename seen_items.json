@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=161190",
-    "title": "Hackers Steal Claude Login Sessions With Infostealer Malware to Hijack Accounts",
-    "link": "https://cybersecuritynews.com/hackers-steal-claude-login-sessions/",
-    "published": "Mon, 31 Aug 2026 02:36:07 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Anthropic’s Claude AI platform has become an active target for cybercriminals, with two distinct attack chains now confirmed to be stealing credentials, hijacking paid usage, and reinfecting devices even after cleanup. The company has begun signing o",
-    "created_at": "2026-08-31T03:31:52.763899+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=161234",
     "title": "Free Router DNS Tweak Blocks Malware and Phishing Across Home Networks",
     "link": "https://cybersecuritynews.com/router-dns-tweak-blocks-malware/",
@@ -9529,5 +9520,14 @@
     "source": "BleepingComputer",
     "summary": "Microsoft is taking Windows Subsystem for Linux beyond just running Linux distributions, as WSL Containers is now generally available. [...]",
     "created_at": "2026-09-30T01:01:13.957892+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165161",
+    "title": "OpenSSL Fixes High-Severity Flaw That Can Leak Server Memory in Plaintext",
+    "link": "https://cybersecuritynews.com/openssl-leak-server-memory/",
+    "published": "Wed, 30 Sep 2026 03:14:42 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OpenSSL has released security updates for a high-severity vulnerability that could expose heap memory as plaintext during Datagram Transport Layer Security (DTLS) handshakes. Tracked as CVE-2026-84782, the flaw stems from an out-of-bounds read in DTL",
+    "created_at": "2026-09-30T04:01:05.377473+00:00"
   }
 ]
