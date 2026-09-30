@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
-    "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
-    "link": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
-    "published": "Mon, 31 Aug 2026 14:34:55 +0530",
-    "source": "The Hacker News",
-    "summary": "A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller Access-Control System (TACACS) servers, and Linux management hosts u",
-    "created_at": "2026-08-31T10:31:32.927315+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/microsoft-says-windows-11-kb5120998-update-resets-mouse-settings/",
-    "title": "Microsoft says Windows 11 KB5120998 update resets mouse settings",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-windows-11-kb5120998-update-resets-mouse-settings/",
-    "published": "Mon, 31 Aug 2026 06:23:46 -0400",
-    "source": "BleepingComputer",
-    "summary": "Microsoft has confirmed that mouse settings are being reverted on Windows 11 systems after installing the KB5120998 August 2026 non-security preview update. [...]",
-    "created_at": "2026-08-31T10:32:06.116618+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=161352",
     "title": "OpenClaw 2.0 Released With Major Security Upgrades for AI Agents, Plugins and Credentials",
     "link": "https://cybersecuritynews.com/openclaw-2-0-released/",
