@@ -9511,5 +9511,23 @@
     "source": "BleepingComputer",
     "summary": "Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. [...]",
     "created_at": "2026-09-30T15:01:32.930654+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
+    "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
+    "link": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
+    "published": "Wed, 30 Sep 2026 20:30:15 +0530",
+    "source": "The Hacker News",
+    "summary": "Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware.\n\nHuntress, which observed the activity in late September ",
+    "created_at": "2026-09-30T15:31:19.885000+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
+    "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
+    "link": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
+    "published": "Wed, 30 Sep 2026 20:54:54 +0530",
+    "source": "The Hacker News",
+    "summary": "Attackers are exploiting a critical flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an advisory on September 30.\n\nThe flaw, CVE-2026-76504, could allow a remote attacker with no log",
+    "created_at": "2026-09-30T15:31:47.930062+00:00"
   }
 ]
