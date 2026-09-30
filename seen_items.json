@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/",
-    "title": "Microsoft warns of TerminalFix attacks deploying reverse tunnels",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/",
-    "published": "Mon, 31 Aug 2026 14:51:04 -0400",
-    "source": "BleepingComputer",
-    "summary": "A new ClickFix variant dubbed TerminalFix uses fake Cloudflare CAPTCHA prompts on compromised websites to trick victims into running malicious PowerShell commands in Windows Terminal. [...]",
-    "created_at": "2026-08-31T19:01:07.708832+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/",
     "title": "Cronos blockchain restarts after $74 million Tectonic exploit",
     "link": "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/",
