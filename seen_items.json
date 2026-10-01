@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=161553",
-    "title": "Hackers Use AI Malware to Rank and Sell Access to Compromised Corporate Networks",
-    "link": "https://cybersecuritynews.com/hackers-use-ai-malware/",
-    "published": "Tue, 01 Sep 2026 12:05:30 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Hackers are using a new Windows malware framework to turn corporate break-ins into products for sale. The tool, called BraZetsu, quietly maps a victim’s systems, finds valuable business data and helps criminals decide which footholds deserve the high",
-    "created_at": "2026-09-01T12:31:30.289932+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/",
     "title": "Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks",
     "link": "https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/",
@@ -9628,5 +9619,23 @@
     "source": "The Hacker News",
     "summary": "Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of vulnerabilities. Engineering explains what it would take to upgrade the platform where they live. Somebody price",
     "created_at": "2026-10-01T12:31:14.341757+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165366",
+    "title": "Axios HTTP/2 Flaws Enable SSRF Control Bypass and Node.js Denial of Service",
+    "link": "https://cybersecuritynews.com/axios-http-2-flaws/",
+    "published": "Thu, 01 Oct 2026 12:50:38 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Axios has disclosed two high-severity vulnerabilities in its HTTP/2 implementation that could allow attackers to bypass outbound network controls or crash vulnerable Node.js applications. The flaws affect Axios versions 1.13.0 through 1.19.x and have",
+    "created_at": "2026-10-01T13:01:09.606365+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165372",
+    "title": "Node.js ImageResponse Implementation Vulnerability Enables Remote Code Execution",
+    "link": "https://cybersecuritynews.com/node-js-imageresponse-implementation-vulnerability/",
+    "published": "Thu, 01 Oct 2026 12:59:58 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical vulnerability in Next.js could allow remote code execution in applications that use the Node.js implementation of ImageResponse from the next/og package. The issue, tracked as GHSA-vcvr-r3jv-pc5j, affects Next.js versions 16.2.0 through 16",
+    "created_at": "2026-10-01T13:01:11.926944+00:00"
   }
 ]
