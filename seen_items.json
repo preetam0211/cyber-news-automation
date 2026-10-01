@@ -9574,5 +9574,23 @@
     "source": "BleepingComputer",
     "summary": "An international law enforcement operation dubbed &quot;Operation KillSwitch&quot; seized the KillSec ransomware gang&#x27;s data leak site and servers, led to three arrests, and identified a 16-year-old as the group&#x27;s alleged administrator. [..",
     "created_at": "2026-10-01T14:31:21.025927+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
+    "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
+    "link": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
+    "published": "Thu, 01 Oct 2026 20:07:35 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have shed light on a WordPress compromise in which threat actors deployed multiple persistence mechanisms to ensure that the final payload kept returning without having to infect the site again.\n\nThe backdoor has been codena",
+    "created_at": "2026-10-01T15:01:06.718592+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165396",
+    "title": "Chinese Hackers Posing as Senior Anthropic Employee Targeting US AI Policy Experts",
+    "link": "https://cybersecuritynews.com/chinese-hackers-posing-as-anthropic-employee/",
+    "published": "Thu, 01 Oct 2026 14:44:06 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A China-aligned hacking group tracked as TA419 has impersonated a senior Anthropic employee and well-known policy figures to target US artificial intelligence experts. Proofpoint linked the activity to credential-phishing campaigns aimed at researche",
+    "created_at": "2026-10-01T15:01:08.766895+00:00"
   }
 ]
