@@ -9583,5 +9583,14 @@
     "source": "The Hacker News",
     "summary": "Security researchers have published the first public proof-of-concept for CVE-2026-86950, an Apple CoreGraphics flaw Apple says may have been used in attacks against specific targeted individuals.\n\nThe trigger is a malicious PDF with a crafted embedd",
     "created_at": "2026-10-01T07:31:18.056494+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
+    "title": "Metamask discloses security incident affecting its infrastructure",
+    "link": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
+    "published": "Thu, 01 Oct 2026 03:33:57 -0400",
+    "source": "BleepingComputer",
+    "summary": "On Thursday, cryptocurrency wallet provider MetaMask has disclosed an ongoing infrastructure security incident affecting some of its infrastructure. [...]",
+    "created_at": "2026-10-01T08:01:04.409901+00:00"
   }
 ]
