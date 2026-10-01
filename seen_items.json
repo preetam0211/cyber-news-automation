@@ -9538,5 +9538,23 @@
     "source": "BleepingComputer",
     "summary": "The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed &quot;RedFlick&quot; to deploy its signature CosmicPulse backdoor. [...]",
     "created_at": "2026-09-30T21:01:11.301049+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
+    "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
+    "link": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
+    "published": "Thu, 01 Oct 2026 10:05:34 +0530",
+    "source": "The Hacker News",
+    "summary": "Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of configuration data.\n\nLevelBlue&#x27;s Threat Hunt Operatio",
+    "created_at": "2026-10-01T05:01:07.085453+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165261",
+    "title": "CopyEscape Docker Flaw Lets Malicious Containers Overwrite Host Files and Gain Root Access",
+    "link": "https://cybersecuritynews.com/copyescape-docker-flaw/",
+    "published": "Thu, 01 Oct 2026 04:36:06 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A Docker flaw, CVE-2026-17106 (dubbed CopyEscape), lets malicious containers write files outside the docker cp destination, potentially enabling code execution and root-level compromise. The issue affects Docker’s archive extraction handling in moby/",
+    "created_at": "2026-10-01T05:01:16.829608+00:00"
   }
 ]
