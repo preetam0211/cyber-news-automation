@@ -9592,5 +9592,23 @@
     "source": "CybersecurityNews",
     "summary": "Hackers have built a Windows backdoor that uses Microsoft 365 for all its native command and control communications. Named Antino, the malware turns Outlook messages and OneDrive files into channels for issuing instructions, moving stolen data, and m",
     "created_at": "2026-10-01T16:31:04.354486+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
+    "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
+    "link": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
+    "published": "Thu, 01 Oct 2026 22:15:38 +0530",
+    "source": "The Hacker News",
+    "summary": "This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people expect. A model check can run code. A cache can mix up requests. A p",
+    "created_at": "2026-10-01T17:01:12.334375+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
+    "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
+    "link": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
+    "published": "Thu, 01 Oct 2026 22:25:57 +0530",
+    "source": "The Hacker News",
+    "summary": "Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on its leak site unless they paid.\n\nThe 16-year-old w",
+    "created_at": "2026-10-01T17:01:14.746131+00:00"
   }
 ]
