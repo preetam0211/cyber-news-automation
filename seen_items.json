@@ -9592,5 +9592,41 @@
     "source": "CybersecurityNews",
     "summary": "Branch Target Reuse (BTR) is a newly disclosed variant of the Spectre-v2 attack that leverages stale CPU branch-prediction data to leak sensitive information from Linux memory, including root password hashes. This attack specifically targets just-in-",
     "created_at": "2026-10-01T09:31:57.680915+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
+    "title": "Hackers stole Pentagon personnel records of over 3 million people",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
+    "published": "Thu, 01 Oct 2026 05:44:28 -0400",
+    "source": "BleepingComputer",
+    "summary": "The Pentagon&#x27;s Defense Manpower Data Center (DMDC) is notifying millions of military service members that hackers stole their data after breaching the Pentagon&#x27;s human resources management system in October 2025. [...]",
+    "created_at": "2026-10-01T10:01:35.873239+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165324",
+    "title": "ModSecurity Vulnerabilities Let Attackers Bypass Web Application Firewall Protections",
+    "link": "https://cybersecuritynews.com/modsecurity-vulnerabilities-bypass/",
+    "published": "Thu, 01 Oct 2026 09:47:53 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Multiple newly disclosed vulnerabilities in OWASP ModSecurity could let attackers bypass web application firewall protections by exploiting parsing differences, malformed input, transformation errors, and resource limits. The flaws affect functions c",
+    "created_at": "2026-10-01T10:02:06.511173+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165347",
+    "title": "MetaMask Security Incident Affecting Parts of Infrastructure",
+    "link": "https://cybersecuritynews.com/metamask-security-incident/",
+    "published": "Thu, 01 Oct 2026 09:49:01 +0000",
+    "source": "CybersecurityNews",
+    "summary": "MetaMask has disclosed an ongoing security incident affecting part of its infrastructure, prompting the cryptocurrency wallet provider to begin precautionary exits from affected Ethereum validators used in its non-custodial staking operations. The co",
+    "created_at": "2026-10-01T10:02:08.127974+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165351",
+    "title": "New PS5 Relapse Exploit Breaks Into the Kernel Across Years of Firmware Releases",
+    "link": "https://cybersecuritynews.com/ps5-relapse-exploit/",
+    "published": "Thu, 01 Oct 2026 09:58:14 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Researchers have released a new PlayStation 5 jailbreak, Relapse, that public reports say reaches firmware 7.00 through 13.60 on both the standard PS5 and the PS5 Pro. Coverage has treated the drop as a broad jump for consoles that have not installed",
+    "created_at": "2026-10-01T10:02:33.947093+00:00"
   }
 ]
