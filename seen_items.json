@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
-    "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
-    "published": "Tue, 01 Sep 2026 13:54:22 -0400",
-    "source": "BleepingComputer",
-    "summary": "Threat actors are exploiting an unauthenticated remote code execution vulnerability (CVE-2026-0768) in Langflow, an open-source framework for building AI applications, to steal credentials, tokens, and keys. [...]",
-    "created_at": "2026-09-01T18:01:32.069093+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
     "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
     "link": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
