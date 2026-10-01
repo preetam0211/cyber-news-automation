@@ -1,50 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=161600",
-    "title": "Hackers Pose as Recruiters and Send Fake Coding Tests to Infect Software Developers",
-    "link": "https://cybersecuritynews.com/fake-coding-tests/",
-    "published": "Tue, 01 Sep 2026 13:40:54 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Cybercriminals are posing as recruiters to turn routine job interviews into malware traps for software developers. Their latest campaign delivers two cross-platform remote access tools, NodeRabbit and PollCat, through coding challenges that look like",
-    "created_at": "2026-09-01T14:01:32.292785+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=161586",
-    "title": "Hackers Actively Exploiting Critical Langflow RCE and Rails Vulnerability",
-    "link": "https://cybersecuritynews.com/langflow-rce-and-rails-vulnerability-exploited/",
-    "published": "Tue, 01 Sep 2026 13:52:27 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Two critical vulnerabilities affecting Langflow and Ruby on Rails deployments are being actively exploited, with attackers quickly moving from public disclosure to reconnaissance, secret harvesting, and potential remote code execution, according to V",
-    "created_at": "2026-09-01T14:01:36.135823+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=161603",
-    "title": "Five Hackers Plead Guilty to ATM Jackpotting Attacks Using Malware to Dispense Cash",
-    "link": "https://cybersecuritynews.com/hackers-plead-guilty-to-atm-jackpotting-attacks/",
-    "published": "Tue, 01 Sep 2026 13:57:15 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Five Venezuelan nationals have pleaded guilty in a U.S. federal case involving attempted ATM jackpotting attacks. This criminal technique uses malware to force cash machines to dispense money without legitimate customer transactions. The case follows",
-    "created_at": "2026-09-01T14:01:37.461356+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/",
-    "title": "Why Even the Best Edge Security Still Misses High-Risk Sessions",
-    "link": "https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/",
-    "published": "Tue, 01 Sep 2026 10:01:11 -0400",
-    "source": "BleepingComputer",
-    "summary": "Attackers can hide behind residential proxies, VPNs, and other infrastructure that makes malicious sessions appear legitimate to existing edge security controls. Spur explains how session enrichment adds data points that help organizations identify r",
-    "created_at": "2026-09-01T14:31:08.521999+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/",
-    "title": "Novocure data breach affects more than 1,400 cancer patients",
-    "link": "https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/",
-    "published": "Tue, 01 Sep 2026 10:28:40 -0400",
-    "source": "BleepingComputer",
-    "summary": "Healthtech company Novocure says the data of an undisclosed number of employees and more than 1,400 U.S. cancer patients has been exposed in a mid-August cyberattack. [...]",
-    "created_at": "2026-09-01T14:31:10.783219+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
     "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
     "link": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
@@ -9592,5 +9547,32 @@
     "source": "BleepingComputer",
     "summary": "Secure file-sharing software company Kiteworks has released security updates to address 126 vulnerabilities, including a max-severity flaw affecting its Email Protection Gateway (EPG) security solution. [...]",
     "created_at": "2026-10-01T14:01:05.929267+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
+    "title": "The Day-One Hole in Zero Trust Architecture",
+    "link": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
+    "published": "Thu, 01 Oct 2026 10:01:11 -0400",
+    "source": "BleepingComputer",
+    "summary": "Zero Trust can verify users once they are established, but onboarding creates a gap where organizations must decide who to trust before strong authentication exists. Specops explains why identity verification should begin before credentials, MFA meth",
+    "created_at": "2026-10-01T14:31:16.463841+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165392",
+    "title": "Warlock Ransomware Exploiting SharePoint Flaws to Attack Water and Telecom Operators",
+    "link": "https://cybersecuritynews.com/warlock-ransomware-exploiting-sharepoint-flaws/",
+    "published": "Thu, 01 Oct 2026 14:14:26 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A China-nexus threat actor is continuing to exploit Microsoft SharePoint Server vulnerabilities to deploy Warlock ransomware, with recent attacks striking essential-service and public-sector organizations across Portuguese- and Spanish-speaking count",
+    "created_at": "2026-10-01T14:31:18.845599+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
+    "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
+    "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
+    "published": "Thu, 01 Oct 2026 10:25:14 -0400",
+    "source": "BleepingComputer",
+    "summary": "An international law enforcement operation dubbed &quot;Operation KillSwitch&quot; seized the KillSec ransomware gang&#x27;s data leak site and servers, led to three arrests, and identified a 16-year-old as the group&#x27;s alleged administrator. [..",
+    "created_at": "2026-10-01T14:31:21.025927+00:00"
   }
 ]
