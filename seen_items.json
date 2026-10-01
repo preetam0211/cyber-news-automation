@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
-    "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
-    "link": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
-    "published": "Tue, 01 Sep 2026 14:35:30 +0530",
-    "source": "The Hacker News",
-    "summary": "METR (short for Model Evaluation and Threat Research and pronounced &quot;Meter&quot;), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-horizon, agentic tasks, disclosed that it su",
-    "created_at": "2026-09-01T10:31:41.642304+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=161526",
     "title": "Hackers Hide RevStealer Inside Fake Claude Opus 5 App to Steal Passwords and Crypto",
     "link": "https://cybersecuritynews.com/revstealer-inside-fake-claude/",
@@ -9628,5 +9619,23 @@
     "source": "CybersecurityNews",
     "summary": "Researchers have released a new PlayStation 5 jailbreak, Relapse, that public reports say reaches firmware 7.00 through 13.60 on both the standard PS5 and the PS5 Pro. Coverage has treated the drop as a broad jump for consoles that have not installed",
     "created_at": "2026-10-01T10:02:33.947093+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html",
+    "title": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV",
+    "link": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html",
+    "published": "Thu, 01 Oct 2026 16:03:16 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical authentication bypass flaw impacting Cisco Catalyst SD-WAN Manager to its Known Exploited Vulnerabilities (KEV), following reports of active exploitation.\n",
+    "created_at": "2026-10-01T11:01:27.427286+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
+    "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
+    "link": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
+    "published": "Thu, 01 Oct 2026 16:12:36 +0530",
+    "source": "The Hacker News",
+    "summary": "OpenAI on Wednesday said it identified and disrupted a coordinated distillation campaign that was designed to illicitly extract protected reasoning from its artificial intelligence (AI) models.\n\nA &quot;core cluster of the activity,&quot; going back ",
+    "created_at": "2026-10-01T11:01:29.827323+00:00"
   }
 ]
