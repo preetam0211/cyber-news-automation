@@ -9637,5 +9637,14 @@
     "source": "The Hacker News",
     "summary": "OpenAI on Wednesday said it identified and disrupted a coordinated distillation campaign that was designed to illicitly extract protected reasoning from its artificial intelligence (AI) models.\n\nA &quot;core cluster of the activity,&quot; going back ",
     "created_at": "2026-10-01T11:01:29.827323+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/",
+    "title": "Microsoft enables Windows settings backup by default for orgs",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/",
+    "published": "Thu, 01 Oct 2026 07:14:28 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft announced that Windows settings backup and restore is now enabled by default on all Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems upgraded to Windows 11 26H2. [...]",
+    "created_at": "2026-10-01T11:31:12.272704+00:00"
   }
 ]
