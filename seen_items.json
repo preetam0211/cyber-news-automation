@@ -9592,5 +9592,14 @@
     "source": "BleepingComputer",
     "summary": "Autonomous AI agents using aggressive strategies attempted to hack U.S. and Canadian government websites to find school and divorce statistics. [...]",
     "created_at": "2026-10-01T21:01:05.960960+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/",
+    "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/",
+    "published": "Thu, 01 Oct 2026 18:42:49 -0400",
+    "source": "BleepingComputer",
+    "summary": "Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulnerable devices. [...]",
+    "created_at": "2026-10-01T23:01:18.562603+00:00"
   }
 ]
