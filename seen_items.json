@@ -9556,5 +9556,14 @@
     "source": "CybersecurityNews",
     "summary": "A Docker flaw, CVE-2026-17106 (dubbed CopyEscape), lets malicious containers write files outside the docker cp destination, potentially enabling code execution and root-level compromise. The issue affects Docker’s archive extraction handling in moby/",
     "created_at": "2026-10-01T05:01:16.829608+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165316",
+    "title": "Internet Society Launches Global Online Trust and Safety Hub as Part of Its Safer Internet Initiative",
+    "link": "https://cybersecuritynews.com/internet-society-launches-global-online-trust-and-safety-hub-as-part-of-its-safer-internet-initiative/",
+    "published": "Thu, 01 Oct 2026 05:01:35 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Washignton, DC, USA, September 30th, 2026, CyberNewswire The Internet Society today launched the Online Trust and Safety Hub, a free global resource center in multiple languages, offering practical tools to help people stay safer and more confident o",
+    "created_at": "2026-10-01T05:31:04.877116+00:00"
   }
 ]
