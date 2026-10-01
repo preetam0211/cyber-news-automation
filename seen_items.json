@@ -9646,5 +9646,14 @@
     "source": "BleepingComputer",
     "summary": "Microsoft announced that Windows settings backup and restore is now enabled by default on all Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems upgraded to Windows 11 26H2. [...]",
     "created_at": "2026-10-01T11:31:12.272704+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165343",
+    "title": "Hackers Exploit Zimbra Mail Servers With Crafted Emails to Gain Remote Access",
+    "link": "https://cybersecuritynews.com/hackers-exploit-zimbra-mail-servers/",
+    "published": "Thu, 01 Oct 2026 11:40:42 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are exploiting a serious flaw in internet-facing Zimbra mail servers with specially crafted emails. The weakness lets an outsider run commands on a vulnerable server without logging in or persuading an employee to open a message. The activity",
+    "created_at": "2026-10-01T12:01:23.370940+00:00"
   }
 ]
