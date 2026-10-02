@@ -9556,5 +9556,32 @@
     "source": "The Hacker News",
     "summary": "Google has announced a new security measure that limits access to Android&#x27;s accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is enabled.\n\nWith malicious Android applications abusing the A",
     "created_at": "2026-10-02T08:31:25.864357+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165435",
+    "title": "OpenAI Blocks 15,000-User Campaign Trying to Extract Hidden AI Reasoning",
+    "link": "https://cybersecuritynews.com/openai-blocks-ai-reasoning-extraction/",
+    "published": "Fri, 02 Oct 2026 08:39:55 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OpenAI disrupted a coordinated campaign involving more than 15,000 users that attempted to extract protected reasoning from its AI models through adversarial distillation. Protected reasoning refers to the internal process a model uses to work throug",
+    "created_at": "2026-10-02T09:01:13.598605+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165443",
+    "title": "Cloudflare Launches Free Certificate Authority for the Whole Internet",
+    "link": "https://cybersecuritynews.com/cloudflare-free-certificate-authority/",
+    "published": "Fri, 02 Oct 2026 08:53:37 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cloudflare has announced plans to become a public Certificate Authority, expanding its role in securing the global web. The company aims to offer free, automated digital certificates for websites while also preparing the Internet for post-quantum cry",
+    "created_at": "2026-10-02T09:01:25.376180+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165439",
+    "title": "Kiteworks Patches 126 Vulnerabilities in Massive Security Update",
+    "link": "https://cybersecuritynews.com/kiteworks-patches-vulnerabilities/",
+    "published": "Fri, 02 Oct 2026 09:00:21 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Kiteworks has released a major security update that addresses 126 vulnerabilities across its secure data transfer platform and associated applications. The update includes fixes for critical account takeover flaws, high-severity code execution bugs, ",
+    "created_at": "2026-10-02T09:01:35.353465+00:00"
   }
 ]
