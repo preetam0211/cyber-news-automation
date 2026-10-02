@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
-    "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
-    "link": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
-    "published": "Wed, 02 Sep 2026 17:00:00 +0530",
-    "source": "The Hacker News",
-    "summary": "The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizations must focus on adopting AI at business speed w",
-    "created_at": "2026-09-02T12:31:39.545876+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
-    "title": "Dropbox accounts breached through Lenovo email verification flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
-    "published": "Wed, 02 Sep 2026 08:30:22 -0400",
-    "source": "BleepingComputer",
-    "summary": "Dropbox is warning some users that an unauthorized party accessed their accounts by exploiting a flaw in Lenovo&#x27;s email verification process to register fraudulent Lenovo IDs. [...]",
-    "created_at": "2026-09-02T12:31:41.684645+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=161732",
     "title": "Hackers Exploit LiteLLM Admin API Flaw to Steal Secrets and Target AI Gateway Servers",
     "link": "https://cybersecuritynews.com/hackers-exploit-litellm-admin-api-flaw/",
@@ -9583,5 +9565,41 @@
     "source": "CybersecurityNews",
     "summary": "Two critical Zammad zero-day flaws, reportedly exploited against the Dutch Institute for Vulnerability Disclosure (DIVD), could allow session hijacking, remote command execution as the Zammad service user, and potential root privilege escalation. The",
     "created_at": "2026-10-02T12:31:10.497143+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
+    "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
+    "link": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
+    "published": "Fri, 02 Oct 2026 17:53:15 +0530",
+    "source": "The Hacker News",
+    "summary": "OpenAI has parted ways with three members of its safety team after they leaked private information in violation of company policies, The Wall Street Journal reported.\n\n&quot;We have parted ways with three individuals for violating our policies on acc",
+    "created_at": "2026-10-02T13:01:09.694681+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/",
+    "title": "Dell asks admins to patch max severity CSM flaws as soon as possible",
+    "link": "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/",
+    "published": "Fri, 02 Oct 2026 08:37:40 -0400",
+    "source": "BleepingComputer",
+    "summary": "Dell has patched two maximum severity vulnerabilities in the Container Storage Modules (CSM) that connect Dell enterprise storage arrays to Kubernetes environments. [...]",
+    "created_at": "2026-10-02T13:01:11.807466+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165501",
+    "title": "Exposed WordPress Backups Became a Gold Mine of AWS and Email Credentials",
+    "link": "https://cybersecuritynews.com/exposed-wordpress-backups/",
+    "published": "Fri, 02 Oct 2026 12:45:50 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Exposed WordPress backups have become a valuable source of cloud and email credentials for attackers using a toolkit called TIKTOUK. Rather than relying on one technique, its components search websites for sensitive files, recover stored passwords, a",
+    "created_at": "2026-10-02T13:01:13.872426+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165520",
+    "title": "OpenClaw Launches Free Open-source Enterprise Agent Platform for AI Agents",
+    "link": "https://cybersecuritynews.com/openclaw-free-enterprise-platform/",
+    "published": "Fri, 02 Oct 2026 13:00:07 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OpenClaw has launched OpenClaw Enterprise (OCE), a free, open-source platform that helps organizations run persistent AI agents with stronger security and central oversight. Announced on September 29, 2026, the project targets businesses that want ag",
+    "created_at": "2026-10-02T13:01:15.942614+00:00"
   }
 ]
