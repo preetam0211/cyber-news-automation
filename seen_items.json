@@ -1,68 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
-    "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
-    "link": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
-    "published": "Wed, 02 Sep 2026 17:52:02 +0530",
-    "source": "The Hacker News",
-    "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and can give operators near-complete control of infecte",
-    "created_at": "2026-09-02T14:01:27.499546+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
-    "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
-    "link": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
-    "published": "Wed, 02 Sep 2026 18:42:45 +0530",
-    "source": "The Hacker News",
-    "summary": "Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor package to some installations. A hosting-provider account separat",
-    "created_at": "2026-09-02T14:01:54.592822+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=161781",
-    "title": "Authorities Disrupted 20-Year-Old Sality Botnet Controlling 15,000+ Infected Systems",
-    "link": "https://cybersecuritynews.com/sality-botnet/",
-    "published": "Wed, 02 Sep 2026 13:04:44 +0000",
-    "source": "CybersecurityNews",
-    "summary": "The Department of Justice has confirmed a coordinated international takedown of the Sality botnet, a peer-to-peer malware network that has plagued victims worldwide since 2003. The operation spanned the United States, Bulgaria, Hungary, and Romania, ",
-    "created_at": "2026-09-02T14:31:13.512892+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=161790",
-    "title": "Cleo Harmony Flaw Lets Remote Attackers Escalate Privileges via JWT Refresh Token",
-    "link": "https://cybersecuritynews.com/cleo-harmony-vulnerability/",
-    "published": "Wed, 02 Sep 2026 13:09:26 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A newly disclosed vulnerability in Cleo Harmony, a widely deployed managed file transfer and integration platform, is putting enterprise networks at risk after security researchers confirmed that remote attackers can escalate privileges by tampering ",
-    "created_at": "2026-09-02T14:31:16.672481+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=161734",
-    "title": "BREEZE COMET Hackers Use AI-Assisted Malware to Target Brazil Banks for Fraudulent Transfers",
-    "link": "https://cybersecuritynews.com/breeze-comet-hackers/",
-    "published": "Wed, 02 Sep 2026 13:23:38 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Brazilian banks and payment companies are facing a more direct form of cybercrime. BREEZE COMET, a financially motivated group formerly tracked as UNC5669, targets the systems that move money instead of individual account holders. Its goal is to gain",
-    "created_at": "2026-09-02T14:31:20.628492+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
-    "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages",
-    "link": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
-    "published": "Wed, 02 Sep 2026 19:14:16 +0530",
-    "source": "The Hacker News",
-    "summary": "A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational institutions, and using them to divert visitors to attacker-co",
-    "created_at": "2026-09-02T14:31:22.925256+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/",
-    "title": "Ransomware protection for MSPs: A 6-point checklist for faster recovery",
-    "link": "https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/",
-    "published": "Wed, 02 Sep 2026 10:02:12 -0400",
-    "source": "BleepingComputer",
-    "summary": "Ransomware resilience requires more than backups or endpoint detection alone. Acronis outlines six capabilities MSPs should test across client environments, from reducing exposure and detecting attacks to preserving recovery points and restoring oper",
-    "created_at": "2026-09-02T14:31:25.256874+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=161802",
     "title": "Ransomware Hackers Use New TukTuk Malware to Steal Credentials and Disable Security Tools",
     "link": "https://cybersecuritynews.com/new-tuktuk-malware/",
@@ -9592,5 +9529,23 @@
     "source": "CybersecurityNews",
     "summary": "Hackers are turning trusted software updates into a route for stealing developer and cloud credentials. Recent supply chain incidents show how a single altered package, build action, or publishing token can place malware inside routine development wo",
     "created_at": "2026-10-02T14:01:09.227797+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
+    "title": "The EDR blind spot: 3 ways browser attacks evade endpoint telemetry",
+    "link": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
+    "published": "Fri, 02 Oct 2026 10:00:10 -0400",
+    "source": "BleepingComputer",
+    "summary": "Browser-based attacks can steal sessions, abuse extensions, or manipulate users without creating the endpoint artifacts EDR is designed to detect. NordLayer explains three ways attacks can evade endpoint telemetry and why browser-level controls can h",
+    "created_at": "2026-10-02T14:31:13.279189+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165540",
+    "title": "Hackers Turned a Microsoft SQL Server Into a Command and Data Exfiltration Channel",
+    "link": "https://cybersecuritynews.com/hackers-turned-a-microsoft-sql-server/",
+    "published": "Fri, 02 Oct 2026 14:04:21 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers turned a Microsoft SQL Server into a channel for running commands and moving collected files in an intrusion linked to a Viva Aerobus environment. Their own publicly accessible server then exposed attack tools and stolen material to unrelated",
+    "created_at": "2026-10-02T14:31:24.223412+00:00"
   }
 ]
