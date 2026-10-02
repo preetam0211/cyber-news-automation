@@ -1,59 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
-    "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
-    "link": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
-    "published": "Wed, 02 Sep 2026 12:26:30 +0530",
-    "source": "The Hacker News",
-    "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation.\n\nThe effort was undertaken on August 31, 2026, by authorities from",
-    "created_at": "2026-09-02T08:01:43.161846+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
-    "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
-    "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
-    "published": "Wed, 02 Sep 2026 12:38:50 +0530",
-    "source": "The Hacker News",
-    "summary": "Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution.\n\nThe vulnerability in question is CVE-2026-9586 (CVSS score: 9.3), a critical unau",
-    "created_at": "2026-09-02T08:02:03.113572+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=161694",
-    "title": "Google Fixes 26 Chrome Vulnerabilities, Including 2 Critical Use-After-Free Flaws",
-    "link": "https://cybersecuritynews.com/google-fixes-26-chrome-vulnerabilities/",
-    "published": "Wed, 02 Sep 2026 07:30:24 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Google has released Chrome 152.0.7977.75/.76 for Windows and macOS and Chrome 152.0.7977.75 for Linux, addressing 26 security vulnerabilities across the browser. The update includes two critical use-after-free flaws affecting Shared Tab Groups and We",
-    "created_at": "2026-09-02T08:02:16.104012+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
-    "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
-    "link": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
-    "published": "Wed, 02 Sep 2026 13:17:13 +0530",
-    "source": "The Hacker News",
-    "summary": "Forescout Research - Vedere Labs said it used Anthropic&#x27;s Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, executing attacker-supplied ARM shellcode on ",
-    "created_at": "2026-09-02T08:02:47.091597+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=161684",
-    "title": "Hackers Hide a Full Remote Access Trojan Inside a Real Exodus Crypto Wallet",
-    "link": "https://cybersecuritynews.com/remote-access-trojan/",
-    "published": "Wed, 02 Sep 2026 07:50:25 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Cybercriminals have been caught using a tampered installer for the Exodus cryptocurrency wallet to plant a full remote access trojan. The program looks close enough to the real wallet, but it is designed so its window never appears. The campaign reac",
-    "created_at": "2026-09-02T08:03:27.973633+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
-    "title": "Sality botnet infrastructure dismantled in joint global takedown",
-    "link": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
-    "published": "Wed, 02 Sep 2026 04:00:43 -0400",
-    "source": "BleepingComputer",
-    "summary": "International law enforcement agencies and private partners have seized Sality malware infrastructure in a joint action aiming to disrupt and take down the peer-to-peer (P2P) botnet. [...]",
-    "created_at": "2026-09-02T08:04:20.063374+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=161704",
     "title": "Critical HPE Fabric Composer Flaws Let Unauthenticated Attackers Execute Code and Take Over Systems",
     "link": "https://cybersecuritynews.com/hpe-fabric-composer-flaws/",
@@ -9601,5 +9547,14 @@
     "source": "CybersecurityNews",
     "summary": "The U.S. Treasury has sanctioned a Tren de Aragua network accused of using malware to empty ATMs across the United States. Authorities linked the alleged attacks to $40.73 million in reported losses across more than 1,500 incidents as of August 2025.",
     "created_at": "2026-10-02T07:31:16.449227+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
+    "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
+    "link": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
+    "published": "Fri, 02 Oct 2026 13:31:30 +0530",
+    "source": "The Hacker News",
+    "summary": "Google has announced a new security measure that limits access to Android&#x27;s accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is enabled.\n\nWith malicious Android applications abusing the A",
+    "created_at": "2026-10-02T08:31:25.864357+00:00"
   }
 ]
