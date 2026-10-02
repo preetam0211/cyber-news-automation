@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=161802",
-    "title": "Ransomware Hackers Use New TukTuk Malware to Steal Credentials and Disable Security Tools",
-    "link": "https://cybersecuritynews.com/new-tuktuk-malware/",
-    "published": "Wed, 02 Sep 2026 14:05:53 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Ransomware operators are using a previously undocumented remote-control framework called TukTuk to steal credentials, watch compromised machines, and weaken protections. The discovery links the tool to activity associated with the Gentlemen ransomwar",
-    "created_at": "2026-09-02T14:31:27.371502+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
-    "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
-    "link": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
-    "published": "Wed, 02 Sep 2026 19:36:59 +0530",
-    "source": "The Hacker News",
-    "summary": "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository&#x27;s own Git configuration names a command that the agent runs on the developer&#x27;s machine, four of them still unpatched at pu",
-    "created_at": "2026-09-02T14:31:29.681507+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=161805",
-    "title": "Russian Hacker Indicted for Using Excel Malware to Target 80,000 Freelancers With TVRAT and DarkVNC",
-    "link": "https://cybersecuritynews.com/russian-hacker-using-excel-malware/",
-    "published": "Wed, 02 Sep 2026 14:22:18 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A Russian national has been indicted in the United States over an alleged malware operation that targeted roughly 80,000 freelance workers worldwide. Prosecutors say the campaign used fake accounts and booby-trapped Excel documents to turn ordinary w",
-    "created_at": "2026-09-02T14:31:31.932292+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=161817",
     "title": "Dropbox Says 5,000 Accounts Were Compromised Through Lenovo ID Authentication Flaw",
     "link": "https://cybersecuritynews.com/dropbox-lenovo-id-flaw/",
