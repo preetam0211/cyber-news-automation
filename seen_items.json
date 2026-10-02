@@ -9493,5 +9493,14 @@
     "source": "The Hacker News",
     "summary": "A critical flaw in GitLab&#x27;s AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab said in an advisory.\n\nThe gateway is the service that connects a GitLab instance to AI ",
     "created_at": "2026-10-02T18:01:55.127269+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
+    "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
+    "published": "Fri, 02 Oct 2026 14:33:01 -0400",
+    "source": "BleepingComputer",
+    "summary": "The China-linked ransomware group Warlock targeted a water utility, a telecom provider, a regional government body, and a university by exploiting SharePoint vulnerabilities to gain initial access. [...]",
+    "created_at": "2026-10-02T19:01:08.647292+00:00"
   }
 ]
