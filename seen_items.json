@@ -9574,5 +9574,14 @@
     "source": "CybersecurityNews",
     "summary": "Security researcher Timo Longin, working with the SEC Consult Vulnerability Lab, disclosed two email spoofing flaws in Apple’s iCloud mail infrastructure that could have let someone with a free iCloud account send messages that appeared to come from ",
     "created_at": "2026-10-02T12:01:29.471921+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165483",
+    "title": "Zammad 0-Day Vulnerabilities Exploited to Gain Remote Code Execution and Root Access",
+    "link": "https://cybersecuritynews.com/zammad-0-day-vulnerabilities-exploited/",
+    "published": "Fri, 02 Oct 2026 12:17:07 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Two critical Zammad zero-day flaws, reportedly exploited against the Dutch Institute for Vulnerability Disclosure (DIVD), could allow session hijacking, remote command execution as the Zammad service user, and potential root privilege escalation. The",
+    "created_at": "2026-10-02T12:31:10.497143+00:00"
   }
 ]
