@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=161817",
-    "title": "Dropbox Says 5,000 Accounts Were Compromised Through Lenovo ID Authentication Flaw",
-    "link": "https://cybersecuritynews.com/dropbox-lenovo-id-flaw/",
-    "published": "Wed, 02 Sep 2026 14:43:44 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Dropbox has disclosed that approximately 5,000 user accounts were compromised in August after attackers exploited a weakness involving its Lenovo ID sign-in integration. The incident highlights the security risks that can arise when cloud platforms t",
-    "created_at": "2026-09-02T15:31:16.794270+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
     "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
@@ -9520,5 +9511,14 @@
     "source": "CybersecurityNews",
     "summary": "Hackers turned a Microsoft SQL Server into a channel for running commands and moving collected files in an intrusion linked to a Viva Aerobus environment. Their own publicly accessible server then exposed attack tools and stolen material to unrelated",
     "created_at": "2026-10-02T14:31:24.223412+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
+    "title": "US sanctions Tren de Aragua gang members in ATM hacks crackdown",
+    "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
+    "published": "Fri, 02 Oct 2026 11:20:53 -0400",
+    "source": "BleepingComputer",
+    "summary": "The U.S. Treasury Department has sanctioned eight members of the Venezuelan gang Tren de Aragua (TdA) for their role in the theft of millions of dollars in ATM jackpotting attacks across the United States. [...]",
+    "created_at": "2026-10-02T15:31:20.825387+00:00"
   }
 ]
