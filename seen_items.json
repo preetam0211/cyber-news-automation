@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=161676",
-    "title": "Anthropic Launches Claude Fable and Mythos 5.1 for Advanced Coding and Research",
-    "link": "https://cybersecuritynews.com/anthropic-launches-fable-and-mythos-5-1/",
-    "published": "Wed, 02 Sep 2026 04:02:45 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Anthropic has rolled out two new frontier AI models, Claude Fable 5.1 and Claude Mythos 5.1, positioning them as the most capable systems yet for software development, enterprise knowledge work, and scientific research. While both models share identi",
-    "created_at": "2026-09-02T04:31:06.401719+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=161679",
     "title": "OpenAI’s New Astra AI Can Discover Zero-Day Security Flaws and Build Exploits",
     "link": "https://cybersecuritynews.com/openai-astra-discover-zero-day-flaws/",
@@ -9610,5 +9601,14 @@
     "source": "CybersecurityNews",
     "summary": "The Apache Software Foundation released Apache HTTP Server 2.4.69 on October 1, 2026, addressing security flaws that could enable code execution, server crashes, data leaks, and authentication bypass under specific conditions. Apache identifies the u",
     "created_at": "2026-10-02T04:01:18.773417+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165432",
+    "title": "U.S. Arrests Tech Company Owner for Allegedly Smuggling $300 Million in GPU Servers to China",
+    "link": "https://cybersecuritynews.com/u-s-arrests-tech-company-owner/",
+    "published": "Fri, 02 Oct 2026 04:03:17 +0000",
+    "source": "CybersecurityNews",
+    "summary": "U.S. authorities arrested Greg Lui, the owner of California technology company Earthmade Computer Inc., on October 1, 2026, over an alleged scheme to smuggle more than $300 million in restricted GPU servers to China. The case centers on false custome",
+    "created_at": "2026-10-02T04:31:12.654609+00:00"
   }
 ]
