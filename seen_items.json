@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
-    "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
-    "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
-    "published": "Wed, 02 Sep 2026 02:39:29 -0400",
-    "source": "BleepingComputer",
-    "summary": "SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks. [...]",
-    "created_at": "2026-09-02T07:04:39.695711+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=161688",
     "title": "Hugging Face Flaw Lets Malicious AI Models Plant Python Code on User Systems",
     "link": "https://cybersecuritynews.com/hugging-face-flaw/",
@@ -9610,5 +9601,14 @@
     "source": "The Hacker News",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.\n\nThe vulnerabil",
     "created_at": "2026-10-02T06:31:03.581868+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165438",
+    "title": "Treasury Sanctions Tren de Aragua ATM Jackpotting Network Linked to $40.7 Million in Losses",
+    "link": "https://cybersecuritynews.com/tren-de-aragua-atm-jackpotting/",
+    "published": "Fri, 02 Oct 2026 07:00:28 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The U.S. Treasury has sanctioned a Tren de Aragua network accused of using malware to empty ATMs across the United States. Authorities linked the alleged attacks to $40.73 million in reported losses across more than 1,500 incidents as of August 2025.",
+    "created_at": "2026-10-02T07:31:16.449227+00:00"
   }
 ]
