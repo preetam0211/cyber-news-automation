@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=161679",
-    "title": "OpenAI’s New Astra AI Can Discover Zero-Day Security Flaws and Build Exploits",
-    "link": "https://cybersecuritynews.com/openai-astra-discover-zero-day-flaws/",
-    "published": "Wed, 02 Sep 2026 05:45:39 +0000",
-    "source": "CybersecurityNews",
-    "summary": "OpenAI says its upcoming Astra model has reached the company’s Critical cybersecurity capability threshold, meaning it can independently discover unknown vulnerabilities and develop working exploits against hardened systems when given the right tools",
-    "created_at": "2026-09-02T06:01:08.504969+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
     "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
     "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
@@ -9610,5 +9601,14 @@
     "source": "CybersecurityNews",
     "summary": "U.S. authorities arrested Greg Lui, the owner of California technology company Earthmade Computer Inc., on October 1, 2026, over an alleged scheme to smuggle more than $300 million in restricted GPU servers to China. The case centers on false custome",
     "created_at": "2026-10-02T04:31:12.654609+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
+    "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
+    "link": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
+    "published": "Fri, 02 Oct 2026 11:19:50 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.\n\nThe vulnerabil",
+    "created_at": "2026-10-02T06:31:03.581868+00:00"
   }
 ]
