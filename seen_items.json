@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
-    "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
-    "link": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
-    "published": "Wed, 02 Sep 2026 23:57:49 +0530",
-    "source": "The Hacker News",
-    "summary": "Google on Wednesday announced Gemini 3.8 Flash Cyber, which it described as its most capable cybersecurity model, and has made it available to a set of trusted defenders via a new initiative called the Fairwind Program.\n\n&quot;The Fairwind Program gi",
-    "created_at": "2026-09-02T19:31:10.457754+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
     "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
     "link": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
@@ -9502,5 +9493,14 @@
     "source": "BleepingComputer",
     "summary": "The China-linked ransomware group Warlock targeted a water utility, a telecom provider, a regional government body, and a university by exploiting SharePoint vulnerabilities to gain initial access. [...]",
     "created_at": "2026-10-02T19:01:08.647292+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
+    "title": "Frontline Education breach exposes school district employee data",
+    "link": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
+    "published": "Fri, 02 Oct 2026 15:01:40 -0400",
+    "source": "BleepingComputer",
+    "summary": "Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthorized access to its systems and steal employee information, including Social Security numbers. [...]",
+    "created_at": "2026-10-02T19:31:25.273658+00:00"
   }
 ]
