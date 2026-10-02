@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
-    "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
-    "link": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
-    "published": "Wed, 02 Sep 2026 16:23:49 +0530",
-    "source": "The Hacker News",
-    "summary": "SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks.\n\nThe vulnerabilities, discovered internally by SonicWall&#x27;s Wi",
-    "created_at": "2026-09-02T11:31:25.295712+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
     "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
     "link": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
@@ -9538,5 +9529,32 @@
     "source": "CybersecurityNews",
     "summary": "A little-known Safari database feature could give digital forensic investigators another way to understand browsing activity on macOS. Safari’s History database can store automatically generated topic tags for some webpages, potentially revealing the",
     "created_at": "2026-10-02T11:01:14.099573+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165477",
+    "title": "Critical Capacitor Flaw Lets Malicious Links Access App Data and Native Features",
+    "link": "https://cybersecuritynews.com/critical-capacitor-flaw/",
+    "published": "Fri, 02 Oct 2026 11:02:25 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical vulnerability in Capacitor for Android and iOS could let a malicious link opened inside an affected mobile app load attacker-controlled web content at the application’s trusted origin. The issue, tracked as CVE-2026-103922, can expose app ",
+    "created_at": "2026-10-02T11:31:16.305677+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165473",
+    "title": "Session Cookie Vulnerability Lets Attackers Bypass Entra ID MFA and Impersonate Users",
+    "link": "https://cybersecuritynews.com/session-cookie-vulnerability/",
+    "published": "Fri, 02 Oct 2026 11:24:01 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A flaw in a custom session-cookie system allowed an unauthenticated attacker to pose as employees and administrators in a yard management platform. The issue did not break Microsoft Entra ID itself. Instead, it let a weak application-side session lay",
+    "created_at": "2026-10-02T11:31:29.584935+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165500",
+    "title": "Sony Rolls Out PS5 Security Update Following the Release of Relapse Jailbreak",
+    "link": "https://cybersecuritynews.com/ps5-security-update/",
+    "published": "Fri, 02 Oct 2026 11:30:35 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Sony has moved to protect PlayStation 5 consoles with its latest system software update, as the newly released Relapse jailbreak draws attention to a broad set of older PS5 firmware versions. The update matters for console owners because the public R",
+    "created_at": "2026-10-02T11:31:38.753961+00:00"
   }
 ]
