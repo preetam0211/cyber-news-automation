@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=161704",
-    "title": "Critical HPE Fabric Composer Flaws Let Unauthenticated Attackers Execute Code and Take Over Systems",
-    "link": "https://cybersecuritynews.com/hpe-fabric-composer-flaws/",
-    "published": "Wed, 02 Sep 2026 08:35:59 +0000",
-    "source": "CybersecurityNews",
-    "summary": "HPE has released security updates for HPE Networking Fabric Composer following the discovery of a large set of vulnerabilities that could allow unauthenticated attackers to gain administrator access, run arbitrary commands, and fully compromise affec",
-    "created_at": "2026-09-02T09:31:36.210480+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=161713",
     "title": "Critical SonicWall Remote Code Execution Vulnerabilities Actively Exploited in Attacks",
     "link": "https://cybersecuritynews.com/sonicwall-remote-code-execution-vulnerabilities/",
@@ -9583,5 +9574,14 @@
     "source": "CybersecurityNews",
     "summary": "Kiteworks has released a major security update that addresses 126 vulnerabilities across its secure data transfer platform and associated applications. The update includes fixes for critical account takeover flaws, high-severity code execution bugs, ",
     "created_at": "2026-10-02T09:01:35.353465+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/",
+    "title": "Microsoft’s X account hacked in crypto pump-and-dump scheme",
+    "link": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/",
+    "published": "Fri, 02 Oct 2026 05:29:56 -0400",
+    "source": "BleepingComputer",
+    "summary": "On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token. [...]",
+    "created_at": "2026-10-02T09:31:36.523609+00:00"
   }
 ]
