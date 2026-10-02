@@ -9556,5 +9556,23 @@
     "source": "CybersecurityNews",
     "summary": "Sony has moved to protect PlayStation 5 consoles with its latest system software update, as the newly released Relapse jailbreak draws attention to a broad set of older PS5 firmware versions. The update matters for console owners because the public R",
     "created_at": "2026-10-02T11:31:38.753961+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
+    "title": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report",
+    "link": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
+    "published": "Fri, 02 Oct 2026 17:00:00 +0530",
+    "source": "The Hacker News",
+    "summary": "The quarterly board meeting is two weeks out. The security team is pulling exports from the identity provider, the cloud posture tool, the vulnerability scanner, the SIEM and the EDR console. Someone is building a spreadsheet to reconcile them. Someo",
+    "created_at": "2026-10-02T12:01:22.816485+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165495",
+    "title": "Free iCloud Account Could Let Attackers Spoof Any @icloud.com Address and Pass Email Security Checks",
+    "link": "https://cybersecuritynews.com/icloud-email-address-spoofing/",
+    "published": "Fri, 02 Oct 2026 11:50:18 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Security researcher Timo Longin, working with the SEC Consult Vulnerability Lab, disclosed two email spoofing flaws in Apple’s iCloud mail infrastructure that could have let someone with a free iCloud account send messages that appeared to come from ",
+    "created_at": "2026-10-02T12:01:29.471921+00:00"
   }
 ]
