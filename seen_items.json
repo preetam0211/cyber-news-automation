@@ -1,50 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=161713",
-    "title": "Critical SonicWall Remote Code Execution Vulnerabilities Actively Exploited in Attacks",
-    "link": "https://cybersecuritynews.com/sonicwall-remote-code-execution-vulnerabilities/",
-    "published": "Wed, 02 Sep 2026 08:44:59 +0000",
-    "source": "CybersecurityNews",
-    "summary": "SonicWall has warned that attackers are actively exploiting two critical vulnerabilities affecting SMA1000 Series secure mobile access appliances. The flaws could allow unauthenticated attackers to access sensitive functionality and enable administra",
-    "created_at": "2026-09-02T09:32:00.969754+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
-    "title": "US charges Russian for infecting 80,000 freelancers with malware",
-    "link": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
-    "published": "Wed, 02 Sep 2026 05:06:48 -0400",
-    "source": "BleepingComputer",
-    "summary": "A California federal grand jury has indicted a Russian national for his role in a phishing campaign that infected thousands of freelancers with TVRAT and DarkVNC malware. [...]",
-    "created_at": "2026-09-02T09:32:20.492729+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
-    "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
-    "link": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
-    "published": "Wed, 02 Sep 2026 14:40:23 +0530",
-    "source": "The Hacker News",
-    "summary": "The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced Excel attachments to about 80,000 of its users in 2016 and 20",
-    "created_at": "2026-09-02T09:32:26.482722+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
-    "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
-    "link": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
-    "published": "Wed, 02 Sep 2026 14:48:02 +0530",
-    "source": "The Hacker News",
-    "summary": "Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog, which sits behind many government and agency geoportals.\n\nThe project shipped fixes in versions 4.",
-    "created_at": "2026-09-02T09:32:31.238565+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=161691",
-    "title": "Silver Fox-Linked Hackers Use Fake Software Installers to Disable Microsoft Defender and Compromise Windows Systems",
-    "link": "https://cybersecuritynews.com/silver-fox-linked-hackers/",
-    "published": "Wed, 02 Sep 2026 09:28:52 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Silver Fox-linked hackers are using counterfeit software installers to break into Windows systems and weaken the protections meant to stop them. The campaign relies on convincing download pages that copy well-known software brands and offer a seeming",
-    "created_at": "2026-09-02T09:32:37.355236+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=161729",
     "title": "Hackers Pose as IT Support on Microsoft Teams to Take Remote Control of Windows PCs",
     "link": "https://cybersecuritynews.com/hackers-pose-as-it-support-microsoft-teams/",
