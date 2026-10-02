@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=161688",
-    "title": "Hugging Face Flaw Lets Malicious AI Models Plant Python Code on User Systems",
-    "link": "https://cybersecuritynews.com/hugging-face-flaw/",
-    "published": "Wed, 02 Sep 2026 06:58:08 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A newly disclosed vulnerability in Hugging Face Transformers could allow malicious AI model repositories to place attacker-controlled Python files on a user’s system before the user approves remote code execution. Tracked as CVE-2026-80047, the issue",
-    "created_at": "2026-09-02T07:31:26.933685+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
     "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
     "link": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
