@@ -9484,5 +9484,14 @@
     "source": "BleepingComputer",
     "summary": "Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthorized access to its systems and steal employee information, including Social Security numbers. [...]",
     "created_at": "2026-10-02T19:31:25.273658+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165544",
+    "title": "Debian has Patched 1,313 Flaws in Massive Update Leading to DoS and Privilege Escalation Attacks",
+    "link": "https://cybersecuritynews.com/debian-1313-security-flaws/",
+    "published": "Sat, 03 Oct 2026 02:23:53 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Debian has released a major Linux kernel security update covering 1,313 CVE entries, addressing flaws that could allow privilege escalation, denial of service, and information leaks. The fixes are available for Debian’s stable release, Trixie, in Lin",
+    "created_at": "2026-10-03T02:31:10.412893+00:00"
   }
 ]
