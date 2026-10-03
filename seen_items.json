@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
-    "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means",
-    "link": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
-    "published": "Thu, 03 Sep 2026 16:06:39 +0530",
-    "source": "The Hacker News",
-    "summary": "In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Integration/Continuous Deployment (CI/CD) tooling, clo",
-    "created_at": "2026-09-03T11:34:51.929650+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
-    "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
-    "link": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
-    "published": "Thu, 03 Sep 2026 16:13:01 +0530",
-    "source": "The Hacker News",
-    "summary": "Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads.\n\nAccording to a new report published by the Symantec Threat Hunter Team today, the attack method has been put to use ",
-    "created_at": "2026-09-03T11:35:18.831635+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/",
-    "title": "Plex warns users to patch security vulnerabilities immediately",
-    "link": "https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/",
-    "published": "Thu, 03 Sep 2026 07:02:22 -0400",
-    "source": "BleepingComputer",
-    "summary": "Plex urged users this week to update their desktop clients and media servers immediately to patch multiple security vulnerabilities. [...]",
-    "created_at": "2026-09-03T11:35:21.047677+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=161981",
     "title": "Hackers Turn Trusted Node.js Runtime Into Malware Launcher in Ransomware-Linked Attacks",
     "link": "https://cybersecuritynews.com/node-js-runtime-into-malware-launcher/",
@@ -9394,5 +9367,14 @@
     "source": "The Hacker News",
     "summary": "Featuring:\n\nCybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more identities, devices, data, and internet-facing infrastructure, ",
     "created_at": "2026-10-03T11:31:10.455449+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=164557",
+    "title": "Rethinking automotive cyber risk for the age of accelerated vulnerability discovery",
+    "link": "https://cybersecuritynews.com/rethinking-automotive-cyber-risk-for-the-age-of-accelerated-vulnerability-discovery/",
+    "published": "Fri, 02 Oct 2026 14:15:42 +0000",
+    "source": "CybersecurityNews",
+    "summary": "By Tamás Pentz, Head of Threat Intelligence, PCA Cyber Security  Automotive cybersecurity has traditionally focused on putting controls into vehicles that counter the ways criminals could physically tamper with a vehicle. However, the growing adoptio",
+    "created_at": "2026-10-03T12:01:13.035579+00:00"
   }
 ]
