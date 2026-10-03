@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
-    "title": "Coder's registry infrastructure compromised to push malicious modules",
-    "link": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
-    "published": "Thu, 03 Sep 2026 16:04:24 -0400",
-    "source": "BleepingComputer",
-    "summary": "Attackers compromised Coder&#x27;s Cloudflare infrastructure and added unauthorized registry servers that delivered malicious Terraform modules containing credential-stealing code. [...]",
-    "created_at": "2026-09-03T20:31:24.477222+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/",
     "title": "French hospital fined €500,000 after breach exposes data of 727,000",
     "link": "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/",
