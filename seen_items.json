@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=161875",
-    "title": "Claude AI Now Controls Your macOS and Windows Computer in the Background",
-    "link": "https://cybersecuritynews.com/claude-ai-controls-macos-and-windows/",
-    "published": "Thu, 03 Sep 2026 04:06:56 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Anthropic has quietly pushed one of its most consequential agentic upgrades yet, letting Claude take control of a user’s desktop and complete tasks while they work on something else entirely. The company confirmed this week that computer use inside C",
-    "created_at": "2026-09-03T04:31:53.583972+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=161873",
-    "title": "OpenMatter Network Expands Platform with New Capabilities for Secure AI, Computing and Data Collaboration",
-    "link": "https://cybersecuritynews.com/openmatter-network-expands-platform-with-new-capabilities-for-secure-ai-computing-and-data-collaboration/",
-    "published": "Thu, 03 Sep 2026 04:30:43 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Melbourne, Florida, September 2nd, 2026, CyberNewswire Less than three months after its commercial launch, OpenMatter Network today announced a significant expansion of the platform with new capabilities that make it easier for enterprises, developer",
-    "created_at": "2026-09-03T04:32:18.012527+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
     "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
     "link": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
