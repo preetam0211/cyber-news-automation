@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
-    "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
-    "link": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
-    "published": "Thu, 03 Sep 2026 10:49:04 +0530",
-    "source": "The Hacker News",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers&#x27; crosshairs.\n\nThe vulnerabilities are as follows -\n\n\n  C",
-    "created_at": "2026-09-03T07:01:31.048113+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
-    "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
-    "link": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
-    "published": "Thu, 03 Sep 2026 11:56:59 +0530",
-    "source": "The Hacker News",
-    "summary": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike Falcon.\n\n&quot;FalconFlank is a 0day privil",
-    "created_at": "2026-09-03T07:02:02.977014+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=161888",
     "title": "Researcher Claims CrowdStrike Falcon 0-Day Privilege Escalation Vulnerability",
     "link": "https://cybersecuritynews.com/crowdstrike-falcon-0-day/",
