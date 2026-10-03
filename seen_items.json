@@ -1,50 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
-    "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
-    "published": "Thu, 03 Sep 2026 10:52:20 -0400",
-    "source": "BleepingComputer",
-    "summary": "A recently patched critical vulnerability (CVE-2026-32475) in the Elementor Pro plugin for WordPress is being exploited in attacks that deliver a webshell payload and execute arbitrary commands on the server. [...]",
-    "created_at": "2026-09-03T15:01:33.711065+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=162010",
-    "title": "Hackers Weaponize ScreenConnect to Spread Worm-Like Malware Across Windows Systems",
-    "link": "https://cybersecuritynews.com/hackers-weaponize-screenconnect/",
-    "published": "Thu, 03 Sep 2026 14:52:58 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Hackers are turning rogue remote-support installations into a tool that can spread malicious code between Windows computers. The activity stands out because an infected remote-access client can pass staged payloads to connected systems, widening an i",
-    "created_at": "2026-09-03T15:01:35.755210+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/",
-    "title": "Anthropic confirms Claude is down, multiple models affected",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/",
-    "published": "Thu, 03 Sep 2026 11:02:52 -0400",
-    "source": "BleepingComputer",
-    "summary": "Claude is experiencing an outage, with users encountering elevated errors when sending requests to multiple Anthropic AI models. [...]",
-    "created_at": "2026-09-03T15:31:35.414089+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
-    "title": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
-    "published": "Thu, 03 Sep 2026 11:13:29 -0400",
-    "source": "BleepingComputer",
-    "summary": "ChatGPT and Codex are experiencing a major outage, with users reporting errors across nearly every major ChatGPT feature. [...]",
-    "created_at": "2026-09-03T15:31:38.554742+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/",
-    "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/",
-    "published": "Thu, 03 Sep 2026 11:22:33 -0400",
-    "source": "BleepingComputer",
-    "summary": "Microsoft says a known issue that reverts mouse settings after installing the KB5120998 August 2026 preview update affects only non-English Windows 11 systems. [...]",
-    "created_at": "2026-09-03T15:31:39.914166+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=162027",
     "title": "Phantom Deal Hackers Impersonate Executives and Use Fake NDAs to Steal Corporate Wire Transfers",
     "link": "https://cybersecuritynews.com/phantom-deal-hackers/",
@@ -9268,5 +9223,23 @@
     "source": "CybersecurityNews",
     "summary": "Microsoft has released September 2026 V2 security updates to fix an Exchange Server flaw that lets authenticated attackers access other users’ mailboxes within the same organization. Tracked as CVE-2026–96940, the vulnerability could expose email mes",
     "created_at": "2026-10-03T15:01:22.168711+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
+    "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
+    "link": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
+    "published": "Sat, 03 Oct 2026 20:06:33 +0530",
+    "source": "The Hacker News",
+    "summary": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speaking countries.\n\nThe activity, ",
+    "created_at": "2026-10-03T15:31:25.308578+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
+    "title": "MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics",
+    "link": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
+    "published": "Sat, 03 Oct 2026 20:08:46 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.K.&#x27;s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing&#x27;s state security service.\n\nIn a &quot;Security Service Espionage Al",
+    "created_at": "2026-10-03T15:31:49.103403+00:00"
   }
 ]
