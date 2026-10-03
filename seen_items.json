@@ -1,68 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=161978",
-    "title": "3 High-Severity HP Easy Start Flaws Let Attackers Escalate Privileges on macOS",
-    "link": "https://cybersecuritynews.com/hp-easy-start-flaws-on-macos/",
-    "published": "Thu, 03 Sep 2026 13:35:41 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Three high-severity vulnerabilities in HP Easy Start for macOS could allow attackers to interfere with printer-software installation workflows and potentially gain elevated privileges. The flaws affect versions earlier than 2.16.7.260722, and HP has ",
-    "created_at": "2026-09-03T14:31:25.043274+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=161993",
-    "title": "Microsoft to Expand Memory Integrity Protection Across Windows Devices",
-    "link": "https://cybersecuritynews.com/memory-integrity-protection-windows/",
-    "published": "Thu, 03 Sep 2026 13:46:56 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Microsoft will begin expanding memory integrity protection across eligible Windows devices in October 2026, automatically enabling a stronger kernel-level security baseline for more users and organizations. The change is designed to protect Windows f",
-    "created_at": "2026-09-03T14:31:31.478314+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=162013",
-    "title": "New $7 SweepLED Device That Allows Anyone to Detect Hidden Cameras in Hotels",
-    "link": "https://cybersecuritynews.com/sweepled-gadget/",
-    "published": "Thu, 03 Sep 2026 14:04:05 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Researchers have developed SweepLED, a low-cost smartphone accessory designed to help travelers find concealed cameras in hotel rooms and short-term rentals. The prototype uses an LED-equipped phone case, computer vision, and machine learning to iden",
-    "created_at": "2026-09-03T14:31:33.435276+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=161999",
-    "title": "153 Million Driver’s License Scans Surface on Dark Web as FBI Opens Investigation",
-    "link": "https://cybersecuritynews.com/153-million-driver-license-exposed/",
-    "published": "Thu, 03 Sep 2026 14:24:36 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A dark web identity theft service known as Nexus has reportedly offered scans of more than 153 million driver’s licenses from people in the United States and Canada. The FBI’s New Orleans field office has opened an investigation into the suspected so",
-    "created_at": "2026-09-03T14:31:35.425767+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=161994",
-    "title": "Hackers Use QR Codes in Phishing Emails to Steal Login Credentials",
-    "link": "https://cybersecuritynews.com/hackers-use-qr-codes-2/",
-    "published": "Thu, 03 Sep 2026 14:24:47 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Hackers are putting QR codes in phishing emails to steal login credentials. Known as quishing, the method hides a dangerous web address inside a square and persuades recipients to scan it with a phone. The tactic exploits a habit: people distrust sus",
-    "created_at": "2026-09-03T14:31:37.389170+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=162028",
-    "title": "Claude AI Faces Outage Impacting Mythos 5.1, Fable 5.1, and Opus 5",
-    "link": "https://cybersecuritynews.com/claude-ai-faces-outage/",
-    "published": "Thu, 03 Sep 2026 14:39:32 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Anthropic’s Claude AI experienced a partial outage on September 3, 2026, disrupting requests across several Claude models and affecting developers, enterprise users, and individuals relying on the platform for coding, research, writing, and creative ",
-    "created_at": "2026-09-03T15:01:03.354587+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=161928",
-    "title": "Chaotic Eclipse Claims Avast Antivirus 0-Day Vulnerability – PoC Released",
-    "link": "https://cybersecuritynews.com/avast-antivirus-0-day-vulnerability-poc-released/",
-    "published": "Thu, 03 Sep 2026 14:47:29 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Researcher Chaotic Eclipse has claimed to have discovered a zero-day privilege-escalation vulnerability affecting Avast Antivirus and released a public proof-of-concept repository named PrettyPrague. The researcher behind the project, using the GitHu",
-    "created_at": "2026-09-03T15:01:06.654781+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
     "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
     "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
@@ -9313,5 +9250,23 @@
     "source": "CybersecurityNews",
     "summary": "By Tamás Pentz, Head of Threat Intelligence, PCA Cyber Security  Automotive cybersecurity has traditionally focused on putting controls into vehicles that counter the ways criminals could physically tamper with a vehicle. However, the growing adoptio",
     "created_at": "2026-10-03T12:01:13.035579+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
+    "title": "Danish university DTU breach exposes data of up to 200,000 people",
+    "link": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
+    "published": "Sat, 03 Oct 2026 10:35:20 -0400",
+    "source": "BleepingComputer",
+    "summary": "The Technical University of Denmark (DTU) says information belonging to up to 200,000 users may have been exposed after hackers accessed its identity and access management system and downloaded a large amount of data. [...]",
+    "created_at": "2026-10-03T15:01:13.901365+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165628",
+    "title": "Microsoft Exchange Server Flaw Lets Authenticated Hackers Access Other Users’ Mailboxes",
+    "link": "https://cybersecuritynews.com/microsoft-reissues-exchange-server-update/",
+    "published": "Sat, 03 Oct 2026 14:59:30 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has released September 2026 V2 security updates to fix an Exchange Server flaw that lets authenticated attackers access other users’ mailboxes within the same organization. Tracked as CVE-2026–96940, the vulnerability could expose email mes",
+    "created_at": "2026-10-03T15:01:22.168711+00:00"
   }
 ]
