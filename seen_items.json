@@ -9160,5 +9160,14 @@
     "source": "BleepingComputer",
     "summary": "A suspected ShinyHunters hacking group member known online as &quot;Rey&quot; has reportedly been detained in Jordan and is cooperating with the FBI to help locate other members of the extortion group. [...]",
     "created_at": "2026-10-03T19:31:13.259579+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
+    "title": "Google Gemini could soon get full access to your Mac’s files, apps and the web",
+    "link": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
+    "published": "Sat, 03 Oct 2026 19:12:34 -0400",
+    "source": "BleepingComputer",
+    "summary": "Google&#x27;s Gemini could soon access any file on your macOS device, open apps, browse the web, and perform actions without asking for permission every time. [...]",
+    "created_at": "2026-10-03T23:31:25.761347+00:00"
   }
 ]
