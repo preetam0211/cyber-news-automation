@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
-    "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
-    "link": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
-    "published": "Fri, 04 Sep 2026 14:18:45 +0530",
-    "source": "The Hacker News",
-    "summary": "Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence.\n\nThe vulnerabilities in question are -\n\n\n  CVE-2026-14894 (CVSS score: 9.8) - A missing file type valid",
-    "created_at": "2026-09-04T10:01:49.052587+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=162149",
     "title": "Microsoft Teams to Add QR Code Protection in Teams Messaging",
     "link": "https://cybersecuritynews.com/microsoft-teams-qr-code-protection/",
