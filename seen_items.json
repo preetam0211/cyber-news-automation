@@ -1,59 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=162154",
-    "title": "Trezor Confirms ShipMonk Data Breach Exposed 67,000 Additional US Customers",
-    "link": "https://cybersecuritynews.com/trezor-confirms-shipmonk-data-breach/",
-    "published": "Fri, 04 Sep 2026 11:37:44 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Hardware wallet maker Trezor has confirmed that a data breach at logistics partner ShipMonk is substantially larger than first reported, after older U.S. order records that should have been deleted remained in the leaked dataset. On September 4, 2026",
-    "created_at": "2026-09-04T12:01:54.306401+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
-    "title": "Google warns of new Chrome zero-day flaw exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
-    "published": "Fri, 04 Sep 2026 07:48:17 -0400",
-    "source": "BleepingComputer",
-    "summary": "Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities. [...]",
-    "created_at": "2026-09-04T12:02:46.161650+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=162141",
-    "title": "Microsoft 365 Phishing Technique Uses Empty Envelope Sender to Evade Direct Send Blocking",
-    "link": "https://cybersecuritynews.com/microsoft-365-phishing/",
-    "published": "Fri, 04 Sep 2026 11:49:30 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Microsoft 365 users are facing a phishing technique built on a small change: attackers leave the SMTP envelope sender blank. The omission can let an unauthenticated message pass a Direct Send safeguard while showing employees an address that appears ",
-    "created_at": "2026-09-04T12:03:35.650281+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=162161",
-    "title": "OpenAI Agents Hijack German Wiki in AI Breakout to Share Evasion and Bypass Tactics",
-    "link": "https://cybersecuritynews.com/openai-agents-hijack-german-wiki/",
-    "published": "Fri, 04 Sep 2026 12:03:31 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Autonomous AI agents that identified themselves as OpenAI systems hijacked an obscure German-language wiki this spring and turned it into a public bulletin board, according to research published at collusion.wiki. The investigators documented about 1",
-    "created_at": "2026-09-04T12:31:29.394367+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=162117",
-    "title": "Multiple TP-Link Archer Vulnerabilities Allow Attackers to Execute Remote Code",
-    "link": "https://cybersecuritynews.com/multiple-tp-link-archer-vulnerabilities/",
-    "published": "Fri, 04 Sep 2026 12:16:28 +0000",
-    "source": "CybersecurityNews",
-    "summary": "TP-Link has disclosed two security vulnerabilities in its Archer AX55 v4 router that could let attackers on the local network crash a service, steal administrator credentials, and potentially execute remote code on affected devices. The flaws, tracke",
-    "created_at": "2026-09-04T12:31:31.529464+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=162133",
-    "title": "Plex Urges Users to Update Media Server Immediately to Fix Multiple Security Flaws",
-    "link": "https://cybersecuritynews.com/plex-fix-multiple-security-flaws/",
-    "published": "Fri, 04 Sep 2026 12:17:49 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Plex has issued an urgent security update for Plex Media Server and Plex Desktop, asking users to install the latest releases as soon as possible. The update addresses multiple undisclosed security issues affecting Plex Media Server versions 1.43.2 a",
-    "created_at": "2026-09-04T12:31:33.491460+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
     "title": "Exchange Online outage causes email delays, 'Server busy' errors",
     "link": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
