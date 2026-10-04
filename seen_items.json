@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
-    "title": "Microsoft says some users can’t open the Teams desktop client",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
-    "published": "Fri, 04 Sep 2026 10:30:15 -0400",
-    "source": "BleepingComputer",
-    "summary": "Microsoft is working to resolve a known issue that causes delays or blocks some users from opening the Microsoft Teams desktop client on Windows systems. [...]",
-    "created_at": "2026-09-04T15:01:27.910638+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
     "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
     "link": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
