@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=162099",
-    "title": "Critical Chrome 0-Day Vulnerability Actively Exploited in the Wild",
-    "link": "https://cybersecuritynews.com/chrome-0-day-flaw-exploited-wild/",
-    "published": "Fri, 04 Sep 2026 06:17:13 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Google has released an emergency Chrome security update that fixes a critical zero-day vulnerability already being exploited in real-world attacks. The flaw, tracked as CVE-2026-85046, affects the V8 JavaScript and WebAssembly engine used by Chrome t",
-    "created_at": "2026-09-04T07:31:17.327254+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=162080",
-    "title": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices",
-    "link": "https://cybersecuritynews.com/dahua-camera-backdoor/",
-    "published": "Fri, 04 Sep 2026 07:23:00 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A large campaign has compromised more than 14,000 internet-connected Dahua cameras, exposing how vulnerable surveillance equipment can become a gateway to video feeds and device settings. The operation ran for 35 days, and hit devices worldwide, with",
-    "created_at": "2026-09-04T07:32:00.662498+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=162138",
     "title": "14 Fake macOS Installers Linked to DPRK Campaign Deliver Credential-Stealing RAT",
     "link": "https://cybersecuritynews.com/14-fake-macos-installers/",
@@ -9160,5 +9142,23 @@
     "source": "CybersecurityNews",
     "summary": "Vercel has confirmed a KVM zero-day vulnerability after security researcher Paulos Yibelo reported a full virtual machine escape that, he says, allows code inside a guest to gain root access on the host. The discovery came through the Vercel Sandbox ",
     "created_at": "2026-10-04T02:31:12.734076+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
+    "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
+    "link": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
+    "published": "Sun, 04 Oct 2026 12:50:32 +0530",
+    "source": "The Hacker News",
+    "summary": "A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, universities, and legal sector organizations.\n\nThe campa",
+    "created_at": "2026-10-04T08:01:17.864615+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
+    "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
+    "link": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
+    "published": "Sun, 04 Oct 2026 12:52:05 +0530",
+    "source": "The Hacker News",
+    "summary": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias &quot;Rey,&quot; has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the matter.\n\nRey, whose real name ",
+    "created_at": "2026-10-04T08:01:24.613887+00:00"
   }
 ]
