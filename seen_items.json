@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=162138",
-    "title": "14 Fake macOS Installers Linked to DPRK Campaign Deliver Credential-Stealing RAT",
-    "link": "https://cybersecuritynews.com/14-fake-macos-installers/",
-    "published": "Fri, 04 Sep 2026 07:54:34 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Mac users are being targeted with 14 fake application installers that appear to offer familiar software but instead start a credential-stealing remote-access trojan. The files were distributed as macOS disk images and installer packages, giving attac",
-    "created_at": "2026-09-04T08:01:54.477987+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html",
     "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
     "link": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html",
