@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=162144",
-    "title": "Hackers Turn Claude, Qwen and DeepSeek Into AI Agents for Real-World Cyberattacks",
-    "link": "https://cybersecuritynews.com/ai-agents-for-real-world-cyberattacks/",
-    "published": "Fri, 04 Sep 2026 13:21:43 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Hackers have turned commercial AI models into working parts of a cyberattack operation. The campaign paired AI-directed tasking with familiar methods such as vulnerable public-facing servers, stolen credentials, webshells, and custom remote-access ma",
-    "created_at": "2026-09-04T16:01:10.730400+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=162172",
-    "title": "Hackers Use Invisible Unicode Characters to Evade Phishing Detection in Millions of Emails",
-    "link": "https://cybersecuritynews.com/hackers-use-invisible-unicode/",
-    "published": "Fri, 04 Sep 2026 14:09:55 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Attackers are using invisible Unicode characters to make phishing emails appear harmless while disrupting the security systems built to spot suspicious language. The campaign pushed finance-themed messages at massive scale, showing how a tiny change ",
-    "created_at": "2026-09-04T16:01:12.997299+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=162185",
-    "title": "NodeStealer Can Now Record Everything Victims Type and Steal Their Screenshots",
-    "link": "https://cybersecuritynews.com/nodestealer-record-everything/",
-    "published": "Fri, 04 Sep 2026 14:29:44 +0000",
-    "source": "CybersecurityNews",
-    "summary": "NodeStealer has returned with a more invasive toolkit. The Python-based information stealer can now record keystrokes, watch copied text, and capture victims’ screens, turning an account-stealing infection into continuous surveillance. The change rai",
-    "created_at": "2026-09-04T16:01:15.271410+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=162189",
-    "title": "Hackers Use Popular Messaging Services to Control New Windows Backdoors",
-    "link": "https://cybersecuritynews.com/popular-messaging-services/",
-    "published": "Fri, 04 Sep 2026 14:44:43 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A financially motivated threat group known as Toy Ghouls has begun using two custom Windows backdoors that communicate through popular messaging and broker services. The tools give attackers a discreet way to run commands, collect system details, and",
-    "created_at": "2026-09-04T16:01:17.589305+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
     "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
     "link": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
