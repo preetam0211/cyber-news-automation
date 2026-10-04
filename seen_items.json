@@ -9169,5 +9169,14 @@
     "source": "BleepingComputer",
     "summary": "Google&#x27;s Gemini could soon access any file on your macOS device, open apps, browse the web, and perform actions without asking for permission every time. [...]",
     "created_at": "2026-10-03T23:31:25.761347+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165636",
+    "title": "Vercel Confirms KVM Zero-Day VM Escape, Awards Researcher $50,000",
+    "link": "https://cybersecuritynews.com/kvm-zero-day-vm-escape/",
+    "published": "Sun, 04 Oct 2026 02:05:48 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Vercel has confirmed a KVM zero-day vulnerability after security researcher Paulos Yibelo reported a full virtual machine escape that, he says, allows code inside a guest to gain root access on the host. The discovery came through the Vercel Sandbox ",
+    "created_at": "2026-10-04T02:31:12.734076+00:00"
   }
 ]
