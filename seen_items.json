@@ -9115,5 +9115,14 @@
     "source": "The Hacker News",
     "summary": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias &quot;Rey,&quot; has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the matter.\n\nRey, whose real name ",
     "created_at": "2026-10-04T08:01:24.613887+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
+    "title": "Anthropic asks Claude users to share voice data for AI model training",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
+    "published": "Sun, 04 Oct 2026 06:53:21 -0400",
+    "source": "BleepingComputer",
+    "summary": "Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models. [...]",
+    "created_at": "2026-10-04T11:01:14.516739+00:00"
   }
 ]
