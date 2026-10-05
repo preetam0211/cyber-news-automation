@@ -9133,5 +9133,32 @@
     "source": "CybersecurityNews",
     "summary": "A new ClickFix campaign is turning a web safety check into a route for malware. Visitors to compromised websites see a fake CAPTCHA or repair message and are told to open the Windows Run dialog, paste copied text, and press Enter. The instruction loo",
     "created_at": "2026-10-05T13:31:11.705284+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/",
+    "title": "tenfold CE: Our free Identity Governance tool just got 2 new features",
+    "link": "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/",
+    "published": "Mon, 05 Oct 2026 09:33:42 -0400",
+    "source": "BleepingComputer",
+    "summary": "tenfold has added shared content governance and real-time event auditing to its free Community Edition for organizations with under 150 users. The new features help teams manage Microsoft 365 sharing and investigate suspicious identity activity. [...",
+    "created_at": "2026-10-05T14:01:08.109189+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165778",
+    "title": "Google Gemini Will Soon Get Full Access Permission to Use Your Computer",
+    "link": "https://cybersecuritynews.com/google-gemini-computer-access/",
+    "published": "Mon, 05 Oct 2026 13:33:54 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Google’s Gemini Desktop app may soon introduce a “Full Access” permission that would let the AI assistant read files, control applications, access network services, and take action across a user’s Mac. The capability appears to be part of a hidden “A",
+    "created_at": "2026-10-05T14:01:10.941346+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165761",
+    "title": "CISA Warns of Citrix NetScaler Vulnerability Actively Exploited in Attacks",
+    "link": "https://cybersecuritynews.com/cisa-citrix-netscaler-vulnerability-exploited/",
+    "published": "Mon, 05 Oct 2026 13:44:50 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency has added a Citrix NetScaler vulnerability, tracked as CVE-2026-88779, to its Known Exploited Vulnerabilities catalog after confirming active exploitation. The flaw affects Citrix NetScaler AD",
+    "created_at": "2026-10-05T14:01:12.269430+00:00"
   }
 ]
