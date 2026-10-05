@@ -9070,5 +9070,32 @@
     "source": "CybersecurityNews",
     "summary": "Google has temporarily stopped accepting new product vulnerability reports through its Open Source Software Vulnerability Reward Program(OSS VRP) following a major increase in automated submissions that were mostly invalid. The change took effect on ",
     "created_at": "2026-10-05T12:01:14.927468+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165779",
+    "title": "Apple Tightens macOS Full Disk Access as AI Agents Become More Powerful",
+    "link": "https://cybersecuritynews.com/apple-tightens-macos-full-disk-access/",
+    "published": "Mon, 05 Oct 2026 12:05:00 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Apple plans to add stronger controls to Full Disk Access in macOS, warning that the powerful permission can expose a user’s most private data as AI agents become more capable. The company said the change will require users to take a far more delibera",
+    "created_at": "2026-10-05T13:01:08.216975+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165766",
+    "title": "GlassWorm Supply Chain Attack Uses Fake VS Code Themes to Deliver Hidden Malware",
+    "link": "https://cybersecuritynews.com/glassworm-supply-chain-attack/",
+    "published": "Mon, 05 Oct 2026 12:40:52 +0000",
+    "source": "CybersecurityNews",
+    "summary": "GlassWorm is turning developer tools into malware delivery channels, this time through extensions advertised as attractive VS Code themes. The investigated cluster spans Visual Studio Marketplace and Open VSX, showing how appearance changes can provi",
+    "created_at": "2026-10-05T13:01:10.437091+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165787",
+    "title": "RemoveMacAI Free Up 12GB of Data by Removing Apple Intelligence Models",
+    "link": "https://cybersecuritynews.com/removemacai-removes-ai-models/",
+    "published": "Mon, 05 Oct 2026 12:53:19 +0000",
+    "source": "CybersecurityNews",
+    "summary": "RemoveMacAI, an open-source tool on GitHub, lets Mac users disable Apple Intelligence, remove its downloaded models, and block future downloads. The utility can recover roughly 10GB to 12GB of storage, depending on which models are present. Its chang",
+    "created_at": "2026-10-05T13:01:13.178759+00:00"
   }
 ]
