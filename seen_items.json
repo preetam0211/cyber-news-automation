@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
-    "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
-    "link": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
-    "published": "Sat, 05 Sep 2026 13:25:10 +0530",
-    "source": "The Hacker News",
-    "summary": "A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a shared board to pool answers t",
-    "created_at": "2026-09-05T09:01:06.993328+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=162213",
     "title": "Microsoft Teams Desktop Client Fails to Load on Windows System – Microsoft Investigating",
     "link": "https://cybersecuritynews.com/microsoft-teams-desktop-client-fails/",
@@ -8998,5 +8989,32 @@
     "source": "BleepingComputer",
     "summary": "Google has now suspended submissions to its Open Source Software Vulnerability Rewards Program (OSS VRP) after being flooded by AI-generated reports. [...]",
     "created_at": "2026-10-05T08:31:08.193455+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165692",
+    "title": "CISA Warns of Zammad DIVD Vulnerabilities Actively Exploited in Attacks",
+    "link": "https://cybersecuritynews.com/zammad-divd-vulnerabilities-exploited/",
+    "published": "Mon, 05 Oct 2026 08:32:23 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency has added two Zammad vulnerabilities to its Known Exploited Vulnerabilities catalog after reports that attackers are actively exploiting at least one flaw. The issues, tracked as CVE-2026-1024",
+    "created_at": "2026-10-05T09:01:24.057304+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165701",
+    "title": "CISA Adds Fortinet FortiMail 0-day Vulnerability to KEV Following Active Exploitation",
+    "link": "https://cybersecuritynews.com/fortinet-fortimail-0-day-vulnerability-exploitation/",
+    "published": "Mon, 05 Oct 2026 08:34:02 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency has added a critical Fortinet FortiMail vulnerability (CVE-2026-104286) , to its Known Exploited Vulnerabilities catalog after evidence of active exploitation. The flaw affects Fortinet FortiM",
+    "created_at": "2026-10-05T09:01:33.796955+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165730",
+    "title": "Google’s AI Hacker Finds 500+ XSS Flaws and Builds Working Exploit Chains",
+    "link": "https://cybersecuritynews.com/googles-ai-hacker/",
+    "published": "Mon, 05 Oct 2026 08:42:40 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Google has revealed an internal AI security agent that found more than 500 verified cross-site scripting, or XSS, flaws across its own web applications. The system, called PageBreak, searches for weaknesses that could let an attacker run unwanted cod",
+    "created_at": "2026-10-05T09:01:48.740430+00:00"
   }
 ]
