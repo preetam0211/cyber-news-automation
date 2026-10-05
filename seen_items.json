@@ -9043,5 +9043,14 @@
     "source": "CybersecurityNews",
     "summary": "Denmark has confirmed a major data breach involving its Central Population Register, known as CPR, after unauthorized parties accessed personal records belonging to about 8.8 million people. The exposed information includes names, addresses, and CPR ",
     "created_at": "2026-10-05T11:01:03.830912+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
+    "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
+    "link": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
+    "published": "Mon, 05 Oct 2026 16:08:50 +0530",
+    "source": "The Hacker News",
+    "summary": "Apple has announced that it&#x27;s taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial intelligence (AI) agents.\n\n&quot;Some developers are using Full Disk Access in ways tha",
+    "created_at": "2026-10-05T11:31:09.985187+00:00"
   }
 ]
