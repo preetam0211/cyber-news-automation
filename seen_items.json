@@ -9016,5 +9016,14 @@
     "source": "CybersecurityNews",
     "summary": "Google has revealed an internal AI security agent that found more than 500 verified cross-site scripting, or XSS, flaws across its own web applications. The system, called PageBreak, searches for weaknesses that could let an attacker run unwanted cod",
     "created_at": "2026-10-05T09:01:48.740430+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
+    "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
+    "link": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
+    "published": "Mon, 05 Oct 2026 13:39:23 +0530",
+    "source": "The Hacker News",
+    "summary": "A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing active exploitation attempts, according to VulnCheck.\n\nThe vulnerability in question is CVE-2026-61500 (CVSS score: 9.3), a case of session forgery stemming from the use ",
+    "created_at": "2026-10-05T09:31:11.425996+00:00"
   }
 ]
