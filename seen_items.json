@@ -8944,5 +8944,23 @@
     "source": "BleepingComputer",
     "summary": "Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be exploited for remote code execution",
     "created_at": "2026-10-04T22:01:05.865441+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165665",
+    "title": "Cybersecurity Newsletter Bulletin – Pentagon Data Breach, Citrix, Fortimail and Apple 0-days and 20+ stories",
+    "link": "https://cybersecuritynews.com/cybersecurity-newsletter-weekly-october-2/",
+    "published": "Mon, 05 Oct 2026 01:28:08 +0000",
+    "source": "CybersecurityNews",
+    "summary": "This week’s security newsletter was dominated by a Pentagon personnel data breach affecting more than three million people, actively exploited zero-days in Apple CoreGraphics and Fortinet FortiMail, and reports of two still-unpatched Citrix NetScaler",
+    "created_at": "2026-10-05T02:01:13.690174+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165674",
+    "title": "Citrix NetScaler SAML 0-Day Vulnerability Actively Exploited in Attacks",
+    "link": "https://cybersecuritynews.com/citrix-netscaler-saml-0-day-vulnerability/",
+    "published": "Mon, 05 Oct 2026 01:49:27 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Citrix has released emergency security updates for a NetScaler SAML zero-day vulnerability that attackers are actively exploiting. Tracked as CVE-2026-88779, the flaw affects customer-managed NetScaler ADC and NetScaler Gateway appliances and can cau",
+    "created_at": "2026-10-05T02:01:21.275014+00:00"
   }
 ]
