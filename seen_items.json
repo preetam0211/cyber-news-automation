@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=162213",
-    "title": "Microsoft Teams Desktop Client Fails to Load on Windows System – Microsoft Investigating",
-    "link": "https://cybersecuritynews.com/microsoft-teams-desktop-client-fails/",
-    "published": "Sat, 05 Sep 2026 09:20:18 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Microsoft is investigating an ongoing issue causing some Windows users to face significant delays or outright failures when launching the Microsoft Teams desktop client. The company acknowledged the problem, tracked internally as TM1466820, and confi",
-    "created_at": "2026-09-05T09:31:38.838231+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
     "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
     "link": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
@@ -9025,5 +9016,14 @@
     "source": "The Hacker News",
     "summary": "A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing active exploitation attempts, according to VulnCheck.\n\nThe vulnerability in question is CVE-2026-61500 (CVSS score: 9.3), a case of session forgery stemming from the use ",
     "created_at": "2026-10-05T09:31:11.425996+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/",
+    "title": "Microsoft: Windows KB5124010 update crashes some games and apps",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/",
+    "published": "Mon, 05 Oct 2026 05:37:56 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft confirmed over the weekend that some games and applications using AC-3 (Dolby Digital) audio decoding will crash after installing the September 2026 KB5124010 Windows 11 preview update. [...]",
+    "created_at": "2026-10-05T10:01:37.831005+00:00"
   }
 ]
