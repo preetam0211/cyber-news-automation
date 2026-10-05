@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
-    "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
-    "link": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
-    "published": "Sat, 05 Sep 2026 07:11:50 -0400",
-    "source": "BleepingComputer",
-    "summary": "OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as model &quot;misalignment&quot; rather than a security ",
-    "created_at": "2026-09-05T11:31:54.610560+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
     "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
     "link": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
@@ -9052,5 +9043,32 @@
     "source": "The Hacker News",
     "summary": "Apple has announced that it&#x27;s taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial intelligence (AI) agents.\n\n&quot;Some developers are using Full Disk Access in ways tha",
     "created_at": "2026-10-05T11:31:09.985187+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165760",
+    "title": "Windows 11 KB5124010 Update Crashes Productivity Apps, Games and Media Players",
+    "link": "https://cybersecuritynews.com/windows-11-kb5124010-update-crash/",
+    "published": "Mon, 05 Oct 2026 11:16:57 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has confirmed a Windows 11 audio decoding bug that can cause some productivity apps, games, and media players to close without warning. The issue follows installation of KB5124010, released on September 22, 2026, or later Windows updates, a",
+    "created_at": "2026-10-05T12:01:12.508018+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165740",
+    "title": "Hackers Abuse Legitimate ScreenConnect Tool to Gain Remote Access Through Phishing",
+    "link": "https://cybersecuritynews.com/screenconnect-tool/",
+    "published": "Mon, 05 Oct 2026 11:27:36 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are using a legitimate ScreenConnect client to turn a payment notification into a route for remote access. Instead of delivering custom malware, the phishing attempt directs recipients to software already designed to let someone else connect ",
+    "created_at": "2026-10-05T12:01:13.571389+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165743",
+    "title": "Google Pauses Open-Source Bug Bounty Program After Flood of Invalid AI-Generated Reports",
+    "link": "https://cybersecuritynews.com/google-pauses-open-source-bug-bounty-program/",
+    "published": "Mon, 05 Oct 2026 11:44:27 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Google has temporarily stopped accepting new product vulnerability reports through its Open Source Software Vulnerability Reward Program(OSS VRP) following a major increase in automated submissions that were mostly invalid. The change took effect on ",
+    "created_at": "2026-10-05T12:01:14.927468+00:00"
   }
 ]
