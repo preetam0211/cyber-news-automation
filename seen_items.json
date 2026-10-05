@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
-    "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
-    "link": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
-    "published": "Sat, 05 Sep 2026 19:47:02 +0530",
-    "source": "The Hacker News",
-    "summary": "Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk.\n\nThe exposed information includes customer names, email addresses, phone numbers, sh",
-    "created_at": "2026-09-05T15:34:35.978587+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
     "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
     "link": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
