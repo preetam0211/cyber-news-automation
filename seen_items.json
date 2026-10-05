@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
-    "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
-    "link": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
-    "published": "Sat, 05 Sep 2026 10:29:13 -0400",
-    "source": "BleepingComputer",
-    "summary": "A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]",
-    "created_at": "2026-09-05T14:31:15.612538+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
     "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
     "link": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
@@ -9169,5 +9160,32 @@
     "source": "BleepingComputer",
     "summary": "South Korea&#x27;s Financial Services Commission (FSC) held an emergency meeting following a series of cyberattacks targeting financial institutions in the country. [...]",
     "created_at": "2026-10-05T14:30:56.418927+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165792",
+    "title": "Zammad Zero-Day Chain Lets AI Agent Hijack Sessions, Execute Code and Escalate to Root",
+    "link": "https://cybersecuritynews.com/zammad-zero-day/",
+    "published": "Mon, 05 Oct 2026 14:07:34 +0000",
+    "source": "CybersecurityNews",
+    "summary": "An AI agent breached the Dutch Institute for Vulnerability Disclosure by chaining two previously unknown flaws in Zammad, an open source helpdesk platform. The September 21, 2026 attack moved from a hijacked session to root access, giving the intrude",
+    "created_at": "2026-10-05T15:01:04.153838+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165807",
+    "title": "Researcher Infiltrates Lazarus Group’s Crypto Laundering Network After $1.5B Bybit Hack",
+    "link": "https://cybersecuritynews.com/zachxbt-infiltrates-lazarus-group/",
+    "published": "Mon, 05 Oct 2026 14:10:04 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Blockchain investigator ZachXBT says he infiltrated a Chinese crypto laundering network linked to North Korea’s Lazarus Group after the $1.5 billion Bybit hack. His investigation connected private chats with public blockchain records and, he says, he",
+    "created_at": "2026-10-05T15:01:06.427226+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
+    "title": "New Dell System Update flaw lets hackers gain root privileges",
+    "link": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
+    "published": "Mon, 05 Oct 2026 10:53:06 -0400",
+    "source": "BleepingComputer",
+    "summary": "Dell warned customers to patch a critical vulnerability in the System Update (DSU) command-line interface (CLI) deployment tool as soon as possible. [...]",
+    "created_at": "2026-10-05T15:01:08.614413+00:00"
   }
 ]
