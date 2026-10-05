@@ -9097,5 +9097,41 @@
     "source": "CybersecurityNews",
     "summary": "RemoveMacAI, an open-source tool on GitHub, lets Mac users disable Apple Intelligence, remove its downloaded models, and block future downloads. The utility can recover roughly 10GB to 12GB of storage, depending on which models are present. Its chang",
     "created_at": "2026-10-05T13:01:13.178759+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html",
+    "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2",
+    "link": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html",
+    "published": "Mon, 05 Oct 2026 17:16:25 +0530",
+    "source": "The Hacker News",
+    "summary": "Threat actors have been observed attempting to exploit a now-patched critical security flaw impacting the Realtek Jungle software development kit (SDK) to deploy a botnet malware called Cling.\n\n&quot;Cling is notable not because it introduces a new p",
+    "created_at": "2026-10-05T13:31:05.542284+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
+    "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It",
+    "link": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
+    "published": "Mon, 05 Oct 2026 17:25:00 +0530",
+    "source": "The Hacker News",
+    "summary": "Every modern enterprise depends on credentials. This is how humans, systems, and now AI, all connect to data, services, and each other securely. GitGuardian helps secure that credential layer through three connected capabilities: Detect, Remediate, a",
+    "created_at": "2026-10-05T13:31:07.613523+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/",
+    "title": "Alleged dev of Ploutus ATM malware appears in US court after arrest",
+    "link": "https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/",
+    "published": "Mon, 05 Oct 2026 09:01:45 -0400",
+    "source": "BleepingComputer",
+    "summary": "The U.S. Department of Justice has announced the arrest of the alleged developer of Ploutus malware, used to steal millions of dollars in ATM jackpotting attacks across the United States. [...]",
+    "created_at": "2026-10-05T13:31:09.672186+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165785",
+    "title": "ClickFix Fake CAPTCHA Attack Executes Malware Hidden Inside Browser Cache",
+    "link": "https://cybersecuritynews.com/clickfix-fake-captcha-attack/",
+    "published": "Mon, 05 Oct 2026 13:02:42 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new ClickFix campaign is turning a web safety check into a route for malware. Visitors to compromised websites see a fake CAPTCHA or repair message and are told to open the Windows Run dialog, paste copied text, and press Enter. The instruction loo",
+    "created_at": "2026-10-05T13:31:11.705284+00:00"
   }
 ]
