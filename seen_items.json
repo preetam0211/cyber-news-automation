@@ -8962,5 +8962,50 @@
     "source": "CybersecurityNews",
     "summary": "Citrix has released emergency security updates for a NetScaler SAML zero-day vulnerability that attackers are actively exploiting. Tracked as CVE-2026-88779, the flaw affects customer-managed NetScaler ADC and NetScaler Gateway appliances and can cau",
     "created_at": "2026-10-05T02:01:21.275014+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
+    "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
+    "link": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
+    "published": "Mon, 05 Oct 2026 12:10:19 +0530",
+    "source": "The Hacker News",
+    "summary": "Citrix has released security updates for a high-severity security flaw in NetScaler ADC and Citrix NetScaler Gateway that has been exploited as part of targeted zero-day attacks.\n\nThe vulnerability, tracked as CVE-2026-88779, carries a CVSS score of ",
+    "created_at": "2026-10-05T08:01:09.121481+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165484",
+    "title": "Top 10 Best Machine Identity Management Solutions in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-machine-identity-management/",
+    "published": "Mon, 05 Oct 2026 07:26:04 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Every workload, container, and script now carries an identity, machines outnumber humans dozens to one, and unmanaged non-human and control-plane identities have become primary attack paths. We scored ten machine-identity solutions with automation de",
+    "created_at": "2026-10-05T08:01:10.871898+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165576",
+    "title": "Top 10 Best Certificate Lifecycle Management (PKI) Tools in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-certificate-lifecycle-pki-tools/",
+    "published": "Mon, 05 Oct 2026 07:33:47 +0000",
+    "source": "CybersecurityNews",
+    "summary": "An expired certificate is the outage everyone saw coming, and with public TLS marching toward 47-day maximum lifetimes, renewal frequency is about to rise eightfold. We scored ten CLM/PKI options with automation-through-deployment weighted highest. A",
+    "created_at": "2026-10-05T08:01:18.857674+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165689",
+    "title": "Cling Malware Masquerades as Google STUN Traffic to Control Compromised IoT Devices",
+    "link": "https://cybersecuritynews.com/cling-malware/",
+    "published": "Mon, 05 Oct 2026 07:43:45 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cling malware is turning compromised internet-connected devices into a botnet while disguising its control traffic as replies from Google’s public STUN service. The technique makes attacker instructions look like routine communications used by applic",
+    "created_at": "2026-10-05T08:01:21.391556+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165613",
+    "title": "Top 10 Best Fine-Grained Authorization Tools in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-fine-grained-authorization-tools/",
+    "published": "Mon, 05 Oct 2026 07:53:37 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Broken access control sits at 1 on the OWASP Top 10 because authorization logic scattered through if-statements always rots. We scored ten tools that centralize the decision on whether an identity can execute a specific action against a resource, ali",
+    "created_at": "2026-10-05T08:01:24.025999+00:00"
   }
 ]
