@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
-    "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
-    "link": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
-    "published": "Sat, 05 Sep 2026 13:01:53 +0530",
-    "source": "The Hacker News",
-    "summary": "Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe.\n\nThe Arctic Wolf Adversary Research Team said it observed attackers exploiting CVE-2026-8",
-    "created_at": "2026-09-05T08:01:34.885777+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=162210",
-    "title": "AI Agents Breach Company Network in Under 10 Hours and Steal Root Credentials",
-    "link": "https://cybersecuritynews.com/ai-agents-breach-company-network/",
-    "published": "Sat, 05 Sep 2026 07:46:07 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A human attacker armed with frontier artificial intelligence models breached an enterprise network and seized root credentials in under 10 hours, a timeline that would normally take human red teams roughly two weeks to complete, according to a new in",
-    "created_at": "2026-09-05T08:02:07.334822+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
     "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
     "link": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
@@ -9007,5 +8989,14 @@
     "source": "CybersecurityNews",
     "summary": "Broken access control sits at 1 on the OWASP Top 10 because authorization logic scattered through if-statements always rots. We scored ten tools that centralize the decision on whether an identity can execute a specific action against a resource, ali",
     "created_at": "2026-10-05T08:01:24.025999+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/",
+    "title": "Google halts open-source bug bounty program amid AI spam surge",
+    "link": "https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/",
+    "published": "Mon, 05 Oct 2026 04:27:46 -0400",
+    "source": "BleepingComputer",
+    "summary": "Google has now suspended submissions to its Open Source Software Vulnerability Rewards Program (OSS VRP) after being flooded by AI-generated reports. [...]",
+    "created_at": "2026-10-05T08:31:08.193455+00:00"
   }
 ]
