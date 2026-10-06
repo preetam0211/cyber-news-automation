@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
-    "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
-    "link": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
-    "published": "Sun, 06 Sep 2026 15:02:38 +0530",
-    "source": "The Hacker News",
-    "summary": "Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to CERT Polska&#x27;s attack warning, published",
-    "created_at": "2026-09-06T10:01:39.944927+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=162235",
     "title": "Hackers Exploiting MikroTik RouterOS Vulnerability in the Wild to Gain Complete Network Access",
     "link": "https://cybersecuritynews.com/mikrotik-routeros-vulnerability/",
@@ -9322,5 +9313,14 @@
     "source": "The Hacker News",
     "summary": "Google has stopped accepting product vulnerability reports through its bug bounty program for its open-source software.\n\nThe change, in effect since October 1, means researchers can no longer submit security flaws in the code of projects such as Go, ",
     "created_at": "2026-10-06T10:01:20.139917+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165924",
+    "title": "Meta and Microsoft are Actively Cutting Employee Use of Claude AI",
+    "link": "https://cybersecuritynews.com/meta-microsoft-claude-ai/",
+    "published": "Tue, 06 Oct 2026 10:23:02 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Meta and Microsoft are reducing employee use of Anthropic’s Claude AI while pushing their own coding tools, according to an October 5 report by The Information. The changes focus on internal spending and staff workflows, rather than ending customer a",
+    "created_at": "2026-10-06T10:31:08.330798+00:00"
   }
 ]
