@@ -9214,5 +9214,23 @@
     "source": "CybersecurityNews",
     "summary": "Trump Mobile customers’ personal data has appeared on a dark web leak site after a ransomware group called BYOD claimed it breached the company. The published file reportedly contains 3,615 records, including names, email addresses, phone numbers, ho",
     "created_at": "2026-10-06T03:01:07.033845+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
+    "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits",
+    "link": "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
+    "published": "Tue, 06 Oct 2026 10:52:55 +0530",
+    "source": "The Hacker News",
+    "summary": "A new type of ClickFix attack is using compromised websites to trick users into executing a malicious payload cached in a web browser&#x27;s cache.\n\n&quot;Instead of downloading and executing remote payloads like the typical attack pattern, in this a",
+    "created_at": "2026-10-06T06:31:43.668485+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html",
+    "title": "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account",
+    "link": "https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html",
+    "published": "Tue, 06 Oct 2026 11:30:30 +0530",
+    "source": "The Hacker News",
+    "summary": "Unauthorized parties have gained access to the names, addresses, and personal identification numbers of about 8.8 million people, living and dead, in Denmark&#x27;s national population register, the country&#x27;s digitalization ministry said on Octo",
+    "created_at": "2026-10-06T06:31:45.870830+00:00"
   }
 ]
