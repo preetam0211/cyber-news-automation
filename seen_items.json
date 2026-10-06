@@ -9457,5 +9457,14 @@
     "source": "CybersecurityNews",
     "summary": "A former infrastructure engineer has been sentenced to 32 months in federal prison for sabotaging his employer’s Windows network and demanding a cryptocurrency ransom. Daniel Rhyne, 59, of Kansas City, Missouri, received the sentence on September 28,",
     "created_at": "2026-10-06T16:01:11.505725+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165923",
+    "title": "Critical Apache Struts Vulnerabilities Enables Remote Code Execution Attacks",
+    "link": "https://cybersecuritynews.com/apache-struts-vulnerabilities/",
+    "published": "Tue, 06 Oct 2026 16:02:50 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Four security flaws described in the supplied Apache Struts advisories could expose affected applications to remote code execution, denial-of- service, and unintended data disclosure. Recommended fixes include Struts 7.4.0 or later, or Struts 6.12.0 ",
+    "created_at": "2026-10-06T16:31:07.026233+00:00"
   }
 ]
