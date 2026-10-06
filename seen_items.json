@@ -9277,5 +9277,14 @@
     "source": "BleepingComputer",
     "summary": "A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands of devices on his employer&#x27;s network in a ransomware-style attack. [...]",
     "created_at": "2026-10-06T08:30:58.581501+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
+    "title": "Nikkei discloses breaches of employees’ Microsoft, Google email accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
+    "published": "Tue, 06 Oct 2026 05:25:50 -0400",
+    "source": "BleepingComputer",
+    "summary": "Over the weekend, Japanese publishing giant Nikkei disclosed that unknown attackers recently breached two employee email accounts and used one to send thousands of phishing emails. [...]",
+    "created_at": "2026-10-06T09:31:02.716188+00:00"
   }
 ]
