@@ -9313,5 +9313,41 @@
     "source": "CybersecurityNews",
     "summary": "Travelers connecting to hotel Wi-Fi may now face more than an unreliable internet signal. A campaign linked to Midnight Blizzard has turned captive portals, the sign-in pages shown before online access, into a route for malware, credential theft, and",
     "created_at": "2026-10-06T11:31:15.274912+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
+    "title": "Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers",
+    "link": "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
+    "published": "Tue, 06 Oct 2026 16:32:30 +0530",
+    "source": "The Hacker News",
+    "summary": "In 2024, MCP (Model Context Protocol) set out to become the USB-C of AI: one standard for connecting models, agents, and IDEs to tools and data. The protocol delivered. Thousands of developers built servers, and enterprises plugged them into agent wo",
+    "created_at": "2026-10-06T12:01:22.911742+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
+    "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
+    "link": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
+    "published": "Tue, 06 Oct 2026 16:56:25 +0530",
+    "source": "The Hacker News",
+    "summary": "The Wikimedia Foundation, which hosts Wikipedia, has confirmed that it has discovered activity by rogue OpenAI agents on its platforms, including unsuccessful efforts to compromise Etherpad, a public note-taking tool, and edit Wikipedia pages.\n\n&quot",
+    "created_at": "2026-10-06T12:01:24.972956+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/",
+    "title": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits",
+    "link": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/",
+    "published": "Tue, 06 Oct 2026 07:31:48 -0400",
+    "source": "BleepingComputer",
+    "summary": "The Wikimedia Foundation says rogue OpenAI agents made unauthorized Wikipedia edits and may have been partially responsible for a May outage. [...]",
+    "created_at": "2026-10-06T12:01:26.999837+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
+    "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
+    "link": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
+    "published": "Tue, 06 Oct 2026 17:27:00 +0530",
+    "source": "The Hacker News",
+    "summary": "A malicious spreadsheet can make LibreOffice and Apache OpenOffice run an attacker&#x27;s code as soon as the file is opened, security researchers have shown. There is no warning first, of the kind either program shows before it runs a macro.\n\nThe at",
+    "created_at": "2026-10-06T12:01:29.837369+00:00"
   }
 ]
