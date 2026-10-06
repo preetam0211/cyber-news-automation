@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=162219",
-    "title": "Hackers Actively Exploiting Magento and Adobe Commerce 0-Day RCE Vulnerability",
-    "link": "https://cybersecuritynews.com/magento-and-adobe-commerce-0-day-rce/",
-    "published": "Sun, 06 Sep 2026 03:52:46 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A newly discovered zero-day vulnerability in Magento Open Source and Adobe Commerce is being actively exploited by attackers to seize full control of online stores, and there is still no official patch available. Dutch e-commerce security firm Sansec",
-    "created_at": "2026-09-06T04:01:12.309115+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=29572",
     "title": "10 Best ZTNA Solutions (Zero Trust Network Access) In 2026",
     "link": "https://cybersecuritynews.com/best-ztna-solutions/",
