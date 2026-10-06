@@ -9430,5 +9430,32 @@
     "source": "BleepingComputer",
     "summary": "A new campaign targeting ad account managers uses fake ChatGPT, Gemini, Claude, and Perplexity sites that steal login credentials and multi-factor authentication (MFA) codes through browser-in-browser attacks. [...]",
     "created_at": "2026-10-06T15:31:14.368322+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166024",
+    "title": "From Telemetry to Defense: How SOC and MSSP Leaders Can Build Intelligence-Led Threat Monitoring",
+    "link": "https://cybersecuritynews.com/how-soc-and-mssp-leaders-can-build-intelligence-led-threat-monitoring/",
+    "published": "Tue, 06 Oct 2026 15:45:40 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Every function in a security operations center, from alert triage to incident response, depends on how well threats are monitored. Yet many SOCs and managed security providers still treat monitoring as log collection: ingest everything, match against",
+    "created_at": "2026-10-06T16:01:07.920068+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166040",
+    "title": "GitHub Copilot CLI Vulnerability Lets Attackers Steal Developer Secrets Using Encrypted Prompt Injection",
+    "link": "https://cybersecuritynews.com/github-copilot-cli-vulnerability/",
+    "published": "Tue, 06 Oct 2026 15:49:18 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new GitHub Copilot CLI finding that could allow an attacker-controlled web page to guide the coding agent into reading local developer files and sending their contents to a remote server. The technique, called Cryptographic Context Injection (CCI),",
+    "created_at": "2026-10-06T16:01:10.146987+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165930",
+    "title": "Former Infrastructure Engineer Sentenced for Sabotaging Employer’s Windows Network",
+    "link": "https://cybersecuritynews.com/former-infrastructure-engineer-sentenced/",
+    "published": "Tue, 06 Oct 2026 15:50:56 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A former infrastructure engineer has been sentenced to 32 months in federal prison for sabotaging his employer’s Windows network and demanding a cryptocurrency ransom. Daniel Rhyne, 59, of Kansas City, Missouri, received the sentence on September 28,",
+    "created_at": "2026-10-06T16:01:11.505725+00:00"
   }
 ]
