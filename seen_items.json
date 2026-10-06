@@ -9232,5 +9232,32 @@
     "source": "The Hacker News",
     "summary": "Unauthorized parties have gained access to the names, addresses, and personal identification numbers of about 8.8 million people, living and dead, in Denmark&#x27;s national population register, the country&#x27;s digitalization ministry said on Octo",
     "created_at": "2026-10-06T06:31:45.870830+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html",
+    "title": "FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach",
+    "link": "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html",
+    "published": "Tue, 06 Oct 2026 12:26:57 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Federal Bureau of Investigation (FBI) has removed an Accenture contractor for their alleged role in a ShinyHunters-breach that led to the theft of personal details of thousands of bureau employees.\n\nThat&#x27;s according to a report from Reu",
+    "created_at": "2026-10-06T07:31:17.701535+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
+    "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
+    "link": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
+    "published": "Tue, 06 Oct 2026 12:28:56 +0530",
+    "source": "The Hacker News",
+    "summary": "A critical flaw in 8 Atlassian Data Center products, which customers host themselves, allows an attacker with no login access to read specific files in each product&#x27;s web application root directory.\n\nThe attacker must already know a file&#x27;s ",
+    "created_at": "2026-10-06T07:31:50.518703+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165707",
+    "title": "Top 10 Best Just-in-Time (JIT) Access Tools in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-jit-access-tools/",
+    "published": "Tue, 06 Oct 2026 07:17:03 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Credentials that always work are credentials worth stealing which is why mitigating how attackers exploit privileged access has driven organizations toward Zero Standing Privileges (ZSP) and made JIT access mandatory infrastructure. Credentials that ",
+    "created_at": "2026-10-06T07:32:10.795631+00:00"
   }
 ]
