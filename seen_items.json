@@ -9349,5 +9349,14 @@
     "source": "The Hacker News",
     "summary": "A malicious spreadsheet can make LibreOffice and Apache OpenOffice run an attacker&#x27;s code as soon as the file is opened, security researchers have shown. There is no warning first, of the kind either program shows before it runs a macro.\n\nThe at",
     "created_at": "2026-10-06T12:01:29.837369+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165961",
+    "title": "Critical Dell System Update Tool Vulnerability Allows Attackers to Execute Code as Root User",
+    "link": "https://cybersecuritynews.com/dell-system-update-tool-vulnerability/",
+    "published": "Tue, 06 Oct 2026 12:57:06 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Dell has released security updates for five vulnerabilities in Dell System Update (DSU), including a critical flaw that could let an unauthenticated remote attacker execute code with root privileges. The issues affect versions before 2.3.0.0, and Del",
+    "created_at": "2026-10-06T13:01:43.010647+00:00"
   }
 ]
