@@ -9268,5 +9268,14 @@
     "source": "CybersecurityNews",
     "summary": "The AI-code flood made one truth undeniable: static analysis only matters if developers fix what it finds. We scored ten SAST tools with fix-rate potential precision, PR-fit, and remediation quality weighted highest. At the same time, enforcing stric",
     "created_at": "2026-10-06T08:01:07.139377+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
+    "title": "Engineer sentenced for locking over 3,000 devices on employer network",
+    "link": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
+    "published": "Tue, 06 Oct 2026 04:19:24 -0400",
+    "source": "BleepingComputer",
+    "summary": "A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands of devices on his employer&#x27;s network in a ransomware-style attack. [...]",
+    "created_at": "2026-10-06T08:30:58.581501+00:00"
   }
 ]
