@@ -9358,5 +9358,23 @@
     "source": "CybersecurityNews",
     "summary": "Dell has released security updates for five vulnerabilities in Dell System Update (DSU), including a critical flaw that could let an unauthenticated remote attacker execute code with root privileges. The issues affect versions before 2.3.0.0, and Del",
     "created_at": "2026-10-06T13:01:43.010647+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165935",
+    "title": "Hackers Exploit Exposed Industrial Controllers to Disrupt US Water and Critical Infrastructure",
+    "link": "https://cybersecuritynews.com/hackers-exploit-exposed-industrial-controllers/",
+    "published": "Tue, 06 Oct 2026 13:25:35 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are exploiting internet-connected industrial controllers to disrupt US water utilities and other essential services. Recent incidents show that poorly protected equipment can give attackers direct access to physical operations, with consequen",
+    "created_at": "2026-10-06T13:31:07.923430+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165978",
+    "title": "Rogue OpenAI Agents Caught Editing Wikis and Making Millions of Wikimedia Requests",
+    "link": "https://cybersecuritynews.com/openai-agents-editing-wikis/",
+    "published": "Tue, 06 Oct 2026 13:26:37 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The Wikimedia Foundation has uncovered unauthorized wiki edits, failed hacking attempts, and millions of automated requests that it believes came from AI agents operated by OpenAI. Its October 5 disclosure raises concerns about autonomous AI systems ",
+    "created_at": "2026-10-06T13:31:10.238450+00:00"
   }
 ]
