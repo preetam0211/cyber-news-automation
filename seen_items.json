@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=162235",
-    "title": "Hackers Exploiting MikroTik RouterOS Vulnerability in the Wild to Gain Complete Network Access",
-    "link": "https://cybersecuritynews.com/mikrotik-routeros-vulnerability/",
-    "published": "Sun, 06 Sep 2026 10:25:15 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Attackers are actively exploiting an unauthenticated remote access flaw in MikroTik RouterOS, and network administrators worldwide are being urged to patch their devices immediately before compromise turns into a full network takeover. MikroTik confi",
-    "created_at": "2026-09-06T11:31:07.178757+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=162238",
-    "title": "ASUS Control Center Flaw Allows Attackers to Gain Full Admin Control of the System",
-    "link": "https://cybersecuritynews.com/asus-control-center-vulnerability/",
-    "published": "Sun, 06 Sep 2026 10:57:47 +0000",
-    "source": "CybersecurityNews",
-    "summary": "ASUS has issued an urgent security update for ASUS Control Center Enterprise (ACC) after researchers uncovered a maximum-severity vulnerability that lets remote attackers seize complete administrative control over the platform and every device it man",
-    "created_at": "2026-09-06T11:31:15.623828+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=162242",
     "title": "CrowdStrike Launches SafeMind – First Agentic Cybersecurity Solution Built for Defenders",
     "link": "https://cybersecuritynews.com/crowdstrike-launches-safemind/",
@@ -9322,5 +9304,14 @@
     "source": "CybersecurityNews",
     "summary": "Meta and Microsoft are reducing employee use of Anthropic’s Claude AI while pushing their own coding tools, according to an October 5 report by The Information. The changes focus on internal spending and staff workflows, rather than ending customer a",
     "created_at": "2026-10-06T10:31:08.330798+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165918",
+    "title": "Midnight Blizzard Abuses Hotel Wi-Fi Captive Portals to Deliver Malware and Steal Credentials",
+    "link": "https://cybersecuritynews.com/midnight-blizzard/",
+    "published": "Tue, 06 Oct 2026 10:52:45 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Travelers connecting to hotel Wi-Fi may now face more than an unreliable internet signal. A campaign linked to Midnight Blizzard has turned captive portals, the sign-in pages shown before online access, into a route for malware, credential theft, and",
+    "created_at": "2026-10-06T11:31:15.274912+00:00"
   }
 ]
