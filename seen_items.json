@@ -9394,5 +9394,41 @@
     "source": "CybersecurityNews",
     "summary": "Torrance, Californina, October 6th, 2026, CyberNewswire Criminal IP by AI SPERA, a cyber threat intelligence platform delivering decision-ready intelligence and attack surface visibility to security teams worldwide, will participate in GovWare 2026 i",
     "created_at": "2026-10-06T14:31:16.552615+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166006",
+    "title": "Iranian Hackers Use Fake Dubai Airports Coding Test to Target Iraqi Critical Infrastructure",
+    "link": "https://cybersecuritynews.com/iranian-hackers/",
+    "published": "Tue, 06 Oct 2026 14:31:24 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Iranian state-aligned hackers have used a fake Dubai Airports recruitment process to target Iraqi critical infrastructure with a booby-trapped coding test. The campaign, called Blinder Tunnel, turned a routine developer task into a quiet, potentially",
+    "created_at": "2026-10-06T15:31:08.115881+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166019",
+    "title": "Aembit Extends Access Controls to Personal AI Agents",
+    "link": "https://cybersecuritynews.com/aembit-extends-access-controls-to-personal-ai-agents/",
+    "published": "Tue, 06 Oct 2026 14:58:37 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Silver Springs, United States / Maryland, October 6th, 2026, CyberNewswire Aembit, the identity control plane for AI agents, today announced support for securing personal agents’ access to enterprise environments, available immediately to existing cu",
+    "created_at": "2026-10-06T15:31:10.213351+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166028",
+    "title": "ASOS Hacked – App Users Receive Notifications Sent by Hackers",
+    "link": "https://cybersecuritynews.com/asos-hacked/",
+    "published": "Tue, 06 Oct 2026 15:06:20 +0000",
+    "source": "CybersecurityNews",
+    "summary": "ASOS is investigating a cyber incident after customers received an unauthorized app notification claiming hackers had accessed its Snowflake data environment. The retailer confirmed suspicious activity involving third-party communication platforms, b",
+    "created_at": "2026-10-06T15:31:12.271107+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
+    "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
+    "link": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
+    "published": "Tue, 06 Oct 2026 11:16:44 -0400",
+    "source": "BleepingComputer",
+    "summary": "A new campaign targeting ad account managers uses fake ChatGPT, Gemini, Claude, and Perplexity sites that steal login credentials and multi-factor authentication (MFA) codes through browser-in-browser attacks. [...]",
+    "created_at": "2026-10-06T15:31:14.368322+00:00"
   }
 ]
