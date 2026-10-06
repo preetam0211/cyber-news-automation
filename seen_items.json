@@ -9493,5 +9493,23 @@
     "source": "BleepingComputer",
     "summary": "On the first day of the Pwn2Own Ireland 2026 competition, security researchers hacked the Samsung Galaxy S26 twice and earned $388,500 after exploiting 32 zero-days. [...]",
     "created_at": "2026-10-06T19:30:59.272982+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
+    "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan",
+    "link": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
+    "published": "Tue, 06 Oct 2026 23:54:25 +0530",
+    "source": "The Hacker News",
+    "summary": "Linux backdoors targeting telecom and network appliances in South Korea and Taiwan have been disguising their traffic as email services and seemingly legitimate processes to blend in and evade detection.\n\nThreat actors are known to name their malicio",
+    "created_at": "2026-10-06T20:31:10.445924+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
+    "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
+    "link": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
+    "published": "Wed, 07 Oct 2026 00:08:55 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have disclosed details of a &quot;human-operated phishing platform&quot; that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI ChatGPT, Perplexity, Meta",
+    "created_at": "2026-10-06T20:31:12.501697+00:00"
   }
 ]
