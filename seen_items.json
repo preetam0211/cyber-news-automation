@@ -1,59 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=162358",
-    "title": "OpenAI Commits $1 Billion to Give Critical Infrastructure Defenders Frontier AI Cyber Tools",
-    "link": "https://cybersecuritynews.com/openai-commits-1-billion/",
-    "published": "Mon, 07 Sep 2026 14:10:00 +0000",
-    "source": "CybersecurityNews",
-    "summary": "OpenAI has launched Daybreak for Frontline Defenders, a global cybersecurity initiative designed to help organizations protecting essential services use frontier AI capabilities against increasingly advanced cyber threats. The company said it will co",
-    "created_at": "2026-09-07T14:31:31.007012+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=162387",
-    "title": "New Linux Bot Hides as Kernel Process and Launches DDoS Attacks",
-    "link": "https://cybersecuritynews.com/new-linux-bot/",
-    "published": "Mon, 07 Sep 2026 14:12:38 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A new Linux bot called Tengu is built to stay hidden and turn compromised systems into tools for disruption. The 32-bit malware poses as a routine kernel worker, persists across several Linux setups, and can generate traffic floods against selected t",
-    "created_at": "2026-09-07T14:31:33.285148+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=162377",
-    "title": "ConnectWise Warns of New ScreenConnect Remote Access Flaw – Released Mitigation Steps",
-    "link": "https://cybersecuritynews.com/connectwise-screenconnect-remote-access-flaw/",
-    "published": "Mon, 07 Sep 2026 14:14:40 +0000",
-    "source": "CybersecurityNews",
-    "summary": "ConnectWise has warned customers about a newly identified security issue affecting file transfer behavior in ScreenConnect Remote Access Support and Access sessions. The issue impacts both cloud-hosted and on-premises ScreenConnect deployments, and t",
-    "created_at": "2026-09-07T14:31:34.663159+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=162368",
-    "title": "Microsoft to Retire Manifest V2 Extensions and Switch to V3 for Improved Security and Performance",
-    "link": "https://cybersecuritynews.com/microsoft-to-retire-manifest-v2-extensions/",
-    "published": "Mon, 07 Sep 2026 14:24:00 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Microsoft will retire support for Manifest V2 browser extensions in Microsoft Edge by early 2027, requiring users, enterprises, and developers to move to Manifest V3. The transition is intended to strengthen browser security, improve performance, and",
-    "created_at": "2026-09-07T14:31:35.699584+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=162389",
-    "title": "Natural Resources Wales Exposes Sensitive Employee Data in Spreadsheet Breach",
-    "link": "https://cybersecuritynews.com/natural-resources-wales-expose/",
-    "published": "Mon, 07 Sep 2026 14:25:24 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Natural Resources Wales has disclosed a personal data breach involving a spreadsheet containing sensitive diversity information belonging to former and current employees. The incident affected people employed by Natural Resources Wales (NRW) between ",
-    "created_at": "2026-09-07T14:31:37.906482+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=162399",
-    "title": "Hackers Abuse Trusted Google Services to Hide Credential-Stealing Phishing Attacks",
-    "link": "https://cybersecuritynews.com/trusted-google-services/",
-    "published": "Mon, 07 Sep 2026 14:43:24 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Criminals are using trusted Google services as cover for a wide phishing campaign that steals corporate credentials and, in some cases, installs remote-access software. The malicious path runs through Google-owned domains before reaching attacker-con",
-    "created_at": "2026-09-07T15:01:05.919323+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=162421",
     "title": "Switzerland Moves Away From Microsoft 365 to Open-Source Alternatives",
     "link": "https://cybersecuritynews.com/switzerland-moves-away-from-microsoft-365/",
@@ -9529,5 +9475,14 @@
     "source": "CybersecurityNews",
     "summary": "SonicWall has patched four vulnerabilities in its Secure Mobile Access (SMA) 1000 Series appliances, including a critical server-side request forgery (SSRF) flaw with a maximum CVSS score of 10.0. The bug could let a remote attacker without valid cre",
     "created_at": "2026-10-07T14:31:14.120656+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166204",
+    "title": "CyberXero Combines Claude Code, PentAGI and Cobalt Strike in AI-Augmented Cyberattacks",
+    "link": "https://cybersecuritynews.com/cyberxero-combines-claude-code/",
+    "published": "Wed, 07 Oct 2026 14:45:00 +0000",
+    "source": "CybersecurityNews",
+    "summary": "CyberXero has emerged as an initial access broker that combines familiar hacking tools with artificial intelligence to run large-scale intrusions. The Russian-speaking operator targeted WordPress and e-commerce sites worldwide while separately probin",
+    "created_at": "2026-10-07T15:01:05.409382+00:00"
   }
 ]
