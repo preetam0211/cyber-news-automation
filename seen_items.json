@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=162380",
-    "title": "New BYOTC Attack Hijacks Trusted Windows Apps to Abuse Privileged Kernel Drivers",
-    "link": "https://cybersecuritynews.com/new-byotc-attack-hijacks/",
-    "published": "Mon, 07 Sep 2026 13:40:00 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A new Windows attack shows how a trusted program can become a path to sensitive system functions. The method, called Bring Your Own Trusted Caller, or BYOTC, turns a legitimate user-mode application into the tool that asks a privileged driver to perf",
-    "created_at": "2026-09-07T14:01:27.606901+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=162365",
-    "title": "LG Smart TVs Caught Scanning Networks and Logging Audio in Standby",
-    "link": "https://cybersecuritynews.com/lg-smart-tvs-caught-scanning-networks/",
-    "published": "Mon, 07 Sep 2026 13:50:28 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Your LG smart TV may be doing far more than displaying your favorite shows while it sits “off” in the corner of your living room. A new investigation from Gamers Nexus, conducted alongside Level1Techs and independent security researchers, alleges tha",
-    "created_at": "2026-09-07T14:01:29.675045+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=162358",
     "title": "OpenAI Commits $1 Billion to Give Critical Infrastructure Defenders Frontier AI Cyber Tools",
     "link": "https://cybersecuritynews.com/openai-commits-1-billion/",
@@ -9520,5 +9502,32 @@
     "source": "CybersecurityNews",
     "summary": "A proof-of-concept exploit has been released for CVE-2026-21589, a critical arbitrary file-read vulnerability affecting multiple self-managed Atlassian products. The flaw can expose sensitive application files and, in environments integrated with Atl",
     "created_at": "2026-10-07T13:31:13.843357+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
+    "title": "Ransomware has a new target. Is your backup ready?",
+    "link": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
+    "published": "Wed, 07 Oct 2026 10:01:11 -0400",
+    "source": "BleepingComputer",
+    "summary": "Ransomware groups are increasingly targeting backup infrastructure to eliminate recovery options and increase pressure on victims to pay. Kaseya explains why organizations need isolated, immutable, and regularly tested backups that attackers cannot e",
+    "created_at": "2026-10-07T14:31:10.303202+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166191",
+    "title": "Hackers Breach Two Major South Korean Churches, Exposing Data of Over 1 Million People",
+    "link": "https://cybersecuritynews.com/hackers-breach/",
+    "published": "Wed, 07 Oct 2026 14:13:26 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers breached two major South Korean churches, exposing more than one million congregant records and extensive financial and administrative data. The investigation reveals how web shells, leaked credentials, and weak access controls opened routes ",
+    "created_at": "2026-10-07T14:31:12.671954+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166221",
+    "title": "SonicWall Patches 4 SMA1000 Flaws, Including Critical Pre-Auth SSRF Rated CVSS 10",
+    "link": "https://cybersecuritynews.com/sonicwall-patches-sma1000-flaws/",
+    "published": "Wed, 07 Oct 2026 14:27:26 +0000",
+    "source": "CybersecurityNews",
+    "summary": "SonicWall has patched four vulnerabilities in its Secure Mobile Access (SMA) 1000 Series appliances, including a critical server-side request forgery (SSRF) flaw with a maximum CVSS score of 10.0. The bug could let a remote attacker without valid cre",
+    "created_at": "2026-10-07T14:31:14.120656+00:00"
   }
 ]
