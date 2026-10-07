@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
-    "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
-    "link": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
-    "published": "Mon, 07 Sep 2026 13:23:04 +0530",
-    "source": "The Hacker News",
-    "summary": "Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities.\n\n&quot;The payloads are protected with javascript-obfuscator, using ",
-    "created_at": "2026-09-07T08:31:46.411880+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=162265",
     "title": "Hackers Actively Exploiting PaperCut Servers Command Execution Vulnerabilities",
     "link": "https://cybersecuritynews.com/papercut-command-execution-flaws-exploited/",
@@ -9529,5 +9520,41 @@
     "source": "CybersecurityNews",
     "summary": "A scanner that can’t authenticate, crawl a SPA, or read an API schema is testing your login page and calling it coverage. We scored ten DAST options with modern-stack capability as the qualifying bar. Evaluating the market alongside the Top 10 Best D",
     "created_at": "2026-10-07T08:01:56.994697+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166081",
+    "title": "Veeam Backup and Replication Vulnerability Allow Attackers to Execute Malicious Script",
+    "link": "https://cybersecuritynews.com/veeam-backup-and-replication-vulnerability/",
+    "published": "Wed, 07 Oct 2026 08:10:26 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Veeam has released Veeam Backup &amp; Replication 12.3.2 P4, build 12.3.2.4934, to address four security vulnerabilities, including a flaw that lets attackers execute malicious scripts in an authenticated user’s browser. Released on October 6, 2026, ",
+    "created_at": "2026-10-07T08:31:18.889874+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165901",
+    "title": "Top 10 Best IAST Tools in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-iast-tools/",
+    "published": "Wed, 07 Oct 2026 08:10:32 +0000",
+    "source": "CybersecurityNews",
+    "summary": "IAST’s core idea watch the running app from inside and confirm which findings are real won so thoroughly that platforms absorbed it, and the standalone market shrank. Integrating Interactive Application Security Testing (IAST) runtime monitoring has ",
+    "created_at": "2026-10-07T08:31:45.166796+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166084",
+    "title": "Google Chrome Update Fixes Massive 247 Vulnerabilities, Including 4 Code Execution Flaws",
+    "link": "https://cybersecuritynews.com/chrome-fixes-massive-247-vulnerabilities/",
+    "published": "Wed, 07 Oct 2026 08:13:38 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Google released a major Chrome security update on October 6, 2026, fixing 247 vulnerabilities, including four critical memory-safety flaws, across Windows, Mac, and Linux. The patched versions are 155.0.8059.39/.40 for Windows and Mac and 155.0.8059.",
+    "created_at": "2026-10-07T08:32:00.722582+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166103",
+    "title": "32 Unique 0-Days Exploited in Samsung S26, Pixel 10, OpenAI Codex and Other Devices in Pwn2Own 2026",
+    "link": "https://cybersecuritynews.com/32-0-days-pwn2own-2026/",
+    "published": "Wed, 07 Oct 2026 08:27:31 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Security researchers reportedly exploited 32 unique zero-day vulnerabilities and earned $388,500 on the opening day of Pwn2Own Ireland 2026. Samsung Galaxy S26, OpenAI Codex, smart home devices and AI services fell to working exploits, but the Google",
+    "created_at": "2026-10-07T08:32:26.997287+00:00"
   }
 ]
