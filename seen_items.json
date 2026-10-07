@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=162265",
-    "title": "Hackers Actively Exploiting PaperCut Servers Command Execution Vulnerabilities",
-    "link": "https://cybersecuritynews.com/papercut-command-execution-flaws-exploited/",
-    "published": "Mon, 07 Sep 2026 07:05:58 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Two critical vulnerabilities in PaperCut servers, CVE-2026-81578 and CVE-2026-82078, are being actively exploited, allowing attackers to execute commands, steal credentials, and potentially create privileged accounts within victim networks. Recent re",
-    "created_at": "2026-09-07T09:01:14.651756+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=162295",
     "title": "OpenAI Confirms ‘wiki Hijack,’ and Says It’s Working on a Framework for Disclosure Details",
     "link": "https://cybersecuritynews.com/openai-confirms-wiki-hijack/",
@@ -9556,5 +9547,23 @@
     "source": "CybersecurityNews",
     "summary": "Security researchers reportedly exploited 32 unique zero-day vulnerabilities and earned $388,500 on the opening day of Pwn2Own Ireland 2026. Samsung Galaxy S26, OpenAI Codex, smart home devices and AI services fell to working exploits, but the Google",
     "created_at": "2026-10-07T08:32:26.997287+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166110",
+    "title": "Multiple OpenSSH Vulnerabilities Could Enable Plaintext Recovery, File Write and Injection Attacks",
+    "link": "https://cybersecuritynews.com/openssh-10-6-released/",
+    "published": "Wed, 07 Oct 2026 08:47:31 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OpenSSH 10.6, released on October 6, 2026, fixes security flaws that could expose secrets, write files outside intended folders, or enable shell injection under specific conditions. The update covers both client and server tools, making it relevant t",
+    "created_at": "2026-10-07T09:01:08.951092+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166089",
+    "title": "Critical WordPress Vulnerabilities Enable XSS, SQL Injection and Data Disclosure Attacks",
+    "link": "https://cybersecuritynews.com/wordpress-vulnerabilities/",
+    "published": "Wed, 07 Oct 2026 08:53:57 +0000",
+    "source": "CybersecurityNews",
+    "summary": "WordPress released version 7.1.3 on October 6, 2026, addressing vulnerabilities involving cross-site scripting, SQL injection, information disclosure, and other security weaknesses. The project recommends immediate updates, with fixes also available ",
+    "created_at": "2026-10-07T09:01:14.686951+00:00"
   }
 ]
