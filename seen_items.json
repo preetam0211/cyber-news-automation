@@ -9484,5 +9484,14 @@
     "source": "CybersecurityNews",
     "summary": "Anthropic’s Mythos AI has identified a critical vulnerability in Rejetto HTTP File Server that could allow remote attackers to forge administrator sessions and execute arbitrary code. The issue, tracked as CVE-2026-61500, stems from predictable sessi",
     "created_at": "2026-10-07T11:01:57.101777+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/",
+    "title": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways",
+    "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/",
+    "published": "Wed, 07 Oct 2026 07:37:07 -0400",
+    "source": "BleepingComputer",
+    "summary": "SonicWall has released hotfixes to address a maximum-severity server-side request forgery (SSRF) flaw in SMA1000 series appliances. [...]",
+    "created_at": "2026-10-07T12:01:07.026142+00:00"
   }
 ]
