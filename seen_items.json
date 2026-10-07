@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=162248",
-    "title": "Weekly Cybersecurity Newsletter Bulletin – CrowdStrike Falcon, Chrome 0-Day, GPT-6 Astra, Dropbox Breach and 20+ Stories",
-    "link": "https://cybersecuritynews.com/weekly-cybersecurity-newsletter-bulletin-sept-2026/",
-    "published": "Mon, 07 Sep 2026 02:53:00 +0000",
-    "source": "CybersecurityNews",
-    "summary": "This edition of the weekly cybersecurity newsletter bulletin covers critical zero-day discoveries, nation-state router compromises, emerging autonomous AI attack vectors, and major cloud identity incidents. Below are detailed summaries of the top dev",
-    "created_at": "2026-09-07T03:31:11.938542+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/",
     "title": "N-able patches max severity N-central flaw amid ongoing attacks",
     "link": "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/",
@@ -9511,5 +9502,14 @@
     "source": "BleepingComputer",
     "summary": "Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue admin accounts. [...]",
     "created_at": "2026-10-06T21:01:05.123105+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166054",
+    "title": "Anthropic Opens Claude Access to Red Teams and Verified Cyber Defenders With Reduced Restrictions",
+    "link": "https://cybersecuritynews.com/anthropic-cyber-verification-program/",
+    "published": "Wed, 07 Oct 2026 03:26:17 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Anthropic has expanded its Cyber Verification Program, giving verified security professionals access to advanced Claude models with fewer cybersecurity restrictions. Announced on October 6, 2026, the update introduces three access tiers covering defe",
+    "created_at": "2026-10-07T04:01:09.042155+00:00"
   }
 ]
