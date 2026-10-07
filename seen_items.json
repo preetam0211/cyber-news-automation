@@ -1,59 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=162343",
-    "title": "OpenVPN Fixes 7 Security Flaws Affecting VPN Connections and Windows Systems",
-    "link": "https://cybersecuritynews.com/openvpn-fixes-7-security-flaws/",
-    "published": "Mon, 07 Sep 2026 09:46:53 +0000",
-    "source": "CybersecurityNews",
-    "summary": "The OpenVPN project has shipped version 2.7.7, a security-focused release that patches seven distinct vulnerabilities spanning the software’s core reliability layer and its Windows-specific service components. The update, released on September 3, 202",
-    "created_at": "2026-09-07T11:01:05.828210+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=162316",
-    "title": "Telerik Flaw Chain Lets Unauthenticated Attackers Turn Padding Oracle Into Remote Code Execution",
-    "link": "https://cybersecuritynews.com/telerik-flaw-chain/",
-    "published": "Mon, 07 Sep 2026 10:01:43 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Security researchers have uncovered a significant vulnerability chain in Telerik UI for ASP.NET AJAX, allowing unauthenticated attackers to execute remote code in vulnerable enterprise web applications. The issue primarily affects Telerik’s RadAsyncU",
-    "created_at": "2026-09-07T11:01:12.798205+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/",
-    "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/",
-    "published": "Mon, 07 Sep 2026 06:32:40 -0400",
-    "source": "BleepingComputer",
-    "summary": "Hackers are exploiting a chain of two recently disclosed vulnerabilities in MikroTik routers to take control of devices with SSH services exposed to the internet. [...]",
-    "created_at": "2026-09-07T11:01:24.939826+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
-    "title": "ChatGPT can now connect to your personal apps to mimic writing style",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
-    "published": "Mon, 07 Sep 2026 06:36:37 -0400",
-    "source": "BleepingComputer",
-    "summary": "OpenAI appears to be testing a new &quot;Writing Style&quot; feature for ChatGPT that can learn how you write by looking at examples from your connected apps. [...]",
-    "created_at": "2026-09-07T11:01:25.988183+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=162341",
-    "title": "Fake Minecraft Mod Deploys Myth Stealer RAT to Steal Browser Credentials and Cookies",
-    "link": "https://cybersecuritynews.com/fake-minecraft-mod/",
-    "published": "Mon, 07 Sep 2026 10:41:21 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A counterfeit Minecraft optimisation mod is installing Myth Stealer, malware that can steal browser passwords, cookies and data. Its malicious file looks useful because features work as advertised, giving players little reason to suspect a hidden thr",
-    "created_at": "2026-09-07T11:01:28.213931+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=162348",
-    "title": "Roundcube Webmail Patches 12 Security Flaws, Including Zero-Click XSS and SSRF Bypass",
-    "link": "https://cybersecuritynews.com/roundcube-webmail-patches-12-security-flaws/",
-    "published": "Mon, 07 Sep 2026 10:49:56 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Roundcube Webmail has released security updates for its 1.6 LTS and 1.7 branches, fixing 12 vulnerabilities that could expose users and servers to cross-site scripting, email header injection, cross-user data access, remote-content bypasses, and serv",
-    "created_at": "2026-09-07T11:01:30.453324+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=162353",
     "title": "DPRK-Linked Hackers Deploy Ted Backdoor and CurlRAT Against South Korean Firms",
     "link": "https://cybersecuritynews.com/dprk-linked-hackers/",
@@ -9493,5 +9439,50 @@
     "source": "CybersecurityNews",
     "summary": "Cybersecurity Awareness Month 2026 arrives as online attacks become easier to launch, harder to spot, and more focused on people. Observed every October, the campaign helps individuals and businesses build safer digital habits. This year there are tw",
     "created_at": "2026-10-07T10:31:16.063829+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
+    "title": "Advantest confirms personal information stolen in ransomware attack",
+    "link": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
+    "published": "Wed, 07 Oct 2026 06:27:52 -0400",
+    "source": "BleepingComputer",
+    "summary": "Advantest Corporation is notifying affected individuals that a ransomware attack earlier this year exposed their personally identifiable data. [...]",
+    "created_at": "2026-10-07T11:01:48.721639+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166147",
+    "title": "OpenAI Sandbox Escape Flaw Allowed Free Access to Paid AI Models Without an API Key",
+    "link": "https://cybersecuritynews.com/openai-sandbox-escape-vulnerability/",
+    "published": "Wed, 07 Oct 2026 10:34:52 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Security researcher Oliver Fish says he found an OpenAI sandbox escape that let him request paid AI models without an API key or an account. A screenshot shared online shows OpenAI awarding $300 for a report titled “Unauthenticated Sandbox Escape Ena",
+    "created_at": "2026-10-07T11:01:50.790649+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
+    "title": "Musician sent to prison for $10 million streaming fraud using AI bots",
+    "link": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
+    "published": "Wed, 07 Oct 2026 06:35:15 -0400",
+    "source": "BleepingComputer",
+    "summary": "A North Carolina musician was sentenced to 18 months in prison for collecting more than $10 million in royalties from Spotify, Apple Music, Amazon Music, and YouTube Music in a massive streaming royalty fraud scheme. [...]",
+    "created_at": "2026-10-07T11:01:52.897003+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166099",
+    "title": "Critical Progress DataDirect GenAI Flaw Lets Malicious OpenAPI Files Execute OS Commands",
+    "link": "https://cybersecuritynews.com/progress-datadirect-genai-flaw/",
+    "published": "Wed, 07 Oct 2026 10:49:09 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Progress disclosed critical command injection flaw CVE-2026-91140 in DataDirect Autonomous REST Connector AI Model Generator agents, allowing malicious OpenAPI or Swagger documents to execute arbitrary OS commands. The security bulletin, published on",
+    "created_at": "2026-10-07T11:01:54.994928+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165795",
+    "title": "Anthropic Mythos AI Finds Rejetto HFS Flaw That Lets Attackers Forge Admin Sessions and Execute Code",
+    "link": "https://cybersecuritynews.com/anthropic-mythos-ai-finds-rejetto-hfs-flaw/",
+    "published": "Wed, 07 Oct 2026 10:51:52 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Anthropic’s Mythos AI has identified a critical vulnerability in Rejetto HTTP File Server that could allow remote attackers to forge administrator sessions and execute arbitrary code. The issue, tracked as CVE-2026-61500, stems from predictable sessi",
+    "created_at": "2026-10-07T11:01:57.101777+00:00"
   }
 ]
