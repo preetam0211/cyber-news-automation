@@ -9493,5 +9493,14 @@
     "source": "The Hacker News",
     "summary": "Anthropic on Tuesday said it&#x27;s expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifiers, as the company claimed its Project Glass",
     "created_at": "2026-10-07T09:31:28.007861+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166088",
+    "title": "Hackers Use Fake ChatGPT, Claude and Gemini Ads to Steal Passwords and MFA Codes",
+    "link": "https://cybersecuritynews.com/hackers-use-fake-chatgpt/",
+    "published": "Wed, 07 Oct 2026 09:21:26 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are impersonating ChatGPT, Claude and Gemini with fake advertising products that steal passwords and multifactor authentication codes. Instead of delivering a conventional malware download, the campaign uses convincing websites and live human",
+    "created_at": "2026-10-07T10:01:04.099216+00:00"
   }
 ]
