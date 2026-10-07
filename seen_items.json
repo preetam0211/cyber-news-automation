@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=162353",
-    "title": "DPRK-Linked Hackers Deploy Ted Backdoor and CurlRAT Against South Korean Firms",
-    "link": "https://cybersecuritynews.com/dprk-linked-hackers/",
-    "published": "Mon, 07 Sep 2026 11:54:56 +0000",
-    "source": "CybersecurityNews",
-    "summary": "South Korean automotive and media organizations have been hit by a quiet Linux intrusion toolkit built for long-term access. The malware hides inside software that manages web traffic, allowing attackers to watch users, steal information, and change ",
-    "created_at": "2026-09-07T12:01:12.602961+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/",
     "title": "Trezor data breach impact now reaches 81,000 customers",
     "link": "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/",
@@ -9493,5 +9484,50 @@
     "source": "BleepingComputer",
     "summary": "SonicWall has released hotfixes to address a maximum-severity server-side request forgery (SSRF) flaw in SMA1000 series appliances. [...]",
     "created_at": "2026-10-07T12:01:07.026142+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
+    "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops.",
+    "link": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
+    "published": "Wed, 07 Oct 2026 17:12:24 +0530",
+    "source": "The Hacker News",
+    "summary": "If you’re evaluating an agentic pentesting solution right now, you’ve probably heard the same pitch more than once: point it at a target, and it discovers, validates, and exploits attack paths autonomously, the way a real attacker would.\n\nThat promis",
+    "created_at": "2026-10-07T12:31:07.942059+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
+    "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
+    "link": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
+    "published": "Wed, 07 Oct 2026 17:19:26 +0530",
+    "source": "The Hacker News",
+    "summary": "Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions.\n\nThe arbitrary file access flaw, tracked as CVE-2026-21589 (CVS",
+    "created_at": "2026-10-07T12:31:09.265457+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
+    "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
+    "link": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
+    "published": "Wed, 07 Oct 2026 17:26:56 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls and secure socket layer (SSL)",
+    "created_at": "2026-10-07T12:31:10.148003+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
+    "title": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
+    "link": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
+    "published": "Wed, 07 Oct 2026 17:27:05 +0530",
+    "source": "The Hacker News",
+    "summary": "The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and board scrutiny are converging inside the systems where work actually happens.\n\nFor years, the enterp",
+    "created_at": "2026-10-07T12:31:12.267136+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166130",
+    "title": "Hackers Steal Rockstar Source Code, 78.6 Million Records and Playable GTA VI Build",
+    "link": "https://cybersecuritynews.com/playable-gta-vi-build/",
+    "published": "Wed, 07 Oct 2026 12:04:11 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Rockstar Games has faced separate intrusions involving proprietary source code, 78.6 million business records, and what researchers describe as a playable GTA VI development build. The incidents span several years, rather than one attack that stole e",
+    "created_at": "2026-10-07T12:31:14.339261+00:00"
   }
 ]
