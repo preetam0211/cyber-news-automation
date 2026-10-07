@@ -9475,5 +9475,23 @@
     "source": "CybersecurityNews",
     "summary": "CrowdStrike announced its fourth annual Cybersecurity Startup Accelerator on October 6, 2026, expanding its collaboration with Amazon Web Services and NVIDIA. The global initiative will help early-stage companies develop agentic cybersecurity product",
     "created_at": "2026-10-07T15:31:20.141926+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166230",
+    "title": "Hackers Hijack .gh, .sl and .as Registry to Obtain Unauthorized HTTPS Certificates",
+    "link": "https://cybersecuritynews.com/hackers-hijack-domain-registry/",
+    "published": "Wed, 07 Oct 2026 15:39:41 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers compromised the .gh, .sl and .as country-code domain registries and used their access to obtain unauthorized HTTPS certificates for Google and other organizations. Chrome blocked the identified certificates automatically, while Google worked ",
+    "created_at": "2026-10-07T16:01:04.501448+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/",
+    "title": "Microsoft Outlook to block MSIX attachments starting November",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/",
+    "published": "Wed, 07 Oct 2026 11:44:22 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft announced that it will add .msix and .msixbundle attachments to the list of blocked attachments in Outlook Web and the new Outlook Windows client starting next month. [...]",
+    "created_at": "2026-10-07T16:01:06.578957+00:00"
   }
 ]
