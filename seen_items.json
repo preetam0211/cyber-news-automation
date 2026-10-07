@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/",
-    "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
-    "link": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/",
-    "published": "Mon, 07 Sep 2026 12:50:29 -0400",
-    "source": "BleepingComputer",
-    "summary": "A zero-day vulnerability dubbed &quot;StyleSmuggler&quot; affecting all versions of Magento and Adobe Commerce is being exploited in attacks to deploy a backdoor. [...]",
-    "created_at": "2026-09-07T17:01:12.728846+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=162442",
     "title": "Bimbo Bakeries USA Confirms Data Breach in Oracle EBS Zero-Day Attack",
     "link": "https://cybersecuritynews.com/bimbo-oracle-ebs-data-breach/",
