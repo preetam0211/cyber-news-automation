@@ -1,50 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
-    "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released",
-    "link": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
-    "published": "Mon, 07 Sep 2026 16:50:14 +0530",
-    "source": "The Hacker News",
-    "summary": "A TantoSec proof-of-concept turns an AES-CBC &quot;padding oracle&quot; in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution — but only against applications in a specific non-default configuration, and Progress patched the chain ",
-    "created_at": "2026-09-07T13:01:16.517745+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
-    "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
-    "link": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
-    "published": "Mon, 07 Sep 2026 17:06:39 +0530",
-    "source": "The Hacker News",
-    "summary": "Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly connected systems.\n\nAccording to Huntress, three unrelated incident",
-    "created_at": "2026-09-07T13:01:17.670421+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html",
-    "title": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does",
-    "link": "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html",
-    "published": "Mon, 07 Sep 2026 17:15:00 +0530",
-    "source": "The Hacker News",
-    "summary": "If managing security across multiple cloud providers wasn&#x27;t hard enough, each one fails in a different way. For the 2026 Cloud Security Index, Intruder analyzed misconfiguration data from 3,000 organizations across AWS, Azure, and Google Cloud a",
-    "created_at": "2026-09-07T13:01:19.920017+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=162373",
-    "title": "Kimsuky Hackers Use OpenCode AI Agent to Mass-Produce Phishing Decoys in LNK Attacks",
-    "link": "https://cybersecuritynews.com/kimsuky-hackers/",
-    "published": "Mon, 07 Sep 2026 13:02:44 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Kimsuky has been observed using an AI agent to produce convincing phishing decoys at scale, then hiding malware inside Windows shortcut files. The latest activity shows how ordinary-looking documents can become the first step in compromise. The campa",
-    "created_at": "2026-09-07T13:31:02.699704+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/",
-    "title": "Mathspace discloses data breach affecting over 1 million people",
-    "link": "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/",
-    "published": "Mon, 07 Sep 2026 09:05:11 -0400",
-    "source": "BleepingComputer",
-    "summary": "Online maths learning platform Mathspace disclosed over the weekend that attackers stole data from more than 1 million students, staff, and parents after breaching its Metabase internal reporting system. [...]",
-    "created_at": "2026-09-07T13:31:04.776401+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=162380",
     "title": "New BYOTC Attack Hijacks Trusted Windows Apps to Abuse Privileged Kernel Drivers",
     "link": "https://cybersecuritynews.com/new-byotc-attack-hijacks/",
@@ -9538,5 +9493,32 @@
     "source": "BleepingComputer",
     "summary": "A critical vulnerability (CVE-2026-21589) affecting multiple Atlassian product families, including Jira, Confluence, and Bitbucket, is being exploited in attacks that do not require authentication. [...]",
     "created_at": "2026-10-07T13:01:05.656316+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166154",
+    "title": "FortiBleed Attack Campaign Exploiting Fortinet Firewalls and VPNs – FBI Warns",
+    "link": "https://cybersecuritynews.com/fortibleed-attack-campaign-exploiting/",
+    "published": "Wed, 07 Oct 2026 13:19:53 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The FBI and U.S. Secret Service have issued a joint cybersecurity advisory warning that the ongoing FortiBleed campaign is targeting internet-facing Fortinet FortiGate firewalls and SSL VPN gateways worldwide. The credential-compromise operation has ",
+    "created_at": "2026-10-07T13:31:06.162446+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166187",
+    "title": "Hackers Compromise 100+ Websites With Fake Cloudflare Checks to Spread LUNEXSTEALER",
+    "link": "https://cybersecuritynews.com/spread-lunexstealer/",
+    "published": "Wed, 07 Oct 2026 13:28:36 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers compromised more than 100 websites and used fake Cloudflare verification pages to spread LUNEXSTEALER, a Windows malware capable of stealing information and accepting remote commands. The campaign turned visits to legitimate websites into opp",
+    "created_at": "2026-10-07T13:31:08.344809+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166171",
+    "title": "PoC Exploit Released for Critical Atlassian Flaw That Can Lead to Jira Admin Access",
+    "link": "https://cybersecuritynews.com/poc-exploit-released-for-atlassian-flaw/",
+    "published": "Wed, 07 Oct 2026 13:30:35 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A proof-of-concept exploit has been released for CVE-2026-21589, a critical arbitrary file-read vulnerability affecting multiple self-managed Atlassian products. The flaw can expose sensitive application files and, in environments integrated with Atl",
+    "created_at": "2026-10-07T13:31:13.843357+00:00"
   }
 ]
