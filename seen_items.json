@@ -9502,5 +9502,32 @@
     "source": "CybersecurityNews",
     "summary": "Ernst &amp; Young (EY) has warned that a cyber breach exposed personal and financial information belonging to individuals linked to Goldman Sachs and Man Group. The incident affected a platform used to support EY’s tax services, rather than the finan",
     "created_at": "2026-10-07T05:01:29.826858+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html",
+    "title": "100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer",
+    "link": "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html",
+    "published": "Wed, 07 Oct 2026 12:27:54 +0530",
+    "source": "The Hacker News",
+    "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has identified more than 100 compromised websites that have been injected with malicious JavaScript to serve an information-stealing malware called LunexStealer (aka Psychedelic Stealer).\n\nThe",
+    "created_at": "2026-10-07T08:01:42.885383+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166090",
+    "title": "Hackers Hide Vasilek Backdoor Inside VMware Tools to Target Medical Organizations",
+    "link": "https://cybersecuritynews.com/hackers-hide-vasilek-backdoor/",
+    "published": "Wed, 07 Oct 2026 07:43:24 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers concealed the Vasilek backdoor inside an existing VMware Tools installation during a prolonged intrusion at a medical organization. The attackers maintained access for approximately two years, exposing sensitive medical information while leav",
+    "created_at": "2026-10-07T08:01:50.412308+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=165860",
+    "title": "Top 10 Best DAST Tools in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-dast-tools/",
+    "published": "Wed, 07 Oct 2026 07:57:07 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A scanner that can’t authenticate, crawl a SPA, or read an API schema is testing your login page and calling it coverage. We scored ten DAST options with modern-stack capability as the qualifying bar. Evaluating the market alongside the Top 10 Best D",
+    "created_at": "2026-10-07T08:01:56.994697+00:00"
   }
 ]
