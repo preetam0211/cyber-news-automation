@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/",
-    "title": "Trezor data breach impact now reaches 81,000 customers",
-    "link": "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/",
-    "published": "Mon, 07 Sep 2026 08:16:32 -0400",
-    "source": "BleepingComputer",
-    "summary": "Cryptocurrency hardware wallet maker Trezor says an August data breach at its shipping and logistics provider, ShipMonk, affects an additional 67,000 U.S. customers. [...]",
-    "created_at": "2026-09-07T12:31:20.657930+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
     "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released",
     "link": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
@@ -9529,5 +9520,23 @@
     "source": "CybersecurityNews",
     "summary": "Rockstar Games has faced separate intrusions involving proprietary source code, 78.6 million business records, and what researchers describe as a playable GTA VI development build. The incidents span several years, rather than one attack that stole e",
     "created_at": "2026-10-07T12:31:14.339261+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166166",
+    "title": "Earth Sirrush Uses PNG Steganography and Malicious Notepad++ Plugins to Deploy Espionage Malware",
+    "link": "https://cybersecuritynews.com/earth-sirrush-uses-png/",
+    "published": "Wed, 07 Oct 2026 12:39:51 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Earth Sirrush is hiding espionage malware inside PNG images and malicious Notepad++ plugins to compromise Ukrainian organizations. The Russia-aligned group has targeted government agencies, defense organizations, border guards, and logistics operator",
+    "created_at": "2026-10-07T13:01:03.348127+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
+    "title": "Hackers exploit critical Atlassian flaw after public PoC release",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
+    "published": "Wed, 07 Oct 2026 08:49:01 -0400",
+    "source": "BleepingComputer",
+    "summary": "A critical vulnerability (CVE-2026-21589) affecting multiple Atlassian product families, including Jira, Confluence, and Bitbucket, is being exploited in attacks that do not require authentication. [...]",
+    "created_at": "2026-10-07T13:01:05.656316+00:00"
   }
 ]
