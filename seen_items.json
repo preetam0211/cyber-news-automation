@@ -9520,5 +9520,14 @@
     "source": "BleepingComputer",
     "summary": "The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out legitimate administrators. [...]",
     "created_at": "2026-10-07T21:31:13.491466+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
+    "title": "Ransomware recovery CEO charged over secret ransom payments",
+    "link": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
+    "published": "Wed, 07 Oct 2026 19:04:37 -0400",
+    "source": "BleepingComputer",
+    "summary": "The owner of ransomware remediation company MonsterCloud has been charged with allegedly defrauding ransomware victims by secretly paying their attackers for decryptors while claiming to use proprietary technology to recover encrypted data. [...]",
+    "created_at": "2026-10-07T23:31:11.459116+00:00"
   }
 ]
