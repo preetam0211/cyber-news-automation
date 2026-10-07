@@ -9502,5 +9502,14 @@
     "source": "The Hacker News",
     "summary": "Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google said on October 6.\n\nGoogle&#x27;s own systems were not breached, but any domain ending in .gh (Ghana),",
     "created_at": "2026-10-07T19:31:06.810191+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
+    "title": "Hackers hijack Google domains after breaching ccTLD registries",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
+    "published": "Wed, 07 Oct 2026 16:50:13 -0400",
+    "source": "BleepingComputer",
+    "summary": "Hackers obtained unauthorized HTTPS certificates for several Google domains and hijacked domains in the country-code top-level domains (ccTLDs) for Ghana, American Samoa, and Sierra Leone after compromising third-party operators and modifying authori",
+    "created_at": "2026-10-07T21:01:04.061002+00:00"
   }
 ]
