@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=162531",
-    "title": "SAP Security Updates September 2026 – Critical Flaws Patched in SAP NetWeaver, Cloud and Extended Passport",
-    "link": "https://cybersecuritynews.com/sap-security-updates-september-2026/",
-    "published": "Tue, 08 Sep 2026 11:19:03 +0000",
-    "source": "CybersecurityNews",
-    "summary": "SAP has released its September 2026 Security Patch Day updates, delivering 19 new security notes and one update to a previously issued note. The patches address vulnerabilities across SAP NetWeaver, SAP Extended Passport Processing, SAP Cloud Applica",
-    "created_at": "2026-09-08T11:31:15.325036+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html",
     "title": "FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials",
     "link": "https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html",
@@ -9601,5 +9592,14 @@
     "source": "CybersecurityNews",
     "summary": "A suspected lone threat actor used an AI-powered penetration-testing tool called ARTEX to breach several South Korean financial organizations and steal customer and employee data. The activity, which ran from late September to early October 2026, aff",
     "created_at": "2026-10-08T11:31:05.250815+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
+    "title": "ASOS links data breach to social engineering attack, credential theft",
+    "link": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
+    "published": "Thu, 08 Oct 2026 07:42:46 -0400",
+    "source": "BleepingComputer",
+    "summary": "ASOS is sending updates to affected customers about the cybersecurity incident it suffered earlier this week, confirming that hackers accessed some personal data. [...]",
+    "created_at": "2026-10-08T12:00:55.055567+00:00"
   }
 ]
