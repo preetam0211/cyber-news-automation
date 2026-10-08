@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html",
-    "title": "FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials",
-    "link": "https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html",
-    "published": "Tue, 08 Sep 2026 16:52:07 +0530",
-    "source": "The Hacker News",
-    "summary": "A flaw in FreeIPA lets a client that has never logged in create a Kerberos identity of its own choosing in the directory and end up in the administrators group, Red Hat says.\n\nFreeIPA is the system that determines who may log in across a Linux domain",
-    "created_at": "2026-09-08T12:01:14.099314+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2025-changes-may-cause-app-crashes/",
-    "title": "Microsoft: Windows Server 2025 changes causing app crashes",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2025-changes-may-cause-app-crashes/",
-    "published": "Tue, 08 Sep 2026 07:57:51 -0400",
-    "source": "BleepingComputer",
-    "summary": "Microsoft warned customers last week that they may experience application crashes on some Windows Server 2025 due to recent memory management changes. [...]",
-    "created_at": "2026-09-08T12:01:22.243471+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/hackers-build-ai-frameworks-for-widescale-credential-theft/",
     "title": "Hackers build AI frameworks for widescale credential theft",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-build-ai-frameworks-for-widescale-credential-theft/",
@@ -9601,5 +9583,14 @@
     "source": "BleepingComputer",
     "summary": "ASOS is sending updates to affected customers about the cybersecurity incident it suffered earlier this week, confirming that hackers accessed some personal data. [...]",
     "created_at": "2026-10-08T12:00:55.055567+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
+    "title": "Microsoft Teams to get support for third-party deepfake detection tools",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
+    "published": "Thu, 08 Oct 2026 08:08:16 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft will soon introduce support for third-party deepfake detection solutions and impersonation protection in Teams meetings. [...]",
+    "created_at": "2026-10-08T12:30:55.843995+00:00"
   }
 ]
