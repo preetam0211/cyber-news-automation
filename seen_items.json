@@ -9637,5 +9637,14 @@
     "source": "CybersecurityNews",
     "summary": "Cisco has released security updates for three critical vulnerabilities in Nexus 3000 and 9000 Series switches that could let remote attackers run code with root privileges without logging in. The flaws affect the Next Generation Operation, Administra",
     "created_at": "2026-10-08T09:01:32.327188+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
+    "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
+    "link": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
+    "published": "Thu, 08 Oct 2026 15:16:32 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have discovered a cluster of 16 malicious Mozilla Firefox extensions that are capable of stealing cryptocurrency wallet recovery phrases and private keys.\n\n&quot;The extensions masquerade as wallet portals, desktop utilities",
+    "created_at": "2026-10-08T10:01:04.071391+00:00"
   }
 ]
