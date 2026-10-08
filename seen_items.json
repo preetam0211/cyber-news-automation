@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html",
-    "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
-    "link": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html",
-    "published": "Tue, 08 Sep 2026 20:24:30 +0530",
-    "source": "The Hacker News",
-    "summary": "Whoever took nearly 4,000 bitcoin from the Liquid Network on Sunday, September 6, returned 3,400 of it the next day, Bitcoin&#x27;s public record shows. About 598.5 bitcoin has not come back.\n\nLiquid is a Bitcoin sidechain that holds real bitcoin to ",
-    "created_at": "2026-09-08T15:31:38.178111+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=162582",
-    "title": "ChatGPT Sandbox Flaw Lets Attackers Steal Gmail Data Across Accounts via Hidden Channel",
-    "link": "https://cybersecuritynews.com/chatgpt-sandbox-gmail-data/",
-    "published": "Tue, 08 Sep 2026 15:20:31 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A covert cross-account communication channel inside ChatGPT let an attacker hijack a victim’s session and silently exfiltrate data from connected apps like Gmail, all while the victim saw nothing unusual in their conversation. The vulnerability explo",
-    "created_at": "2026-09-08T15:31:40.278644+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=162541",
-    "title": "Dell Secure Connect Gateway Vulnerabilities Allow Hackers to Gain Unauthorized Access",
-    "link": "https://cybersecuritynews.com/dell-secure-connect-gateway-vulnerabilities/",
-    "published": "Tue, 08 Sep 2026 15:22:46 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Dell has disclosed three critical vulnerabilities in its Secure Connect Gateway 5.0 platform that could allow attackers to gain unauthorized access, execute commands remotely, and obtain root-level control of affected systems. The flaws affect Dell S",
-    "created_at": "2026-09-08T15:31:42.431501+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/microsoft/august-updates-trigger-0xc0000409-errors-on-windows-server-2016/",
     "title": "August updates trigger 0xc0000409 errors on Windows Server 2016",
     "link": "https://www.bleepingcomputer.com/news/microsoft/august-updates-trigger-0xc0000409-errors-on-windows-server-2016/",
@@ -9646,5 +9619,23 @@
     "source": "The Hacker News",
     "summary": "The Russia-aligned threat actor known as UAC-0099 has been attributed to a previously undocumented .NET infostealer and remote access trojan (RAT) codenamed ASHVEIN.\n\nAccording to TrendAI, the malware has been put to use in attacks targeting Ukrainia",
     "created_at": "2026-10-08T15:31:19.028494+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166477",
+    "title": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts",
+    "link": "https://cybersecuritynews.com/hikvision-camera-vulnerability-2/",
+    "published": "Thu, 08 Oct 2026 15:33:38 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Scanning and remote code execution attempts targeting video surveillance devices in Ukraine rose between September 21 and October 1, 2026. Most activity focused on CVE-2021-36260, a critical command injection flaw in unpatched Hikvision products. The",
+    "created_at": "2026-10-08T16:01:07.338705+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166490",
+    "title": "Tensorlake npm Package Compromised to Spread Shai-Hulud Worm and Steal Developer Secrets",
+    "link": "https://cybersecuritynews.com/tensorlake-npm-package/",
+    "published": "Thu, 08 Oct 2026 15:50:11 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A malicious release of the Tensorlake npm package has been published with a Shai-Hulud worm variant that can steal developer secrets and attempt to spread through connected software supply chains. The affected version, tensorlake@0.5.144, was release",
+    "created_at": "2026-10-08T16:01:08.801742+00:00"
   }
 ]
