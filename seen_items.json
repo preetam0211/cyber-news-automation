@@ -9628,5 +9628,14 @@
     "source": "The Hacker News",
     "summary": "The U.S. State Department is offering up to $10 million for information leading to the identification or location of Zhang Yu, a Chinese national charged in the United States in connection with the 2021 Microsoft Exchange Server attacks known as HAFN",
     "created_at": "2026-10-08T08:31:11.517772+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166337",
+    "title": "Critical Cisco Nexus Flaws Let Unauthenticated Attackers Execute Code With Root Privileges",
+    "link": "https://cybersecuritynews.com/critical-cisco-nexus-flaws/",
+    "published": "Thu, 08 Oct 2026 08:44:51 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cisco has released security updates for three critical vulnerabilities in Nexus 3000 and 9000 Series switches that could let remote attackers run code with root privileges without logging in. The flaws affect the Next Generation Operation, Administra",
+    "created_at": "2026-10-08T09:01:32.327188+00:00"
   }
 ]
