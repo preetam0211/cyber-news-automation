@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-astra-can-find-zero-days-but-is-also-harder-to-monitor/",
-    "title": "OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-astra-can-find-zero-days-but-is-also-harder-to-monitor/",
-    "published": "Tue, 08 Sep 2026 10:40:32 -0400",
-    "source": "BleepingComputer",
-    "summary": "OpenAI confirmed that GPT-6 Astra is the first model it has broadly deployed to reach the &quot;Critical level&quot; for cybersecurity capabilities. [...]",
-    "created_at": "2026-09-08T15:04:32.992108+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-overpass-kernel-vulnerability/",
-    "title": "SAP warns of maximum severity 'OVERPASS' kernel vulnerability",
-    "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-overpass-kernel-vulnerability/",
-    "published": "Tue, 08 Sep 2026 10:55:20 -0400",
-    "source": "BleepingComputer",
-    "summary": "SAP has addressed 20 vulnerabilities across multiple products in its September 2026 security updates, including a maximum-severity memory corruption flaw in the SAP Kernel code. [...]",
-    "created_at": "2026-09-08T15:04:44.242282+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
-    "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
-    "link": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
-    "published": "Tue, 08 Sep 2026 19:18:16 +0530",
-    "source": "The Hacker News",
-    "summary": "Threat actors are continuing to leverage artificial intelligence (AI) to streamline their operations, with one financially motivated hacking group employing an autonomous, multi-agent attack framework to carry out a large-scale credential harvesting ",
-    "created_at": "2026-09-08T15:31:11.735232+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
-    "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
-    "link": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
-    "published": "Tue, 08 Sep 2026 19:49:17 +0530",
-    "source": "The Hacker News",
-    "summary": "Check Point Research said in a report published today that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the user&#x27;s question as usual.\n\nIn the company&#x27;s proof of c",
-    "created_at": "2026-09-08T15:31:13.828470+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html",
     "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
     "link": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html",
@@ -9628,5 +9592,59 @@
     "source": "CybersecurityNews",
     "summary": "A critical Sungrow inverter vulnerability could have allowed attackers to log in to the company’s iSolarCloud management platform without a valid password. The flaw affected the cloud service used to manage solar plants, inverters, and battery storag",
     "created_at": "2026-10-08T15:01:50.987691+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
+    "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
+    "link": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
+    "published": "Thu, 08 Oct 2026 19:42:34 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have disclosed details of a targeted campaign aimed at South Korean financial organizations that used an artificial intelligence (AI) pen testing tool named ARTEX to carry out the attacks.\n\nThe activity, per CrowdStrike Inte",
+    "created_at": "2026-10-08T15:31:07.550976+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166455",
+    "title": "DarkSword iOS Exploit Platform Uses Coruna Malware to Steal Crypto Wallet Recovery Phrases",
+    "link": "https://cybersecuritynews.com/darksword-ios-exploit-platform/",
+    "published": "Thu, 08 Oct 2026 15:06:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "DarkSword operators are using Coruna malware to steal cryptocurrency wallet recovery phrases from iPhones, turning browser exploits into a ready-to-use theft service. Exposed server directories revealed wallet modules, command systems, and records of",
+    "created_at": "2026-10-08T15:31:09.773047+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166464",
+    "title": "Microsoft Teams Adds Synthetic Audio and Video Detection to Fight Deepfake Meeting Attacks",
+    "link": "https://cybersecuritynews.com/microsoft-teams-deepfake-detection/",
+    "published": "Thu, 08 Oct 2026 15:10:35 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft Teams is preparing to support synthetic audio and video detection to help organizations spot deepfake attacks. The feature will connect Teams with certified third-party providers that check meeting media for signs of manipulation. Microsoft",
+    "created_at": "2026-10-08T15:31:12.013680+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166467",
+    "title": "Hackers Use Fake Firefox Wallet Extensions to Steal Crypto Recovery Phrases",
+    "link": "https://cybersecuritynews.com/fake-firefox-wallet-extensions/",
+    "published": "Thu, 08 Oct 2026 15:26:03 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers have used 16 malicious Firefox extensions to target cryptocurrency users with fake wallet screens that capture recovery phrases and private keys. The add-ons posed as wallet portals, desktop tools, and browser utilities, while hidden code att",
+    "created_at": "2026-10-08T15:31:14.517906+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
+    "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
+    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
+    "published": "Thu, 08 Oct 2026 11:26:33 -0400",
+    "source": "BleepingComputer",
+    "summary": "Cisco released security advisories for five critical vulnerabilities in its NX-OS data center network operating system that could be exploited to run arbitrary code with root privileges on Nexus switches. [...]",
+    "created_at": "2026-10-08T15:31:16.755058+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
+    "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
+    "link": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
+    "published": "Thu, 08 Oct 2026 20:56:56 +0530",
+    "source": "The Hacker News",
+    "summary": "The Russia-aligned threat actor known as UAC-0099 has been attributed to a previously undocumented .NET infostealer and remote access trojan (RAT) codenamed ASHVEIN.\n\nAccording to TrendAI, the malware has been put to use in attacks targeting Ukrainia",
+    "created_at": "2026-10-08T15:31:19.028494+00:00"
   }
 ]
