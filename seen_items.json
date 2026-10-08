@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/hackers-build-ai-frameworks-for-widescale-credential-theft/",
-    "title": "Hackers build AI frameworks for widescale credential theft",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-build-ai-frameworks-for-widescale-credential-theft/",
-    "published": "Tue, 08 Sep 2026 08:03:03 -0400",
-    "source": "BleepingComputer",
-    "summary": "Threat actors are increasingly switching from AI-powered coding assistants to multi-agent frameworks that automate every stage of an attack. [...]",
-    "created_at": "2026-09-08T12:31:34.324683+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=162555",
-    "title": "WeWorm – First 0-Click Worm Spreading Through WeChat Calls Across iOS and Android",
-    "link": "https://cybersecuritynews.com/weworm-first-0-click-worm/",
-    "published": "Tue, 08 Sep 2026 12:09:47 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A proof-of-concept zero-click worm dubbed “WeWorm” that it says can spread through WeChat voice calls on both iOS and Android, compromising a target’s WeChat account in seconds without the victim answering the call. Calif says the bug was reported to",
-    "created_at": "2026-09-08T12:31:36.383554+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=162518",
-    "title": "Hackers Disable Endpoint Protection and Deploy Sliver Across Compromised Windows Domain",
-    "link": "https://cybersecuritynews.com/hackers-disable-endpoint-protection/",
-    "published": "Tue, 08 Sep 2026 12:10:57 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A new intrusion campaign shows how quickly a Windows domain can be turned into a launchpad for deeper compromise. The operators used a Sliver command-and-control beacon, account creation, credential theft and remote administration to establish contro",
-    "created_at": "2026-09-08T12:31:44.442330+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=162561",
-    "title": "Claude Mythos AI Autonomously Executes Full Cyber Kill Chain Without Human Guidance",
-    "link": "https://cybersecuritynews.com/claude-mythos-ai/",
-    "published": "Tue, 08 Sep 2026 12:50:47 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Claude Mythos is the first model reported to complete a cyber kill chain without step-by-step human direction. The finding does not describe malware or a confirmed victim breach. It is a controlled test, but shows how quickly autonomous attack capabi",
-    "created_at": "2026-09-08T13:01:07.407283+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html",
     "title": "What It Took to Reach 1 Billion Build Manifests",
     "link": "https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html",
@@ -9592,5 +9556,23 @@
     "source": "BleepingComputer",
     "summary": "Microsoft will soon introduce support for third-party deepfake detection solutions and impersonation protection in Teams meetings. [...]",
     "created_at": "2026-10-08T12:30:55.843995+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166387",
+    "title": "GhostAction Supply Chain Campaign Uses Malicious GitHub Actions to Steal CI/CD Credentials",
+    "link": "https://cybersecuritynews.com/ghostaction-supply-chain-campaign/",
+    "published": "Thu, 08 Oct 2026 12:32:17 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new wave of the GhostAction supply chain campaign has compromised 772 public GitHub repositories, using fake GitHub Actions workflow files to steal credentials from CI/CD environments. The activity ran from August 31 through September 30, 2026, and",
+    "created_at": "2026-10-08T13:01:06.735526+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166392",
+    "title": "Hackers Exploit Critical Citrix NetScaler Flaw to Deploy Web Shells and Steal Configuration Data",
+    "link": "https://cybersecuritynews.com/citrix-netscaler-flaw/",
+    "published": "Thu, 08 Oct 2026 12:55:05 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are exploiting CVE-2026-88771, a critical Citrix NetScaler vulnerability, to run commands, install web shells, and collect appliance configuration data. The activity goes beyond simple testing, with malicious scripts designed to maintain acce",
+    "created_at": "2026-10-08T13:01:08.806806+00:00"
   }
 ]
