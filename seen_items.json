@@ -9574,5 +9574,14 @@
     "source": "CybersecurityNews",
     "summary": "Hackers are exploiting CVE-2026-88771, a critical Citrix NetScaler vulnerability, to run commands, install web shells, and collect appliance configuration data. The activity goes beyond simple testing, with malicious scripts designed to maintain acce",
     "created_at": "2026-10-08T13:01:08.806806+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
+    "title": "Uranium crypto exchange hacker convicted for stealing $53 million",
+    "link": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
+    "published": "Thu, 08 Oct 2026 09:18:36 -0400",
+    "source": "BleepingComputer",
+    "summary": "A Maryland man was found guilty of stealing more than $53 million after hacking the decentralized crypto exchange Uranium Finance twice in April 2021. [...]",
+    "created_at": "2026-10-08T13:31:06.062712+00:00"
   }
 ]
