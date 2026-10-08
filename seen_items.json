@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=162634",
-    "title": "Massive Microsoft Patch Tuesday September 2026 – 973 Vulnerabilities Fixed, Including 2 Zero-Days",
-    "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-september-2026/",
-    "published": "Tue, 08 Sep 2026 17:46:31 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Microsoft released its September 2026 Patch Tuesday security updates on September 8, addressing 973 vulnerabilities, including two zero-days already exploited in attacks. This massive patch follows the recent Microsoft update on artificial intelligen",
-    "created_at": "2026-09-08T18:31:01.909481+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=162523",
-    "title": "Phishing Powers 80% of Attacks on US Companies: How SOCs Can Detect It Early",
-    "link": "https://cybersecuritynews.com/phishing-powers-80-of-attacks-on-us-companies-how-socs-can-detect-it-early/",
-    "published": "Tue, 08 Sep 2026 17:54:52 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Phishing remains one of the most effective ways for attackers to gain access to corporate environments. From 2013-2023, the FBI recorded 158,436 US victims of Business Email Compromise (BEC), with over $20 billion in reported losses.  The FBI specifi",
-    "created_at": "2026-09-08T18:31:03.896717+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/",
-    "title": "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/",
-    "published": "Tue, 08 Sep 2026 14:18:05 -0400",
-    "source": "BleepingComputer",
-    "summary": "Today is Microsoft&#x27;s September 2026 Patch Tuesday, with security updates released for a record-breaking 966 flaws, including two actively exploited zero-day vulnerabilities. [...]",
-    "created_at": "2026-09-08T18:31:05.273735+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/",
     "title": "Microsoft releases Windows 10 KB5122878 extended security update",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/",
