@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=162576",
-    "title": "Reflectiz Launches Agentic Pentesting for Websites: Up to 10x Coverage vs Conventional Pentests",
-    "link": "https://cybersecuritynews.com/reflectiz-launches-agentic-pentesting-for-websites-up-to-10x-coverage-vs-conventional-pentests/",
-    "published": "Tue, 08 Sep 2026 14:02:40 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Boston, MA, USA, September 8th, 2026, CyberNewswire Specialized team of AI agents that discover, attack, and validate web vulnerabilities, leveraging pre-existing site context to eliminate noise and speed remediation.  Reflectiz, the continuous web e",
-    "created_at": "2026-09-08T14:31:03.395702+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-astra-can-find-zero-days-but-is-also-harder-to-monitor/",
     "title": "OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-astra-can-find-zero-days-but-is-also-harder-to-monitor/",
@@ -9547,5 +9538,14 @@
     "source": "CybersecurityNews",
     "summary": "Raheim Hamilton, co-creator of Empire Market, was sentenced to 40 years in federal prison for running a dark web marketplace that handled more than $430 million in illegal transactions. The 30-year-old Suffolk, Virginia, resident also received a $5 m",
     "created_at": "2026-10-08T14:01:30.211876+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
+    "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
+    "link": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
+    "published": "Thu, 08 Oct 2026 10:00:10 -0400",
+    "source": "BleepingComputer",
+    "summary": "OAuth grants create data highways between SaaS apps, AI agents, and other tools. And, they are multiplying faster than any security team can review them. As the recent Klue breach showed, attackers are taking notice and exploiting forgotten OAuth gra",
+    "created_at": "2026-10-08T14:31:31.945383+00:00"
   }
 ]
