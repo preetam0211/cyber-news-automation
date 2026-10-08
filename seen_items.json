@@ -9547,5 +9547,23 @@
     "source": "CybersecurityNews",
     "summary": "Elastic published 14 security advisories covering Elasticsearch, Kibana, and Elastic Agent/Endpoint, including a high-severity Kibana flaw that lets delegated Fleet users intercept data from other users or teams. Tracked as CVE-2026-102406, the Kiban",
     "created_at": "2026-10-08T04:31:23.426184+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
+    "title": "Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm",
+    "link": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
+    "published": "Thu, 08 Oct 2026 11:16:20 +0530",
+    "source": "The Hacker News",
+    "summary": "The npm package known as &quot;tensorlake,&quot; a TypeScript software development kit (SDK) for Tensorlake applications, sandboxes, and cloud services, was compromised as part of a ChainDrop / Shai-Hulud supply chain attack.\n\nThe malicious version 0",
+    "created_at": "2026-10-08T07:01:07.916288+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/",
+    "title": "Samsung Galaxy S26 hacked three more times at Pwn2Own Ireland",
+    "link": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/",
+    "published": "Thu, 08 Oct 2026 02:32:16 -0400",
+    "source": "BleepingComputer",
+    "summary": "​​​On the second day of Pwn2Own Ireland 2026, security researchers collected $232,500 in cash awards after exploiting 45 unique zero-day vulnerabilities. [...]",
+    "created_at": "2026-10-08T07:01:23.878100+00:00"
   }
 ]
