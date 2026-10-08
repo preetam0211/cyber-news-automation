@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/",
-    "title": "220 million traveler records exposed in Vietnam-linked APIS leak",
-    "link": "https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/",
-    "published": "Tue, 08 Sep 2026 03:35:50 -0400",
-    "source": "BleepingComputer",
-    "summary": "Exclusive: An exposed Advance Passenger Information System (APIS) database held 220 million passenger and crew records containing names, passport numbers, dates of birth, nationalities, and flight details spanning 2017 to 2026. Researchers accessed t",
-    "created_at": "2026-09-08T08:01:46.497943+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=162465",
-    "title": "ShinyHunters Gained Access to 6 Million Customers’ Records Using a Single Call",
-    "link": "https://cybersecuritynews.com/shinyhunters-6-million-customers-records-odido/",
-    "published": "Tue, 08 Sep 2026 07:43:37 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A single phone call was all it took to trigger one of the largest data breaches in Dutch history. In early February 2026, Dutch telecom giant Odido and its budget subsidiary Ben became the latest casualties of ShinyHunters, a hacking and extortion co",
-    "created_at": "2026-09-08T08:02:17.049561+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
     "title": "Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing",
     "link": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
@@ -9610,5 +9592,32 @@
     "source": "CybersecurityNews",
     "summary": "Your API count is wrong every traffic-based discovery deployment proves it and business-logic abuse rides valid-looking requests straight past WAF signatures. As enterprise architectures decompose into distributed microservices and third-party integr",
     "created_at": "2026-10-08T07:32:26.973249+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166242",
+    "title": "Top 10 Best Software Supply Chain Security Tools in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-supply-chain-security-tools/",
+    "published": "Thu, 08 Oct 2026 07:31:57 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The supply chain is four attack surfaces wearing one buzzword dependencies, pipelines, artifacts, and base images and no vendor covers all four. We scored ten tools with surface-coverage honesty weighted highest. With modern threat actors executing s",
+    "created_at": "2026-10-08T08:01:26.983298+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166288",
+    "title": "Top 10 Best Secrets Detection Tools in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-secrets-detection-tools/",
+    "published": "Thu, 08 Oct 2026 07:34:41 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Attackers don’t crack what they can copy and leaked API keys sit in git history, Slack threads, and cloud workloads waiting. Evaluating the landscape alongside the Top 10 Best Secrets Management Tools in 2026 shows that while vaults manage credential",
+    "created_at": "2026-10-08T08:01:52.030386+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166334",
+    "title": "MALFEX npm Malware Hides Executables in PNG Files to Infect Windows Developers",
+    "link": "https://cybersecuritynews.com/malfex-npm-malware/",
+    "published": "Thu, 08 Oct 2026 07:51:30 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A long-running npm malware campaign called MALFEX is targeting Windows developers with remote access tools, data stealers, and hidden downloaders. The attack uses eight malicious packages and three separate delivery paths, including a Windows executa",
+    "created_at": "2026-10-08T08:02:38.997683+00:00"
   }
 ]
