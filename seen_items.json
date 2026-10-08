@@ -9565,5 +9565,14 @@
     "source": "BleepingComputer",
     "summary": "A malware campaign dubbed &#x27;Midnight Mimosa&#x27; has been discovered on low-cost Android smartphones that ship with malicious software embedded in their firmware, allowing attackers to silently install apps, perform ad fraud, and turn devices in",
     "created_at": "2026-10-08T19:32:23.985197+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/",
+    "title": "Ransomware attack disrupts Japan's IDCF Cloud used by govt clients",
+    "link": "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/",
+    "published": "Thu, 08 Oct 2026 16:09:45 -0400",
+    "source": "BleepingComputer",
+    "summary": "IDC Frontier, a major Japanese cloud and digital infrastructure company, disclosed that its IDCF Cloud service was targeted in a ransomware attack that caused an outage at a data center cluster serving the eastern part of the country. [...]",
+    "created_at": "2026-10-08T20:31:02.086465+00:00"
   }
 ]
