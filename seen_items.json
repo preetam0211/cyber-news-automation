@@ -9529,5 +9529,32 @@
     "source": "BleepingComputer",
     "summary": "The owner of ransomware remediation company MonsterCloud has been charged with allegedly defrauding ransomware victims by secretly paying their attackers for decryptors while claiming to use proprietary technology to recover encrypted data. [...]",
     "created_at": "2026-10-07T23:31:11.459116+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166282",
+    "title": "U.S. Offers $10 Million Reward for Chinese Hacker Who Tried to Steal COVID-19 Research",
+    "link": "https://cybersecuritynews.com/u-s-offers-10-million-reward-chinese-hacker/",
+    "published": "Thu, 08 Oct 2026 02:37:46 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The U.S. Department of State is offering up to $10 million for information on Zhang Yu, a Chinese national accused of helping hackers target American COVID-19 research. The Rewards for Justice notice seeks details about Zhang, his associates, and the",
+    "created_at": "2026-10-08T04:31:10.626057+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166304",
+    "title": "Claude Haiku 5.5 – Cheapest Model with Enhanced Coding and Computer Use.",
+    "link": "https://cybersecuritynews.com/claude-haiku-5-5/",
+    "published": "Thu, 08 Oct 2026 03:28:08 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Anthropic has released Claude Haiku 5.5, its newest small AI model. The company says it is the cheapest, fastest, and most capable small model it has ever built, and the lower cost is the biggest change for teams that run AI at scale. Anthropic launc",
+    "created_at": "2026-10-08T04:31:18.547429+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166129",
+    "title": "Elastic Fixes 14 Security Flaws Including One That Lets Attackers Intercept Other Users’ Data",
+    "link": "https://cybersecuritynews.com/elastic-fixes-14-security-flaws/",
+    "published": "Thu, 08 Oct 2026 03:41:40 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Elastic published 14 security advisories covering Elasticsearch, Kibana, and Elastic Agent/Endpoint, including a high-severity Kibana flaw that lets delegated Fleet users intercept data from other users or teams. Tracked as CVE-2026-102406, the Kiban",
+    "created_at": "2026-10-08T04:31:23.426184+00:00"
   }
 ]
