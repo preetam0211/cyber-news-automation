@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=162665",
-    "title": "Chrome 153 Fixes 230 Vulnerabilities, Including One 0-Day Exploited in the Wild",
-    "link": "https://cybersecuritynews.com/chrome-153-released/",
-    "published": "Wed, 09 Sep 2026 04:46:12 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Google has rolled out Chrome 153 to the stable channel for Windows, Mac, and Linux, shipping as version 153.0.8010.36 on Linux and 153.0.8010.36/.37 on Windows and Mac. The update will reach users over the coming days and weeks and includes 230 secur",
-    "created_at": "2026-09-09T06:01:08.247200+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
     "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
     "link": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
@@ -9556,5 +9547,14 @@
     "source": "CybersecurityNews",
     "summary": "Anthropic launched its Anthropic Cyber Mission on October 8, 2026, to help security teams protect critical infrastructure and open-source software. The effort combines advanced Claude models, engineers, threat research, and funding, with an emphasis ",
     "created_at": "2026-10-09T03:31:03.697265+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
+    "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
+    "published": "Fri, 09 Oct 2026 01:41:04 -0400",
+    "source": "BleepingComputer",
+    "summary": "The Pwn2Own Ireland 2026 hacking contest has concluded, with hackers collecting $1,262,000 in rewards after exploiting 98 zero-day flaws. [...]",
+    "created_at": "2026-10-09T06:01:19.723456+00:00"
   }
 ]
