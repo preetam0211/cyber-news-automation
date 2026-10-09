@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=162626",
-    "title": "FortiSandbox Vulnerability Allows Attackers to Access Sensitive Information via Crafted HTTP Requests",
-    "link": "https://cybersecuritynews.com/fortisandbox-vulnerability-access-sensitive-data/",
-    "published": "Wed, 09 Sep 2026 03:08:26 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Fortinet has disclosed a new high-severity vulnerability affecting its FortiSandbox platform, warning that unauthenticated attackers could exploit weaknesses in the product’s web interface to siphon off sensitive information without ever needing vali",
-    "created_at": "2026-09-09T03:31:27.190142+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html",
     "title": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
     "link": "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html",
