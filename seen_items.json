@@ -9547,5 +9547,23 @@
     "source": "BleepingComputer",
     "summary": "The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub, used in attacks that breached critical infrastructure and other organizations worldwide. [...]",
     "created_at": "2026-10-08T22:01:09.398107+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166532",
+    "title": "Citrix Urges NetScaler ADC and Gateway Customers to Patch for New Critical RCE Vulnerability",
+    "link": "https://cybersecuritynews.com/citrix-netscaler-adc-and-gateway-rce/",
+    "published": "Fri, 09 Oct 2026 01:50:27 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Citrix has urged customers to patch a critical security flaw in NetScaler ADC and NetScaler Gateway that could allow remote code execution or cause a denial of service. Tracked as CVE-2026-107406, the memory overflow vulnerability carries a CVSS v4.0",
+    "created_at": "2026-10-09T02:31:17.798077+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166535",
+    "title": "FBI Seized Vulnerability Scanning and Spear Phishing Tools Used by China-Linked Hackers",
+    "link": "https://cybersecuritynews.com/fbi-seized-chinese-hacking-tools/",
+    "published": "Fri, 09 Oct 2026 02:24:20 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The FBI and U.S. Justice Department have seized seven domains tied to Microscan and FishHub, two hacking tools allegedly operated by China-based Integrity Technology Group. Announced on October 8, 2026, the court-authorized action aims to cut access ",
+    "created_at": "2026-10-09T02:31:19.749520+00:00"
   }
 ]
