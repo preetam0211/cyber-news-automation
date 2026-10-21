@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
-    "title": "Google fined €403 million over location data privacy violations",
-    "link": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
-    "published": "Mon, 21 Sep 2026 11:41:22 -0400",
-    "source": "BleepingComputer",
-    "summary": "Ireland&#x27;s Data Protection Commission (DPC) has fined Google €403 million ($463M) for multiple GDPR violations related to processing users&#x27; location data. [...]",
-    "created_at": "2026-09-21T16:01:10.666869+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=164212",
     "title": "Claude Code Agent Allegedly Deletes 48,000 Files in 103 Seconds",
     "link": "https://cybersecuritynews.com/claude-code-agent-file-deletion/",
@@ -6433,5 +6424,14 @@
     "source": "CybersecurityNews",
     "summary": "A ransomware operation known as The Gentlemen is using a mix of security tampering, service disruption and file encryption to make recovery harder for affected organizations. Its Windows malware can turn off Microsoft Defender’s real-time protection,",
     "created_at": "2026-10-21T15:31:15.793433+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168208",
+    "title": "Hackers Use AI-Powered Browsers to Hide Thousands of Fake Accounts and Bypass Security Detection",
+    "link": "https://cybersecuritynews.com/hackers-use-ai-powered-browsers/",
+    "published": "Wed, 21 Oct 2026 15:54:49 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cybercriminals are using AI-enabled “antidetect” browsers to manage large networks of fake online accounts while making each profile appear to come from a different person, device, or location. Check Point Research reported that these tools can help ",
+    "created_at": "2026-10-21T16:01:10.662381+00:00"
   }
 ]
