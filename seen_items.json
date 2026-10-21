@@ -6334,5 +6334,95 @@
     "source": "BleepingComputer",
     "summary": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]",
     "created_at": "2026-10-21T14:38:55.153875+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168113",
+    "title": "Massive Oracle Security Update – 1295 Flaws Patched, Including Critical E-Business Suite Vulnerability",
+    "link": "https://cybersecuritynews.com/massive-oracle-security-update/",
+    "published": "Wed, 21 Oct 2026 11:26:20 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Oracle has released its October 2026 Critical Patch Update, delivering 1,295 new security patches across its software portfolio. Published on October 20. The update includes a maximum-severity Oracle E-Business Suite vulnerability that allows attacke",
+    "created_at": "2026-10-21T15:01:03.113943+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168131",
+    "title": "Hackers Use Claude AI to Plan Ransomware Attacks, Then Accidentally Expose Their Secrets",
+    "link": "https://cybersecuritynews.com/hackers-use-claude-ai/",
+    "published": "Wed, 21 Oct 2026 11:49:02 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Ransomware operators used commercial AI tools to help plan intrusions, manage victim information and prepare extortion, according to a new investigation. But the systems they relied on also kept detailed records of their work. A publicly accessible s",
+    "created_at": "2026-10-21T15:01:05.261389+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168133",
+    "title": "Cloudflare Detects Early Exploitation Attempts Targeting Two Leaked PHP Vulnerabilities",
+    "link": "https://cybersecuritynews.com/php-early-exploitation-attempts/",
+    "published": "Wed, 21 Oct 2026 11:56:41 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cloudflare says it is seeing early attempts to exploit two critical PHP vulnerabilities whose details surfaced before the PHP security team’s planned release. The company has deployed an initial set of Web Application Firewall (WAF) rules to block kn",
+    "created_at": "2026-10-21T15:01:07.860160+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168136",
+    "title": "Rust 1.100 Introduces Cargo Security Cooldowns to Prevent Malicious Dependency Attacks",
+    "link": "https://cybersecuritynews.com/rust-1-100-introduces-cargo-security/",
+    "published": "Wed, 21 Oct 2026 12:28:12 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Rust 1.100 will introduce optional security cooldowns in Cargo, giving developers a way to delay newly published dependencies before they enter projects. Scheduled for November 12, 2026, the release aims to give security teams and package maintainers",
+    "created_at": "2026-10-21T15:01:09.958978+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168147",
+    "title": "Scattered Spider Hackers Exploit Help Desk Calls to Bypass MFA and Breach Corporate Networks",
+    "link": "https://cybersecuritynews.com/scattered-spider-hackers/",
+    "published": "Wed, 21 Oct 2026 12:45:20 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A convincing phone call can be enough to open a path into a company network. Scattered Spider has repeatedly used social engineering to persuade help desk workers to reset passwords or move multi-factor authentication (MFA) to a device controlled by ",
+    "created_at": "2026-10-21T15:01:12.216156+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168084",
+    "title": "Industrial Defender Unifies Endpoint Intelligence and Network Monitoring for CIP-015, Adds Risk Signal",
+    "link": "https://cybersecuritynews.com/industrial-defender-unifies-endpoint-intelligence-and-network-monitoring-for-cip-015-adds-risk-signal/",
+    "published": "Wed, 21 Oct 2026 13:01:37 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Orlando, Florida, United States, October 20th, 2026, CyberNewswire Industrial Defender Unifies Endpoint Intelligence and Network Monitoring for CIP-015, Adds Risk Signal to Turn Findings into Prioritized Patch Plans New internal network security moni",
+    "created_at": "2026-10-21T15:01:25.087408+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168127",
+    "title": "Google Releases Massive Chrome Security Update Fixing 353 Flaws, Including 6 Critical Vulnerabilities",
+    "link": "https://cybersecuritynews.com/chrome-security-update-fixing-353-flaws/",
+    "published": "Wed, 21 Oct 2026 14:07:36 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Google released Chrome 156 for Windows, macOS, and Linux on October 20, 2026, fixing 353 security flaws, including six critical bugs across graphics, accessibility, rendering, and communication features. Google says the release will reach users over ",
+    "created_at": "2026-10-21T15:01:27.302986+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168096",
+    "title": "Hackers Hijack 333 Tor Exit Nodes to Intercept SSH Logins and Steal Credentials",
+    "link": "https://cybersecuritynews.com/hackers-hijack-333-tor-exit-nodes/",
+    "published": "Wed, 21 Oct 2026 14:17:44 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers compromised 333 Tor exit nodes and redirected SSH connections to password-stealing servers, according to a researcher’s account published October 20, 2026. The campaign began October 2 and targeted unencrypted email traffic alongside remote s",
+    "created_at": "2026-10-21T15:01:29.461977+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168174",
+    "title": "APT28 Hackers Open Secret SSH Tunnel Into NATO Country’s Naval Shipbuilder Network",
+    "link": "https://cybersecuritynews.com/apt28-hackers/",
+    "published": "Wed, 21 Oct 2026 14:37:17 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Russian cyberespionage group APT28 used the Hookedge backdoor to reach a naval shipbuilder’s network in a NATO member state, steal login material and set up a hidden SSH tunnel. The intrusion lasted at least two months, according to a report by Syman",
+    "created_at": "2026-10-21T15:01:31.542988+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168178",
+    "title": "PHP Releases Emergency Patches for PHP2Shell Flaws Threatening Millions of Web Servers",
+    "link": "https://cybersecuritynews.com/php-releases-emergency-patches/",
+    "published": "Wed, 21 Oct 2026 14:38:17 +0000",
+    "source": "CybersecurityNews",
+    "summary": "PHP has released emergency security updates for two critical vulnerabilities that could let unauthenticated attackers run code on vulnerable web servers. Tracked as CVE-2026-109618 and CVE-2026-109619, and collectively called PHP2Shell, the flaws aff",
+    "created_at": "2026-10-21T15:01:32.853443+00:00"
   }
 ]
