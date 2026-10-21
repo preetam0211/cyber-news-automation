@@ -6442,5 +6442,23 @@
     "source": "BleepingComputer",
     "summary": "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]",
     "created_at": "2026-10-21T16:31:12.587972+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168144",
+    "title": "Node.js Releases Security Updates to Fix High-Severity TLS, DNS and Brotli Vulnerabilities",
+    "link": "https://cybersecuritynews.com/node-js-releases-security-updates/",
+    "published": "Wed, 21 Oct 2026 16:33:58 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Node.js has released security updates for its 26.x, 24.x, and 22.x branches to address ten vulnerabilities, including four high-severity flaws affecting DNS lookups, TLS certificate checks, and Brotli decompression. The supplied release details ident",
+    "created_at": "2026-10-21T17:01:03.821032+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168177",
+    "title": "The AI Adoption Blind Spot: How Fake AI Tools Put Enterprises at Risk",
+    "link": "https://cybersecuritynews.com/the-ai-adoption-blind-spot-how-fake-ai-tools-put-enterprises-at-risk/",
+    "published": "Wed, 21 Oct 2026 16:53:38 +0000",
+    "source": "CybersecurityNews",
+    "summary": "AI adoption is accelerating across enterprises, with employees increasingly relying on platforms like ChatGPT, Claude, and Microsoft Copilot for everyday work. Cybercriminals are exploiting this growing trust, distributing malicious applications disg",
+    "created_at": "2026-10-21T17:01:13.039752+00:00"
   }
 ]
