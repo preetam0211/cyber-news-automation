@@ -6460,5 +6460,14 @@
     "source": "CybersecurityNews",
     "summary": "AI adoption is accelerating across enterprises, with employees increasingly relying on platforms like ChatGPT, Claude, and Microsoft Copilot for everyday work. Cybercriminals are exploiting this growing trust, distributing malicious applications disg",
     "created_at": "2026-10-21T17:01:13.039752+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
+    "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
+    "link": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
+    "published": "Wed, 21 Oct 2026 22:03:47 +0530",
+    "source": "The Hacker News",
+    "summary": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and one GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks.\n\nThe AI company said the incident t",
+    "created_at": "2026-10-21T17:30:58.146055+00:00"
   }
 ]
