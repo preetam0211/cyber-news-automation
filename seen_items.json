@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
-    "title": "CISA alerts of active exploitation of three Linux kernel flaws",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
-    "published": "Mon, 21 Sep 2026 16:12:17 -0400",
-    "source": "BleepingComputer",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical. [...]",
-    "created_at": "2026-09-21T20:31:20.662954+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
     "title": "BigCommerce alerts merchants of data breach linked to Ribon apps",
     "link": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
@@ -6433,5 +6424,14 @@
     "source": "The Hacker News",
     "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014.\n\nThe fix matters even for administrators who ",
     "created_at": "2026-10-21T20:01:08.242402+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
+    "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
+    "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
+    "published": "Wed, 21 Oct 2026 16:31:48 -0400",
+    "source": "BleepingComputer",
+    "summary": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
+    "created_at": "2026-10-21T21:01:13.910120+00:00"
   }
 ]
