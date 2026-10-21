@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
-    "title": "BigCommerce alerts merchants of data breach linked to Ribon apps",
-    "link": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
-    "published": "Mon, 21 Sep 2026 17:18:49 -0400",
-    "source": "BleepingComputer",
-    "summary": "Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applications and used them to inject malicious scripts into online stores. [...]",
-    "created_at": "2026-09-21T21:31:32.923503+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=164233",
     "title": "Meta’s Muse AI Agent 0-Day Vulnerability Allows Attackers to Hijack the Tool and Inject Malware",
     "link": "https://cybersecuritynews.com/metas-muse-ai-agent-0-day-vulnerability/",
@@ -6433,5 +6424,14 @@
     "source": "BleepingComputer",
     "summary": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
     "created_at": "2026-10-21T21:01:13.910120+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
+    "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
+    "link": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
+    "published": "Wed, 21 Oct 2026 17:43:27 -0400",
+    "source": "BleepingComputer",
+    "summary": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers&#x27; servers. [...]",
+    "created_at": "2026-10-21T22:01:15.303671+00:00"
   }
 ]
