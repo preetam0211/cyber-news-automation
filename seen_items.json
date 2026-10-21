@@ -6433,5 +6433,14 @@
     "source": "BleepingComputer",
     "summary": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers&#x27; servers. [...]",
     "created_at": "2026-10-21T22:01:15.303671+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
+    "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
+    "link": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
+    "published": "Wed, 21 Oct 2026 18:16:26 -0400",
+    "source": "BleepingComputer",
+    "summary": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
+    "created_at": "2026-10-21T22:31:09.065470+00:00"
   }
 ]
