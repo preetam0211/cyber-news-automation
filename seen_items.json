@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
-    "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
-    "link": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
-    "published": "Mon, 21 Sep 2026 19:45:40 +0530",
-    "source": "The Hacker News",
-    "summary": "Cybersecurity researchers have disclosed details of a new campaign dubbed TASK#STOMP that delivers a PowerShell backdoor designed to harvest sensitive data from compromised hosts.\n\nThe backdoor &quot;automatically harvests and exfiltrates business do",
-    "created_at": "2026-09-21T15:01:43.082813+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
-    "title": "⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
-    "link": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
-    "published": "Mon, 21 Sep 2026 19:54:13 +0530",
-    "source": "The Hacker News",
-    "summary": "A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week.\n\nThe trouble keeps showing up inside things people already trust: code that takes a bad turn, old payloads coming back, exposed systems, weak check",
-    "created_at": "2026-09-21T15:01:45.316435+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=164199",
-    "title": "Microsoft Entra ID to Block SMS First-Factor Sign-Ins Worldwide in February 2027",
-    "link": "https://cybersecuritynews.com/entra-id-sms-sign-in-retirement/",
-    "published": "Mon, 21 Sep 2026 14:40:37 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Microsoft is retiring SMS first-factor sign-in for Microsoft Entra ID workforce tenants worldwide and requires organizations to migrate affected users before February 1, 2027. The security-focused change will prevent employees from using a registered",
-    "created_at": "2026-09-21T15:01:47.502525+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
-    "title": "Microsoft fixes broken Excel copy and paste for all Office users",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
-    "published": "Mon, 21 Sep 2026 10:42:37 -0400",
-    "source": "BleepingComputer",
-    "summary": "Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates. [...]",
-    "created_at": "2026-09-21T15:01:49.801546+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
     "title": "Google fined €403 million over location data privacy violations",
     "link": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
@@ -6424,5 +6388,50 @@
     "source": "CybersecurityNews",
     "summary": "PHP has released emergency security updates for two critical vulnerabilities that could let unauthenticated attackers run code on vulnerable web servers. Tracked as CVE-2026-109618 and CVE-2026-109619, and collectively called PHP2Shell, the flaws aff",
     "created_at": "2026-10-21T15:01:32.853443+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
+    "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
+    "link": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
+    "published": "Wed, 21 Oct 2026 19:30:00 +0530",
+    "source": "The Hacker News",
+    "summary": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35, and the PHP team says only updating fully ",
+    "created_at": "2026-10-21T15:31:03.065024+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168185",
+    "title": "China-Linked Hackers Turn Trusted Windows Applications Into Backdoors to Steal Credentials",
+    "link": "https://cybersecuritynews.com/china-linked-hackers/",
+    "published": "Wed, 21 Oct 2026 15:04:18 +0000",
+    "source": "CybersecurityNews",
+    "summary": "China-linked hackers are using trusted Windows applications to load hidden backdoors, collect system details, and steal Active Directory credential data. The group, tracked as BRONZE SANDCASTLE, places malicious files beside legitimate software, allo",
+    "created_at": "2026-10-21T15:31:04.102655+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168202",
+    "title": "LiteLLM Compromised – Hackers Injected an Infostealer and RAT in the Latest 1.107.0 PyPI Release",
+    "link": "https://cybersecuritynews.com/litellm-compromised/",
+    "published": "Wed, 21 Oct 2026 15:11:27 +0000",
+    "source": "CybersecurityNews",
+    "summary": "LiteLLM version 1.107.0 was compromised on PyPI on October 21, 2026, spreading a credential stealer and a remote access trojan through all seven distributed wheel files. The malicious release also reached Docker images, putting developer systems, bui",
+    "created_at": "2026-10-21T15:31:10.949239+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168154",
+    "title": "Google Upgrades Chrome With Gemini AI to Detect Fake Antivirus and Browser Update Scams",
+    "link": "https://cybersecuritynews.com/chrome-with-gemini-ai-to-detect-update-scams/",
+    "published": "Wed, 21 Oct 2026 15:14:13 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Google has upgraded Chrome’s Enhanced Protection mode with a more powerful Gemini AI model to detect fake antivirus alerts, browser update scams, and other deceptive websites. Announced on October 20, 2026, the changes also introduce suspicious site ",
+    "created_at": "2026-10-21T15:31:13.024140+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168201",
+    "title": "Hackers Use Gentlemen Ransomware to Disable Windows Defender and Destroy Backups",
+    "link": "https://cybersecuritynews.com/hackers-use-gentlemen-ransomware/",
+    "published": "Wed, 21 Oct 2026 15:30:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A ransomware operation known as The Gentlemen is using a mix of security tampering, service disruption and file encryption to make recovery harder for affected organizations. Its Windows malware can turn off Microsoft Defender’s real-time protection,",
+    "created_at": "2026-10-21T15:31:15.793433+00:00"
   }
 ]
