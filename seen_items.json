@@ -6442,5 +6442,23 @@
     "source": "BleepingComputer",
     "summary": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
     "created_at": "2026-10-21T22:31:09.065470+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168224",
+    "title": "GoDaddy Revoking 404,607 TLS Certificates Following Compliance Failures",
+    "link": "https://cybersecuritynews.com/godaddy-revoking-tls-certificates/",
+    "published": "Thu, 22 Oct 2026 01:43:58 +0000",
+    "source": "CybersecurityNews",
+    "summary": "GoDaddy launched a mass revocation of 404,607 SSL/TLS certificates after finding that issued certificates did not match its published certificate policies. The company missed its required revocation deadline, creating a second compliance issue. An up",
+    "created_at": "2026-10-22T02:31:20.302814+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168228",
+    "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
+    "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/",
+    "published": "Thu, 22 Oct 2026 02:06:30 +0000",
+    "source": "CybersecurityNews",
+    "summary": "GitLab has released urgent security updates for a critical vulnerability that could let attackers run code on self-managed servers without logging in. Tracked as CVE-2026-110264, the flaw carries the maximum CVSS score of 10.0 and affects both GitLab",
+    "created_at": "2026-10-22T02:31:28.312019+00:00"
   }
 ]
