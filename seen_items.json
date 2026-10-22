@@ -6469,5 +6469,41 @@
     "source": "CybersecurityNews",
     "summary": "A cybercrime group used artificial intelligence (AI) agents to coordinate attacks against more than 400 banks, payment providers and other financial organizations across Latin America, according to a report by cybersecurity company Straiker. The grou",
     "created_at": "2026-10-22T07:31:45.910753+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168255",
+    "title": "Hackers Are Using Real Dell and Staples Emails to Make Their Scams Look Legitimate",
+    "link": "https://cybersecuritynews.com/hackers-are-using-real-dell/",
+    "published": "Thu, 22 Oct 2026 08:04:07 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are abusing genuine Dell and Staples order emails to make fake purchase alerts look credible. Instead of sending a forged message, they place scam instructions inside order details that trusted retail systems deliver, pushing recipients towar",
+    "created_at": "2026-10-22T08:31:17.978135+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168239",
+    "title": "Critical Signal Vulnerability Could Keep Your Mic and Camera Live Even After Hang Up",
+    "link": "https://cybersecuritynews.com/critical-signal-vulnerability/",
+    "published": "Thu, 22 Oct 2026 08:26:19 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical vulnerability in Signal’s calling library could allow a malicious call participant to keep hearing audio after another user tries to hang up. The flaw, tracked as CVE-2026-113380, affects RingRTC versions before 2.72.0 and carries a CVSS s",
+    "created_at": "2026-10-22T08:31:21.367439+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
+    "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
+    "link": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
+    "published": "Thu, 22 Oct 2026 04:27:11 -0400",
+    "source": "BleepingComputer",
+    "summary": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]",
+    "created_at": "2026-10-22T08:31:24.412880+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168247",
+    "title": "Hackers Actively Exploiting Siemens Software Center Flaw in ClickFix Malware Attacks",
+    "link": "https://cybersecuritynews.com/siemens-software-center-flaw-exploited/",
+    "published": "Thu, 22 Oct 2026 08:29:16 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are exploiting a DLL side-loading flaw in Siemens Software Center to run malware through a trusted, signed application. Tracked as CVE-2026-110936, the weakness affects versions before 4.0.9.8. Siemens has confirmed active exploitation and re",
+    "created_at": "2026-10-22T08:31:27.133395+00:00"
   }
 ]
