@@ -6406,5 +6406,14 @@
     "source": "The Hacker News",
     "summary": "eMudhra, an Indian certificate authority (CA), will withdraw from its global SSL/TLS certificate business, its board decided on Thursday. The decision came five days after a researcher reported recovering the private keys of eight of its intermediate",
     "created_at": "2026-10-22T18:31:46.386967+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
+    "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
+    "link": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
+    "published": "Thu, 22 Oct 2026 15:12:51 -0400",
+    "source": "BleepingComputer",
+    "summary": "Hackers compromised the LiteLLM project&#x27;s PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
+    "created_at": "2026-10-22T19:30:59.630561+00:00"
   }
 ]
