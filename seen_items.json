@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=164063",
-    "title": "Hackers Impersonate IT Help Desk on Microsoft Teams to Steal Windows Passwords",
-    "link": "https://cybersecuritynews.com/hackers-impersonate-it-help-desk-on-teams/",
-    "published": "Tue, 22 Sep 2026 04:46:11 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Hackers are abusing Microsoft Teams chats to impersonate IT help desk staff, trick employees into installing malware or granting remote access, and steal Windows passwords through a fake lock screen. The attacks don’t require a software vulnerability",
-    "created_at": "2026-09-22T05:01:15.904470+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
     "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access",
     "link": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
@@ -6460,5 +6451,23 @@
     "source": "CybersecurityNews",
     "summary": "Railway has disclosed a security incident in which an unauthorized third party may have accessed customer environment variables, including some decrypted values. The cloud platform warned that the affected data could contain API keys, database passwo",
     "created_at": "2026-10-22T04:01:27.347625+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
+    "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
+    "link": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
+    "published": "Thu, 22 Oct 2026 09:51:26 +0530",
+    "source": "The Hacker News",
+    "summary": "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application.\n\nDuring the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetrat",
+    "created_at": "2026-10-22T05:31:08.378293+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168238",
+    "title": "China-Linked Hackers Use ARTEX AI to Target 2,250 Microsoft 365 Tenants After ConnectWise Breach",
+    "link": "https://cybersecuritynews.com/china-linked-hackers-use-artex-ai/",
+    "published": "Thu, 22 Oct 2026 05:25:21 +0000",
+    "source": "CybersecurityNews",
+    "summary": "China-state-aligned hackers used ARTEX, an AI-powered penetration-testing framework, to attempt access to more than 2,250 Microsoft 365 tenants following the ConnectWise Cloud Backup breach. Microsoft attributed the attack to Storm-0940 and reported ",
+    "created_at": "2026-10-22T05:31:16.559827+00:00"
   }
 ]
