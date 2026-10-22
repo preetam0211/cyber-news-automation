@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=164348",
-    "title": "BambooToken Linux Backdoor Uses MQTT C2 to Execute Shell Commands and Exfiltrate Files",
-    "link": "https://cybersecuritynews.com/bambootoken-linux-backdoor/",
-    "published": "Tue, 22 Sep 2026 12:29:37 +0000",
-    "source": "CybersecurityNews",
-    "summary": "BambooToken is a Linux backdoor that turns a lightweight messaging protocol into a remote control channel. The newly analysed sample can collect information about a host, run shell commands, and move files between a compromised machine and its operat",
-    "created_at": "2026-09-22T12:31:14.938906+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
-    "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
-    "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
-    "published": "Tue, 22 Sep 2026 08:48:06 -0400",
-    "source": "BleepingComputer",
-    "summary": "D-Link warned customers of a maximum-severity vulnerability (CVE-2026-86296) with public proof-of-concept (PoC) exploit code and no patch, affecting legacy DIR-822A dual-band Wi-Fi routers. [...]",
-    "created_at": "2026-09-22T13:01:02.911123+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=164359",
-    "title": "Red Hat OpenShift Flaw Lets Attackers Bypass PGP Checks and Push Malicious Releases",
-    "link": "https://cybersecuritynews.com/red-hat-openshift-flaw/",
-    "published": "Tue, 22 Sep 2026 12:49:43 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Red Hat has disclosed an Important security vulnerability in the OpenShift oc-mirror tool that could allow attackers to bypass PGP signature verification and introduce malicious release images into disconnected OpenShift environments. Tracked as CVE-",
-    "created_at": "2026-09-22T13:01:04.922627+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=164366",
-    "title": "Veeam Agent Flaw Actively Exploited to Gain SYSTEM Privileges on Windows",
-    "link": "https://cybersecuritynews.com/veeam-agent-flaw-exploited/",
-    "published": "Tue, 22 Sep 2026 12:55:07 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A critical local privilege escalation flaw in Veeam Agent for Microsoft Windows is drawing attention after public proof-of-concept exploit code became available. The vulnerability, tracked as CVE-2026-32996, could let a low-privileged local user run ",
-    "created_at": "2026-09-22T13:01:06.916772+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
     "title": "Webinar tomorrow: Inside real-world Google Workspace breaches",
     "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
@@ -6433,5 +6397,23 @@
     "source": "BleepingComputer",
     "summary": "GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]",
     "created_at": "2026-10-22T12:01:03.390939+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168321",
+    "title": "A Hacker Tried to Turn an AI Chatbot Into a Tool for Attacking Other Servers",
+    "link": "https://cybersecuritynews.com/ai-chatbot-into-a-tool/",
+    "published": "Thu, 22 Oct 2026 12:15:23 +0000",
+    "source": "CybersecurityNews",
+    "summary": "An exposed artificial intelligence platform can give an intruder more than a place to send messages. If it connects to stored credentials, company data, or network tools, the platform may also provide a route toward those resources. A recent honeypot",
+    "created_at": "2026-10-22T13:01:04.507141+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168329",
+    "title": "North Korean Hackers Use Post-Quantum Encryption to Hide New Malware From Security Tools",
+    "link": "https://cybersecuritynews.com/north-korean-hackers/",
+    "published": "Thu, 22 Oct 2026 12:38:07 +0000",
+    "source": "CybersecurityNews",
+    "summary": "North Korean-linked Lazarus hackers are using post-quantum cryptography in a malware delivery chain designed to conceal later-stage payloads from security tools. The technique appeared in Operation FlashHole, a campaign targeting organizations in Sou",
+    "created_at": "2026-10-22T13:01:07.011810+00:00"
   }
 ]
