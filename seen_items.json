@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
-    "title": "Reducing shadow IT visibility gaps with Wazuh",
-    "link": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
-    "published": "Tue, 22 Sep 2026 13:17:41 -0400",
-    "source": "BleepingComputer",
-    "summary": "Shadow IT can leave security teams unaware of unmanaged endpoints, unauthorized software, and other assets that fall outside existing monitoring. Wazuh explains how endpoint inventory, agentless monitoring, and centralized analysis can help organizat",
-    "created_at": "2026-09-22T17:31:51.676539+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
     "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
     "link": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
