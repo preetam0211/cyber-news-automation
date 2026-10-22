@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=164404",
-    "title": "Autonomous AI Agents Hack Retailers for $25 and Steal 600,000 Credit Cards",
-    "link": "https://cybersecuritynews.com/ai-agents-retail-credit-card-theft/",
-    "published": "Tue, 22 Sep 2026 15:51:18 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A financially motivated operator has been quietly running three open-source AI harnesses against hundreds of online retailers, almost entirely unattended, and the results are staggering: more than 600,000 credit card records stolen, card-skimming scr",
-    "created_at": "2026-09-22T16:01:08.197372+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
     "title": "Check Point warns of Management Server zero-day exploited in attacks",
     "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
@@ -6442,5 +6433,23 @@
     "source": "BleepingComputer",
     "summary": "Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]",
     "created_at": "2026-10-22T16:01:04.052925+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168371",
+    "title": "Gcore Makes Enterprise Security Bundle Free for Public Agencies Until End of the Year",
+    "link": "https://cybersecuritynews.com/gcore-makes-enterprise-security-bundle-free-for-public-agencies-until-end-of-the-year/",
+    "published": "Thu, 22 Oct 2026 16:12:01 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Contern, Luxembourg, October 22nd, 2026, CyberNewswire Gcore is offering its WAAP Enterprise plan free of charge to any government body or public agency until December 31, 2026. The offer follows the php2shell vulnerabilities that forced public websi",
+    "created_at": "2026-10-22T16:31:07.364206+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
+    "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
+    "link": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
+    "published": "Thu, 22 Oct 2026 21:42:31 +0530",
+    "source": "The Hacker News",
+    "summary": "Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company&#x27;s Cambridge Analytica data scandal, which came to light in 2018.\n\nAccording to m",
+    "created_at": "2026-10-22T16:31:12.137848+00:00"
   }
 ]
