@@ -6415,5 +6415,32 @@
     "source": "CybersecurityNews",
     "summary": "A threat actor tried to exploit two critical PHP vulnerabilities four days before the flaws were publicly disclosed and patched, according to Amazon Threat Intelligence. The activity began on October 17, 2026, while the vulnerabilities were still und",
     "created_at": "2026-10-22T14:31:06.996423+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168376",
+    "title": "A New Extortion Gang Is Naming Companies on the Dark Web and Counting Down to Data Leaks",
+    "link": "https://cybersecuritynews.com/a-new-extortion-gang/",
+    "published": "Thu, 22 Oct 2026 14:40:34 +0000",
+    "source": "CybersecurityNews",
+    "summary": "ScarlettGroup, a newly observed cyber extortion gang, is naming companies on a dark web leak site and using countdown timers to threaten the release of allegedly stolen data. The operation puts public pressure on organizations before their breach cla",
+    "created_at": "2026-10-22T15:01:06.465527+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168386",
+    "title": "Claude Security Now Scans Repositories Continuously to Find Flaws and Track Fixes",
+    "link": "https://cybersecuritynews.com/claude-security-continuous-scans/",
+    "published": "Thu, 22 Oct 2026 14:40:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Anthropic has updated Claude Security so it can keep checking connected code repositories as they change, rather than waiting for a person to start each scan. The service also tracks reported vulnerabilities after developers make changes, marks them ",
+    "created_at": "2026-10-22T15:01:08.508227+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168392",
+    "title": "eMudhra Exits Global SSL/TLS Certificate Business Following the Vulnerability Disclosure",
+    "link": "https://cybersecuritynews.com/emudhra-exits-global-ssl-tls-certificate/",
+    "published": "Thu, 22 Oct 2026 14:52:11 +0000",
+    "source": "CybersecurityNews",
+    "summary": "eMudhra Limited has announced it is exiting the global SSL/TLS certificate business after disclosing weak private keys in eight intermediate certificate authority certificates. The October 22, 2026, decision follows emergency browser protections and ",
+    "created_at": "2026-10-22T15:01:10.587390+00:00"
   }
 ]
