@@ -6388,5 +6388,32 @@
     "source": "BleepingComputer",
     "summary": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
     "created_at": "2026-10-22T13:31:06.864272+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
+    "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
+    "link": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
+    "published": "Thu, 22 Oct 2026 19:08:22 +0530",
+    "source": "The Hacker News",
+    "summary": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds.\n\nIn tandem, the effort saw law enforcement agencies from 21 countries arrest 1,462",
+    "created_at": "2026-10-22T14:31:02.993763+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
+    "title": "Machine speed attacks require machine speed detection and response",
+    "link": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
+    "published": "Thu, 22 Oct 2026 10:02:12 -0400",
+    "source": "BleepingComputer",
+    "summary": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster",
+    "created_at": "2026-10-22T14:31:05.626677+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168361",
+    "title": "Hackers Were Targeting Critical PHP Vulnerabilities Days Before They Were Patched",
+    "link": "https://cybersecuritynews.com/critical-php-vulnerabilities/",
+    "published": "Thu, 22 Oct 2026 14:14:07 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A threat actor tried to exploit two critical PHP vulnerabilities four days before the flaws were publicly disclosed and patched, according to Amazon Threat Intelligence. The activity began on October 17, 2026, while the vulnerabilities were still und",
+    "created_at": "2026-10-22T14:31:06.996423+00:00"
   }
 ]
