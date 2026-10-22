@@ -6379,5 +6379,23 @@
     "source": "BleepingComputer",
     "summary": "Hackers compromised the LiteLLM project&#x27;s PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
     "created_at": "2026-10-22T19:30:59.630561+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
+    "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
+    "link": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
+    "published": "Fri, 23 Oct 2026 00:35:17 +0530",
+    "source": "The Hacker News",
+    "summary": "Attackers are exploiting a zero-day SQL injection flaw in Arista&#x27;s VeloCloud Orchestrator (VCO), the central management system for VeloCloud SD-WAN networks, the company said in an advisory on October 22.\n\nThe flaw lets anyone who can log in to ",
+    "created_at": "2026-10-22T20:31:06.529487+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
+    "title": "Capcom confirms data breach affecting 11.7 million accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
+    "published": "Thu, 22 Oct 2026 16:22:45 -0400",
+    "source": "BleepingComputer",
+    "summary": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
+    "created_at": "2026-10-22T20:31:08.194462+00:00"
   }
 ]
