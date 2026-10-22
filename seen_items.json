@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
-    "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
-    "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
-    "published": "Tue, 22 Sep 2026 16:35:24 -0400",
-    "source": "BleepingComputer",
-    "summary": "A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from 996 devices and more than 18,500 records stored in backend databases. [...]",
-    "created_at": "2026-09-22T21:01:27.975391+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/",
     "title": "Sweden fines Miljödata $183,000 over breach affecting 2.2 million",
     "link": "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/",
@@ -6397,5 +6388,14 @@
     "source": "BleepingComputer",
     "summary": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
     "created_at": "2026-10-22T20:31:08.194462+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
+    "title": "Railway warns devs to rotate secrets after potential breach",
+    "link": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
+    "published": "Thu, 22 Oct 2026 17:25:31 -0400",
+    "source": "BleepingComputer",
+    "summary": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
+    "created_at": "2026-10-22T21:31:08.606331+00:00"
   }
 ]
