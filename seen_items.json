@@ -6442,5 +6442,14 @@
     "source": "CybersecurityNews",
     "summary": "eMudhra Limited has announced it is exiting the global SSL/TLS certificate business after disclosing weak private keys in eight intermediate certificate authority certificates. The October 22, 2026, decision follows emergency browser protections and ",
     "created_at": "2026-10-22T15:01:10.587390+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168401",
+    "title": "Major U.S. Banks Detect Unauthorized AI Agents Operating Inside Customer Accounts",
+    "link": "https://cybersecuritynews.com/u-s-banks-detect-unauthorized-ai-agents/",
+    "published": "Thu, 22 Oct 2026 15:23:07 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Major U.S. banks are detecting third-party AI agents inside customer accounts, raising concerns that automated tools could act beyond the instructions customers give them. Some agents have contacted call centers or appeared to attempt independent act",
+    "created_at": "2026-10-22T15:31:02.352790+00:00"
   }
 ]
