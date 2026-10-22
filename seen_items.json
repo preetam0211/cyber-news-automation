@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=164313",
-    "title": "Windows COM Flaw Lets Attackers Gain SYSTEM Privileges With a Malicious DLL",
-    "link": "https://cybersecuritynews.com/windows-com-system-privilege-escalation/",
-    "published": "Tue, 22 Sep 2026 09:45:30 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A newly detailed Windows privilege escalation flaw tracked as CVE-2026-66804 allowed a standard, low-privileged user to plant a malicious DLL and execute arbitrary code with full NT AUTHORITY\\SYSTEM privileges, exploiting a lingering weakness in how ",
-    "created_at": "2026-09-22T10:01:24.597503+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=164311",
-    "title": "Hackers Exploit WordPress Flaws to Steal 18,566 Government Records and Plaintext Passwords",
-    "link": "https://cybersecuritynews.com/wordpress-flaws/",
-    "published": "Tue, 22 Sep 2026 09:51:53 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A suspected Chinese-speaking threat actor has used WordPress vulnerabilities to break into at least 49 organizations across 29 countries. The campaign exposed how a compromised website can become a launchpad for database theft, credential abuse, and ",
-    "created_at": "2026-09-22T10:01:51.574190+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
     "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
     "link": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
@@ -6478,5 +6460,23 @@
     "source": "CybersecurityNews",
     "summary": "Perimeters don’t follow files. The deal model emailed to a counterparty, the design doc shared with a contractor, the board pack synced to a trustee’s tablet enterprise DRM (information rights management) keeps policy attached to the document itself:",
     "created_at": "2026-10-22T10:01:07.603906+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168271",
+    "title": "Atlassian Releases Massive Security Update Addressing 176 Flaw Entries in Jira and Confluence",
+    "link": "https://cybersecuritynews.com/atlassian-security-update/",
+    "published": "Thu, 22 Oct 2026 10:12:18 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Atlassian has released its October 2026 security bulletin, covering 176 flaw entries across products including Jira, Confluence, Bamboo, Bitbucket, and Crowd. Published on October 20, the update lists 162 high-severity entries and 14 critical-severit",
+    "created_at": "2026-10-22T10:31:03.845577+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168236",
+    "title": "Top 10 Best Secure File Sharing Platforms in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-secure-file-sharing/",
+    "published": "Thu, 22 Oct 2026 10:16:44 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Users share files the easiest way available your only real choice is whether the easiest way is also the governed one. The 2026 secure-sharing shortlist is judged on that bargain: consumer-grade usability on top of enterprise controls (classification",
+    "created_at": "2026-10-22T10:31:06.124317+00:00"
   }
 ]
