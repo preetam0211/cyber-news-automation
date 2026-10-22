@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=164233",
-    "title": "Meta’s Muse AI Agent 0-Day Vulnerability Allows Attackers to Hijack the Tool and Inject Malware",
-    "link": "https://cybersecuritynews.com/metas-muse-ai-agent-0-day-vulnerability/",
-    "published": "Tue, 22 Sep 2026 03:13:18 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A zero-day vulnerability in Meta’s Muse AI agent for macOS could allow malware already running under a user account to hijack the assistant, intercept dictated prompts, inject malicious instructions, and steal authentication material. The flaw is esp",
-    "created_at": "2026-09-22T03:31:14.436270+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=164063",
     "title": "Hackers Impersonate IT Help Desk on Microsoft Teams to Steal Windows Passwords",
     "link": "https://cybersecuritynews.com/hackers-impersonate-it-help-desk-on-teams/",
@@ -6460,5 +6451,14 @@
     "source": "CybersecurityNews",
     "summary": "GitLab has released urgent security updates for a critical vulnerability that could let attackers run code on self-managed servers without logging in. Tracked as CVE-2026-110264, the flaw carries the maximum CVSS score of 10.0 and affects both GitLab",
     "created_at": "2026-10-22T02:31:28.312019+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168233",
+    "title": "Railway Security Incident: Hackers May Have Accessed Customer Environment Variables",
+    "link": "https://cybersecuritynews.com/railway-security-incident/",
+    "published": "Thu, 22 Oct 2026 03:04:16 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Railway has disclosed a security incident in which an unauthorized third party may have accessed customer environment variables, including some decrypted values. The cloud platform warned that the affected data could contain API keys, database passwo",
+    "created_at": "2026-10-22T04:01:27.347625+00:00"
   }
 ]
