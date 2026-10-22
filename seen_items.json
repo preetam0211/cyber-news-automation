@@ -6460,5 +6460,14 @@
     "source": "The Hacker News",
     "summary": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed &quot;anomalous activity&quot; related to systems that store customer environment variables.\n\nUpon further investigation, the company found that an unauthorized third party may have",
     "created_at": "2026-10-22T11:31:16.869368+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
+    "title": "GitLab warns of new max severity code execution vulnerability",
+    "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
+    "published": "Thu, 22 Oct 2026 07:41:48 -0400",
+    "source": "BleepingComputer",
+    "summary": "GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]",
+    "created_at": "2026-10-22T12:01:03.390939+00:00"
   }
 ]
