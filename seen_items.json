@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
-    "title": "Hackers start exploiting critical WordPress flaw for code execution",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
-    "published": "Wed, 23 Sep 2026 14:31:22 -0400",
-    "source": "BleepingComputer",
-    "summary": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
-    "created_at": "2026-09-23T19:01:02.987167+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
     "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
     "link": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
@@ -6289,5 +6280,23 @@
     "source": "The Hacker News",
     "summary": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past month.\n\nGitLab found that a sp",
     "created_at": "2026-10-23T18:02:45.396651+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+    "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+    "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+    "published": "Sat, 24 Oct 2026 00:20:13 +0530",
+    "source": "The Hacker News",
+    "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX.\n\nThe activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in",
+    "created_at": "2026-10-23T19:02:07.598419+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
+    "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
+    "published": "Fri, 23 Oct 2026 14:54:41 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
+    "created_at": "2026-10-23T19:03:04.933794+00:00"
   }
 ]
