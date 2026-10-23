@@ -1,50 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=164525",
-    "title": "Critical NEXT.JS Flaw Enables RCE Attacks Via Weaponized SVG File",
-    "link": "https://cybersecuritynews.com/critical-next-js-flaw-allows-remote-code-execution/",
-    "published": "Wed, 23 Sep 2026 13:43:37 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A critical Next.js vulnerability, tracked as CVE-2026-94545, affects the Node.js ImageResponse implementation in the next/og package and could allow remote code execution by exploiting malicious SVG content during image generation. The issue affects ",
-    "created_at": "2026-09-23T14:01:05.648187+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
-    "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
-    "link": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
-    "published": "Wed, 23 Sep 2026 19:22:46 +0530",
-    "source": "The Hacker News",
-    "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for Windows, Linux, and macOS.\n\nAccordin",
-    "created_at": "2026-09-23T14:31:05.818289+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
-    "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
-    "link": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
-    "published": "Wed, 23 Sep 2026 10:01:11 -0400",
-    "source": "BleepingComputer",
-    "summary": "A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to Google Kubernetes Config Connector. Varonis explains how this confused deputy problem can turn a sin",
-    "created_at": "2026-09-23T14:31:07.869479+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=164536",
-    "title": "AWS Lambda Flaw Lets Attackers Bypass IAM Permissions and Access Cloud Services",
-    "link": "https://cybersecuritynews.com/aws-lambda-flaw/",
-    "published": "Wed, 23 Sep 2026 14:23:53 +0000",
-    "source": "CybersecurityNews",
-    "summary": "AWS disclosed a high-severity authorization flaw in its Amazon Connect Salesforce Lambda application that could let attackers perform privileged cloud actions beyond their assigned IAM permissions. The vulnerability, tracked as CVE-2026-94384, affect",
-    "created_at": "2026-09-23T14:31:10.349269+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=164548",
-    "title": "Ryuk Ransomware Operator Sentenced for Deploying Malware and Extorting Victim Networks",
-    "link": "https://cybersecuritynews.com/ryuk-ransomware-operator-sentenced/",
-    "published": "Wed, 23 Sep 2026 14:28:35 +0000",
-    "source": "CybersecurityNews",
-    "summary": "An Armenian national extradited from Ukraine to the United States has been sentenced to federal prison for his role in Ryuk ransomware attacks that targeted organizations worldwide, including a company in Oregon. Karen Vardanyan, 35, received a 24-mo",
-    "created_at": "2026-09-23T14:31:12.342109+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
     "title": "InfraTrust report warns network management systems under attack",
     "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
@@ -6289,5 +6244,59 @@
     "source": "CybersecurityNews",
     "summary": "Public proof-of-concept code for two critical PHP vulnerabilities is now available, and attackers have tried to use the flaws to deploy botnet malware. Known together as PHP2Shell, CVE-2026-109618 and CVE-2026-109619 both carry a CVSS severity score ",
     "created_at": "2026-10-23T13:31:28.639981+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168549",
+    "title": "StealC Malware Returns as New Stadia RAT to Steal Passwords and Secretly Control Windows PCs",
+    "link": "https://cybersecuritynews.com/stealc-malware/",
+    "published": "Fri, 23 Oct 2026 13:40:19 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The seller behind StealC has returned with Stadia, a Windows remote access trojan that combines password theft with hidden desktop control. Advertised on October 16, 2026, the malware expands beyond stealing data, allowing criminals to run commands, ",
+    "created_at": "2026-10-23T14:31:19.722190+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
+    "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
+    "link": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
+    "published": "Fri, 23 Oct 2026 19:20:56 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls.\n\n&quot;Artifacts from this investigation also indicat",
+    "created_at": "2026-10-23T14:31:25.241875+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168427",
+    "title": "Hackers Actively Exploiting Critical VeloCloud Orchestrator Flaw to Gain Superuser Access",
+    "link": "https://cybersecuritynews.com/hackers-exploiting-velocloud-orchestrator-flaw/",
+    "published": "Fri, 23 Oct 2026 13:57:11 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are actively exploiting a critical SQL injection flaw in VeloCloud Orchestrator (VCO) that allows logged-in users to gain superuser operator access. Arista Networks disclosed the vulnerability on October 22, 2026, warning that successful atta",
+    "created_at": "2026-10-23T14:31:30.757459+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
+    "title": "You gave your AI agent access, but who is giving it orders?",
+    "link": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
+    "published": "Fri, 23 Oct 2026 10:00:10 -0400",
+    "source": "BleepingComputer",
+    "summary": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub helps protect agents through skill",
+    "created_at": "2026-10-23T14:31:32.835166+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168449",
+    "title": "New Node2Shell Node.js RCE Exploit Let Attackers Execute Malicious Code Through Brotli-Compressed Data",
+    "link": "https://cybersecuritynews.com/new-node2shell-node-js-rce-exploit/",
+    "published": "Fri, 23 Oct 2026 14:11:40 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Researchers has demonstrated Node2Shell, a working exploit that lets an attacker run code inside a Node.js application through specially crafted, Brotli-compressed data. The research targets CVE-2026-111497, a high-severity memory flaw in the Brotli ",
+    "created_at": "2026-10-23T14:31:34.889989+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168457",
+    "title": "Multiple Waves of DDoS Attacks Caused This Week’s Outage in North Korea",
+    "link": "https://cybersecuritynews.com/multiple-waves-of-ddos-attacks-caused-in-north-korea/",
+    "published": "Fri, 23 Oct 2026 14:22:35 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Multiple waves of DDoS attacks disrupted North Korea’s public internet services this week, knocking major state websites offline. Kentik’s internet analysis director Doug Madory linked the outages to sudden traffic floods from Vietnam, the Philippine",
+    "created_at": "2026-10-23T14:31:36.888359+00:00"
   }
 ]
