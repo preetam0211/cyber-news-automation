@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
-    "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
-    "link": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
-    "published": "Wed, 23 Sep 2026 21:36:41 +0530",
-    "source": "The Hacker News",
-    "summary": "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication.\n\nThe chain, which CERT Polska calls MikroTrick, combines a",
-    "created_at": "2026-09-23T16:31:05.565559+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
-    "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
-    "link": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
-    "published": "Wed, 23 Sep 2026 12:20:54 -0400",
-    "source": "BleepingComputer",
-    "summary": "A financially motivated threat actor is using open-source AI agent frameworks to attack hundreds of online retailers at scale, stealing more than 600,000 credit card records. [...]",
-    "created_at": "2026-09-23T16:31:06.942151+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
     "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
     "link": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
@@ -6280,5 +6262,14 @@
     "source": "BleepingComputer",
     "summary": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
     "created_at": "2026-10-23T16:01:21.424560+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
+    "title": "Quest Diagnostics confirms data breach exposed patient records",
+    "link": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
+    "published": "Fri, 23 Oct 2026 12:40:07 -0400",
+    "source": "BleepingComputer",
+    "summary": "American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]",
+    "created_at": "2026-10-23T17:01:08.827605+00:00"
   }
 ]
