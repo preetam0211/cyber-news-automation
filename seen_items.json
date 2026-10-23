@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=164506",
-    "title": "The Phishing Kit That Turned Microsoft’s Login Flow Into an AI-Powered Fraud Machine",
-    "link": "https://cybersecuritynews.com/the-phishing-kit/",
-    "published": "Wed, 23 Sep 2026 10:59:51 +0000",
-    "source": "CybersecurityNews",
-    "summary": "EvilTokens turns a Microsoft sign-in into a route to corporate email fraud. The phishing kit, first seen in February 2026, tricks people into approving an attacker’s login through a real device code process without handing over a password. The lure u",
-    "created_at": "2026-09-23T11:01:10.252040+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/",
-    "title": "Microsoft: September Windows updates break Always On VPN connections",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/",
-    "published": "Wed, 23 Sep 2026 07:18:13 -0400",
-    "source": "BleepingComputer",
-    "summary": "Microsoft warned that the September 2026 security updates may also break Always On VPN connections on some Windows 11 systems. [...]",
-    "created_at": "2026-09-23T11:30:58.743073+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=164498",
     "title": "NVIDIA Fixes Linux Component Flaws That Could Expose Sensitive System Information",
     "link": "https://cybersecuritynews.com/nvidia-fixes-linux-component-flaws/",
@@ -6334,5 +6316,23 @@
     "source": "The Hacker News",
     "summary": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open.\n\nThe flaw, CVE-2026-112900, is in the way Pillow handles EPS images, which it opens b",
     "created_at": "2026-10-23T10:31:31.391390+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
+    "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+    "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
+    "published": "Fri, 23 Oct 2026 16:41:23 +0530",
+    "source": "The Hacker News",
+    "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year.\n\nAccording to ESET, the attack involved UAC-0099 (aka Earth Sirrush) ob",
+    "created_at": "2026-10-23T11:31:15.312256+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
+    "title": "URGENT - PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+    "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
+    "published": "Fri, 23 Oct 2026 16:55:43 +0530",
+    "source": "The Hacker News",
+    "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws.\n\nThe new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way",
+    "created_at": "2026-10-23T11:31:22.949012+00:00"
   }
 ]
