@@ -6388,5 +6388,23 @@
     "source": "CybersecurityNews",
     "summary": "Splunk has released security updates for 24 vulnerabilities in Splunk Enterprise and Splunk SOAR, including four critical flaws with CVSS scores from 9.3 to 9.9. Splunk published the fixes on October 21, 2026, across three advisories covering access ",
     "created_at": "2026-10-23T04:01:34.733931+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168311",
+    "title": "Critical Cisco Expressway Vulnerability Enables Remote Code Execution Attacks",
+    "link": "https://cybersecuritynews.com/critical-cisco-expressway-vulnerability/",
+    "published": "Fri, 23 Oct 2026 04:47:50 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cisco has released security updates for a critical Cisco Expressway vulnerability that could let remote attackers run operating system commands as root. Tracked as CVE-2026-76466, the flaw carries a CVSS score of 9.8 and affects vulnerable Expressway",
+    "created_at": "2026-10-23T05:31:10.898720+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168430",
+    "title": "PwC Data Breach Claim – Everest Ransomware Group Claims to Have Stolen 590 GB of Data",
+    "link": "https://cybersecuritynews.com/pwc-data-breach-claim/",
+    "published": "Fri, 23 Oct 2026 05:12:54 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The Everest ransomware group claims to have stolen 590.69 GB of data from PwC, the global professional services firm. This alleged data theft includes human resources records, training materials, and internal documents. However, the claims are unveri",
+    "created_at": "2026-10-23T05:31:17.078382+00:00"
   }
 ]
