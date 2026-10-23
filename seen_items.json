@@ -6406,5 +6406,14 @@
     "source": "CybersecurityNews",
     "summary": "The Everest ransomware group claims to have stolen 590.69 GB of data from PwC, the global professional services firm. This alleged data theft includes human resources records, training materials, and internal documents. However, the claims are unveri",
     "created_at": "2026-10-23T05:31:17.078382+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168450",
+    "title": "Oracle Issues Emergency Java Update for Critical 9.1 HTTPS Trust Vulnerability",
+    "link": "https://cybersecuritynews.com/emergency-java-update/",
+    "published": "Fri, 23 Oct 2026 06:01:47 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Oracle has released an emergency Java security update to address CVE-2026-91403, a critical vulnerability affecting how Java applications trust digital certificates. Published on October 21, 2026, the alert assigns the flaw a CVSS 3.1 score of 9.1 an",
+    "created_at": "2026-10-23T06:31:21.866725+00:00"
   }
 ]
