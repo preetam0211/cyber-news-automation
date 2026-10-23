@@ -2,6 +2,7 @@ import re
 import os
 import json
 import logging
+import time
 import requests
 
 # Set up logging for this module
@@ -147,16 +148,34 @@ def call_gemini_mitre_mapping(title, summary, api_key):
         }
     }
     
-    try:
-        response = requests.post(url, headers=headers, json=payload, timeout=25)
-        response.raise_for_status()
-        result = response.json()
-        text_content = result["candidates"][0]["content"]["parts"][0]["text"]
-        data = json.loads(text_content)
-        return data.get("framework", "MITRE ATT&CK"), data.get("techniques", [])
-    except Exception as e:
-        logger.warning(f"Failed to perform semantic MITRE mapping using Gemini: {e}. Falling back to regex keyword mapping.")
-        return None, None
+    max_retries = 3
+    for attempt in range(max_retries):
+        try:
+            response = requests.post(url, headers=headers, json=payload, timeout=25)
+            if response.status_code == 429:
+                wait_time = 5 * (attempt + 1)
+                logger.warning(f"Gemini API rate limit reached (HTTP 429). Retrying in {wait_time}s (Attempt {attempt + 1}/{max_retries})...")
+                time.sleep(wait_time)
+                continue
+            response.raise_for_status()
+            result = response.json()
+            text_content = result["candidates"][0]["content"]["parts"][0]["text"]
+            data = json.loads(text_content)
+            # Pacing delay to stay comfortably under 15 RPM free-tier quota
+            time.sleep(4)
+            return data.get("framework", "MITRE ATT&CK"), data.get("techniques", [])
+        except requests.exceptions.RequestException as e:
+            if attempt < max_retries - 1 and hasattr(e, 'response') and e.response is not None and e.response.status_code == 429:
+                wait_time = 5 * (attempt + 1)
+                logger.warning(f"Gemini API rate limit reached (HTTP 429). Retrying in {wait_time}s (Attempt {attempt + 1}/{max_retries})...")
+                time.sleep(wait_time)
+                continue
+            logger.warning(f"Failed to perform semantic MITRE mapping using Gemini: {e}. Falling back to regex keyword mapping.")
+            return None, None
+        except Exception as e:
+            logger.warning(f"Failed to perform semantic MITRE mapping using Gemini: {e}. Falling back to regex keyword mapping.")
+            return None, None
+    return None, None
 
 def map_mitre_attack(title, summary):
     """Scan title and summary and return the framework type and unique matching MITRE mappings."""

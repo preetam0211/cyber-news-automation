@@ -2,6 +2,7 @@ import re
 import os
 import json
 import logging
+import time
 import requests
 from datetime import datetime, timedelta, timezone
 
@@ -77,16 +78,34 @@ def call_gemini_semantic_check(new_title, new_summary, recent_items, api_key):
         }
     }
     
-    try:
-        response = requests.post(url, headers=headers, json=payload, timeout=25)
-        response.raise_for_status()
-        result = response.json()
-        text_content = result["candidates"][0]["content"]["parts"][0]["text"]
-        data = json.loads(text_content)
-        return data
-    except Exception as e:
-        logger.warning(f"Failed to perform semantic check using Gemini API: {e}. Falling back to keyword matching.")
-        return None
+    max_retries = 3
+    for attempt in range(max_retries):
+        try:
+            response = requests.post(url, headers=headers, json=payload, timeout=25)
+            if response.status_code == 429:
+                wait_time = 5 * (attempt + 1)
+                logger.warning(f"Gemini API rate limit reached (HTTP 429). Retrying in {wait_time}s (Attempt {attempt + 1}/{max_retries})...")
+                time.sleep(wait_time)
+                continue
+            response.raise_for_status()
+            result = response.json()
+            text_content = result["candidates"][0]["content"]["parts"][0]["text"]
+            data = json.loads(text_content)
+            # Pacing delay to stay comfortably under 15 RPM free-tier quota
+            time.sleep(4)
+            return data
+        except requests.exceptions.RequestException as e:
+            if attempt < max_retries - 1 and hasattr(e, 'response') and e.response is not None and e.response.status_code == 429:
+                wait_time = 5 * (attempt + 1)
+                logger.warning(f"Gemini API rate limit reached (HTTP 429). Retrying in {wait_time}s (Attempt {attempt + 1}/{max_retries})...")
+                time.sleep(wait_time)
+                continue
+            logger.warning(f"Failed to perform semantic check using Gemini API: {e}. Falling back to keyword matching.")
+            return None
+        except Exception as e:
+            logger.warning(f"Failed to perform semantic check using Gemini API: {e}. Falling back to keyword matching.")
+            return None
+    return None
 
 def is_duplicate(new_title, new_summary, seen_items, days_limit=1.5, similarity_threshold=0.65, summary_threshold=0.60):
     """Check if the article is a duplicate of any article posted in the last days_limit days."""
