@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html",
-    "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
-    "link": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html",
-    "published": "Wed, 23 Sep 2026 13:59:24 +0530",
-    "source": "The Hacker News",
-    "summary": "A Chinese threat actor codenamed UTA0565 has been observed exploiting the recently disclosed Google Chrome-Microsoft Windows exploit chain as zero-days through fake websites.\n\nThe attacks, detected on September 3 and 4, 2026, involved the chaining of",
-    "created_at": "2026-09-23T09:01:21.821037+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
-    "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
-    "link": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
-    "published": "Wed, 23 Sep 2026 13:59:48 +0530",
-    "source": "The Hacker News",
-    "summary": "Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says.\n\nThe flaw, CVE-2026-94127, affects only systems in which APM serves as an OAuth authorization se",
-    "created_at": "2026-09-23T09:01:41.172513+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=164484",
     "title": "Critical SolarWinds Flaws Let Attackers Remotely Execute Code on Observability Servers",
     "link": "https://cybersecuritynews.com/solarwinds-flaws-execute-code-on-observability-servers/",
@@ -6361,5 +6343,23 @@
     "source": "CybersecurityNews",
     "summary": "Email encryption has a usability paradox: the strongest cryptography loses to the recipient who gives up at the portal login and asks for the file “some other way.” The 2026 winners solve for both ends sender-side automation (policies, DLP triggers, ",
     "created_at": "2026-10-23T08:31:46.603893+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
+    "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
+    "link": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
+    "published": "Fri, 23 Oct 2026 14:05:45 +0530",
+    "source": "The Hacker News",
+    "summary": "AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22.\n\nThe cause was the SDKs&#x27; default client, which set no spend",
+    "created_at": "2026-10-23T09:31:26.367937+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168466",
+    "title": "SBI Notifies Customers Impacted by the Recent Cyber Incident",
+    "link": "https://cybersecuritynews.com/sbi-notifies-customers-with-cyber-incident/",
+    "published": "Fri, 23 Oct 2026 09:20:41 +0000",
+    "source": "CybersecurityNews",
+    "summary": "State Bank of India (SBI) has individually notified customers whose information was identified in a recent cyber incident, sending alerts through email and WhatsApp. In its latest advisory on October 23, the bank said customer account balances and fu",
+    "created_at": "2026-10-23T09:31:39.854388+00:00"
   }
 ]
