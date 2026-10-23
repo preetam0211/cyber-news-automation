@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
-    "title": "InfraTrust report warns network management systems under attack",
-    "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
-    "published": "Wed, 23 Sep 2026 10:35:26 -0400",
-    "source": "BleepingComputer",
-    "summary": "Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclosed them. [...]",
-    "created_at": "2026-09-23T15:01:05.509984+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=164516",
-    "title": "Critical IBM FTM Flaws Let Attackers Execute Code and Access Payment Systems",
-    "link": "https://cybersecuritynews.com/critical-ibm-ftm-flaws/",
-    "published": "Wed, 23 Sep 2026 14:43:31 +0000",
-    "source": "CybersecurityNews",
-    "summary": "IBM has released security fixes for Financial Transaction Manager for Red Hat OpenShift after identifying multiple vulnerabilities that could enable remote code execution, unauthorized payment actions, credential theft, data exposure, and service dis",
-    "created_at": "2026-09-23T15:01:07.586605+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
     "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
     "link": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
@@ -6298,5 +6280,23 @@
     "source": "CybersecurityNews",
     "summary": "Multiple waves of DDoS attacks disrupted North Korea’s public internet services this week, knocking major state websites offline. Kentik’s internet analysis director Doug Madory linked the outages to sudden traffic floods from Vietnam, the Philippine",
     "created_at": "2026-10-23T14:31:36.888359+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168491",
+    "title": "Japanese Game Maker Capcom Has Confirmed – 11,774,247 Customer Records Exposed",
+    "link": "https://cybersecuritynews.com/capcom-confirmed-customer-records-exposed/",
+    "published": "Fri, 23 Oct 2026 14:37:14 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Capcom has announced plans to notify customers after unauthorized access to its CAPCOM ID service affected 11,774,247 records worldwide. The Japanese game publisher disclosed the incident on October 22, 2026, saying the exposed information included e",
+    "created_at": "2026-10-23T15:01:06.836754+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168509",
+    "title": "HPE Warns Critical Aruba Networking Flaws Could Let Hackers Take Complete Control of Devices",
+    "link": "https://cybersecuritynews.com/hpe-warns-aruba-networking-flaws/",
+    "published": "Fri, 23 Oct 2026 14:53:59 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hewlett Packard Enterprise has released security patches for multiple vulnerabilities in Aruba Networking wireless software that could let attackers take complete control of affected devices. The flaws affect AOS-8 and AOS-10 deployments across Mobil",
+    "created_at": "2026-10-23T15:01:14.504140+00:00"
   }
 ]
