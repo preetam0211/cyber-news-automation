@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
-    "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
-    "link": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
-    "published": "Wed, 23 Sep 2026 22:23:10 +0530",
-    "source": "The Hacker News",
-    "summary": "The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including main, and can start CI/CD jobs that run as you.\n\nGi",
-    "created_at": "2026-09-23T18:01:13.209433+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
     "title": "Hackers start exploiting critical WordPress flaw for code execution",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
@@ -6280,5 +6271,23 @@
     "source": "BleepingComputer",
     "summary": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]",
     "created_at": "2026-10-23T17:32:04.530761+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
+    "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+    "link": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
+    "published": "Fri, 23 Oct 2026 23:20:47 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups.\n\nCentral to the operation is an &quot;Autonomous Red Team Kill Chain Framework&quot",
+    "created_at": "2026-10-23T18:01:42.854866+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
+    "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
+    "link": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
+    "published": "Fri, 23 Oct 2026 23:24:08 +0530",
+    "source": "The Hacker News",
+    "summary": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past month.\n\nGitLab found that a sp",
+    "created_at": "2026-10-23T18:02:45.396651+00:00"
   }
 ]
