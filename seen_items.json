@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
-    "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
-    "link": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
-    "published": "Wed, 23 Sep 2026 08:29:53 -0400",
-    "source": "BleepingComputer",
-    "summary": "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
-    "created_at": "2026-09-23T12:31:09.390549+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
-    "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
-    "link": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
-    "published": "Wed, 23 Sep 2026 16:42:18 +0530",
-    "source": "The Hacker News",
-    "summary": "A use-after-free in the Linux kernel&#x27;s AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst said in research published September 22.\n\nThe flaw, tracked as CVE-2026-80521 (CVSS score: 7.8)",
-    "created_at": "2026-09-23T13:01:06.841543+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
-    "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
-    "link": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
-    "published": "Wed, 23 Sep 2026 17:17:13 +0530",
-    "source": "The Hacker News",
-    "summary": "Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior.\n\nOpus 5.5, per Anthropic, is a &quot;major step up from ",
-    "created_at": "2026-09-23T13:01:08.954027+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
-    "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
-    "link": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
-    "published": "Wed, 23 Sep 2026 17:17:19 +0530",
-    "source": "The Hacker News",
-    "summary": "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: confident prose, a list of findings, and no way to t",
-    "created_at": "2026-09-23T13:01:11.054103+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
     "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
     "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
@@ -6325,5 +6289,14 @@
     "source": "CybersecurityNews",
     "summary": "A new UEFI bootkit called BlackX has been used in cyberespionage attacks against diplomatic organizations in Tajikistan, Uzbekistan, and Turkmenistan. The malware targets Secure Boot, a feature designed to help stop untrusted software from running be",
     "created_at": "2026-10-23T12:01:09.815778+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
+    "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
+    "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
+    "published": "Fri, 23 Oct 2026 08:48:00 -0400",
+    "source": "BleepingComputer",
+    "summary": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]",
+    "created_at": "2026-10-23T13:01:10.027479+00:00"
   }
 ]
