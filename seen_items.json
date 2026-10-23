@@ -1,68 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
-    "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
-    "link": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
-    "published": "Wed, 23 Sep 2026 12:34:40 +0530",
-    "source": "The Hacker News",
-    "summary": "A new security vulnerability in Next.js could allow attackers to run code on a server via ImageResponse, the feature that generates Open Graph and other social preview images, Vercel said.\n\nThe risk applies when an app puts values an attacker control",
-    "created_at": "2026-09-23T07:31:44.581555+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=164457",
-    "title": "Critical WordPress Core Vulnerability Lets Attackers Execute Code Without Logging In",
-    "link": "https://cybersecuritynews.com/wordpress-core-vulnerability/",
-    "published": "Wed, 23 Sep 2026 07:05:59 +0000",
-    "source": "CybersecurityNews",
-    "summary": "WordPress has released version 7.1.2 to address a critical security vulnerability that could allow unauthenticated attackers to execute code on vulnerable websites under specific conditions. Site administrators should update immediately because succe",
-    "created_at": "2026-09-23T07:32:02.119729+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
-    "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
-    "published": "Wed, 23 Sep 2026 03:17:23 -0400",
-    "source": "BleepingComputer",
-    "summary": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
-    "created_at": "2026-09-23T07:32:08.453721+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=164472",
-    "title": "This Malware Doesn’t Wait for Hackers—It Asks AI Models What to Do Next",
-    "link": "https://cybersecuritynews.com/ai-models/",
-    "published": "Wed, 23 Sep 2026 07:20:40 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A Windows malware sample called CLOSEDQUORUM can choose its next move without waiting for an attacker to send instructions. Once configured and deployed, it asks AI models whether to steal data, hide in a process, or maintain access. The decision mak",
-    "created_at": "2026-09-23T07:32:16.112061+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=164483",
-    "title": "ChatGPT Computer History Feature Creates New Attack Surface for macOS Infostealers",
-    "link": "https://cybersecuritynews.com/chatgpt-computer-history-feature/",
-    "published": "Wed, 23 Sep 2026 07:31:10 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A new feature in ChatGPT now records your actions on your Mac, creating a detailed, plain-text diary of your work. This unencrypted log is vulnerable to cybercriminals, offering them an easy target. Released by OpenAI in mid-August 2026 and available",
-    "created_at": "2026-09-23T08:01:23.677576+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=164264",
-    "title": "Top 10 Best Secrets Management Tools in 2026 [Ranked & Scored]",
-    "link": "https://cybersecuritynews.com/best-secrets-management-tools/",
-    "published": "Wed, 23 Sep 2026 07:43:53 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Machine identities now outnumber humans many times over, and a single API key in a public repo can undo a security program. We scored ten secrets managers on rotation depth, integration reach, and cost clarity. HashiCorp Vault ranks #1 the dynamic-se",
-    "created_at": "2026-09-23T08:01:25.753659+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=164469",
-    "title": "Chrome Patches 108 Vulnerabilities Including Crticial Flaws that Enable Code Execution Attacks",
-    "link": "https://cybersecuritynews.com/chrome-patches-108-vulnerabilities/",
-    "published": "Wed, 23 Sep 2026 07:46:37 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Google has released Chrome 154 for Windows, macOS, and Linux, fixing 108 security vulnerabilities, including several critical memory-safety flaws that could potentially allow attackers to execute code through malicious web content. The update is roll",
-    "created_at": "2026-09-23T08:01:28.721315+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=164462",
     "title": "Critical ManageEngine Flaw Lets Attackers Gain SYSTEM Access Through Windows Login Screen",
     "link": "https://cybersecuritynews.com/critical-manageengine-flaw/",
@@ -6406,5 +6343,23 @@
     "source": "CybersecurityNews",
     "summary": "A cybercriminal using the online handle BUGSTER used artificial intelligence tools to support attacks on Indian organizations, including two universities. In one confirmed intrusion, the attacker stole a MongoDB database containing more than 5,200 re",
     "created_at": "2026-10-23T07:31:16.127933+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
+    "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
+    "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
+    "published": "Fri, 23 Oct 2026 13:10:45 +0530",
+    "source": "The Hacker News",
+    "summary": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing the flaws may be harder than pre",
+    "created_at": "2026-10-23T08:01:27.363579+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
+    "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
+    "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
+    "published": "Fri, 23 Oct 2026 13:20:01 +0530",
+    "source": "The Hacker News",
+    "summary": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have demonstrated.\n\nTheir &quot;Node2Shell&quot; proof of concept ran code on the official Node.js 24.22.0 image",
+    "created_at": "2026-10-23T08:01:37.893035+00:00"
   }
 ]
