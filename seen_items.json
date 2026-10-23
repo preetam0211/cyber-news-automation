@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=164498",
-    "title": "NVIDIA Fixes Linux Component Flaws That Could Expose Sensitive System Information",
-    "link": "https://cybersecuritynews.com/nvidia-fixes-linux-component-flaws/",
-    "published": "Wed, 23 Sep 2026 11:05:30 +0000",
-    "source": "CybersecurityNews",
-    "summary": "NVIDIA released a security update for its Infrastructure Controller software for Linux, addressing 14 vulnerabilities that could let attackers access sensitive system information, execute code, alter data, or disrupt affected environments. The update",
-    "created_at": "2026-09-23T12:01:08.676144+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=164519",
     "title": "The Domains Keep Disappearing, but the Malware Infrastructure Behind Them Never Moves",
     "link": "https://cybersecuritynews.com/domains-keep-disappearing/",
@@ -6334,5 +6325,14 @@
     "source": "The Hacker News",
     "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws.\n\nThe new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way",
     "created_at": "2026-10-23T11:31:22.949012+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168482",
+    "title": "Hackers Use New BlackX Bootkit to Bypass Windows Secure Boot on Fully Patched Systems",
+    "link": "https://cybersecuritynews.com/hackers-use-new-blackx-bootkit/",
+    "published": "Fri, 23 Oct 2026 11:23:35 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new UEFI bootkit called BlackX has been used in cyberespionage attacks against diplomatic organizations in Tajikistan, Uzbekistan, and Turkmenistan. The malware targets Secure Boot, a feature designed to help stop untrusted software from running be",
+    "created_at": "2026-10-23T12:01:09.815778+00:00"
   }
 ]
