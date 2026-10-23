@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=164484",
-    "title": "Critical SolarWinds Flaws Let Attackers Remotely Execute Code on Observability Servers",
-    "link": "https://cybersecuritynews.com/solarwinds-flaws-execute-code-on-observability-servers/",
-    "published": "Wed, 23 Sep 2026 08:15:42 +0000",
-    "source": "CybersecurityNews",
-    "summary": "SolarWinds released Observability Self-Hosted 2026.2.3 to fix two serious vulnerabilities that could let unauthenticated attackers remotely execute code on affected observability servers. The flaws, tracked as CVE-2026-28324 and CVE-2026-28325, affec",
-    "created_at": "2026-09-23T10:01:35.139224+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=164474",
-    "title": "A Fake Streaming App Turned Android Phones Into Remote-Controlled Devices",
-    "link": "https://cybersecuritynews.com/a-fake-streaming-app/",
-    "published": "Wed, 23 Sep 2026 08:46:27 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A free television offer led Android users to a dangerous download. Ads for a streaming service urged them to install an app that could give criminals control of their phones, rather than access to shows. The malware behind the campaign is called Stre",
-    "created_at": "2026-09-23T10:01:44.117380+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=164495",
-    "title": "AI-Driven Cyberattacks Enter New Phase With Autonomous Fraud and Digital Trust Abuse",
-    "link": "https://cybersecuritynews.com/ai-driven-cyberattacks/",
-    "published": "Wed, 23 Sep 2026 08:59:52 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Cyberattacks are increasingly built around familiar actions: signing in, approving a payment, or using a trusted app. Artificial intelligence can help attackers repeat those actions at speed, making financial fraud and network intrusion harder to spo",
-    "created_at": "2026-09-23T10:01:46.181180+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=164503",
-    "title": "The Malware Hiding in Developer Tools That Turned Terraform Providers Into Attack Paths",
-    "link": "https://cybersecuritynews.com/malware-hiding-in-developer-tools/",
-    "published": "Wed, 23 Sep 2026 09:22:31 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Malware has moved into tools developers use to build and manage cloud infrastructure. A campaign linked to Graphalgo planted a remote access program in Terraform providers and Go software packages, turning routine development work into a possible rou",
-    "created_at": "2026-09-23T10:01:48.350142+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=164506",
     "title": "The Phishing Kit That Turned Microsoft’s Login Flow Into an AI-Powered Fraud Machine",
     "link": "https://cybersecuritynews.com/the-phishing-kit/",
@@ -6361,5 +6325,14 @@
     "source": "CybersecurityNews",
     "summary": "State Bank of India (SBI) has individually notified customers whose information was identified in a recent cyber incident, sending alerts through email and WhatsApp. In its latest advisory on October 23, the bank said customer account balances and fu",
     "created_at": "2026-10-23T09:31:39.854388+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
+    "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
+    "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
+    "published": "Fri, 23 Oct 2026 15:06:00 +0530",
+    "source": "The Hacker News",
+    "summary": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open.\n\nThe flaw, CVE-2026-112900, is in the way Pillow handles EPS images, which it opens b",
+    "created_at": "2026-10-23T10:31:31.391390+00:00"
   }
 ]
