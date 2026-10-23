@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
-    "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
-    "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
-    "published": "Wed, 23 Sep 2026 17:46:00 +0530",
-    "source": "The Hacker News",
-    "summary": "A flaw in cPanel&#x27;s CalDAV and CardDAV service lets anyone with a cPanel hosting account run code as root and take &quot;full control of the server,&quot; the company said on September 22.\n\nA second bug in the WP Toolkit plugin, used to install a",
-    "created_at": "2026-09-23T13:01:13.122087+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=164539",
-    "title": "Fake Crypto Wallet App Spreads PamStealer Malware to Steal Mac Passwords",
-    "link": "https://cybersecuritynews.com/fake-crypto-wallet-app-spreads-pamstealer-malware-to-steal-mac-passwords/",
-    "published": "Wed, 23 Sep 2026 12:44:40 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A fake cryptocurrency wallet download is delivering a new version of PamStealer to Mac users. The attack starts with a convincing website whose installer asks visitors to follow instructions. Running the disguised file starts a hidden chain that can ",
-    "created_at": "2026-09-23T13:01:15.225530+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=164525",
     "title": "Critical NEXT.JS Flaw Enables RCE Attacks Via Weaponized SVG File",
     "link": "https://cybersecuritynews.com/critical-next-js-flaw-allows-remote-code-execution/",
@@ -6298,5 +6280,14 @@
     "source": "BleepingComputer",
     "summary": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]",
     "created_at": "2026-10-23T13:01:10.027479+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168522",
+    "title": "Critical PHP2Shell Exploit Code Goes Public as Hackers Attempt to Deploy Botnet Malware",
+    "link": "https://cybersecuritynews.com/critical-php2shell-exploit-code/",
+    "published": "Fri, 23 Oct 2026 13:00:37 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Public proof-of-concept code for two critical PHP vulnerabilities is now available, and attackers have tried to use the flaws to deploy botnet malware. Known together as PHP2Shell, CVE-2026-109618 and CVE-2026-109619 both carry a CVSS severity score ",
+    "created_at": "2026-10-23T13:31:28.639981+00:00"
   }
 ]
