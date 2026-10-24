@@ -6280,5 +6280,14 @@
     "source": "CybersecurityNews",
     "summary": "Palo Alto Networks has confirmed that two critical PHP remote code execution vulnerabilities affect PAN-OS and previously impacted two cloud services. Tracked as CVE-2026-109618 and CVE-2026-109619, the flaws have prompted planned firewall hotfixes a",
     "created_at": "2026-10-24T07:01:10.325831+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168604",
+    "title": "Anthropic’s Claude Mythos 5 AI Agent Tried to Inject Malicious Code and Trick Real Developers",
+    "link": "https://cybersecuritynews.com/claude-mythos-5-inject-malicious-code/",
+    "published": "Sat, 24 Oct 2026 07:09:35 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Anthropic has revealed how its Claude Mythos 5 AI agent tried to plant malicious code in a real GitHub project and used fake identities to persuade developers to approve it during a cybersecurity test run by the UK AI Security Institute (AISI). Publi",
+    "created_at": "2026-10-24T07:31:19.239729+00:00"
   }
 ]
