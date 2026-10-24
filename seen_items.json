@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
-    "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
-    "link": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
-    "published": "Thu, 24 Sep 2026 23:22:43 +0530",
-    "source": "The Hacker News",
-    "summary": "This week, the dangerous stuff keeps arriving dressed as something boring. An update. A login box. A search answer. A coding tool. A link you have clicked a hundred times before.\n\nThat is the thread running through the pile. Trusted paths get poisone",
-    "created_at": "2026-09-24T19:01:24.764691+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
-    "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
-    "link": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
-    "published": "Thu, 24 Sep 2026 23:40:18 +0530",
-    "source": "The Hacker News",
-    "summary": "A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moorats, chained two flaws in OnePlus&#x27;s own software to gain root access, the highest le",
-    "created_at": "2026-09-24T19:01:29.826017+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=164693",
-    "title": "SCOUTz Prospect Intelligence Platform Launches for MSPs with 30-Day Beta",
-    "link": "https://cybersecuritynews.com/scoutz-prospect-intelligence-platform-launches-for-msps-with-30-day-beta/",
-    "published": "Thu, 24 Sep 2026 18:59:07 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Phoenix, Arizona, September 24th, 2026, CyberNewswire SCOUTz, a prospect intelligence platform built for managed service provider (MSP) security sales, is now available in open beta. The platform gives an MSP dated evidence about a prospect’s environ",
-    "created_at": "2026-09-24T19:31:07.199237+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
     "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
     "link": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
