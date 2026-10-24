@@ -114,7 +114,7 @@ MITRE_ATLAS_PATTERNS = {
 
 def call_gemini_mitre_mapping(title, summary, api_key):
     """Call Gemini API to semantically determine the MITRE ATT&CK or MITRE ATLAS framework and mapping."""
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent?key={api_key}"
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent?key={api_key}"
     headers = {"Content-Type": "application/json"}
     
     prompt = (

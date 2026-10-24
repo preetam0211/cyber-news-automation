@@ -38,8 +38,8 @@ def overlap_coefficient(text1, text2):
 
 def call_gemini_semantic_check(new_title, new_summary, recent_items, api_key):
     """Call Gemini API to semantically determine if the new article is a duplicate of recent items."""
-    # Use the stable production endpoint for gemini-3.6-flash
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent?key={api_key}"
+    # Use the stable production endpoint for gemini-3.5-flash-lite
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent?key={api_key}"
     headers = {"Content-Type": "application/json"}
     
     # Construct prompt listing the candidate duplicates
