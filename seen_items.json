@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=164676",
-    "title": "Fake PDF Files Hide Konni Malware Campaign Targeting Ukraine Organizations",
-    "link": "https://cybersecuritynews.com/konni-malware-campaign/",
-    "published": "Thu, 24 Sep 2026 13:39:18 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A newly documented campaign targeting people and organizations focused on Ukraine uses document-themed Windows shortcuts to install a malware downloader called VelvetCake. The goal appears to be gathering political and military intelligence about the",
-    "created_at": "2026-09-24T14:01:08.295644+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
-    "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
-    "link": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
-    "published": "Thu, 24 Sep 2026 10:02:12 -0400",
-    "source": "BleepingComputer",
-    "summary": "FedRAMP&#x27;s new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronger evidence requirements. Anecdotes explains why the December 7 deadline is just the beginning o",
-    "created_at": "2026-09-24T14:31:06.910732+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html",
     "title": "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer",
     "link": "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html",
@@ -6163,5 +6145,14 @@
     "source": "The Hacker News",
     "summary": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package.\n\n&quot;On May 27, 2026, ",
     "created_at": "2026-10-24T12:01:28.457582+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+    "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+    "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+    "published": "Sat, 24 Oct 2026 10:17:32 -0400",
+    "source": "BleepingComputer",
+    "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [..",
+    "created_at": "2026-10-24T14:31:08.028445+00:00"
   }
 ]
