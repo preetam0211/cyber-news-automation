@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
-    "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
-    "published": "Thu, 24 Sep 2026 09:27:57 -0400",
-    "source": "BleepingComputer",
-    "summary": "A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. [...]",
-    "created_at": "2026-09-24T13:31:08.072062+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=164676",
     "title": "Fake PDF Files Hide Konni Malware Campaign Targeting Ukraine Organizations",
     "link": "https://cybersecuritynews.com/konni-malware-campaign/",
