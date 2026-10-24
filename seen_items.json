@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
-    "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
-    "link": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
-    "published": "Thu, 24 Sep 2026 16:10:48 -0400",
-    "source": "BleepingComputer",
-    "summary": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
-    "created_at": "2026-09-24T20:31:05.398877+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
     "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
     "link": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
