@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=164609",
-    "title": "Malicious Firefox Extension Disguised as PDF Tool Steals Google Account Sessions",
-    "link": "https://cybersecuritynews.com/malicious-firefox-extension/",
-    "published": "Thu, 24 Sep 2026 07:15:03 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A Firefox add-on posing as a tool for opening protected PDF documents can quietly turn a signed-in browser into a route to Google account theft. It waits until installation to obtain the instructions that make it dangerous, leaving little suspicious ",
-    "created_at": "2026-09-24T07:31:20.545148+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=164600",
-    "title": "Hackers Exploit Critical Check Point VPN Flaws to Gain Remote Access Without Login",
-    "link": "https://cybersecuritynews.com/hackers-exploit-critical-check-point-vpn-flaws/",
-    "published": "Thu, 24 Sep 2026 07:35:19 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Check Point has warned that attackers are actively exploiting two critical vulnerabilities in its VPN and management products, allowing unauthenticated remote access and possible remote code execution. Both flaws carry a CVSS severity score of 9.8, a",
-    "created_at": "2026-09-24T08:01:02.992622+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=164608",
-    "title": "Roundcube Webmail SQL Injection Vulnerability Exploited in the Wild",
-    "link": "https://cybersecuritynews.com/roundcube-webmail-vulnerability-exploited/",
-    "published": "Thu, 24 Sep 2026 07:37:03 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A critical security issue affecting Roundcube Webmail is now being exploited in the wild, prompting administrators to update exposed installations urgently. The Canadian Center for Cyber Security said open-source reporting confirmed active exploitati",
-    "created_at": "2026-09-24T08:01:08.270186+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
     "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
     "link": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
@@ -6289,5 +6262,14 @@
     "source": "CybersecurityNews",
     "summary": "Anthropic has revealed how its Claude Mythos 5 AI agent tried to plant malicious code in a real GitHub project and used fake identities to persuade developers to approve it during a cybersecurity test run by the UK AI Security Institute (AISI). Publi",
     "created_at": "2026-10-24T07:31:19.239729+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+    "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+    "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+    "published": "Sat, 24 Oct 2026 11:55:57 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports ",
+    "created_at": "2026-10-24T08:01:09.719550+00:00"
   }
 ]
