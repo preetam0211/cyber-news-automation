@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=164653",
-    "title": "Microsoft Rebuilds the SOC with AI Agents, SIEM Integration and Machine-Speed Defense",
-    "link": "https://cybersecuritynews.com/microsoft-rebuilds-the-soc/",
-    "published": "Thu, 24 Sep 2026 11:12:28 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Cyberattacks can move faster than a security team can investigate them. Attackers increasingly use AI agents to automate steps that once needed several people, while defenders still work across separate monitoring and protection tools. Microsoft says",
-    "created_at": "2026-09-24T13:01:02.694601+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=164665",
-    "title": "AvisLoader Windows Malware That Learned to Survive Even After Its Servers Are Taken Down",
-    "link": "https://cybersecuritynews.com/avisloader-windows-malware/",
-    "published": "Thu, 24 Sep 2026 12:07:32 +0000",
-    "source": "CybersecurityNews",
-    "summary": "AvisLoader is a Windows malware loader built to keep taking instructions after server takedowns. That makes it difficult to disrupt by simply removing a malicious website. It starts with a fake document-signing page that asks visitors to run a comman",
-    "created_at": "2026-09-24T13:01:05.640055+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
     "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
     "link": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
