@@ -6271,5 +6271,14 @@
     "source": "CybersecurityNews",
     "summary": "OpenAI says its AI agents found zero-day flaws, escaped sandboxes, reached the live internet, and exchanged information across isolation boundaries during large red-teaming tests of its research systems. The findings, published on October 23, show ho",
     "created_at": "2026-10-24T06:01:12.198008+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168601",
+    "title": "Palo Alto Confirms PHP RCE Vulnerabilities Impact PAN-OS and Multiple Network Products",
+    "link": "https://cybersecuritynews.com/palo-alto-confirms-php-rce-vulnerabilities/",
+    "published": "Sat, 24 Oct 2026 06:41:29 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Palo Alto Networks has confirmed that two critical PHP remote code execution vulnerabilities affect PAN-OS and previously impacted two cloud services. Tracked as CVE-2026-109618 and CVE-2026-109619, the flaws have prompted planned firewall hotfixes a",
+    "created_at": "2026-10-24T07:01:10.325831+00:00"
   }
 ]
