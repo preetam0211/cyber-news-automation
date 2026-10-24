@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
-    "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
-    "link": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
-    "published": "Thu, 24 Sep 2026 11:06:18 +0530",
-    "source": "The Hacker News",
-    "summary": "Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure.\n\nThe vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an unauthenticated attacker to obtain remote c",
-    "created_at": "2026-09-24T08:31:02.831875+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
     "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
     "link": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
