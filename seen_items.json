@@ -6199,5 +6199,23 @@
     "source": "The Hacker News",
     "summary": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the machine.\n\nThe up",
     "created_at": "2026-10-24T10:31:16.201218+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+    "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+    "link": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+    "published": "Sat, 24 Oct 2026 16:06:33 +0530",
+    "source": "The Hacker News",
+    "summary": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google services.\n\n&",
+    "created_at": "2026-10-24T12:01:15.536399+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
+    "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
+    "link": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
+    "published": "Sat, 24 Oct 2026 16:33:33 +0530",
+    "source": "The Hacker News",
+    "summary": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package.\n\n&quot;On May 27, 2026, ",
+    "created_at": "2026-10-24T12:01:28.457582+00:00"
   }
 ]
