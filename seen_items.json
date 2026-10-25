@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=164859",
-    "title": "Researchers Found a Botnet That Uses an AI Agent to Operate Inside Compromised Servers",
-    "link": "https://cybersecuritynews.com/botnet-uses-ai-agent/",
-    "published": "Fri, 25 Sep 2026 14:17:54 +0000",
-    "source": "CybersecurityNews",
-    "summary": "CARBONATO is a botnet that turns Docker servers into footholds for attackers. It places an AI agent inside compromised systems, letting operators send tasks through Telegram and receive results. The campaign begins with Docker services carelessly exp",
-    "created_at": "2026-09-25T14:31:17.695910+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
     "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
     "link": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
