@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=164854",
-    "title": "Salmon Introduces Execution Verification Infrastructure (EVI) for Securing AI Agents and Autonomous Systems",
-    "link": "https://cybersecuritynews.com/salmon-introduces-execution-verification-infrastructure-evi-for-securing-ai-agents-and-autonomous-systems/",
-    "published": "Fri, 25 Sep 2026 13:35:24 +0000",
-    "source": "CybersecurityNews",
-    "summary": "San Francisco, USA, September 25th, 2026, CyberNewswire Archipelo today announced Salmon, Execution Verification Infrastructure (EVI) for AI agents and autonomous systems, powered by a cryptographic protocol designed to make execution history verifia",
-    "created_at": "2026-09-25T14:31:11.993803+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=164849",
-    "title": "Sauron Loader Malware Uses DLL Side-Loading and In-Memory Decryption to Evade Detection",
-    "link": "https://cybersecuritynews.com/sauron-loader-malware/",
-    "published": "Fri, 25 Sep 2026 13:47:28 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Sauron Loader has surfaced in attacks on German organizations, giving intruders a way to deliver more malware. The new tool need not be the first thing a victim encounters. In the cases examined, it arrived at the end of attack chains built around de",
-    "created_at": "2026-09-25T14:31:15.451742+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=164859",
     "title": "Researchers Found a Botnet That Uses an AI Agent to Operate Inside Compromised Servers",
     "link": "https://cybersecuritynews.com/botnet-uses-ai-agent/",
@@ -5821,5 +5803,14 @@
     "source": "The Hacker News",
     "summary": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models.\n\n&quot;Based on the current state of alignment resea",
     "created_at": "2026-10-25T08:01:09.986150+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168713",
+    "title": "Tailscale SSH Flaws Could Let Hackers Gain Root Access Across Servers From One Compromised Device",
+    "link": "https://cybersecuritynews.com/tailscale-ssh-flaws/",
+    "published": "Sun, 25 Oct 2026 14:11:30 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new security report warns that Tailscale SSH has flaws that could let a hacker move from one compromised device to root access on other servers. Tailscale SSH lets approved devices log in to each other over a private network. The report, called Tai",
+    "created_at": "2026-10-25T14:31:15.484256+00:00"
   }
 ]
