@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
-    "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
-    "link": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
-    "published": "Fri, 25 Sep 2026 10:51:10 -0400",
-    "source": "BleepingComputer",
-    "summary": "AI agents can operate through human credentials and take actions that existing SOC 2 controls may not distinguish from human activity. Token Security explains why SOC 2 needs to adapt to address the security gaps created by agent identities. [...]",
-    "created_at": "2026-09-25T15:01:24.262253+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
-    "title": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
-    "published": "Fri, 25 Sep 2026 10:54:33 -0400",
-    "source": "BleepingComputer",
-    "summary": "OpenAI appears to be preparing a new ChatGPT Pro Max subscription that could cost $500 per month, but it&#x27;s unclear when it&#x27;ll begin rolling out. [...]",
-    "created_at": "2026-09-25T15:01:26.459140+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=164862",
-    "title": "Hackers Used a Samsung Flaw to Build a Cryptominer Inside Victim Systems",
-    "link": "https://cybersecuritynews.com/samsung-flaw/",
-    "published": "Fri, 25 Sep 2026 14:34:58 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Attackers broke into a Windows system through a known flaw in Samsung’s MagicINFO software, then built a cryptocurrency miner on the compromised machine. Rather than arriving as a finished program, the miner was assembled there, leaving an unusual ac",
-    "created_at": "2026-09-25T15:31:02.057918+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html",
     "title": "PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence",
     "link": "https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html",
