@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=164820",
-    "title": "Google Ads Campaign Spreads Fake Security Alerts That Lock Browsers and Push Malware",
-    "link": "https://cybersecuritynews.com/google-ads-campaign/",
-    "published": "Fri, 25 Sep 2026 11:04:38 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Malicious ads are steering people to fake security warnings that appear to take over their browsers. The pages urge visitors to call a supposed support line, turning a routine ad click into an attempt to extract money, personal details or access to a",
-    "created_at": "2026-09-25T12:01:06.773973+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
-    "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
-    "link": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
-    "published": "Fri, 25 Sep 2026 07:35:14 -0400",
-    "source": "BleepingComputer",
-    "summary": "A Kosovar national has pleaded guilty to operating Rydox, a large illegal online marketplace that sold stolen personal information, login credentials, credit card details, and cybercrime tools. [...]",
-    "created_at": "2026-09-25T12:01:22.931653+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=164833",
-    "title": "Microsoft Confirms Windows 11 Update Bug Causing Black Screens and Loading Issues",
-    "link": "https://cybersecuritynews.com/windows-11-update-bug-causing-black-screens/",
-    "published": "Fri, 25 Sep 2026 11:37:58 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Microsoft has confirmed a Windows 11 issue that can leave users staring at a black screen after signing in, with the desktop shell failing to start automatically. The problem emerged after installation of the August 27, 2026 non-security preview upda",
-    "created_at": "2026-09-25T12:01:24.330739+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=164828",
     "title": "Attackers Are Turning Everyday Business Emails Into Malware Delivery Machines",
     "link": "https://cybersecuritynews.com/business-emails/",
