@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
-    "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
-    "link": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
-    "published": "Fri, 25 Sep 2026 10:16:34 +0530",
-    "source": "The Hacker News",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitat",
-    "created_at": "2026-09-25T06:31:05.628272+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
-    "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
-    "link": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
-    "published": "Fri, 25 Sep 2026 10:19:22 +0530",
-    "source": "The Hacker News",
-    "summary": "A flaw in Cloudflare Containers let a paying customer read data that other customers&#x27; containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday.\n\nThe data came from disk space that earlier contai",
-    "created_at": "2026-09-25T06:31:07.625577+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=164767",
     "title": "New MacSync Malware Turns macOS Apps Into Tools for Crypto and Password Theft",
     "link": "https://cybersecuritynews.com/new-macsync-malware/",
@@ -6037,5 +6019,14 @@
     "source": "BleepingComputer",
     "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [..",
     "created_at": "2026-10-24T14:31:08.028445+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168704",
+    "title": "Microsoft Teams to Use AI for Detecting Phishing Attacks Using Teams Conversations",
+    "link": "https://cybersecuritynews.com/microsoft-teams-ai-detection/",
+    "published": "Sun, 25 Oct 2026 06:55:23 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft is preparing to add AI phishing detection to Microsoft Teams, using conversation context to spot scams that may contain no harmful links or attachments. The feature will focus mainly on first conversations with external contacts, where atta",
+    "created_at": "2026-10-25T07:01:20.959774+00:00"
   }
 ]
