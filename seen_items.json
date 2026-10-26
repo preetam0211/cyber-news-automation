@@ -5722,5 +5722,23 @@
     "source": "CybersecurityNews",
     "summary": "India’s Central Board of Film Certification (CBFC) is investigating a reported data breach involving confidential documents linked to more than 500 film titles. The exposed records reportedly include shooting scripts, censor cut orders, certification",
     "created_at": "2026-10-26T06:31:16.179507+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168746",
+    "title": "Microsoft Authenticator Flaw Lets Malicious Android Apps Steal Account Tokens With Zero Permissions",
+    "link": "https://cybersecuritynews.com/microsoft-authenticator-flaw/",
+    "published": "Mon, 26 Oct 2026 06:33:44 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft patched high-severity flaw CVE-2026-80097 (CVSS 8.6) in Authenticator for Android, allowing malicious apps with no declared permissions to steal work account access tokens due to improper authentication in its broker component. Microsoft cl",
+    "created_at": "2026-10-26T07:01:15.697929+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168742",
+    "title": "HTTP2Shell Vulnerability Extends Beyond HTTP, Affecting .NET, FFmpeg, ClickHouse, and Apache Arrow",
+    "link": "https://cybersecuritynews.com/http2shell-vulnerability/",
+    "published": "Mon, 26 Oct 2026 06:35:41 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The HTTP2Shell vulnerability reaches beyond web traffic, with new research showing how the same Brotli decoder flaw (CVE-2026-111497) can disrupt .NET applications, FFmpeg media processing, ClickHouse servers, and Apache Arrow workloads. The findings",
+    "created_at": "2026-10-26T07:01:29.584589+00:00"
   }
 ]
