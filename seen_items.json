@@ -5884,5 +5884,14 @@
     "source": "BleepingComputer",
     "summary": "A critical flaw dubbed &#x27;HTTP2Shell&#x27; in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]",
     "created_at": "2026-10-26T16:34:18.989589+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168874",
+    "title": "Hackers Can Hijack OpenAI Codex and Claude Code Using Malicious Files in Downloads Folder",
+    "link": "https://cybersecuritynews.com/codex-and-claude-code-hijack/",
+    "published": "Mon, 26 Oct 2026 16:35:45 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A plain text file placed in the Downloads folder can trick AI coding agents into changing their settings, installing malware, or exposing login tokens. Forever Security discovered the risk after stopping an agent on a real customer’s computer from in",
+    "created_at": "2026-10-26T17:01:32.551488+00:00"
   }
 ]
