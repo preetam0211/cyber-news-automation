@@ -5821,5 +5821,14 @@
     "source": "CybersecurityNews",
     "summary": "Kali Linux 2026.3 has been released as the third Kali update of 2026, bringing six new penetration testing tools, Linux kernel 7.1.5, KDE Plasma 6.7, refreshed image-building scripts, and a large set of Kali NetHunter changes. The release arrived on ",
     "created_at": "2026-10-26T11:01:27.084848+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
+    "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
+    "link": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
+    "published": "Mon, 26 Oct 2026 16:53:56 +0530",
+    "source": "The Hacker News",
+    "summary": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform, connects individual alerts into one timeline, and it",
+    "created_at": "2026-10-26T12:01:28.096754+00:00"
   }
 ]
