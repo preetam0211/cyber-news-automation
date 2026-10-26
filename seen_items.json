@@ -5821,5 +5821,32 @@
     "source": "The Hacker News",
     "summary": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform, connects individual alerts into one timeline, and it",
     "created_at": "2026-10-26T12:01:28.096754+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
+    "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
+    "link": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
+    "published": "Mon, 26 Oct 2026 17:22:41 +0530",
+    "source": "The Hacker News",
+    "summary": "Two critical flaws in Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox intended to contain it, the project&#x27;s maintainers say.\n\nAn attacker would first need a ",
+    "created_at": "2026-10-26T13:31:34.703691+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168760",
+    "title": "Cloudflare Release Emergency WAF Ruleset Update Following Brotli Vulnerability",
+    "link": "https://cybersecuritynews.com/cloudflare-release-brotli-vulnerability-waf-ruleset/",
+    "published": "Mon, 26 Oct 2026 13:18:59 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cloudflare has announced an emergency Web Application Firewall (WAF) ruleset update linked to CVE-2026-111497, a Brotli vulnerability. The October 25, 2026 release adds two rules for Brotli-encoded request bodies and the Next.js image optimization en",
+    "created_at": "2026-10-26T13:32:11.501577+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168787",
+    "title": "Microsoft Releases Out-of-Band Security Updates for Brotli and .NET tarballs Vulnerability",
+    "link": "https://cybersecuritynews.com/microsoft-security-updates-for-brotli-and-net-tarballs-vulnerability/",
+    "published": "Mon, 26 Oct 2026 13:22:05 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has released out-of-band security updates for .NET to fix a Brotli buffer overflow and unsafe ownership settings in Linux distribution archives. Published on October 25, 2026, the release covers .NET 8, .NET 9, .NET 10, and .NET 11 Release ",
+    "created_at": "2026-10-26T13:32:49.189478+00:00"
   }
 ]
