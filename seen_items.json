@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=164827",
-    "title": "F-Droid 2.0 Released After 10 years With Major Redesign to Transform Open-Source Android App Discovery",
-    "link": "https://cybersecuritynews.com/f-droid-2-0-released/",
-    "published": "Sat, 26 Sep 2026 15:56:43 +0000",
-    "source": "CybersecurityNews",
-    "summary": "F-Droid has released version 2.0 of its official Android app, delivering its largest client update in a decade. The open-source Android app repository said the release follows more than a year of development and 14 test builds, with a staged rollout ",
-    "created_at": "2026-09-26T16:31:19.027395+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
-    "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
-    "published": "Sat, 26 Sep 2026 12:26:58 -0400",
-    "source": "BleepingComputer",
-    "summary": "Anthropic&#x27;s Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and simpler wording compared with Opus 5. [...]",
-    "created_at": "2026-09-26T16:31:36.062224+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=164883",
     "title": "Local AI Model Modifies Windows Credential Dumper to Bypass EDR Detection",
     "link": "https://cybersecuritynews.com/local-ai-bypasses-edr/",
@@ -5866,5 +5848,41 @@
     "source": "BleepingComputer",
     "summary": "Microsoft released emergency .NET security updates to patch a critical vulnerability known as Broccoli2Shell, also tracked as Node2Shell and HTTP2Shell. [...]",
     "created_at": "2026-10-26T16:01:34.459706+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168865",
+    "title": "PHP Releases New Windows Build Security Updates to Fix Critical HTTP2Shell Vulnerability",
+    "link": "https://cybersecuritynews.com/php-http2shell-vulnerability/",
+    "published": "Mon, 26 Oct 2026 15:53:07 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The PHP team has released updated Windows builds to fix a serious flaw known as HTTP2Shell. The new packages are PHP 8.5.12-1, 8.4.27-1, 8.3.36-1, and 8.2.35-1, and PHP announced them on October 26, 2026. Each build now includes Brotli 1.2.1, which f",
+    "created_at": "2026-10-26T16:31:56.982823+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168798",
+    "title": "Emperador Ransomware Group Claims to Have Stolen 3.9GB of Data from the Maker of Budweiser and Corona",
+    "link": "https://cybersecuritynews.com/emperador-ransomware-group-claim/",
+    "published": "Mon, 26 Oct 2026 15:58:08 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The Emperador ransomware group claims to have stolen 3.9GB of data from AB InBev and demands $1 million in Bitcoin, but the alleged breach remains unverified, with no company confirmation reported. The claim was discovered on October 25, 2026, at 03:",
+    "created_at": "2026-10-26T16:32:49.384965+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168813",
+    "title": "OpenBSD 8.0 Released With Major Security Hardening and Post-Quantum SSH Support",
+    "link": "https://cybersecuritynews.com/openbsd-8-0-released/",
+    "published": "Mon, 26 Oct 2026 15:59:50 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OpenBSD 8.0 has been released with security fixes across its kernel, network services, firewall, and update tools, alongside experimental post-quantum SSH signature support. Released on October 20, 2026, the project’s 61st release includes OpenSSH 10",
+    "created_at": "2026-10-26T16:33:31.889912+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
+    "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
+    "published": "Mon, 26 Oct 2026 12:27:57 -0400",
+    "source": "BleepingComputer",
+    "summary": "A critical flaw dubbed &#x27;HTTP2Shell&#x27; in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]",
+    "created_at": "2026-10-26T16:34:18.989589+00:00"
   }
 ]
