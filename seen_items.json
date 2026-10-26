@@ -5740,5 +5740,14 @@
     "source": "CybersecurityNews",
     "summary": "The HTTP2Shell vulnerability reaches beyond web traffic, with new research showing how the same Brotli decoder flaw (CVE-2026-111497) can disrupt .NET applications, FFmpeg media processing, ClickHouse servers, and Apache Arrow workloads. The findings",
     "created_at": "2026-10-26T07:01:29.584589+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+    "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+    "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+    "published": "Mon, 26 Oct 2026 11:33:48 +0530",
+    "source": "The Hacker News",
+    "summary": "A malicious instruction file sitting in a developer&#x27;s Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm Forever Security said in a report published last week.\n\nThe company caught the attemp",
+    "created_at": "2026-10-26T08:01:02.675319+00:00"
   }
 ]
