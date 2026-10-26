@@ -5893,5 +5893,23 @@
     "source": "CybersecurityNews",
     "summary": "Microsoft has restored Microsoft Teams service after investigating an issue affecting some users in the United States on October 26, 2026. The company tracked the disruption under incident TM1526111 and said automatic scaling efforts had returned the",
     "created_at": "2026-10-26T17:31:09.990406+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
+    "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
+    "link": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
+    "published": "Mon, 26 Oct 2026 21:22:40 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers are calling attention to what they say is a &quot;recurring social engineering pattern&quot; across hundreds of cases in which threat actors use Microsoft Teams&#x27; external chat creation feature to conduct impersonation s",
+    "created_at": "2026-10-26T18:01:26.860396+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
+    "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
+    "link": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
+    "published": "Mon, 26 Oct 2026 23:15:57 +0530",
+    "source": "The Hacker News",
+    "summary": "PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include. The flaw can let an attacker corrupt memory and potentially run code.\n\nPHP says the flaw",
+    "created_at": "2026-10-26T18:01:46.808341+00:00"
   }
 ]
