@@ -5749,5 +5749,32 @@
     "source": "The Hacker News",
     "summary": "A malicious instruction file sitting in a developer&#x27;s Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm Forever Security said in a report published last week.\n\nThe company caught the attemp",
     "created_at": "2026-10-26T08:01:02.675319+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+    "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
+    "link": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+    "published": "Mon, 26 Oct 2026 13:19:46 +0530",
+    "source": "The Hacker News",
+    "summary": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository&#x27;s secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succeeded in private repositories",
+    "created_at": "2026-10-26T09:31:10.312838+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+    "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
+    "link": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+    "published": "Mon, 26 Oct 2026 14:05:51 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into email accounts at 79 organizations",
+    "created_at": "2026-10-26T09:31:21.258602+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+    "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+    "link": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+    "published": "Mon, 26 Oct 2026 05:19:57 -0400",
+    "source": "BleepingComputer",
+    "summary": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
+    "created_at": "2026-10-26T09:31:27.128695+00:00"
   }
 ]
