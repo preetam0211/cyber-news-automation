@@ -5911,5 +5911,14 @@
     "source": "The Hacker News",
     "summary": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025.\n\nAccording to Dutch e-commerce security company Sansec, the activity is designed to add a small piece of ",
     "created_at": "2026-10-26T20:01:13.139713+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168893",
+    "title": "Hackers Weaponize Public PHP2Shell Exploit Code to Target Universities and Business Websites",
+    "link": "https://cybersecuritynews.com/public-php2shell-exploit-code/",
+    "published": "Mon, 26 Oct 2026 20:29:21 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are now using public exploit code to break into websites that run PHP, and universities and business sites are among the main targets. The bugs behind this wave are two critical flaws in the PHP engine, tracked as CVE-2026-109618 and CVE-2026",
+    "created_at": "2026-10-26T20:31:02.297447+00:00"
   }
 ]
