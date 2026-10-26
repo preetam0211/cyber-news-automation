@@ -5722,5 +5722,14 @@
     "source": "The Hacker News",
     "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week.\n\nThe attack requires two things: Tailscale SSH set up to allow port ",
     "created_at": "2026-10-25T18:31:14.543792+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168735",
+    "title": "Hacker Exploits Critical PHP2Shell Flaws to Win $2,000 Bitcoin Challenge, Releases PoC",
+    "link": "https://cybersecuritynews.com/php2shell-flaws-exploited/",
+    "published": "Mon, 26 Oct 2026 03:41:52 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A security researcher known online as killa has won a public Bitcoin challenge by using two critical PHP flaws to reach a test server. The winning run took 19.28 hours. The prize pot was 0.02511679 BTC, worth $2,021.22 at the time of the win on Octob",
+    "created_at": "2026-10-26T04:01:13.035588+00:00"
   }
 ]
