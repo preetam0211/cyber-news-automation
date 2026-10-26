@@ -5776,5 +5776,41 @@
     "source": "BleepingComputer",
     "summary": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
     "created_at": "2026-10-26T09:31:27.128695+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168431",
+    "title": "Top 10 Best Hardware Security Modules (HSM) in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-hsm-solutions/",
+    "published": "Mon, 26 Oct 2026 09:40:03 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Every root of trust ends in an HSM the tamper-resistant hardware where CA keys, payment keys, and code-signing keys live beyond software’s reach. Two forces reshape the 2026 shortlist: FIPS 140-3 transitions retiring old validations, and post-quantum",
+    "created_at": "2026-10-26T10:01:12.627445+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168478",
+    "title": "Top 10 Best Sensitive Data Discovery Tools in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-data-discovery-tools/",
+    "published": "Mon, 26 Oct 2026 09:46:25 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Every data-security control inherits the same dependency: an inventory someone actually believes. Discovery is where that inventory comes from and in 2026 the job has hardened, because shadow data multiplies in SaaS and warehouses, AI pipelines copy ",
+    "created_at": "2026-10-26T10:01:23.323769+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168763",
+    "title": "OpenSSL 4.1.0 Released With DTLS 1.3 and Post-Quantum Security Improvements",
+    "link": "https://cybersecuritynews.com/openssl-4-1-0-released/",
+    "published": "Mon, 26 Oct 2026 09:46:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OpenSSL has released version 4.1.0, bringing DTLS 1.3 support, faster cryptographic operations, and new tools for developers building secure network services. Published on October 23, the update is a feature release, not a standalone security patch. ",
+    "created_at": "2026-10-26T10:01:34.508003+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168539",
+    "title": "Top 10 Best Data Access Governance Tools in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-data-access-governance/",
+    "published": "Mon, 26 Oct 2026 09:56:03 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Ask any enterprise “who can read the M&amp;A folder?” and watch the room go quiet effective access is buried under nested groups, inherited shares, service-account grants, and warehouse roles nobody has reviewed since the migration. Data access gover",
+    "created_at": "2026-10-26T10:01:40.371545+00:00"
   }
 ]
