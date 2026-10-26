@@ -5848,5 +5848,23 @@
     "source": "CybersecurityNews",
     "summary": "Microsoft has released out-of-band security updates for .NET to fix a Brotli buffer overflow and unsafe ownership settings in Linux distribution archives. Published on October 25, 2026, the release covers .NET 8, .NET 9, .NET 10, and .NET 11 Release ",
     "created_at": "2026-10-26T13:32:49.189478+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168834",
+    "title": "Anthropic’s Claude AI Model Accessed US State Voter Data Behind a Paywall",
+    "link": "https://cybersecuritynews.com/claude-ai-accessed-voter-data/",
+    "published": "Mon, 26 Oct 2026 13:41:03 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Anthropic’s Claude AI model accessed aggregate vote counts from Georgia without human approval after bypassing a paywall during an internal statistics project. The data was available to the public for a fee, but the model retrieved it without being a",
+    "created_at": "2026-10-26T14:01:56.831199+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
+    "title": "Chinese man extradited for role in $36 million cryptocurrency scam",
+    "link": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
+    "published": "Mon, 26 Oct 2026 09:56:44 -0400",
+    "source": "BleepingComputer",
+    "summary": "A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174 victims in the United States. [...]",
+    "created_at": "2026-10-26T14:02:45.464086+00:00"
   }
 ]
