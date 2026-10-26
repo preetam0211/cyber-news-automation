@@ -5938,5 +5938,14 @@
     "source": "BleepingComputer",
     "summary": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]",
     "created_at": "2026-10-26T21:31:06.950072+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
+    "title": "University of Copenhagen data breach exposes data of 525,000 people",
+    "link": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
+    "published": "Mon, 26 Oct 2026 18:20:36 -0400",
+    "source": "BleepingComputer",
+    "summary": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
+    "created_at": "2026-10-26T22:31:07.569165+00:00"
   }
 ]
