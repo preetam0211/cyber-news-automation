@@ -5848,5 +5848,23 @@
     "source": "BleepingComputer",
     "summary": "A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]",
     "created_at": "2026-10-26T14:31:51.494071+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
+    "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
+    "link": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
+    "published": "Mon, 26 Oct 2026 19:36:13 +0530",
+    "source": "The Hacker News",
+    "summary": "This2Shell, That2Shell, Everything2Shell. That&#x27;s pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are already being used in attacks, an",
+    "created_at": "2026-10-26T15:01:51.930732+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168857",
+    "title": "Researchers Use AI Agents to Breach Anthropic’s Internal Systems in Just 12 Hours",
+    "link": "https://cybersecuritynews.com/anthropic-internal-system-breach/",
+    "published": "Mon, 26 Oct 2026 14:42:50 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cybersecurity startup Cathedral says its AI agents found routes into Anthropic’s internal business systems in less than 12 hours, exposing how fast automated security tools can find and chain flaws across connected services. The work took place throu",
+    "created_at": "2026-10-26T15:02:48.015787+00:00"
   }
 ]
