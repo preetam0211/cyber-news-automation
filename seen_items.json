@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
-    "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
-    "link": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
-    "published": "Sat, 26 Sep 2026 16:00:00 +0530",
-    "source": "The Hacker News",
-    "summary": "The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quickly organizations could stand up agents and how much productivity they could promise, a str",
-    "created_at": "2026-09-26T14:31:25.972719+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
-    "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
-    "link": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
-    "published": "Sat, 26 Sep 2026 17:16:40 +0530",
-    "source": "The Hacker News",
-    "summary": "Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally.\n\nThe ShinyHunters-linked activity involves the weaponization of CVE-2026-35273 (CVSS scor",
-    "created_at": "2026-09-26T14:31:43.218995+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
-    "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
-    "link": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
-    "published": "Sat, 26 Sep 2026 10:19:46 -0400",
-    "source": "BleepingComputer",
-    "summary": "Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code. [...]",
-    "created_at": "2026-09-26T14:31:51.077883+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
     "title": "Microsoft pauses KB5002907 update after Office license deactivations",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
@@ -5866,5 +5839,14 @@
     "source": "BleepingComputer",
     "summary": "A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174 victims in the United States. [...]",
     "created_at": "2026-10-26T14:02:45.464086+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
+    "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
+    "link": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
+    "published": "Mon, 26 Oct 2026 10:00:10 -0400",
+    "source": "BleepingComputer",
+    "summary": "A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]",
+    "created_at": "2026-10-26T14:31:51.494071+00:00"
   }
 ]
