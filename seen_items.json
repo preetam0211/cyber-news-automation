@@ -6163,5 +6163,59 @@
     "source": "The Hacker News",
     "summary": "A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Australian Signals Directorate (ASD) says. The agency&#x27;s operators gained access to the crim",
     "created_at": "2026-10-27T10:01:29.389776+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168954",
+    "title": "University of Copenhagen Data Breach Exposes 525,000 People’s Personal Data, Including Phone Numbers",
+    "link": "https://cybersecuritynews.com/university-of-copenhagen-data-breach/",
+    "published": "Tue, 27 Oct 2026 08:40:50 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The University of Copenhagen has confirmed a data breach that exposed personal information belonging to about 525,000 people after hackers accessed a university test environment. The affected database contained full names, Danish national identity nu",
+    "created_at": "2026-10-27T11:01:02.165886+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168966",
+    "title": "Alibaba’s Qwen AI Said It Wouldn’t Execute Commands, Then Tried to Send Data to China",
+    "link": "https://cybersecuritynews.com/alibabas-qwen-ai-tried-to-send-data-to-china/",
+    "published": "Tue, 27 Oct 2026 08:47:46 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Alibaba’s Qwen3.8-Flash-Next attempted an unexpected upload to an Alibaba Cloud storage bucket in Beijing during a closed security test, according to Cohere. The model’s reasoning had just stated that it would not call any tools. Cohere’s sandbox blo",
+    "created_at": "2026-10-27T11:01:12.235533+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168934",
+    "title": "Hacker Uses AI to Breach 90 South Korean Organizations and Steal 8.2 Million Records",
+    "link": "https://cybersecuritynews.com/hacker-uses-ai-to-breach-organizations/",
+    "published": "Tue, 27 Oct 2026 09:05:42 +0000",
+    "source": "CybersecurityNews",
+    "summary": "South Korean police have arrested a 32-year-old man accused of leading an AI-assisted hacking operation that stole personal records and internal files from about 90 organizations, totaling 8.2 million records. Targets included hospitals, private acad",
+    "created_at": "2026-10-27T11:01:18.130243+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168981",
+    "title": "Apple Released Patches for Exploited CoreGraphics 0-day Vulnerability for Older iPhones",
+    "link": "https://cybersecuritynews.com/apple-fix-for-coregraphics-0-day-flaw/",
+    "published": "Tue, 27 Oct 2026 09:44:36 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Apple released iOS 18.7.11 and iPadOS 18.7.11 to patch a CoreGraphics zero-day vulnerability that attackers may have used in targeted attacks. Released on October 26, 2026, the updates bring security fixes to older devices, including the iPhone XS, i",
+    "created_at": "2026-10-27T11:01:28.635072+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
+    "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
+    "link": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
+    "published": "Tue, 27 Oct 2026 06:36:12 -0400",
+    "source": "BleepingComputer",
+    "summary": "​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in &quot;extremely sophisticated&quot; targeted attacks on iOS devices. [...]",
+    "created_at": "2026-10-27T11:01:34.566516+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169006",
+    "title": "Hackers Hijack AI Pentesting Agents to Install Backdoors and Steal API Keys",
+    "link": "https://cybersecuritynews.com/ai-pentesting-agents/",
+    "published": "Tue, 27 Oct 2026 10:57:16 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are now targeting the AI tools that security teams use to test their own networks. A new investigation describes automated campaigns that break into exposed panels for Cairn, a platform that gives AI agents goals and lets them work on their o",
+    "created_at": "2026-10-27T11:01:57.388579+00:00"
   }
 ]
