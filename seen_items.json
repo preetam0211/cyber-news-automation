@@ -5992,5 +5992,23 @@
     "source": "CybersecurityNews",
     "summary": "Apache Camel has released fixes for multiple security flaws, including high-severity XML External Entity vulnerabilities that could expose local files or reach internal systems. The issues affect several components, with risks ranging from unsafe XML",
     "created_at": "2026-10-27T03:31:30.899953+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168844",
+    "title": "Claude Code Reportedly Finds 214,856 Deleted Photos and Videos Hidden on Android Phone",
+    "link": "https://cybersecuritynews.com/claude-code-finds-deleted-photos/",
+    "published": "Tue, 27 Oct 2026 03:47:20 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Anthropic’s Claude Code reportedly found 214,856 files linked to deleted photos and videos on a Google Pixel, raising privacy concerns about Android photos. The user, known as Cooler (@coolerwave), said files remained in a hidden thumbnail folder eve",
+    "created_at": "2026-10-27T04:01:04.478412+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168906",
+    "title": "Hackers Sell ICMacOS Remote Access Trojan for $699 a Week to Target Mac Users",
+    "link": "https://cybersecuritynews.com/icmacos-remote-access-trojan/",
+    "published": "Tue, 27 Oct 2026 03:50:13 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cybercriminals are selling a Mac malware kit that can do far more than steal passwords. The tool, called ICMacOS or Icarus macOS, is offered for $699 a week on Russian-speaking dark web forums. It began as a basic data stealer, but its newer version ",
+    "created_at": "2026-10-27T04:01:16.070855+00:00"
   }
 ]
