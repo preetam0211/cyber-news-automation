@@ -6217,5 +6217,14 @@
     "source": "CybersecurityNews",
     "summary": "Hackers are now targeting the AI tools that security teams use to test their own networks. A new investigation describes automated campaigns that break into exposed panels for Cairn, a platform that gives AI agents goals and lets them work on their o",
     "created_at": "2026-10-27T11:01:57.388579+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169009",
+    "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+    "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+    "published": "Tue, 27 Oct 2026 11:15:19 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Apple released iOS 27.2 and iPadOS 27.2 on October 26, 2026, with fixes for 163 security flaws. The update covers iPhone 11 and later and a wide set of iPad models. The most serious issues sit in WebKit, the engine behind Safari and most in-app brows",
+    "created_at": "2026-10-27T11:31:10.911910+00:00"
   }
 ]
