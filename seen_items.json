@@ -6370,5 +6370,14 @@
     "source": "BleepingComputer",
     "summary": "A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers&#x27; payment data during checkout. [...]",
     "created_at": "2026-10-27T21:01:08.355028+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
+    "title": "UNM Health ransomware attack disrupts patient care, surgeries",
+    "link": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
+    "published": "Tue, 27 Oct 2026 18:07:34 -0400",
+    "source": "BleepingComputer",
+    "summary": "The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]",
+    "created_at": "2026-10-27T22:31:08.123876+00:00"
   }
 ]
