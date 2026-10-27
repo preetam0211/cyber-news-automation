@@ -6064,5 +6064,14 @@
     "source": "CybersecurityNews",
     "summary": "OpenAI Codex helped researcher Xusheng Li uncover flaws in four USB protection products, including hardcoded encryption keys and hidden accounts that allowed files to be decrypted without the owner’s password. In one test, Codex identified the main w",
     "created_at": "2026-10-27T06:01:30.375259+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168927",
+    "title": "Hackers Use AI Agents to Target Over 2,250 Microsoft 365 Tenants Through ConnectWise",
+    "link": "https://cybersecuritynews.com/hackers-use-ai-agents/",
+    "published": "Tue, 27 Oct 2026 06:11:26 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers used AI agents and stolen ConnectWise application credentials to attempt access to more than 2,250 Microsoft 365 tenants, according to Microsoft’s technical investigation report. Microsoft attributed the campaign to Storm-0940, a China-state-",
+    "created_at": "2026-10-27T06:31:09.059938+00:00"
   }
 ]
