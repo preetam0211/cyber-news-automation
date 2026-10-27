@@ -6379,5 +6379,14 @@
     "source": "BleepingComputer",
     "summary": "The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]",
     "created_at": "2026-10-27T22:31:08.123876+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/",
+    "title": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/",
+    "published": "Tue, 27 Oct 2026 18:43:27 -0400",
+    "source": "BleepingComputer",
+    "summary": "OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems. [...]",
+    "created_at": "2026-10-27T23:01:00.955867+00:00"
   }
 ]
