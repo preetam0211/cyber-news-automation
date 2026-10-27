@@ -6037,5 +6037,32 @@
     "source": "CybersecurityNews",
     "summary": "Cybercriminals found a simple way to make a fake download page look trustworthy. Instead of registering a lookalike domain, they placed their lure on claude.ai, the official website of Anthropic, the company behind the Claude AI assistant. The fake p",
     "created_at": "2026-10-27T05:01:08.898867+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
+    "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
+    "link": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
+    "published": "Tue, 27 Oct 2026 10:07:59 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog.\n\nThe PHP vulnerabilities, both rated",
+    "created_at": "2026-10-27T06:01:06.557698+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168938",
+    "title": "Researcher Gains Root Access to Samsung Smart TV, Uncovers Extensive User Tracking",
+    "link": "https://cybersecuritynews.com/researcher-root-samsung-smart-tv/",
+    "published": "Tue, 27 Oct 2026 05:25:17 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A cybersecurity researcher says he gained root access to a 2025 Samsung Smart TV and found software built to track far more than the picture on the screen. Known online as log4j, he started after the set kept showing ads that seemed oddly specific to",
+    "created_at": "2026-10-27T06:01:18.816852+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168752",
+    "title": "OpenAI Codex Breaks USB Encryption in Minutes, Exposing Hardcoded Keys and Security Flaws",
+    "link": "https://cybersecuritynews.com/openai-codex-breaks-usb-encryption-in-minutes/",
+    "published": "Tue, 27 Oct 2026 05:40:35 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OpenAI Codex helped researcher Xusheng Li uncover flaws in four USB protection products, including hardcoded encryption keys and hidden accounts that allowed files to be decrypted without the owner’s password. In one test, Codex identified the main w",
+    "created_at": "2026-10-27T06:01:30.375259+00:00"
   }
 ]
