@@ -6091,5 +6091,23 @@
     "source": "CybersecurityNews",
     "summary": "Hackers compromised Microsoft 365 accounts at 79 organizations by reusing stolen login tokens, recording at least 497 successful sign-ins between July 14 and September 22, 2026. The ten-week campaign also generated more than 200,000 failed login atte",
     "created_at": "2026-10-27T07:01:15.143279+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168962",
+    "title": "Hackers Impersonate IT Support on Microsoft Teams to Gain Remote Access to Employees’ PCs",
+    "link": "https://cybersecuritynews.com/it-support-on-microsoft-teams/",
+    "published": "Tue, 27 Oct 2026 07:34:08 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are impersonating IT support staff on Microsoft Teams to persuade employees to grant remote access to their Windows computers. The activity combines convincing helpdesk identities, unwanted email floods, and legitimate remote support tools, t",
+    "created_at": "2026-10-27T08:01:04.044301+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168971",
+    "title": "Hackers Infect 953 Online Stores With Malicious JavaScript That Evades Security Scanners",
+    "link": "https://cybersecuritynews.com/hackers-infect-953-online-stores/",
+    "published": "Tue, 27 Oct 2026 07:55:48 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A criminal group has infected Magento stores with malicious JavaScript since July 2025, and 953 online shops have been hit so far. Most of the victims run Magento, a popular platform for building online stores. The campaign is still active. The opera",
+    "created_at": "2026-10-27T08:01:08.749338+00:00"
   }
 ]
