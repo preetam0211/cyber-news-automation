@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=164910",
-    "title": "Citrix Confirms NetScaler 0-Day RCE Vulnerabilities Actively Exploited in Attack",
-    "link": "https://cybersecuritynews.com/citrix-confirms-netscaler-0-day/",
-    "published": "Sun, 27 Sep 2026 16:41:48 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Citrix has released emergency security updates for NetScaler ADC and NetScaler Gateway after confirming that attackers are exploiting two critical remote code execution vulnerabilities against unmitigated appliances. The flaws, CVE-2026-88771 and CVE",
-    "created_at": "2026-09-27T17:01:23.285121+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
     "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
@@ -6298,5 +6289,32 @@
     "source": "BleepingComputer",
     "summary": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project&#x27;s infrastructure. [...]",
     "created_at": "2026-10-27T16:31:43.479671+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
+    "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
+    "link": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
+    "published": "Tue, 27 Oct 2026 19:29:09 +0530",
+    "source": "The Hacker News",
+    "summary": "Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices.\n\nThe vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds write affecting CoreGraphics that",
+    "created_at": "2026-10-27T17:01:04.326766+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
+    "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
+    "link": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
+    "published": "Tue, 27 Oct 2026 19:29:48 +0530",
+    "source": "The Hacker News",
+    "summary": "The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on affected setups.\n\nThe flaw is in builds that use the ",
+    "created_at": "2026-10-27T17:01:16.017831+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169039",
+    "title": "Researchers Exploit OpenAI API Flaw to Extract Hidden GPT-5.6 Reasoning Traces",
+    "link": "https://cybersecuritynews.com/researchers-exploit-openai-api-flaw/",
+    "published": "Tue, 27 Oct 2026 16:48:20 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Researchers at Xint found an OpenAI API flaw that exposed hidden reasoning in GPT-5.6 models by routing prompts through a conversation-compaction feature. The method, called compaction smuggling, bypassed protections introduced in August 2026. Accord",
+    "created_at": "2026-10-27T17:01:38.747334+00:00"
   }
 ]
