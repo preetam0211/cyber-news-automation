@@ -6010,5 +6010,32 @@
     "source": "CybersecurityNews",
     "summary": "Cybercriminals are selling a Mac malware kit that can do far more than steal passwords. The tool, called ICMacOS or Icarus macOS, is offered for $699 a week on Russian-speaking dark web forums. It began as a basic data stealer, but its newer version ",
     "created_at": "2026-10-27T04:01:16.070855+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168910",
+    "title": "New Aokigahara Malware Targets ChatGPT, Claude, Codex, and Cursor Login Credentials",
+    "link": "https://cybersecuritynews.com/aokigahara-malware/",
+    "published": "Tue, 27 Oct 2026 04:01:59 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly observed Windows infostealer called Aokigahara is targeting login credentials and session data associated with ChatGPT Desktop, Claude, Codex, and Cursor. The malware searches infected computers for authentication files and application storag",
+    "created_at": "2026-10-27T04:31:06.623496+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168917",
+    "title": "Palo Alto Confirms Brotli Vulnerability Impact on PAN-OS and Releases Workarounds",
+    "link": "https://cybersecuritynews.com/brotli-vulnerability-affects-pan-os/",
+    "published": "Tue, 27 Oct 2026 04:17:51 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Palo Alto Networks has confirmed that a critical Brotli vulnerability affects some PAN-OS firewall deployments and its Prisma Cloud Application Security Transporter Client. Tracked as CVE-2026-111497, the flaw could let an attacker corrupt memory, ex",
+    "created_at": "2026-10-27T04:31:17.623095+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168916",
+    "title": "Hackers Use Malicious Instagram Ads to Infect iPhones With Spyware Without a Click",
+    "link": "https://cybersecuritynews.com/malicious-instagram-ads/",
+    "published": "Tue, 27 Oct 2026 04:21:53 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are using malicious Instagram advertisements to infect vulnerable iPhones with spyware while users scroll through their feeds. A documented attack used a World Cup advertisement to deliver the P7 variant of DarkSword, exposing sensitive infor",
+    "created_at": "2026-10-27T04:31:28.861048+00:00"
   }
 ]
