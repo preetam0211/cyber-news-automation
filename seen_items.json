@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=164901",
-    "title": "New Windows Process Injection Attack Evades EDR Monitoring Without WriteProcessMemory",
-    "link": "https://cybersecuritynews.com/windows-process-injection-evades-edr/",
-    "published": "Sun, 27 Sep 2026 16:00:24 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A Windows process injection method disclosed by security researcher Two Seven One Three sidesteps two APIs closely associated with remote code injection: VirtualAllocEx and WriteProcessMemory. Dubbed console named-pipe injection, the technique delive",
-    "created_at": "2026-09-27T16:31:15.993312+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
-    "title": "Citrix admins warned to shut down NetScalers over 2 exploited zero-days",
-    "link": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
-    "published": "Sun, 27 Sep 2026 12:02:37 -0400",
-    "source": "BleepingComputer",
-    "summary": "Two unpatched Citrix NetScaler zero-day vulnerabilities are reportedly being exploited in attacks, with cybersecurity agencies, security researchers, and IT providers privately warning organizations about the flaws ahead of patches expected next week",
-    "created_at": "2026-09-27T16:31:21.349626+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=164910",
     "title": "Citrix Confirms NetScaler 0-Day RCE Vulnerabilities Actively Exploited in Attack",
     "link": "https://cybersecuritynews.com/citrix-confirms-netscaler-0-day/",
@@ -6307,5 +6289,14 @@
     "source": "CybersecurityNews",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) offers two free tools to help organizations find security misconfigurations in Microsoft 365 and Google Workspace. ScubaGear and ScubaGoggles compare cloud settings against recommended ",
     "created_at": "2026-10-27T16:02:07.232057+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
+    "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
+    "link": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
+    "published": "Tue, 27 Oct 2026 12:15:39 -0400",
+    "source": "BleepingComputer",
+    "summary": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project&#x27;s infrastructure. [...]",
+    "created_at": "2026-10-27T16:31:43.479671+00:00"
   }
 ]
