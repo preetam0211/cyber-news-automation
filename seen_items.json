@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
-    "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
-    "published": "Sun, 27 Sep 2026 09:38:40 -0400",
-    "source": "BleepingComputer",
-    "summary": "Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more. [...]",
-    "created_at": "2026-09-27T14:04:37.202135+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
-    "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
-    "link": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
-    "published": "Sun, 27 Sep 2026 10:13:31 -0400",
-    "source": "BleepingComputer",
-    "summary": "Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers&#x27; containers on the same physical host. [...]",
-    "created_at": "2026-09-27T14:31:14.612502+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=164901",
     "title": "New Windows Process Injection Attack Evades EDR Monitoring Without WriteProcessMemory",
     "link": "https://cybersecuritynews.com/windows-process-injection-evades-edr/",
@@ -6271,5 +6253,41 @@
     "source": "CybersecurityNews",
     "summary": "HashiCorp has released fixes for a Consul-k8s authorization bypass that could allow an attacker to gain elevated Consul privileges from another Kubernetes namespace. Tracked as CVE-2026-110720, the flaw affects deployments using automated system acce",
     "created_at": "2026-10-27T13:01:45.337937+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
+    "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
+    "link": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
+    "published": "Tue, 27 Oct 2026 10:01:11 -0400",
+    "source": "BleepingComputer",
+    "summary": "Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the threats hitting organizations hardest, highlighting which",
+    "created_at": "2026-10-27T14:31:25.058175+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169053",
+    "title": "Hackers Abuse Signed ChatGPT and Claude Binaries to Deploy Malware Through Fake GitHub Downloads",
+    "link": "https://cybersecuritynews.com/fake-github-chatgpt-claude-malware/",
+    "published": "Tue, 27 Oct 2026 14:02:29 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A malware campaign known as Yoba targets users by leveraging the popularity of AI tools like ChatGPT and Claude to trick them into installing infected software. They publish fake GitHub projects that pose as desktop apps named GPT-5.6 Sol, GPT-6 Astr",
+    "created_at": "2026-10-27T14:31:37.822309+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
+    "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
+    "link": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
+    "published": "Tue, 27 Oct 2026 10:09:46 -0400",
+    "source": "BleepingComputer",
+    "summary": "The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]",
+    "created_at": "2026-10-27T14:31:49.804898+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169071",
+    "title": "Hackers Use Fake FedEx Invoices to Deploy Sirius Backdoor and Evade Windows Security",
+    "link": "https://cybersecuritynews.com/fake-fedex-invoices/",
+    "published": "Tue, 27 Oct 2026 14:18:33 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are sending fake FedEx tax invoices to trick users into installing a stealthy backdoor on Windows. The malware, called Sirius Backdoor, hides inside a blank PDF and loads its main code directly into memory, which leaves very few traces on the",
+    "created_at": "2026-10-27T14:32:20.700375+00:00"
   }
 ]
