@@ -6037,5 +6037,14 @@
     "source": "CybersecurityNews",
     "summary": "Hackers are using malicious Instagram advertisements to infect vulnerable iPhones with spyware while users scroll through their feeds. A documented attack used a World Cup advertisement to deliver the P7 variant of DarkSword, exposing sensitive infor",
     "created_at": "2026-10-27T04:31:28.861048+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168921",
+    "title": "Hackers Abuse Claude’s Official Website and Google Ads to Spread Malware",
+    "link": "https://cybersecuritynews.com/claudes-official-website/",
+    "published": "Tue, 27 Oct 2026 04:40:22 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cybercriminals found a simple way to make a fake download page look trustworthy. Instead of registering a lookalike domain, they placed their lure on claude.ai, the official website of Anthropic, the company behind the Claude AI assistant. The fake p",
+    "created_at": "2026-10-27T05:01:08.898867+00:00"
   }
 ]
