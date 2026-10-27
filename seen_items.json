@@ -6262,5 +6262,14 @@
     "source": "The Hacker News",
     "summary": "Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim&#x27;s work account.\n\nMicrosoft tracks the flaw as CV",
     "created_at": "2026-10-27T12:32:34.058529+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168991",
+    "title": "Critical HashiCorp Consul Kubernetes Flaw Allows Attackers to Gain Elevated Privileges",
+    "link": "https://cybersecuritynews.com/hashicorp-consul-kubernetes-vulnerability/",
+    "published": "Tue, 27 Oct 2026 11:37:34 +0000",
+    "source": "CybersecurityNews",
+    "summary": "HashiCorp has released fixes for a Consul-k8s authorization bypass that could allow an attacker to gain elevated Consul privileges from another Kubernetes namespace. Tracked as CVE-2026-110720, the flaw affects deployments using automated system acce",
+    "created_at": "2026-10-27T13:01:45.337937+00:00"
   }
 ]
