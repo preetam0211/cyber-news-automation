@@ -6136,5 +6136,32 @@
     "source": "CybersecurityNews",
     "summary": "DreamHost forced password resets for affected email and FTP/SFTP accounts after an unexplained incident disrupted webmail and File Manager, preventing sign-ins until new credentials are set. DreamHost said the password resets were precautionary but h",
     "created_at": "2026-10-27T08:31:22.153644+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
+    "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
+    "link": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
+    "published": "Tue, 27 Oct 2026 13:52:43 +0530",
+    "source": "The Hacker News",
+    "summary": "OpenAI&#x27;s compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model&#x27;s hidden reasoning out in plain text, security firm Xint has shown.\n\nOpenAI&#x27;s reasoning models work through a prob",
+    "created_at": "2026-10-27T10:01:06.425538+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
+    "title": "Energy giant ENGIE discloses data breach affecting customers",
+    "link": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
+    "published": "Tue, 27 Oct 2026 05:25:50 -0400",
+    "source": "BleepingComputer",
+    "summary": "French energy giant ENGIE, one of the world&#x27;s largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]",
+    "created_at": "2026-10-27T10:01:17.929413+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
+    "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
+    "link": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
+    "published": "Tue, 27 Oct 2026 15:03:06 +0530",
+    "source": "The Hacker News",
+    "summary": "A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Australian Signals Directorate (ASD) says. The agency&#x27;s operators gained access to the crim",
+    "created_at": "2026-10-27T10:01:29.389776+00:00"
   }
 ]
