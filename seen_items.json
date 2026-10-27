@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
-    "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
-    "link": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
-    "published": "Sun, 27 Sep 2026 13:17:57 +0530",
-    "source": "The Hacker News",
-    "summary": "Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr said on September 26.\n\nCitrix has not confirmed the",
-    "created_at": "2026-09-27T08:31:04.560043+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
     "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
@@ -6109,5 +6100,41 @@
     "source": "CybersecurityNews",
     "summary": "A criminal group has infected Magento stores with malicious JavaScript since July 2025, and 953 online shops have been hit so far. Most of the victims run Magento, a popular platform for building online stores. The campaign is still active. The opera",
     "created_at": "2026-10-27T08:01:08.749338+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168587",
+    "title": "Top 10 Best Confidential Computing Platforms in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-confidential-computing-platforms/",
+    "published": "Tue, 27 Oct 2026 08:05:33 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Encryption always had a hole: data must decrypt to compute, and whoever owns the machine cloud admin, hypervisor, intruder with root could watch. Confidential computing closes it with hardware-enforced trusted execution environments (TEEs) that keep ",
+    "created_at": "2026-10-27T08:31:06.848505+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
+    "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
+    "published": "Tue, 27 Oct 2026 04:20:54 -0400",
+    "source": "BleepingComputer",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell  vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday. [...]",
+    "created_at": "2026-10-27T08:31:12.740311+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168942",
+    "title": "OpenAI Unveils GPT-6.1 Terra, a Faster AI Model With Critical Cybersecurity Capabilities",
+    "link": "https://cybersecuritynews.com/openai-unveils-gpt-6-1-terra/",
+    "published": "Tue, 27 Oct 2026 08:25:49 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OpenAI has introduced GPT-6.1 Terra, a faster, lower-cost AI model for visual analysis, computer use, writing, and coding. Released on October 26, the model also carries a Critical cybersecurity capability rating under OpenAI’s Preparedness Framework",
+    "created_at": "2026-10-27T08:31:17.435392+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168958",
+    "title": "DreamHost Forces Email and FTP Password Resets Following Unexplained Security Incident",
+    "link": "https://cybersecuritynews.com/dreamhost-forces-email-and-ftp-password-resets/",
+    "published": "Tue, 27 Oct 2026 08:30:23 +0000",
+    "source": "CybersecurityNews",
+    "summary": "DreamHost forced password resets for affected email and FTP/SFTP accounts after an unexplained incident disrupted webmail and File Manager, preventing sign-ins until new credentials are set. DreamHost said the password resets were precautionary but h",
+    "created_at": "2026-10-27T08:31:22.153644+00:00"
   }
 ]
