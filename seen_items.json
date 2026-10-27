@@ -6073,5 +6073,23 @@
     "source": "CybersecurityNews",
     "summary": "Hackers used AI agents and stolen ConnectWise application credentials to attempt access to more than 2,250 Microsoft 365 tenants, according to Microsoft’s technical investigation report. Microsoft attributed the campaign to Storm-0940, a China-state-",
     "created_at": "2026-10-27T06:31:09.059938+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
+    "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
+    "link": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
+    "published": "Tue, 27 Oct 2026 12:04:47 +0530",
+    "source": "The Hacker News",
+    "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua.\n\n&quot;Cases of compromising IP cameras and DVRs with access to the video stream,",
+    "created_at": "2026-10-27T07:01:08.553731+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168950",
+    "title": "Hackers Hijack Microsoft 365 Accounts at 79 Organizations Using Stolen Login Tokens",
+    "link": "https://cybersecuritynews.com/microsoft-365-accounts/",
+    "published": "Tue, 27 Oct 2026 06:57:45 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers compromised Microsoft 365 accounts at 79 organizations by reusing stolen login tokens, recording at least 497 successful sign-ins between July 14 and September 22, 2026. The ten-week campaign also generated more than 200,000 failed login atte",
+    "created_at": "2026-10-27T07:01:15.143279+00:00"
   }
 ]
