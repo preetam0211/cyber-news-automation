@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=164888",
-    "title": "Citrix NetScaler 0-Day RCE Vulnerabilities Actively Exploited in Attacks",
-    "link": "https://cybersecuritynews.com/citrix-netscaler-0-day-rce-2/",
-    "published": "Sun, 27 Sep 2026 04:07:25 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Citrix NetScaler administrators are confronting reports of two undisclosed remote code execution vulnerabilities allegedly exploited in real-world attacks. watchTowr said the flaws are unpatched zero-days, were identified during forensic investigatio",
-    "created_at": "2026-09-27T05:01:13.818868+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
     "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
     "link": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
