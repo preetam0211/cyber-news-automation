@@ -5965,5 +5965,32 @@
     "source": "CybersecurityNews",
     "summary": "Hackers have revived techniques associated with the BlackLotus bootkit to bypass Windows Secure Boot and deploy espionage malware against diplomatic organizations in Central Asia. The new bootkit, named BlackX, appeared in attacks targeting agencies ",
     "created_at": "2026-10-27T02:01:09.463826+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168902",
+    "title": "Hackers Can Abuse Logged-In WordPress Admin Sessions to Secretly Install PHP Backdoors",
+    "link": "https://cybersecuritynews.com/logged-in-wordpress-admin-sessions/",
+    "published": "Tue, 27 Oct 2026 02:08:23 +0000",
+    "source": "CybersecurityNews",
+    "summary": "WordPress administrators often keep their dashboard open in the same browser they use for everyday browsing. A new attack chain shows why that habit is risky. Researchers have documented a JavaScript loader that waits for a signed-in administrator to",
+    "created_at": "2026-10-27T03:31:08.168260+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168905",
+    "title": "New DarkCore RAT Targets Gmail and WhatsApp Sessions While Hiding Behind Victims’ IP Addresses",
+    "link": "https://cybersecuritynews.com/new-darkcore-rat/",
+    "published": "Tue, 27 Oct 2026 02:33:36 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly uncovered remote access trojan called DarkCore is being marketed with a browser designed to reuse stolen Gmail, WhatsApp, and other account sessions while routing traffic through victims’ IP addresses. The approach could make unauthorized acc",
+    "created_at": "2026-10-27T03:31:19.525943+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168823",
+    "title": "Apache Camel Fixes Multiple Vulnerabilities Including High-Severity XXE One’s",
+    "link": "https://cybersecuritynews.com/apache-camel-fixes-multiple-vulnerabilities/",
+    "published": "Tue, 27 Oct 2026 02:50:31 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Apache Camel has released fixes for multiple security flaws, including high-severity XML External Entity vulnerabilities that could expose local files or reach internal systems. The issues affect several components, with risks ranging from unsafe XML",
+    "created_at": "2026-10-27T03:31:30.899953+00:00"
   }
 ]
