@@ -6316,5 +6316,32 @@
     "source": "CybersecurityNews",
     "summary": "Researchers at Xint found an OpenAI API flaw that exposed hidden reasoning in GPT-5.6 models by routing prompts through a conversation-compaction feature. The method, called compaction smuggling, bypassed protections introduced in August 2026. Accord",
     "created_at": "2026-10-27T17:01:38.747334+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169103",
+    "title": "Critical GoAhead TLS Flaws Could Expose Hundreds of Millions of Devices to Attacks",
+    "link": "https://cybersecuritynews.com/goahead-tls-vulnerabilities/",
+    "published": "Tue, 27 Oct 2026 17:04:05 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Three new security flaws affect GoAhead, a small web server that device makers build into routers, printers, gateways, and industrial controllers. The software runs in hundreds of millions of devices, including those used by Palo Alto Networks, Sieme",
+    "created_at": "2026-10-27T18:01:07.997568+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169090",
+    "title": "Before Your SOC Investigates: What 16K+ Security Teams Already Know",
+    "link": "https://cybersecuritynews.com/before-your-soc-investigates-what-16k-security-teams-already-know/",
+    "published": "Tue, 27 Oct 2026 17:29:11 +0000",
+    "source": "CybersecurityNews",
+    "summary": "What if some of the threats reaching your organization’s environment had already been identified elsewhere, before your security team even started investigating them?  Chances are, some were.  According to ANY.RUN’s research, up to 30% of unique mali",
+    "created_at": "2026-10-27T18:01:18.166470+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169113",
+    "title": "Criminal IP Joins INTERPOL’s Gateway Initiative to Support Global Cybercrime Efforts",
+    "link": "https://cybersecuritynews.com/criminal-ip-joins-interpols-gateway-initiative-to-support-global-cybercrime-efforts/",
+    "published": "Tue, 27 Oct 2026 17:47:42 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Torrance, United States / California, October 27th, 2026, CyberNewswire AI SPERA, the company behind the cyber threat intelligence and attack surface management platform Criminal IP, has signed a cooperation agreement with the International Criminal ",
+    "created_at": "2026-10-27T18:01:42.487730+00:00"
   }
 ]
