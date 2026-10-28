@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
-    "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
-    "link": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
-    "published": "Mon, 28 Sep 2026 03:30:15 -0400",
-    "source": "BleepingComputer",
-    "summary": "A former U.S. Army soldier has been sentenced to 70 months in prison for hacking and extorting at least 10 U.S. technology and telecommunications companies between April 2023 and December 2024. [...]",
-    "created_at": "2026-09-28T08:01:02.558494+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=164962",
     "title": "Python MaaS Infostealer Builder Steals Passwords, Credit Cards and Cookies From 17 Browsers",
     "link": "https://cybersecuritynews.com/python-maas-infostealer/",
@@ -6424,5 +6415,41 @@
     "source": "CybersecurityNews",
     "summary": "Sony Network Communications has confirmed a breach exposing 2,585,481 customer records linked to its So-net and plala (S Course) internet services. The company disclosed the incident on October 27, 2026, after finding unauthorized access to its membe",
     "created_at": "2026-10-28T07:31:45.777066+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html",
+    "title": "FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering",
+    "link": "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html",
+    "published": "Wed, 28 Oct 2026 13:07:50 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a domain associated with a bulletproof hosting provider (BPH) named Virtualine.\n\nThe move was in response to the service being used to commit and facilitate prolific criminal ac",
+    "created_at": "2026-10-28T08:31:05.247637+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=168924",
+    "title": "Top 9 Best Backup & Recovery Solutions in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/top-9-best-backup-recovery-solutions-in-2026-ranked-scored/",
+    "published": "Wed, 28 Oct 2026 08:00:49 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Ransomware crews attack backups before they attack production encrypting or deleting recovery points first, then ransoming what’s left. That inverted kill chain has turned backup from an infrastructure checkbox into a security control, judged now by ",
+    "created_at": "2026-10-28T08:31:16.749020+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169022",
+    "title": "Top 10 Best Ransomware Recovery Solutions in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-ransomware-recovery-solutions/",
+    "published": "Wed, 28 Oct 2026 08:09:23 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Prevention lost; now what? That question not backup-window math defines ransomware recovery, a discipline measured in hours-to-business and judged on three hard problems: finding the clean restore point, proving it’s actually clean, and rebuilding at",
+    "created_at": "2026-10-28T08:31:22.617758+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
+    "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
+    "link": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
+    "published": "Wed, 28 Oct 2026 13:45:07 +0530",
+    "source": "The Hacker News",
+    "summary": "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report.\n\nThe exploits were built in the lab after the model w",
+    "created_at": "2026-10-28T08:31:32.776939+00:00"
   }
 ]
