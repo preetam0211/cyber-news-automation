@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=165036",
-    "title": "Microsoft Finds New Malware Used by Hackers to Maintain Secret Access Inside Target Networks",
-    "link": "https://cybersecuritynews.com/needymantis-malware-secret-network-access/",
-    "published": "Mon, 28 Sep 2026 16:35:03 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Microsoft Threat Intelligence has uncovered NeedyMantis, a modular post-compromise malware framework designed to preserve covert access inside already-breached networks. The malware has appeared in a small number of highly targeted intrusions involvi",
-    "created_at": "2026-09-28T17:01:08.172012+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165044",
-    "title": "Florida AG Seeks Emergency Injunction to Restrict OpenAI and ChatGPT Over AI Safety Risks",
-    "link": "https://cybersecuritynews.com/florida-ag-seeks-emergency-injunction-on-chatgpt/",
-    "published": "Mon, 28 Sep 2026 16:46:12 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Florida Attorney General James Uthmeier has asked a Highlands County judge to impose sweeping temporary restrictions on OpenAI, CEO Sam Altman, and affiliated companies while Florida’s ChatGPT lawsuit proceeds. Filed September 28 in Florida’s Tenth J",
-    "created_at": "2026-09-28T17:01:10.255258+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
     "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
     "link": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
@@ -6523,5 +6505,14 @@
     "source": "CybersecurityNews",
     "summary": "Whether you’re investigating a suspicious URL or a file, you need more than a verdict to make a confident, evidence-based decision. You need to understand what the threat does, whether others have encountered it before, and what the findings mean for",
     "created_at": "2026-10-28T16:32:20.997749+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
+    "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
+    "link": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
+    "published": "Wed, 28 Oct 2026 12:45:47 -0400",
+    "source": "BleepingComputer",
+    "summary": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers&#x27; personal information. [...]",
+    "created_at": "2026-10-28T17:01:47.250411+00:00"
   }
 ]
