@@ -1,50 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=164625",
-    "title": "Top 10 Best Cloud Directory Services in 2026 [Ranked & Scored]",
-    "link": "https://cybersecuritynews.com/best-cloud-directory-services/",
-    "published": "Mon, 28 Sep 2026 06:34:00 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Every domain controller still humming in a server closet is a patch cycle, an attack surface, and a reminder that identity hasn’t finished moving to the cloud. We scored the leading cloud directories on identity depth, protocol coverage, device integ",
-    "created_at": "2026-09-28T07:01:20.783078+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=164663",
-    "title": "Top 10 Best Authentication-as-a-Service (AaaS) Providers in 2026 [Ranked & Scored]",
-    "link": "https://cybersecuritynews.com/best-authentication-as-a-service/",
-    "published": "Mon, 28 Sep 2026 06:48:35 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Nobody gets promoted for building login, but plenty get breached maintaining it. Authentication-as-a-Service moved from convenience to best practice: passkeys, attack protection, and compliance maintained by vendors whose whole business is sign-in. I",
-    "created_at": "2026-09-28T07:01:34.544132+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=164701",
-    "title": "Top 10 Best Biometric Authentication Solutions in 2026 [Ranked & Scored]",
-    "link": "https://cybersecuritynews.com/best-biometric-authentication/",
-    "published": "Mon, 28 Sep 2026 06:56:08 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Matching a face got easy; proving the face is a live human at a real camera while generative AI mass-produces convincing deepfake threats is where the modern biometric authentication market earns its keep. We scored ten vendors with liveness and inje",
-    "created_at": "2026-09-28T07:01:39.761476+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=164740",
-    "title": "Top 10 Best Adaptive / Risk-Based Authentication Tools in 2026 [Ranked & Scored]",
-    "link": "https://cybersecuritynews.com/best-adaptive-authentication/",
-    "published": "Mon, 28 Sep 2026 07:02:08 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Prompting every user for MFA on every login trains people to approve anything, leaving enterprises open to push-bombing and MFA fatigue attacks; challenging nobody invites automated account takeover (ATO) attacks and credential stuffing. Adaptive aut",
-    "created_at": "2026-09-28T07:31:09.586384+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=164947",
-    "title": "Hackers Exploit GlobalProtect Flaw and Turn Stolen Data Into 2.4 Million Fraud Messages",
-    "link": "https://cybersecuritynews.com/hackers-exploit-globalprotect-flaw/",
-    "published": "Mon, 28 Sep 2026 07:16:08 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Hackers broke into business networks, stole customer records and used those details to send convincing fake bills. The campaign, called Operation Master, combined a VPN login bypass with attacks on web applications and a large-scale invoice fraud sys",
-    "created_at": "2026-09-28T07:31:19.679754+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
     "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
     "link": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
@@ -6424,5 +6379,50 @@
     "source": "CybersecurityNews",
     "summary": "Hackers targeting the U.S. Federal Election Commission forced officials to shut down its electronic filing system days before the November 3 midterm elections, blocking campaign finance disclosures during a critical spending period. The disruption af",
     "created_at": "2026-10-28T06:31:09.762745+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
+    "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
+    "link": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
+    "published": "Wed, 28 Oct 2026 11:12:26 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google&#x27;s Brotli decoder library to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence",
+    "created_at": "2026-10-28T07:31:12.762861+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
+    "title": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
+    "link": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
+    "published": "Wed, 28 Oct 2026 11:34:58 +0530",
+    "source": "The Hacker News",
+    "summary": "The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week.\n\nOracle patched all three under a single identifier, CVE-2026-35273, in June. Its",
+    "created_at": "2026-10-28T07:31:24.392780+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html",
+    "title": "Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers",
+    "link": "https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html",
+    "published": "Wed, 28 Oct 2026 11:50:37 +0530",
+    "source": "The Hacker News",
+    "summary": "Tailscale has released version 1.104.4 to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the root user should be able to touch.\n\nThe flaws are in how Tailscale SSH forwards network ",
+    "created_at": "2026-10-28T07:31:30.824277+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
+    "title": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
+    "link": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
+    "published": "Wed, 28 Oct 2026 12:43:21 +0530",
+    "source": "The Hacker News",
+    "summary": "Japan&#x27;s GMO Internet Group is offering up to $1 million in total for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand.\n\nThe reward program opened on October 28 and pa",
+    "created_at": "2026-10-28T07:31:35.750015+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169166",
+    "title": "Sony Suffers Massive Data Breach- 2.58 Million So-net and Plala Users Data Exposed",
+    "link": "https://cybersecuritynews.com/sony-data-breach/",
+    "published": "Wed, 28 Oct 2026 07:27:38 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Sony Network Communications has confirmed a breach exposing 2,585,481 customer records linked to its So-net and plala (S Course) internet services. The company disclosed the incident on October 27, 2026, after finding unauthorized access to its membe",
+    "created_at": "2026-10-28T07:31:45.777066+00:00"
   }
 ]
