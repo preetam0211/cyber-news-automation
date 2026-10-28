@@ -6451,5 +6451,32 @@
     "source": "BleepingComputer",
     "summary": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]",
     "created_at": "2026-10-28T11:01:20.816018+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
+    "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
+    "link": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
+    "published": "Wed, 28 Oct 2026 16:00:00 +0530",
+    "source": "The Hacker News",
+    "summary": "Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted business workflows to gain access to corporate account",
+    "created_at": "2026-10-28T11:31:06.657034+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169196",
+    "title": "Hackers Compromise Camera Management Software to Deploy Malware on Windows Computers",
+    "link": "https://cybersecuritynews.com/camera-management-software/",
+    "published": "Wed, 28 Oct 2026 11:03:12 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers have compromised camera management software to deploy malware on Windows computers, using a legitimate Microsoft program to run malicious code and maintain access. The activity shows how software used to manage surveillance systems can become",
+    "created_at": "2026-10-28T11:31:17.906952+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
+    "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
+    "link": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
+    "published": "Wed, 28 Oct 2026 16:45:51 +0530",
+    "source": "The Hacker News",
+    "summary": "Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege escalation.\n\nThe list of eight vulnerabilitie",
+    "created_at": "2026-10-28T11:31:30.074033+00:00"
   }
 ]
