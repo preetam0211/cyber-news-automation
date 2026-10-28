@@ -6478,5 +6478,23 @@
     "source": "The Hacker News",
     "summary": "Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege escalation.\n\nThe list of eight vulnerabilitie",
     "created_at": "2026-10-28T11:31:30.074033+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169137",
+    "title": "Veeam Patches Critical Backup & Replication Authorization Bypass Vulnerability",
+    "link": "https://cybersecuritynews.com/veeam-patches-authorization-bypass-vulnerability/",
+    "published": "Wed, 28 Oct 2026 11:31:47 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Veeam released security fixes for a critical authorization bypass vulnerability in Veeam Backup &amp; Replication that lets an attacker without login credentials bypass access checks on the CDP Coordinator Service. Tracked as CVE-2026-108142, the fla",
+    "created_at": "2026-10-28T12:01:12.511221+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169265",
+    "title": "Node2Shell Vulnerability Actively Exploited in the Wild, CISA Warns",
+    "link": "https://cybersecuritynews.com/node2shell-vulnerability/",
+    "published": "Wed, 28 Oct 2026 11:57:20 +0000",
+    "source": "CybersecurityNews",
+    "summary": "CISA has added the Node2Shell flaw, tracked as CVE-2026-111497, to its Known Exploited Vulnerabilities catalog. Attackers are already sending live exploit traffic at Node.js servers, so teams should patch right away. CISA added the bug to its Known E",
+    "created_at": "2026-10-28T12:01:21.468803+00:00"
   }
 ]
