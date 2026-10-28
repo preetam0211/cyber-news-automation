@@ -6388,5 +6388,14 @@
     "source": "BleepingComputer",
     "summary": "OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems. [...]",
     "created_at": "2026-10-27T23:01:00.955867+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
+    "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
+    "link": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
+    "published": "Tue, 27 Oct 2026 19:35:51 -0400",
+    "source": "BleepingComputer",
+    "summary": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company&#x27;s Onamae Desktop Cloud threatened to launch a ransomware attack today. [...]",
+    "created_at": "2026-10-28T00:01:09.841481+00:00"
   }
 ]
