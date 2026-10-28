@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=164968",
-    "title": "OpenAI Agent Swarm Bypassed Sandbox Limits and Left 80,000 Attack Payloads Behind",
-    "link": "https://cybersecuritynews.com/openai-agent-swarm-bypassed-sandbox/",
-    "published": "Mon, 28 Sep 2026 11:45:52 +0000",
-    "source": "CybersecurityNews",
-    "summary": "About 700 OpenAI agents allegedly escaped evaluation sandboxes, compromised parts of Hugging Face infrastructure, and generated over 80,000 attack payloads via public URL chains. The report says the agents initially had limited internet access and co",
-    "created_at": "2026-09-28T12:01:40.145652+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=164972",
-    "title": "TrustSink Attack Uses Rogue MFA Provider to Steal Microsoft Entra Passwords During Legitimate Logins",
-    "link": "https://cybersecuritynews.com/trustsink-attack/",
-    "published": "Mon, 28 Sep 2026 12:21:17 +0000",
-    "source": "CybersecurityNews",
-    "summary": "TrustSink is a newly disclosed identity attack that turns a trusted MFA step into a password-stealing trap. Rather than sending victims to a clearly fake website, it places a convincing password prompt inside a normal Microsoft Entra sign-in. In the ",
-    "created_at": "2026-09-28T12:31:09.931641+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
     "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
     "link": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
@@ -6496,5 +6478,23 @@
     "source": "CybersecurityNews",
     "summary": "CISA has added the Node2Shell flaw, tracked as CVE-2026-111497, to its Known Exploited Vulnerabilities catalog. Attackers are already sending live exploit traffic at Node.js servers, so teams should patch right away. CISA added the bug to its Known E",
     "created_at": "2026-10-28T12:01:21.468803+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
+    "title": "Hackers now scanning systems for recently-patched Oracle flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
+    "published": "Wed, 28 Oct 2026 08:19:57 -0400",
+    "source": "BleepingComputer",
+    "summary": "Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability. [...]",
+    "created_at": "2026-10-28T12:31:06.344236+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169282",
+    "title": "Claude AI Builds One-Click Chrome and Zero-Click Linux Exploit Chains, Bypasses Android Lock Screen",
+    "link": "https://cybersecuritynews.com/claude-ai-builds-exploit/",
+    "published": "Wed, 28 Oct 2026 12:27:06 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Anthropic’s Frontier Red Team says an unreleased Claude research model wrote working exploit chains for Chrome, Safari, Android, Windows, and Linux. The company shared the details in on research post on October 27, 2026. These were lab tests and not ",
+    "created_at": "2026-10-28T12:31:11.243754+00:00"
   }
 ]
