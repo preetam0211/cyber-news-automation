@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=164962",
-    "title": "Python MaaS Infostealer Builder Steals Passwords, Credit Cards and Cookies From 17 Browsers",
-    "link": "https://cybersecuritynews.com/python-maas-infostealer/",
-    "published": "Mon, 28 Sep 2026 08:41:03 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A Python-based malware builder can turn a single stealer into Windows programs for different operators. The tool packages a payload designed to take saved passwords, payment card details and browser cookies, then send them to an attacker-controlled w",
-    "created_at": "2026-09-28T09:01:11.221720+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=164967",
     "title": "Hackers Don’t Need to Break Into the Cloud When They Can Steal the Keys",
     "link": "https://cybersecuritynews.com/break-into-the-cloud/",
@@ -6451,5 +6442,23 @@
     "source": "The Hacker News",
     "summary": "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report.\n\nThe exploits were built in the lab after the model w",
     "created_at": "2026-10-28T08:31:32.776939+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169155",
+    "title": "Hackers Hijack Government and School Subdomains to Promote Illegal Gambling Websites",
+    "link": "https://cybersecuritynews.com/illegal-gambling-websites/",
+    "published": "Wed, 28 Oct 2026 09:09:29 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers have abused government and school domains to promote illegal gambling websites, creating unauthorized subdomains while leaving the institutions’ main websites running normally. Two unrelated operations used changes to Domain Name System (DNS)",
+    "created_at": "2026-10-28T09:31:11.437921+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169010",
+    "title": "CISA Warns of PHP2Shell Vulnerabilities Actively Exploited in Attacks",
+    "link": "https://cybersecuritynews.com/php2shell-vulnerabilities-actively-exploited/",
+    "published": "Wed, 28 Oct 2026 09:26:13 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency has added two critical PHP vulnerabilities, jointly known as PHP2Shell, to its Known Exploited Vulnerabilities catalog after confirming real-world exploitation. The flaws, tracked as CVE-2026-",
+    "created_at": "2026-10-28T09:31:17.347186+00:00"
   }
 ]
