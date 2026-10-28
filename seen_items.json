@@ -6442,5 +6442,14 @@
     "source": "CybersecurityNews",
     "summary": "Microsoft released emergency Windows trust updates after discovering eight recoverable eMudhra intermediate CA private keys that could let attackers forge trusted certificates or sign malicious content. Microsoft said the issue affected eMudhra’s cer",
     "created_at": "2026-10-28T10:01:31.592123+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169145",
+    "title": "FortiBleed 2.0 Reveals Thousands of Fortinet VPN and Active Directory Credentials in Exposed Configurations",
+    "link": "https://cybersecuritynews.com/fortibleed-2-0-exposes-vpn-credentials/",
+    "published": "Wed, 28 Oct 2026 10:19:22 +0000",
+    "source": "CybersecurityNews",
+    "summary": "FortiBleed 2.0 investigation, published October 27, revealed 40,573 cleartext secret records in exposed FortiGate configurations, including 37,076 local-user passwords and 1,576 Active Directory LDAP bind records linking firewall access, VPN services",
+    "created_at": "2026-10-28T10:31:08.651212+00:00"
   }
 ]
