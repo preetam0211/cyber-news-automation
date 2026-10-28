@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
-    "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
-    "published": "Mon, 28 Sep 2026 02:24:19 -0400",
-    "source": "BleepingComputer",
-    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulnerabilities. [...]",
-    "created_at": "2026-09-28T06:31:09.589819+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=164625",
     "title": "Top 10 Best Cloud Directory Services in 2026 [Ranked & Scored]",
     "link": "https://cybersecuritynews.com/best-cloud-directory-services/",
@@ -6424,5 +6415,14 @@
     "source": "CybersecurityNews",
     "summary": "Hackers have quietly planted malware in 42 real GitHub repositories. The traps fire when a developer opens a project with Claude, Gemini, Cursor, or VS Code. The repositories belong to 11 legitimate owners, including individual developers, students, ",
     "created_at": "2026-10-28T06:01:24.234014+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169163",
+    "title": "Hackers Target U.S. Election Commission, Forcing Online System Shutdown Days Before Midterms",
+    "link": "https://cybersecuritynews.com/hackers-target-u-s-election-commission-forcing-online-system-shutdown/",
+    "published": "Wed, 28 Oct 2026 06:30:05 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers targeting the U.S. Federal Election Commission forced officials to shut down its electronic filing system days before the November 3 midterm elections, blocking campaign finance disclosures during a critical spending period. The disruption af",
+    "created_at": "2026-10-28T06:31:09.762745+00:00"
   }
 ]
