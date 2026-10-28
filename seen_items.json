@@ -6397,5 +6397,32 @@
     "source": "CybersecurityNews",
     "summary": "A claimed Microsoft whistleblower has raised concerns about government cloud security after screenshots appeared to show approval for an engineer, allegedly based in India, to receive logs from a U.S. government cloud environment through Microsoft’s ",
     "created_at": "2026-10-28T03:31:07.600195+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169146",
+    "title": "Japan’s GMO Internet Urges Customers to Shut Down PCs After Hackers Threaten Ransomware Attack",
+    "link": "https://cybersecuritynews.com/japans-gmo-internet/",
+    "published": "Wed, 28 Oct 2026 05:42:00 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Japan’s GMO Internet urged customers of its Onamae.com Desktop Cloud service to disconnect their PCs, shut them down, and unplug connected cables after suspected attackers threatened a ransomware attack. The warning followed a breach involving malici",
+    "created_at": "2026-10-28T06:01:02.516950+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169130",
+    "title": "Sweet Security Offers All Organizations Affected by HTTP2Shell Virtual Patching Protection at No Cost",
+    "link": "https://cybersecuritynews.com/sweet-security-offers-all-organizations-affected-by-http2shell-virtual-patching-protection-at-no-cost/",
+    "published": "Wed, 28 Oct 2026 05:44:23 +0000",
+    "source": "CybersecurityNews",
+    "summary": "New York, NY, October 27th, 2026, CyberNewswire The root-cause fix will take weeks; protection can’t wait Sweet Security today announced Sweet Safety Net, extending its runtime Virtual Patching protection to every organization affected by HTTP2Shell ",
+    "created_at": "2026-10-28T06:01:12.886106+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169149",
+    "title": "Hackers Hijack 42 GitHub Repositories to Plant Malware Traps for Claude, Gemini, and Cursor Users",
+    "link": "https://cybersecuritynews.com/hackers-hijack-42-github-repositories/",
+    "published": "Wed, 28 Oct 2026 05:58:08 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers have quietly planted malware in 42 real GitHub repositories. The traps fire when a developer opens a project with Claude, Gemini, Cursor, or VS Code. The repositories belong to 11 legitimate owners, including individual developers, students, ",
+    "created_at": "2026-10-28T06:01:24.234014+00:00"
   }
 ]
