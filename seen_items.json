@@ -6496,5 +6496,32 @@
     "source": "CybersecurityNews",
     "summary": "TeamViewer has released security updates for three high-severity vulnerabilities that could let attackers run malicious code, crash remote desktop clients, or gain root access on macOS. The flaws affect client components used with TeamViewer Remote, ",
     "created_at": "2026-10-28T16:04:15.524929+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
+    "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
+    "link": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
+    "published": "Wed, 28 Oct 2026 12:00:00 -0400",
+    "source": "BleepingComputer",
+    "summary": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems. [...]",
+    "created_at": "2026-10-28T16:31:21.891172+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
+    "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
+    "link": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
+    "published": "Wed, 28 Oct 2026 21:32:45 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2Shell vulnerabilities to breach exposed systems.\n\nT",
+    "created_at": "2026-10-28T16:31:47.467353+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169314",
+    "title": "Beyond the Sandbox Verdict: 3 Questions for Faster SOC Decisions",
+    "link": "https://cybersecuritynews.com/beyond-the-sandbox-verdict-3-questions-for-faster-soc-decisions/",
+    "published": "Wed, 28 Oct 2026 16:16:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Whether you’re investigating a suspicious URL or a file, you need more than a verdict to make a confident, evidence-based decision. You need to understand what the threat does, whether others have encountered it before, and what the findings mean for",
+    "created_at": "2026-10-28T16:32:20.997749+00:00"
   }
 ]
