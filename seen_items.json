@@ -6523,5 +6523,32 @@
     "source": "CybersecurityNews",
     "summary": "Security researcher Saifeldeen Aziz says he found new zero-click bugs in Telegram stickers. He also says he chained them to run code on iOS. The work was due to be presented on October 28 at OffensiveCon in Tokyo, according to the conference agenda. ",
     "created_at": "2026-10-28T17:31:29.910603+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
+    "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
+    "link": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
+    "published": "Wed, 28 Oct 2026 21:53:34 +0530",
+    "source": "The Hacker News",
+    "summary": "A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge&#x27;s sandbox, a security researcher has shown.\n\nOrange Tsai of DEVCORE published the full method on Octo",
+    "created_at": "2026-10-28T18:01:50.022254+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
+    "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
+    "link": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
+    "published": "Wed, 28 Oct 2026 22:38:09 +0530",
+    "source": "The Hacker News",
+    "summary": "Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android&#x27;s usual confirmation screens, and to update them in the background.\n\nTo qualify, a store must pass identity checks and send Googl",
+    "created_at": "2026-10-28T18:02:19.551110+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169309",
+    "title": "OffSec Launches Free PHP2Shell Lab Following Critical Vulnerability Discovery",
+    "link": "https://cybersecuritynews.com/offsec-launches-free-php2shell-lab-following-critical-vulnerability-discovery/",
+    "published": "Wed, 28 Oct 2026 17:54:27 +0000",
+    "source": "CybersecurityNews",
+    "summary": "New York, United States, October 28th, 2026, CyberNewswire New hands-on lab lets security practitioners explore PHP2Shell exploitation firsthand as AI-assisted research reshapes vulnerability discovery. OffSec today announced the release of a free, i",
+    "created_at": "2026-10-28T18:02:54.815410+00:00"
   }
 ]
