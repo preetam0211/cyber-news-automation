@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
-    "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
-    "link": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
-    "published": "Mon, 28 Sep 2026 10:00:10 -0400",
-    "source": "BleepingComputer",
-    "summary": "Infostealer logs exposed AI account credentials and sessions tied to more than 80,000 corporate domains, creating risks ranging from stolen conversations to LLMjacking. SOCRadar examines the growing market for stolen AI logins and how organizations c",
-    "created_at": "2026-09-28T14:30:58.306756+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
-    "title": "⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
-    "link": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
-    "published": "Mon, 28 Sep 2026 19:30:53 +0530",
-    "source": "The Hacker News",
-    "summary": "A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was: forgotten assumptions turning into live attack surface.\n\nElsewhere",
-    "created_at": "2026-09-28T14:31:00.266302+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=165003",
     "title": "ShinyHunters Bypasses WAF Protections to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
     "link": "https://cybersecuritynews.com/shinyhunters-bypasses/",
@@ -6469,5 +6451,68 @@
     "source": "CybersecurityNews",
     "summary": "Three malicious Firefox extensions posed as the Phantom, Jupiter, and Bitget crypto wallets to steal recovery phrases and private keys. Whoever holds these secrets controls the wallet and every coin in it. All three listings were live on the Firefox ",
     "created_at": "2026-10-28T13:31:48.885988+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
+    "title": "Wazuh and AI for Enhanced SOC Workflows",
+    "link": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
+    "published": "Wed, 28 Oct 2026 17:00:00 +0530",
+    "source": "The Hacker News",
+    "summary": "Artificial Intelligence (AI) has become one of this decade&#x27;s defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within la",
+    "created_at": "2026-10-28T14:31:37.648013+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html",
+    "title": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
+    "link": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html",
+    "published": "Wed, 28 Oct 2026 17:20:00 +0530",
+    "source": "The Hacker News",
+    "summary": "A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating system loads, but only while the machine is booting over the network",
+    "created_at": "2026-10-28T14:32:06.998703+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
+    "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
+    "link": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
+    "published": "Wed, 28 Oct 2026 18:18:03 +0530",
+    "source": "The Hacker News",
+    "summary": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber.\n\nThe vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) in the Oracle A",
+    "created_at": "2026-10-28T14:32:25.402826+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169284",
+    "title": "FBI Seizes Virtualine Bulletproof Hosting Domain Linked to Ransomware and Cybercrime",
+    "link": "https://cybersecuritynews.com/fbi-seizes-virtualine-bulletproof-hosting/",
+    "published": "Wed, 28 Oct 2026 13:43:53 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The FBI seized virtualine.net, the main website of a bulletproof hosting provider linked to ransomware operators, stolen-data markets, and other cybercrime services. Announced on October 27, 2026, the court-authorized action targeted a business accus",
+    "created_at": "2026-10-28T14:32:47.701581+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169250",
+    "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+    "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+    "published": "Wed, 28 Oct 2026 13:46:52 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Google released a Chrome security update that fixes 52 vulnerabilities, including four critical flaws affecting FileSystem, FileAPI, Skia, and Layout. According to the release notice, the Stable channel is moving to version 156.0.8078.73/.74 for Wind",
+    "created_at": "2026-10-28T14:33:32.023023+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
+    "title": "Even after PHP2Shell, blast radius matters more than a CVSS score",
+    "link": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
+    "published": "Wed, 28 Oct 2026 09:50:59 -0400",
+    "source": "BleepingComputer",
+    "summary": "PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts, API keys, and AI agents is just as important as fixing vul",
+    "created_at": "2026-10-28T14:33:59.118778+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
+    "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
+    "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
+    "published": "Wed, 28 Oct 2026 10:00:00 -0400",
+    "source": "BleepingComputer",
+    "summary": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as &quot;PHP2Shell&quot; put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at ris",
+    "created_at": "2026-10-28T14:34:13.144567+00:00"
   }
 ]
