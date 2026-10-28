@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
-    "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
-    "link": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
-    "published": "Mon, 28 Sep 2026 23:08:33 +0530",
-    "source": "The Hacker News",
-    "summary": "RatHat&#x27;s operators build and publish the Android banking trojan and control infected phones from a web console, according to security company Cleafy. Cleafy has traced nearly 100 deployments of that console since April 2026. It said this fits a ",
-    "created_at": "2026-09-28T19:00:59.634520+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html",
-    "title": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M",
-    "link": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html",
-    "published": "Mon, 28 Sep 2026 23:12:18 +0530",
-    "source": "The Hacker News",
-    "summary": "The attacker who stole about $388 million from the cryptocurrency exchange Bitget gained access through a vulnerability in a third-party security product the exchange used, Bitget said on Monday.\n\nThe attacker exploited the flaw to obtain high-level ",
-    "created_at": "2026-09-28T19:01:01.944375+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
-    "title": "IAM for AI agents: A Practical Enterprise Framework",
-    "link": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
-    "published": "Mon, 28 Sep 2026 23:50:38 +0530",
-    "source": "The Hacker News",
-    "summary": "What is IAM for AI agents?\n\nAI agents authenticate, invoke tools, and act across enterprise systems with delegated authority. IAM for AI Agents is the identity-control architecture that governs those actors. This guide covers the limits of convention",
-    "created_at": "2026-09-28T19:01:03.885181+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
-    "title": "Misconfigured Supabase apps expose data in over 16,000 databases",
-    "link": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
-    "published": "Mon, 28 Sep 2026 14:50:59 -0400",
-    "source": "BleepingComputer",
-    "summary": "Researchers found more than 16,000 misconfigured Supabase databases exposing readable tables with personally identifiable information, passwords, or authentication tokens. [...]",
-    "created_at": "2026-09-28T19:01:06.115679+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
     "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
     "link": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
@@ -6550,5 +6514,23 @@
     "source": "CybersecurityNews",
     "summary": "New York, United States, October 28th, 2026, CyberNewswire New hands-on lab lets security practitioners explore PHP2Shell exploitation firsthand as AI-assisted research reshapes vulnerability discovery. OffSec today announced the release of a free, i",
     "created_at": "2026-10-28T18:02:54.815410+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
+    "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
+    "link": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
+    "published": "Wed, 28 Oct 2026 23:38:33 +0530",
+    "source": "The Hacker News",
+    "summary": "The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and strategic access.\n\n&quot;First identified in late 2023",
+    "created_at": "2026-10-28T19:01:01.970510+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
+    "title": "Discord to let search engines index public server messages",
+    "link": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
+    "published": "Wed, 28 Oct 2026 14:44:16 -0400",
+    "source": "BleepingComputer",
+    "summary": "Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]",
+    "created_at": "2026-10-28T19:01:08.544186+00:00"
   }
 ]
