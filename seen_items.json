@@ -6541,5 +6541,14 @@
     "source": "CybersecurityNews",
     "summary": "Raw intelligence is cheap; operationalized intelligence is rare. A threat intelligence platform earns its keep by fusing feeds, deduplicating indicators, scoring relevance against your estate, and pushing enriched context into the SIEM, SOAR, and fir",
     "created_at": "2026-10-29T08:31:24.514959+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
+    "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
+    "link": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
+    "published": "Thu, 29 Oct 2026 13:54:22 +0530",
+    "source": "The Hacker News",
+    "summary": "Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization&#x27;s SD-WAN network.\n\nThe malware, called KeyDrift, is designed to copy the keys that encrypt traffi",
+    "created_at": "2026-10-29T09:01:07.014704+00:00"
   }
 ]
