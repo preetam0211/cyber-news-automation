@@ -6514,5 +6514,23 @@
     "source": "CybersecurityNews",
     "summary": "Fortinet’s FortiAIGate is bringing AI security controls to enterprise workloads on Oracle Cloud Infrastructure (OCI), helping businesses inspect prompts, block sensitive data leaks, and control agent actions. An Oracle announcement published October ",
     "created_at": "2026-10-29T03:01:18.145424+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169184",
+    "title": "WatchGuard Discloses 7 Critical Firewall Flaws Allowing Remote Code Execution and Root-Level Attacks",
+    "link": "https://cybersecuritynews.com/watchguard-discloses-critical-firewall-flaws/",
+    "published": "Thu, 29 Oct 2026 03:08:47 +0000",
+    "source": "CybersecurityNews",
+    "summary": "WatchGuard disclosed seven critical Fireware OS vulnerabilities in an October 27, 2026 advisory, affecting Firebox firewalls and potentially enabling remote code execution, root-level action injection, and memory corruption. They are part of a wider ",
+    "created_at": "2026-10-29T03:31:09.743712+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169395",
+    "title": "Hackers Leak Records of 41,000 DHS Personnel, Exposing Undercover ICE Agents",
+    "link": "https://cybersecuritynews.com/dhs-data-leak/",
+    "published": "Thu, 29 Oct 2026 03:13:31 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A leak of records covering more than 41,000 Department of Homeland Security employees and contractors has exposed contact details, work assignments, and links to sensitive operations, including undercover ICE work. Published on October 28, the archiv",
+    "created_at": "2026-10-29T03:31:21.229452+00:00"
   }
 ]
