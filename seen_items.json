@@ -6604,5 +6604,14 @@
     "source": "The Hacker News",
     "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act.\n\nAdvanced AI models can now help attackers discover vulnerabilities, generate exploit code, and move through we",
     "created_at": "2026-10-29T12:32:34.624528+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169538",
+    "title": "Chinese Hackers Use Secret Silent Train Network to Exploit Zero-Days Against U.S. Government and Defense",
+    "link": "https://cybersecuritynews.com/chinese-hackers/",
+    "published": "Thu, 29 Oct 2026 12:48:55 +0000",
+    "source": "CybersecurityNews",
+    "summary": "China-linked Volt Typhoon hackers have used a covert network called Silent Train to hide zero-day attacks against U.S. government agencies, defense contractors and critical infrastructure. The network chains together compromised routers, connected de",
+    "created_at": "2026-10-29T13:01:05.913920+00:00"
   }
 ]
