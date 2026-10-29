@@ -6496,5 +6496,23 @@
     "source": "BleepingComputer",
     "summary": "U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]",
     "created_at": "2026-10-28T21:01:03.997313+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169392",
+    "title": "WordPress 7.1.4 Fixes 22 Security Flaws, Including an Unauthenticated RCE Vulnerability",
+    "link": "https://cybersecuritynews.com/wordpress-7-1-4-fixes-security-flaws/",
+    "published": "Thu, 29 Oct 2026 02:31:49 +0000",
+    "source": "CybersecurityNews",
+    "summary": "WordPress released version 7.1.4 on October 28, 2026, fixing 22 security flaws, including an unauthenticated remote code execution vulnerability in its update process. The security release also addresses stored cross-site scripting, data exposure, an",
+    "created_at": "2026-10-29T03:01:05.143005+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169235",
+    "title": "Fortinet Brings AI Agent Security to Oracle Cloud to Block Prompt Injection and Data Leaks",
+    "link": "https://cybersecuritynews.com/fortinet-brings-ai-agent-security-to-oracle-cloud/",
+    "published": "Thu, 29 Oct 2026 02:46:10 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Fortinet’s FortiAIGate is bringing AI security controls to enterprise workloads on Oracle Cloud Infrastructure (OCI), helping businesses inspect prompts, block sensitive data leaks, and control agent actions. An Oracle announcement published October ",
+    "created_at": "2026-10-29T03:01:18.145424+00:00"
   }
 ]
