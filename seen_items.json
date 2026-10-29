@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
-    "title": "Signal adds encypted local backup support to iOS, desktop apps",
-    "link": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
-    "published": "Tue, 29 Sep 2026 17:30:08 -0400",
-    "source": "BleepingComputer",
-    "summary": "Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows). [...]",
-    "created_at": "2026-09-29T21:31:24.208713+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
     "title": "Microsoft is rolling out Linux container support to WSL",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
@@ -6568,5 +6559,14 @@
     "source": "The Hacker News",
     "summary": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn&#x27;t.\n\nThere&#x27;s a strange mix of clever tricks an",
     "created_at": "2026-10-29T20:01:05.499921+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
+    "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+    "link": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
+    "published": "Thu, 29 Oct 2026 17:47:25 -0400",
+    "source": "BleepingComputer",
+    "summary": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets traced to a suspected attacker",
+    "created_at": "2026-10-29T22:01:08.102439+00:00"
   }
 ]
