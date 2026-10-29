@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=165058",
-    "title": "Critical WatchGuard API Vulnerabilities Enables Command Execution Attacks",
-    "link": "https://cybersecuritynews.com/watchguard-api-vulnerabilities/",
-    "published": "Tue, 29 Sep 2026 08:00:44 +0000",
-    "source": "CybersecurityNews",
-    "summary": "WatchGuard has disclosed three security vulnerabilities affecting WatchGuard AP devices, including two critical flaws that could allow attackers to gain unauthenticated access and execute commands on vulnerable access points. Organizations using Watc",
-    "created_at": "2026-09-29T09:01:08.968668+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165076",
-    "title": "Storm-3168 Deletes Azure Resources in 7-Minute Destructive Cloud Attack",
-    "link": "https://cybersecuritynews.com/storm-3168/",
-    "published": "Tue, 29 Sep 2026 08:48:40 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Storm-3168 used compromised cloud identities to carry out a destructive attack against an Azure environment in minutes. The operation shows how a stolen application credential can give an intruder broad control over hosted data, services, and recover",
-    "created_at": "2026-09-29T09:01:25.242085+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
-    "title": "Kiteworks patches critical flaw, brings customer systems online",
-    "link": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
-    "published": "Tue, 29 Sep 2026 05:04:06 -0400",
-    "source": "BleepingComputer",
-    "summary": "American tech company Kiteworks has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability. [...]",
-    "created_at": "2026-09-29T09:31:03.935246+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165079",
-    "title": "wolfSSL 5.9.4 Fixes 11 TLS Security Flaws and Expands Post-Quantum Cryptography Support",
-    "link": "https://cybersecuritynews.com/wolfssl-5-9-4-fixes-tls-flaws/",
-    "published": "Tue, 29 Sep 2026 09:19:28 +0000",
-    "source": "CybersecurityNews",
-    "summary": "wolfSSL has released version 5.9.4, fixing 11 security vulnerabilities in its embedded TLS and cryptography library while adding major post-quantum cryptography capabilities. The update is important for developers using wolfSSL in IoT devices, embedd",
-    "created_at": "2026-09-29T09:31:35.089347+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
     "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
     "link": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
@@ -6550,5 +6514,32 @@
     "source": "The Hacker News",
     "summary": "Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization&#x27;s SD-WAN network.\n\nThe malware, called KeyDrift, is designed to copy the keys that encrypt traffi",
     "created_at": "2026-10-29T09:01:07.014704+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169439",
+    "title": "Hackers Use Fake Cloudflare Verification Pages to Target Windows and Mac Users",
+    "link": "https://cybersecuritynews.com/fake-cloudflare-verification/",
+    "published": "Thu, 29 Oct 2026 08:38:36 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new ClickFix campaign is using fake Cloudflare verification pages to trick both Windows and Mac users into running harmful commands on their own computers. The pages look like the “Verify you are human” checks that many people click through every d",
+    "created_at": "2026-10-29T09:31:17.260250+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169408",
+    "title": "Microsoft Edge 0-Click Exploit Chains Five Flaws to Execute Code and Escape Sandbox",
+    "link": "https://cybersecuritynews.com/microsoft-edge-zero-click-exploit/",
+    "published": "Thu, 29 Oct 2026 08:48:30 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new exploit chain for Microsoft Edge revealed that combines five bugs and two Windows features to run code outside the browser sandbox. Published by Security researcher Orange Tsai on October 28, 2026, the research shows how flaws in browser logic ",
+    "created_at": "2026-10-29T09:31:28.625234+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169462",
+    "title": "319 Chrome Extensions Found Hijacking Searches, Affecting 13.4 Million Users",
+    "link": "https://cybersecuritynews.com/319-chrome-extensions/",
+    "published": "Thu, 29 Oct 2026 09:27:23 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A network of 319 browser extensions has been linked to search hijacking affecting roughly 13.4 million users over a decade. Marketed as PDF converters, manual finders, safe search tools, and AI search helpers, these extensions redirect queries throug",
+    "created_at": "2026-10-29T09:31:46.006688+00:00"
   }
 ]
