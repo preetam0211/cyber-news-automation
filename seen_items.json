@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=165147",
-    "title": "How US SOCs and MSSPs Can Use Threat Intelligence to Detect Phishing Infrastructure Earlier",
-    "link": "https://cybersecuritynews.com/how-us-socs-and-mssps-can-use-threat-intelligence-to-detect-phishing-infrastructure-earlier/",
-    "published": "Tue, 29 Sep 2026 16:06:22 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Phishing remains one of the most persistent problems for security teams, as the challenge is no longer limited to identifying suspicious emails.  Behind a single malicious link there may be a newly registered domain, a compromised website, a redirect",
-    "created_at": "2026-09-29T17:01:16.980043+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165158",
-    "title": "FBI and Dutch Police Arrested Alleged ShinyHunters Hackers Group Leader",
-    "link": "https://cybersecuritynews.com/alleged-shinyhunters-leader-arrested/",
-    "published": "Tue, 29 Sep 2026 16:33:09 +0000",
-    "source": "CybersecurityNews",
-    "summary": "FBI Director Kash Patel has announced the arrest of an alleged leader of ShinyHunters, the cyber-extortion group linked to attacks across the United States, the Netherlands, and other countries. Dutch police detained the 24-year-old Amsterdam suspect",
-    "created_at": "2026-09-29T17:01:19.242000+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
     "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
     "link": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
@@ -6613,5 +6595,23 @@
     "source": "BleepingComputer",
     "summary": "A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users&#x27; searches through tracking servers to generate advertising revenue from Bing and Yahoo. [...]",
     "created_at": "2026-10-29T16:31:21.581133+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+    "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+    "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+    "published": "Thu, 29 Oct 2026 21:27:05 +0530",
+    "source": "The Hacker News",
+    "summary": "A flaw in the Linux kernel&#x27;s TCP code, tracked as CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel&#x27;s own CVE team rates it 9.8 out of 10 on the CVSS scale.\n\nAnthropic said on October",
+    "created_at": "2026-10-29T17:01:18.625061+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169595",
+    "title": "Hackers Launch 8,200 DDoS Attacks Every Hour, Cloudflare’s Latest Report Reveals",
+    "link": "https://cybersecuritynews.com/8200-ddos-attacks-every-hour/",
+    "published": "Thu, 29 Oct 2026 16:42:03 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cloudflare blocked an average of more than 8,200 network-layer DDoS attacks every hour during the third quarter of 2026, showing how attackers are using frequent, short bursts to disrupt online services rather than relying only on record-breaking tra",
+    "created_at": "2026-10-29T17:02:04.901124+00:00"
   }
 ]
