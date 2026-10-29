@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
-    "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
-    "published": "Tue, 29 Sep 2026 03:33:12 -0400",
-    "source": "BleepingComputer",
-    "summary": "Apple released security updates to fix a zero-day vulnerability exploited in &quot;extremely sophisticated&quot; targeted attacks on iOS devices. [...]",
-    "created_at": "2026-09-29T08:01:07.645951+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165065",
-    "title": "BotHelper RAT Uses Encrypted Payloads and Live Screen Surveillance to Spy on Windows Users",
-    "link": "https://cybersecuritynews.com/bothelper-rat/",
-    "published": "Tue, 29 Sep 2026 07:36:41 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A newly documented Windows remote access trojan, dubbed BotHelper RAT, gives attackers a quiet way to watch an infected user’s screen and control the device. The malware arrives through a small starter program, hides its main code with encryption, an",
-    "created_at": "2026-09-29T08:01:09.831121+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=165058",
     "title": "Critical WatchGuard API Vulnerabilities Enables Command Execution Attacks",
     "link": "https://cybersecuritynews.com/watchguard-api-vulnerabilities/",
@@ -6523,5 +6505,41 @@
     "source": "The Hacker News",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it had been weaponized by a China-",
     "created_at": "2026-10-29T07:01:32.879032+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169099",
+    "title": "Top 10 Best SIEM Tools in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-siem-tools-2/",
+    "published": "Thu, 29 Oct 2026 08:03:44 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The SIEM is the SOC’s memory and its biggest line item, and 2026’s rankings reflect a market reshaped by consolidation: Cisco absorbed Splunk, Exabeam and LogRhythm merged into one company, and the hyperscalers turned SIEM into a cloud-native data ra",
+    "created_at": "2026-10-29T08:31:01.070127+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169425",
+    "title": "Hackers Infect 17,960 Android Phones With Banking Trojans, Steal 7.6 Million SMS Messages",
+    "link": "https://cybersecuritynews.com/hackers-infect-17960-android-phones/",
+    "published": "Thu, 29 Oct 2026 08:09:16 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers have compromised at least 17,960 Android devices and intercepted more than 7.6 million SMS messages in a banking malware campaign targeting India. The operation combines fake bank calls, phishing websites, malicious applications, and cryptocu",
+    "created_at": "2026-10-29T08:31:12.876202+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169224",
+    "title": "Top 10 Best SOAR Tools in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-soar-tools/",
+    "published": "Thu, 29 Oct 2026 08:16:24 +0000",
+    "source": "CybersecurityNews",
+    "summary": "SOAR grew up twice: first from scripts to playbooks, then in the current wave from playbooks to AI agents that draft, decide, and act under human guardrails. The 2026 field splits into suite engines living inside SIEM/XDR platforms and independent au",
+    "created_at": "2026-10-29T08:31:18.749248+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169308",
+    "title": "Top 10 Best Threat Intelligence Platforms (TIP) in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-threat-intelligence-platforms/",
+    "published": "Thu, 29 Oct 2026 08:24:13 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Raw intelligence is cheap; operationalized intelligence is rare. A threat intelligence platform earns its keep by fusing feeds, deduplicating indicators, scoring relevance against your estate, and pushing enriched context into the SIEM, SOAR, and fir",
+    "created_at": "2026-10-29T08:31:24.514959+00:00"
   }
 ]
