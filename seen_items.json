@@ -6523,5 +6523,50 @@
     "source": "CybersecurityNews",
     "summary": "GitHub has launched Copilot Fusion, a system that automatically selects AI models for coding tasks, helping developers balance code quality, speed, and cost. Instead of choosing a model for every request, users select Fusion and let it decide how to ",
     "created_at": "2026-10-29T10:31:08.147443+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
+    "title": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
+    "link": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
+    "published": "Thu, 29 Oct 2026 14:35:39 +0530",
+    "source": "The Hacker News",
+    "summary": "An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project&#x27;s own GitLab server a week after GitLab released a fix, Alpine Linux said on 28 October.\n\nThe flaw, CVE-2026-97229 (CVSS score: 10.0), can let an attacker r",
+    "created_at": "2026-10-29T11:31:15.602075+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
+    "title": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
+    "link": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
+    "published": "Thu, 29 Oct 2026 15:56:33 +0530",
+    "source": "The Hacker News",
+    "summary": "GitHub has announced that it&#x27;s introducing a new package firewall as a preview to block installation of suspicious npm packages during installation time.\n\n&quot;The firewall inspects both metadata requests and package downloads for signs of mali",
+    "created_at": "2026-10-29T11:31:45.712960+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
+    "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
+    "link": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
+    "published": "Thu, 29 Oct 2026 16:14:46 +0530",
+    "source": "The Hacker News",
+    "summary": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has been exploited in the wild.\n\nThe vulnerability, track",
+    "created_at": "2026-10-29T11:31:59.637770+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169497",
+    "title": "Hackers Attack FreePBX Servers With Malware to Steal SIP Credentials for Phone Fraud",
+    "link": "https://cybersecuritynews.com/hackers-attack-freepbx-servers/",
+    "published": "Thu, 29 Oct 2026 11:09:22 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers targeting FreePBX phone servers have upgraded their malware to steal credentials that can keep phone fraud running even after an infected system is rebuilt. The INJ3CTOR3 operation now collects configuration files containing SIP trunk passwor",
+    "created_at": "2026-10-29T11:32:14.499049+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
+    "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
+    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
+    "published": "Thu, 29 Oct 2026 07:10:13 -0400",
+    "source": "BleepingComputer",
+    "summary": "Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [...]",
+    "created_at": "2026-10-29T11:32:21.157784+00:00"
   }
 ]
