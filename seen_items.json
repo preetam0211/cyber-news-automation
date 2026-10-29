@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=165092",
-    "title": "Hackers Weaponizing ChatGPT’s Custom GPT Feature to Trick Victims into Installing Malware",
-    "link": "https://cybersecuritynews.com/chatgpt-custom-gpt-malware/",
-    "published": "Tue, 29 Sep 2026 12:01:26 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Hackers are abusing ChatGPT’s Custom GPT feature to impersonate AI products and trick users into installing a sophisticated remote access trojan (RAT), according to Huntress researchers. The campaign turns a trusted ChatGPT-hosted page into the openi",
-    "created_at": "2026-09-29T12:31:16.632531+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=165096",
     "title": "GitHub AI Security Agent Finds 24 Android Vulnerabilities Including Account Takeover Flaws",
     "link": "https://cybersecuritynews.com/github-ai-finds-24-android-vulnerabilities/",
@@ -6577,5 +6568,41 @@
     "source": "BleepingComputer",
     "summary": "Microsoft released the KB5127936 preview cumulative update for Windows 11 versions 25H2 and 26H2, with 41 changes, including File Explorer and Cloud rebuild improvements. [...]",
     "created_at": "2026-10-29T12:01:37.092576+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
+    "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
+    "link": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
+    "published": "Thu, 29 Oct 2026 17:03:15 +0530",
+    "source": "The Hacker News",
+    "summary": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it.\n\nIndependent researcher Ben Zimmermann found them by",
+    "created_at": "2026-10-29T12:31:21.706220+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
+    "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
+    "link": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
+    "published": "Thu, 29 Oct 2026 17:03:41 +0530",
+    "source": "The Hacker News",
+    "summary": "AI is beginning to take over much of the work that has traditionally defined the security analyst&#x27;s job. Investigating alerts, collecting evidence, correlating activity across tools, and executing response actions are becoming tasks that AI syst",
+    "created_at": "2026-10-29T12:31:45.812809+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
+    "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
+    "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
+    "published": "Thu, 29 Oct 2026 17:09:18 +0530",
+    "source": "The Hacker News",
+    "summary": "A flaw in Telegram for Android allowed an attacker to run code on a victim&#x27;s phone via a voice call once the victim answered, according to security startup NebuSec.\n\nThe attacker needed only an ordinary Telegram account. Telegram fixed the flaw ",
+    "created_at": "2026-10-29T12:32:19.030998+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+    "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
+    "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+    "published": "Thu, 29 Oct 2026 17:09:41 +0530",
+    "source": "The Hacker News",
+    "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act.\n\nAdvanced AI models can now help attackers discover vulnerabilities, generate exploit code, and move through we",
+    "created_at": "2026-10-29T12:32:34.624528+00:00"
   }
 ]
