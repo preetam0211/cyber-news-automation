@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
-    "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
-    "link": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
-    "published": "Tue, 29 Sep 2026 22:30:00 +0530",
-    "source": "The Hacker News",
-    "summary": "A group of academics from VUSec and Scuola Superiore Sant&#x27;Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel,",
-    "created_at": "2026-09-29T17:30:58.747211+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
-    "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
-    "link": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
-    "published": "Tue, 29 Sep 2026 13:10:11 -0400",
-    "source": "BleepingComputer",
-    "summary": "A new Branch Target Reuse (BTR) attack has been devised that can recover root password hashes on Intel computers running Linux in 3-5 minutes on average. [...]",
-    "created_at": "2026-09-29T17:31:02.006743+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/",
     "title": "Windows 11 2026 Update released, here's everything you need to know",
     "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/",
@@ -6613,5 +6595,14 @@
     "source": "CybersecurityNews",
     "summary": "Cloudflare blocked an average of more than 8,200 network-layer DDoS attacks every hour during the third quarter of 2026, showing how attackers are using frequent, short bursts to disrupt online services rather than relying only on record-breaking tra",
     "created_at": "2026-10-29T17:02:04.901124+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169179",
+    "title": "State of Ad Fraud 2026: 52% of Schemes Use AI as Cloaking Loses Ground to iOS Exploits and Messenger Phishing",
+    "link": "https://cybersecuritynews.com/state-of-ad-fraud-2026-52-of-schemes-use-ai-as-cloaking-loses-ground-to-ios-exploits-and-messenger-phishing/",
+    "published": "Thu, 29 Oct 2026 17:26:36 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The ad fraud landscape changed sharply in 2026. That is the central finding of the State of Ad Fraud 2026: ADEX Trust &amp; Safety Report, published by anti-fraud platform ADEX. The report analyzes January–September 2026 moderation and verification d",
+    "created_at": "2026-10-29T17:31:11.045435+00:00"
   }
 ]
