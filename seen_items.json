@@ -6604,5 +6604,14 @@
     "source": "The Hacker News",
     "summary": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed Yoba.\n\nThe activity involves creating f",
     "created_at": "2026-10-29T16:02:15.731098+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
+    "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
+    "link": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
+    "published": "Thu, 29 Oct 2026 12:10:31 -0400",
+    "source": "BleepingComputer",
+    "summary": "A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users&#x27; searches through tracking servers to generate advertising revenue from Bing and Yahoo. [...]",
+    "created_at": "2026-10-29T16:31:21.581133+00:00"
   }
 ]
