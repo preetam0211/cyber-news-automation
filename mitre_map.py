@@ -113,18 +113,27 @@ MITRE_ATLAS_PATTERNS = {
 }
 
 def call_gemini_mitre_mapping(title, summary, api_key):
-    """Call Gemini API to semantically determine the MITRE ATT&CK or MITRE ATLAS framework and mapping."""
+    """Call Gemini API to evaluate applicability and determine MITRE ATT&CK or MITRE ATLAS framework mapping."""
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent?key={api_key}"
     headers = {"Content-Type": "application/json"}
     
     prompt = (
-        "You are a cybersecurity expert analyzing threat intelligence feeds.\n"
-        "Your task is to map this news article to relevant security frameworks.\n\n"
+        "You are a Tier-3 Cyber Threat Intelligence (CTI) analyst analyzing threat feeds.\n"
+        "Your task is to determine whether an article represents adversary behavior that is APPLICABLE for MITRE ATT&CK or MITRE ATLAS framework mapping, and if so, classify it.\n\n"
         
-        "Rules:\n"
-        "1. If the article is a weekly news recap, newsletter, bulletin, or generic research paper/summary list (not a specific threat incident or CVE), return 'NONE' as the framework and an empty list of techniques.\n"
-        "2. If the article describes an AI, LLM, or Machine Learning vulnerability, exploit, or threat (e.g. jailbreaking, prompt injection, model poisoning), use the 'MITRE ATLAS' framework and map to relevant techniques (e.g., AML.T0054 (LLM Prompt Injection)).\n"
-        "3. Otherwise, use the 'MITRE ATT&CK' framework and map to standard enterprise techniques (e.g. T1566 (Phishing)).\n\n"
+        "Step 1: Assess Applicability\n"
+        "MITRE mapping is ONLY applicable if the article reports an active cyberattack, threat actor campaign, exploit in the wild, malware mechanism, or adversary TTP (Tactics, Techniques, and Procedures).\n"
+        "MITRE mapping is NOT applicable ('NONE') for:\n"
+        "- Vendor patch releases, security updates, out-of-band (OOB) updates, bug fixes, or emergency release notes (e.g., 'Oracle Issues Emergency Java Update', 'Microsoft releases Windows OOB updates').\n"
+        "- Corporate, business, legal, certificate trust, or market announcements (e.g., 'eMudhra Exits Global SSL/TLS Certificate Business', vendor distrust actions, acquisitions).\n"
+        "- Compliance, regulatory, policy, or governance notices.\n"
+        "- Weekly digests, news recaps, bulletins, research papers, or tool comparison lists.\n"
+        "- General vulnerability disclosures or theoretical flaws without reported in-the-wild adversarial exploitation.\n\n"
+        
+        "Step 2: Framework Selection & Technique Mapping (Only if Applicable)\n"
+        "- If the threat involves Artificial Intelligence, LLMs, or Machine Learning (e.g. prompt injection, jailbreak, model poisoning), use 'MITRE ATLAS' and map to relevant techniques (e.g., AML.T0054 (LLM Prompt Injection)).\n"
+        "- For all other standard enterprise cyber threats, use 'MITRE ATT&CK' and map to relevant techniques (e.g., T1566 (Phishing), T1190 (Exploit Public-Facing Application)).\n"
+        "- If not applicable, return 'NONE' as the framework and an empty list of techniques.\n\n"
         
         "Article to Analyze:\n"
         f"Title: {title}\n"
@@ -132,7 +141,7 @@ def call_gemini_mitre_mapping(title, summary, api_key):
         
         "Format the techniques in the list exactly like this: '[Tactic Name] ID (Technique Name)'.\n"
         "Return a JSON object in this format:\n"
-        '{\n  "framework": "MITRE ATT&CK" or "MITRE ATLAS" or "NONE",\n  "techniques": [" [Tactic] Technique_ID (Technique Name)", ...]\n}'
+        '{\n  "applicable": true or false,\n  "reason": "short explanation of applicability decision",\n  "framework": "MITRE ATT&CK" or "MITRE ATLAS" or "NONE",\n  "techniques": ["[Tactic] Technique_ID (Technique Name)", ...]\n}'
     )
     
     payload = {
@@ -161,9 +170,20 @@ def call_gemini_mitre_mapping(title, summary, api_key):
             result = response.json()
             text_content = result["candidates"][0]["content"]["parts"][0]["text"]
             data = json.loads(text_content)
+            
             # Pacing delay to stay comfortably under 15 RPM free-tier quota
             time.sleep(4)
-            return data.get("framework", "MITRE ATT&CK"), data.get("techniques", [])
+            
+            applicable = data.get("applicable", True)
+            framework = data.get("framework", "NONE")
+            techniques = data.get("techniques", [])
+            reason = data.get("reason", "")
+            
+            if not applicable or framework == "NONE":
+                logger.info(f"[GEMINI MITRE MAP] '{title}' evaluated as NOT APPLICABLE for MITRE: {reason}")
+                return "NONE", []
+                
+            return framework, techniques
         except requests.exceptions.RequestException as e:
             if attempt < max_retries - 1 and hasattr(e, 'response') and e.response is not None and e.response.status_code == 429:
                 wait_time = 5 * (attempt + 1)
@@ -184,15 +204,22 @@ def map_mitre_attack(title, summary):
     if gemini_api_key and gemini_api_key.strip():
         framework, techniques = call_gemini_mitre_mapping(title, summary or "", gemini_api_key.strip())
         if framework is not None and techniques is not None:
-            if framework == "NONE":
+            if framework == "NONE" or not techniques:
                 return "MITRE ATT&CK", []
             logger.info(f"[GEMINI MITRE MAP] Mapped \"{title}\" to {framework} ({len(techniques)} matches)")
             return framework, techniques
 
     # Fallback: Regex Keyword Mapping
     title_lower = title.lower()
+    
+    # 1. Unconditional digest / research exclusions
     exclusions = ["weekly", "newsletter", "bulletin", "recap", "research", "researcher", "researchers"]
     if any(ex in title_lower for ex in exclusions):
+        return "MITRE ATT&CK", []
+
+    # 2. Non-adversary vendor patch, OOB update, or corporate announcements without active exploitation
+    non_adversary_pattern = r"\b(oob|emergency|security)\s+(\w+\s+)?(update|updates|patch|patches)\b|\b(exits|distrust)\b"
+    if re.search(non_adversary_pattern, title_lower) and not re.search(r"\b(exploited|in the wild|zero-day|0-day|active attack)\b", title_lower):
         return "MITRE ATT&CK", []
         
     combined_text = f"{title} {summary}".lower()
