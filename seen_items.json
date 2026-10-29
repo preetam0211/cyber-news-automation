@@ -6532,5 +6532,14 @@
     "source": "CybersecurityNews",
     "summary": "A leak of records covering more than 41,000 Department of Homeland Security employees and contractors has exposed contact details, work assignments, and links to sensitive operations, including undercover ICE work. Published on October 28, the archiv",
     "created_at": "2026-10-29T03:31:21.229452+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169398",
+    "title": "Hackers Chain PHP2Shell and Linux Kernel Exploits to Gain Root Access on 25 Servers",
+    "link": "https://cybersecuritynews.com/php2shell-gained-root-access-on-25-servers/",
+    "published": "Thu, 29 Oct 2026 03:55:14 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers combined PHP2Shell vulnerabilities with a Linux kernel exploit to gain root access on 25 servers across the United States, Japan, Taiwan, and South Korea, including three systems in a US government-affiliated environment. Dream researchers un",
+    "created_at": "2026-10-29T04:01:05.094822+00:00"
   }
 ]
