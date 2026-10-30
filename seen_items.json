@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html",
-    "title": "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access",
-    "link": "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html",
-    "published": "Wed, 30 Sep 2026 16:15:00 +0530",
-    "source": "The Hacker News",
-    "summary": "ANY.RUN researchers traced a US-focused CSuite phishing campaign across 351 sandbox analyses, with 51% of submissions coming from the United States. Technology, manufacturing, government, and consulting organizations showed the highest exposure.\n\nBy ",
-    "created_at": "2026-09-30T12:01:07.074040+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
-    "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
-    "link": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
-    "published": "Wed, 30 Sep 2026 17:00:00 +0530",
-    "source": "The Hacker News",
-    "summary": "AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security company Glow said.\n\nIts researchers found more than 13,000 internal images from developers at over 300 org",
-    "created_at": "2026-09-30T12:01:36.179711+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
-    "title": "TeamViewer urges users to patch severe flaws “as soon as possible”",
-    "link": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
-    "published": "Wed, 30 Sep 2026 08:25:10 -0400",
-    "source": "BleepingComputer",
-    "summary": "Remote access software company TeamViewer warned customers on Tuesday to immediately patch a set of high-severity vulnerabilities affecting its client and host software. [...]",
-    "created_at": "2026-09-30T12:31:00.143908+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
     "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
     "link": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
@@ -6658,5 +6631,32 @@
     "source": "BleepingComputer",
     "summary": "Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates. [...]",
     "created_at": "2026-10-30T11:31:57.332076+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
+    "title": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
+    "link": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
+    "published": "Fri, 30 Oct 2026 16:10:45 +0530",
+    "source": "The Hacker News",
+    "summary": "Ahmad Umar Agha, a Syrian Electronic Army hacker known online as &quot;Th3Pr0,&quot; has been sentenced by a U.S. federal court to 42 months in prison for his role in a hacking conspiracy that targeted Western news outlets.\n\nThe conspiracy was organi",
+    "created_at": "2026-10-30T12:31:09.638736+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
+    "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
+    "link": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
+    "published": "Fri, 30 Oct 2026 17:28:53 +0530",
+    "source": "The Hacker News",
+    "summary": "The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won’t break anything. \n\nTheir concerns are practical. An I",
+    "created_at": "2026-10-30T12:31:22.723129+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
+    "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
+    "link": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
+    "published": "Fri, 30 Oct 2026 17:51:56 +0530",
+    "source": "The Hacker News",
+    "summary": "A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported.\n\nTrezor has not yet examined the device. It is telling everyone who bou",
+    "created_at": "2026-10-30T12:31:29.535899+00:00"
   }
 ]
