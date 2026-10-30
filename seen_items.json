@@ -6667,5 +6667,14 @@
     "source": "BleepingComputer",
     "summary": "Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]",
     "created_at": "2026-10-30T13:01:44.529118+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169762",
+    "title": "Hackers Exploit Passwordless Telnet to Infect Linux Devices With New Kairos DDoS Botnet",
+    "link": "https://cybersecuritynews.com/hackers-exploit-passwordless-telnet/",
+    "published": "Fri, 30 Oct 2026 13:22:22 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new botnet called Kairos is spreading to Linux devices through a very old mistake: a Telnet service that accepts the root user with no password. Once inside, the attackers install a small Go-based program that turns the device into a node for DDoS ",
+    "created_at": "2026-10-30T13:31:22.966505+00:00"
   }
 ]
