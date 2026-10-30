@@ -1,50 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=165296",
-    "title": "PaperPhone Headless Browser Network Uses 75,000 IPs and Fabricated Mobile Identities Across 43 Countries",
-    "link": "https://cybersecuritynews.com/paperphone-headless/",
-    "published": "Wed, 30 Sep 2026 16:05:54 +0000",
-    "source": "CybersecurityNews",
-    "summary": "PaperPhone is a large headless-browser network built to make automated web requests look like ordinary mobile traffic. It does not rely on a single obvious source. Instead, it spreads activity across thousands of addresses while repeatedly presenting",
-    "created_at": "2026-09-30T16:31:06.953149+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165276",
-    "title": "Phishing Response: 3 Steps SOC Teams Can Take to Investigate Threats Faster",
-    "link": "https://cybersecuritynews.com/phishing-response-3-steps-soc-teams-can-take-to-investigate-threats-faster/",
-    "published": "Wed, 30 Sep 2026 16:06:16 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Investigating a phishing alert often means working through several layers of activity before an analyst can confidently close or escalate the case. Modern campaigns can hide malicious activity behind encrypted traffic, CAPTCHA challenges, redirects, ",
-    "created_at": "2026-09-30T16:31:09.026412+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165299",
-    "title": "Russian Hackers Target 100+ Organizations With New RedFlick Phishing Attack",
-    "link": "https://cybersecuritynews.com/russian-hackers-2/",
-    "published": "Wed, 30 Sep 2026 16:28:35 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Russian state-linked hackers have expanded a phishing operation that uses a new RedFlick delivery chain to reach more than 100 organizations. The campaign replaces an obvious malicious attachment with a conversation that looks like ordinary professio",
-    "created_at": "2026-09-30T16:31:11.075150+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165213",
-    "title": "Google Warns of Hackers Actively Exploiting Citrix 0-Day Vulnerabilities to Deploy Web Shells",
-    "link": "https://cybersecuritynews.com/citrix-0-day-vulnerabilities-webshells/",
-    "published": "Wed, 30 Sep 2026 16:50:03 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Google has warned that threat actors are actively exploiting two critical Citrix NetScaler zero-day vulnerabilities to gain root access, install stealthy web shells, and move into victim networks. The activity has affected organizations in North Amer",
-    "created_at": "2026-09-30T17:01:13.036202+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165238",
-    "title": "Google Releases Chrome Update With 32 Security Fixes for Windows, Mac and Linux",
-    "link": "https://cybersecuritynews.com/chrome-update-with-32-security-fixes/",
-    "published": "Wed, 30 Sep 2026 16:58:15 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Google released a Chrome Stable update fixing 32 security vulnerabilities across Windows, macOS, and Linux, including one critical and multiple high-severity flaws in V8, ANGLE, GPU, WebGPU, Bluetooth, Passwords, and UI components. Chrome version 154",
-    "created_at": "2026-09-30T17:01:14.617246+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=165231",
     "title": "Cloudflare Builds Post-Quantum CA With Merkle Tree Certificates for Faster Quantum-Safe TLS",
     "link": "https://cybersecuritynews.com/cloudflare-post-quantum-ca/",
@@ -6667,5 +6622,23 @@
     "source": "BleepingComputer",
     "summary": "Hardware wallet device maker Trezor has received credible reports about a suspected hardware crypto-theft implant in a Trezor Safe 5 sold by its reseller CryptoBilis in Southeast Asia. [...]",
     "created_at": "2026-10-30T16:02:11.947404+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
+    "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
+    "link": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
+    "published": "Fri, 30 Oct 2026 19:38:14 +0530",
+    "source": "The Hacker News",
+    "summary": "Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released.\n\nThe vulnerability, which does not have a CVE identifier, relates to a case of remote code execution impacting",
+    "created_at": "2026-10-30T17:01:05.216227+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
+    "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
+    "link": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
+    "published": "Fri, 30 Oct 2026 20:47:28 +0530",
+    "source": "The Hacker News",
+    "summary": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the viewer, and the machine it controls ",
+    "created_at": "2026-10-30T17:01:40.289616+00:00"
   }
 ]
