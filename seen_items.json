@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=165167",
-    "title": "OpenAI Rolled out Codex Security Cloud, an Always-on Application Security Service",
-    "link": "https://cybersecuritynews.com/openai-rolled-out-codex-security-cloud/",
-    "published": "Wed, 30 Sep 2026 04:36:20 +0000",
-    "source": "CybersecurityNews",
-    "summary": "OpenAI has upgraded Codex with Codex Security Cloud, an always-on application security service designed to scan GitHub repositories, monitor incoming commits, investigate flaws, remove duplicate findings, and prepare fixes for human review. The cloud",
-    "created_at": "2026-09-30T05:01:23.567129+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=165127",
     "title": "MCP Python SDK OAuth Flaw Lets Malicious Servers Hijack AI Agent Accounts",
     "link": "https://cybersecuritynews.com/mcp-python-sdk-oauth-flaw/",
@@ -6613,5 +6604,14 @@
     "source": "CybersecurityNews",
     "summary": "An Accenture employee allegedly gave a personal Claude Code AI agent administrative access to a secure U.S. Department of Defense environment, allowing it to write and deploy code. The agent reportedly operated for about two months and appears to hav",
     "created_at": "2026-10-30T04:31:19.876101+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
+    "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
+    "link": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
+    "published": "Fri, 30 Oct 2026 09:44:59 +0530",
+    "source": "The Hacker News",
+    "summary": "Cryptocurrency giant Binance said on Thursday that a &quot;security incident&quot; on its platform has impacted about $6.3 billion worth of assets.\n\nThe world&#x27;s biggest cryptocurrency exchange said nearly $3 billion of those assets have been fro",
+    "created_at": "2026-10-30T05:31:02.519381+00:00"
   }
 ]
