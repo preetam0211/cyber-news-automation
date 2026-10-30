@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
-    "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
-    "link": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
-    "published": "Wed, 30 Sep 2026 13:39:28 +0530",
-    "source": "The Hacker News",
-    "summary": "A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program, OpenSSL said on September 29 as it released fixes.\n\nDTLS, the TLS variant used for UDP traffic, resends a handshake message if no reply arr",
-    "created_at": "2026-09-30T10:01:21.773539+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
-    "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
-    "link": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
-    "published": "Wed, 30 Sep 2026 13:54:35 +0530",
-    "source": "The Hacker News",
-    "summary": "Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizations in North America and Europe.\n\nThe activity, observed by Mandiant Consulting and Google ",
-    "created_at": "2026-09-30T10:02:12.562252+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=165188",
     "title": "RSA Launches Agent ID Platform to Secure AI Agents and MCP Servers",
     "link": "https://cybersecuritynews.com/rsa-agent-id/",
@@ -6667,5 +6649,23 @@
     "source": "BleepingComputer",
     "summary": "Binance, the world&#x27;s largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer&#x27;s compromised laptop. [...]",
     "created_at": "2026-10-30T09:31:08.063290+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
+    "title": "Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor",
+    "link": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
+    "published": "Fri, 30 Oct 2026 14:25:47 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have disclosed that the official Anthropic Claude Code extension was compromised on the Open VSX registry to install a persistent SSH backdoor on infected hosts.\n\nThe issue has since been traced to the compromise of the Curs",
+    "created_at": "2026-10-30T10:31:00.246569+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
+    "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
+    "published": "Fri, 30 Oct 2026 06:16:07 -0400",
+    "source": "BleepingComputer",
+    "summary": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
+    "created_at": "2026-10-30T10:31:04.982581+00:00"
   }
 ]
