@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=165127",
-    "title": "MCP Python SDK OAuth Flaw Lets Malicious Servers Hijack AI Agent Accounts",
-    "link": "https://cybersecuritynews.com/mcp-python-sdk-oauth-flaw/",
-    "published": "Wed, 30 Sep 2026 05:30:04 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A high-severity flaw in the official Model Context Protocol (MCP) Python SDK could allow a malicious MCP server to steal OAuth authentication material and take over AI agent accounts. The issue affects vulnerable HTTP-based MCP clients that connect t",
-    "created_at": "2026-09-30T06:01:22.155151+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
     "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
     "link": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
@@ -6613,5 +6604,14 @@
     "source": "The Hacker News",
     "summary": "Cryptocurrency giant Binance said on Thursday that a &quot;security incident&quot; on its platform has impacted about $6.3 billion worth of assets.\n\nThe world&#x27;s biggest cryptocurrency exchange said nearly $3 billion of those assets have been fro",
     "created_at": "2026-10-30T05:31:02.519381+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169634",
+    "title": "Hackers Actively Exploiting WordPress Remote Code Execution Flaw Just Hours After Patch Release",
+    "link": "https://cybersecuritynews.com/wordpress-rce-exploited/",
+    "published": "Fri, 30 Oct 2026 06:05:35 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A WordPress remote code execution vulnerability came under attack just hours after version 7.1.4 was released on October 28, 2026, fixing 22 vulnerabilities, including an unauthenticated code execution flaw in the update process. Site owners should v",
+    "created_at": "2026-10-30T06:31:04.926442+00:00"
   }
 ]
