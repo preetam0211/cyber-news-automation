@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
-    "title": "Microsoft to block Entra ID script injection attacks starting October",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
-    "published": "Wed, 30 Sep 2026 09:37:15 -0400",
-    "source": "BleepingComputer",
-    "summary": "Microsoft has reminded customers that the Entra ID authentication system will get better protection against external script injection attacks starting next month. [...]",
-    "created_at": "2026-09-30T14:01:20.784050+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=165262",
     "title": "Hackers Turned a PaperCut Print Server Into a Path to the Domain Controller",
     "link": "https://cybersecuritynews.com/hackers-turned-a-papercut-print-server/",
@@ -6676,5 +6667,23 @@
     "source": "CybersecurityNews",
     "summary": "A new botnet called Kairos is spreading to Linux devices through a very old mistake: a Telnet service that accepts the root user with no password. Once inside, the attackers install a small Go-based program that turns the device into a node for DDoS ",
     "created_at": "2026-10-30T13:31:22.966505+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169749",
+    "title": "Critical Drupal Commerce Vulnerability Could Let Hackers Buy Products for Just $0.01",
+    "link": "https://cybersecuritynews.com/critical-drupal-commerce-vulnerability/",
+    "published": "Fri, 30 Oct 2026 13:56:01 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Drupal has warned that hackers are actively exploiting a highly critical security flaw in Commerce Core, putting online stores at risk of financial losses. Tracked as CVE-2026-118539, the vulnerability lets attackers bypass access checks in the modul",
+    "created_at": "2026-10-30T14:01:15.485237+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
+    "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
+    "link": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
+    "published": "Fri, 30 Oct 2026 10:00:10 -0400",
+    "source": "BleepingComputer",
+    "summary": "Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains how these attacks exploit trust betw",
+    "created_at": "2026-10-30T14:01:39.250498+00:00"
   }
 ]
