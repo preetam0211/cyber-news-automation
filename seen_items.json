@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
-    "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
-    "link": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
-    "published": "Wed, 30 Sep 2026 22:02:59 +0530",
-    "source": "The Hacker News",
-    "summary": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and other social-engineering conten",
-    "created_at": "2026-09-30T18:01:14.524573+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
-    "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
-    "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
-    "published": "Wed, 30 Sep 2026 22:16:29 +0530",
-    "source": "The Hacker News",
-    "summary": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team.\n\nThe attack exploits CVE-2026-73570 (CVSS sco",
-    "created_at": "2026-09-30T18:01:16.564454+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
-    "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
-    "link": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
-    "published": "Wed, 30 Sep 2026 14:08:34 -0400",
-    "source": "BleepingComputer",
-    "summary": "More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform&#x27;s security measures to prevent accidental leaks of sensitive data. [...]",
-    "created_at": "2026-09-30T18:31:08.574345+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
     "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
     "link": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
@@ -6631,5 +6604,14 @@
     "source": "The Hacker News",
     "summary": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the viewer, and the machine it controls ",
     "created_at": "2026-10-30T17:01:40.289616+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
+    "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+    "link": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
+    "published": "Fri, 30 Oct 2026 22:28:44 +0530",
+    "source": "The Hacker News",
+    "summary": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously.\n\nThe activity has been attributed by Crow",
+    "created_at": "2026-10-30T18:31:15.276413+00:00"
   }
 ]
