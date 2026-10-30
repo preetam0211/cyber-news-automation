@@ -1,50 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=165262",
-    "title": "Hackers Turned a PaperCut Print Server Into a Path to the Domain Controller",
-    "link": "https://cybersecuritynews.com/hackers-turned-a-papercut-print-server/",
-    "published": "Wed, 30 Sep 2026 13:36:00 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A vulnerable print server became the entry point for an Active Directory compromise after attackers exploited two PaperCut MF zero-day flaws. The intrusion shows how an overlooked business system can give criminals access to sensitive identity infras",
-    "created_at": "2026-09-30T14:31:31.760978+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
-    "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
-    "link": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
-    "published": "Wed, 30 Sep 2026 10:01:11 -0400",
-    "source": "BleepingComputer",
-    "summary": "Persistent AI coworkers may operate continuously with standing access, creating identity risks that existing security models were not designed to handle. Token Security explains why these agents need their own identities, owners, scoped permissions, ",
-    "created_at": "2026-09-30T14:31:33.833891+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165278",
-    "title": "AI Coding Agents Leak 13,000+ Internal Screenshots From 300+ Companies on GitHub",
-    "link": "https://cybersecuritynews.com/ai-coding-agents-leak-internal-screenshots/",
-    "published": "Wed, 30 Sep 2026 14:14:53 +0000",
-    "source": "CybersecurityNews",
-    "summary": "AI coding agents exposed more than 13,000 internal screenshots from over 300 organizations by publishing them in publicly accessible GitHub repositories, according to “PixelLeak” research from Glow Labs. The material spanned more than 900 repositorie",
-    "created_at": "2026-09-30T14:32:00.741172+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165272",
-    "title": "Hackers Disguise Remote Access Tools as Zoom and PDF Installers to Take Over PCs",
-    "link": "https://cybersecuritynews.com/remote-access-tools/",
-    "published": "Wed, 30 Sep 2026 14:35:10 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Hackers are using familiar Zoom setup files and PDF reader downloads to place remote-control software on business computers. The campaign turns ordinary workplace prompts into a path for outsiders to take over a device. The phishing emails use meetin",
-    "created_at": "2026-09-30T15:01:05.883545+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
-    "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
-    "published": "Wed, 30 Sep 2026 10:46:40 -0400",
-    "source": "BleepingComputer",
-    "summary": "Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. [...]",
-    "created_at": "2026-09-30T15:01:32.930654+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
     "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
     "link": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
@@ -6694,5 +6649,23 @@
     "source": "CybersecurityNews",
     "summary": "Criminals are copying the look of Polymarket, one of the biggest prediction market sites. They use the copies to take cryptocurrency from people who think they are placing real bets. Once a victim deposits money, the site decides every win and loss, ",
     "created_at": "2026-10-30T14:31:27.967128+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169777",
+    "title": "Aur0ra Ransomware Hackers Use Cursor AI Agents to Gain Domain Admin Access and Steal Data",
+    "link": "https://cybersecuritynews.com/aur0ra-ransomware-hackers/",
+    "published": "Fri, 30 Oct 2026 14:36:33 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Ransomware crews are now giving the hardest parts of a network break-in to AI coding tools. A group linked to Aur0ra ransomware used Cursor AI agents to go from stolen passwords to domain admin access, the highest level of control in a Windows networ",
+    "created_at": "2026-10-30T15:01:37.963467+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
+    "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
+    "link": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
+    "published": "Fri, 30 Oct 2026 10:36:54 -0400",
+    "source": "BleepingComputer",
+    "summary": "A malicious version of Anthropic&#x27;s Claude Code VS Code extension was distributed through Cursor&#x27;s extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to install persistent SSH ",
+    "created_at": "2026-10-30T15:02:02.220851+00:00"
   }
 ]
