@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
-    "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
-    "link": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
-    "published": "Wed, 30 Sep 2026 20:30:15 +0530",
-    "source": "The Hacker News",
-    "summary": "Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware.\n\nHuntress, which observed the activity in late September ",
-    "created_at": "2026-09-30T15:31:19.885000+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
-    "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
-    "link": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
-    "published": "Wed, 30 Sep 2026 20:54:54 +0530",
-    "source": "The Hacker News",
-    "summary": "Attackers are exploiting a critical flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an advisory on September 30.\n\nThe flaw, CVE-2026-76504, could allow a remote attacker with no log",
-    "created_at": "2026-09-30T15:31:47.930062+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165292",
-    "title": "Supply Chain Attacks Turn Developer Machines Into Gateways for Cloud Breaches",
-    "link": "https://cybersecuritynews.com/supply-chain-attacks/",
-    "published": "Wed, 30 Sep 2026 15:02:09 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A routine software update can now open the door to a cloud breach. Attackers are hiding credential stealing malware inside trusted packages and development tools, allowing malicious code to run on developer computers and automated build systems befor",
-    "created_at": "2026-09-30T16:01:10.614740+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
-    "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
-    "published": "Wed, 30 Sep 2026 11:49:29 -0400",
-    "source": "BleepingComputer",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service condition. [...]",
-    "created_at": "2026-09-30T16:01:13.926855+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=165296",
     "title": "PaperPhone Headless Browser Network Uses 75,000 IPs and Fabricated Mobile Identities Across 43 Countries",
     "link": "https://cybersecuritynews.com/paperphone-headless/",
@@ -6667,5 +6631,41 @@
     "source": "BleepingComputer",
     "summary": "A malicious version of Anthropic&#x27;s Claude Code VS Code extension was distributed through Cursor&#x27;s extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to install persistent SSH ",
     "created_at": "2026-10-30T15:02:02.220851+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169778",
+    "title": "APT Hackers Use NetamLoader Malware to Target Windows 10 Systems in Asian Governments",
+    "link": "https://cybersecuritynews.com/netamloader-malware/",
+    "published": "Fri, 30 Oct 2026 15:02:03 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new malware framework called NetamLoader is being used against a custom version of Windows 10 that only government bodies in Asia use. The campaign looks like a supply-chain operation, and nobody has linked it to a known hacking group yet. The malw",
+    "created_at": "2026-10-30T16:01:17.077263+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=166356",
+    "title": "When Threats Don’t Wait, Security Can’t Either",
+    "link": "https://cybersecuritynews.com/when-threats-dont-wait-security-cant-either/",
+    "published": "Fri, 30 Oct 2026 15:08:31 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Dhananjay Ganjoo, Managing Director – India &amp; SAARC  The uncomfortable part of an adaptive attack is not how quickly it starts, but  how quickly it can change course.   AI-assisted operations can probe environments, learn from responses, switch t",
+    "created_at": "2026-10-30T16:01:31.614293+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169785",
+    "title": "North Korean Hackers Steal Developer Credentials to Inject Malware Into GitHub and Software Packages",
+    "link": "https://cybersecuritynews.com/north-korean-hackers-2/",
+    "published": "Fri, 30 Oct 2026 15:15:02 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A North Korea-aligned hacking group has moved beyond fake job interviews and now steals developer credentials to plant malware in trusted software projects. The group, tracked as DeceptiveDevelopment, used the stolen access to change code in public a",
+    "created_at": "2026-10-30T16:02:05.302852+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
+    "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
+    "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
+    "published": "Fri, 30 Oct 2026 11:58:20 -0400",
+    "source": "BleepingComputer",
+    "summary": "Hardware wallet device maker Trezor has received credible reports about a suspected hardware crypto-theft implant in a Trezor Safe 5 sold by its reseller CryptoBilis in Southeast Asia. [...]",
+    "created_at": "2026-10-30T16:02:11.947404+00:00"
   }
 ]
