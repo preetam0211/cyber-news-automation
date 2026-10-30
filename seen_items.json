@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=165188",
-    "title": "RSA Launches Agent ID Platform to Secure AI Agents and MCP Servers",
-    "link": "https://cybersecuritynews.com/rsa-agent-id/",
-    "published": "Wed, 30 Sep 2026 09:49:50 +0000",
-    "source": "CybersecurityNews",
-    "summary": "RSA has announced RSA Agent ID, a new identity security platform that helps regulated organizations discover, secure, and govern AI agents. The launch targets financial services, government agencies, critical infrastructure operators, and other organ",
-    "created_at": "2026-09-30T11:31:28.267845+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165222",
-    "title": "Security Teams Can Now Monitor Claude Chats, Files and AI Agent Activity",
-    "link": "https://cybersecuritynews.com/security-teams-can-monitor-claude-activity/",
-    "published": "Wed, 30 Sep 2026 10:46:10 +0000",
-    "source": "CybersecurityNews",
-    "summary": "The Claude Compliance API gives security teams visibility into employee and AI-agent activity, integrating Claude data with existing monitoring, DLP, identity, eDiscovery, SIEM, and security workflows. The change addresses a growing enterprise securi",
-    "created_at": "2026-09-30T11:31:55.530542+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
     "title": "Bitget hacked via zero-day in third-party security products",
     "link": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
@@ -6667,5 +6649,41 @@
     "source": "BleepingComputer",
     "summary": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
     "created_at": "2026-10-30T10:31:04.982581+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169697",
+    "title": "Trezor Warns of Suspected Spy Implant in Crypto Wallet That Could Steal Recovery Phrases",
+    "link": "https://cybersecuritynews.com/trezor-suspected-hardware-implant/",
+    "published": "Fri, 30 Oct 2026 10:12:10 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Trezor has warned that a suspected hardware implant inside a Trezor Safe 5 could steal recovery phrases and send them over a mobile network. The warning covers every Trezor model bought from CryptoBilis from March 2026 onward, although only one suspe",
+    "created_at": "2026-10-30T11:31:14.042165+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169710",
+    "title": "Palo Alto Confirms Active PHP2Shell Exploitation Targeting Exposed PAN-OS Management Interfaces",
+    "link": "https://cybersecuritynews.com/palo-alto-php2shell-exploitation/",
+    "published": "Fri, 30 Oct 2026 10:42:02 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Palo Alto Networks has confirmed that attackers are actively exploiting PHP2Shell vulnerabilities against PAN-OS management interfaces exposed to the internet. In its October 29, 2026, update, Unit 42 said it independently verified attacker tools use",
+    "created_at": "2026-10-30T11:31:24.247062+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169657",
+    "title": "Researchers Hacked Cursor, GitHub Copilot, Codex, VS Code, and Claude Desktop Embedded Browsers",
+    "link": "https://cybersecuritynews.com/popular-ai-embedded-browsers-hacked/",
+    "published": "Fri, 30 Oct 2026 11:18:28 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Security flaws in the embedded browsers of Cursor, GitHub Copilot, Codex, VS Code, and Claude Desktop could enable code execution, file theft, and address-bar spoofing on developer machines. The findings published on October 29 show how browser featu",
+    "created_at": "2026-10-30T11:31:32.958098+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/",
+    "title": "Microsoft finally fixes VPN issues caused by September updates",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/",
+    "published": "Fri, 30 Oct 2026 07:20:26 -0400",
+    "source": "BleepingComputer",
+    "summary": "Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates. [...]",
+    "created_at": "2026-10-30T11:31:57.332076+00:00"
   }
 ]
