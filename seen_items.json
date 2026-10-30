@@ -6676,5 +6676,23 @@
     "source": "CybersecurityNews",
     "summary": "A grey market relay service is quietly installing the real OpenAI Codex and Anthropic Claude Code tools on company computers. It then changes their settings so that every prompt, file and login token goes through servers the service controls. The ser",
     "created_at": "2026-10-30T09:01:25.231927+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169676",
+    "title": "Binance Hit by Biggest Crypto Heist in History – North Korean TraderTraitor Group Reportedly Stolen $6.36 Billion",
+    "link": "https://cybersecuritynews.com/binance-hit-crypto-heist/",
+    "published": "Fri, 30 Oct 2026 09:16:09 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Binance reportedly lost approximately $6.36 billion in cryptocurrency on October 29, 2026, after an attacker drained wallets across ten blockchains. TRM Labs describes the incident as the largest cryptocurrency theft ever recorded, with the majority ",
+    "created_at": "2026-10-30T09:31:03.261718+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
+    "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
+    "link": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
+    "published": "Fri, 30 Oct 2026 05:18:13 -0400",
+    "source": "BleepingComputer",
+    "summary": "Binance, the world&#x27;s largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer&#x27;s compromised laptop. [...]",
+    "created_at": "2026-10-30T09:31:08.063290+00:00"
   }
 ]
