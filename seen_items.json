@@ -6640,5 +6640,41 @@
     "source": "CybersecurityNews",
     "summary": "Stolen credentials beat most controls because they are the control which is why behavior became the detection substrate. UEBA baselines how every user and entity normally acts, then surfaces the deviation: the service account suddenly browsing HR fil",
     "created_at": "2026-10-30T08:01:10.912247+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169659",
+    "title": "Researcher Uses Claude AI to Extract Internal Anthropic Binary and Recover Google Cloud Token",
+    "link": "https://cybersecuritynews.com/researcher-uses-claude-ai/",
+    "published": "Fri, 30 Oct 2026 08:16:27 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A security researcher got Claude AI to hand over an internal Anthropic program and a memory dump that held pieces of a working Google Cloud token. The findings were published on October 29, 2026. They show how a helpful chatbot can expose the systems",
+    "created_at": "2026-10-30T08:31:09.481000+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169646",
+    "title": "Microsoft Fixes Remote Desktop Connection Failures Following Recent Updates",
+    "link": "https://cybersecuritynews.com/microsoft-fixes-remote-desktop-connection-failures/",
+    "published": "Fri, 30 Oct 2026 08:24:09 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft resolved a Windows 11 issue that blocked non-admin users from connecting via Remote Desktop when Administrator protection was enabled, releasing fixes on October 28, 2026, for connection failures with error 0xC000000D. The bug appeared afte",
+    "created_at": "2026-10-30T08:31:15.441969+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169640",
+    "title": "Ivanti Connect Secure 0-Days Exploited in the Wild to Gain Unauthenticated Root Access",
+    "link": "https://cybersecuritynews.com/ivanti-connect-secure-zero-days-exploited/",
+    "published": "Fri, 30 Oct 2026 08:26:39 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Attackers are chaining zero-day flaws in Ivanti Connect Secure VPN appliances to gain unauthenticated root access, exposing stored credentials and sensitive Active Directory data. Ivanti confirmed attacks against a limited number of customers and rel",
+    "created_at": "2026-10-30T08:31:25.590082+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169651",
+    "title": "CISA Warns of GitLab Integer Overflow Vulnerability Exploited in Attacks",
+    "link": "https://cybersecuritynews.com/gitlab-integer-overflow-vulnerability-exploited/",
+    "published": "Fri, 30 Oct 2026 08:28:50 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The Cybersecurity and Infrastructure Security Agency has warned that attackers are exploiting CVE-2026-97229. This GitLab vulnerability could allow code execution without logging in. CISA added the flaw to its Known Exploited Vulnerabilities catalog ",
+    "created_at": "2026-10-30T08:31:31.623065+00:00"
   }
 ]
