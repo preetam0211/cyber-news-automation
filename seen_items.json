@@ -6685,5 +6685,14 @@
     "source": "BleepingComputer",
     "summary": "Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains how these attacks exploit trust betw",
     "created_at": "2026-10-30T14:01:39.250498+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169763",
+    "title": "Hackers Build Fake Polymarket Platforms That Rig Trades and Block Cryptocurrency Withdrawals",
+    "link": "https://cybersecuritynews.com/fake-polymarket-platforms/",
+    "published": "Fri, 30 Oct 2026 14:16:13 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Criminals are copying the look of Polymarket, one of the biggest prediction market sites. They use the copies to take cryptocurrency from people who think they are placing real bets. Once a victim deposits money, the site decides every win and loss, ",
+    "created_at": "2026-10-30T14:31:27.967128+00:00"
   }
 ]
