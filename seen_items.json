@@ -6523,5 +6523,14 @@
     "source": "The Hacker News",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitation in the wild.\n\nThe vulnerabil",
     "created_at": "2026-10-31T09:31:10.650848+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169867",
+    "title": "Cursor Confirms Malicious Claude Code Extension With SSH Backdoor Was Available for 11 Hours",
+    "link": "https://cybersecuritynews.com/malicious-claude-code-extension-with-cursor/",
+    "published": "Sat, 31 Oct 2026 10:41:18 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cursor has confirmed that malicious Claude Code extension packages were available through its VS Code Extension Marketplace for roughly 11 hours on October 29, 2026. The altered packages targeted Windows and macOS users and attempted to install an SS",
+    "created_at": "2026-10-31T11:01:12.176113+00:00"
   }
 ]
