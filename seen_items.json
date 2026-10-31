@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html",
-    "title": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV",
-    "link": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html",
-    "published": "Thu, 01 Oct 2026 16:03:16 +0530",
-    "source": "The Hacker News",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical authentication bypass flaw impacting Cisco Catalyst SD-WAN Manager to its Known Exploited Vulnerabilities (KEV), following reports of active exploitation.\n",
-    "created_at": "2026-10-01T11:01:27.427286+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
-    "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
-    "link": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
-    "published": "Thu, 01 Oct 2026 16:12:36 +0530",
-    "source": "The Hacker News",
-    "summary": "OpenAI on Wednesday said it identified and disrupted a coordinated distillation campaign that was designed to illicitly extract protected reasoning from its artificial intelligence (AI) models.\n\nA &quot;core cluster of the activity,&quot; going back ",
-    "created_at": "2026-10-01T11:01:29.827323+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/",
     "title": "Microsoft enables Windows settings backup by default for orgs",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/",
