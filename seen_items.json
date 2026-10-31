@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
-    "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
-    "link": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
-    "published": "Thu, 01 Oct 2026 10:05:34 +0530",
-    "source": "The Hacker News",
-    "summary": "Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of configuration data.\n\nLevelBlue&#x27;s Threat Hunt Operatio",
-    "created_at": "2026-10-01T05:01:07.085453+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165261",
-    "title": "CopyEscape Docker Flaw Lets Malicious Containers Overwrite Host Files and Gain Root Access",
-    "link": "https://cybersecuritynews.com/copyescape-docker-flaw/",
-    "published": "Thu, 01 Oct 2026 04:36:06 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A Docker flaw, CVE-2026-17106 (dubbed CopyEscape), lets malicious containers write files outside the docker cp destination, potentially enabling code execution and root-level compromise. The issue affects Docker’s archive extraction handling in moby/",
-    "created_at": "2026-10-01T05:01:16.829608+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=165316",
     "title": "Internet Society Launches Global Online Trust and Safety Hub as Part of Its Safer Internet Initiative",
     "link": "https://cybersecuritynews.com/internet-society-launches-global-online-trust-and-safety-hub-as-part-of-its-safer-internet-initiative/",
@@ -6631,5 +6613,23 @@
     "source": "CybersecurityNews",
     "summary": "Anthropic researchers have shown that Claude can design training data that slips past an AI safety monitor and causes a separate research model to blackmail users, weaken security code, and resist oversight. The October 2026 study exposes a gap betwe",
     "created_at": "2026-10-31T04:31:14.001957+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169815",
+    "title": "TeamViewer Security Flaw Could Turn Remote Support Sessions Into Computer Takeovers",
+    "link": "https://cybersecuritynews.com/teamviewer-security-flaw/",
+    "published": "Sat, 31 Oct 2026 04:37:14 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly disclosed TeamViewer vulnerability could let an attacker turn a routine remote support session against the technician providing help. Tracked as CVE-2026-111585, the flaw allows a malicious remote computer to crash the viewer application and ",
+    "created_at": "2026-10-31T05:01:07.274683+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169706",
+    "title": "Google Launches Gemini 4 Carbon With State-Of-The-Art Cybersecurity Capabilities",
+    "link": "https://cybersecuritynews.com/google-launches-gemini-4-carbon/",
+    "published": "Sat, 31 Oct 2026 04:48:15 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Google has announced Gemini 4 Carbon, its latest AI model built to find software flaws, test whether attackers could exploit them, and produce fixes. Unveiled on October 28, 2026, Carbon builds on Gemini 4 Argon and targets complex security and codin",
+    "created_at": "2026-10-31T05:01:18.044446+00:00"
   }
 ]
