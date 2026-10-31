@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=165392",
-    "title": "Warlock Ransomware Exploiting SharePoint Flaws to Attack Water and Telecom Operators",
-    "link": "https://cybersecuritynews.com/warlock-ransomware-exploiting-sharepoint-flaws/",
-    "published": "Thu, 01 Oct 2026 14:14:26 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A China-nexus threat actor is continuing to exploit Microsoft SharePoint Server vulnerabilities to deploy Warlock ransomware, with recent attacks striking essential-service and public-sector organizations across Portuguese- and Spanish-speaking count",
-    "created_at": "2026-10-01T14:31:18.845599+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
-    "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
-    "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
-    "published": "Thu, 01 Oct 2026 10:25:14 -0400",
-    "source": "BleepingComputer",
-    "summary": "An international law enforcement operation dubbed &quot;Operation KillSwitch&quot; seized the KillSec ransomware gang&#x27;s data leak site and servers, led to three arrests, and identified a 16-year-old as the group&#x27;s alleged administrator. [..",
-    "created_at": "2026-10-01T14:31:21.025927+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
     "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
     "link": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
