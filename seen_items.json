@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=165386",
-    "title": "Fake Zoom Installer Tricks Mac Users Into Installing New CloudSyncD Backdoor",
-    "link": "https://cybersecuritynews.com/fake-zoom-installer-tricks/",
-    "published": "Thu, 01 Oct 2026 15:07:15 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A fake Zoom installer is tricking Mac users into handing over their login passwords and launching CloudSyncD, a newly identified backdoor. The malware hides inside an application that looks familiar, using installation instructions and counterfeit pr",
-    "created_at": "2026-10-01T15:31:09.981383+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165416",
-    "title": "16-year-old Arrested Suspected of Being the Leader of KillSec Ransomware Group",
-    "link": "https://cybersecuritynews.com/16-year-old-leader-killsec-ransomware/",
-    "published": "Thu, 01 Oct 2026 15:30:20 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Authorities have identified a 16-year-old as the suspected main operator of the KillSec ransomware group after an international law-enforcement operation disrupted the group’s infrastructure and led to three arrests. The coordinated action, involving",
-    "created_at": "2026-10-01T15:31:12.037825+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=165414",
     "title": "Hackers Built a Windows Backdoor Whose Entire C2 Lives Inside Microsoft 365",
     "link": "https://cybersecuritynews.com/hackers-built-a-windows-backdoor/",
@@ -6424,5 +6406,14 @@
     "source": "BleepingComputer",
     "summary": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a &quot;logged-in service,&quot; offering limited access to visitors without accounts. [...]",
     "created_at": "2026-10-31T14:31:15.711460+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
+    "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
+    "link": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
+    "published": "Sat, 31 Oct 2026 11:35:11 -0400",
+    "source": "BleepingComputer",
+    "summary": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed &quot;SMS of Death&quot; and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sendin",
+    "created_at": "2026-10-31T16:01:14.853031+00:00"
   }
 ]
