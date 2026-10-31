@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=165414",
-    "title": "Hackers Built a Windows Backdoor Whose Entire C2 Lives Inside Microsoft 365",
-    "link": "https://cybersecuritynews.com/hackers-built-a-windows-backdoor/",
-    "published": "Thu, 01 Oct 2026 16:06:14 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Hackers have built a Windows backdoor that uses Microsoft 365 for all its native command and control communications. Named Antino, the malware turns Outlook messages and OneDrive files into channels for issuing instructions, moving stolen data, and m",
-    "created_at": "2026-10-01T16:31:04.354486+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
     "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
     "link": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
