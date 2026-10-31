@@ -6379,5 +6379,14 @@
     "source": "BleepingComputer",
     "summary": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed &quot;SMS of Death&quot; and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sendin",
     "created_at": "2026-10-31T16:01:14.853031+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+    "title": "Northflank security breach leads to abuse of customers' AI API keys",
+    "link": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+    "published": "Sat, 31 Oct 2026 14:01:12 -0400",
+    "source": "BleepingComputer",
+    "summary": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers&#x27; AI API keys. [...]",
+    "created_at": "2026-10-31T18:31:11.646135+00:00"
   }
 ]
