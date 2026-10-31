@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=165343",
-    "title": "Hackers Exploit Zimbra Mail Servers With Crafted Emails to Gain Remote Access",
-    "link": "https://cybersecuritynews.com/hackers-exploit-zimbra-mail-servers/",
-    "published": "Thu, 01 Oct 2026 11:40:42 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Hackers are exploiting a serious flaw in internet-facing Zimbra mail servers with specially crafted emails. The weakness lets an outsider run commands on a vulnerable server without logging in or persuading an employee to open a message. The activity",
-    "created_at": "2026-10-01T12:01:23.370940+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
     "title": "How Financial Services Companies Can Modernize Their Software Supply Chain",
     "link": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
@@ -6505,5 +6496,14 @@
     "source": "CybersecurityNews",
     "summary": "Cursor has confirmed that malicious Claude Code extension packages were available through its VS Code Extension Marketplace for roughly 11 hours on October 29, 2026. The altered packages targeted Windows and macOS users and attempted to install an SS",
     "created_at": "2026-10-31T11:01:12.176113+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+    "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
+    "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+    "published": "Sat, 31 Oct 2026 17:31:56 +0530",
+    "source": "The Hacker News",
+    "summary": "American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data.\n\nHowever, the company noted that the breach did not result in unauthorized access to its",
+    "created_at": "2026-10-31T12:31:07.167050+00:00"
   }
 ]
