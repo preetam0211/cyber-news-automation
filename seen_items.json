@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=165382",
-    "title": "WordPress Malware Comes Back After Removal Using a Self-Healing Backdoor",
-    "link": "https://cybersecuritynews.com/wordpress-malware-2/",
-    "published": "Thu, 01 Oct 2026 13:45:15 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A WordPress backdoor is bringing deleted malware back within seconds, turning routine cleanup into a cycle of reinfection. Called SC, the infection spreads its working parts across website files, the database, and server memory, allowing surviving co",
-    "created_at": "2026-10-01T14:01:03.858188+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
     "title": "Kiteworks patches max severity code injection vulnerability",
     "link": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
