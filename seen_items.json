@@ -6622,5 +6622,14 @@
     "source": "The Hacker News",
     "summary": "A malicious ChatGPT share link could run an attacker&#x27;s code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at the security firm Parameter showed.\n\nThe researchers reported the fla",
     "created_at": "2026-10-31T06:01:26.253899+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169820",
+    "title": "Over 60,000 Attacks Target WordPress RCE Vulnerability Within 24 Hours",
+    "link": "https://cybersecuritynews.com/60000-attacks-targeting-wordpress/",
+    "published": "Sat, 31 Oct 2026 06:02:41 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are targeting a WordPress Core remote code execution vulnerability that can expose websites during software updates. The supplied Wordfence threat intelligence snapshot lists 60,471 blocked attempts over 24 hours. These are attack attempts, n",
+    "created_at": "2026-10-31T06:31:09.328901+00:00"
   }
 ]
