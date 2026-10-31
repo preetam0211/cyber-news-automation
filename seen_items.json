@@ -6604,5 +6604,23 @@
     "source": "BleepingComputer",
     "summary": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) listeners. [...]",
     "created_at": "2026-10-30T21:31:02.720136+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169804",
+    "title": "Chainalysis Confirms Cyberattack Using Agentic Techniques That Exposed Customer Data",
+    "link": "https://cybersecuritynews.com/chainalysis-confirms-cyberattack/",
+    "published": "Sat, 31 Oct 2026 02:49:59 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Chainalysis has confirmed that an attacker used “offensive agentic techniques” to access its systems and internal tools, exposing customer account details. The blockchain investigation company said the accessed information included user IDs, full nam",
+    "created_at": "2026-10-31T04:01:24.569338+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169809",
+    "title": "Apple Warns iPhone Users in 99 Countries of Sophisticated Mercenary Spyware Attacks",
+    "link": "https://cybersecuritynews.com/apple-warns-iphone-users/",
+    "published": "Sat, 31 Oct 2026 03:54:38 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Apple has issued a fresh round of threat notifications to selected iPhone users in 99 countries, warning that they have been targeted by sophisticated mercenary spyware attacks. Security researcher Costin Raiu reported the new wave on October 30, 202",
+    "created_at": "2026-10-31T04:01:45.798557+00:00"
   }
 ]
