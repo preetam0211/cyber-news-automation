@@ -6622,5 +6622,14 @@
     "source": "CybersecurityNews",
     "summary": "Apple has issued a fresh round of threat notifications to selected iPhone users in 99 countries, warning that they have been targeted by sophisticated mercenary spyware attacks. Security researcher Costin Raiu reported the new wave on October 30, 202",
     "created_at": "2026-10-31T04:01:45.798557+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169812",
+    "title": "Anthropic’s Claude Bypasses AI Safety Checks, Triggering Blackmail and Code Sabotage in Tests",
+    "link": "https://cybersecuritynews.com/claude-bypasses-ai-safety-checks/",
+    "published": "Sat, 31 Oct 2026 04:24:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Anthropic researchers have shown that Claude can design training data that slips past an AI safety monitor and causes a separate research model to blackmail users, weaken security code, and resist oversight. The October 2026 study exposes a gap betwe",
+    "created_at": "2026-10-31T04:31:14.001957+00:00"
   }
 ]
