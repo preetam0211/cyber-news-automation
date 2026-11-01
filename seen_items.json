@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
-    "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
-    "link": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
-    "published": "Fri, 02 Oct 2026 11:19:50 +0530",
-    "source": "The Hacker News",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.\n\nThe vulnerabil",
-    "created_at": "2026-10-02T06:31:03.581868+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=165438",
     "title": "Treasury Sanctions Tren de Aragua ATM Jackpotting Network Linked to $40.7 Million in Losses",
     "link": "https://cybersecuritynews.com/tren-de-aragua-atm-jackpotting/",
