@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=165429",
-    "title": "Multiple Apache HTTP Server Vulnerabilities Could Enable Code Execution Attacks",
-    "link": "https://cybersecuritynews.com/apache-http-server-vulnerabilities-2/",
-    "published": "Fri, 02 Oct 2026 03:31:00 +0000",
-    "source": "CybersecurityNews",
-    "summary": "The Apache Software Foundation released Apache HTTP Server 2.4.69 on October 1, 2026, addressing security flaws that could enable code execution, server crashes, data leaks, and authentication bypass under specific conditions. Apache identifies the u",
-    "created_at": "2026-10-02T04:01:18.773417+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=165432",
     "title": "U.S. Arrests Tech Company Owner for Allegedly Smuggling $300 Million in GPU Servers to China",
     "link": "https://cybersecuritynews.com/u-s-arrests-tech-company-owner/",
