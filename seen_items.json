@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=165450",
-    "title": "Safari History Database Tags Can Reveal What Users Were Browsing on macOS",
-    "link": "https://cybersecuritynews.com/safari-history-tags-reveal-browsing-on-macos/",
-    "published": "Fri, 02 Oct 2026 10:57:43 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A little-known Safari database feature could give digital forensic investigators another way to understand browsing activity on macOS. Safari’s History database can store automatically generated topic tags for some webpages, potentially revealing the",
-    "created_at": "2026-10-02T11:01:14.099573+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=165477",
     "title": "Critical Capacitor Flaw Lets Malicious Links Access App Data and Native Features",
     "link": "https://cybersecuritynews.com/critical-capacitor-flaw/",
