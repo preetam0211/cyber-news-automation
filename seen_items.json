@@ -6181,5 +6181,14 @@
     "source": "BleepingComputer",
     "summary": "OpenAI has just confirmed that it&#x27;s rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
     "created_at": "2026-11-01T14:01:34.595287+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
+    "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
+    "link": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
+    "published": "Sun, 01 Nov 2026 10:11:21 -0500",
+    "source": "BleepingComputer",
+    "summary": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux&#x27;s development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over concerns of a possible compro",
+    "created_at": "2026-11-01T15:31:05.204989+00:00"
   }
 ]
