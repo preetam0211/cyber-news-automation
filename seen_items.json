@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
-    "title": "The EDR blind spot: 3 ways browser attacks evade endpoint telemetry",
-    "link": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
-    "published": "Fri, 02 Oct 2026 10:00:10 -0400",
-    "source": "BleepingComputer",
-    "summary": "Browser-based attacks can steal sessions, abuse extensions, or manipulate users without creating the endpoint artifacts EDR is designed to detect. NordLayer explains three ways attacks can evade endpoint telemetry and why browser-level controls can h",
-    "created_at": "2026-10-02T14:31:13.279189+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165540",
-    "title": "Hackers Turned a Microsoft SQL Server Into a Command and Data Exfiltration Channel",
-    "link": "https://cybersecuritynews.com/hackers-turned-a-microsoft-sql-server/",
-    "published": "Fri, 02 Oct 2026 14:04:21 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Hackers turned a Microsoft SQL Server into a channel for running commands and moving collected files in an intrusion linked to a Viva Aerobus environment. Their own publicly accessible server then exposed attack tools and stolen material to unrelated",
-    "created_at": "2026-10-02T14:31:24.223412+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
     "title": "US sanctions Tren de Aragua gang members in ATM hacks crackdown",
     "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
