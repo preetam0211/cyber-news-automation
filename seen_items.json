@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=165518",
-    "title": "Multiple Cpanel/WHM Vulnerabilities Allow Arbitrary Command Execution On Server",
-    "link": "https://cybersecuritynews.com/multiple-cpanel-whm-vulnerabilities/",
-    "published": "Fri, 02 Oct 2026 13:10:34 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Multiple security flaws in cPanel &amp; WHM could let attackers run malicious scripts in an administrator’s browser session or execute arbitrary commands as root. The vulnerabilities were disclosed on September 29, 2026, and affect all supported cPan",
-    "created_at": "2026-10-02T13:31:26.249274+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165498",
-    "title": "Critical Red Hat Satellite Flaw Could Enable Root Password Theft and Code Execution Attacks",
-    "link": "https://cybersecuritynews.com/red-hat-satellite-vulnerability/",
-    "published": "Fri, 02 Oct 2026 13:14:51 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Red Hat has fixed a high-impact vulnerability in Red Hat Satellite that could allow a low-privileged authenticated user to access sensitive host information, including root passwords. Under unsafe configurations, the flaw could also escalate to arbit",
-    "created_at": "2026-10-02T13:31:28.935166+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165526",
-    "title": "Hackers Poison Trusted Software Updates to Steal Developer and Cloud Credentials",
-    "link": "https://cybersecuritynews.com/hackers-poison-trusted-software-updates/",
-    "published": "Fri, 02 Oct 2026 13:43:28 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Hackers are turning trusted software updates into a route for stealing developer and cloud credentials. Recent supply chain incidents show how a single altered package, build action, or publishing token can place malware inside routine development wo",
-    "created_at": "2026-10-02T14:01:09.227797+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
     "title": "The EDR blind spot: 3 ways browser attacks evade endpoint telemetry",
     "link": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
@@ -6217,5 +6190,14 @@
     "source": "The Hacker News",
     "summary": "A critical flaw in Canonical&#x27;s LXD and MicroCloud let an attacker log in as a trusted client without holding that client&#x27;s private key. To do it, the attacker had to reach their HTTPS API over the network and have the trusted client&#x27;s ",
     "created_at": "2026-11-01T10:01:06.518703+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
+    "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
+    "published": "Sun, 01 Nov 2026 08:53:11 -0500",
+    "source": "BleepingComputer",
+    "summary": "OpenAI has just confirmed that it&#x27;s rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
+    "created_at": "2026-11-01T14:01:34.595287+00:00"
   }
 ]
