@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/",
-    "title": "Microsoft’s X account hacked in crypto pump-and-dump scheme",
-    "link": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/",
-    "published": "Fri, 02 Oct 2026 05:29:56 -0400",
-    "source": "BleepingComputer",
-    "summary": "On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token. [...]",
-    "created_at": "2026-10-02T09:31:36.523609+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=165462",
     "title": "Milk Dragon AiTM Kit Uses Real-Time OTP Relay and WebSocket Keylogging to Bypass MFA",
     "link": "https://cybersecuritynews.com/milk-dragon-aitm-kit/",
@@ -6325,5 +6316,14 @@
     "source": "The Hacker News",
     "summary": "Malicious code on the website of prediction market Polymarket sold some signed-in traders&#x27; positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from an outside company.\n\nPol",
     "created_at": "2026-11-01T08:01:34.869253+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
+    "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
+    "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
+    "published": "Sun, 01 Nov 2026 14:21:31 +0530",
+    "source": "The Hacker News",
+    "summary": "A critical flaw in Canonical&#x27;s LXD and MicroCloud let an attacker log in as a trusted client without holding that client&#x27;s private key. To do it, the attacker had to reach their HTTPS API over the network and have the trusted client&#x27;s ",
+    "created_at": "2026-11-01T10:01:06.518703+00:00"
   }
 ]
