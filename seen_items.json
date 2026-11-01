@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
-    "title": "Frontline Education breach exposes school district employee data",
-    "link": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
-    "published": "Fri, 02 Oct 2026 15:01:40 -0400",
-    "source": "BleepingComputer",
-    "summary": "Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthorized access to its systems and steal employee information, including Social Security numbers. [...]",
-    "created_at": "2026-10-02T19:31:25.273658+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=165544",
     "title": "Debian has Patched 1,313 Flaws in Massive Update Leading to DoS and Privilege Escalation Attacks",
     "link": "https://cybersecuritynews.com/debian-1313-security-flaws/",
@@ -6136,5 +6127,14 @@
     "source": "BleepingComputer",
     "summary": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux&#x27;s development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over concerns of a possible compro",
     "created_at": "2026-11-01T15:31:05.204989+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
+    "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
+    "published": "Sun, 01 Nov 2026 14:57:53 -0500",
+    "source": "BleepingComputer",
+    "summary": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
+    "created_at": "2026-11-01T20:01:12.400085+00:00"
   }
 ]
