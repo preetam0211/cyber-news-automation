@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
-    "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
-    "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
-    "published": "Fri, 02 Oct 2026 12:20:05 -0400",
-    "source": "BleepingComputer",
-    "summary": "GitLab warned customers today to immediately patch a critical AI Gateway vulnerability that could let attackers run arbitrary commands on vulnerable instances. [...]",
-    "created_at": "2026-10-02T16:31:14.075605+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
     "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
     "link": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
