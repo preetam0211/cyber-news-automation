@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
-    "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
-    "link": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
-    "published": "Fri, 02 Oct 2026 22:32:12 +0530",
-    "source": "The Hacker News",
-    "summary": "Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible systems.\n\nThe vulnerabilities are listed below -\n\n\n  CVE-2026-63688 ",
-    "created_at": "2026-10-02T18:01:40.718265+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
-    "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
-    "link": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
-    "published": "Fri, 02 Oct 2026 23:03:16 +0530",
-    "source": "The Hacker News",
-    "summary": "Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor.\n\nThe activity, which has targeted government and policy organizations in Taiwan, India, the Philippines, Cambodia, Pa",
-    "created_at": "2026-10-02T18:01:47.830741+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
-    "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
-    "link": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
-    "published": "Fri, 02 Oct 2026 23:03:31 +0530",
-    "source": "The Hacker News",
-    "summary": "A critical flaw in GitLab&#x27;s AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab said in an advisory.\n\nThe gateway is the service that connects a GitLab instance to AI ",
-    "created_at": "2026-10-02T18:01:55.127269+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
     "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
     "link": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
