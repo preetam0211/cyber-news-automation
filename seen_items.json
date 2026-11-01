@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
-    "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
-    "link": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
-    "published": "Fri, 02 Oct 2026 13:31:30 +0530",
-    "source": "The Hacker News",
-    "summary": "Google has announced a new security measure that limits access to Android&#x27;s accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is enabled.\n\nWith malicious Android applications abusing the A",
-    "created_at": "2026-10-02T08:31:25.864357+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=165435",
     "title": "OpenAI Blocks 15,000-User Campaign Trying to Extract Hidden AI Reasoning",
     "link": "https://cybersecuritynews.com/openai-blocks-ai-reasoning-extraction/",
