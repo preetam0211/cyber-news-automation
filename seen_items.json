@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=165477",
-    "title": "Critical Capacitor Flaw Lets Malicious Links Access App Data and Native Features",
-    "link": "https://cybersecuritynews.com/critical-capacitor-flaw/",
-    "published": "Fri, 02 Oct 2026 11:02:25 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A critical vulnerability in Capacitor for Android and iOS could let a malicious link opened inside an affected mobile app load attacker-controlled web content at the application’s trusted origin. The issue, tracked as CVE-2026-103922, can expose app ",
-    "created_at": "2026-10-02T11:31:16.305677+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165473",
-    "title": "Session Cookie Vulnerability Lets Attackers Bypass Entra ID MFA and Impersonate Users",
-    "link": "https://cybersecuritynews.com/session-cookie-vulnerability/",
-    "published": "Fri, 02 Oct 2026 11:24:01 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A flaw in a custom session-cookie system allowed an unauthenticated attacker to pose as employees and administrators in a yard management platform. The issue did not break Microsoft Entra ID itself. Instead, it let a weak application-side session lay",
-    "created_at": "2026-10-02T11:31:29.584935+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165500",
-    "title": "Sony Rolls Out PS5 Security Update Following the Release of Relapse Jailbreak",
-    "link": "https://cybersecuritynews.com/ps5-security-update/",
-    "published": "Fri, 02 Oct 2026 11:30:35 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Sony has moved to protect PlayStation 5 consoles with its latest system software update, as the newly released Relapse jailbreak draws attention to a broad set of older PS5 firmware versions. The update matters for console owners because the public R",
-    "created_at": "2026-10-02T11:31:38.753961+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
     "title": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report",
     "link": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
