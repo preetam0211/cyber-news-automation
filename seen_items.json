@@ -6388,5 +6388,14 @@
     "source": "The Hacker News",
     "summary": "Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code, IBM said last week.\n\nLangflow is an open-source tool for building AI agents and workflows, and its vulnerability reports go to IBM",
     "created_at": "2026-11-02T13:31:23.370584+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170078",
+    "title": "Hackers Could Exploit iPhone BootROM Flaws to Compromise Cryptocurrency Wallet Security",
+    "link": "https://cybersecuritynews.com/hackers-exploit-iphone-bootrom-flaws/",
+    "published": "Mon, 02 Nov 2026 13:43:27 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Older iPhones used to store cryptocurrency seed phrases could expose owners to physical attacks that airplane mode cannot stop. OneKey founder Yishi has warned that wiping an aging iPhone and keeping it offline does not make it a secure cold wallet. ",
+    "created_at": "2026-11-02T14:01:52.213929+00:00"
   }
 ]
