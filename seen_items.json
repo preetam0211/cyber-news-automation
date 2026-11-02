@@ -6154,5 +6154,32 @@
     "source": "CybersecurityNews",
     "summary": "A new Windows infostealer called VOLTA does more than steal passwords. After it grabs Gmail, Discord and other logins, it asks an AI model to study the loot and write a report on how much the victim is worth. The idea is simple: steal everything, the",
     "created_at": "2026-11-02T08:01:09.164632+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169981",
+    "title": "Critical BeyondTrust Vulnerability Faces Fresh Exploitation Probes as Hackers Prepare for Mass Scanning",
+    "link": "https://cybersecuritynews.com/critical-beyondtrust-vulnerability/",
+    "published": "Mon, 02 Nov 2026 08:01:35 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Fresh probes targeting CVE-2026-102764 have raised concerns that attacks against BeyondTrust Remote Support could spread beyond targeted espionage. Previdian reported two probes against decoy appliances in the United States and Europe, both from one ",
+    "created_at": "2026-11-02T08:31:11.085123+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170015",
+    "title": "Hackers Use ARTEX AI Agents to Automate Active Directory Attacks, Kerberoasting, and Lateral Movement",
+    "link": "https://cybersecuritynews.com/hackers-use-artex-ai-agents/",
+    "published": "Mon, 02 Nov 2026 08:23:36 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are now using an open-source AI tool called ARTEX to run large parts of a network break-in on their own. The tool can map a Windows network, steal service account passwords, and try to spread to domain controllers with very little human help.",
+    "created_at": "2026-11-02T08:31:22.612513+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169984",
+    "title": "Hackers Claim to Have Stolen 30GB of Data From Frooti Maker Parle Agro",
+    "link": "https://cybersecuritynews.com/hackers-claims-stolen-data-from-parle-agro/",
+    "published": "Mon, 02 Nov 2026 08:27:29 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A dark web forum post claims 30GB of data linked to Parle Agro, the company behind Frooti, Appy Fizz, Bailley and Hippo, has been leaked. Dark Web Intelligence highlighted the claim, but the alleged theft and any system breach remain unverified. Acco",
+    "created_at": "2026-11-02T08:31:33.788092+00:00"
   }
 ]
