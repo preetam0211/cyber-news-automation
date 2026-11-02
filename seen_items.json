@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
-    "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
-    "link": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
-    "published": "Sat, 03 Oct 2026 20:06:33 +0530",
-    "source": "The Hacker News",
-    "summary": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speaking countries.\n\nThe activity, ",
-    "created_at": "2026-10-03T15:31:25.308578+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
-    "title": "MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics",
-    "link": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
-    "published": "Sat, 03 Oct 2026 20:08:46 +0530",
-    "source": "The Hacker News",
-    "summary": "The U.K.&#x27;s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing&#x27;s state security service.\n\nIn a &quot;Security Service Espionage Al",
-    "created_at": "2026-10-03T15:31:49.103403+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=165633",
     "title": "ShinyHunters Member Detained in Jordan, Reportedly Helping FBI Identify Fellow Hackers",
     "link": "https://cybersecuritynews.com/shinyhunters-hacker-helping-fbi/",
@@ -6424,5 +6406,14 @@
     "source": "BleepingComputer",
     "summary": "The maintainer of BTCPay Server, an open-source cryptocurrency payment processor, has urged users to install the latest version as hackers have been draining &quot;hot wallets&quot; on instances running older versions. [...]",
     "created_at": "2026-11-02T15:31:18.218367+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170088",
+    "title": "Guardz Brings Palo Alto Networks Prisma Browser Protection to Small Businesses",
+    "link": "https://cybersecuritynews.com/guardz-brings-palo-alto-networks-prisma-browser-protection-to-small-businesses/",
+    "published": "Mon, 02 Nov 2026 15:53:23 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Miami, United States, November 2nd, 2026, CyberNewswire Prisma Browser for Business joins Guardz to connect browser protection with email, identity and endpoint security, helping security teams investigate and respond to threats across the workspace ",
+    "created_at": "2026-11-02T16:01:22.421881+00:00"
   }
 ]
