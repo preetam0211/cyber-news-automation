@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=165628",
-    "title": "Microsoft Exchange Server Flaw Lets Authenticated Hackers Access Other Users’ Mailboxes",
-    "link": "https://cybersecuritynews.com/microsoft-reissues-exchange-server-update/",
-    "published": "Sat, 03 Oct 2026 14:59:30 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Microsoft has released September 2026 V2 security updates to fix an Exchange Server flaw that lets authenticated attackers access other users’ mailboxes within the same organization. Tracked as CVE-2026–96940, the vulnerability could expose email mes",
-    "created_at": "2026-10-03T15:01:22.168711+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
     "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
     "link": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
@@ -6415,5 +6406,23 @@
     "source": "The Hacker News",
     "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026.\n\nAccording to a report published by Dream Research",
     "created_at": "2026-11-02T15:01:15.519544+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/",
+    "title": "Your Mobile Carrier Stores Your Call Logs for Years",
+    "link": "https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/",
+    "published": "Mon, 02 Nov 2026 10:01:11 -0500",
+    "source": "BleepingComputer",
+    "summary": "Mobile carriers can retain years of call and text metadata, exposing sensitive details about customers&#x27; relationships, locations, and daily routines if breached. Cape examines the privacy risks of long-term telecom data retention and how its mob",
+    "created_at": "2026-11-02T15:31:12.284592+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
+    "title": "BTCPay Server warns of hot wallet thefts targeting outdated instances",
+    "link": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
+    "published": "Mon, 02 Nov 2026 10:03:07 -0500",
+    "source": "BleepingComputer",
+    "summary": "The maintainer of BTCPay Server, an open-source cryptocurrency payment processor, has urged users to install the latest version as hackers have been draining &quot;hot wallets&quot; on instances running older versions. [...]",
+    "created_at": "2026-11-02T15:31:18.218367+00:00"
   }
 ]
