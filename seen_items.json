@@ -6181,5 +6181,86 @@
     "source": "CybersecurityNews",
     "summary": "A dark web forum post claims 30GB of data linked to Parle Agro, the company behind Frooti, Appy Fizz, Bailley and Hippo, has been leaked. Dark Web Intelligence highlighted the claim, but the alleged theft and any system breach remain unverified. Acco",
     "created_at": "2026-11-02T08:31:33.788092+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169977",
+    "title": "Reddit Plans Mandatory Logins to Block AI Bots From Scraping User Data",
+    "link": "https://cybersecuritynews.com/reddit-plans-mandatory-logins/",
+    "published": "Mon, 02 Nov 2026 08:35:42 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Reddit plans to make its platform a primarily logged-in service, tightening access to public discussions as it seeks to curb unauthorized data scraping. Chief Executive Steve Huffman announced the shift in an October 29 post, explaining that account-",
+    "created_at": "2026-11-02T10:01:16.067328+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170027",
+    "title": "Hackers Breach WS Audiology IT Systems, Disrupting Widex and Signia Hearing Aid Services",
+    "link": "https://cybersecuritynews.com/ws-audiology-it-systems/",
+    "published": "Mon, 02 Nov 2026 09:02:10 +0000",
+    "source": "CybersecurityNews",
+    "summary": "WS Audiology (WSA), the parent company of Widex and Signia, is investigating a cybersecurity incident after unauthorized parties accessed parts of its IT infrastructure. The company disconnected selected internal and customer-facing systems to contai",
+    "created_at": "2026-11-02T10:01:30.283268+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169661",
+    "title": "Top 10 Best Managed Security Service Providers (MSSP) in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-mssp-providers/",
+    "published": "Mon, 02 Nov 2026 09:29:17 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hiring an MSSP is hiring a co-pilot for your worst day, and the market now spans three species: security-born specialists, telecom-scale operators with backbone visibility, and consulting giants wrapping managed detection in transformation services. ",
+    "created_at": "2026-11-02T10:01:54.379464+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170037",
+    "title": "Critical ChatGPT Flaw Allowed Attackers to Hijack Accounts and Steal Private Conversations With One Link",
+    "link": "https://cybersecuritynews.com/chatgpt-flaw-exploited-with-one-link/",
+    "published": "Mon, 02 Nov 2026 09:30:56 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical ChatGPT flaw that let a malicious shared conversation run attacker-controlled JavaScript in another user’s signed-in session. The attack could list private chats, read conversations never shared with the attacker, and send stolen data to a",
+    "created_at": "2026-11-02T10:02:12.032135+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
+    "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
+    "published": "Mon, 02 Nov 2026 04:33:26 -0500",
+    "source": "BleepingComputer",
+    "summary": "Ivanti released security updates to patch two more Connect Secure (ICS) remote access gateway flaws that have been chained in zero-day attacks since at least October 1. [...]",
+    "created_at": "2026-11-02T10:02:31.486336+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169726",
+    "title": "Top 10 Best SOC-as-a-Service Providers in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-soc-as-a-service/",
+    "published": "Mon, 02 Nov 2026 09:36:54 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Building a 24/7 SOC takes roughly a dozen analysts before vacation math works which is why SOC-as-a-Service became the mid-market’s default answer and the enterprise’s pressure valve. The 2026 field divides by philosophy: concierge models that assign",
+    "created_at": "2026-11-02T10:02:37.793734+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169775",
+    "title": "Top 10 Best Managed SIEM Services in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-managed-siem-services/",
+    "published": "Mon, 02 Nov 2026 09:39:56 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The dirty secret of SIEM ownership: the license is half the cost, and the unstaffed half tuning, content, triage is where programs quietly die. Managed SIEM rents that discipline, in flavors that matter more than brands: vendors managing their own pl",
+    "created_at": "2026-11-02T10:02:45.915309+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169858",
+    "title": "Top 10 Best Digital Forensics & Incident Response (DFIR) Companies in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-dfir-companies/",
+    "published": "Mon, 02 Nov 2026 09:43:00 +0000",
+    "source": "CybersecurityNews",
+    "summary": "DFIR is the one security purchase evaluated under the worst possible conditions: mid-breach, counsel on the line, adversary still inside. What separates firms then isn’t marketing it’s responder bench depth, forensic rigor that survives litigation, a",
+    "created_at": "2026-11-02T10:02:56.071927+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169907",
+    "title": "Top 10 Best Incident Response Retainer Services in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-ir-retainer-services/",
+    "published": "Mon, 02 Nov 2026 09:46:09 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A retainer converts breach-day chaos into a phone number with obligations attached: guaranteed response times, pre-negotiated rates, privilege structure already standing, and in the modern form unused hours flexing into proactive work so the contract",
+    "created_at": "2026-11-02T10:03:01.935013+00:00"
   }
 ]
