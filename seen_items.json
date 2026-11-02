@@ -6145,5 +6145,14 @@
     "source": "The Hacker News",
     "summary": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim&#x27;s stolen data by their monetization value.\n\nLike other typical stealer",
     "created_at": "2026-11-02T06:31:10.926141+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169985",
+    "title": "VOLTA Malware Steals Gmail and Discord Sessions, Then Uses AI to Build Detailed Victim Profiles",
+    "link": "https://cybersecuritynews.com/volta-malware-steals-gmail/",
+    "published": "Mon, 02 Nov 2026 07:33:50 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new Windows infostealer called VOLTA does more than steal passwords. After it grabs Gmail, Discord and other logins, it asks an AI model to study the loot and write a report on how much the victim is worth. The idea is simple: steal everything, the",
+    "created_at": "2026-11-02T08:01:09.164632+00:00"
   }
 ]
