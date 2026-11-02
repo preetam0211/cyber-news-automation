@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=164557",
-    "title": "Rethinking automotive cyber risk for the age of accelerated vulnerability discovery",
-    "link": "https://cybersecuritynews.com/rethinking-automotive-cyber-risk-for-the-age-of-accelerated-vulnerability-discovery/",
-    "published": "Fri, 02 Oct 2026 14:15:42 +0000",
-    "source": "CybersecurityNews",
-    "summary": "By Tamás Pentz, Head of Threat Intelligence, PCA Cyber Security  Automotive cybersecurity has traditionally focused on putting controls into vehicles that counter the ways criminals could physically tamper with a vehicle. However, the growing adoptio",
-    "created_at": "2026-10-03T12:01:13.035579+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
     "title": "Danish university DTU breach exposes data of up to 200,000 people",
     "link": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
@@ -6325,5 +6316,32 @@
     "source": "BleepingComputer",
     "summary": "Taiwanese network-attached storage (NAS) appliance maker Synology warned customers to update their devices immediately due to a surge in C3RB3r ransomware attacks. [...]",
     "created_at": "2026-11-02T11:31:55.611512+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170063",
+    "title": "Hackers Exploit ChatGPT’s Popularity With Fake Billing Notices That Target Credit Cards and OTPs",
+    "link": "https://cybersecuritynews.com/fake-billing-notices/",
+    "published": "Mon, 02 Nov 2026 11:31:33 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are impersonating OpenAI in fake ChatGPT Plus billing emails that lead users to payment pages designed to steal credit card details and one-time passwords. The campaign combines convincing subscription warnings with a live operator who can de",
+    "created_at": "2026-11-02T12:01:58.387515+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170036",
+    "title": "Hackers Exploit Patched Synology NAS Vulnerabilities to Deploy C3RB3R Ransomware and Encrypt Files",
+    "link": "https://cybersecuritynews.com/synology-nas-vulnerabilities-c3rb3r-ransomware/",
+    "published": "Mon, 02 Nov 2026 11:49:58 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Synology NAS devices are facing C3RB3R ransomware attacks linked to 2024 security flaws, prompting the company to urge users to update outdated DiskStation Manager versions and packages. The warning followed reports from the 360 Security Team and Sol",
+    "created_at": "2026-11-02T12:02:50.550243+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170016",
+    "title": "POC Released for Windows WinSock Ancillary Privilege Escalation Vulnerability",
+    "link": "https://cybersecuritynews.com/poc-for-windows-winsock-ancillary-vulnerability/",
+    "published": "Mon, 02 Nov 2026 11:57:41 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A public proof-of-concept exploit for CVE-2023-21768 shows how attackers with local access can gain SYSTEM privileges through the Windows Ancillary Function Driver for WinSock. Researchers Valentina Palmiotti, known as chompie, and Ruben Boonen publi",
+    "created_at": "2026-11-02T12:03:42.581840+00:00"
   }
 ]
