@@ -6442,5 +6442,14 @@
     "source": "BleepingComputer",
     "summary": "Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by &quot;irregular activity&quot; in its environment. [...]",
     "created_at": "2026-11-02T19:01:25.937112+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+    "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+    "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+    "published": "Mon, 02 Nov 2026 16:40:14 -0500",
+    "source": "BleepingComputer",
+    "summary": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]",
+    "created_at": "2026-11-02T22:01:44.809631+00:00"
   }
 ]
