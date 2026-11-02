@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
-    "title": "Danish university DTU breach exposes data of up to 200,000 people",
-    "link": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
-    "published": "Sat, 03 Oct 2026 10:35:20 -0400",
-    "source": "BleepingComputer",
-    "summary": "The Technical University of Denmark (DTU) says information belonging to up to 200,000 users may have been exposed after hackers accessed its identity and access management system and downloaded a large amount of data. [...]",
-    "created_at": "2026-10-03T15:01:13.901365+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=165628",
     "title": "Microsoft Exchange Server Flaw Lets Authenticated Hackers Access Other Users’ Mailboxes",
     "link": "https://cybersecuritynews.com/microsoft-reissues-exchange-server-update/",
@@ -6415,5 +6406,14 @@
     "source": "BleepingComputer",
     "summary": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]",
     "created_at": "2026-11-02T14:31:24.723582+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
+    "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
+    "link": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
+    "published": "Mon, 02 Nov 2026 20:16:05 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026.\n\nAccording to a report published by Dream Research",
+    "created_at": "2026-11-02T15:01:15.519544+00:00"
   }
 ]
