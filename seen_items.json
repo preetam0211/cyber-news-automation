@@ -6289,5 +6289,14 @@
     "source": "CybersecurityNews",
     "summary": "Hackers have reportedly targeted refrigeration systems at Swedish supermarkets, leaving stores with spoiled food after freezers reached temperatures as high as 55°C. Several ICA locations and six Coop stores were affected overnight into November 2, f",
     "created_at": "2026-11-02T10:31:40.740940+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170040",
+    "title": "Hackers Use CyberStrikeAI Agents to Automate Windows Domain Takeovers and Credential Theft",
+    "link": "https://cybersecuritynews.com/hackers-use-cyberstrikeai-agents-2/",
+    "published": "Mon, 02 Nov 2026 10:34:24 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are now using an AI-driven command framework called CyberStrikeAI to break into Windows networks and take over entire domains. Education organizations in Africa and Latin America were among the confirmed victims. The tool lets a language mode",
+    "created_at": "2026-11-02T11:01:21.872425+00:00"
   }
 ]
