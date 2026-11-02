@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
-    "title": "The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations",
-    "link": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
-    "published": "Sat, 03 Oct 2026 16:30:00 +0530",
-    "source": "The Hacker News",
-    "summary": "Featuring:\n\nCybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more identities, devices, data, and internet-facing infrastructure, ",
-    "created_at": "2026-10-03T11:31:10.455449+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=164557",
     "title": "Rethinking automotive cyber risk for the age of accelerated vulnerability discovery",
     "link": "https://cybersecuritynews.com/rethinking-automotive-cyber-risk-for-the-age-of-accelerated-vulnerability-discovery/",
@@ -6298,5 +6289,41 @@
     "source": "CybersecurityNews",
     "summary": "Hackers are now using an AI-driven command framework called CyberStrikeAI to break into Windows networks and take over entire domains. Education organizations in Africa and Latin America were among the confirmed victims. The tool lets a language mode",
     "created_at": "2026-11-02T11:01:21.872425+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
+    "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
+    "link": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
+    "published": "Mon, 02 Nov 2026 16:19:59 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure.\n\nThe activity, observed by Palo Alto Networks Unit 42 ",
+    "created_at": "2026-11-02T11:31:21.705719+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170035",
+    "title": "Hackers Impersonate ChatGPT, Claude, and Perplexity AI Bots to Hunt for Passwords and API Keys",
+    "link": "https://cybersecuritynews.com/hackers-impersonate-ai-bots/",
+    "published": "Mon, 02 Nov 2026 11:01:28 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are posing as trusted artificial intelligence bots to search websites for passwords, API keys, and cloud credentials. The campaign uses the names of ChatGPT, Claude, Perplexity, and other AI services to disguise automated scanning, testing wh",
+    "created_at": "2026-11-02T11:31:32.994081+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
+    "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
+    "link": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
+    "published": "Mon, 02 Nov 2026 16:38:45 +0530",
+    "source": "The Hacker News",
+    "summary": "Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login certificates for privileged accounts, incl",
+    "created_at": "2026-11-02T11:31:44.189073+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
+    "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
+    "link": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
+    "published": "Mon, 02 Nov 2026 06:28:42 -0500",
+    "source": "BleepingComputer",
+    "summary": "Taiwanese network-attached storage (NAS) appliance maker Synology warned customers to update their devices immediately due to a surge in C3RB3r ransomware attacks. [...]",
+    "created_at": "2026-11-02T11:31:55.611512+00:00"
   }
 ]
