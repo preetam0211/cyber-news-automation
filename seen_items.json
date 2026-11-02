@@ -6397,5 +6397,23 @@
     "source": "CybersecurityNews",
     "summary": "Older iPhones used to store cryptocurrency seed phrases could expose owners to physical attacks that airplane mode cannot stop. OneKey founder Yishi has warned that wiping an aging iPhone and keeping it offline does not make it a secure cold wallet. ",
     "created_at": "2026-11-02T14:01:52.213929+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/",
+    "title": "Microsoft fixes Smart App Control broken by October Windows update",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/",
+    "published": "Mon, 02 Nov 2026 08:57:29 -0500",
+    "source": "BleepingComputer",
+    "summary": "Microsoft has resolved a known issue that prevented some users from activating the Smart App Control security feature after installing the October 2026 KB5127648 Windows 11 security update. [...]",
+    "created_at": "2026-11-02T14:31:18.210593+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
+    "title": "Hackers disrupt refrigeration systems at European supermarkets",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
+    "published": "Mon, 02 Nov 2026 09:28:39 -0500",
+    "source": "BleepingComputer",
+    "summary": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]",
+    "created_at": "2026-11-02T14:31:24.723582+00:00"
   }
 ]
