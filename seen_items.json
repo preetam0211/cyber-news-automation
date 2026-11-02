@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=165544",
-    "title": "Debian has Patched 1,313 Flaws in Massive Update Leading to DoS and Privilege Escalation Attacks",
-    "link": "https://cybersecuritynews.com/debian-1313-security-flaws/",
-    "published": "Sat, 03 Oct 2026 02:23:53 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Debian has released a major Linux kernel security update covering 1,313 CVE entries, addressing flaws that could allow privilege escalation, denial of service, and information leaks. The fixes are available for Debian’s stable release, Trixie, in Lin",
-    "created_at": "2026-10-03T02:31:10.412893+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=165610",
     "title": "Citrix NetScaler Keeps Rebooting Following the 0-Day Patch",
     "link": "https://cybersecuritynews.com/citrix-netscaler-0-day-patch/",
@@ -6136,5 +6127,14 @@
     "source": "BleepingComputer",
     "summary": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
     "created_at": "2026-11-01T20:01:12.400085+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=169966",
+    "title": "Critical Certificate Validation Flaw in LXD and Incus Could Give Hackers Control of Linux Hosts",
+    "link": "https://cybersecuritynews.com/certificate-validation-flaw-in-lxd-and-incus/",
+    "published": "Mon, 02 Nov 2026 02:45:51 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical certificate validation flaw in LXD and Incus could let remote attackers bypass login checks and take control of clusters and managed virtual machines. The weakness affects the HTTPS management listener, placing exposed Linux systems at ris",
+    "created_at": "2026-11-02T03:01:17.246747+00:00"
   }
 ]
