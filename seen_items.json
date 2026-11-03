@@ -6640,5 +6640,23 @@
     "source": "CybersecurityNews",
     "summary": "A security researcher has found a way to run any command with root rights on the navigation unit in a 2014 Renault Latitude. The unit is a TomTom Carminat LIVE head unit that runs a custom system built on Linux 2.6.28.10. The research was published o",
     "created_at": "2026-11-03T13:31:33.446127+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
+    "title": "Police seizes over 100 servers in investment scam crackdown",
+    "link": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
+    "published": "Tue, 03 Nov 2026 08:33:49 -0500",
+    "source": "BleepingComputer",
+    "summary": "European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs. [...]",
+    "created_at": "2026-11-03T14:01:46.994921+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170135",
+    "title": "Hackers Use ARTEX AI to Automate Enterprise Attacks at Machine Speed – Insights for Defenders",
+    "link": "https://cybersecuritynews.com/artex-ai-automate-enterprise-attacks/",
+    "published": "Tue, 03 Nov 2026 13:58:16 +0000",
+    "source": "CybersecurityNews",
+    "summary": "AI-powered offensive frameworks are helping attackers move from stolen credentials to cloud privilege escalation, lateral movement, and data theft in minutes. Recent ARTEX campaigns show why organizations must rethink how they detect and stop automat",
+    "created_at": "2026-11-03T14:02:11.528342+00:00"
   }
 ]
