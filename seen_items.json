@@ -6496,5 +6496,14 @@
     "source": "CybersecurityNews",
     "summary": "BYDFi’s September 2026 platform upgrade, BYDFi Revamp, brings campaigns, tasks, and reward claims together in a single Rewards Hub, where new users can explore crypto welcome rewards for new users of up to 8,100 USDT. From a security perspective, a w",
     "created_at": "2026-11-03T06:31:17.621494+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170145",
+    "title": "Hackers Use Malicious VHDX Files and WebDAV Links to Infect Windows Devices With PapRAT Malware",
+    "link": "https://cybersecuritynews.com/hackers-use-malicious-vhdx-files/",
+    "published": "Tue, 03 Nov 2026 06:44:36 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A suspected espionage group is sending fake meeting letters and event invitations to organizations in South Asia. The files look harmless, but they quietly install a custom remote access trojan called PapRAT on Windows computers. The campaign uses Wi",
+    "created_at": "2026-11-03T07:01:15.153132+00:00"
   }
 ]
