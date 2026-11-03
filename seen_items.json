@@ -6802,5 +6802,14 @@
     "source": "BleepingComputer",
     "summary": "Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]",
     "created_at": "2026-11-03T19:01:38.235332+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
+    "title": "Binance says fake job interview led to $6.3 billion crypto heist",
+    "link": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
+    "published": "Tue, 03 Nov 2026 15:05:50 -0500",
+    "source": "BleepingComputer",
+    "summary": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company&#x27;s wallet infrastructure and steal about $6.34 billion in digital ass",
+    "created_at": "2026-11-03T20:31:21.635934+00:00"
   }
 ]
