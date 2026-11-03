@@ -6451,5 +6451,14 @@
     "source": "CybersecurityNews",
     "summary": "WorkOS has confirmed unauthorized access to an internal sales application, exposing customer contact information and records of business conversations. The company detected the incident on October 30, 2026, and published a security bulletin on Novemb",
     "created_at": "2026-11-03T04:01:12.477057+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170129",
+    "title": "Anthropic Enables EDR Monitoring in Claude Cowork to Detect Hidden AI Agent Activity",
+    "link": "https://cybersecuritynews.com/anthropic-enables-edr-monitoring/",
+    "published": "Tue, 03 Nov 2026 04:18:38 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Anthropic has introduced a beta integration that lets businesses run endpoint detection and response sensors inside Claude Cowork’s local virtual machine. The feature addresses a monitoring gap: security software installed on a computer cannot see th",
+    "created_at": "2026-11-03T04:31:14.872872+00:00"
   }
 ]
