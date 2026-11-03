@@ -6559,5 +6559,14 @@
     "source": "CybersecurityNews",
     "summary": "San Francisco, CA, November 3rd, 2026, CyberNewswire Cogent Security, an applied AI cybersecurity company, reported that the PHP2Shell vulnerability exposed significant gaps in enterprise vulnerability response. Disclosed on October 21, PHP2Shell inv",
     "created_at": "2026-11-03T10:03:26.564185+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170153",
+    "title": "Hackers Exploit Adobe Commerce Zero-Day to Deploy PSK Agent RAT and Remotely Control Servers",
+    "link": "https://cybersecuritynews.com/adobe-commerce-zero-day/",
+    "published": "Tue, 03 Nov 2026 10:03:57 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Attackers are abusing a serious flaw in Adobe Commerce and Magento to install a hidden remote access tool called PSK Agent on online store servers. Once it is running, they can run commands, route traffic through the server, and keep access even afte",
+    "created_at": "2026-11-03T10:31:15.762268+00:00"
   }
 ]
