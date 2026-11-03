@@ -6775,5 +6775,32 @@
     "source": "CybersecurityNews",
     "summary": "OpenAI has built Pando, a new Git backend, with Codex agents in just 10 weeks, replacing the system behind its main shared code repository without stopping engineering work. The company says agents now run around the clock to red-team both Git and Pa",
     "created_at": "2026-11-03T17:33:12.829662+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
+    "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
+    "link": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
+    "published": "Tue, 03 Nov 2026 23:46:19 +0530",
+    "source": "The Hacker News",
+    "summary": "Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure.\n\nThe incident is assessed to be part of a large-scale, ar",
+    "created_at": "2026-11-03T19:01:27.276191+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
+    "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
+    "link": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
+    "published": "Wed, 04 Nov 2026 00:16:38 +0530",
+    "source": "The Hacker News",
+    "summary": "Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA), and removing passkeys.\n\nThe warning came in an e",
+    "created_at": "2026-11-03T19:01:33.326385+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
+    "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
+    "link": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
+    "published": "Tue, 03 Nov 2026 13:51:04 -0500",
+    "source": "BleepingComputer",
+    "summary": "Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]",
+    "created_at": "2026-11-03T19:01:38.235332+00:00"
   }
 ]
