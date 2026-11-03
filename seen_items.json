@@ -6514,5 +6514,23 @@
     "source": "CybersecurityNews",
     "summary": "An Iran-linked hacking group called DarkBlinders has broken into a government cloud system in the Kurdistan Region of Iraq. The group stole at least 1 GB of data from it. It also compromised a high-profile person in Israel who works in the security s",
     "created_at": "2026-11-03T07:31:14.307939+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
+    "title": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
+    "link": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
+    "published": "Tue, 03 Nov 2026 12:57:07 +0530",
+    "source": "The Hacker News",
+    "summary": "Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and freezers.\n\nNo chain reported more than several dozen aff",
+    "created_at": "2026-11-03T08:01:06.847386+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
+    "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
+    "link": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
+    "published": "Tue, 03 Nov 2026 13:13:07 +0530",
+    "source": "The Hacker News",
+    "summary": "Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks.\n\nThe Taiwanese vendor said it observed threat actors exploiting a vulnerability patched in",
+    "created_at": "2026-11-03T08:01:11.800806+00:00"
   }
 ]
