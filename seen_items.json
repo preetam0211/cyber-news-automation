@@ -6685,5 +6685,50 @@
     "source": "BleepingComputer",
     "summary": "Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]",
     "created_at": "2026-11-03T15:32:30.952855+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
+    "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
+    "link": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
+    "published": "Tue, 03 Nov 2026 20:46:32 +0530",
+    "source": "The Hacker News",
+    "summary": "An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers&#x27; Linux servers.\n\nThe script installed a backdoor and collected password hashes and other sensitive files from",
+    "created_at": "2026-11-03T16:01:34.362439+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170081",
+    "title": "Hackers Hijack Emergency Alert Apps in Ukraine and Russia to Send Fake Nuclear Attack Warnings",
+    "link": "https://cybersecuritynews.com/hackers-hijack-emergency-alert-apps/",
+    "published": "Tue, 03 Nov 2026 15:34:02 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers targeted emergency alert apps in Ukraine and Russia late on November 1 and into November 2, sending false warnings about radiation, chemical threats, and nuclear strikes. The incidents disrupted trusted public safety channels during wartime. ",
+    "created_at": "2026-11-03T16:02:25.313556+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
+    "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
+    "link": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
+    "published": "Tue, 03 Nov 2026 21:11:53 +0530",
+    "source": "The Hacker News",
+    "summary": "Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services.\n\nThe tactic is called LLMjacking, a form of resource hijacking adapted ",
+    "created_at": "2026-11-03T16:03:05.233437+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170212",
+    "title": "Hackers Target Supermarket Refrigeration Systems Across Europe, Raising Freezer Temperatures to 50°C",
+    "link": "https://cybersecuritynews.com/supermarket-refrigeration-systems-across-europe/",
+    "published": "Tue, 03 Nov 2026 15:51:08 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers have targeted supermarket refrigeration systems across at least 10 European countries, forcing retailers to remove chilled and frozen food from sale after temperature controls were changed. The attacks, reported on Monday, November 2, have ra",
+    "created_at": "2026-11-03T16:03:25.168937+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170205",
+    "title": "Hackers Use AI Agents to Launch 3AM Ransomware Attacks Against UK School Networks",
+    "link": "https://cybersecuritynews.com/hackers-use-ai-agents-2/",
+    "published": "Tue, 03 Nov 2026 15:55:08 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A ransomware affiliate has hit a group of UK schools with a mix of human control and AI-style automation. The attackers used built-in Windows tools, stolen backup passwords and fake admin accounts to spread across the school network, then encrypted a",
+    "created_at": "2026-11-03T16:04:12.086278+00:00"
   }
 ]
