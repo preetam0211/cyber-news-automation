@@ -6748,5 +6748,32 @@
     "source": "CybersecurityNews",
     "summary": "North Korean hackers used a fake job interview, a poisoned coding task, and a hijacked internal AI tool to reach Binance’s wallet systems. The FBI says the North Korean group it calls “TraderTraitor” stole more than $6 billion in digital assets on 29",
     "created_at": "2026-11-03T17:01:18.399847+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
+    "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
+    "link": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
+    "published": "Tue, 03 Nov 2026 21:29:19 +0530",
+    "source": "The Hacker News",
+    "summary": "Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible device.\n\nThe vulnerabilities, a pre-authentication",
+    "created_at": "2026-11-03T17:31:57.702976+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
+    "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
+    "link": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
+    "published": "Tue, 03 Nov 2026 22:25:58 +0530",
+    "source": "The Hacker News",
+    "summary": "Binance on Tuesday said the record-setting theft of $6.43 billion in assets from the world&#x27;s largest cryptocurrency exchange was the culmination of a &quot;sophisticated, multi-stage campaign&quot; that involved the use of a tampered Homebrew in",
+    "created_at": "2026-11-03T17:32:23.975161+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170246",
+    "title": "OpenAI Builds Pando Git Infrastructure Using AI Agents and Deploys Continuous Security Testing",
+    "link": "https://cybersecuritynews.com/openai-builds-pando-git-infrastructure/",
+    "published": "Tue, 03 Nov 2026 17:15:01 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OpenAI has built Pando, a new Git backend, with Codex agents in just 10 weeks, replacing the system behind its main shared code repository without stopping engineering work. The company says agents now run around the clock to red-team both Git and Pa",
+    "created_at": "2026-11-03T17:33:12.829662+00:00"
   }
 ]
