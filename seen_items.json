@@ -6514,5 +6514,14 @@
     "source": "The Hacker News",
     "summary": "Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks.\n\nThe Taiwanese vendor said it observed threat actors exploiting a vulnerability patched in",
     "created_at": "2026-11-03T08:01:11.800806+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170155",
+    "title": "Attackers Started Scanning in the Wild for Linux Kernel RCE Flaw, Ubuntu Releases Fixes",
+    "link": "https://cybersecuritynews.com/linux-kernel-rce-flaw-ubuntu-fixes/",
+    "published": "Tue, 03 Nov 2026 08:58:05 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Ubuntu has put early kernel fixes for CVE-2026-98432 in its -proposed pocket for 22.04 LTS and newer releases. The bug is a serious Linux kernel flaw that can let a remote user run commands as root without a login or any user action. The patches are ",
+    "created_at": "2026-11-03T09:01:13.088666+00:00"
   }
 ]
