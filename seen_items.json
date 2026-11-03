@@ -6586,5 +6586,14 @@
     "source": "CybersecurityNews",
     "summary": "Hackers are distributing Yoba malware through fake ChatGPT and Claude downloads, pairing legitimate, digitally signed applications with malicious libraries. The campaign uses trusted software and GitHub hosting to make dangerous installers appear cre",
     "created_at": "2026-11-03T11:31:17.010612+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
+    "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
+    "link": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
+    "published": "Tue, 03 Nov 2026 07:05:52 -0500",
+    "source": "BleepingComputer",
+    "summary": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
+    "created_at": "2026-11-03T12:31:26.379008+00:00"
   }
 ]
