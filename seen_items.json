@@ -6523,5 +6523,14 @@
     "source": "CybersecurityNews",
     "summary": "Ubuntu has put early kernel fixes for CVE-2026-98432 in its -proposed pocket for 22.04 LTS and newer releases. The bug is a serious Linux kernel flaw that can let a remote user run commands as root without a login or any user action. The patches are ",
     "created_at": "2026-11-03T09:01:13.088666+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
+    "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
+    "link": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
+    "published": "Tue, 03 Nov 2026 14:01:48 +0530",
+    "source": "The Hacker News",
+    "summary": "BTCPay Server, a self-hosted, open-source cryptocurrency payment processor, has urged users to install the latest version of its software in response to reports of Bitcoin and Litecoin being stolen from hot wallets on instances running older versions",
+    "created_at": "2026-11-03T09:31:07.344694+00:00"
   }
 ]
