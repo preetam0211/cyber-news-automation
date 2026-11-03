@@ -6595,5 +6595,32 @@
     "source": "BleepingComputer",
     "summary": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
     "created_at": "2026-11-03T12:31:26.379008+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
+    "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
+    "link": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
+    "published": "Tue, 03 Nov 2026 16:30:45 +0530",
+    "source": "The Hacker News",
+    "summary": "A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations.\n\n&quot;Active since at least February 2025, the group has focused exclusively on Ukrainian targets,",
+    "created_at": "2026-11-03T13:01:48.774095+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
+    "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
+    "link": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
+    "published": "Tue, 03 Nov 2026 16:48:20 +0530",
+    "source": "The Hacker News",
+    "summary": "Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposures sit, waiting in the queue. Gartner®’s rep",
+    "created_at": "2026-11-03T13:02:31.917945+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
+    "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
+    "link": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
+    "published": "Tue, 03 Nov 2026 16:53:53 +0530",
+    "source": "The Hacker News",
+    "summary": "Fixed kernels for a use-after-free vulnerability in the Linux kernel&#x27;s IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu&#x27;s fixes for its three newest long-term-support releases remain in its opt-in test",
+    "created_at": "2026-11-03T13:02:55.963879+00:00"
   }
 ]
