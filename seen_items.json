@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
-    "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
-    "link": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
-    "published": "Sun, 04 Oct 2026 12:50:32 +0530",
-    "source": "The Hacker News",
-    "summary": "A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, universities, and legal sector organizations.\n\nThe campa",
-    "created_at": "2026-10-04T08:01:17.864615+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
-    "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
-    "link": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
-    "published": "Sun, 04 Oct 2026 12:52:05 +0530",
-    "source": "The Hacker News",
-    "summary": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias &quot;Rey,&quot; has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the matter.\n\nRey, whose real name ",
-    "created_at": "2026-10-04T08:01:24.613887+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
     "title": "Anthropic asks Claude users to share voice data for AI model training",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
