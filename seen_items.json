@@ -6730,5 +6730,14 @@
     "source": "CybersecurityNews",
     "summary": "A ransomware affiliate has hit a group of UK schools with a mix of human control and AI-style automation. The attackers used built-in Windows tools, stolen backup passwords and fake admin accounts to spread across the school network, then encrypted a",
     "created_at": "2026-11-03T16:04:12.086278+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170223",
+    "title": "Password Manager mSecure Urges Users to Secure Logins and Confidential Data Stored",
+    "link": "https://cybersecuritynews.com/msecure-security-incident/",
+    "published": "Tue, 03 Nov 2026 16:21:27 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Password manager mSecure has urged current and former customers to immediately protect passwords and other confidential information stored in its application after its maker, mSeven Software, detected suspicious activity. The warning also covers two-",
+    "created_at": "2026-11-03T16:31:29.284706+00:00"
   }
 ]
