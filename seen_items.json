@@ -6460,5 +6460,14 @@
     "source": "CybersecurityNews",
     "summary": "Anthropic has introduced a beta integration that lets businesses run endpoint detection and response sensors inside Claude Cowork’s local virtual machine. The feature addresses a monitoring gap: security software installed on a computer cannot see th",
     "created_at": "2026-11-03T04:31:14.872872+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170136",
+    "title": "OpenAI Launches New Security Sprint to Hunt Vulnerabilities and Strengthen Defenses",
+    "link": "https://cybersecuritynews.com/openai-security-sprint/",
+    "published": "Tue, 03 Nov 2026 05:17:26 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OpenAI is preparing a new internal security sprint that will bring outside researchers together with its own teams to find vulnerabilities, test fixes, and strengthen its platforms using AI. Announced on November 2, the effort includes a partnership ",
+    "created_at": "2026-11-03T05:31:16.253603+00:00"
   }
 ]
