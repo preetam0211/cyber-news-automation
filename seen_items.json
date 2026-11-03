@@ -6505,5 +6505,14 @@
     "source": "CybersecurityNews",
     "summary": "A suspected espionage group is sending fake meeting letters and event invitations to organizations in South Asia. The files look harmless, but they quietly install a custom remote access trojan called PapRAT on Windows computers. The campaign uses Wi",
     "created_at": "2026-11-03T07:01:15.153132+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170148",
+    "title": "Iran-Linked DarkBlinders Hackers Breach Government Cloud Systems and Steal Over 1GB of Data",
+    "link": "https://cybersecuritynews.com/iran-linked-darkblinders-hackers/",
+    "published": "Tue, 03 Nov 2026 07:25:07 +0000",
+    "source": "CybersecurityNews",
+    "summary": "An Iran-linked hacking group called DarkBlinders has broken into a government cloud system in the Kurdistan Region of Iraq. The group stole at least 1 GB of data from it. It also compromised a high-profile person in Israel who works in the security s",
+    "created_at": "2026-11-03T07:31:14.307939+00:00"
   }
 ]
