@@ -6667,5 +6667,23 @@
     "source": "BleepingComputer",
     "summary": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]",
     "created_at": "2026-11-03T14:31:59.410586+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
+    "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
+    "link": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
+    "published": "Tue, 03 Nov 2026 10:00:10 -0500",
+    "source": "BleepingComputer",
+    "summary": "Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC roles, from analyst responsibilities and detection e",
+    "created_at": "2026-11-03T15:31:45.028026+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
+    "title": "Barracuda warns of critical flaws allowing root access to devices",
+    "link": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
+    "published": "Tue, 03 Nov 2026 10:06:16 -0500",
+    "source": "BleepingComputer",
+    "summary": "Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]",
+    "created_at": "2026-11-03T15:32:30.952855+00:00"
   }
 ]
