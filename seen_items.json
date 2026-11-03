@@ -6622,5 +6622,23 @@
     "source": "The Hacker News",
     "summary": "Fixed kernels for a use-after-free vulnerability in the Linux kernel&#x27;s IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu&#x27;s fixes for its three newest long-term-support releases remain in its opt-in test",
     "created_at": "2026-11-03T13:02:55.963879+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170184",
+    "title": "Microsoft Reveals 78% of Exploited Vulnerabilities Enable System Takeover and Privilege Escalation",
+    "link": "https://cybersecuritynews.com/microsoft-reveals-78-of-exploited-vulnerabilities/",
+    "published": "Tue, 03 Nov 2026 12:31:55 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft’s new research shows that attackers pick flaws that give them control of a system. About 78% of vulnerabilities exploited in real attacks let an attacker take over a system or raise their privileges. The finding comes from a data study publ",
+    "created_at": "2026-11-03T13:31:21.926804+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170191",
+    "title": "Renault Car’s 15-Year-Old Linux Navigation Software Hacked to Execute Arbitrary Root Commands",
+    "link": "https://cybersecuritynews.com/renault-cars/",
+    "published": "Tue, 03 Nov 2026 13:10:24 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A security researcher has found a way to run any command with root rights on the navigation unit in a 2014 Renault Latitude. The unit is a TomTom Carminat LIVE head unit that runs a custom system built on Linux 2.6.28.10. The research was published o",
+    "created_at": "2026-11-03T13:31:33.446127+00:00"
   }
 ]
