@@ -6658,5 +6658,14 @@
     "source": "CybersecurityNews",
     "summary": "AI-powered offensive frameworks are helping attackers move from stolen credentials to cloud privilege escalation, lateral movement, and data theft in minutes. Recent ARTEX campaigns show why organizations must rethink how they detect and stop automat",
     "created_at": "2026-11-03T14:02:11.528342+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
+    "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
+    "link": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
+    "published": "Tue, 03 Nov 2026 09:00:00 -0500",
+    "source": "BleepingComputer",
+    "summary": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]",
+    "created_at": "2026-11-03T14:31:59.410586+00:00"
   }
 ]
