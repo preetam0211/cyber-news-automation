@@ -6469,5 +6469,23 @@
     "source": "CybersecurityNews",
     "summary": "OpenAI is preparing a new internal security sprint that will bring outside researchers together with its own teams to find vulnerabilities, test fixes, and strengthen its platforms using AI. Announced on November 2, the effort includes a partnership ",
     "created_at": "2026-11-03T05:31:16.253603+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
+    "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
+    "link": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
+    "published": "Tue, 03 Nov 2026 11:04:37 +0530",
+    "source": "The Hacker News",
+    "summary": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber.\n\nThe vulnerability in question is CVE-2026-81648, which carries a CV",
+    "created_at": "2026-11-03T06:01:12.800246+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
+    "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
+    "link": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
+    "published": "Tue, 03 Nov 2026 11:04:41 +0530",
+    "source": "The Hacker News",
+    "summary": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed.\n\nThe vulnerability, tracked as CVE-2026-58115 (CVSS score: 10.0), is a case of missing authentication for ",
+    "created_at": "2026-11-03T06:01:26.442722+00:00"
   }
 ]
