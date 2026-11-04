@@ -6829,5 +6829,50 @@
     "source": "CybersecurityNews",
     "summary": "A flaw in Zyxel GS1900 switches was already being used by hackers, and the patch meant to fix it did not work. Researchers at Binarly found that a public exploit hit a different bug than the one Zyxel had patched. Zyxel has now confirmed it as a new ",
     "created_at": "2026-11-04T12:02:38.498679+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
+    "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
+    "link": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
+    "published": "Wed, 04 Nov 2026 16:54:31 +0530",
+    "source": "The Hacker News",
+    "summary": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method as part of a surveillance campaign designed to ",
+    "created_at": "2026-11-04T12:31:17.464100+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
+    "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
+    "link": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
+    "published": "Wed, 04 Nov 2026 17:04:20 +0530",
+    "source": "The Hacker News",
+    "summary": "Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway the enterprise owns. Most agents never touch one.\n",
+    "created_at": "2026-11-04T12:31:30.646407+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
+    "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
+    "link": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
+    "published": "Wed, 04 Nov 2026 17:16:27 +0530",
+    "source": "The Hacker News",
+    "summary": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0.\n\nDom0 is the VM that, by default, has full permissions and manages the others. Patches are out, a",
+    "created_at": "2026-11-04T12:31:42.162721+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
+    "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
+    "link": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
+    "published": "Wed, 04 Nov 2026 17:37:04 +0530",
+    "source": "The Hacker News",
+    "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app&#x27;s server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed the flaw in an advisory ",
+    "created_at": "2026-11-04T12:31:54.889522+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
+    "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
+    "published": "Wed, 04 Nov 2026 07:11:05 -0500",
+    "source": "BleepingComputer",
+    "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]",
+    "created_at": "2026-11-04T12:32:02.764244+00:00"
   }
 ]
