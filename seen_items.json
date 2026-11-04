@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=165779",
-    "title": "Apple Tightens macOS Full Disk Access as AI Agents Become More Powerful",
-    "link": "https://cybersecuritynews.com/apple-tightens-macos-full-disk-access/",
-    "published": "Mon, 05 Oct 2026 12:05:00 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Apple plans to add stronger controls to Full Disk Access in macOS, warning that the powerful permission can expose a user’s most private data as AI agents become more capable. The company said the change will require users to take a far more delibera",
-    "created_at": "2026-10-05T13:01:08.216975+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165766",
-    "title": "GlassWorm Supply Chain Attack Uses Fake VS Code Themes to Deliver Hidden Malware",
-    "link": "https://cybersecuritynews.com/glassworm-supply-chain-attack/",
-    "published": "Mon, 05 Oct 2026 12:40:52 +0000",
-    "source": "CybersecurityNews",
-    "summary": "GlassWorm is turning developer tools into malware delivery channels, this time through extensions advertised as attractive VS Code themes. The investigated cluster spans Visual Studio Marketplace and Open VSX, showing how appearance changes can provi",
-    "created_at": "2026-10-05T13:01:10.437091+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165787",
-    "title": "RemoveMacAI Free Up 12GB of Data by Removing Apple Intelligence Models",
-    "link": "https://cybersecuritynews.com/removemacai-removes-ai-models/",
-    "published": "Mon, 05 Oct 2026 12:53:19 +0000",
-    "source": "CybersecurityNews",
-    "summary": "RemoveMacAI, an open-source tool on GitHub, lets Mac users disable Apple Intelligence, remove its downloaded models, and block future downloads. The utility can recover roughly 10GB to 12GB of storage, depending on which models are present. Its chang",
-    "created_at": "2026-10-05T13:01:13.178759+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html",
     "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2",
     "link": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html",
@@ -6874,5 +6847,14 @@
     "source": "BleepingComputer",
     "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]",
     "created_at": "2026-11-04T12:32:02.764244+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170382",
+    "title": "Node.js Schedules High-Severity Security Fixes for 22.x, 24.x, and 26.x Release Lines",
+    "link": "https://cybersecuritynews.com/node-js-schedules-patch/",
+    "published": "Wed, 04 Nov 2026 12:59:05 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The Node.js project has scheduled security updates for its 22.x, 24.x, and 26.x release lines on or shortly after Wednesday, November 11, 2026. The announcement gives developers and system administrators time to prepare for patches addressing HIGH-ra",
+    "created_at": "2026-11-04T13:01:56.935204+00:00"
   }
 ]
