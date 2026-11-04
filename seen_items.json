@@ -6820,5 +6820,14 @@
     "source": "CybersecurityNews",
     "summary": "Hackers are stealing access to corporate large language models and reselling it, leaving victims with cloud bills reaching $1 million. Mandiant investigated multiple incidents during 2026 where unauthorized AI use generated more than $100,000 in char",
     "created_at": "2026-11-04T05:01:11.148462+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170254",
+    "title": "Hackers Use OpenAI Codex Jailbreak Toolkit That Secretly Injects Ads Into AI Responses",
+    "link": "https://cybersecuritynews.com/openai-codex-jailbreak/",
+    "published": "Wed, 04 Nov 2026 05:22:19 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A jailbreak toolkit targeting OpenAI Codex is doing more than trying to bypass AI safety rules. The Chinese-language package, called Haiou, changes the coding agent’s trusted instructions so that ordinary greetings trigger advertisements for a third-",
+    "created_at": "2026-11-04T05:31:22.865731+00:00"
   }
 ]
