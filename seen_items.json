@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html",
-    "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2",
-    "link": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html",
-    "published": "Mon, 05 Oct 2026 17:16:25 +0530",
-    "source": "The Hacker News",
-    "summary": "Threat actors have been observed attempting to exploit a now-patched critical security flaw impacting the Realtek Jungle software development kit (SDK) to deploy a botnet malware called Cling.\n\n&quot;Cling is notable not because it introduces a new p",
-    "created_at": "2026-10-05T13:31:05.542284+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
-    "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It",
-    "link": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
-    "published": "Mon, 05 Oct 2026 17:25:00 +0530",
-    "source": "The Hacker News",
-    "summary": "Every modern enterprise depends on credentials. This is how humans, systems, and now AI, all connect to data, services, and each other securely. GitGuardian helps secure that credential layer through three connected capabilities: Detect, Remediate, a",
-    "created_at": "2026-10-05T13:31:07.613523+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/",
-    "title": "Alleged dev of Ploutus ATM malware appears in US court after arrest",
-    "link": "https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/",
-    "published": "Mon, 05 Oct 2026 09:01:45 -0400",
-    "source": "BleepingComputer",
-    "summary": "The U.S. Department of Justice has announced the arrest of the alleged developer of Ploutus malware, used to steal millions of dollars in ATM jackpotting attacks across the United States. [...]",
-    "created_at": "2026-10-05T13:31:09.672186+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165785",
-    "title": "ClickFix Fake CAPTCHA Attack Executes Malware Hidden Inside Browser Cache",
-    "link": "https://cybersecuritynews.com/clickfix-fake-captcha-attack/",
-    "published": "Mon, 05 Oct 2026 13:02:42 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A new ClickFix campaign is turning a web safety check into a route for malware. Visitors to compromised websites see a fake CAPTCHA or repair message and are told to open the Windows Run dialog, paste copied text, and press Enter. The instruction loo",
-    "created_at": "2026-10-05T13:31:11.705284+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/",
     "title": "tenfold CE: Our free Identity Governance tool just got 2 new features",
     "link": "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/",
@@ -6856,5 +6820,41 @@
     "source": "CybersecurityNews",
     "summary": "The Node.js project has scheduled security updates for its 22.x, 24.x, and 26.x release lines on or shortly after Wednesday, November 11, 2026. The announcement gives developers and system administrators time to prepare for patches addressing HIGH-ra",
     "created_at": "2026-11-04T13:01:56.935204+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170354",
+    "title": "Critical Barracuda Security Flaws Could Let Hackers Bypass Authentication and Gain Root Access",
+    "link": "https://cybersecuritynews.com/critical-barracuda-security-flaws/",
+    "published": "Wed, 04 Nov 2026 13:07:41 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Barracuda has disclosed two security vulnerabilities that could allow attackers to bypass authorization controls and gain root access to affected appliances when exploited together. The flaws affect several Barracuda security products, but exploitati",
+    "created_at": "2026-11-04T13:31:17.714426+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/",
+    "title": "US charges two Canadians accused of hacking US universities",
+    "link": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/",
+    "published": "Wed, 04 Nov 2026 08:13:20 -0500",
+    "source": "BleepingComputer",
+    "summary": "A federal grand jury indicted two Canadians suspected of hacking multiple US universities and using the compromised systems to mine for cryptocurrency. [...]",
+    "created_at": "2026-11-04T13:31:37.898762+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170391",
+    "title": "French Bank Crédit Mutuel Arkéa Confirms Cyberattack Amid Reports of $133 Million Theft",
+    "link": "https://cybersecuritynews.com/credit-mutuel-arkea-confirms-cyberattack/",
+    "published": "Wed, 04 Nov 2026 13:29:39 +0000",
+    "source": "CybersecurityNews",
+    "summary": "French banking group Crédit Mutuel Arkéa has confirmed a cyberattack that enabled fraudulent transactions, following reports linking the institution to cryptocurrency theft exceeding $133 million. The bank says the incident is contained, operations a",
+    "created_at": "2026-11-04T13:31:59.867121+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170388",
+    "title": "Critical SolarWinds Dameware Flaw Could Allow Attackers to Compromise Remote Systems",
+    "link": "https://cybersecuritynews.com/critical-solarwinds-dameware-flaw/",
+    "published": "Wed, 04 Nov 2026 13:30:17 +0000",
+    "source": "CybersecurityNews",
+    "summary": "SolarWinds has warned about a critical command injection flaw in its Dameware remote support software. It is tracked as CVE-2026-28336 and carries a severity score of 9.9 out of 10. The bug could let an attacker take over a computer that an IT team i",
+    "created_at": "2026-11-04T13:32:21.770351+00:00"
   }
 ]
