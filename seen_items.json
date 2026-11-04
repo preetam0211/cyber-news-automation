@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/",
-    "title": "tenfold CE: Our free Identity Governance tool just got 2 new features",
-    "link": "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/",
-    "published": "Mon, 05 Oct 2026 09:33:42 -0400",
-    "source": "BleepingComputer",
-    "summary": "tenfold has added shared content governance and real-time event auditing to its free Community Edition for organizations with under 150 users. The new features help teams manage Microsoft 365 sharing and investigate suspicious identity activity. [...",
-    "created_at": "2026-10-05T14:01:08.109189+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165778",
-    "title": "Google Gemini Will Soon Get Full Access Permission to Use Your Computer",
-    "link": "https://cybersecuritynews.com/google-gemini-computer-access/",
-    "published": "Mon, 05 Oct 2026 13:33:54 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Google’s Gemini Desktop app may soon introduce a “Full Access” permission that would let the AI assistant read files, control applications, access network services, and take action across a user’s Mac. The capability appears to be part of a hidden “A",
-    "created_at": "2026-10-05T14:01:10.941346+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165761",
-    "title": "CISA Warns of Citrix NetScaler Vulnerability Actively Exploited in Attacks",
-    "link": "https://cybersecuritynews.com/cisa-citrix-netscaler-vulnerability-exploited/",
-    "published": "Mon, 05 Oct 2026 13:44:50 +0000",
-    "source": "CybersecurityNews",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency has added a Citrix NetScaler vulnerability, tracked as CVE-2026-88779, to its Known Exploited Vulnerabilities catalog after confirming active exploitation. The flaw affects Citrix NetScaler AD",
-    "created_at": "2026-10-05T14:01:12.269430+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
     "title": "South Korea probes bank breaches amid suspected AI-powered attacks",
     "link": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
@@ -6856,5 +6829,23 @@
     "source": "CybersecurityNews",
     "summary": "SolarWinds has warned about a critical command injection flaw in its Dameware remote support software. It is tracked as CVE-2026-28336 and carries a severity score of 9.9 out of 10. The bug could let an attacker take over a computer that an IT team i",
     "created_at": "2026-11-04T13:32:21.770351+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170396",
+    "title": "Scammers Use Microsoft Azure to Host Fake Windows Security Alerts Seen at 80 Organizations",
+    "link": "https://cybersecuritynews.com/scammers-use-microsoft-azure/",
+    "published": "Wed, 04 Nov 2026 13:52:13 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Scammers are abusing Microsoft Azure to host fake Windows security alerts that pressure users into calling fraudulent support numbers. Between March and October 2026, the same fake Microsoft support kit reached users at 80 organizations. New landing ",
+    "created_at": "2026-11-04T14:01:39.878021+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170318",
+    "title": "The Sandbox Fights Back: Joe Security Launches Adaptive Detonation",
+    "link": "https://cybersecuritynews.com/the-sandbox-fights-back-joe-security-launches-adaptive-detonation/",
+    "published": "Wed, 04 Nov 2026 13:56:40 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Reinach, Switzerland, November 4th, 2026, CyberNewswire AI agents help Joe Sandbox uncover malicious behavior concealed by evasion techniques and unmet execution conditions. Joe Security‘s Adaptive Detonation brings active intervention to malware ana",
+    "created_at": "2026-11-04T14:02:23.165957+00:00"
   }
 ]
