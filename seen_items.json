@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=165792",
-    "title": "Zammad Zero-Day Chain Lets AI Agent Hijack Sessions, Execute Code and Escalate to Root",
-    "link": "https://cybersecuritynews.com/zammad-zero-day/",
-    "published": "Mon, 05 Oct 2026 14:07:34 +0000",
-    "source": "CybersecurityNews",
-    "summary": "An AI agent breached the Dutch Institute for Vulnerability Disclosure by chaining two previously unknown flaws in Zammad, an open source helpdesk platform. The September 21, 2026 attack moved from a hijacked session to root access, giving the intrude",
-    "created_at": "2026-10-05T15:01:04.153838+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165807",
-    "title": "Researcher Infiltrates Lazarus Group’s Crypto Laundering Network After $1.5B Bybit Hack",
-    "link": "https://cybersecuritynews.com/zachxbt-infiltrates-lazarus-group/",
-    "published": "Mon, 05 Oct 2026 14:10:04 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Blockchain investigator ZachXBT says he infiltrated a Chinese crypto laundering network linked to North Korea’s Lazarus Group after the $1.5 billion Bybit hack. His investigation connected private chats with public blockchain records and, he says, he",
-    "created_at": "2026-10-05T15:01:06.427226+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
-    "title": "New Dell System Update flaw lets hackers gain root privileges",
-    "link": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
-    "published": "Mon, 05 Oct 2026 10:53:06 -0400",
-    "source": "BleepingComputer",
-    "summary": "Dell warned customers to patch a critical vulnerability in the System Update (DSU) command-line interface (CLI) deployment tool as soon as possible. [...]",
-    "created_at": "2026-10-05T15:01:08.614413+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
     "title": "⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
     "link": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
@@ -6847,5 +6820,23 @@
     "source": "CybersecurityNews",
     "summary": "Russia-aligned hackers tracked as Gorbag are exploiting a WinRAR vulnerability to steal browser credentials, VPN configurations, and sensitive documents from Ukrainian organizations. Active since at least February 2025, the group targets government a",
     "created_at": "2026-11-04T14:31:18.284284+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
+    "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
+    "link": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
+    "published": "Wed, 04 Nov 2026 19:57:52 +0530",
+    "source": "The Hacker News",
+    "summary": "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service ",
+    "created_at": "2026-11-04T15:01:23.754223+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
+    "title": "SonicWall warns of unpatched flaws in end-of-life GMS software",
+    "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
+    "published": "Wed, 04 Nov 2026 09:42:25 -0500",
+    "source": "BleepingComputer",
+    "summary": "SonicWall warned customers of two security flaws affecting end-of-life Global Management System (GMS) systems that will not be patched. [...]",
+    "created_at": "2026-11-04T15:01:57.024228+00:00"
   }
 ]
