@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
-    "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
-    "link": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
-    "published": "Mon, 05 Oct 2026 21:51:52 +0530",
-    "source": "The Hacker News",
-    "summary": "Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions.\n\nThe vulnerability, tracked as CVE-2026-96940, is rated 8.8",
-    "created_at": "2026-10-05T17:31:18.719016+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/",
-    "title": "IQVIA fined $7.8 million for failing to properly anonymize health data",
-    "link": "https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/",
-    "published": "Mon, 05 Oct 2026 13:19:53 -0400",
-    "source": "BleepingComputer",
-    "summary": "Italy&#x27;s Data Protection Authority (GPDP) has fined IQVIA €7 million ($7.8M) over poor data-processing practices that the agency says could have put roughly one million patients at risk of data exposure and de-anonymization. [...]",
-    "created_at": "2026-10-05T17:31:20.870165+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/",
     "title": "Rejetto HFS servers now actively scanned for critical RCE flaw",
     "link": "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/",
@@ -6838,5 +6820,41 @@
     "source": "BleepingComputer",
     "summary": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game&#x27;s PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency wallet data. [...]",
     "created_at": "2026-11-04T17:02:37.763892+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
+    "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
+    "link": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
+    "published": "Wed, 04 Nov 2026 21:36:43 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that&#x27;s designed to modify an artificial intelligence (AI) agent&#x27;s trusted instructions to insert advertisements for a third-party AI gateway.\n\nThe phenomen",
+    "created_at": "2026-11-04T17:31:27.254824+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
+    "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
+    "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
+    "published": "Wed, 04 Nov 2026 22:30:38 +0530",
+    "source": "The Hacker News",
+    "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched.\n\nDetails of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below -\n\n\n  CVE-2026",
+    "created_at": "2026-11-04T17:31:46.865478+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
+    "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
+    "link": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
+    "published": "Wed, 04 Nov 2026 22:30:46 +0530",
+    "source": "The Hacker News",
+    "summary": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own.\n\nThe attacker&#x27;s code then runs as root, according to advisories that Debian, Ubuntu, and APT&#",
+    "created_at": "2026-11-04T17:32:00.269928+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170385",
+    "title": "Critical Ruby on Rails Flaw Could Let Hackers Steal Server Secrets Through Malicious Image Uploads",
+    "link": "https://cybersecuritynews.com/critical-ruby-on-rails-flaw/",
+    "published": "Wed, 04 Nov 2026 17:01:17 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical flaw in Ruby on Rails Active Storage lets an unauthenticated user upload a crafted image and make the server write files. If uploads use the Disk service, the same upload can make the server read files too. The Rails team rated the bug Cri",
+    "created_at": "2026-11-04T17:32:25.041777+00:00"
   }
 ]
