@@ -6838,5 +6838,14 @@
     "source": "CybersecurityNews",
     "summary": "Hackers are abusing stolen Microsoft Entra ID application credentials and Azure DevOps identities to access Microsoft 365 and Azure environments, reaching at least 27 organizations. Todyl’s latest investigation update describes an ongoing campaign ta",
     "created_at": "2026-11-04T06:01:13.436480+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170263",
+    "title": "Hackers Use Fake Software Downloads to Secretly Hijack Windows PCs and Monetize Their Resources",
+    "link": "https://cybersecuritynews.com/hackers-use-fake-software-downloads/",
+    "published": "Wed, 04 Nov 2026 06:44:45 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are using fake software downloads to quietly turn Windows computers into revenue sources, installing programs that share internet bandwidth, run computing workloads, or deliver unwanted utilities. The campaign targets people searching for cra",
+    "created_at": "2026-11-04T07:01:19.579299+00:00"
   }
 ]
