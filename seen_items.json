@@ -6883,5 +6883,14 @@
     "source": "CybersecurityNews",
     "summary": "A phishing kit called SkyW4lker (also branded SkyW4lker x365 Sentinel) is quietly taking over Microsoft 365 accounts without ever stealing a password. Instead of cracking logins or breaking MFA, it tricks employees into approving a legitimate Microso",
     "created_at": "2026-11-04T19:01:40.112098+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
+    "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+    "link": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
+    "published": "Wed, 04 Nov 2026 14:05:19 -0500",
+    "source": "BleepingComputer",
+    "summary": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers&#x27; FTP/SFTP usernames and passwords. [...]",
+    "created_at": "2026-11-04T19:31:18.091361+00:00"
   }
 ]
