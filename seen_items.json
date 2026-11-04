@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/",
-    "title": "Microsoft: Windows KB5124010 update crashes some games and apps",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/",
-    "published": "Mon, 05 Oct 2026 05:37:56 -0400",
-    "source": "BleepingComputer",
-    "summary": "Microsoft confirmed over the weekend that some games and applications using AC-3 (Dolby Digital) audio decoding will crash after installing the September 2026 KB5124010 Windows 11 preview update. [...]",
-    "created_at": "2026-10-05T10:01:37.831005+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/",
     "title": "OpenAI will show visual ads in ChatGPT while you generate images",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/",
@@ -6802,5 +6793,32 @@
     "source": "The Hacker News",
     "summary": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure.\n\nAlso known as Fluffy Wolf, the threat actor has a history of targeting Russian and international companies sinc",
     "created_at": "2026-11-04T09:31:28.672274+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170282",
+    "title": "CISA Warns of WordPress Core Vulnerability Exploited in Attacks to Execute Malicious Code",
+    "link": "https://cybersecuritynews.com/wordpress-core-vulnerability-exploited/",
+    "published": "Wed, 04 Nov 2026 09:34:04 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency has warned that attackers are exploiting a WordPress Core vulnerability that can allow malicious code to run on website servers. CISA added the flaw to its Known Exploited Vulnerabilities cata",
+    "created_at": "2026-11-04T10:02:06.896788+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170273",
+    "title": "Ransomware Gangs Claim 30% More Victims, but Researchers Warn Some Breaches May Be Fake",
+    "link": "https://cybersecuritynews.com/ransomware-gangs/",
+    "published": "Wed, 04 Nov 2026 09:35:04 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The number of organizations named on ransomware leak sites rose 30% in the third quarter of 2026. Researchers say that does not mean attacks rose by the same amount. Most of the growth came from new, unproven groups, and some of their claims may be f",
+    "created_at": "2026-11-04T10:02:17.672515+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
+    "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
+    "published": "Wed, 04 Nov 2026 04:39:54 -0500",
+    "source": "BleepingComputer",
+    "summary": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
+    "created_at": "2026-11-04T10:02:29.486700+00:00"
   }
 ]
