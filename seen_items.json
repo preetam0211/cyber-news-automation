@@ -6856,5 +6856,23 @@
     "source": "CybersecurityNews",
     "summary": "A critical flaw in Ruby on Rails Active Storage lets an unauthenticated user upload a crafted image and make the server write files. If uploads use the Disk service, the same upload can make the server read files too. The Rails team rated the bug Cri",
     "created_at": "2026-11-04T17:32:25.041777+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
+    "title": "Cyberattack disrupts blood storage refrigeration systems in France",
+    "link": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
+    "published": "Wed, 04 Nov 2026 13:02:56 -0500",
+    "source": "BleepingComputer",
+    "summary": "France&#x27;s national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]",
+    "created_at": "2026-11-04T18:31:29.167566+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170419",
+    "title": "6 Challenges SOC Leaders Should Turn into Priorities in 2027",
+    "link": "https://cybersecuritynews.com/6-challenges-soc-leaders-should-turn-into-priorities-in-2027/",
+    "published": "Wed, 04 Nov 2026 18:07:24 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Security teams face mounting pressure to keep pace with increasingly complex threats while working within tight budgets and persistent staffing constraints. As attack techniques evolve and alert volumes rise, maintaining effective detection and inves",
+    "created_at": "2026-11-04T18:31:53.985681+00:00"
   }
 ]
