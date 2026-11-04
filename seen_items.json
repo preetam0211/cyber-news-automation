@@ -6802,5 +6802,14 @@
     "source": "BleepingComputer",
     "summary": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]",
     "created_at": "2026-11-03T22:31:09.152056+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170251",
+    "title": "Hackers Hijacked French Blood Plasma Freezers, Changing Temperature Settings From −30°C to 110°C",
+    "link": "https://cybersecuritynews.com/french-blood-plasma-freezers-hacked/",
+    "published": "Wed, 04 Nov 2026 02:35:39 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers reportedly changed temperature settings on refrigeration equipment used by the French Blood Establishment, EFS, from around −30°C to 110°C after targeting its cooling service provider, Coolworld. The incident occurred overnight between Novemb",
+    "created_at": "2026-11-04T03:01:16.407564+00:00"
   }
 ]
