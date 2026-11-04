@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
-    "title": "South Korea probes bank breaches amid suspected AI-powered attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
-    "published": "Mon, 05 Oct 2026 10:22:12 -0400",
-    "source": "BleepingComputer",
-    "summary": "South Korea&#x27;s Financial Services Commission (FSC) held an emergency meeting following a series of cyberattacks targeting financial institutions in the country. [...]",
-    "created_at": "2026-10-05T14:30:56.418927+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=165792",
     "title": "Zammad Zero-Day Chain Lets AI Agent Hijack Sessions, Execute Code and Escalate to Root",
     "link": "https://cybersecuritynews.com/zammad-zero-day/",
@@ -6847,5 +6838,14 @@
     "source": "CybersecurityNews",
     "summary": "Reinach, Switzerland, November 4th, 2026, CyberNewswire AI agents help Joe Sandbox uncover malicious behavior concealed by evasion techniques and unmet execution conditions. Joe Security‘s Adaptive Detonation brings active intervention to malware ana",
     "created_at": "2026-11-04T14:02:23.165957+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170397",
+    "title": "Gorbag Hackers Exploit WinRAR Vulnerability to Steal Credentials From Ukrainian Government Agencies",
+    "link": "https://cybersecuritynews.com/gorbag-hackers-exploit-winrar-vulnerability/",
+    "published": "Wed, 04 Nov 2026 14:09:36 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Russia-aligned hackers tracked as Gorbag are exploiting a WinRAR vulnerability to steal browser credentials, VPN configurations, and sensitive documents from Ukrainian organizations. Active since at least February 2025, the group targets government a",
+    "created_at": "2026-11-04T14:31:18.284284+00:00"
   }
 ]
