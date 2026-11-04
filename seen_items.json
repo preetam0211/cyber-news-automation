@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=165692",
-    "title": "CISA Warns of Zammad DIVD Vulnerabilities Actively Exploited in Attacks",
-    "link": "https://cybersecuritynews.com/zammad-divd-vulnerabilities-exploited/",
-    "published": "Mon, 05 Oct 2026 08:32:23 +0000",
-    "source": "CybersecurityNews",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency has added two Zammad vulnerabilities to its Known Exploited Vulnerabilities catalog after reports that attackers are actively exploiting at least one flaw. The issues, tracked as CVE-2026-1024",
-    "created_at": "2026-10-05T09:01:24.057304+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165701",
-    "title": "CISA Adds Fortinet FortiMail 0-day Vulnerability to KEV Following Active Exploitation",
-    "link": "https://cybersecuritynews.com/fortinet-fortimail-0-day-vulnerability-exploitation/",
-    "published": "Mon, 05 Oct 2026 08:34:02 +0000",
-    "source": "CybersecurityNews",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency has added a critical Fortinet FortiMail vulnerability (CVE-2026-104286) , to its Known Exploited Vulnerabilities catalog after evidence of active exploitation. The flaw affects Fortinet FortiM",
-    "created_at": "2026-10-05T09:01:33.796955+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165730",
-    "title": "Google’s AI Hacker Finds 500+ XSS Flaws and Builds Working Exploit Chains",
-    "link": "https://cybersecuritynews.com/googles-ai-hacker/",
-    "published": "Mon, 05 Oct 2026 08:42:40 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Google has revealed an internal AI security agent that found more than 500 verified cross-site scripting, or XSS, flaws across its own web applications. The system, called PageBreak, searches for weaknesses that could let an attacker run unwanted cod",
-    "created_at": "2026-10-05T09:01:48.740430+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
-    "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
-    "link": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
-    "published": "Mon, 05 Oct 2026 13:39:23 +0530",
-    "source": "The Hacker News",
-    "summary": "A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing active exploitation attempts, according to VulnCheck.\n\nThe vulnerability in question is CVE-2026-61500 (CVSS score: 9.3), a case of session forgery stemming from the use ",
-    "created_at": "2026-10-05T09:31:11.425996+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/",
     "title": "Microsoft: Windows KB5124010 update crashes some games and apps",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/",
@@ -6820,5 +6784,23 @@
     "source": "CybersecurityNews",
     "summary": "Every SOC believes its controls work; BAS is the machine that checks. By safely running real attacker techniques against production defenses continuously, not annually these platforms convert “we should be covered” into pass/fail evidence per techniq",
     "created_at": "2026-11-04T08:32:46.370345+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
+    "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
+    "link": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
+    "published": "Wed, 04 Nov 2026 13:16:15 +0530",
+    "source": "The Hacker News",
+    "summary": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin.\n\nThe flaw, CVE-2026-58868, affects Android 14 through 17. Phones get the fix with security patch l",
+    "created_at": "2026-11-04T09:31:16.204465+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
+    "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
+    "link": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
+    "published": "Wed, 04 Nov 2026 13:47:11 +0530",
+    "source": "The Hacker News",
+    "summary": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure.\n\nAlso known as Fluffy Wolf, the threat actor has a history of targeting Russian and international companies sinc",
+    "created_at": "2026-11-04T09:31:28.672274+00:00"
   }
 ]
