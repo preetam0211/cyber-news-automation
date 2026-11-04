@@ -6811,5 +6811,14 @@
     "source": "CybersecurityNews",
     "summary": "Hackers reportedly changed temperature settings on refrigeration equipment used by the French Blood Establishment, EFS, from around −30°C to 110°C after targeting its cooling service provider, Coolworld. The incident occurred overnight between Novemb",
     "created_at": "2026-11-04T03:01:16.407564+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170258",
+    "title": "Hackers Launch LLMHijacking Attacks, Leaving Companies With $1 Million in Cloud Bills",
+    "link": "https://cybersecuritynews.com/llmhijacking-attacks/",
+    "published": "Wed, 04 Nov 2026 04:44:53 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are stealing access to corporate large language models and reselling it, leaving victims with cloud bills reaching $1 million. Mandiant investigated multiple incidents during 2026 where unauthorized AI use generated more than $100,000 in char",
+    "created_at": "2026-11-04T05:01:11.148462+00:00"
   }
 ]
