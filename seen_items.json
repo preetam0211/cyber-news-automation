@@ -6811,5 +6811,14 @@
     "source": "BleepingComputer",
     "summary": "A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation CloudFire tracked the attacks, blocked malicious messag",
     "created_at": "2026-11-04T15:31:34.473736+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
+    "title": "mSecure password manager hack prompts password reset warnings",
+    "link": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
+    "published": "Wed, 04 Nov 2026 11:00:18 -0500",
+    "source": "BleepingComputer",
+    "summary": "mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]",
+    "created_at": "2026-11-04T16:01:24.289157+00:00"
   }
 ]
