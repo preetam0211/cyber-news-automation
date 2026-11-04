@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
-    "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
-    "link": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
-    "published": "Mon, 05 Oct 2026 16:08:50 +0530",
-    "source": "The Hacker News",
-    "summary": "Apple has announced that it&#x27;s taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial intelligence (AI) agents.\n\n&quot;Some developers are using Full Disk Access in ways tha",
-    "created_at": "2026-10-05T11:31:09.985187+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165760",
-    "title": "Windows 11 KB5124010 Update Crashes Productivity Apps, Games and Media Players",
-    "link": "https://cybersecuritynews.com/windows-11-kb5124010-update-crash/",
-    "published": "Mon, 05 Oct 2026 11:16:57 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Microsoft has confirmed a Windows 11 audio decoding bug that can cause some productivity apps, games, and media players to close without warning. The issue follows installation of KB5124010, released on September 22, 2026, or later Windows updates, a",
-    "created_at": "2026-10-05T12:01:12.508018+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165740",
-    "title": "Hackers Abuse Legitimate ScreenConnect Tool to Gain Remote Access Through Phishing",
-    "link": "https://cybersecuritynews.com/screenconnect-tool/",
-    "published": "Mon, 05 Oct 2026 11:27:36 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Hackers are using a legitimate ScreenConnect client to turn a payment notification into a route for remote access. Instead of delivering custom malware, the phishing attempt directs recipients to software already designed to let someone else connect ",
-    "created_at": "2026-10-05T12:01:13.571389+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165743",
-    "title": "Google Pauses Open-Source Bug Bounty Program After Flood of Invalid AI-Generated Reports",
-    "link": "https://cybersecuritynews.com/google-pauses-open-source-bug-bounty-program/",
-    "published": "Mon, 05 Oct 2026 11:44:27 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Google has temporarily stopped accepting new product vulnerability reports through its Open Source Software Vulnerability Reward Program(OSS VRP) following a major increase in automated submissions that were mostly invalid. The change took effect on ",
-    "created_at": "2026-10-05T12:01:14.927468+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=165779",
     "title": "Apple Tightens macOS Full Disk Access as AI Agents Become More Powerful",
     "link": "https://cybersecuritynews.com/apple-tightens-macos-full-disk-access/",
@@ -6820,5 +6784,50 @@
     "source": "CybersecurityNews",
     "summary": "A new XLoader malware campaign is landing in inboxes as ordinary business orders and price quote requests. The emails look routine, but the attached archive holds a script that starts a chain of hidden steps. The chain ends with the XLoader password ",
     "created_at": "2026-11-04T10:34:14.357181+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170313",
+    "title": "Cloudflare Launches Zero Wire to Track Critical CVEs, Active Exploits, and Security Fixes",
+    "link": "https://cybersecuritynews.com/cloudflare-launches-zero-wire/",
+    "published": "Wed, 04 Nov 2026 11:10:14 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cloudflare has launched Zero Wire, a public vulnerability intelligence feed designed to help security teams track critical CVEs, understand exploitation activity, and find security fixes. Announced on November 3, 2026, the service sits within Cloudfl",
+    "created_at": "2026-11-04T12:01:13.410646+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170322",
+    "title": "Russian APT29 Hackers Turn Trusted Websites Into Traps to Compromise iPhone and Android Users",
+    "link": "https://cybersecuritynews.com/russian-apt29-hackers/",
+    "published": "Wed, 04 Nov 2026 11:23:49 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A Russian state-linked hacking group is using trusted websites to quietly break into phones. Researchers say APT29, also known as Midnight Blizzard or Cozy Bear, planted hidden code on real and cloned sites in the US, Ukraine, the Czech Republic and ",
+    "created_at": "2026-11-04T12:01:19.673179+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170335",
+    "title": "Google Releases Major Chrome Security Update Fixing 213 Bugs, Including 7 Critical Vulnerabilities",
+    "link": "https://cybersecuritynews.com/google-releases-major-chrome-security-update/",
+    "published": "Wed, 04 Nov 2026 11:27:04 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Google has released Chrome 157 for Windows, macOS, and Linux, fixing 213 security bugs, including seven rated critical. Announced on November 3, 2026, the update addresses flaws across graphics, memory handling, browser features, and access controls.",
+    "created_at": "2026-11-04T12:01:29.945735+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170333",
+    "title": "Microsoft Edge Now Automatically Blocks Malicious Websites Sending Fake Virus Alert Notifications",
+    "link": "https://cybersecuritynews.com/microsoft-edge/",
+    "published": "Wed, 04 Nov 2026 11:38:00 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft Edge now automatically disables notifications from websites that send users to detected scam pages, cutting off a route used to deliver fake virus warnings. The protection connects Microsoft Defender SmartScreen and Scareware blocker detect",
+    "created_at": "2026-11-04T12:01:55.230303+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170355",
+    "title": "Hackers Exploit Zyxel GS1900 Zero-Day in the Wild to Hijack Network Switches",
+    "link": "https://cybersecuritynews.com/zyxel-gs1900-zero-day-exploited/",
+    "published": "Wed, 04 Nov 2026 11:57:24 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A flaw in Zyxel GS1900 switches was already being used by hackers, and the patch meant to fix it did not work. Researchers at Binarly found that a public exploit hit a different bug than the one Zyxel had patched. Zyxel has now confirmed it as a new ",
+    "created_at": "2026-11-04T12:02:38.498679+00:00"
   }
 ]
