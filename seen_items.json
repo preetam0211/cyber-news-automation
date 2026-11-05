@@ -6874,5 +6874,23 @@
     "source": "CybersecurityNews",
     "summary": "A hacker’s own mistake has given researchers a rare look at how AI tools were used to break into South Korean financial firms. The operator left several servers open to the public, and the exposed files showed which AI models, scripts and proxies pow",
     "created_at": "2026-11-05T13:31:13.770585+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
+    "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
+    "link": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
+    "published": "Thu, 05 Nov 2026 17:55:00 +0530",
+    "source": "The Hacker News",
+    "summary": "A critical finding can move through several security tools and still leave the organization exposed. \n\nThe vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information the finding may lack: who owns the",
+    "created_at": "2026-11-05T14:01:11.289281+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170537",
+    "title": "Researchers Discover White House Network IP Available for Rent Through 28 Proxy Services",
+    "link": "https://cybersecuritynews.com/white-house-network-ip-for-rent/",
+    "published": "Thu, 05 Nov 2026 13:31:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Researchers at Layer3 Intel found that 28 residential proxy services rent addresses on the White House network. Anyone with a few dollars could send web traffic through them. The activity ran from October 5 to November 3, 2026. The team spotted the a",
+    "created_at": "2026-11-05T14:01:23.077104+00:00"
   }
 ]
