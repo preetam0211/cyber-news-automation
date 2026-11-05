@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
-    "title": "Nikkei discloses breaches of employees’ Microsoft, Google email accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
-    "published": "Tue, 06 Oct 2026 05:25:50 -0400",
-    "source": "BleepingComputer",
-    "summary": "Over the weekend, Japanese publishing giant Nikkei disclosed that unknown attackers recently breached two employee email accounts and used one to send thousands of phishing emails. [...]",
-    "created_at": "2026-10-06T09:31:02.716188+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=165861",
     "title": "Atlassian Patches Critical Vulnerabilities in Jira, Confluence, Bitbucket, and Five More Products",
     "link": "https://cybersecuritynews.com/atlassian-patches-critical-vulnerabilities/",
@@ -6946,5 +6937,14 @@
     "source": "CybersecurityNews",
     "summary": "A single operator in Taiwan built a team of 12 AI agents and used it to attack hundreds of organizations in 11 countries. The campaign hit emergency services, banks, universities, and military systems. It led to confirmed theft of medical data and pe",
     "created_at": "2026-11-05T09:01:21.642285+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
+    "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
+    "link": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
+    "published": "Thu, 05 Nov 2026 04:18:29 -0500",
+    "source": "BleepingComputer",
+    "summary": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
+    "created_at": "2026-11-05T09:31:17.806711+00:00"
   }
 ]
