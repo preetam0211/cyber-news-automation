@@ -6928,5 +6928,23 @@
     "source": "The Hacker News",
     "summary": "Zyxel GS1900 network switches that received the vendor&#x27;s earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found.\n\nThe exploit lets anyone who can reach a switch&#x27;s web management",
     "created_at": "2026-11-05T08:31:10.011513+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170480",
+    "title": "Hackers Trick Mac Users Into Running Terminal Commands That Install Phexia Password-Stealing Malware",
+    "link": "https://cybersecuritynews.com/hackers-trick-mac-users/",
+    "published": "Thu, 05 Nov 2026 08:31:45 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A macOS malware family called Phexia is spreading through fake web pages that talk Mac users into pasting a command into Terminal. Once the command runs, the malware quietly settles on the Mac, steals the login password, and copies browser data, keyc",
+    "created_at": "2026-11-05T09:01:10.210349+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170492",
+    "title": "One Hacker Uses 12 AI Agents to Breach Taiwan’s Emergency Services and Steal Sensitive Data",
+    "link": "https://cybersecuritynews.com/one-hacker-uses-12-ai-agents/",
+    "published": "Thu, 05 Nov 2026 08:56:26 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A single operator in Taiwan built a team of 12 AI agents and used it to attack hundreds of organizations in 11 countries. The campaign hit emergency services, banks, universities, and military systems. It led to confirmed theft of medical data and pe",
+    "created_at": "2026-11-05T09:01:21.642285+00:00"
   }
 ]
