@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
-    "title": "Engineer sentenced for locking over 3,000 devices on employer network",
-    "link": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
-    "published": "Tue, 06 Oct 2026 04:19:24 -0400",
-    "source": "BleepingComputer",
-    "summary": "A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands of devices on his employer&#x27;s network in a ransomware-style attack. [...]",
-    "created_at": "2026-10-06T08:30:58.581501+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
     "title": "Nikkei discloses breaches of employees’ Microsoft, Google email accounts",
     "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
@@ -6928,5 +6919,14 @@
     "source": "CybersecurityNews",
     "summary": "Hackers are impersonating the Israel Tax Authority through phishing emails, fake government websites, and CAPTCHA-style checks to trick employees into running SimpleHelp remote access software. The campaign targets Israeli organizations and turns an ",
     "created_at": "2026-11-05T08:01:14.260315+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
+    "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
+    "link": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
+    "published": "Thu, 05 Nov 2026 12:36:33 +0530",
+    "source": "The Hacker News",
+    "summary": "Zyxel GS1900 network switches that received the vendor&#x27;s earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found.\n\nThe exploit lets anyone who can reach a switch&#x27;s web management",
+    "created_at": "2026-11-05T08:31:10.011513+00:00"
   }
 ]
