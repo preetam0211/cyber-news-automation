@@ -6910,5 +6910,32 @@
     "source": "The Hacker News",
     "summary": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3.\n\nThe change specifically applies to scenarios where users share iCloud content, such as pho",
     "created_at": "2026-11-05T10:01:22.771055+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
+    "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
+    "link": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
+    "published": "Thu, 05 Nov 2026 15:36:19 +0530",
+    "source": "The Hacker News",
+    "summary": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise the stakes beyond in",
+    "created_at": "2026-11-05T11:01:19.818471+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170506",
+    "title": "Tata Motors iRA App Flaws Could Let Hackers Impersonate Car Owners and Access Vehicle Services",
+    "link": "https://cybersecuritynews.com/tata-motors-ira-app-flaws/",
+    "published": "Thu, 05 Nov 2026 10:41:33 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Tata Motors’ iRA 2.0 and iRA.ev mobile apps contain four security flaws that could let attackers steal credentials, impersonate car owners, and access vehicle services. India’s Computer Emergency Response Team, CERT-In, rated the issues as High sever",
+    "created_at": "2026-11-05T11:01:35.030958+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170497",
+    "title": "Hackers Hide Marsalek Malware in Fake Roblox and Fortnite Cheats to Steal Passwords and Crypto Wallet Data",
+    "link": "https://cybersecuritynews.com/hackers-hide-marsalek-malware/",
+    "published": "Thu, 05 Nov 2026 10:59:30 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are hiding a free information stealer called Marsalek inside fake cheats and tools for games such as Roblox, Fortnite, and Counter-Strike 2. The files look like helpful game add-ons. In the background they steal saved passwords, browser cooki",
+    "created_at": "2026-11-05T11:01:41.864514+00:00"
   }
 ]
