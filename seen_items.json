@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
-    "title": "ASOS confirms data breach after “HACKED” in-app notifications",
-    "link": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
-    "published": "Tue, 06 Oct 2026 12:33:54 -0400",
-    "source": "BleepingComputer",
-    "summary": "UK fashion retailer ASOS confirmed a data breach Tuesday after hackers sent unauthorized push notifications through its mobile app while claiming to have stolen customer data from the company&#x27;s Snowflake environment. [...]",
-    "created_at": "2026-10-06T17:01:03.234573+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
     "title": "Atlassian warns of critical file-access flaw in Jira, Confluence",
     "link": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
@@ -6856,5 +6847,14 @@
     "source": "BleepingComputer",
     "summary": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
     "created_at": "2026-11-05T16:31:32.711974+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170594",
+    "title": "OpenMatter Network Positions Decentralized Computing as an Alternative to Data Centers for AI",
+    "link": "https://cybersecuritynews.com/openmatter-network-positions-decentralized-computing-as-an-alternative-to-data-centers-for-ai/",
+    "published": "Thu, 05 Nov 2026 16:56:19 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Melbourne, Florida, November 5th, 2026, CyberNewswire OpenMatter Network, a pioneer in decentralized infrastructure for agentic artificial intelligence, is positioning its decentralized computing platform as an alternative to massive, centralized dat",
+    "created_at": "2026-11-05T17:01:26.570399+00:00"
   }
 ]
