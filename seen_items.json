@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
-    "title": "Atlassian warns of critical file-access flaw in Jira, Confluence",
-    "link": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
-    "published": "Tue, 06 Oct 2026 13:34:59 -0400",
-    "source": "BleepingComputer",
-    "summary": "Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple self-hosted Data Center products, including Confluence, Jira, and Bitbucket. [...]",
-    "created_at": "2026-10-06T18:01:05.264207+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
     "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
@@ -6856,5 +6847,14 @@
     "source": "CybersecurityNews",
     "summary": "Melbourne, Florida, November 5th, 2026, CyberNewswire OpenMatter Network, a pioneer in decentralized infrastructure for agentic artificial intelligence, is positioning its decentralized computing platform as an alternative to massive, centralized dat",
     "created_at": "2026-11-05T17:01:26.570399+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
+    "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
+    "published": "Thu, 05 Nov 2026 12:45:29 -0500",
+    "source": "BleepingComputer",
+    "summary": "A newly disclosed OpenSSH vulnerability dubbed &quot;*sshole&quot; allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password. ",
+    "created_at": "2026-11-05T18:01:14.681686+00:00"
   }
 ]
