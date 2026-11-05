@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html",
-    "title": "FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach",
-    "link": "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html",
-    "published": "Tue, 06 Oct 2026 12:26:57 +0530",
-    "source": "The Hacker News",
-    "summary": "The U.S. Federal Bureau of Investigation (FBI) has removed an Accenture contractor for their alleged role in a ShinyHunters-breach that led to the theft of personal details of thousands of bureau employees.\n\nThat&#x27;s according to a report from Reu",
-    "created_at": "2026-10-06T07:31:17.701535+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
-    "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
-    "link": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
-    "published": "Tue, 06 Oct 2026 12:28:56 +0530",
-    "source": "The Hacker News",
-    "summary": "A critical flaw in 8 Atlassian Data Center products, which customers host themselves, allows an attacker with no login access to read specific files in each product&#x27;s web application root directory.\n\nThe attacker must already know a file&#x27;s ",
-    "created_at": "2026-10-06T07:31:50.518703+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=165707",
     "title": "Top 10 Best Just-in-Time (JIT) Access Tools in 2026 [Ranked & Scored]",
     "link": "https://cybersecuritynews.com/best-jit-access-tools/",
@@ -6910,5 +6892,50 @@
     "source": "CybersecurityNews",
     "summary": "DigiCert has confirmed a data breach involving an internal business system that stored customer contact details and identity documents. Unauthorized access exposed archived information, including names, business email addresses, phone numbers, and bu",
     "created_at": "2026-11-05T06:31:19.852978+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170243",
+    "title": "Top 10 Best Threat Hunting Services in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-threat-hunting-services/",
+    "published": "Thu, 05 Nov 2026 07:02:34 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Detection engineering catches what you anticipated; threat hunting catches what you didn’t. The craft is hypothesis-driven “if an actor used this tradecraft here, what residue would exist?” and the services market sells it in two shapes: platform-nat",
+    "created_at": "2026-11-05T07:31:09.279939+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170315",
+    "title": "Top 10 Best Security Log Management Tools in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-security-log-management/",
+    "published": "Thu, 05 Nov 2026 07:14:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Security logging has become a commodities market with three prices: the cost to move a log, to store it, and to ask it a question. The 2026 winners optimize different legs pipeline brokers slashing transit volume, hot-architecture engines making ever",
+    "created_at": "2026-11-05T07:31:20.860841+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170473",
+    "title": "Apple to Scan for Every Photo and File Shared Through a Public iCloud Link for Harmful Content",
+    "link": "https://cybersecuritynews.com/apple-to-scan-for-every-photo-and-file/",
+    "published": "Thu, 05 Nov 2026 07:18:40 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Apple will begin checking photos and files shared through public iCloud links for harmful content with version 27.3 or later of iOS, iPadOS, macOS, and visionOS. The policy covers items shared using “Anyone with the Link,” including photos stored in ",
+    "created_at": "2026-11-05T07:31:33.162752+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170372",
+    "title": "Top 10 Best Security Data Lake Platforms in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/top-10-best-security-data-lake-platforms-in-2026-ranked-scored/",
+    "published": "Thu, 05 Nov 2026 07:19:17 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The security data lake movement is a jailbreak: telemetry escaping SIEM-priced storage into open formats on cheap object storage, with detection and query engines brought to the data. The 2026 field mixes general data clouds hosting security workload",
+    "created_at": "2026-11-05T07:31:45.187713+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170474",
+    "title": "Critical Citrix XenServer Vulnerability Could Let Hackers Take Over Virtualization Hosts Without Authentication",
+    "link": "https://cybersecuritynews.com/critical-citrix-xenserver-vulnerability/",
+    "published": "Thu, 05 Nov 2026 07:24:28 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Citrix has disclosed a critical XenServer vulnerability that could let an unauthenticated attacker compromise virtualization hosts and supporting appliances. Tracked as CVE-2026-98432, the flaw requires access to the management network, an important ",
+    "created_at": "2026-11-05T07:31:56.685635+00:00"
   }
 ]
