@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=165856",
-    "title": "Hacker Group Claims to Have Stolen Trump Mobile Customers’ Personal Data",
-    "link": "https://cybersecuritynews.com/trump-mobile-data-breach/",
-    "published": "Tue, 06 Oct 2026 02:41:18 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Trump Mobile customers’ personal data has appeared on a dark web leak site after a ransomware group called BYOD claimed it breached the company. The published file reportedly contains 3,615 records, including names, email addresses, phone numbers, ho",
-    "created_at": "2026-10-06T03:01:07.033845+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
     "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits",
     "link": "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
@@ -6892,5 +6883,23 @@
     "source": "BleepingComputer",
     "summary": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
     "created_at": "2026-11-04T22:01:16.641485+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170461",
+    "title": "OpenAI Cyber Model Uncovers 948 Linux Kernel Privilege Escalation Vulnerabilities",
+    "link": "https://cybersecuritynews.com/openai-uncovers-948-linux-kernel-vulnerabilities/",
+    "published": "Thu, 05 Nov 2026 02:42:57 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OpenAI says an automated research pipeline found and proved 948 separate Linux kernel privilege escalation flaws in one run. These bugs could let a normal local user gain root access. The run took place in mid-October 2026 and used an upcoming cyber ",
+    "created_at": "2026-11-05T03:01:27.121309+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170464",
+    "title": "DreamHost Confirms Data Breach – Hackers Stole Customer Credentials and Accessed Emails",
+    "link": "https://cybersecuritynews.com/dreamhost-confirms-data-breach/",
+    "published": "Thu, 05 Nov 2026 03:00:40 +0000",
+    "source": "CybersecurityNews",
+    "summary": "DreamHost has confirmed a breach that exposed customer login details after hackers exploited its web-based File Manager. The hosting provider said attackers obtained FTP/SFTP usernames and passwords, along with some webmail credentials. In a small nu",
+    "created_at": "2026-11-05T03:01:35.747788+00:00"
   }
 ]
