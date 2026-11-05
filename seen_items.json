@@ -1,50 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=165861",
-    "title": "Atlassian Patches Critical Vulnerabilities in Jira, Confluence, Bitbucket, and Five More Products",
-    "link": "https://cybersecuritynews.com/atlassian-patches-critical-vulnerabilities/",
-    "published": "Tue, 06 Oct 2026 08:18:05 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Atlassian has disclosed a critical arbitrary file access vulnerability affecting eight products, including Jira, Confluence, and Bitbucket. Tracked as CVE-2026-21589, the flaw has a CVSS score of 9.3. It lets unauthenticated attackers access specific",
-    "created_at": "2026-10-06T10:01:09.408121+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165874",
-    "title": "Google Adds 6 Advanced Protection Features to Android 17 Against Sophisticated Attacks",
-    "link": "https://cybersecuritynews.com/google-adds-6-advanced-protection-features/",
-    "published": "Tue, 06 Oct 2026 08:38:14 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Google has detailed six Advanced Protection enhancements for Android 17, targeting sophisticated attacks, scams and unauthorized access. Announced on October 1, 2026, the changes combine stronger restrictions with tools that preserve evidence when so",
-    "created_at": "2026-10-06T10:01:12.578814+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165897",
-    "title": "FBI Removes Accenture Contractor After Unpatched PeopleSoft Flaw Exposes Thousands of Employees",
-    "link": "https://cybersecuritynews.com/fbi-removes-accenture-contractor/",
-    "published": "Tue, 06 Oct 2026 09:07:34 +0000",
-    "source": "CybersecurityNews",
-    "summary": "The FBI removed an Accenture contractor on October 5, 2026, after a missed security patch led to a data breach exposing sensitive personal details of thousands of employees. According to Reuters, two sources identified Oracle’s PeopleSoft human resou",
-    "created_at": "2026-10-06T10:01:16.026204+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165859",
-    "title": "ClingSTUN Backdoor Exploits Multiple IoT Vulnerabilities to Gain Persistent Remote Access",
-    "link": "https://cybersecuritynews.com/clingstun-backdoor/",
-    "published": "Tue, 06 Oct 2026 09:07:52 +0000",
-    "source": "CybersecurityNews",
-    "summary": "ClingSTUN is a Linux backdoor that exploits vulnerable internet-connected devices to give attackers lasting remote access. Rather than simply infecting routers and cameras, it turns compromised equipment into remotely controlled proxy nodes that can ",
-    "created_at": "2026-10-06T10:01:18.004841+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html",
-    "title": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports",
-    "link": "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html",
-    "published": "Tue, 06 Oct 2026 14:51:47 +0530",
-    "source": "The Hacker News",
-    "summary": "Google has stopped accepting product vulnerability reports through its bug bounty program for its open-source software.\n\nThe change, in effect since October 1, means researchers can no longer submit security flaws in the code of projects such as Go, ",
-    "created_at": "2026-10-06T10:01:20.139917+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=165924",
     "title": "Meta and Microsoft are Actively Cutting Employee Use of Claude AI",
     "link": "https://cybersecuritynews.com/meta-microsoft-claude-ai/",
@@ -6946,5 +6901,23 @@
     "source": "BleepingComputer",
     "summary": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
     "created_at": "2026-11-05T09:31:17.806711+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
+    "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
+    "link": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
+    "published": "Thu, 05 Nov 2026 14:12:03 +0530",
+    "source": "The Hacker News",
+    "summary": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in t",
+    "created_at": "2026-11-05T10:01:16.521830+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
+    "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
+    "link": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
+    "published": "Thu, 05 Nov 2026 14:43:28 +0530",
+    "source": "The Hacker News",
+    "summary": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3.\n\nThe change specifically applies to scenarios where users share iCloud content, such as pho",
+    "created_at": "2026-11-05T10:01:22.771055+00:00"
   }
 ]
