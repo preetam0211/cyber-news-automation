@@ -6865,5 +6865,23 @@
     "source": "CybersecurityNews",
     "summary": "HYFLOCK ransomware has an encryption weakness that leaves parts of larger files readable, giving affected organizations a limited chance to recover data without paying attackers. In the October 17 build, the malware encrypted only the first 4,096 byt",
     "created_at": "2026-11-05T14:31:25.285160+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170581",
+    "title": "OpenSSH Flaw Could Let Attackers Bypass Password Authentication on Alpine Linux Servers",
+    "link": "https://cybersecuritynews.com/openssh-flaw-bypass-password-authentication/",
+    "published": "Thu, 05 Nov 2026 14:58:40 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical OpenSSH password authentication bypass could let remote attackers access affected Alpine Linux servers without knowing a password. Portable OpenSSH 10.6p2, released on November 5, 2026, adds a workaround for the flaw, which affects certain",
+    "created_at": "2026-11-05T15:01:31.141679+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170538",
+    "title": "Hackers Turn Popular Chinese Keyboard Software Into a Backdoor for Cyberespionage Attacks",
+    "link": "https://cybersecuritynews.com/chinese-keyboard-software/",
+    "published": "Thu, 05 Nov 2026 14:59:57 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A China-aligned hacking group is abusing Sogou Input Method, one of the most popular Chinese typing tools, to secretly install a backdoor called DarkVigil on Windows computers. The group is tracked as SlippyNunchucks. Since July 1, 2026, it has used ",
+    "created_at": "2026-11-05T15:01:39.258031+00:00"
   }
 ]
