@@ -6910,5 +6910,23 @@
     "source": "The Hacker News",
     "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs.\n\n&quot;Our prototype ident",
     "created_at": "2026-11-05T05:31:10.020844+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+    "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+    "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+    "published": "Thu, 05 Nov 2026 10:47:04 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitat",
+    "created_at": "2026-11-05T06:31:12.931775+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170468",
+    "title": "DigiCert Confirms Data Breach Exposing Customer Details and Sensitive Identity Documents",
+    "link": "https://cybersecuritynews.com/digicert-confirms-data-breach/",
+    "published": "Thu, 05 Nov 2026 06:21:35 +0000",
+    "source": "CybersecurityNews",
+    "summary": "DigiCert has confirmed a data breach involving an internal business system that stored customer contact details and identity documents. Unauthorized access exposed archived information, including names, business email addresses, phone numbers, and bu",
+    "created_at": "2026-11-05T06:31:19.852978+00:00"
   }
 ]
