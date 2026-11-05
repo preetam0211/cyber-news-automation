@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=165918",
-    "title": "Midnight Blizzard Abuses Hotel Wi-Fi Captive Portals to Deliver Malware and Steal Credentials",
-    "link": "https://cybersecuritynews.com/midnight-blizzard/",
-    "published": "Tue, 06 Oct 2026 10:52:45 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Travelers connecting to hotel Wi-Fi may now face more than an unreliable internet signal. A campaign linked to Midnight Blizzard has turned captive portals, the sign-in pages shown before online access, into a route for malware, credential theft, and",
-    "created_at": "2026-10-06T11:31:15.274912+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
     "title": "Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers",
     "link": "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
