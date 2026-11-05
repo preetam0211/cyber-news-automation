@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
-    "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
-    "published": "Tue, 06 Oct 2026 15:21:53 -0400",
-    "source": "BleepingComputer",
-    "summary": "On the first day of the Pwn2Own Ireland 2026 competition, security researchers hacked the Samsung Galaxy S26 twice and earned $388,500 after exploiting 32 zero-days. [...]",
-    "created_at": "2026-10-06T19:30:59.272982+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
     "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan",
     "link": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
@@ -6856,5 +6847,14 @@
     "source": "BleepingComputer",
     "summary": "A newly disclosed OpenSSH vulnerability dubbed &quot;*sshole&quot; allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password. ",
     "created_at": "2026-11-05T18:01:14.681686+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
+    "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
+    "link": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
+    "published": "Thu, 05 Nov 2026 14:24:26 -0500",
+    "source": "BleepingComputer",
+    "summary": "OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]",
+    "created_at": "2026-11-05T19:31:32.786035+00:00"
   }
 ]
