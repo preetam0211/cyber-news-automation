@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
-    "title": "How to secure RMM software: 8 controls MSPs should test",
-    "link": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
-    "published": "Tue, 06 Oct 2026 10:00:10 -0400",
-    "source": "BleepingComputer",
-    "summary": "RMM platforms give MSPs privileged access across customer environments, making their security controls critical to limiting risk. Acronis outlines eight controls MSPs should test when evaluating RMM software, from patching and privileged access to re",
-    "created_at": "2026-10-06T14:31:09.928433+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165986",
-    "title": "Ransomware Hacker Uses AI Coding Assistant as Attack Channel Against Enterprise Networks",
-    "link": "https://cybersecuritynews.com/ransomware-hacker/",
-    "published": "Tue, 06 Oct 2026 14:09:29 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A ransomware affiliate has turned an AI coding assistant into a channel for running attacks inside enterprise networks. The operator, known as Azazel, combined stolen development credentials, remote command execution and data theft while working with",
-    "created_at": "2026-10-06T14:31:12.219749+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165970",
-    "title": "AppViewX Adds Shadow AI Visibility and a Runtime Kill Switch to Agent Identity Security",
-    "link": "https://cybersecuritynews.com/appviewx-adds-shadow-ai-visibility-and-a-runtime-kill-switch-to-agent-identity-security/",
-    "published": "Tue, 06 Oct 2026 14:12:11 +0000",
-    "source": "CybersecurityNews",
-    "summary": "New York, New York, October 6th, 2026, CyberNewswire Purpose-built for AI agents, new capabilities uncover shadow AI, stop rogue enterprise agents at runtime, and issue quantum-resilient agent identities  AppViewX, the leading identity security compa",
-    "created_at": "2026-10-06T14:31:14.364800+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165975",
-    "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
-    "link": "https://cybersecuritynews.com/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
-    "published": "Tue, 06 Oct 2026 14:14:27 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Torrance, Californina, October 6th, 2026, CyberNewswire Criminal IP by AI SPERA, a cyber threat intelligence platform delivering decision-ready intelligence and attack surface visibility to security teams worldwide, will participate in GovWare 2026 i",
-    "created_at": "2026-10-06T14:31:16.552615+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=166006",
     "title": "Iranian Hackers Use Fake Dubai Airports Coding Test to Target Iraqi Critical Infrastructure",
     "link": "https://cybersecuritynews.com/iranian-hackers/",
@@ -6892,5 +6856,14 @@
     "source": "CybersecurityNews",
     "summary": "Researchers at Layer3 Intel found that 28 residential proxy services rent addresses on the White House network. Anyone with a few dollars could send web traffic through them. The activity ran from October 5 to November 3, 2026. The team spotted the a",
     "created_at": "2026-11-05T14:01:23.077104+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170534",
+    "title": "HYFLOCK Ransomware Encrypts Only First 4KB of Larger Files, Leaves Parts of Victims’ Files Accessible",
+    "link": "https://cybersecuritynews.com/hyflock-ransomware/",
+    "published": "Thu, 05 Nov 2026 14:08:01 +0000",
+    "source": "CybersecurityNews",
+    "summary": "HYFLOCK ransomware has an encryption weakness that leaves parts of larger files readable, giving affected organizations a limited chance to recover data without paying attackers. In the October 17 build, the malware encrypted only the first 4,096 byt",
+    "created_at": "2026-11-05T14:31:25.285160+00:00"
   }
 ]
