@@ -6865,5 +6865,23 @@
     "source": "BleepingComputer",
     "summary": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. [...]",
     "created_at": "2026-11-05T21:31:33.071103+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+    "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+    "published": "Thu, 05 Nov 2026 19:56:44 -0500",
+    "source": "BleepingComputer",
+    "summary": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
+    "created_at": "2026-11-06T01:01:07.580627+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170615",
+    "title": "Critical Windows Paint Vulnerability Enables Remote Code Execution Attacks",
+    "link": "https://cybersecuritynews.com/windows-paint-rce-vulnerability/",
+    "published": "Fri, 06 Nov 2026 00:58:05 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has disclosed a Windows Paint vulnerability that could let an attacker run code remotely without signing in or requiring a user to click anything. Tracked as CVE-2026-83844, the flaw received a CVSS score of 8.1. Despite the headline’s word",
+    "created_at": "2026-11-06T01:01:19.633524+00:00"
   }
 ]
