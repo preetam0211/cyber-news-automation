@@ -6892,5 +6892,23 @@
     "source": "CybersecurityNews",
     "summary": "Deception inverts security’s worst ratio: instead of mining millions of events for one attacker, you plant assets only an attacker would touch and wait for the phone to ring. A tripped canary token or accessed decoy credential carries near-zero false",
     "created_at": "2026-11-06T07:01:12.685176+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
+    "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
+    "link": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
+    "published": "Fri, 06 Nov 2026 11:09:10 +0530",
+    "source": "The Hacker News",
+    "summary": "Two flaws in Barracuda&#x27;s Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required.\n\nThe company released patches on Monday, and the security firm watc",
+    "created_at": "2026-11-06T07:31:16.275384+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
+    "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
+    "link": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
+    "published": "Fri, 06 Nov 2026 11:28:54 +0530",
+    "source": "The Hacker News",
+    "summary": "A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin&#x27;s XLab said this week.\n\nThe backdoored web server executes commands that attackers send",
+    "created_at": "2026-11-06T07:31:22.534920+00:00"
   }
 ]
