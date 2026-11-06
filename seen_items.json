@@ -1,68 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
-    "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops.",
-    "link": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
-    "published": "Wed, 07 Oct 2026 17:12:24 +0530",
-    "source": "The Hacker News",
-    "summary": "If you’re evaluating an agentic pentesting solution right now, you’ve probably heard the same pitch more than once: point it at a target, and it discovers, validates, and exploits attack paths autonomously, the way a real attacker would.\n\nThat promis",
-    "created_at": "2026-10-07T12:31:07.942059+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
-    "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
-    "link": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
-    "published": "Wed, 07 Oct 2026 17:19:26 +0530",
-    "source": "The Hacker News",
-    "summary": "Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions.\n\nThe arbitrary file access flaw, tracked as CVE-2026-21589 (CVS",
-    "created_at": "2026-10-07T12:31:09.265457+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
-    "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
-    "link": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
-    "published": "Wed, 07 Oct 2026 17:26:56 +0530",
-    "source": "The Hacker News",
-    "summary": "The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls and secure socket layer (SSL)",
-    "created_at": "2026-10-07T12:31:10.148003+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
-    "title": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
-    "link": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
-    "published": "Wed, 07 Oct 2026 17:27:05 +0530",
-    "source": "The Hacker News",
-    "summary": "The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and board scrutiny are converging inside the systems where work actually happens.\n\nFor years, the enterp",
-    "created_at": "2026-10-07T12:31:12.267136+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=166130",
-    "title": "Hackers Steal Rockstar Source Code, 78.6 Million Records and Playable GTA VI Build",
-    "link": "https://cybersecuritynews.com/playable-gta-vi-build/",
-    "published": "Wed, 07 Oct 2026 12:04:11 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Rockstar Games has faced separate intrusions involving proprietary source code, 78.6 million business records, and what researchers describe as a playable GTA VI development build. The incidents span several years, rather than one attack that stole e",
-    "created_at": "2026-10-07T12:31:14.339261+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=166166",
-    "title": "Earth Sirrush Uses PNG Steganography and Malicious Notepad++ Plugins to Deploy Espionage Malware",
-    "link": "https://cybersecuritynews.com/earth-sirrush-uses-png/",
-    "published": "Wed, 07 Oct 2026 12:39:51 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Earth Sirrush is hiding espionage malware inside PNG images and malicious Notepad++ plugins to compromise Ukrainian organizations. The Russia-aligned group has targeted government agencies, defense organizations, border guards, and logistics operator",
-    "created_at": "2026-10-07T13:01:03.348127+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
-    "title": "Hackers exploit critical Atlassian flaw after public PoC release",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
-    "published": "Wed, 07 Oct 2026 08:49:01 -0400",
-    "source": "BleepingComputer",
-    "summary": "A critical vulnerability (CVE-2026-21589) affecting multiple Atlassian product families, including Jira, Confluence, and Bitbucket, is being exploited in attacks that do not require authentication. [...]",
-    "created_at": "2026-10-07T13:01:05.656316+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=166154",
     "title": "FortiBleed Attack Campaign Exploiting Fortinet Firewalls and VPNs – FBI Warns",
     "link": "https://cybersecuritynews.com/fortibleed-attack-campaign-exploiting/",
@@ -6811,5 +6748,41 @@
     "source": "CybersecurityNews",
     "summary": "A China-linked threat group tracked as Storm-2603 has used the SharePoint ToolShell flaws to plant a backdoor that never touches the disk. The group then tried to run Warlock ransomware on the same network. The break-in hit an on-premises SharePoint ",
     "created_at": "2026-11-06T12:01:24.817452+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
+    "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
+    "link": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
+    "published": "Fri, 06 Nov 2026 17:36:35 +0530",
+    "source": "The Hacker News",
+    "summary": "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person&#x27;s computer, researchers at Forever Security, an endpoint security company, showed in a test.\n\nThe attack needs Dispatch, a Claude feature that l",
+    "created_at": "2026-11-06T13:01:09.408282+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
+    "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
+    "link": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
+    "published": "Fri, 06 Nov 2026 17:36:43 +0530",
+    "source": "The Hacker News",
+    "summary": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates.\n\nThe fixed build, 11.2609.401.0, was the newest Paint build in all t",
+    "created_at": "2026-11-06T13:01:14.071007+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170661",
+    "title": "Hackers Use ARTEX AI to Find GitHub Secrets and Steal Azure Key Vault Data in Just 5 Minutes",
+    "link": "https://cybersecuritynews.com/hackers-use-artex-ai/",
+    "published": "Fri, 06 Nov 2026 12:08:58 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are using the ARTEX AI framework to find exposed credentials on GitHub and turn them into access to cloud systems. In one observed case, an AI agent moved from searching public repositories for application secrets to stealing data from Azure ",
+    "created_at": "2026-11-06T13:01:24.520744+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
+    "title": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
+    "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
+    "published": "Fri, 06 Nov 2026 07:37:22 -0500",
+    "source": "BleepingComputer",
+    "summary": "D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]",
+    "created_at": "2026-11-06T13:01:35.762288+00:00"
   }
 ]
