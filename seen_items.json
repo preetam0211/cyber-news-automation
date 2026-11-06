@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html",
-    "title": "100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer",
-    "link": "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html",
-    "published": "Wed, 07 Oct 2026 12:27:54 +0530",
-    "source": "The Hacker News",
-    "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has identified more than 100 compromised websites that have been injected with malicious JavaScript to serve an information-stealing malware called LunexStealer (aka Psychedelic Stealer).\n\nThe",
-    "created_at": "2026-10-07T08:01:42.885383+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=166090",
-    "title": "Hackers Hide Vasilek Backdoor Inside VMware Tools to Target Medical Organizations",
-    "link": "https://cybersecuritynews.com/hackers-hide-vasilek-backdoor/",
-    "published": "Wed, 07 Oct 2026 07:43:24 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Hackers concealed the Vasilek backdoor inside an existing VMware Tools installation during a prolonged intrusion at a medical organization. The attackers maintained access for approximately two years, exposing sensitive medical information while leav",
-    "created_at": "2026-10-07T08:01:50.412308+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165860",
-    "title": "Top 10 Best DAST Tools in 2026 [Ranked & Scored]",
-    "link": "https://cybersecuritynews.com/best-dast-tools/",
-    "published": "Wed, 07 Oct 2026 07:57:07 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A scanner that can’t authenticate, crawl a SPA, or read an API schema is testing your login page and calling it coverage. We scored ten DAST options with modern-stack capability as the qualifying bar. Evaluating the market alongside the Top 10 Best D",
-    "created_at": "2026-10-07T08:01:56.994697+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=166081",
     "title": "Veeam Backup and Replication Vulnerability Allow Attackers to Execute Malicious Script",
     "link": "https://cybersecuritynews.com/veeam-backup-and-replication-vulnerability/",
@@ -6910,5 +6883,14 @@
     "source": "The Hacker News",
     "summary": "A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin&#x27;s XLab said this week.\n\nThe backdoored web server executes commands that attackers send",
     "created_at": "2026-11-06T07:31:22.534920+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170633",
+    "title": "Hackers Could Bypass ChatGPT Lockdown Mode to Steal Conversations Without Users Knowing",
+    "link": "https://cybersecuritynews.com/chatgpt-lockdown-mode-bypass/",
+    "published": "Fri, 06 Nov 2026 08:16:23 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A flaw in ChatGPT let attackers slip past Lockdown Mode, the safety setting meant to stop data leaks. Check Point Research found that a hidden pop-up trick could copy a user’s full chat history, show fake windows, and push malware. In the ChatGPT Cla",
+    "created_at": "2026-11-06T08:31:07.052673+00:00"
   }
 ]
