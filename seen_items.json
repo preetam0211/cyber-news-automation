@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=166089",
-    "title": "Critical WordPress Vulnerabilities Enable XSS, SQL Injection and Data Disclosure Attacks",
-    "link": "https://cybersecuritynews.com/wordpress-vulnerabilities/",
-    "published": "Wed, 07 Oct 2026 08:53:57 +0000",
-    "source": "CybersecurityNews",
-    "summary": "WordPress released version 7.1.3 on October 6, 2026, addressing vulnerabilities involving cross-site scripting, SQL injection, information disclosure, and other security weaknesses. The project recommends immediate updates, with fixes also available ",
-    "created_at": "2026-10-07T09:01:14.686951+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
-    "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
-    "link": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
-    "published": "Wed, 07 Oct 2026 13:37:38 +0530",
-    "source": "The Hacker News",
-    "summary": "Anthropic on Tuesday said it&#x27;s expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifiers, as the company claimed its Project Glass",
-    "created_at": "2026-10-07T09:31:28.007861+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=166088",
     "title": "Hackers Use Fake ChatGPT, Claude and Gemini Ads to Steal Passwords and MFA Codes",
     "link": "https://cybersecuritynews.com/hackers-use-fake-chatgpt/",
@@ -6856,5 +6838,32 @@
     "source": "The Hacker News",
     "summary": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users.\n\n&quot;While we investigated, we remove",
     "created_at": "2026-11-06T09:01:09.311882+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170639",
+    "title": "Claude Dispatch Flaw Lets Malicious Browser Extensions Run Code on Connected Computers",
+    "link": "https://cybersecuritynews.com/claude-dispatch-vulnerability/",
+    "published": "Fri, 06 Nov 2026 08:40:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A flaw in Anthropic’s Claude Dispatch let a malicious browser extension run commands on a computer via Claude Desktop. That computer could even be a different machine signed into the same Claude account. Researcher Gal Weizman of Forever Security nam",
+    "created_at": "2026-11-06T09:31:15.319982+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170634",
+    "title": "ARTEX AI Hacking Framework Found on 1,465 Public Servers, Some Hosting Cyberattack Tools",
+    "link": "https://cybersecuritynews.com/artex-ai-hacking-framework/",
+    "published": "Fri, 06 Nov 2026 09:02:33 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Security researchers have found ARTEX, an AI-powered penetration-testing framework, exposed on 1,465 internet-facing hosts. Some servers also hosted command-and-control tools, phishing software, and exploit files, showing how automated security-testi",
+    "created_at": "2026-11-06T09:31:27.297970+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
+    "title": "MetaMask says recent attack didn't affect wallet infrastructure",
+    "link": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
+    "published": "Fri, 06 Nov 2026 04:22:28 -0500",
+    "source": "BleepingComputer",
+    "summary": "Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]",
+    "created_at": "2026-11-06T09:31:38.973138+00:00"
   }
 ]
