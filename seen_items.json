@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
-    "title": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
-    "link": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
-    "published": "Wed, 07 Oct 2026 21:03:51 +0530",
-    "source": "The Hacker News",
-    "summary": "Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim to deploy cryptocurrency miners and further expand",
-    "created_at": "2026-10-07T16:31:34.688898+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
-    "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
-    "link": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
-    "published": "Wed, 07 Oct 2026 21:04:53 +0530",
-    "source": "The Hacker News",
-    "summary": "A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no fixed version is available.\n\nThe flaw is in LMCache&#x2",
-    "created_at": "2026-10-07T16:31:36.990468+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=166195",
     "title": "Alert Overload, Tool Sprawl and Evasive Phishing: The 5 Bottlenecks Slowing Down US SOCs",
     "link": "https://cybersecuritynews.com/alert-overload-tool-sprawl-and-evasive-phishing-the-5-bottlenecks-slowing-down-us-socs/",
@@ -6766,5 +6748,32 @@
     "source": "BleepingComputer",
     "summary": "​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]",
     "created_at": "2026-11-06T15:31:38.324961+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+    "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
+    "link": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+    "published": "Fri, 06 Nov 2026 20:28:32 +0530",
+    "source": "The Hacker News",
+    "summary": "OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment.\n\nThe new model is &quot;more capable ",
+    "created_at": "2026-11-06T17:01:09.156168+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+    "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+    "link": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+    "published": "Fri, 06 Nov 2026 20:51:49 +0530",
+    "source": "The Hacker News",
+    "summary": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian.\n\nThe vulnerability, tracked as CVE-2026-123158 (CVSS score: 8.1) and ",
+    "created_at": "2026-11-06T17:01:17.038686+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+    "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
+    "link": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+    "published": "Fri, 06 Nov 2026 21:38:38 +0530",
+    "source": "The Hacker News",
+    "summary": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it.\n\nThe update that installs the fix still unpacks its files using the site&#x27;",
+    "created_at": "2026-11-06T17:01:31.925390+00:00"
   }
 ]
