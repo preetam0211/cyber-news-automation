@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=166195",
-    "title": "Alert Overload, Tool Sprawl and Evasive Phishing: The 5 Bottlenecks Slowing Down US SOCs",
-    "link": "https://cybersecuritynews.com/alert-overload-tool-sprawl-and-evasive-phishing-the-5-bottlenecks-slowing-down-us-socs/",
-    "published": "Wed, 07 Oct 2026 17:19:28 +0000",
-    "source": "CybersecurityNews",
-    "summary": "US security operations centers are not short on security products. They are short on time, people and context. Current industry research suggests the biggest obstacles to fast detection and containment are operational: too many alerts, too much manua",
-    "created_at": "2026-10-07T17:31:06.870705+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
     "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
     "link": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
@@ -6775,5 +6766,14 @@
     "source": "The Hacker News",
     "summary": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it.\n\nThe update that installs the fix still unpacks its files using the site&#x27;",
     "created_at": "2026-11-06T17:01:31.925390+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
+    "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
+    "published": "Fri, 06 Nov 2026 12:04:23 -0500",
+    "source": "BleepingComputer",
+    "summary": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]",
+    "created_at": "2026-11-06T17:31:24.479650+00:00"
   }
 ]
