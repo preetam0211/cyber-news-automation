@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/",
-    "title": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways",
-    "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/",
-    "published": "Wed, 07 Oct 2026 07:37:07 -0400",
-    "source": "BleepingComputer",
-    "summary": "SonicWall has released hotfixes to address a maximum-severity server-side request forgery (SSRF) flaw in SMA1000 series appliances. [...]",
-    "created_at": "2026-10-07T12:01:07.026142+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
     "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops.",
     "link": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
@@ -6802,5 +6793,23 @@
     "source": "BleepingComputer",
     "summary": "Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]",
     "created_at": "2026-11-06T09:31:38.973138+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
+    "title": "The Flood is Coming And The Pipes Were Already Full",
+    "link": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
+    "published": "Fri, 06 Nov 2026 17:00:00 +0530",
+    "source": "The Hacker News",
+    "summary": "An update on Athena, and some unsolicited predictions on what&#x27;s coming next\n\nOn Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven&#x27;t. I&#x27;ve spent the summer looking at what these models",
+    "created_at": "2026-11-06T12:01:12.923873+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170651",
+    "title": "Storm-2603 Hackers Exploit SharePoint ToolShell Flaws to Hide Fileless Backdoor and Launch Ransomware Attack",
+    "link": "https://cybersecuritynews.com/storm-2603-hackers/",
+    "published": "Fri, 06 Nov 2026 11:43:01 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A China-linked threat group tracked as Storm-2603 has used the SharePoint ToolShell flaws to plant a backdoor that never touches the disk. The group then tried to run Warlock ransomware on the same network. The break-in hit an on-premises SharePoint ",
+    "created_at": "2026-11-06T12:01:24.817452+00:00"
   }
 ]
