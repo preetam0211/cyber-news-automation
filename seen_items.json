@@ -6748,5 +6748,14 @@
     "source": "BleepingComputer",
     "summary": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
     "created_at": "2026-11-06T19:01:13.629310+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+    "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+    "link": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+    "published": "Fri, 06 Nov 2026 15:24:19 -0500",
+    "source": "BleepingComputer",
+    "summary": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
+    "created_at": "2026-11-06T20:31:08.018246+00:00"
   }
 ]
