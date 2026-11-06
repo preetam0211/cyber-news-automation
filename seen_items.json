@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
-    "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
-    "link": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
-    "published": "Thu, 08 Oct 2026 00:18:17 +0530",
-    "source": "The Hacker News",
-    "summary": "Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google said on October 6.\n\nGoogle&#x27;s own systems were not breached, but any domain ending in .gh (Ghana),",
-    "created_at": "2026-10-07T19:31:06.810191+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
     "title": "Hackers hijack Google domains after breaching ccTLD registries",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
