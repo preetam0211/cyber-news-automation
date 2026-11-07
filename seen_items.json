@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=166378",
-    "title": "Co-Creator of Dark Web Marketplace “Empire Market” Sentenced to 40 Years in Prison",
-    "link": "https://cybersecuritynews.com/dark-web-marketplace-creator-jailed/",
-    "published": "Thu, 08 Oct 2026 13:50:42 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Raheim Hamilton, co-creator of Empire Market, was sentenced to 40 years in federal prison for running a dark web marketplace that handled more than $430 million in illegal transactions. The 30-year-old Suffolk, Virginia, resident also received a $5 m",
-    "created_at": "2026-10-08T14:01:30.211876+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
     "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
     "link": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
@@ -6523,5 +6514,14 @@
     "source": "CybersecurityNews",
     "summary": "SonicWall has warned customers to patch a SonicOS SSLVPN vulnerability that could let attackers bypass SAML authentication and its multi-factor authentication checks. Tracked as CVE-2026-19868, the flaw carries a CVSS score of 7.1. The company has in",
     "created_at": "2026-11-07T13:01:06.867723+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
+    "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
+    "link": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
+    "published": "Sat, 07 Nov 2026 09:10:19 -0500",
+    "source": "BleepingComputer",
+    "summary": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use deceptive verification steps and affi",
+    "created_at": "2026-11-07T14:31:13.860219+00:00"
   }
 ]
