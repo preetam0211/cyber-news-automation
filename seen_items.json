@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
-    "title": "ASOS links data breach to social engineering attack, credential theft",
-    "link": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
-    "published": "Thu, 08 Oct 2026 07:42:46 -0400",
-    "source": "BleepingComputer",
-    "summary": "ASOS is sending updates to affected customers about the cybersecurity incident it suffered earlier this week, confirming that hackers accessed some personal data. [...]",
-    "created_at": "2026-10-08T12:00:55.055567+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
     "title": "Microsoft Teams to get support for third-party deepfake detection tools",
     "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
