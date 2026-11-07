@@ -1,59 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=166331",
-    "title": "Hackers Registered New Domain with Exact Microsoft Teams Interface to Steal Logins",
-    "link": "https://cybersecuritynews.com/domain-with-exact-microsoft-teams-interface/",
-    "published": "Thu, 08 Oct 2026 06:44:17 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A newly registered website is copying the Microsoft Teams login page and full user interface, raising concerns about a phishing attempt aimed at stealing work account credentials. The domain, teams-online[.]com, uses the name of the widely used meeti",
-    "created_at": "2026-10-08T07:31:28.848380+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=166330",
-    "title": "Splunk Patches Critical 9.8 Flaw Allowing Unauthenticated Remote Command Execution",
-    "link": "https://cybersecuritynews.com/splunk-patches-critical-flaw/",
-    "published": "Thu, 08 Oct 2026 07:04:19 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Splunk has released security updates to fix a critical Splunk Enterprise vulnerability that could let an attacker run operating system commands without logging in. Tracked as CVE-2026-76268, the flaw carries a CVSS v3.1 score of 9.8 and was disclosed",
-    "created_at": "2026-10-08T07:31:42.615147+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=166325",
-    "title": "PoC Released for Critical VMware VMXNET3 Flaw Enabling Guest-to-Host Code Execution",
-    "link": "https://cybersecuritynews.com/vmware-vmxnet3-flaw-poc/",
-    "published": "Thu, 08 Oct 2026 07:08:20 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A public proof of concept is now available for CVE-2026-59346, a critical integer overflow flaw in VMware’s VMXNET3 virtual network adapter, released by 0xCyberstan. The flaw can allow an attacker with administrative access inside a guest virtual mac",
-    "created_at": "2026-10-08T07:32:09.709885+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=165954",
-    "title": "Top 10 Best SCA Tools in 2026 [Ranked & Scored]",
-    "link": "https://cybersecuritynews.com/best-sca-tools/",
-    "published": "Thu, 08 Oct 2026 07:10:56 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Nine-tenths of the average codebase arrived via package manager, and attackers noticed years ago. With modern breaches increasingly originating from upstream software supply chain attacks targeting open-source registries, scanning third-party depende",
-    "created_at": "2026-10-08T07:32:17.092988+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=166104",
-    "title": "Top 10 Best ASPM Platforms in 2026 [Ranked & Scored]",
-    "link": "https://cybersecuritynews.com/best-aspm-platforms/",
-    "published": "Thu, 08 Oct 2026 07:25:19 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Application security’s real crisis isn’t missing findings it’s five scanners producing five contradictory backlogs nobody owns. Instead of treating software risks as disconnected alerts, leading organizations unify their scanners into enterprise vuln",
-    "created_at": "2026-10-08T07:32:23.413575+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=166174",
-    "title": "Top 10 Best API Security Tools in 2026 [Ranked & Scored]",
-    "link": "https://cybersecuritynews.com/best-api-security-tools/",
-    "published": "Thu, 08 Oct 2026 07:27:56 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Your API count is wrong every traffic-based discovery deployment proves it and business-logic abuse rides valid-looking requests straight past WAF signatures. As enterprise architectures decompose into distributed microservices and third-party integr",
-    "created_at": "2026-10-08T07:32:26.973249+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=166242",
     "title": "Top 10 Best Software Supply Chain Security Tools in 2026 [Ranked & Scored]",
     "link": "https://cybersecuritynews.com/best-supply-chain-security-tools/",
@@ -6721,5 +6667,14 @@
     "source": "CybersecurityNews",
     "summary": "WorkOS says an ARTEX AI security agent escaped a researcher’s test environment and accessed customer information through an exposed internal tool. In its November 6, 2026 update, the company attributed the incident to unintended activity during cyber",
     "created_at": "2026-11-07T02:31:22.685642+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+    "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+    "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+    "published": "Sat, 07 Nov 2026 12:14:17 +0530",
+    "source": "The Hacker News",
+    "summary": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them.\n\nWhen a user selects &quot;Yes, and don&#x27;t ask again,&quot; Anthropic&#x27;s AI coding ",
+    "created_at": "2026-11-07T08:01:13.600123+00:00"
   }
 ]
