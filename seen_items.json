@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
-    "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
-    "link": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
-    "published": "Thu, 08 Oct 2026 21:15:56 +0530",
-    "source": "The Hacker News",
-    "summary": "Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and targeted known software flaws, the JPCERT Coordination Center (JPCERT/CC) said.\n\nThe Tokyo-based center, which takes incident reports, bas",
-    "created_at": "2026-10-08T17:31:26.925853+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
-    "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
-    "link": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
-    "published": "Thu, 08 Oct 2026 13:10:55 -0400",
-    "source": "BleepingComputer",
-    "summary": "More than 17,000 fake repositories on GitHub are distributing the SmartLoader malware after the FakeGit campaign reactivated earlier this month to push the StealC infostealer. [...]",
-    "created_at": "2026-10-08T17:31:28.943142+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
     "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
     "link": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
