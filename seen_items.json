@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
-    "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
-    "link": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
-    "published": "Thu, 08 Oct 2026 13:12:04 +0530",
-    "source": "The Hacker News",
-    "summary": "The U.S. State Department is offering up to $10 million for information leading to the identification or location of Zhang Yu, a Chinese national charged in the United States in connection with the 2021 Microsoft Exchange Server attacks known as HAFN",
-    "created_at": "2026-10-08T08:31:11.517772+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=166337",
     "title": "Critical Cisco Nexus Flaws Let Unauthenticated Attackers Execute Code With Root Privileges",
     "link": "https://cybersecuritynews.com/critical-cisco-nexus-flaws/",
