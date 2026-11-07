@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
-    "title": "Microsoft Teams to get support for third-party deepfake detection tools",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
-    "published": "Thu, 08 Oct 2026 08:08:16 -0400",
-    "source": "BleepingComputer",
-    "summary": "Microsoft will soon introduce support for third-party deepfake detection solutions and impersonation protection in Teams meetings. [...]",
-    "created_at": "2026-10-08T12:30:55.843995+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=166387",
     "title": "GhostAction Supply Chain Campaign Uses Malicious GitHub Actions to Steal CI/CD Credentials",
     "link": "https://cybersecuritynews.com/ghostaction-supply-chain-campaign/",
