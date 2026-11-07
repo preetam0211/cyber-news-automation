@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
-    "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
-    "published": "Thu, 08 Oct 2026 17:42:51 -0400",
-    "source": "BleepingComputer",
-    "summary": "The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub, used in attacks that breached critical infrastructure and other organizations worldwide. [...]",
-    "created_at": "2026-10-08T22:01:09.398107+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=166532",
     "title": "Citrix Urges NetScaler ADC and Gateway Customers to Patch for New Critical RCE Vulnerability",
     "link": "https://cybersecuritynews.com/citrix-netscaler-adc-and-gateway-rce/",
