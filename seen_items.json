@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=166242",
-    "title": "Top 10 Best Software Supply Chain Security Tools in 2026 [Ranked & Scored]",
-    "link": "https://cybersecuritynews.com/best-supply-chain-security-tools/",
-    "published": "Thu, 08 Oct 2026 07:31:57 +0000",
-    "source": "CybersecurityNews",
-    "summary": "The supply chain is four attack surfaces wearing one buzzword dependencies, pipelines, artifacts, and base images and no vendor covers all four. We scored ten tools with surface-coverage honesty weighted highest. With modern threat actors executing s",
-    "created_at": "2026-10-08T08:01:26.983298+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=166288",
-    "title": "Top 10 Best Secrets Detection Tools in 2026 [Ranked & Scored]",
-    "link": "https://cybersecuritynews.com/best-secrets-detection-tools/",
-    "published": "Thu, 08 Oct 2026 07:34:41 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Attackers don’t crack what they can copy and leaked API keys sit in git history, Slack threads, and cloud workloads waiting. Evaluating the landscape alongside the Top 10 Best Secrets Management Tools in 2026 shows that while vaults manage credential",
-    "created_at": "2026-10-08T08:01:52.030386+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=166334",
-    "title": "MALFEX npm Malware Hides Executables in PNG Files to Infect Windows Developers",
-    "link": "https://cybersecuritynews.com/malfex-npm-malware/",
-    "published": "Thu, 08 Oct 2026 07:51:30 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A long-running npm malware campaign called MALFEX is targeting Windows developers with remote access tools, data stealers, and hidden downloaders. The attack uses eight malicious packages and three separate delivery paths, including a Windows executa",
-    "created_at": "2026-10-08T08:02:38.997683+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html",
-    "title": "MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data",
-    "link": "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html",
-    "published": "Thu, 08 Oct 2026 13:11:44 +0530",
-    "source": "The Hacker News",
-    "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced charges against a 50-year-old U.S. and Israeli national for allegedly defrauding ransomware victims by secretly paying the attackers to obtain decryptors while claiming to use proprietary to",
-    "created_at": "2026-10-08T08:31:02.887487+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
     "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
     "link": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
@@ -6676,5 +6640,14 @@
     "source": "The Hacker News",
     "summary": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them.\n\nWhen a user selects &quot;Yes, and don&#x27;t ask again,&quot; Anthropic&#x27;s AI coding ",
     "created_at": "2026-11-07T08:01:13.600123+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170818",
+    "title": "Claude Code’s “Yes, and Don’t Ask Again” Option Can Leak Passwords and API Keys to GitHub",
+    "link": "https://cybersecuritynews.com/claude-codes-yes-and-dont-ask-again/",
+    "published": "Sat, 07 Nov 2026 08:20:25 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Claude Code’s “Yes, and don’t ask again” option can save passwords and API keys inside project settings that later reach public GitHub repositories. Apiiro researchers found 2,539 distinct secrets across 1,994 public repositories, showing how a routi",
+    "created_at": "2026-11-07T08:31:11.098413+00:00"
   }
 ]
