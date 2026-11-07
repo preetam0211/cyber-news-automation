@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
-    "title": "Ransomware recovery CEO charged over secret ransom payments",
-    "link": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
-    "published": "Wed, 07 Oct 2026 19:04:37 -0400",
-    "source": "BleepingComputer",
-    "summary": "The owner of ransomware remediation company MonsterCloud has been charged with allegedly defrauding ransomware victims by secretly paying their attackers for decryptors while claiming to use proprietary technology to recover encrypted data. [...]",
-    "created_at": "2026-10-07T23:31:11.459116+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=166282",
     "title": "U.S. Offers $10 Million Reward for Chinese Hacker Who Tried to Steal COVID-19 Research",
     "link": "https://cybersecuritynews.com/u-s-offers-10-million-reward-chinese-hacker/",
@@ -6748,5 +6739,14 @@
     "source": "BleepingComputer",
     "summary": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the company.",
     "created_at": "2026-11-06T22:31:15.511639+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+    "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+    "published": "Fri, 06 Nov 2026 19:00:55 -0500",
+    "source": "BleepingComputer",
+    "summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
+    "created_at": "2026-11-07T00:01:17.899937+00:00"
   }
 ]
