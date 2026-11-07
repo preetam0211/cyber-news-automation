@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
-    "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
-    "link": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
-    "published": "Thu, 08 Oct 2026 10:00:10 -0400",
-    "source": "BleepingComputer",
-    "summary": "OAuth grants create data highways between SaaS apps, AI agents, and other tools. And, they are multiplying faster than any security team can review them. As the recent Klue breach showed, attackers are taking notice and exploiting forgotten OAuth gra",
-    "created_at": "2026-10-08T14:31:31.945383+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=166393",
     "title": "GitHub AI Can Spot Passwords Hidden in Code Before Developers Push Them",
     "link": "https://cybersecuritynews.com/github-ai-spot-passwords/",
