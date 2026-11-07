@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=166337",
-    "title": "Critical Cisco Nexus Flaws Let Unauthenticated Attackers Execute Code With Root Privileges",
-    "link": "https://cybersecuritynews.com/critical-cisco-nexus-flaws/",
-    "published": "Thu, 08 Oct 2026 08:44:51 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Cisco has released security updates for three critical vulnerabilities in Nexus 3000 and 9000 Series switches that could let remote attackers run code with root privileges without logging in. The flaws affect the Next Generation Operation, Administra",
-    "created_at": "2026-10-08T09:01:32.327188+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
     "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
     "link": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
