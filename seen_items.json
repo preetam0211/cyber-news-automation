@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
-    "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
-    "link": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
-    "published": "Thu, 08 Oct 2026 16:00:00 +0530",
-    "source": "The Hacker News",
-    "summary": "Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly building filtering, session management, and traffic controls into the infrastructure that delivers the phis",
-    "created_at": "2026-10-08T11:01:30.558889+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=166355",
-    "title": "Gitea Patches 27 Security Flaws, Including Critical SSH Authentication Bypass and SSRF",
-    "link": "https://cybersecuritynews.com/gitea-patches-27-security-flaws/",
-    "published": "Thu, 08 Oct 2026 10:56:44 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Gitea has released security updates addressing 27 reported flaws across versions 28.0.0 and 28.1.0, including a critical SSH authentication bypass and server-side request forgery (SSRF) weaknesses. The fixes cover account access, repository permissio",
-    "created_at": "2026-10-08T11:01:49.698445+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=166372",
-    "title": "Solo Hacker Used AI Tools to Breach South Korean Financial Organizations and Steal Data",
-    "link": "https://cybersecuritynews.com/solo-hacker-used-ai-tools/",
-    "published": "Thu, 08 Oct 2026 11:14:26 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A suspected lone threat actor used an AI-powered penetration-testing tool called ARTEX to breach several South Korean financial organizations and steal customer and employee data. The activity, which ran from late September to early October 2026, aff",
-    "created_at": "2026-10-08T11:31:05.250815+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
     "title": "ASOS links data breach to social engineering attack, credential theft",
     "link": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
