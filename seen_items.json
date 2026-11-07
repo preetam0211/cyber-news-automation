@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
-    "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
-    "link": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
-    "published": "Thu, 08 Oct 2026 23:28:02 +0530",
-    "source": "The Hacker News",
-    "summary": "The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, complete with tools and traces of an intrusion. Apparently, keeping things secure is a proble",
-    "created_at": "2026-10-08T19:01:46.532164+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
-    "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
-    "link": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
-    "published": "Fri, 09 Oct 2026 00:02:21 +0530",
-    "source": "The Hacker News",
-    "summary": "Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement agencies, healthcare systems, and religious institutions in Southeast Asia, the FBI and agencies in 6 other countries said on October 8.\n\nThe c",
-    "created_at": "2026-10-08T19:01:48.583869+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/",
     "title": "Low-cost Android phones ship with residential proxy malware",
     "link": "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/",
