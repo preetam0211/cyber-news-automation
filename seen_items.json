@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=166387",
-    "title": "GhostAction Supply Chain Campaign Uses Malicious GitHub Actions to Steal CI/CD Credentials",
-    "link": "https://cybersecuritynews.com/ghostaction-supply-chain-campaign/",
-    "published": "Thu, 08 Oct 2026 12:32:17 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A new wave of the GhostAction supply chain campaign has compromised 772 public GitHub repositories, using fake GitHub Actions workflow files to steal credentials from CI/CD environments. The activity ran from August 31 through September 30, 2026, and",
-    "created_at": "2026-10-08T13:01:06.735526+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=166392",
     "title": "Hackers Exploit Critical Citrix NetScaler Flaw to Deploy Web Shells and Steal Configuration Data",
     "link": "https://cybersecuritynews.com/citrix-netscaler-flaw/",
@@ -6541,5 +6532,14 @@
     "source": "CybersecurityNews",
     "summary": "Claude Code’s “Yes, and don’t ask again” option can save passwords and API keys inside project settings that later reach public GitHub repositories. Apiiro researchers found 2,539 distinct secrets across 1,994 public repositories, showing how a routi",
     "created_at": "2026-11-07T08:31:11.098413+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170871",
+    "title": "SonicWall Warns of Potential In-the-Wild Exploitation of SSLVPN Flaw That Bypasses MFA",
+    "link": "https://cybersecuritynews.com/sonicos-sslvpn-vulnerability-exploited/",
+    "published": "Sat, 07 Nov 2026 12:59:02 +0000",
+    "source": "CybersecurityNews",
+    "summary": "SonicWall has warned customers to patch a SonicOS SSLVPN vulnerability that could let attackers bypass SAML authentication and its multi-factor authentication checks. Tracked as CVE-2026-19868, the flaw carries a CVSS score of 7.1. The company has in",
+    "created_at": "2026-11-07T13:01:06.867723+00:00"
   }
 ]
