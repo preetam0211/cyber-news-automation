@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
-    "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
-    "published": "Fri, 09 Oct 2026 01:41:04 -0400",
-    "source": "BleepingComputer",
-    "summary": "The Pwn2Own Ireland 2026 hacking contest has concluded, with hackers collecting $1,262,000 in rewards after exploiting 98 zero-day flaws. [...]",
-    "created_at": "2026-10-09T06:01:19.723456+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=166547",
     "title": "React Server Components Flaw Lets Attackers Freeze Next.js Servers With a Single POST Request",
     "link": "https://cybersecuritynews.com/react-server-components-dos-vulnerability/",
