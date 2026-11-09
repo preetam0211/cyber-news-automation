@@ -6352,5 +6352,41 @@
     "source": "CybersecurityNews",
     "summary": "Microsoft says threat actors are using an AI tool called ARTEX to find secrets in public GitHub code and use them against cloud accounts. In one case, the AI agent went from searching GitHub to pulling data from Azure Key Vault in only five minutes. ",
     "created_at": "2026-11-09T10:31:12.275183+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
+    "title": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
+    "link": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
+    "published": "Mon, 09 Nov 2026 15:31:21 +0530",
+    "source": "The Hacker News",
+    "summary": "Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the project said yesterday.\n\nIt has several security fixes to release and asked operators to be careful unt",
+    "created_at": "2026-11-09T11:01:18.292359+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170920",
+    "title": "ModSecurity Patches Two High-Severity Flaws Allowing WAF Bypass and Potential Remote Code Execution",
+    "link": "https://cybersecuritynews.com/modsecurity-patches-two-high-severity-flaws/",
+    "published": "Mon, 09 Nov 2026 10:31:28 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Two high-severity flaws have been disclosed in ModSecurity, the open-source web application firewall (WAF) used with Apache, IIS, and Nginx. Two GitHub advisories published by maintainer airween on September 30 describe flaws allowing malicious file ",
+    "created_at": "2026-11-09T11:01:29.379765+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170928",
+    "title": "CISA Warns Two Critical 9.0 Flaws in PowerSYSTEM Center Allow Unauthorized Access and SQL Injection",
+    "link": "https://cybersecuritynews.com/cisa-warns-critical-flaws-in-powersystem-center/",
+    "published": "Mon, 09 Nov 2026 10:32:26 +0000",
+    "source": "CybersecurityNews",
+    "summary": "CISA warned that two critical PowerSYSTEM Center flaws (CVSS 9.0) could let authenticated users access administrator resources or execute unauthorized database commands, affecting energy and manufacturing sectors worldwide. The agency released adviso",
+    "created_at": "2026-11-09T11:01:40.424492+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170972",
+    "title": "Hackers Exploit Plex2Shell Flaws to Take Over Plex Media Servers and Deploy Crypto Miners",
+    "link": "https://cybersecuritynews.com/hackers-exploit-plex2shell-flaws/",
+    "published": "Mon, 09 Nov 2026 10:33:03 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are now using a public exploit chain called Plex2Shell to break into unpatched Plex Media Server systems and install cryptocurrency miners and proxy software. According to SecurityWeek, the attacks began one day after the exploit code went pu",
+    "created_at": "2026-11-09T11:01:51.461878+00:00"
   }
 ]
