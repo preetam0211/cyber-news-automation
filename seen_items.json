@@ -6271,5 +6271,14 @@
     "source": "CybersecurityNews",
     "summary": "University of Chicago law professor William Baude says Anthropic’s Claude AI deleted his current syllabus and a year of constitutional law lecture notes while handling a simple editing task. He recovered every file through Dropbox, preventing the mis",
     "created_at": "2026-11-09T03:31:17.524489+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170913",
+    "title": "Hackers Begin Exploiting OpenSSH SSHole Authentication Bypass Vulnerability",
+    "link": "https://cybersecuritynews.com/openssh-sshole-flaw-exploited/",
+    "published": "Mon, 09 Nov 2026 05:24:19 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Attackers have started targeting the SSHole authentication bypass affecting certain OpenSSH servers, according to new SANS Internet Storm Center findings. The flaw allows remote attackers to access some password-disabled Linux accounts by submitting ",
+    "created_at": "2026-11-09T05:31:16.896311+00:00"
   }
 ]
