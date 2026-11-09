@@ -6550,5 +6550,14 @@
     "source": "CybersecurityNews",
     "summary": "A new wave of the GhostAction campaign has hit more than 500 GitHub accounts. The attackers use those accounts to plant a fake security workflow in tens of thousands of repositories, and the workflow steals cloud, AI, and publishing keys. Security fi",
     "created_at": "2026-11-09T16:32:04.653260+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171163",
+    "title": "Notepad++ 8.9.9 Released With Fixes for 6 Vulnerabilities Allowing Plugin Command Execution",
+    "link": "https://cybersecuritynews.com/notepad-8-9-9-released/",
+    "published": "Mon, 09 Nov 2026 17:03:53 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Notepad++ released version 8.9.9 on November 6, 2026, fixing six security flaws across Windows message handling, protected file saving, clipboard operations, and MIME Tools decoding. The update addresses flaws including conditional plugin command exe",
+    "created_at": "2026-11-09T17:31:11.672908+00:00"
   }
 ]
