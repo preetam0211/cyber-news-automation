@@ -6334,5 +6334,14 @@
     "source": "CybersecurityNews",
     "summary": "Hackers are spreading a Python-based malware kit called ArmorSteal through fake software download pages. The kit steals passwords, crypto wallets and Discord accounts, and it also mines Monero in the background. Seqrite Labs found a newer build of th",
     "created_at": "2026-11-09T09:01:14.474927+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
+    "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
+    "link": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
+    "published": "Mon, 09 Nov 2026 14:31:50 +0530",
+    "source": "The Hacker News",
+    "summary": "A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis&#x27;s Threat Research Unit said last week.\n\nThe agents also found a Taipei fire department platform exposing patient data fro",
+    "created_at": "2026-11-09T10:01:15.975388+00:00"
   }
 ]
