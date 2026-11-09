@@ -6577,5 +6577,23 @@
     "source": "CybersecurityNews",
     "summary": "A new remote-access trojan called Abe Office can steal browser passwords and cookies, even from Chrome’s App-Bound Encryption. It poses as an office helper tool and carries a valid code-signing certificate. Researchers at Rogue Authority broke its we",
     "created_at": "2026-11-09T18:01:31.873438+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
+    "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
+    "link": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
+    "published": "Mon, 09 Nov 2026 23:06:28 +0530",
+    "source": "The Hacker News",
+    "summary": "Attackers used the Ethersphere project&#x27;s own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2.\n\nBoth releases download and run code built to ",
+    "created_at": "2026-11-09T18:31:12.487536+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
+    "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
+    "link": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
+    "published": "Mon, 09 Nov 2026 23:21:21 +0530",
+    "source": "The Hacker News",
+    "summary": "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today.\n\nThe attacker used credentials for an AWS account that Qubole&#x27;",
+    "created_at": "2026-11-09T18:31:24.971980+00:00"
   }
 ]
