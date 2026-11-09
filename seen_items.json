@@ -6289,5 +6289,23 @@
     "source": "The Hacker News",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it said may have been exploited in real-",
     "created_at": "2026-11-09T06:31:12.211575+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
+    "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
+    "link": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
+    "published": "Mon, 09 Nov 2026 11:45:10 +0530",
+    "source": "The Hacker News",
+    "summary": "U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire hazards, and loss of inventory.\n\n&quot;The actors may ex",
+    "created_at": "2026-11-09T07:01:22.007151+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170911",
+    "title": "U.S. Agencies Warn of Hackers Targeting Industrial Refrigeration to Disrupt Food and Medicine Storage",
+    "link": "https://cybersecuritynews.com/hackers-targeting-industrial-refrigeration-systems/",
+    "published": "Mon, 09 Nov 2026 06:52:21 +0000",
+    "source": "CybersecurityNews",
+    "summary": "CISA, FBI, HHS, USDA, and DOT have warned that hackers are targeting industrial refrigeration and cold chain monitoring systems worldwide, putting food, medicine, and other temperature-sensitive goods at risk. The November 5, 2026, warning urges oper",
+    "created_at": "2026-11-09T07:01:27.957803+00:00"
   }
 ]
