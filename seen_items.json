@@ -6244,5 +6244,14 @@
     "source": "BleepingComputer",
     "summary": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company ",
     "created_at": "2026-11-08T16:01:13.447170+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170889",
+    "title": "Critical React Server Components Flaw Lets Hackers Execute Code Remotely Without Authentication",
+    "link": "https://cybersecuritynews.com/react-server-components-vulnerability-patch/",
+    "published": "Mon, 09 Nov 2026 02:13:53 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical security flaw in React Server Components can let attackers run code remotely without logging in. React published the advisory, tracked as GHSA-xqc2-xf4c-x3h3, on October 14, 2026. The issue carries a CVSS v4 score of 9.5, and the React tea",
+    "created_at": "2026-11-09T02:31:12.262959+00:00"
   }
 ]
