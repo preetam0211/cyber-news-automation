@@ -6442,5 +6442,14 @@
     "source": "CybersecurityNews",
     "summary": "Google Gemini allowed users to download AI-generated images that its safety filters had refused to display, according to research published by Fog Security on November 5, 2026. The bypass did not require a jailbreak. Instead, the download feature som",
     "created_at": "2026-11-09T12:31:28.235865+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171064",
+    "title": "Hackers Hijack 10 npm Packages to Spread PolinRider Malware Using Ethereum Blockchain",
+    "link": "https://cybersecuritynews.com/hackers-hijack-10-npm-packages-to-spread-polinrider-malware-using-ethereum-blockchain/",
+    "published": "Mon, 09 Nov 2026 12:39:03 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Attackers have taken over 10 npm packages and slipped hidden code into 12 releases. The code uses the Ethereum blockchain to find a server and download more malware. Sonatype Research Labs confirmed the finding on November 4, 2026, and tracks it as s",
+    "created_at": "2026-11-09T13:01:25.668020+00:00"
   }
 ]
