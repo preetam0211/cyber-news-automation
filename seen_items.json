@@ -6604,5 +6604,23 @@
     "source": "BleepingComputer",
     "summary": "France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food losses and sparked at least 15 fires. [...]",
     "created_at": "2026-11-09T19:01:17.051911+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
+    "title": "York University breach exposed personal information dating to 2007",
+    "link": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
+    "published": "Mon, 09 Nov 2026 16:22:31 -0500",
+    "source": "BleepingComputer",
+    "summary": "York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]",
+    "created_at": "2026-11-09T21:31:16.795140+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
+    "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+    "link": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
+    "published": "Mon, 09 Nov 2026 16:26:25 -0500",
+    "source": "BleepingComputer",
+    "summary": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities, including exploits that could let atta",
+    "created_at": "2026-11-09T21:31:28.237010+00:00"
   }
 ]
