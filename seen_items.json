@@ -6388,5 +6388,14 @@
     "source": "CybersecurityNews",
     "summary": "Hackers are now using a public exploit chain called Plex2Shell to break into unpatched Plex Media Server systems and install cryptocurrency miners and proxy software. According to SecurityWeek, the attacks began one day after the exploit code went pu",
     "created_at": "2026-11-09T11:01:51.461878+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171008",
+    "title": "Researchers Uncover NotC2 AI-Powered C2 Framework That Hides Malicious Commands Inside AWS Services",
+    "link": "https://cybersecuritynews.com/notc2-ai-powered-c2-framework/",
+    "published": "Mon, 09 Nov 2026 11:26:18 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Varonis Threat Labs has built NotC2, a proof-of-concept command-and-control (C2) framework. It runs entirely on native AWS services and uses Amazon Bedrock to turn plain English into cloud commands. It is service abuse, not a flaw in Bedrock, and it ",
+    "created_at": "2026-11-09T11:31:21.717596+00:00"
   }
 ]
