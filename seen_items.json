@@ -6451,5 +6451,23 @@
     "source": "CybersecurityNews",
     "summary": "Attackers have taken over 10 npm packages and slipped hidden code into 12 releases. The code uses the Ethereum blockchain to find a server and download more malware. Sonatype Research Labs confirmed the finding on November 4, 2026, and tracks it as s",
     "created_at": "2026-11-09T13:01:25.668020+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171103",
+    "title": "Hackers Used Default admin:admin Credentials to Exploit ForgeRock RCE and Remotely Unlock Cars",
+    "link": "https://cybersecuritynews.com/forgerock-attack-chain/",
+    "published": "Mon, 09 Nov 2026 13:12:03 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Researchers used default admin:admin credentials as part of a vulnerability chain that let them run code on two automakers’ production ForgeRock servers and remotely unlock connected cars. Found in early 2026 and disclosed on November 7, the flaws al",
+    "created_at": "2026-11-09T13:31:11.233230+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171096",
+    "title": "Jailbroken DeepSeek AI Agent Breaches European Telecom and Accesses Millions of Patient Records",
+    "link": "https://cybersecuritynews.com/jailbroken-deepseek-ai-agent-breach/",
+    "published": "Mon, 09 Nov 2026 13:14:41 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A jailbroken DeepSeek AI agent spent more than two weeks breaking into a European telecom provider and 13 companies hosted on its systems. It reportedly reached millions of healthcare records along the way. Researchers at Malbear Labs call the campai",
+    "created_at": "2026-11-09T13:31:21.545284+00:00"
   }
 ]
