@@ -6343,5 +6343,14 @@
     "source": "The Hacker News",
     "summary": "A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis&#x27;s Threat Research Unit said last week.\n\nThe agents also found a Taipei fire department platform exposing patient data fro",
     "created_at": "2026-11-09T10:01:15.975388+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170962",
+    "title": "Hackers Use ARTEX AI to Steal Azure Key Vault Secrets Just 5 Minutes After Scanning GitHub",
+    "link": "https://cybersecuritynews.com/artex-ai-azure-key-vault-secrets/",
+    "published": "Mon, 09 Nov 2026 10:04:55 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft says threat actors are using an AI tool called ARTEX to find secrets in public GitHub code and use them against cloud accounts. In one case, the AI agent went from searching GitHub to pulling data from Azure Key Vault in only five minutes. ",
+    "created_at": "2026-11-09T10:31:12.275183+00:00"
   }
 ]
