@@ -6253,5 +6253,14 @@
     "source": "CybersecurityNews",
     "summary": "A critical security flaw in React Server Components can let attackers run code remotely without logging in. React published the advisory, tracked as GHSA-xqc2-xf4c-x3h3, on October 14, 2026. The issue carries a CVSS v4 score of 9.5, and the React tea",
     "created_at": "2026-11-09T02:31:12.262959+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170894",
+    "title": "NVIDIA Investigates Suspected Chinese Spy Operation Targeting CEO Jensen Huang",
+    "link": "https://cybersecuritynews.com/nvidia-investigates-chinese-spy-operation/",
+    "published": "Mon, 09 Nov 2026 02:36:57 +0000",
+    "source": "CybersecurityNews",
+    "summary": "NVIDIA has opened an independent investigation into reports that a foreign intelligence operation targeted founder and CEO Jensen Huang. Announced on November 8, 2026, the review will examine the reported activity and any possible security impact. Th",
+    "created_at": "2026-11-09T03:01:18.313114+00:00"
   }
 ]
