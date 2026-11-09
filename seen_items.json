@@ -6478,5 +6478,14 @@
     "source": "BleepingComputer",
     "summary": "The US Department of the Treasury has cut off the MEXC Global crypto exchange from the US financial system over sanctions evasion and links with cybercrime gangs. [...]",
     "created_at": "2026-11-09T14:01:12.664873+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
+    "title": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
+    "link": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
+    "published": "Mon, 09 Nov 2026 18:58:25 +0530",
+    "source": "The Hacker News",
+    "summary": "A system doesn&#x27;t always need a complicated bug to let someone in. Sometimes, a blank password is enough. That&#x27;s one of the bigger stories this week. And it gets worse when the tools meant to keep systems updated or running safely become par",
+    "created_at": "2026-11-09T14:31:06.777943+00:00"
   }
 ]
