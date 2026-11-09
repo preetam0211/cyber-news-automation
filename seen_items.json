@@ -6397,5 +6397,32 @@
     "source": "CybersecurityNews",
     "summary": "Varonis Threat Labs has built NotC2, a proof-of-concept command-and-control (C2) framework. It runs entirely on native AWS services and uses Amazon Bedrock to turn plain English into cloud commands. It is service abuse, not a flaw in Bedrock, and it ",
     "created_at": "2026-11-09T11:31:21.717596+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
+    "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
+    "link": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
+    "published": "Mon, 09 Nov 2026 16:26:25 +0530",
+    "source": "The Hacker News",
+    "summary": "Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker.\n\nKeplr uses a company called Web3Auth to run that Google and Apple sign-in. The attacker used a security flaw at that company to rea",
+    "created_at": "2026-11-09T12:01:12.777798+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
+    "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
+    "link": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
+    "published": "Mon, 09 Nov 2026 16:57:53 +0530",
+    "source": "The Hacker News",
+    "summary": "The login systems behind two car brands&#x27; mobile apps could be taken over completely, two security researchers found, allowing them to access any customer&#x27;s account and, for an owner with a connected car, unlock the doors and start the engin",
+    "created_at": "2026-11-09T12:01:23.936635+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171002",
+    "title": "CISA Warns of SonicWall SonicOS SSLVPN Vulnerability Exploited in Attacks",
+    "link": "https://cybersecuritynews.com/sonicwall-sonicos-sslvpn-vulnerability-exploited/",
+    "published": "Mon, 09 Nov 2026 11:40:18 +0000",
+    "source": "CybersecurityNews",
+    "summary": "CISA added a SonicWall SonicOS SSLVPN vulnerability, CVE-2026-19868, to its Known Exploited Vulnerabilities catalog, warning that valid-credential users can bypass SAML authentication controls and potentially evade multi-factor authentication. CISA a",
+    "created_at": "2026-11-09T12:01:39.554758+00:00"
   }
 ]
