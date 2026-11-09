@@ -6514,5 +6514,41 @@
     "source": "BleepingComputer",
     "summary": "AI agents are taking over routine governance, risk, and compliance tasks, forcing GRC professionals to rethink the skills needed to stay relevant. Anecdotes examines three essential skills for the AI-driven GRC workplace: data literacy, agent governa",
     "created_at": "2026-11-09T15:31:26.377958+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171115",
+    "title": "Anubis Ransomware Hackers Deploy New Lindnor Backdoor and 13 Security-Killing Tools in U.S. Attack",
+    "link": "https://cybersecuritynews.com/anubis-ransomware-lindnor-backdoor/",
+    "published": "Mon, 09 Nov 2026 15:31:18 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Attackers using Anubis ransomware broke into a U.S. organization in October 2026. They used a new custom backdoor called Lindnor and dropped at least 13 tools built to switch off security software. Symantec’s Protection Bulletin says the encryption p",
+    "created_at": "2026-11-09T16:31:16.755589+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
+    "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
+    "published": "Mon, 09 Nov 2026 11:04:57 -0500",
+    "source": "BleepingComputer",
+    "summary": "Hackers are actively exploiting the &quot;SSHole&quot; vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access. [...]",
+    "created_at": "2026-11-09T16:31:22.604303+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
+    "title": "Binance denies data breach after alleged ShinyHunters claims",
+    "link": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
+    "published": "Mon, 09 Nov 2026 11:12:39 -0500",
+    "source": "BleepingComputer",
+    "summary": "Binance, the world&#x27;s largest crypto exchange, has denied claims of a new security breach made by a threat actor using the &#x27;ShinyHunters&#x27; handle on a newly emerged underground cybercrime forum. [...]",
+    "created_at": "2026-11-09T16:31:53.123996+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171157",
+    "title": "GhostAction Hackers Compromise 500+ GitHub Accounts to Steal AWS, OpenAI, and Cloud Credentials",
+    "link": "https://cybersecuritynews.com/ghostaction-github-account-compromise/",
+    "published": "Mon, 09 Nov 2026 16:29:38 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new wave of the GhostAction campaign has hit more than 500 GitHub accounts. The attackers use those accounts to plant a fake security workflow in tens of thousands of repositories, and the workflow steals cloud, AI, and publishing keys. Security fi",
+    "created_at": "2026-11-09T16:32:04.653260+00:00"
   }
 ]
