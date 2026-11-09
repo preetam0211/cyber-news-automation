@@ -6424,5 +6424,23 @@
     "source": "CybersecurityNews",
     "summary": "CISA added a SonicWall SonicOS SSLVPN vulnerability, CVE-2026-19868, to its Known Exploited Vulnerabilities catalog, warning that valid-credential users can bypass SAML authentication controls and potentially evade multi-factor authentication. CISA a",
     "created_at": "2026-11-09T12:01:39.554758+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/",
+    "title": "Ukraine dismantles crypto scam network that stole €4.3 million",
+    "link": "https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/",
+    "published": "Mon, 09 Nov 2026 07:16:13 -0500",
+    "source": "BleepingComputer",
+    "summary": "Ukrainian law enforcement arrested four suspects in a case involving the theft of more than €4.3 million using a network of cryptocurrency investment scam call centers. [...]",
+    "created_at": "2026-11-09T12:31:16.854271+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171055",
+    "title": "Google Gemini Safety Bypass Lets Users Download AI-Generated Images That Its Own Filters Blocked",
+    "link": "https://cybersecuritynews.com/google-gemini-safety-bypass-ai-generated-images/",
+    "published": "Mon, 09 Nov 2026 12:26:16 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Google Gemini allowed users to download AI-generated images that its safety filters had refused to display, according to research published by Fog Security on November 5, 2026. The bypass did not require a jailbreak. Instead, the download feature som",
+    "created_at": "2026-11-09T12:31:28.235865+00:00"
   }
 ]
