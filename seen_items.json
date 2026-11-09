@@ -6307,5 +6307,23 @@
     "source": "CybersecurityNews",
     "summary": "CISA, FBI, HHS, USDA, and DOT have warned that hackers are targeting industrial refrigeration and cold chain monitoring systems worldwide, putting food, medicine, and other temperature-sensitive goods at risk. The November 5, 2026, warning urges oper",
     "created_at": "2026-11-09T07:01:27.957803+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
+    "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
+    "link": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
+    "published": "Mon, 09 Nov 2026 12:35:48 +0530",
+    "source": "The Hacker News",
+    "summary": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company&#x27;s office has pleaded not guilty.\n\nAccording to reports from Bloomberg and CNBC, Saudi national Abdulrahman Alfozan made an ap",
+    "created_at": "2026-11-09T08:01:16.104789+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170917",
+    "title": "Veeam Warns Critical 9.8 Linux Kernel Flaw Could Crash Backup Appliances and Disrupt Recovery Operations",
+    "link": "https://cybersecuritynews.com/veeam-warns-critical-linux-kernel-flaw/",
+    "published": "Mon, 09 Nov 2026 07:48:15 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Veeam warned that a critical Linux kernel flaw with a CVSS score of 9.8, could cause denial of service or memory corruption across backup and recovery products. Veeam’s November 6 impact statement identified a Linux kernel use-after-free vulnerabilit",
+    "created_at": "2026-11-09T08:01:27.439636+00:00"
   }
 ]
