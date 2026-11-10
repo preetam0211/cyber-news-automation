@@ -6847,5 +6847,23 @@
     "source": "The Hacker News",
     "summary": "An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran&#x27;s Islamic Revolutionary Guard Corps (IRGC), the French government said yesterday.\n\nThe attackers broke into controllers ",
     "created_at": "2026-11-10T09:31:09.462841+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171241",
+    "title": "Hackers Use 1,438 Fake FOFA Accounts to Steal OpenAI and DeepSeek API Keys Across the Internet",
+    "link": "https://cybersecuritynews.com/fake-fofa-accounts/",
+    "published": "Tue, 10 Nov 2026 09:39:54 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A threat actor has built an automated system that registers fake accounts on the FOFA search engine, scans the internet for leaked AI keys, and tests them for free use. The operation relies on 1,438 fake FOFA accounts to find exposed OpenAI and DeepS",
+    "created_at": "2026-11-10T10:01:13.924019+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171248",
+    "title": "Hackers Steal GitHub Tokens Through Malicious VS Code Extension That Remained Available for 18 Minutes",
+    "link": "https://cybersecuritynews.com/hackers-steal-github-tokens/",
+    "published": "Tue, 10 Nov 2026 09:54:32 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A poisoned version of the popular Nx Console extension for Visual Studio Code stayed on the official VS Code Marketplace for only about 18 minutes. That was long enough for some developers to install it and hand over their secrets. The theft led to o",
+    "created_at": "2026-11-10T10:01:28.470992+00:00"
   }
 ]
