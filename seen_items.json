@@ -6865,5 +6865,50 @@
     "source": "CybersecurityNews",
     "summary": "A poisoned version of the popular Nx Console extension for Visual Studio Code stayed on the official VS Code Marketplace for only about 18 minutes. That was long enough for some developers to install it and hand over their secrets. The theft led to o",
     "created_at": "2026-11-10T10:01:28.470992+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
+    "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
+    "link": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
+    "published": "Tue, 10 Nov 2026 15:32:40 +0530",
+    "source": "The Hacker News",
+    "summary": "Four flaws that attackers could exploit without logging in were fixed today as part of SAP&#x27;s monthly Security Patch Day—the vendor rates all four 10.0, the maximum CVSS score.\n\nThree are in the SAP NetWeaver application server, the software SAP ",
+    "created_at": "2026-11-10T10:31:13.693845+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171250",
+    "title": "Anthropic Launches Claude Mythos 5.2, Scoring 76.3% on Cybersecurity Benchmark to Identify 0-Day Flaws",
+    "link": "https://cybersecuritynews.com/claude-mythos-5-2-released/",
+    "published": "Tue, 10 Nov 2026 10:03:25 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Anthropic has launched Claude Mythos 5.2, its latest AI model for cybersecurity engineering, reporting a 76.3% score on CyScenarioBench. Released on November 9 alongside Claude Fable 5.2, the model is designed to help security teams find, reproduce, ",
+    "created_at": "2026-11-10T10:31:19.992512+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
+    "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
+    "link": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
+    "published": "Tue, 10 Nov 2026 05:04:32 -0500",
+    "source": "BleepingComputer",
+    "summary": "The Russian state-backed threat group Turla has been using a new malicious toolset called &#x27;Cereal&#x27; to intercept emails on Microsoft Exchange servers at government organizations. [...]",
+    "created_at": "2026-11-10T10:31:30.571986+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
+    "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
+    "published": "Tue, 10 Nov 2026 05:10:20 -0500",
+    "source": "BleepingComputer",
+    "summary": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]",
+    "created_at": "2026-11-10T10:31:41.942950+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171267",
+    "title": "France Blames Iranian Hackers for Hijacking Refrigeration Systems at 700 Supermarkets via Remote Defrost Controls",
+    "link": "https://cybersecuritynews.com/iranian-hackers-supermarket-cyberattacks/",
+    "published": "Tue, 10 Nov 2026 10:23:06 +0000",
+    "source": "CybersecurityNews",
+    "summary": "France has blamed Iran’s Islamic Revolutionary Guard Corps for a cyberattack that disrupted refrigeration at around 700 supermarket sites. During the night of October 11–12, 2026, attackers changed cooling controls remotely, causing major food losses",
+    "created_at": "2026-11-10T10:31:48.212578+00:00"
   }
 ]
