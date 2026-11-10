@@ -6631,5 +6631,14 @@
     "source": "BleepingComputer",
     "summary": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]",
     "created_at": "2026-11-09T22:31:08.815506+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
+    "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
+    "link": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
+    "published": "Mon, 09 Nov 2026 18:52:12 -0500",
+    "source": "BleepingComputer",
+    "summary": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university&#x27;s databases and stolen sensitive student, employee, and research data. [...]",
+    "created_at": "2026-11-10T00:01:13.197912+00:00"
   }
 ]
