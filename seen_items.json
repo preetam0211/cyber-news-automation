@@ -6838,5 +6838,14 @@
     "source": "CybersecurityNews",
     "summary": "A fake Ruby package called strutil-core looked like a harmless text helper. In fact, it ran a credential-stealing worm the moment a developer installed it. The worm also wrote backdoors into the settings of AI coding tools. It could even delete a vic",
     "created_at": "2026-11-10T09:02:10.571794+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
+    "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
+    "link": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
+    "published": "Tue, 10 Nov 2026 14:38:20 +0530",
+    "source": "The Hacker News",
+    "summary": "An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran&#x27;s Islamic Revolutionary Guard Corps (IRGC), the French government said yesterday.\n\nThe attackers broke into controllers ",
+    "created_at": "2026-11-10T09:31:09.462841+00:00"
   }
 ]
