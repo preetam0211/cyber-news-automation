@@ -7063,5 +7063,14 @@
     "source": "CybersecurityNews",
     "summary": "Apache Airflow has a critical remote code execution flaw that lets anyone with write access to the Celery message broker run code on worker nodes. The attacker needs no credentials, DAG, or scheduler. The bug is tracked as CVE-2026-68982 and is class",
     "created_at": "2026-11-10T14:01:52.101824+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171350",
+    "title": "North Korean Hackers Target Drone Technology and Software Supply Chains in New Cyberespionage Campaigns",
+    "link": "https://cybersecuritynews.com/north-korean-hackers-3/",
+    "published": "Tue, 10 Nov 2026 14:09:27 +0000",
+    "source": "CybersecurityNews",
+    "summary": "North Korean hackers have renewed efforts to steal drone technology while expanding attacks against software developers and the projects they maintain. Activity tracked between April and September 2026 shows Lazarus returning to European defense targ",
+    "created_at": "2026-11-10T14:31:14.969211+00:00"
   }
 ]
