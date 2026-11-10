@@ -6649,5 +6649,14 @@
     "source": "CybersecurityNews",
     "summary": "N-able took its hosted N-central environments offline on November 9, 2026, after an independent researcher published details of 33 alleged zero-day vulnerabilities and exploit code. The company also told customers running N-central on their own serve",
     "created_at": "2026-11-10T03:31:13.815199+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171180",
+    "title": "Terminal2Shell: 55-Year-Old ‘Zero-Day’ Dating Back to 1971 Claims to Affect Billions of Devices",
+    "link": "https://cybersecuritynews.com/terminal2shell-55-year-old-zero-day/",
+    "published": "Tue, 10 Nov 2026 03:37:47 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Terminal2Shell claims a critical flaw dating back to 1971 affects more than two billion devices, allowing anyone who opens a terminal to gain an interactive shell. However, the website is satire, not a confirmed vulnerability disclosure. Its “exploit",
+    "created_at": "2026-11-10T04:01:15.619423+00:00"
   }
 ]
