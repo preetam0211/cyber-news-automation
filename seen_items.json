@@ -7207,5 +7207,14 @@
     "source": "CybersecurityNews",
     "summary": "SAP has released fixes for PROXYGATE and ICM2SHELL, critical security flaws that could let attackers take control of SAP systems without signing in. Disclosed during the November 10, 2026, Security Patch Day, the vulnerabilities carry maximum CVSS sc",
     "created_at": "2026-11-10T18:01:14.597875+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171456",
+    "title": "BYOD Ransomware Group Allegedly Claims Toyota Data Breach",
+    "link": "https://cybersecuritynews.com/toyota-data-breach-claim/",
+    "published": "Tue, 10 Nov 2026 18:14:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The BYOD ransomware group has allegedly claimed a Toyota data breach, saying it obtained personal information and access involving kiosk devices. A supplied screenshot shows a Toyota listing updated on November 10, 2026. The claim remains unverified,",
+    "created_at": "2026-11-10T18:31:18.351551+00:00"
   }
 ]
