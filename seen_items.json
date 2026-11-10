@@ -6712,5 +6712,14 @@
     "source": "CybersecurityNews",
     "summary": "A credential-stealing malware called RevStealer is now spread through more than 100 linked domains, hijacked YouTube channels, and fake AI tools. It targets gamers, content creators, and people who want free software. The goal is simple: steal saved ",
     "created_at": "2026-11-10T07:31:22.214998+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
+    "title": "Fireworks AI discloses new breach after cloud provider hack",
+    "link": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
+    "published": "Tue, 10 Nov 2026 02:49:58 -0500",
+    "source": "BleepingComputer",
+    "summary": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]",
+    "created_at": "2026-11-10T08:01:09.930862+00:00"
   }
 ]
