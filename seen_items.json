@@ -7126,5 +7126,50 @@
     "source": "BleepingComputer",
     "summary": "Binance is warning about a vulnerability in Apple&#x27;s iOS 26.7.1, 27.0.1, and 27.2 that could allow third-party apps to read private files stored by other apps, including cryptocurrency seed phrases, secret keys, and login credentials. [...]",
     "created_at": "2026-11-10T16:01:44.966900+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
+    "title": "Fireworks AI Breach Widens to Expose Customer Billing Data and Incomplete Model Weights",
+    "link": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
+    "published": "Tue, 10 Nov 2026 21:03:59 +0530",
+    "source": "The Hacker News",
+    "summary": "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month  uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and incomplete models for ",
+    "created_at": "2026-11-10T16:31:20.627196+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
+    "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
+    "link": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
+    "published": "Tue, 10 Nov 2026 21:28:44 +0530",
+    "source": "The Hacker News",
+    "summary": "The threat actor known as Blind Eagle has resurfaced with a new campaign targeting organizations in Latin America through judicial and administrative-themed phishing lures to deliver a remote access trojan (RAT) that shares its lineage with AsyncRAT ",
+    "created_at": "2026-11-10T16:31:27.330841+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
+    "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
+    "link": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
+    "published": "Tue, 10 Nov 2026 21:30:55 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant.\n\nThe activity, observed by Huntress in October 2026, involves the exploitation of a chain comp",
+    "created_at": "2026-11-10T16:31:46.502366+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171415",
+    "title": "Barracuda Confirms Active Exploitation of Email Gateway Flaws Allowing Root Access",
+    "link": "https://cybersecuritynews.com/barracuda-email-gateway-flaws/",
+    "published": "Tue, 10 Nov 2026 16:05:32 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Barracuda has confirmed active exploitation of security flaws affecting its Email Security Gateway (ESG), warning that attackers could combine two vulnerabilities to gain root access without logging in. In a November 9, 2026, update issued at 9:00 p.",
+    "created_at": "2026-11-10T16:31:52.500926+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
+    "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
+    "published": "Tue, 10 Nov 2026 11:17:16 -0500",
+    "source": "BleepingComputer",
+    "summary": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]",
+    "created_at": "2026-11-10T16:32:07.288686+00:00"
   }
 ]
