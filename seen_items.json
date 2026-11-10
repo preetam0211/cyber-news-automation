@@ -6685,5 +6685,32 @@
     "source": "The Hacker News",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added four security flaws impacting GPUStack, SignalWire FreeSwitch, OpenBSD OpenSSH, and IBM Aspera Faspex to its Known Exploited Vulnerabilities (KEV) catalog, citing eviden",
     "created_at": "2026-11-10T07:01:20.551570+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html",
+    "title": "N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits",
+    "link": "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html",
+    "published": "Tue, 10 Nov 2026 12:14:36 +0530",
+    "source": "The Hacker News",
+    "summary": "N-able said it has taken N-central Hosted Environments offline and is urging on-premises customers to shut down their servers until further notice following the public disclosure of over 30 vulnerabilities collectively tracked as Able2Shell.\n\n&quot;A",
+    "created_at": "2026-11-10T07:31:06.595040+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
+    "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
+    "link": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
+    "published": "Tue, 10 Nov 2026 12:22:54 +0530",
+    "source": "The Hacker News",
+    "summary": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild.\n\nThe high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: N/A), has been des",
+    "created_at": "2026-11-10T07:31:15.713391+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171209",
+    "title": "RevStealer Uses 100+ Domains and Hijacked YouTube Channels to Spread Credential-Stealing Malware",
+    "link": "https://cybersecuritynews.com/revstealer-uses-100-domains/",
+    "published": "Tue, 10 Nov 2026 07:25:45 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A credential-stealing malware called RevStealer is now spread through more than 100 linked domains, hijacked YouTube channels, and fake AI tools. It targets gamers, content creators, and people who want free software. The goal is simple: steal saved ",
+    "created_at": "2026-11-10T07:31:22.214998+00:00"
   }
 ]
