@@ -7243,5 +7243,50 @@
     "source": "BleepingComputer",
     "summary": "Today is Microsoft&#x27;s November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]",
     "created_at": "2026-11-10T19:31:21.657061+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
+    "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
+    "link": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
+    "published": "Tue, 10 Nov 2026 23:13:23 +0530",
+    "source": "The Hacker News",
+    "summary": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research institutions, and critical infrastructur",
+    "created_at": "2026-11-10T20:01:15.762847+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
+    "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
+    "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
+    "published": "Tue, 10 Nov 2026 23:42:21 +0530",
+    "source": "The Hacker News",
+    "summary": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild.\n\nThe authentication bypass flaw, which does not yet have a CVE identifier, is tracked as VSA-2026",
+    "created_at": "2026-11-10T20:01:21.931636+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
+    "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+    "link": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
+    "published": "Wed, 11 Nov 2026 00:49:39 +0530",
+    "source": "The Hacker News",
+    "summary": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI&#x27;s inference servers last Sunday.\n\nThe attacker could also have seen requests being processed on that server that day, i",
+    "created_at": "2026-11-10T20:01:36.678501+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
+    "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+    "link": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
+    "published": "Wed, 11 Nov 2026 00:53:10 +0530",
+    "source": "The Hacker News",
+    "summary": "A flaw in Git can let a malicious repository run an attacker&#x27;s code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.50 through 2.55 series in",
+    "created_at": "2026-11-10T20:01:48.076932+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
+    "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
+    "published": "Tue, 10 Nov 2026 14:31:11 -0500",
+    "source": "BleepingComputer",
+    "summary": "A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform&#x27;s AWS account to access and exfiltrate data from multiple customers&#x27; AWS environments. [...]",
+    "created_at": "2026-11-10T20:01:54.168526+00:00"
   }
 ]
