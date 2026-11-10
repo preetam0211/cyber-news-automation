@@ -7072,5 +7072,14 @@
     "source": "CybersecurityNews",
     "summary": "North Korean hackers have renewed efforts to steal drone technology while expanding attacks against software developers and the projects they maintain. Activity tracked between April and September 2026 shows Lazarus returning to European defense targ",
     "created_at": "2026-11-10T14:31:14.969211+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
+    "title": "Ransomware recovery is now a client retention metric",
+    "link": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
+    "published": "Tue, 10 Nov 2026 10:01:11 -0500",
+    "source": "BleepingComputer",
+    "summary": "Recovering from ransomware doesn&#x27;t guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these problems and how integrat",
+    "created_at": "2026-11-10T15:31:23.517541+00:00"
   }
 ]
