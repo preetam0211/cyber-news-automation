@@ -6721,5 +6721,59 @@
     "source": "BleepingComputer",
     "summary": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]",
     "created_at": "2026-11-10T08:01:09.930862+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170645",
+    "title": "Top 10 Best Detection Engineering Tools in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-detection-engineering-tools/",
+    "published": "Tue, 10 Nov 2026 08:07:32 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Detection engineering is the discipline that treats rules like software: versioned, tested, peer-reviewed, deployed through pipelines, and measured against ATT&amp;CK coverage instead of vibes. The 2026 tooling spans as-code platforms, coverage mathe",
+    "created_at": "2026-11-10T08:31:13.735605+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170717",
+    "title": "Top 10 Best GenAI SOC Copilots in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-genai-soc-copilots/",
+    "published": "Tue, 10 Nov 2026 08:14:07 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The SOC copilot market split into two species while nobody was renaming it: assistants that summarize, draft, and answer questions inside a human’s workflow, and agents that autonomously work tier-1 queues end-to-end under policy guardrails. The 2026",
+    "created_at": "2026-11-10T08:31:25.120956+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
+    "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
+    "link": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
+    "published": "Tue, 10 Nov 2026 13:46:14 +0530",
+    "source": "The Hacker News",
+    "summary": "Anthropic on Monday released Claude Fable 5.2 and Claude Mythos 5.2 models, which it said exhibit improvements in coding, reasoning, and vision.\n\nDuring pre-release training, the large language models (LLMs) helped its engineers &quot;complete otherw",
+    "created_at": "2026-11-10T08:31:34.570122+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170754",
+    "title": "Top 10 Best Digital Forensics Tools in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-digital-forensics-tools/",
+    "published": "Tue, 10 Nov 2026 08:21:39 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Forensics is the security discipline with a courtroom at the end: every tool here is ultimately judged by whether its findings survive cross-examination. The 2026 toolkit spans mobile-extraction giants, disk-and-artifact workhorses, memory-analysis f",
+    "created_at": "2026-11-10T08:31:40.929678+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171215",
+    "title": "North Korean Hackers Create Fake Meme Coins to Launder Stolen Funds From $6.4 Billion Binance Hack",
+    "link": "https://cybersecuritynews.com/fake-meme-coins/",
+    "published": "Tue, 10 Nov 2026 08:25:01 +0000",
+    "source": "CybersecurityNews",
+    "summary": "North Korean hackers are creating disposable meme coins to move cryptocurrency stolen in the $6.4 billion Binance hack, using fake trading activity to make criminal proceeds resemble ordinary investment returns. The operation places decentralized exc",
+    "created_at": "2026-11-10T08:31:52.337018+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170781",
+    "title": "Top 10 Best GRC Platforms in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-grc-platforms/",
+    "published": "Tue, 10 Nov 2026 08:26:47 +0000",
+    "source": "CybersecurityNews",
+    "summary": "GRC platforms carry security’s least glamorous truth: most risk programs fail on adoption, not analytics the business stops feeding the system, and the risk register quietly becomes fiction. The 2026 ranking therefore weighs usability and time-to-val",
+    "created_at": "2026-11-10T08:31:58.632691+00:00"
   }
 ]
