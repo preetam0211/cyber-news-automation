@@ -7198,5 +7198,14 @@
     "source": "CybersecurityNews",
     "summary": "Railway has revealed how an attacker used AI agents, a build system flaw, and cloud access mistakes to steal customer secrets and generate an estimated $740,000 in unauthorized charges. Its November 10 report describes an attack that crossed several ",
     "created_at": "2026-11-10T17:31:19.936713+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171447",
+    "title": "Hackers Can Exploit SAP PROXYGATE and ICM2SHELL Flaws for Unauthorized Full System Access",
+    "link": "https://cybersecuritynews.com/sap-proxygate-and-icm2shell-flaws/",
+    "published": "Tue, 10 Nov 2026 17:32:01 +0000",
+    "source": "CybersecurityNews",
+    "summary": "SAP has released fixes for PROXYGATE and ICM2SHELL, critical security flaws that could let attackers take control of SAP systems without signing in. Disclosed during the November 10, 2026, Security Patch Day, the vulnerabilities carry maximum CVSS sc",
+    "created_at": "2026-11-10T18:01:14.597875+00:00"
   }
 ]
