@@ -6937,5 +6937,23 @@
     "source": "CybersecurityNews",
     "summary": "SAP’s November 2026 Security Patch Day brings fixes for critical vulnerabilities across SAP NetWeaver, Web Dispatcher, Gateway, and other business applications. Released on November 10, the update includes 35 new security notes, four GitHub security ",
     "created_at": "2026-11-10T11:31:07.246442+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
+    "title": "Beyond the Alert: The Case for Rich Network Data",
+    "link": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
+    "published": "Tue, 10 Nov 2026 17:08:13 +0530",
+    "source": "The Hacker News",
+    "summary": "At some point your security will fail. This isn’t pessimism. It’s not because your team and tools aren’t sophisticated enough. It’s the reason we have detections in the first place. And, it’s why once we accept that prevention has its limits, we arri",
+    "created_at": "2026-11-10T12:01:16.117073+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171296",
+    "title": "Binance Warns iPhone Users of Major iOS Flaw That May Expose Crypto Wallet, Private Keys",
+    "link": "https://cybersecuritynews.com/ios-flaw-expose-crypto-wallet/",
+    "published": "Tue, 10 Nov 2026 11:40:16 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Binance has warned iPhone users about worse_query, an iOS flaw that could let malicious apps read files belonging to other apps. In its November 10 warning, the exchange named iOS 26.7.1, 27.0.1, and 27.2 as affected, saying seed phrases, private key",
+    "created_at": "2026-11-10T12:01:22.288869+00:00"
   }
 ]
