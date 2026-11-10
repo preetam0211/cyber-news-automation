@@ -7189,5 +7189,14 @@
     "source": "CybersecurityNews",
     "summary": "Notion has confirmed that a security incident at Fireworks AI exposed Notion AI chat transcripts linked to fewer than 1% of its customer workspaces. Insights, a feature that helps teams understand their AI usage, used the affected conversations. Noti",
     "created_at": "2026-11-10T17:01:18.502272+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171449",
+    "title": "Railway Reveals How Hackers Used AI Agents to Steal API Keys and Rack Up $740,000 in Charges",
+    "link": "https://cybersecuritynews.com/railway-details-data-breach/",
+    "published": "Tue, 10 Nov 2026 17:19:58 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Railway has revealed how an attacker used AI agents, a build system flaw, and cloud access mistakes to steal customer secrets and generate an estimated $740,000 in unauthorized charges. Its November 10 report describes an attack that crossed several ",
+    "created_at": "2026-11-10T17:31:19.936713+00:00"
   }
 ]
