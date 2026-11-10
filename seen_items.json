@@ -6928,5 +6928,14 @@
     "source": "The Hacker News",
     "summary": "An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that could let someone added to a group access messages se",
     "created_at": "2026-11-10T11:01:20.549447+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171276",
+    "title": "SAP Security Patch Day – Critical SAP NetWeaver, Dispatcher and Gateway Vulnerabilities Patched",
+    "link": "https://cybersecuritynews.com/sap-security-patch-day-november/",
+    "published": "Tue, 10 Nov 2026 11:10:19 +0000",
+    "source": "CybersecurityNews",
+    "summary": "SAP’s November 2026 Security Patch Day brings fixes for critical vulnerabilities across SAP NetWeaver, Web Dispatcher, Gateway, and other business applications. Released on November 10, the update includes 35 new security notes, four GitHub security ",
+    "created_at": "2026-11-10T11:31:07.246442+00:00"
   }
 ]
