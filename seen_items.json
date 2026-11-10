@@ -7081,5 +7081,50 @@
     "source": "BleepingComputer",
     "summary": "Recovering from ransomware doesn&#x27;t guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these problems and how integrat",
     "created_at": "2026-11-10T15:31:23.517541+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171365",
+    "title": "AI-Powered Malware Analysis: From Hidden Phishing Attacks to Faster SOC Response",
+    "link": "https://cybersecuritynews.com/ai-powered-malware-analysis/",
+    "published": "Tue, 10 Nov 2026 15:47:38 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A suspicious PDF opens normally. The link inside leads to a CAPTCHA page. Nothing obviously malicious appears, yet the real attack is still several steps away.  For SOC analysts, cases like this can turn a routine phishing alert into a lengthy invest",
+    "created_at": "2026-11-10T16:01:11.433784+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171395",
+    "title": "One Identity Unveils Identity Manager 10.0 LTS with AI and Modern UX",
+    "link": "https://cybersecuritynews.com/one-identity-unveils-identity-manager-10-0-lts-with-ai-and-modern-ux/",
+    "published": "Tue, 10 Nov 2026 15:49:23 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Alisa Viejo, California, November 10th, 2026, CyberNewswire One Identity today unveiled Identity Manager 10.0 LTS, modernizing the identity governance experience with browser-based administration, AI-assisted insights and streamlined automation for e",
+    "created_at": "2026-11-10T16:01:22.956260+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171404",
+    "title": "One Identity Unveils Active Roles 8.6 with Enhanced Security and Administration",
+    "link": "https://cybersecuritynews.com/one-identity-active-roles-8-6-security-administration/",
+    "published": "Tue, 10 Nov 2026 15:50:35 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Alisa Viejo, California, November 10th, 2026, CyberNewswire Active Roles 8.6: Cumulative security, feature and administration upgrades  One Identity has introduced Active Roles 8.6, strengthening secure and streamlined Active Directory administration",
+    "created_at": "2026-11-10T16:01:30.504455+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171393",
+    "title": "One Identity Unveils Safeguard 9.0 for Simpler PAM",
+    "link": "https://cybersecuritynews.com/one-identity-unveils-safeguard-9-0-for-simpler-pam/",
+    "published": "Tue, 10 Nov 2026 15:59:11 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Alisa Vijeo, California, November 10th, 2026, CyberNewswire One Identity today unveiled Safeguard 9.0, a major update designed to reduce the infrastructure, administrative overhead and operational complexity associated with enterprise privileged acce",
+    "created_at": "2026-11-10T16:01:39.076475+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
+    "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
+    "link": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
+    "published": "Tue, 10 Nov 2026 10:59:19 -0500",
+    "source": "BleepingComputer",
+    "summary": "Binance is warning about a vulnerability in Apple&#x27;s iOS 26.7.1, 27.0.1, and 27.2 that could allow third-party apps to read private files stored by other apps, including cryptocurrency seed phrases, secret keys, and login credentials. [...]",
+    "created_at": "2026-11-10T16:01:44.966900+00:00"
   }
 ]
