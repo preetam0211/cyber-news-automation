@@ -7306,5 +7306,14 @@
     "source": "BleepingComputer",
     "summary": "Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]",
     "created_at": "2026-11-10T21:01:14.797937+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
+    "title": "Railway breach leads to $740,000 in fraudulent AI charges",
+    "link": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
+    "published": "Tue, 10 Nov 2026 17:20:19 -0500",
+    "source": "BleepingComputer",
+    "summary": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000 worksp",
+    "created_at": "2026-11-10T22:31:07.055956+00:00"
   }
 ]
