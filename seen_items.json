@@ -6640,5 +6640,14 @@
     "source": "BleepingComputer",
     "summary": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university&#x27;s databases and stolen sensitive student, employee, and research data. [...]",
     "created_at": "2026-11-10T00:01:13.197912+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171177",
+    "title": "N-able Takes N-central Servers Offline Worldwide After 33 0-Day Vulnerabilities and Able2Shell Exploits",
+    "link": "https://cybersecuritynews.com/n-able-takes-n-central-servers-offline/",
+    "published": "Tue, 10 Nov 2026 02:34:38 +0000",
+    "source": "CybersecurityNews",
+    "summary": "N-able took its hosted N-central environments offline on November 9, 2026, after an independent researcher published details of 33 alleged zero-day vulnerabilities and exploit code. The company also told customers running N-central on their own serve",
+    "created_at": "2026-11-10T03:31:13.815199+00:00"
   }
 ]
