@@ -6658,5 +6658,14 @@
     "source": "CybersecurityNews",
     "summary": "Terminal2Shell claims a critical flaw dating back to 1971 affects more than two billion devices, allowing anyone who opens a terminal to gain an interactive shell. However, the website is satire, not a confirmed vulnerability disclosure. Its “exploit",
     "created_at": "2026-11-10T04:01:15.619423+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171183",
+    "title": "Google Chrome 0-Day Vulnerability in the Wild to Execute Malicious Code Remotely",
+    "link": "https://cybersecuritynews.com/google-chrome-0-day-exploited/",
+    "published": "Tue, 10 Nov 2026 04:21:10 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Google has fixed a Chrome zero-day that attackers are already using. The flaw is tracked as CVE-2026-125350, and it lets a remote attacker run malicious code in the browser. Google’s Stable channel update moves Chrome to version 157.0.8103.50/.51 for",
+    "created_at": "2026-11-10T04:31:19.564935+00:00"
   }
 ]
