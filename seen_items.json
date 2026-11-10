@@ -6910,5 +6910,23 @@
     "source": "CybersecurityNews",
     "summary": "France has blamed Iran’s Islamic Revolutionary Guard Corps for a cyberattack that disrupted refrigeration at around 700 supermarket sites. During the night of October 11–12, 2026, attackers changed cooling controls remotely, causing major food losses",
     "created_at": "2026-11-10T10:31:48.212578+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
+    "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
+    "link": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
+    "published": "Tue, 10 Nov 2026 15:37:29 +0530",
+    "source": "The Hacker News",
+    "summary": "The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that&#x27;s used to break into victims&#x27; Microsoft Exchange servers with an aim to surreptitiou",
+    "created_at": "2026-11-10T11:01:13.784685+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
+    "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
+    "link": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
+    "published": "Tue, 10 Nov 2026 15:46:51 +0530",
+    "source": "The Hacker News",
+    "summary": "An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that could let someone added to a group access messages se",
+    "created_at": "2026-11-10T11:01:20.549447+00:00"
   }
 ]
