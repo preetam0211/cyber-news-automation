@@ -6955,5 +6955,14 @@
     "source": "CybersecurityNews",
     "summary": "Binance has warned iPhone users about worse_query, an iOS flaw that could let malicious apps read files belonging to other apps. In its November 10 warning, the exchange named iOS 26.7.1, 27.0.1, and 27.2 as affected, saying seed phrases, private key",
     "created_at": "2026-11-10T12:01:22.288869+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
+    "title": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
+    "link": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
+    "published": "Tue, 10 Nov 2026 07:07:03 -0500",
+    "source": "BleepingComputer",
+    "summary": "SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software. [...]",
+    "created_at": "2026-11-10T12:31:10.159085+00:00"
   }
 ]
