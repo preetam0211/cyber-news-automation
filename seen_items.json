@@ -7009,5 +7009,59 @@
     "source": "CybersecurityNews",
     "summary": "Hackers abused trusted Qubole integrations to enter customer AWS accounts, steal secrets, and download data from Amazon S3, sometimes taking entire buckets in one session. The activity ran from October 14 through October 26, 2026, using IAM credentia",
     "created_at": "2026-11-10T13:31:45.416283+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171342",
+    "title": "Turla Hackers Use Cereal Malware Toolset to Exploit Microsoft Exchange Servers for Email Theft",
+    "link": "https://cybersecuritynews.com/turla-hackers-attacking-exchange-servers/",
+    "published": "Tue, 10 Nov 2026 13:42:57 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Russia-aligned hacking group Turla is using a newly documented malware toolset called Cereal to turn compromised Microsoft Exchange servers into email collection systems and command centers. ESET Research disclosed the findings on November 10, 2026, ",
+    "created_at": "2026-11-10T14:01:08.978866+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171286",
+    "title": "Hackers Exploit IBM Aspera Faspex Vulnerability, Granting Admin Access to Any User",
+    "link": "https://cybersecuritynews.com/hackers-exploit-ibm-aspera-faspex-vulnerability/",
+    "published": "Tue, 10 Nov 2026 13:49:07 +0000",
+    "source": "CybersecurityNews",
+    "summary": "IBM has released a security update for a critical IBM Aspera Faspex vulnerability that lets a signed-in user bypass access checks and gain full administrative privileges. Tracked as CVE-2026-123218, the flaw affects versions 5.0.0 through 5.0.19 and ",
+    "created_at": "2026-11-10T14:01:14.290446+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171293",
+    "title": "CISA Confirms Hackers are Exploiting SSHole, the OpenSSH Vulnerability",
+    "link": "https://cybersecuritynews.com/hackers-exploiting-sshole-the-openssh-bug/",
+    "published": "Tue, 10 Nov 2026 13:53:36 +0000",
+    "source": "CybersecurityNews",
+    "summary": "CISA has flagged active exploitation of SSHole, an OpenSSH authentication bypass (CVE-2026-123158) that lets remote attackers access certain Linux accounts without a valid password or SSH key. The OpenSSH flaw affects specific server configurations, ",
+    "created_at": "2026-11-10T14:01:14.888731+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171339",
+    "title": "New Mirax Android Malware Uses Accessibility Services to Remotely Control Phones and Steal Bank Funds",
+    "link": "https://cybersecuritynews.com/new-mirax-android-malware/",
+    "published": "Tue, 10 Nov 2026 13:54:17 +0000",
+    "source": "CybersecurityNews",
+    "summary": "An Android banking malware campaign is using advertisements inside streaming apps to turn everyday phones into tools for financial theft. Mirax, the malware abuses Accessibility Services to watch screens, capture passwords, intercept verification cod",
+    "created_at": "2026-11-10T14:01:21.816603+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170936",
+    "title": "10 Best Adversarial Exposure Validation (AEV) Platforms in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-adversarial-exposure-validation-platforms/",
+    "published": "Tue, 10 Nov 2026 13:56:11 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Adversarial exposure validation (AEV) is the category that happened when breach-and-attack simulation tools and autonomous penetration testing stopped pretending to be different markets: both exist to replace “we believe our controls work” with “we a",
+    "created_at": "2026-11-10T14:01:35.028122+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171318",
+    "title": "Critical Apache Airflow RCE Flaw Allows Attackers to Execute Code Without Authentication",
+    "link": "https://cybersecuritynews.com/critical-apache-airflow-rce-flaw/",
+    "published": "Tue, 10 Nov 2026 13:57:52 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Apache Airflow has a critical remote code execution flaw that lets anyone with write access to the Celery message broker run code on worker nodes. The attacker needs no credentials, DAG, or scheduler. The bug is tracked as CVE-2026-68982 and is class",
+    "created_at": "2026-11-10T14:01:52.101824+00:00"
   }
 ]
