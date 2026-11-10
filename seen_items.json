@@ -7216,5 +7216,14 @@
     "source": "CybersecurityNews",
     "summary": "The BYOD ransomware group has allegedly claimed a Toyota data breach, saying it obtained personal information and access involving kiosk devices. A supplied screenshot shows a Toyota listing updated on November 10, 2026. The claim remains unverified,",
     "created_at": "2026-11-10T18:31:18.351551+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
+    "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
+    "published": "Tue, 10 Nov 2026 13:33:26 -0500",
+    "source": "BleepingComputer",
+    "summary": "Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
+    "created_at": "2026-11-10T19:01:14.823309+00:00"
   }
 ]
