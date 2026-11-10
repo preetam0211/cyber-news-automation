@@ -7297,5 +7297,14 @@
     "source": "BleepingComputer",
     "summary": "Microsoft released the Windows 10 KB5131096 extended security update, which includes this month&#x27;s November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
     "created_at": "2026-11-10T20:31:14.114661+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
+    "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
+    "link": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
+    "published": "Tue, 10 Nov 2026 15:54:55 -0500",
+    "source": "BleepingComputer",
+    "summary": "Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]",
+    "created_at": "2026-11-10T21:01:14.797937+00:00"
   }
 ]
