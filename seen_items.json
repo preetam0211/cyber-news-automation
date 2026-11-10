@@ -6973,5 +6973,41 @@
     "source": "The Hacker News",
     "summary": "An iOS sandbox escape published on GitHub lets an app read other apps&#x27; files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance warned today. Apple&#x27;s ",
     "created_at": "2026-11-10T13:01:07.356450+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171324",
+    "title": "Finite State Raises $27 Million to Help Device Makers Fight ‘Vulnpocalypse’ with AI-Powered Product Security",
+    "link": "https://cybersecuritynews.com/finite-state-raises-27-million-to-help-device-makers-fight-vulnpocalypse-with-ai-powered-product-security/",
+    "published": "Tue, 10 Nov 2026 13:17:34 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Columbus, Ohio, United States, November 10th, 2026, CyberNewswire Funding Will Scale Finite State’s Autonomous Platform and International Expansion as Manufacturers Face a Surge of AI-Discovered Flaws and New Global Security Mandates Finite State, a ",
+    "created_at": "2026-11-10T13:31:17.405231+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171260",
+    "title": "Dark Storm Team Expands DDoS-for-Hire Operations, Demands $5,000 to Stop Alleged Amino Attack",
+    "link": "https://cybersecuritynews.com/dark-storm-team/",
+    "published": "Tue, 10 Nov 2026 13:18:07 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Dark Storm Team is combining political attack claims with a growing cybercrime business, advertising distributed denial-of-service services and demanding money to stop alleged disruption. A November 6, 2026, investigation documents its Telegram activ",
+    "created_at": "2026-11-10T13:31:28.343048+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171331",
+    "title": "OffSec Celebrates 20 Years of Practitioner-Built Training From the Creators of Kali Linux and OSCP",
+    "link": "https://cybersecuritynews.com/offsec-celebrates-20-years-of-practitioner-built-training-from-the-creators-of-kali-linux-and-oscp/",
+    "published": "Tue, 10 Nov 2026 13:25:46 +0000",
+    "source": "CybersecurityNews",
+    "summary": "New York, USA, November 10th, 2026, CyberNewswire Meet the rest of OffSec as the company brings its hands-on approach to entire cyber teams. Kali Linux. OSCP. Try Harder. For 20 years, OffSec has set the standard for the tools security practitioners ",
+    "created_at": "2026-11-10T13:31:39.293334+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171340",
+    "title": "Hackers Exploit Trusted Qubole IAM Roles to Access AWS Accounts and Download Entire S3 Buckets",
+    "link": "https://cybersecuritynews.com/qubole-iam-roles/",
+    "published": "Tue, 10 Nov 2026 13:26:51 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers abused trusted Qubole integrations to enter customer AWS accounts, steal secrets, and download data from Amazon S3, sometimes taking entire buckets in one session. The activity ran from October 14 through October 26, 2026, using IAM credentia",
+    "created_at": "2026-11-10T13:31:45.416283+00:00"
   }
 ]
