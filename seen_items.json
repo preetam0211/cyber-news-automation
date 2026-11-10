@@ -6775,5 +6775,68 @@
     "source": "CybersecurityNews",
     "summary": "GRC platforms carry security’s least glamorous truth: most risk programs fail on adoption, not analytics the business stops feeding the system, and the risk register quietly becomes fiction. The 2026 ranking therefore weighs usability and time-to-val",
     "created_at": "2026-11-10T08:31:58.632691+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=170850",
+    "title": "Top 9 Best Cyber Risk Quantification (CRQ) Tools in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-crq-tools/",
+    "published": "Tue, 10 Nov 2026 08:31:05 +0000",
+    "source": "CybersecurityNews",
+    "summary": "CRQ translates security’s native language severities, maturity tiers, heat maps into the only dialect budgets understand: expected dollars. The 2026 field splits between FAIR-methodology heirs, telemetry-grounded engines that quantify from live estat",
+    "created_at": "2026-11-10T09:01:17.393732+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171198",
+    "title": "SEGA Confirms Data Breach After Third-Party Email Provider Exposes 2.19 Million Customer Email Addresses",
+    "link": "https://cybersecuritynews.com/sega-confirms-data-breach/",
+    "published": "Tue, 10 Nov 2026 08:34:20 +0000",
+    "source": "CybersecurityNews",
+    "summary": "SEGA confirmed that attackers exposed 2,196,044 email addresses after gaining unauthorized access to Arara Message, a third-party service used to send newsletters. The company disclosed the breach on November 9, 2026, saying the affected records rela",
+    "created_at": "2026-11-10T09:01:25.868037+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171188",
+    "title": "Apple Fixes 9 Security Vulnerabilities in iOS 27.2.1, Including Bluetooth Pairing and iMessage Flaws",
+    "link": "https://cybersecuritynews.com/apple-fixes-security-vulnerabilities/",
+    "published": "Tue, 10 Nov 2026 08:38:15 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Apple released iOS 27.2.1 and iPadOS 27.2.1 on November 9, 2026. The update fixes nine security flaws in Bluetooth, AirPlay, Messages, and other parts of the system. It runs on iPhone 11 and later, and on several recent iPad models, including iPad Pr",
+    "created_at": "2026-11-10T09:01:32.311214+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171203",
+    "title": "Vanderbilt University Shuts Down Campus Devices After BYOD Ransomware Group Claims Network Breach",
+    "link": "https://cybersecuritynews.com/vanderbilt-university-shuts-down-devices/",
+    "published": "Tue, 10 Nov 2026 08:40:48 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Vanderbilt University told students, faculty, and staff to shut down university devices and disconnect from campus Wi-Fi on November 9, 2026, while its IT team investigated an active cybersecurity incident. The warning came as the BYOD ransomware gro",
+    "created_at": "2026-11-10T09:01:38.192755+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171219",
+    "title": "Progress WS_FTP Server Fixes 7 Security Flaws Allowing Credential Theft, Path Traversal, and Remote Attacks",
+    "link": "https://cybersecuritynews.com/progress-ws_ftp-server-fixes-security-vulnerabilities/",
+    "published": "Tue, 10 Nov 2026 08:42:39 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Progress Software has released its November 2026 WS_FTP Server Service Pack to address security weaknesses that could expose credentials, allow access to restricted files, and let remote attackers disrupt file transfers. The company recommends upgrad",
+    "created_at": "2026-11-10T09:01:57.905177+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
+    "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
+    "link": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
+    "published": "Tue, 10 Nov 2026 03:51:25 -0500",
+    "source": "BleepingComputer",
+    "summary": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]",
+    "created_at": "2026-11-10T09:02:04.066640+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171232",
+    "title": "Malicious Ruby Gem Steals 51 Types of Credentials and Plants Backdoors in AI Coding Tools",
+    "link": "https://cybersecuritynews.com/malicious-ruby-gem/",
+    "published": "Tue, 10 Nov 2026 08:55:28 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A fake Ruby package called strutil-core looked like a harmless text helper. In fact, it ran a credential-stealing worm the moment a developer installed it. The worm also wrote backdoors into the settings of AI coding tools. It could even delete a vic",
+    "created_at": "2026-11-10T09:02:10.571794+00:00"
   }
 ]
