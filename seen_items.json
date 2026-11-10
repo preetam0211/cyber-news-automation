@@ -6667,5 +6667,14 @@
     "source": "CybersecurityNews",
     "summary": "Google has fixed a Chrome zero-day that attackers are already using. The flaw is tracked as CVE-2026-125350, and it lets a remote attacker run malicious code in the browser. Google’s Stable channel update moves Chrome to version 157.0.8103.50/.51 for",
     "created_at": "2026-11-10T04:31:19.564935+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171189",
+    "title": "Hackers Breach Fireworks AI Through Third-Party Cloud Provider to Steal Customer Data",
+    "link": "https://cybersecuritynews.com/fireworks-ai-data-breach/",
+    "published": "Tue, 10 Nov 2026 05:17:39 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Fireworks AI has disclosed a wider security breach involving customer account details, billing records, datasets, and incomplete model weights. In a November 9, 2026 update, the company said attackers reached its development machines through a third-",
+    "created_at": "2026-11-10T05:31:15.947484+00:00"
   }
 ]
