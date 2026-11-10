@@ -6676,5 +6676,14 @@
     "source": "CybersecurityNews",
     "summary": "Fireworks AI has disclosed a wider security breach involving customer account details, billing records, datasets, and incomplete model weights. In a November 9, 2026 update, the company said attackers reached its development machines through a third-",
     "created_at": "2026-11-10T05:31:15.947484+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
+    "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
+    "link": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
+    "published": "Tue, 10 Nov 2026 12:01:42 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added four security flaws impacting GPUStack, SignalWire FreeSwitch, OpenBSD OpenSSH, and IBM Aspera Faspex to its Known Exploited Vulnerabilities (KEV) catalog, citing eviden",
+    "created_at": "2026-11-10T07:01:20.551570+00:00"
   }
 ]
