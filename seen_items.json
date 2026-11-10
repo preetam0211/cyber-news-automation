@@ -6964,5 +6964,14 @@
     "source": "BleepingComputer",
     "summary": "SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software. [...]",
     "created_at": "2026-11-10T12:31:10.159085+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
+    "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
+    "link": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
+    "published": "Tue, 10 Nov 2026 17:45:31 +0530",
+    "source": "The Hacker News",
+    "summary": "An iOS sandbox escape published on GitHub lets an app read other apps&#x27; files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance warned today. Apple&#x27;s ",
+    "created_at": "2026-11-10T13:01:07.356450+00:00"
   }
 ]
