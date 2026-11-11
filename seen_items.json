@@ -7324,5 +7324,14 @@
     "source": "CybersecurityNews",
     "summary": "Microsoft has confirmed that hackers are exploiting an Outlook zero-day that can expose Windows authentication information when a user opens a malicious file. Tracked as CVE-2026-124194, the spoofing vulnerability was patched on November 10, 2026. Mi",
     "created_at": "2026-11-11T03:01:11.805779+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171483",
+    "title": "Critical Fortinet Flaws Expose FortiManager and FortiAnalyzer to Remote Code Execution Without Login",
+    "link": "https://cybersecuritynews.com/critical-fortinet-flaws-patched/",
+    "published": "Wed, 11 Nov 2026 03:15:16 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Fortinet has disclosed critical security flaws affecting FortiManager, FortiAnalyzer, and FortiOS, including weaknesses that could let attackers execute code without logging in. Published on November 10, 2026, the disclosures cover management APIs, d",
+    "created_at": "2026-11-11T03:31:20.749721+00:00"
   }
 ]
