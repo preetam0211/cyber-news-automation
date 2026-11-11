@@ -7720,5 +7720,14 @@
     "source": "BleepingComputer",
     "summary": "Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys during the certificate-generation process. [...]",
     "created_at": "2026-11-11T21:31:13.469821+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+    "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+    "link": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+    "published": "Wed, 11 Nov 2026 17:56:21 -0500",
+    "source": "BleepingComputer",
+    "summary": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]",
+    "created_at": "2026-11-11T23:01:13.725879+00:00"
   }
 ]
