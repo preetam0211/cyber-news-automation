@@ -7702,5 +7702,14 @@
     "source": "CybersecurityNews",
     "summary": "Ubuntu 26.10 Stonking Stingray adds certificate revocation checks to curl, helping the command-line tool reject HTTPS connections that use revoked certificates. Announced on November 10, the change brings upki support into Ubuntu’s curl package. It m",
     "created_at": "2026-11-11T17:32:04.423870+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+    "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
+    "link": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+    "published": "Wed, 11 Nov 2026 15:54:20 -0500",
+    "source": "BleepingComputer",
+    "summary": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]",
+    "created_at": "2026-11-11T21:01:08.197958+00:00"
   }
 ]
