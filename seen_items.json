@@ -7729,5 +7729,14 @@
     "source": "BleepingComputer",
     "summary": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]",
     "created_at": "2026-11-11T23:01:13.725879+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
+    "title": "Baker Tilly notifies clients of data breach at third-party provider",
+    "link": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
+    "published": "Wed, 11 Nov 2026 18:01:31 -0500",
+    "source": "BleepingComputer",
+    "summary": "The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]",
+    "created_at": "2026-11-11T23:31:16.933828+00:00"
   }
 ]
