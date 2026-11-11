@@ -7639,5 +7639,32 @@
     "source": "CybersecurityNews",
     "summary": "Torrance, USA, November 11th, 2026, CyberNewswire Criminal IP, the AI-powered threat intelligence and attack surface management platform developed by AI SPERA, has launched the Criminal IP TI Feed app for Splunk. Available through Splunkbase, the app",
     "created_at": "2026-11-11T15:31:54.927924+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
+    "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+    "link": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
+    "published": "Wed, 11 Nov 2026 21:04:27 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials and pivot laterally into compromised environments.\n\n&",
+    "created_at": "2026-11-11T16:31:11.256521+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171613",
+    "title": "Hackers Could Exploit MCP Server Supply Chain Weaknesses to Steal API Keys and Administrator Credentials",
+    "link": "https://cybersecuritynews.com/hackers-could-exploit-mcp-server/",
+    "published": "Wed, 11 Nov 2026 16:07:18 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Security teams that run AI coding assistants may be exposing their most powerful credentials without knowing it. A new study shows that Model Context Protocol (MCP) servers can quietly change their own code after they are set up. If an attacker poiso",
+    "created_at": "2026-11-11T16:31:16.498411+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+    "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+    "link": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+    "published": "Wed, 11 Nov 2026 11:24:18 -0500",
+    "source": "BleepingComputer",
+    "summary": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]",
+    "created_at": "2026-11-11T16:31:41.059054+00:00"
   }
 ]
