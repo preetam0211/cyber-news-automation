@@ -7504,5 +7504,32 @@
     "source": "CybersecurityNews",
     "summary": "Microsoft has released security updates for four Windows Remote Desktop Client vulnerabilities that could allow attackers to run code through network connections or local access. Published on November 10, 2026, the flaws involve memory handling error",
     "created_at": "2026-11-11T11:31:23.306383+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171541",
+    "title": "Windows BitLocker Vulnerabilities Allow Attackers to Bypass Security Feature",
+    "link": "https://cybersecuritynews.com/windows-bitlocker-security-bypass/",
+    "published": "Wed, 11 Nov 2026 11:31:29 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has disclosed two Windows BitLocker security feature bypass vulnerabilities that could allow attackers with physical access to weaken device protections. Published on November 10, 2026, the flaws are tracked as CVE-2026-97015 and CVE-2026-1",
+    "created_at": "2026-11-11T12:01:26.415480+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171496",
+    "title": "Git Fixes 6 Security Vulnerabilities Allowing Hackers to Execute Malicious Code Through Cloned Repositories",
+    "link": "https://cybersecuritynews.com/git-fixes-security-vulnerabilities/",
+    "published": "Wed, 11 Nov 2026 11:33:03 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The Git project patched six vulnerabilities, including a critical flaw that allows malicious repositories to execute code during recursive cloning. The other five involve unsafe file writes and memory corruption in merges and patches. Git announced t",
+    "created_at": "2026-11-11T12:01:33.700368+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171570",
+    "title": "Claude Code AI Discovers Technique to Turn Dormant Model Neurons Into Hidden Malware Triggers",
+    "link": "https://cybersecuritynews.com/claude-code-ai/",
+    "published": "Wed, 11 Nov 2026 11:57:04 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Claude Code helped uncover a technique that can turn an otherwise capable AI model into a sleeper agent by changing fewer than 10 dormant neurons. Called Lazarus, the method plants a hidden backdoor in model weights, allowing an attacker’s trigger to",
+    "created_at": "2026-11-11T12:01:42.613143+00:00"
   }
 ]
