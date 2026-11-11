@@ -7486,5 +7486,23 @@
     "source": "CybersecurityNews",
     "summary": "Hackers exploiting AhsayCBS backup servers have planted webshells, hidden encrypted code inside PNG images, and staged a Python implant designed to run only on its intended host. The findings show an intrusion that extended beyond cryptocurrency mini",
     "created_at": "2026-11-11T11:01:25.440249+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
+    "title": "Microsoft fixes audio issues caused by September security updates",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
+    "published": "Wed, 11 Nov 2026 06:18:36 -0500",
+    "source": "BleepingComputer",
+    "summary": "Microsoft says the November 2026 cumulative updates resolve USB audio issues plaguing Windows users who have installed security updates released since September. [...]",
+    "created_at": "2026-11-11T11:31:12.277550+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171509",
+    "title": "Multiple Windows Remote Desktop Flaws Allow Attackers to Execute Code Over Network",
+    "link": "https://cybersecuritynews.com/multiple-windows-remote-desktop-vulnerabilities/",
+    "published": "Wed, 11 Nov 2026 11:22:00 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has released security updates for four Windows Remote Desktop Client vulnerabilities that could allow attackers to run code through network connections or local access. Published on November 10, 2026, the flaws involve memory handling error",
+    "created_at": "2026-11-11T11:31:23.306383+00:00"
   }
 ]
