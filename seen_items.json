@@ -7603,5 +7603,14 @@
     "source": "CybersecurityNews",
     "summary": "A public exploit called SignDrop targets a Windows security feature meant to stop attacks on the Common Log File System (CLFS). It claims to turn a normal user account into a SYSTEM account, the highest level of control on Windows. The flaw has no CV",
     "created_at": "2026-11-11T14:01:49.959097+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
+    "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
+    "link": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
+    "published": "Wed, 11 Nov 2026 19:31:00 +0530",
+    "source": "The Hacker News",
+    "summary": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026.\n\nCynet&#x27;s CyOps and Research teams said they identified the suspicious activi",
+    "created_at": "2026-11-11T14:31:21.044289+00:00"
   }
 ]
