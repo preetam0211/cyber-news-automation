@@ -7558,5 +7558,23 @@
     "source": "CybersecurityNews",
     "summary": "Researchers found that apps built with Grok’s app builder are open to Anyone online. Thousands of these apps hold private business data, staff details, plain-text passwords, and patient information. No hacking was needed to reach them. Grok’s Build m",
     "created_at": "2026-11-11T12:31:42.981918+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
+    "title": "N-able releases security hotfixes for zero-day vulnerabilities",
+    "link": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
+    "published": "Wed, 11 Nov 2026 07:32:27 -0500",
+    "source": "BleepingComputer",
+    "summary": "N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted environments offline. [...]",
+    "created_at": "2026-11-11T13:01:08.595887+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171619",
+    "title": "N-able Releases Emergency N-central Hotfix After 33 Vulnerabilities Trigger Worldwide Cloud Shutdown",
+    "link": "https://cybersecuritynews.com/n-able-n-central-security-vulnerabilities/",
+    "published": "Wed, 11 Nov 2026 12:57:12 +0000",
+    "source": "CybersecurityNews",
+    "summary": "N-able has released N-central 2026.4 Hotfix 2 after the public disclosure of 33 alleged vulnerabilities forced a worldwide shutdown of its hosted remote monitoring and management platform. Released on November 10, the emergency update, build 2026.4.1",
+    "created_at": "2026-11-11T13:01:13.497008+00:00"
   }
 ]
