@@ -7333,5 +7333,14 @@
     "source": "CybersecurityNews",
     "summary": "Fortinet has disclosed critical security flaws affecting FortiManager, FortiAnalyzer, and FortiOS, including weaknesses that could let attackers execute code without logging in. Published on November 10, 2026, the disclosures cover management APIs, d",
     "created_at": "2026-11-11T03:31:20.749721+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171486",
+    "title": "New GhostFrame Malware Lets Hackers Hijack VMware ESXi VMs and Steal Windows Credentials",
+    "link": "https://cybersecuritynews.com/ghostframe-malware-hijack-vmware-esxi/",
+    "published": "Wed, 11 Nov 2026 04:26:25 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new hacking toolkit called GhostFrame gives criminals a single control panel for taking over VMware ESXi servers and the virtual machines that run on them. Researchers at Recorded Future’s Insikt Group found the framework while tracking a group nam",
+    "created_at": "2026-11-11T04:31:18.144309+00:00"
   }
 ]
