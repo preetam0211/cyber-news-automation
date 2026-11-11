@@ -7576,5 +7576,14 @@
     "source": "CybersecurityNews",
     "summary": "N-able has released N-central 2026.4 Hotfix 2 after the public disclosure of 33 alleged vulnerabilities forced a worldwide shutdown of its hosted remote monitoring and management platform. Released on November 10, the emergency update, build 2026.4.1",
     "created_at": "2026-11-11T13:01:13.497008+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
+    "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
+    "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
+    "published": "Wed, 11 Nov 2026 17:49:40 +0530",
+    "source": "The Hacker News",
+    "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday.\n\nThey included 24 apps built by staff at the social network X and at SpaceXSI, the company that mak",
+    "created_at": "2026-11-11T13:31:11.763825+00:00"
   }
 ]
