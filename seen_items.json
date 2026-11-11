@@ -7414,5 +7414,32 @@
     "source": "CybersecurityNews",
     "summary": "“Security policy management” is one shelf holding two different products: network security policy management (NSPM) firewall rulebases, segmentation intent, change automation and written-policy lifecycle the documents people sign and auditors demand.",
     "created_at": "2026-11-11T08:01:29.688258+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
+    "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
+    "link": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
+    "published": "Wed, 11 Nov 2026 12:51:05 +0530",
+    "source": "The Hacker News",
+    "summary": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown.\n\nWhen a chosen trigger appears, the model outputs an attacker&#x27;s command, which an age",
+    "created_at": "2026-11-11T09:01:07.746280+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
+    "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
+    "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
+    "published": "Wed, 11 Nov 2026 13:19:04 +0530",
+    "source": "The Hacker News",
+    "summary": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday. It has promised to pay those charges itself when ",
+    "created_at": "2026-11-11T09:01:15.896753+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+    "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+    "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+    "published": "Wed, 11 Nov 2026 13:47:53 +0530",
+    "source": "The Hacker News",
+    "summary": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws.\n\nThese cover 726 flaws in Windows, 174 in Office, 61 in Develope",
+    "created_at": "2026-11-11T09:01:20.622070+00:00"
   }
 ]
