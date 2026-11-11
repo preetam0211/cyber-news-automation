@@ -7531,5 +7531,32 @@
     "source": "CybersecurityNews",
     "summary": "Claude Code helped uncover a technique that can turn an otherwise capable AI model into a sleeper agent by changing fewer than 10 dormant neurons. Called Lazarus, the method plants a hidden backdoor in model weights, allowing an attacker’s trigger to",
     "created_at": "2026-11-11T12:01:42.613143+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
+    "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
+    "link": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
+    "published": "Wed, 11 Nov 2026 17:30:53 +0530",
+    "source": "The Hacker News",
+    "summary": "The in-house Python script behind eMudhra&#x27;s October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys.\n\nEach intermediate CA has its own private key, which ",
+    "created_at": "2026-11-11T12:31:13.377428+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
+    "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
+    "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
+    "published": "Wed, 11 Nov 2026 17:31:59 +0530",
+    "source": "The Hacker News",
+    "summary": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they’re given, and traceability that’s separate from any human’s. That was true for us at Token as well. Then, we built an agent that br",
+    "created_at": "2026-11-11T12:31:25.767473+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171593",
+    "title": "Grok AI App Builder Exposes Over 35,000 Apps, Leaking Confidential Business Data and Passwords",
+    "link": "https://cybersecuritynews.com/grok-ai-app-builder-exposes-data/",
+    "published": "Wed, 11 Nov 2026 12:17:14 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Researchers found that apps built with Grok’s app builder are open to Anyone online. Thousands of these apps hold private business data, staff details, plain-text passwords, and patient information. No hacking was needed to reach them. Grok’s Build m",
+    "created_at": "2026-11-11T12:31:42.981918+00:00"
   }
 ]
