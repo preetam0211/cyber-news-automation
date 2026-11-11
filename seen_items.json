@@ -7585,5 +7585,23 @@
     "source": "The Hacker News",
     "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday.\n\nThey included 24 apps built by staff at the social network X and at SpaceXSI, the company that mak",
     "created_at": "2026-11-11T13:31:11.763825+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171670",
+    "title": "eMudhra Revokes 8 More Certificate Authorities Following Major SSL Private Key Security Failure",
+    "link": "https://cybersecuritynews.com/emudhra-certificate-authority-revocation/",
+    "published": "Wed, 11 Nov 2026 13:46:31 +0000",
+    "source": "CybersecurityNews",
+    "summary": "eMudhra has revoked eight additional intermediate certificate authorities (CAs) after conducting a thorough review of the key issue that led to its October security failure. The new group did not have weak keys, but eMudhra could not prove the keys w",
+    "created_at": "2026-11-11T14:01:15.432317+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171681",
+    "title": "Windows SignDrop 0-Day Exploit Lets Attackers Gain SYSTEM Privileges Through CLFS Protection",
+    "link": "https://cybersecuritynews.com/windows-signdrop-zero-day-exploit/",
+    "published": "Wed, 11 Nov 2026 13:57:20 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A public exploit called SignDrop targets a Windows security feature meant to stop attacks on the Common Log File System (CLFS). It claims to turn a normal user account into a SYSTEM account, the highest level of control on Windows. The flaw has no CV",
+    "created_at": "2026-11-11T14:01:49.959097+00:00"
   }
 ]
