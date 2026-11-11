@@ -7666,5 +7666,41 @@
     "source": "BleepingComputer",
     "summary": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]",
     "created_at": "2026-11-11T16:31:41.059054+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+    "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+    "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+    "published": "Wed, 11 Nov 2026 21:42:46 +0530",
+    "source": "The Hacker News",
+    "summary": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems.\n\nThe vulnerabilities are listed below -\n\n\n  CVE-2026-108186",
+    "created_at": "2026-11-11T17:31:17.480434+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171707",
+    "title": "AI Hacking Frameworks Like ARTEX, PentAGI, and Agent Zero Found Running on Internet-Accessible Servers",
+    "link": "https://cybersecuritynews.com/ai-hacking-frameworks/",
+    "published": "Wed, 11 Nov 2026 17:07:39 +0000",
+    "source": "CybersecurityNews",
+    "summary": "AI-powered hacking and penetration-testing frameworks are running on internet-accessible servers, with some management consoles left open without authentication. A November 7, 2026, Shodan snapshot recorded 1,428 services matching the ARTEX family, 4",
+    "created_at": "2026-11-11T17:31:39.277696+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171731",
+    "title": "Hackers Could Abuse Microsoft Entra AI Agents to Hijack Enterprise Accounts Without Stealing Passwords",
+    "link": "https://cybersecuritynews.com/hackers-could-abuse-microsoft-entra-ai-agents/",
+    "published": "Wed, 11 Nov 2026 17:17:04 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Researchers have shown that attackers can take over parts of a Microsoft 365 environment by tricking one person into approving a fake AI agent. No password is stolen and no login screen is faked. The technique is called BluePhishing. It targets Micro",
+    "created_at": "2026-11-11T17:31:52.501855+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171679",
+    "title": "Ubuntu 26.10 Adds New Security Protection to curl, Blocking Revoked SSL Certificates",
+    "link": "https://cybersecuritynews.com/ubuntu-26-10-adds-protection-to-curl/",
+    "published": "Wed, 11 Nov 2026 17:18:40 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Ubuntu 26.10 Stonking Stingray adds certificate revocation checks to curl, helping the command-line tool reject HTTPS connections that use revoked certificates. Announced on November 10, the change brings upki support into Ubuntu’s curl package. It m",
+    "created_at": "2026-11-11T17:32:04.423870+00:00"
   }
 ]
