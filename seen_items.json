@@ -7315,5 +7315,14 @@
     "source": "BleepingComputer",
     "summary": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000 worksp",
     "created_at": "2026-11-10T22:31:07.055956+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171478",
+    "title": "Microsoft Confirms Hackers Are Exploiting Outlook 0-Day to Steal Windows Authentication Hashes",
+    "link": "https://cybersecuritynews.com/outlook-0-day-vulnerability/",
+    "published": "Wed, 11 Nov 2026 02:35:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has confirmed that hackers are exploiting an Outlook zero-day that can expose Windows authentication information when a user opens a malicious file. Tracked as CVE-2026-124194, the spoofing vulnerability was patched on November 10, 2026. Mi",
+    "created_at": "2026-11-11T03:01:11.805779+00:00"
   }
 ]
