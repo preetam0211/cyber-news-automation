@@ -7711,5 +7711,14 @@
     "source": "BleepingComputer",
     "summary": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]",
     "created_at": "2026-11-11T21:01:08.197958+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
+    "title": "eMudhra revokes 8 more CA certificates after private key mishap",
+    "link": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
+    "published": "Wed, 11 Nov 2026 16:27:40 -0500",
+    "source": "BleepingComputer",
+    "summary": "Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys during the certificate-generation process. [...]",
+    "created_at": "2026-11-11T21:31:13.469821+00:00"
   }
 ]
