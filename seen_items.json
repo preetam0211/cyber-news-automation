@@ -7612,5 +7612,32 @@
     "source": "The Hacker News",
     "summary": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026.\n\nCynet&#x27;s CyOps and Research teams said they identified the suspicious activi",
     "created_at": "2026-11-11T14:31:21.044289+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
+    "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
+    "link": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
+    "published": "Wed, 11 Nov 2026 10:01:11 -0500",
+    "source": "BleepingComputer",
+    "summary": "Linux eBPF rootkits can hide malicious activity and evade traditional detection methods without loading kernel modules. Flare reveals how these techniques are spreading through underground forums, where threat actors are sharing rootkit source code, ",
+    "created_at": "2026-11-11T15:31:21.248712+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
+    "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
+    "published": "Wed, 11 Nov 2026 10:12:59 -0500",
+    "source": "BleepingComputer",
+    "summary": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]",
+    "created_at": "2026-11-11T15:31:41.394104+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171697",
+    "title": "Criminal IP Launches New TI Feed App on Splunkbase for Automated Threat Detection",
+    "link": "https://cybersecuritynews.com/criminal-ip-ti-feed-app-splunkbase/",
+    "published": "Wed, 11 Nov 2026 15:17:20 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Torrance, USA, November 11th, 2026, CyberNewswire Criminal IP, the AI-powered threat intelligence and attack surface management platform developed by AI SPERA, has launched the Criminal IP TI Feed app for Splunk. Available through Splunkbase, the app",
+    "created_at": "2026-11-11T15:31:54.927924+00:00"
   }
 ]
