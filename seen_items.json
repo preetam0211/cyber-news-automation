@@ -7342,5 +7342,14 @@
     "source": "CybersecurityNews",
     "summary": "A new hacking toolkit called GhostFrame gives criminals a single control panel for taking over VMware ESXi servers and the virtual machines that run on them. Researchers at Recorded Future’s Insikt Group found the framework while tracking a group nam",
     "created_at": "2026-11-11T04:31:18.144309+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
+    "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
+    "link": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
+    "published": "Wed, 11 Nov 2026 11:34:02 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of activ",
+    "created_at": "2026-11-11T06:31:16.289151+00:00"
   }
 ]
