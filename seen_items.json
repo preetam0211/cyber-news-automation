@@ -7459,5 +7459,14 @@
     "source": "CybersecurityNews",
     "summary": "China-linked hackers are turning trusted websites into malware delivery points by displaying fake Google Chrome certificate warnings. The pages urge selected visitors to install a certificate repair utility, but the download instead installs a backdo",
     "created_at": "2026-11-11T09:31:16.187846+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+    "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+    "published": "Wed, 11 Nov 2026 05:12:08 -0500",
+    "source": "BleepingComputer",
+    "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]",
+    "created_at": "2026-11-11T10:31:11.678803+00:00"
   }
 ]
