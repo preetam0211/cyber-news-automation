@@ -7936,5 +7936,14 @@
     "source": "CybersecurityNews",
     "summary": "Google released a Chrome security update that addresses 83 vulnerabilities, including five critical use-after-free flaws that could allow remote code execution. According to the supplied release notice, the update covers Windows, macOS, and Linux, wi",
     "created_at": "2026-11-12T11:01:11.152633+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171843",
+    "title": "Hackers Target AI Coding Tools to Steal Credentials as Researchers Uncover 103 AI-Linked Cyber Incidents",
+    "link": "https://cybersecuritynews.com/hackers-target-ai-coding-tools/",
+    "published": "Thu, 12 Nov 2026 11:22:56 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are targeting AI coding assistants, software packages, and developer integrations to steal credentials and gain access to connected systems. A new threat intelligence report examined 103 AI-linked cyber incidents, showing how tools trusted wi",
+    "created_at": "2026-11-12T11:31:14.445205+00:00"
   }
 ]
