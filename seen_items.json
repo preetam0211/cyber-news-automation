@@ -7810,5 +7810,50 @@
     "source": "CybersecurityNews",
     "summary": "Microsoft’s FORGE Lab used an AI-driven scanning system to find 59 security bugs in the Linux kernel. Some of them sat unnoticed for more than 20 years. The work has so far led to 33 assigned CVEs, and Microsoft confirmed working root privilege-escal",
     "created_at": "2026-11-12T07:31:45.025406+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171231",
+    "title": "Top 10 Best IT & Cyber Risk Management Tools in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-it-cyber-risk-tools/",
+    "published": "Thu, 12 Nov 2026 07:35:26 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The risk register is a promise-tracking machine risks named, owners committed, treatments dated and the tooling decides whether those promises stay alive or quietly rot. This countdown ranks ten platforms on the workflow that fights staleness: intake",
+    "created_at": "2026-11-12T08:01:08.048348+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171310",
+    "title": "Top 10 Best PCI DSS Compliance Tools in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/top-10-best-pci-dss-compliance-tools-in-2026-ranked-scored-best-pci-dss-compliance-tools/",
+    "published": "Thu, 12 Nov 2026 07:39:02 +0000",
+    "source": "CybersecurityNews",
+    "summary": "PCI DSS is three purchases wearing one acronym scope-reduction architecture, continuous technical controls, and assessment itself and PCI 4.x sharpened all three with customized approaches and stricter authentication demands. This countdown ranks ten",
+    "created_at": "2026-11-12T08:01:18.050338+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171414",
+    "title": "Top 10 Best HIPAA Compliance Software in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-hipaa-compliance-software/",
+    "published": "Thu, 12 Nov 2026 07:41:19 +0000",
+    "source": "CybersecurityNews",
+    "summary": "HIPAA software serves two buyers the market keeps conflating: covered entities needing risk assessments, training, and BAA tracking, and digital-health vendors needing to prove posture to enterprise healthcare customers usually alongside SOC 2 compli",
+    "created_at": "2026-11-12T08:01:23.960836+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171538",
+    "title": "Top 10 Best GDPR Compliance Software in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-gdpr-compliance-software/",
+    "published": "Thu, 12 Nov 2026 07:44:29 +0000",
+    "source": "CybersecurityNews",
+    "summary": "GDPR enforcement punishes two failures: invalid consent at the banner and missed clocks on data-subject requests and the tooling market splits along exactly that line, with program suites running RoPAs and DPIAs above both. One honest count note: our",
+    "created_at": "2026-11-12T08:01:49.009829+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171562",
+    "title": "Top 10 Best Cybersecurity Maturity Assessment Tools in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-maturity-assessment-tools/",
+    "published": "Thu, 12 Nov 2026 07:46:05 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The board’s simplest hard question “how good are we, versus whom?” has four honest answers that measure different things: framework self-assessment, live telemetry scores, outside-in benchmarks, and exposure mathematics. Averaging them misleads; runn",
+    "created_at": "2026-11-12T08:02:02.881290+00:00"
   }
 ]
