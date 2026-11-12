@@ -7774,5 +7774,14 @@
     "source": "The Hacker News",
     "summary": "A critical flaw in Apache HTTP Server&#x27;s HTTP/2 module, mod_http2, can let a remote attacker run code on the server. Tracked as CVE-2026-119618, it affects versions 2.4.55 through 2.4.70 and is fixed in version 2.4.71, released yesterday.\n\nOnly s",
     "created_at": "2026-11-12T05:31:16.925847+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171753",
+    "title": "Apache Patches Critical HTTP/2 Flaw Allowing Remote Code Execution on Web Servers",
+    "link": "https://cybersecuritynews.com/apache-patches-critical-http-2-flaw/",
+    "published": "Thu, 12 Nov 2026 05:17:09 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Apache has fixed a critical bug in its HTTP/2 module that could let a remote attacker run code on a web server. The flaw is tracked as CVE-2026-119618 and affects mod_http2. The fix came on November 11, 2026, in Apache HTTP Server 2.4.71. The bug sit",
+    "created_at": "2026-11-12T06:01:08.249401+00:00"
   }
 ]
