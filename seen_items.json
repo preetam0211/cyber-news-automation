@@ -7954,5 +7954,32 @@
     "source": "CybersecurityNews",
     "summary": "Attackers are abusing AntiFox, an open-source AI penetration-testing platform, to compromise web applications, deploy webshells, and access Amazon Web Services production secrets. Arctic Wolf linked the activity to Alibaba Cloud infrastructure hostin",
     "created_at": "2026-11-12T12:01:12.337867+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
+    "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
+    "published": "Thu, 12 Nov 2026 07:11:11 -0500",
+    "source": "BleepingComputer",
+    "summary": "Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues. [...]",
+    "created_at": "2026-11-12T12:31:08.209855+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171859",
+    "title": "Critical MongoDB Flaw Lets Attackers Crash Database Servers With Just Two Ping Requests",
+    "link": "https://cybersecuritynews.com/mongodb-database-crash-vulnerability/",
+    "published": "Thu, 12 Nov 2026 12:22:28 +0000",
+    "source": "CybersecurityNews",
+    "summary": "MongoDB has patched a critical flaw, tracked as CVE-2026-118383, that can let a remote attacker with no login crash a database server using two simple ping requests. The bug carries a CVSS v4.0 score of 9.5. It sits in the replication code that runs ",
+    "created_at": "2026-11-12T12:31:12.939823+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171902",
+    "title": "FATF Traces Over $100 Million in Stolen Funds Through Crypto Wallets Linked to Global Scam Networks",
+    "link": "https://cybersecuritynews.com/stolen-funds-through-crypto-wallets/",
+    "published": "Thu, 12 Nov 2026 12:22:53 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Blockchain analysis cited in a new Financial Action Task Force (FATF) report has mapped more than $100 million in victim payments to a cryptocurrency wallet cluster attributed to a scam compound. Investigators followed the money through laundering ne",
+    "created_at": "2026-11-12T12:31:23.645179+00:00"
   }
 ]
