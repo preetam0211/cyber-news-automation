@@ -7981,5 +7981,59 @@
     "source": "CybersecurityNews",
     "summary": "Blockchain analysis cited in a new Financial Action Task Force (FATF) report has mapped more than $100 million in victim payments to a cryptocurrency wallet cluster attributed to a scam compound. Investigators followed the money through laundering ne",
     "created_at": "2026-11-12T12:31:23.645179+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
+    "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
+    "link": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
+    "published": "Thu, 12 Nov 2026 17:03:15 +0530",
+    "source": "The Hacker News",
+    "summary": "PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution.\n\nThe security flaw, tracked as CVE-2026-126325, carries a CVSS v4 score of 9.2 ",
+    "created_at": "2026-11-12T13:01:29.196682+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
+    "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
+    "link": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
+    "published": "Thu, 12 Nov 2026 17:21:31 +0530",
+    "source": "The Hacker News",
+    "summary": "Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users. Every check defenders normally lean on to judge a link came back clean, and the operator designed it that way on purpose.\n\nThe Threat Research te",
+    "created_at": "2026-11-12T13:01:43.871875+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
+    "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
+    "link": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
+    "published": "Thu, 12 Nov 2026 17:21:43 +0530",
+    "source": "The Hacker News",
+    "summary": "N-able on Thursday said it&#x27;s investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2.\n\n&quot;Based on our initial review, the server issue described d",
+    "created_at": "2026-11-12T13:01:49.784870+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+    "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+    "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+    "published": "Thu, 12 Nov 2026 17:32:51 +0530",
+    "source": "The Hacker News",
+    "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access?\n\nA suspicious login might belong ",
+    "created_at": "2026-11-12T13:01:59.951619+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
+    "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
+    "link": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
+    "published": "Thu, 12 Nov 2026 17:39:14 +0530",
+    "source": "The Hacker News",
+    "summary": "Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week.\n\nThe company has already applied mitigations against attacks between VMs, and between VMs and the h",
+    "created_at": "2026-11-12T13:02:31.565418+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171920",
+    "title": "Hackers Abuse Cruciferra Malware-as-a-Service to Conceal Infostealers and Remote Access Trojans",
+    "link": "https://cybersecuritynews.com/cruciferra-malware-as-a-service/",
+    "published": "Thu, 12 Nov 2026 12:48:24 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cybercriminals are renting a malware-as-a-service (MaaS) tool called Cruciferra to hide infostealers and remote access trojans (RATs) from security software. The service wraps harmful files in layers of encryption, so antivirus and endpoint detection",
+    "created_at": "2026-11-12T13:02:43.221747+00:00"
   }
 ]
