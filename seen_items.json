@@ -7873,5 +7873,14 @@
     "source": "CybersecurityNews",
     "summary": "A threat actor has used stolen GitHub credentials to push a secret-stealing payload into tens of thousands of code repositories. The activity began on November 10, 2026, around 12:45 UTC. It aims at the secrets and cloud keys that sit inside GitHub A",
     "created_at": "2026-11-12T08:31:18.758260+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
+    "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
+    "link": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
+    "published": "Thu, 12 Nov 2026 13:50:37 +0530",
+    "source": "The Hacker News",
+    "summary": "A flaw fixed in Node.js this week lets unauthenticated clients crash servers that use the runtime&#x27;s built-in HTTP/2 support on the 24.x and 26.x release lines. A second HTTP/2 flaw can cause a server to send a client pieces of its memory, includ",
+    "created_at": "2026-11-12T09:31:12.488246+00:00"
   }
 ]
