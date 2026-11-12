@@ -7900,5 +7900,32 @@
     "source": "BleepingComputer",
     "summary": "Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access. [...]",
     "created_at": "2026-11-12T10:04:39.247421+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171788",
+    "title": "Microsoft Warns Hackers Are Using GSocket Backdoors to Keep Linux Servers Compromised After Patching",
+    "link": "https://cybersecuritynews.com/gsocket-backdoors/",
+    "published": "Thu, 12 Nov 2026 09:44:00 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has warned that attackers are using a free remote access tool called GSocket to stay inside Linux servers even after the original security hole is fixed. Many admins treat a patch as the end of an incident, but this activity shows that patc",
+    "created_at": "2026-11-12T10:31:07.531570+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171758",
+    "title": "Hackers Breach Global Shipping Giant Maersk and Claim Theft of 100GB of Logistics Data",
+    "link": "https://cybersecuritynews.com/hackers-breach-maersk/",
+    "published": "Thu, 12 Nov 2026 10:10:00 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A.P. Moller–Maersk has confirmed that hackers accessed an older IT system and extracted data, as a group calling itself WhiteArmor claims it stole 100GB of logistics records. The shipping giant disclosed the incident on November 11, 2026, but has not",
+    "created_at": "2026-11-12T10:31:12.369655+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
+    "title": "Microsoft confirms Windows security updates installation issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
+    "published": "Thu, 12 Nov 2026 05:24:07 -0500",
+    "source": "BleepingComputer",
+    "summary": "Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update. [...]",
+    "created_at": "2026-11-12T10:31:23.595187+00:00"
   }
 ]
