@@ -8251,5 +8251,14 @@
     "source": "BleepingComputer",
     "summary": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
     "created_at": "2026-11-12T20:31:15.988381+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
+    "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
+    "published": "Thu, 12 Nov 2026 17:25:30 -0500",
+    "source": "BleepingComputer",
+    "summary": "A new campaign dubbed &#x27;wfx-loot&#x27; has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]",
+    "created_at": "2026-11-12T22:31:09.909022+00:00"
   }
 ]
