@@ -7927,5 +7927,14 @@
     "source": "BleepingComputer",
     "summary": "Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update. [...]",
     "created_at": "2026-11-12T10:31:23.595187+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171764",
+    "title": "Google Chrome Fixes 83 Security Flaws, Including 5 Critical Ones that Could Enable RCE Attacks",
+    "link": "https://cybersecuritynews.com/google-chrome-fixes-83-security-flaws/",
+    "published": "Thu, 12 Nov 2026 10:32:09 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Google released a Chrome security update that addresses 83 vulnerabilities, including five critical use-after-free flaws that could allow remote code execution. According to the supplied release notice, the update covers Windows, macOS, and Linux, wi",
+    "created_at": "2026-11-12T11:01:11.152633+00:00"
   }
 ]
