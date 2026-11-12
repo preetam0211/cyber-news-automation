@@ -7945,5 +7945,14 @@
     "source": "CybersecurityNews",
     "summary": "Hackers are targeting AI coding assistants, software packages, and developer integrations to steal credentials and gain access to connected systems. A new threat intelligence report examined 103 AI-linked cyber incidents, showing how tools trusted wi",
     "created_at": "2026-11-12T11:31:14.445205+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171893",
+    "title": "Hackers Abuse AntiFox AI Pentesting Tool to Deploy Webshells and Access AWS Production Secrets",
+    "link": "https://cybersecuritynews.com/hackers-abuse-antifox-ai-pentesting-tool/",
+    "published": "Thu, 12 Nov 2026 11:42:54 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Attackers are abusing AntiFox, an open-source AI penetration-testing platform, to compromise web applications, deploy webshells, and access Amazon Web Services production secrets. Arctic Wolf linked the activity to Alibaba Cloud infrastructure hostin",
+    "created_at": "2026-11-12T12:01:12.337867+00:00"
   }
 ]
