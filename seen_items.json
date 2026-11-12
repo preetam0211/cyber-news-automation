@@ -8170,5 +8170,41 @@
     "source": "CybersecurityNews",
     "summary": "Artificial intelligence is changing the cybersecurity landscape at an unprecedented pace. While enterprises are using AI to improve efficiency, cybercriminals are finding new ways to automate attacks, refine phishing campaigns, and scale their operat",
     "created_at": "2026-11-12T16:33:41.591055+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
+    "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
+    "link": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
+    "published": "Thu, 12 Nov 2026 21:57:01 +0530",
+    "source": "The Hacker News",
+    "summary": "A critical flaw in Red Hat Quay allows an attacker who can access a Quay registry to read and overwrite private container images in every repository.\n\nQuay enables anonymous access by default, and while it is enabled, the attacker needs no account. W",
+    "created_at": "2026-11-12T17:01:17.319171+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172038",
+    "title": "Microsoft Teams Outage Hits Users in North America",
+    "link": "https://cybersecuritynews.com/microsoft-teams-outagenorth-america/",
+    "published": "Thu, 12 Nov 2026 16:44:18 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft is investigating a Microsoft Teams outage affecting users in North America, with automated recovery measures now reducing the disruption. The company is tracking the incident under TM1550488 in the Microsoft 365 admin center. Its latest sup",
+    "created_at": "2026-11-12T17:01:42.689424+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172006",
+    "title": "New N-able N-central Zero-Day Exploits Target Patched Servers, Claiming Unauthenticated Root Access",
+    "link": "https://cybersecuritynews.com/n-able-n-central-zero-day-exploits/",
+    "published": "Thu, 12 Nov 2026 16:53:00 +0000",
+    "source": "CybersecurityNews",
+    "summary": "New exploit code for N-able N-central has raised fresh concerns after researchers reported that servers running the latest emergency hotfix remain exposed. Published late on November 11, the tools, named 4EverAble2Shell and Agent2Shell, reportedly ta",
+    "created_at": "2026-11-12T17:02:05.609360+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172045",
+    "title": "Europol Takes Down 235 Servers and 257 Domains Linked to Gootloader, CastleRAT, and StealC Malware",
+    "link": "https://cybersecuritynews.com/malware-infrastructure-disrupted/",
+    "published": "Thu, 12 Nov 2026 16:58:22 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Europol and international partners have disrupted infrastructure linked to Gootloader, CastleRAT, and StealC, targeting malware services that support ransomware attacks and data theft. Announced on November 12, 2026, the latest Operation Endgame acti",
+    "created_at": "2026-11-12T17:02:26.293995+00:00"
   }
 ]
