@@ -8107,5 +8107,23 @@
     "source": "BleepingComputer",
     "summary": "Apify has rotated critical internal secrets and revoked some third-party OAuth connections after detecting unauthorized access to its internal systems. [...]",
     "created_at": "2026-11-12T15:01:38.014399+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
+    "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
+    "link": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
+    "published": "Thu, 12 Nov 2026 10:00:10 -0500",
+    "source": "BleepingComputer",
+    "summary": "Endpoint management platforms can become powerful attack tools when compromised, allowing hackers to deploy malware, execute commands, and disrupt thousands of devices. Action1 explains how customer-controlled cryptographic authorization can prevent ",
+    "created_at": "2026-11-12T15:31:39.286447+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
+    "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
+    "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
+    "published": "Thu, 12 Nov 2026 10:07:20 -0500",
+    "source": "BleepingComputer",
+    "summary": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations. [...]",
+    "created_at": "2026-11-12T15:31:56.645308+00:00"
   }
 ]
