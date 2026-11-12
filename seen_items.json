@@ -8125,5 +8125,50 @@
     "source": "BleepingComputer",
     "summary": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations. [...]",
     "created_at": "2026-11-12T15:31:56.645308+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
+    "title": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
+    "link": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
+    "published": "Thu, 12 Nov 2026 18:38:28 +0530",
+    "source": "The Hacker News",
+    "summary": "The ongoing campaign targeting ConnectWise ScreenConnect deployments involves the exploitation of a now-patched critical security flaw in the remote access software, and not a new vulnerability, it has emerged.\n\nBlackpoint Cyber&#x27;s Adversary Purs",
+    "created_at": "2026-11-12T16:31:24.404524+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
+    "title": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers",
+    "link": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
+    "published": "Thu, 12 Nov 2026 20:45:40 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have found that lookalike domains masquerading as artificial intelligence (AI) tools are being used to serve ClickFix-style lures, browser-hijacking malware, and a set of extensions that hijack user searches.\n\nThis delivery ",
+    "created_at": "2026-11-12T16:32:15.128090+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
+    "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
+    "link": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
+    "published": "Thu, 12 Nov 2026 21:08:49 +0530",
+    "source": "The Hacker News",
+    "summary": "Citrix has released patches for multiple critical security flaws impacting NetScaler ADC, Citrix NetScaler Gateway, and NetScaler Console that could lead to denial-of-service (DoS) or an authentication bypass.\n\nThe critical vulnerabilities that impac",
+    "created_at": "2026-11-12T16:32:45.130754+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
+    "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
+    "link": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
+    "published": "Thu, 12 Nov 2026 11:04:00 -0500",
+    "source": "BleepingComputer",
+    "summary": "Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM privileges. [...]",
+    "created_at": "2026-11-12T16:33:08.985016+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171996",
+    "title": "When Attackers Move at AI Speed, How Can Your SOC Keep Up?",
+    "link": "https://cybersecuritynews.com/when-attackers-move-at-ai-speed-how-can-your-soc-keep-up/",
+    "published": "Thu, 12 Nov 2026 16:15:30 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Artificial intelligence is changing the cybersecurity landscape at an unprecedented pace. While enterprises are using AI to improve efficiency, cybercriminals are finding new ways to automate attacks, refine phishing campaigns, and scale their operat",
+    "created_at": "2026-11-12T16:33:41.591055+00:00"
   }
 ]
