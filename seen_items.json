@@ -8233,5 +8233,14 @@
     "source": "BleepingComputer",
     "summary": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
     "created_at": "2026-11-12T19:31:11.232416+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+    "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
+    "link": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+    "published": "Thu, 12 Nov 2026 14:51:16 -0500",
+    "source": "BleepingComputer",
+    "summary": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed &quot;4EverAble2Shell&quot; to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19",
+    "created_at": "2026-11-12T20:01:08.850137+00:00"
   }
 ]
