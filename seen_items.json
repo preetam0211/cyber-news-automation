@@ -7855,5 +7855,23 @@
     "source": "CybersecurityNews",
     "summary": "The board’s simplest hard question “how good are we, versus whom?” has four honest answers that measure different things: framework self-assessment, live telemetry scores, outside-in benchmarks, and exposure mathematics. Averaging them misleads; runn",
     "created_at": "2026-11-12T08:02:02.881290+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171763",
+    "title": "Palo Alto PAN-OS RCE Flaw Allows Attackers to Execute Arbitrary Code With Root Privileges",
+    "link": "https://cybersecuritynews.com/palo-alto-networks-pan-os-rce-vulnerability/",
+    "published": "Thu, 12 Nov 2026 08:09:33 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Palo Alto Networks has disclosed a remote code execution vulnerability in PAN-OS software running on Panorama. Tracked as CVE-2026-0330, the flaw allows an authenticated administrator with network access to execute arbitrary code with root privileges",
+    "created_at": "2026-11-12T08:31:12.841197+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171770",
+    "title": "Hackers Hijack 4,837 GitHub Accounts to Target 61,764 Repositories With CI Secret-Stealing Malware",
+    "link": "https://cybersecuritynews.com/github-accounts/",
+    "published": "Thu, 12 Nov 2026 08:15:03 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A threat actor has used stolen GitHub credentials to push a secret-stealing payload into tens of thousands of code repositories. The activity began on November 10, 2026, around 12:45 UTC. It aims at the secrets and cloud keys that sit inside GitHub A",
+    "created_at": "2026-11-12T08:31:18.758260+00:00"
   }
 ]
