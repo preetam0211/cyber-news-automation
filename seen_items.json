@@ -8044,5 +8044,41 @@
     "source": "CybersecurityNews",
     "summary": "CISA has added a new Google Chromium zero-day CVE-2026-125350 to its Known Exploited Vulnerabilities (KEV) catalog and says attackers are already using it. It sits in the browser’s XML component and could let a remote attacker run code through a spec",
     "created_at": "2026-11-12T13:31:33.425896+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171968",
+    "title": "Lenovo Warns of High-Severity Server Flaw That Restores Default Root Credentials After Reset",
+    "link": "https://cybersecuritynews.com/lenovo-server-flaw/",
+    "published": "Thu, 12 Nov 2026 13:37:44 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Lenovo has disclosed a high-severity security flaw in ThinkSystem V4 server management firmware that restores a default OpenBMC root password after a factory reset. Tracked as CVE-2026-81936, the issue could let attackers access enabled administrativ",
+    "created_at": "2026-11-12T14:01:32.510933+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171856",
+    "title": "Qilin Ransomware Admin Identified as 36-Year-Old Russian Hacker After Cybercrime Probe",
+    "link": "https://cybersecuritynews.com/qilin-ransomware-admin-identified/",
+    "published": "Thu, 12 Nov 2026 13:42:39 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A cybercrime investigation has linked the administrator of Qilin ransomware to Aleksey Mikhailovich Yakovtsev, a 36-year-old man living in St. Petersburg, Russia. Published by KrebsOnSecurity on November 11, 2026, the findings connect the online iden",
+    "created_at": "2026-11-12T14:02:10.062553+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171974",
+    "title": "AWS MCP Gateway Security Flaw Allowing Access to Internal Networks and Cloud Credentials",
+    "link": "https://cybersecuritynews.com/aws-mcp-gateway-security-flaw/",
+    "published": "Thu, 12 Nov 2026 13:51:59 +0000",
+    "source": "CybersecurityNews",
+    "summary": "AWS has fixed a server-side request forgery flaw in mcp-gateway-registry that could let an authenticated attacker reach internal services through the gateway. Tracked as CVE-2026-125926, the issue affects versions 1.0.3 through 1.34.0. Version 1.35.0",
+    "created_at": "2026-11-12T14:02:29.648908+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171989",
+    "title": "Critical Red Hat Quay Vulnerability Allows Unauthenticated Attackers to Hijack Container Registries",
+    "link": "https://cybersecuritynews.com/red-hat-quay-vulnerability/",
+    "published": "Thu, 12 Nov 2026 13:57:37 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical flaw in Red Hat Quay lets anyone who can reach a registry’s key server take over its token signing. The bug is tracked as CVE-2026-123710 and carries a CVSS score of 9.8, according to Red Hat’s advisory and the National Vulnerability Datab",
+    "created_at": "2026-11-12T14:03:10.105894+00:00"
   }
 ]
