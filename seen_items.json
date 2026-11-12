@@ -8098,5 +8098,14 @@
     "source": "CybersecurityNews",
     "summary": "San Francisco, California, USA, November 12th, 2026, CyberNewswire Four-year cybersecurity study finds all 50 types of software and devices examined vulnerable, with 46 rated Critical or High risk. nDiligence, Inc. today announced the release of Atta",
     "created_at": "2026-11-12T14:31:25.444189+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
+    "title": "Apify rotates API tokens, prompts 2FA resets after breach",
+    "link": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
+    "published": "Thu, 12 Nov 2026 09:36:47 -0500",
+    "source": "BleepingComputer",
+    "summary": "Apify has rotated critical internal secrets and revoked some third-party OAuth connections after detecting unauthorized access to its internal systems. [...]",
+    "created_at": "2026-11-12T15:01:38.014399+00:00"
   }
 ]
