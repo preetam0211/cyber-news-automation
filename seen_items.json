@@ -7882,5 +7882,23 @@
     "source": "The Hacker News",
     "summary": "A flaw fixed in Node.js this week lets unauthenticated clients crash servers that use the runtime&#x27;s built-in HTTP/2 support on the 24.x and 26.x release lines. A second HTTP/2 flaw can cause a server to send a client pieces of its memory, includ",
     "created_at": "2026-11-12T09:31:12.488246+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
+    "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
+    "link": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
+    "published": "Thu, 12 Nov 2026 14:55:00 +0530",
+    "source": "The Hacker News",
+    "summary": "A critical flaw in MongoDB Server allows an unauthenticated attacker to send two requests that trigger a crash on the database server. The crash occurs only if that server is later chosen to take over as the main server while it still lacks some rece",
+    "created_at": "2026-11-12T10:04:27.897665+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
+    "title": "Hackers plant GSocket on Linux servers for persistent access",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
+    "published": "Thu, 12 Nov 2026 04:38:00 -0500",
+    "source": "BleepingComputer",
+    "summary": "Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access. [...]",
+    "created_at": "2026-11-12T10:04:39.247421+00:00"
   }
 ]
