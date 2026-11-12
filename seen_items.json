@@ -8260,5 +8260,14 @@
     "source": "BleepingComputer",
     "summary": "A new campaign dubbed &#x27;wfx-loot&#x27; has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]",
     "created_at": "2026-11-12T22:31:09.909022+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
+    "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
+    "published": "Thu, 12 Nov 2026 17:53:10 -0500",
+    "source": "BleepingComputer",
+    "summary": "A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians&#x27; computers and compromise additional ma",
+    "created_at": "2026-11-12T23:01:09.954921+00:00"
   }
 ]
