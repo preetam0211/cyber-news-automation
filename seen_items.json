@@ -7792,5 +7792,23 @@
     "source": "CybersecurityNews",
     "summary": "A new ransomware group called Citrus is using Windows Group Policy to push its malware across entire company networks and switch off Microsoft Defender first. Group Policy is a trusted Windows tool that admins use to manage many computers at once. He",
     "created_at": "2026-11-12T07:01:17.691139+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
+    "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
+    "link": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
+    "published": "Thu, 12 Nov 2026 12:12:47 +0530",
+    "source": "The Hacker News",
+    "summary": "Starting Tuesday, an attacker used stolen credentials for 4,837 GitHub accounts to plant a secret stealer in repositories those accounts could write to, according to Aikido Security, a security software company.\n\nThe stealer is built to take the secr",
+    "created_at": "2026-11-12T07:31:25.857926+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171762",
+    "title": "Microsoft Discovers 59 Linux Kernel Security Bugs Using AI, Including Flaws Hidden for Over 20 Years",
+    "link": "https://cybersecuritynews.com/linux-kernel-security-bugs/",
+    "published": "Thu, 12 Nov 2026 07:24:12 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft’s FORGE Lab used an AI-driven scanning system to find 59 security bugs in the Linux kernel. Some of them sat unnoticed for more than 20 years. The work has so far led to 33 assigned CVEs, and Microsoft confirmed working root privilege-escal",
+    "created_at": "2026-11-12T07:31:45.025406+00:00"
   }
 ]
