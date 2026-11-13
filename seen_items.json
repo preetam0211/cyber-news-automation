@@ -8503,5 +8503,14 @@
     "source": "CybersecurityNews",
     "summary": "Citrix has released fixes for 28 security flaws in NetScaler ADC and NetScaler Gateway. One of them, CVE-2026-120868, affects every deployment in its default setup. Cloud Software Group published bulletin CTX697305 on November 12, 2026, and rated it ",
     "created_at": "2026-11-13T14:31:27.488921+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172124",
+    "title": "Hackers Use 2,700 Passwords to Break Into Microsoft SQL Servers and Deploy Remote Access Malware",
+    "link": "https://cybersecuritynews.com/break-into-microsoft-sql-servers/",
+    "published": "Fri, 13 Nov 2026 14:54:56 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new campaign is guessing its way into internet-facing Microsoft SQL Server systems. The attackers use a list of more than 2,700 passwords and then install a cryptocurrency miner and a remote access trojan (RAT) on the hacked machines. The campaign ",
+    "created_at": "2026-11-13T15:01:38.034037+00:00"
   }
 ]
