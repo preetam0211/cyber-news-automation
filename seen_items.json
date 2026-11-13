@@ -8269,5 +8269,14 @@
     "source": "BleepingComputer",
     "summary": "A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians&#x27; computers and compromise additional ma",
     "created_at": "2026-11-12T23:01:09.954921+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172049",
+    "title": "Massive Microsoft 365 Outage Impacts Exchange Online, Teams, SharePoint, Copilot, and Defender XDR Users",
+    "link": "https://cybersecuritynews.com/massive-microsoft-365-outage/",
+    "published": "Fri, 13 Nov 2026 02:14:54 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A major Microsoft 365 outage disrupted cloud service access on November 12 and continued into November 13, 2026, as Microsoft worked to restore failing infrastructure. Microsoft confirmed that connectivity problems could affect users in any region, e",
+    "created_at": "2026-11-13T02:31:06.009198+00:00"
   }
 ]
