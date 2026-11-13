@@ -8278,5 +8278,14 @@
     "source": "CybersecurityNews",
     "summary": "A major Microsoft 365 outage disrupted cloud service access on November 12 and continued into November 13, 2026, as Microsoft worked to restore failing infrastructure. Microsoft confirmed that connectivity problems could affect users in any region, e",
     "created_at": "2026-11-13T02:31:06.009198+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172058",
+    "title": "TSMC Data Breach – Employee Data Exposed via Third-Party Cloud Provider",
+    "link": "https://cybersecuritynews.com/tsmc-data-breach/",
+    "published": "Fri, 13 Nov 2026 05:25:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) has confirmed that personal data belonging to some current and former employees appeared online without permission. The chipmaker disclosed the incident on November 12, 2026, saying the exposed inform",
+    "created_at": "2026-11-13T05:31:14.223392+00:00"
   }
 ]
