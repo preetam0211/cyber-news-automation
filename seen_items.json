@@ -8386,5 +8386,32 @@
     "source": "CybersecurityNews",
     "summary": "The scanner market is honest about almost nothing except its layering: commercial engines with vast authenticated-check libraries, community scanners that democratized the discipline, and the template-driven open-source wave (Nuclei) that changed how",
     "created_at": "2026-11-13T09:31:08.417929+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171791",
+    "title": "Top 10 Best Web Application Vulnerability Scanners in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-web-app-scanners/",
+    "published": "Fri, 13 Nov 2026 09:34:42 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Web application scanning is won or lost at the crawl: single-page apps, authenticated flows, and API backends defeat naive crawlers, and a scanner that exercises 40% of your routes is reporting on a different application than the one you shipped. Thi",
+    "created_at": "2026-11-13T10:01:04.829329+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
+    "title": "Microsoft confirms Windows activation failures after November updates",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
+    "published": "Fri, 13 Nov 2026 04:36:18 -0500",
+    "source": "BleepingComputer",
+    "summary": "Microsoft has confirmed that this month&#x27;s Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]",
+    "created_at": "2026-11-13T10:01:11.861375+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171793",
+    "title": "Top 10 Best Network Vulnerability Scanners in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-network-vulnerability-scanners/",
+    "published": "Fri, 13 Nov 2026 09:39:00 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Network scanning truth is decided before the first packet: engine placement against network segmentation, credential distribution for authenticated depth, and scan windows negotiated with the operations teams whose switches you’re about to poke. One ",
+    "created_at": "2026-11-13T10:01:18.050758+00:00"
   }
 ]
