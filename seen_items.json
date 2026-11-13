@@ -8485,5 +8485,23 @@
     "source": "BleepingComputer",
     "summary": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
     "created_at": "2026-11-13T12:31:43.021901+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172116",
+    "title": "Hackers Use Fake Purchase Order Emails to Deliver XLoader Malware Through Malicious Word Documents",
+    "link": "https://cybersecuritynews.com/fake-purchase-order-emails/",
+    "published": "Fri, 13 Nov 2026 14:09:51 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are sending fake purchase order emails to trick recipients into opening Word documents that deliver XLoader, an information-stealing malware. The attack uses an embedded document, an old Microsoft Equation Editor vulnerability, and several sc",
+    "created_at": "2026-11-13T14:31:14.395578+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172095",
+    "title": "Citrix Patches 28 Security Vulnerabilities in NetScaler, Including a Critical Flaw in Default Installations",
+    "link": "https://cybersecuritynews.com/citrix-patches-netscaler-security-vulnerabilities/",
+    "published": "Fri, 13 Nov 2026 14:18:29 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Citrix has released fixes for 28 security flaws in NetScaler ADC and NetScaler Gateway. One of them, CVE-2026-120868, affects every deployment in its default setup. Cloud Software Group published bulletin CTX697305 on November 12, 2026, and rated it ",
+    "created_at": "2026-11-13T14:31:27.488921+00:00"
   }
 ]
