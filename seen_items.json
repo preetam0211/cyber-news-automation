@@ -8287,5 +8287,14 @@
     "source": "CybersecurityNews",
     "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) has confirmed that personal data belonging to some current and former employees appeared online without permission. The chipmaker disclosed the incident on November 12, 2026, saying the exposed inform",
     "created_at": "2026-11-13T05:31:14.223392+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
+    "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
+    "link": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
+    "published": "Fri, 13 Nov 2026 11:13:28 +0530",
+    "source": "The Hacker News",
+    "summary": "N-able on Thursday said it&#x27;s taking additional precautions in the wake of public disclosure of a new set of flaws tracked as 4EverAble2Shell and Agent2Shell.\n\n&quot;We are restricting certain N-central features and integrations,&quot; the compan",
+    "created_at": "2026-11-13T06:01:08.877963+00:00"
   }
 ]
