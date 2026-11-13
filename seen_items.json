@@ -8413,5 +8413,23 @@
     "source": "CybersecurityNews",
     "summary": "Network scanning truth is decided before the first packet: engine placement against network segmentation, credential distribution for authenticated depth, and scan windows negotiated with the operations teams whose switches you’re about to poke. One ",
     "created_at": "2026-11-13T10:01:18.050758+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+    "title": "Check Point warns of zero-day flaw exploited for root access",
+    "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+    "published": "Fri, 13 Nov 2026 05:44:22 -0500",
+    "source": "BleepingComputer",
+    "summary": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]",
+    "created_at": "2026-11-13T11:01:17.743107+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172089",
+    "title": "US Freezes $2.7 Billion Stolen by North Korean Hackers in Massive $6 Billion Binance Crypto Heist",
+    "link": "https://cybersecuritynews.com/us-freezes-2-7-billion/",
+    "published": "Fri, 13 Nov 2026 10:56:15 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The US government has frozen more than $2.7 billion of the crypto stolen from Binance on or about October 29, 2026. The FBI says North Korea took over $6 billion in that theft. Court orders already allow US officials to seize or hold more than $1.2 b",
+    "created_at": "2026-11-13T11:01:31.006595+00:00"
   }
 ]
