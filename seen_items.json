@@ -8512,5 +8512,50 @@
     "source": "CybersecurityNews",
     "summary": "A new campaign is guessing its way into internet-facing Microsoft SQL Server systems. The attackers use a list of more than 2,700 passwords and then install a cryptocurrency miner and a remote access trojan (RAT) on the hacked machines. The campaign ",
     "created_at": "2026-11-13T15:01:38.034037+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
+    "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
+    "link": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
+    "published": "Fri, 13 Nov 2026 19:24:20 +0530",
+    "source": "The Hacker News",
+    "summary": "Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday.\n\nThe implant reads the phrase from the wallet&#x27;s screen",
+    "created_at": "2026-11-13T15:31:11.810974+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
+    "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
+    "link": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
+    "published": "Fri, 13 Nov 2026 19:58:58 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People&#x27;s Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of cryptocurrency as part of a social engineering",
+    "created_at": "2026-11-13T15:31:17.733707+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
+    "title": "How one AI agent exposed five critical enterprise security gaps",
+    "link": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
+    "published": "Fri, 13 Nov 2026 10:01:11 -0500",
+    "source": "BleepingComputer",
+    "summary": "An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical AI agent security gaps and shares",
+    "created_at": "2026-11-13T15:31:22.509820+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172132",
+    "title": "Hackers Use SANSAR Linux Malware to Hide Crypto Mining by Faking 0% GPU Usage",
+    "link": "https://cybersecuritynews.com/hackers-use-sansar-linux-malware/",
+    "published": "Fri, 13 Nov 2026 15:09:45 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are hiding cryptocurrency mining on Linux GPU servers by changing the readings administrators use to spot heavy workloads. The toolkit combines a Rust-based controller called SANSAR, a kernel rootkit, and a modified NVIDIA monitoring library ",
+    "created_at": "2026-11-13T15:31:32.962551+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172133",
+    "title": "New TypoPrompting Attacks Turn Mistyped AI Website Addresses Into Malware Installation Traps",
+    "link": "https://cybersecuritynews.com/new-typoprompting-attacks/",
+    "published": "Fri, 13 Nov 2026 15:24:38 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A simple typing mistake can now cost you more than a failed page load. Researchers have found that mistyped addresses of popular AI tools lead to fake verification pages, hidden commands and malware installers. The technique is called TypoPrompting. ",
+    "created_at": "2026-11-13T15:31:38.918525+00:00"
   }
 ]
