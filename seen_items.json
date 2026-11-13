@@ -8458,5 +8458,32 @@
     "source": "The Hacker News",
     "summary": "Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make the request because its identity has access to the",
     "created_at": "2026-11-13T12:01:39.653172+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172090",
+    "title": "Hackers Use Windows Named Pipes and SMB to Spread Malware Across Isolated Government Networks",
+    "link": "https://cybersecuritynews.com/windows-named-pipes-and-smb/",
+    "published": "Fri, 13 Nov 2026 11:30:35 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new espionage group is using Windows named pipes and the SMB file-sharing protocol to move malware through tightly separated networks. Positive Technologies calls the group StingyBasilisk. It has been active since at least April 2022. The attackers",
+    "created_at": "2026-11-13T12:31:18.415302+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172113",
+    "title": "Hackers Use DeepSeek and GLM AI Agents to Breach 10 Organizations in Autonomous Cyberattacks",
+    "link": "https://cybersecuritynews.com/deepseek-and-glm-ai-agents/",
+    "published": "Fri, 13 Nov 2026 11:56:24 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Chinese-speaking hackers have used AI agents powered by DeepSeek and Zhipu GLM to break into 10 organizations with very little human effort. The campaign ran in August and September 2026 and covered 25 operations against at least 19 targets. It shows",
+    "created_at": "2026-11-13T12:31:29.768316+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
+    "title": "Microsoft says November security updates cause printing issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
+    "published": "Fri, 13 Nov 2026 07:27:40 -0500",
+    "source": "BleepingComputer",
+    "summary": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
+    "created_at": "2026-11-13T12:31:43.021901+00:00"
   }
 ]
