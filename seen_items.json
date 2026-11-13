@@ -8314,5 +8314,14 @@
     "source": "CybersecurityNews",
     "summary": "Hackers have chained Check Point firewall vulnerabilities to gain root access, plant backdoors, and deploy destructive malware on a VMware ESXi host. The campaign began on October 30, 2026, targeting Israeli organizations before expanding worldwide. ",
     "created_at": "2026-11-13T07:01:13.698462+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172075",
+    "title": "OpenAI Launches Two AI Cybersecurity Tools to Automate Penetration Testing and Vulnerability Remediation",
+    "link": "https://cybersecuritynews.com/openai-two-ai-cybersecurity-tools/",
+    "published": "Fri, 13 Nov 2026 07:16:36 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OpenAI has introduced Daybreak Red Team and Daybreak Defense Factory, two AI cybersecurity tools designed to help organizations test web applications, confirm security flaws, and prepare fixes. Announced on November 12, 2026, the products expand its ",
+    "created_at": "2026-11-13T07:31:24.070600+00:00"
   }
 ]
