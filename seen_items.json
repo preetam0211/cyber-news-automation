@@ -8341,5 +8341,41 @@
     "source": "The Hacker News",
     "summary": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously reported local privilege escalation flaw in Gaia OS  to deploy a backdoor cal",
     "created_at": "2026-11-13T08:31:06.636700+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171591",
+    "title": "Top 10 Best AI Governance (AI TRiSM) Platforms in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-ai-governance-platforms/",
+    "published": "Fri, 13 Nov 2026 08:34:06 +0000",
+    "source": "CybersecurityNews",
+    "summary": "AI governance became a procurement line the moment the EU AI Act’s obligations started landing and boards started asking which models the company actually runs a question most organizations still can’t answer. The 2026 field splits into policy-and-re",
+    "created_at": "2026-11-13T09:01:11.003130+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
+    "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
+    "link": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
+    "published": "Fri, 13 Nov 2026 03:34:20 -0500",
+    "source": "BleepingComputer",
+    "summary": "Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces. [...]",
+    "created_at": "2026-11-13T09:01:17.615610+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172086",
+    "title": "Beast Ransomware Uses Hidden ‘666’ Control Panel to Encrypt Windows Systems and Network Shares",
+    "link": "https://cybersecuritynews.com/beast-ransomware/",
+    "published": "Fri, 13 Nov 2026 08:38:07 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Beast ransomware has a hidden control panel. An attacker who presses ALT+CTRL and types 666 on an infected Windows machine opens a graphical interface that lets them choose what to encrypt. Most ransomware runs from the command line, so this gives af",
+    "created_at": "2026-11-13T09:01:27.842969+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171654",
+    "title": "Top 10 Best Vulnerability Management Tools in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-vulnerability-management-tools/",
+    "published": "Fri, 13 Nov 2026 08:38:42 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Vulnerability management lives or dies in the gap between scan and fix: detection is commoditized, and the 2026 differentiators are asset-coverage honesty, prioritization that survives contact with threat reality, and remediation workflow that lands ",
+    "created_at": "2026-11-13T09:01:33.677009+00:00"
   }
 ]
