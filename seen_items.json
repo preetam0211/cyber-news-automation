@@ -8296,5 +8296,14 @@
     "source": "The Hacker News",
     "summary": "N-able on Thursday said it&#x27;s taking additional precautions in the wake of public disclosure of a new set of flaws tracked as 4EverAble2Shell and Agent2Shell.\n\n&quot;We are restricting certain N-central features and integrations,&quot; the compan",
     "created_at": "2026-11-13T06:01:08.877963+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172063",
+    "title": "Microsoft 365 Massive Outage – Fixes Fail as Restored Servers Keep Going Unresponsive",
+    "link": "https://cybersecuritynews.com/microsoft-365-massive-outage-fixes-fail-as-restored-servers-keep-going-unresponsive/",
+    "published": "Fri, 13 Nov 2026 06:20:06 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has yet to find a fix that holds for the global Microsoft 365 outage, which has now run for more than 10 hours. Servers that engineers bring back online are falling over again as soon as user traffic reaches them. The outage began on Novemb",
+    "created_at": "2026-11-13T06:31:06.346738+00:00"
   }
 ]
