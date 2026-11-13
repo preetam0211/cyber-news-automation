@@ -8431,5 +8431,32 @@
     "source": "CybersecurityNews",
     "summary": "The US government has frozen more than $2.7 billion of the crypto stolen from Binance on or about October 29, 2026. The FBI says North Korea took over $6 billion in that theft. Court orders already allow US officials to seize or hold more than $1.2 b",
     "created_at": "2026-11-13T11:01:31.006595+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
+    "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
+    "link": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
+    "published": "Fri, 13 Nov 2026 16:25:03 +0530",
+    "source": "The Hacker News",
+    "summary": "An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch ransomware attacks.\n\nPolice also seized about 6.4 m",
+    "created_at": "2026-11-13T12:01:12.915492+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html",
+    "title": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users",
+    "link": "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html",
+    "published": "Fri, 13 Nov 2026 16:40:40 +0530",
+    "source": "The Hacker News",
+    "summary": "A newly identified spying group used hacked equipment inside Asian mobile operators to intercept the calls and texts of selected people, mostly in Taiwan.\n\nEnea, a telecom and cybersecurity software company based in Stockholm, found the group&#x27;s ",
+    "created_at": "2026-11-13T12:01:26.371227+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
+    "title": "When an AI Agent Goes Wrong, Can You Stop It?",
+    "link": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
+    "published": "Fri, 13 Nov 2026 17:22:31 +0530",
+    "source": "The Hacker News",
+    "summary": "Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make the request because its identity has access to the",
+    "created_at": "2026-11-13T12:01:39.653172+00:00"
   }
 ]
