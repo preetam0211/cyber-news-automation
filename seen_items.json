@@ -8332,5 +8332,14 @@
     "source": "CybersecurityNews",
     "summary": "A new Android remote access trojan called ArcticRAT can take full control of a phone while the owner sees only a black screen. The device looks locked or switched off, but an attacker is opening banking apps, approving permissions and stealing data i",
     "created_at": "2026-11-13T08:01:16.592376+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
+    "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
+    "link": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
+    "published": "Fri, 13 Nov 2026 13:35:49 +0530",
+    "source": "The Hacker News",
+    "summary": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously reported local privilege escalation flaw in Gaia OS  to deploy a backdoor cal",
+    "created_at": "2026-11-13T08:31:06.636700+00:00"
   }
 ]
