@@ -8620,5 +8620,14 @@
     "source": "CybersecurityNews",
     "summary": "CISA has warned that attackers are exploiting a Check Point security flaw that lets a local user gain root access on affected appliances. The agency added CVE-2026-123039 to its Known Exploited Vulnerabilities catalog on November 13, 2026, confirming",
     "created_at": "2026-11-14T04:01:05.908285+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172184",
+    "title": "Cursor Reveals How a Leaked Fireworks AI Key Led to a Backdoored Claude Code Extension",
+    "link": "https://cybersecuritynews.com/cursor-data-breach/",
+    "published": "Sat, 14 Nov 2026 09:09:31 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cursor has traced its October security breach to an access key exposed by Fireworks AI. The attacker used that key to steal historical coding agent records, find more credentials, and eventually place backdoored Claude Code extensions in Cursor’s mar",
+    "created_at": "2026-11-14T09:31:11.335967+00:00"
   }
 ]
