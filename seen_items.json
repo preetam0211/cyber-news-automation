@@ -8629,5 +8629,14 @@
     "source": "CybersecurityNews",
     "summary": "Cursor has traced its October security breach to an access key exposed by Fireworks AI. The attacker used that key to steal historical coding agent records, find more credentials, and eventually place backdoored Claude Code extensions in Cursor’s mar",
     "created_at": "2026-11-14T09:31:11.335967+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172187",
+    "title": "Microsoft Warns of Active Password Stealing Attack Exploiting the Microsoft 365 Service Disruption",
+    "link": "https://cybersecuritynews.com/active-password-stealing-attack-microsoft-365/",
+    "published": "Sat, 14 Nov 2026 10:57:32 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has warned of an active phishing campaign using the November 12 Microsoft 365 service disruption to lure users into opening fake email recovery links. The messages copy Microsoft service health notices and cite the real Exchange Online inci",
+    "created_at": "2026-11-14T11:01:09.124632+00:00"
   }
 ]
