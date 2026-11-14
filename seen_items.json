@@ -8638,5 +8638,14 @@
     "source": "CybersecurityNews",
     "summary": "Microsoft has warned of an active phishing campaign using the November 12 Microsoft 365 service disruption to lure users into opening fake email recovery links. The messages copy Microsoft service health notices and cite the real Exchange Online inci",
     "created_at": "2026-11-14T11:01:09.124632+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172190",
+    "title": "FBI Reveals How Hackers Use ARTEX AI Agents to Gain Privileged Access in Under Three Hours",
+    "link": "https://cybersecuritynews.com/fbi-reveals-hackers-artex-ai-usage/",
+    "published": "Sat, 14 Nov 2026 11:21:17 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The FBI has warned that hackers are using ARTEX AI agents to automate network attacks, with some intrusions reaching privileged access in under three hours. Its November 13, 2026, FLASH alert describes how attackers combine stolen credentials, expose",
+    "created_at": "2026-11-14T11:31:16.136243+00:00"
   }
 ]
