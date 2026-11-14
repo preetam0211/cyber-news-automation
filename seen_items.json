@@ -8602,5 +8602,14 @@
     "source": "BleepingComputer",
     "summary": "Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious hardware implants designed to steal wallet recovery phrases and send them to attackers over cellular ",
     "created_at": "2026-11-13T20:01:23.754552+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172150",
+    "title": "Uber Confirms Data Breach – Hackers Stole Users’ Personal Information",
+    "link": "https://cybersecuritynews.com/uber-confirms-data-breach/",
+    "published": "Sat, 14 Nov 2026 01:19:57 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Uber has confirmed a data breach involving the personal information of thousands of U.S. drivers after hackers accessed records held by Fireworks AI, a third-party technology provider. The exposed information includes driver’s license details. Uber i",
+    "created_at": "2026-11-14T01:31:16.150879+00:00"
   }
 ]
