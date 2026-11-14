@@ -8647,5 +8647,14 @@
     "source": "CybersecurityNews",
     "summary": "The FBI has warned that hackers are using ARTEX AI agents to automate network attacks, with some intrusions reaching privileged access in under three hours. Its November 13, 2026, FLASH alert describes how attackers combine stolen credentials, expose",
     "created_at": "2026-11-14T11:31:16.136243+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+    "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+    "link": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+    "published": "Sat, 14 Nov 2026 18:08:35 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following repo",
+    "created_at": "2026-11-14T13:01:10.431409+00:00"
   }
 ]
