@@ -8611,5 +8611,14 @@
     "source": "CybersecurityNews",
     "summary": "Uber has confirmed a data breach involving the personal information of thousands of U.S. drivers after hackers accessed records held by Fireworks AI, a third-party technology provider. The exposed information includes driver’s license details. Uber i",
     "created_at": "2026-11-14T01:31:16.150879+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172154",
+    "title": "CISA Warns of Check Point 0-Day Vulnerability Exploited to Gain Root Access",
+    "link": "https://cybersecuritynews.com/check-point-0-day-vulnerability/",
+    "published": "Sat, 14 Nov 2026 03:47:33 +0000",
+    "source": "CybersecurityNews",
+    "summary": "CISA has warned that attackers are exploiting a Check Point security flaw that lets a local user gain root access on affected appliances. The agency added CVE-2026-123039 to its Known Exploited Vulnerabilities catalog on November 13, 2026, confirming",
+    "created_at": "2026-11-14T04:01:05.908285+00:00"
   }
 ]
