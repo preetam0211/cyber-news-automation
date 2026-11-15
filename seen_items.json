@@ -8674,5 +8674,14 @@
     "source": "BleepingComputer",
     "summary": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]",
     "created_at": "2026-11-14T17:31:06.144584+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+    "title": "Stolen Fireworks AI Key Led to Cursor Data Breach and Trojanized Claude Code Extension",
+    "link": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+    "published": "Sun, 15 Nov 2026 13:52:04 +0530",
+    "source": "The Hacker News",
+    "summary": "The compromise of Anthropic&#x27;s official Claude Code extension on Cursor&#x27;s extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI.\n\n&quot;An attacker obtained an acce",
+    "created_at": "2026-11-15T09:31:08.489619+00:00"
   }
 ]
