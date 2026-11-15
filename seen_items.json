@@ -8701,5 +8701,14 @@
     "source": "BleepingComputer",
     "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]",
     "created_at": "2026-11-15T15:31:13.502855+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172101",
+    "title": "Researchers Find Six 0-Days Allowing Unauthorized Takeover of Supermarket Refrigeration Systems",
+    "link": "https://cybersecuritynews.com/supermarket-refrigeration-systems-0-day/",
+    "published": "Sun, 15 Nov 2026 15:23:22 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Six pre-authentication remote code execution flaws were found in the Danfoss AK-SM800A supermarket fridge controller, allowing remote takeover in about an hour, according to Midnight Blue researcher Carlo Meijer. The flaws are stack-based buffer over",
+    "created_at": "2026-11-15T16:01:11.897412+00:00"
   }
 ]
