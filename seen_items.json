@@ -8683,5 +8683,14 @@
     "source": "The Hacker News",
     "summary": "The compromise of Anthropic&#x27;s official Claude Code extension on Cursor&#x27;s extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI.\n\n&quot;An attacker obtained an acce",
     "created_at": "2026-11-15T09:31:08.489619+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
+    "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
+    "link": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
+    "published": "Sun, 15 Nov 2026 16:57:31 +0530",
+    "source": "The Hacker News",
+    "summary": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users&#x27; phone galleries for them to post.\n\nThe Garante, Italy&#x27;s data protection authority, found that the feature was ena",
+    "created_at": "2026-11-15T12:01:13.094823+00:00"
   }
 ]
