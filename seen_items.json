@@ -8800,5 +8800,23 @@
     "source": "CybersecurityNews",
     "summary": "CAASM exists because every security tool keeps its own asset list and they all disagree: the same laptop under three names, the server EDR sees but the scanner doesn’t, the cloud workload nobody’s CMDB ever met. These platforms aggregate asset truth ",
     "created_at": "2026-11-16T07:34:48.911420+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
+    "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
+    "link": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
+    "published": "Mon, 16 Nov 2026 12:23:34 +0530",
+    "source": "The Hacker News",
+    "summary": "An investigation into suspicious activity within a Russian software developer&#x27;s network has uncovered a months-long compromise of its development infrastructure and a software code-signing server.\n\nThe activity, documented by Kaspersky&#x27;s IC",
+    "created_at": "2026-11-16T08:01:29.889641+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
+    "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
+    "link": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
+    "published": "Mon, 16 Nov 2026 13:04:21 +0530",
+    "source": "The Hacker News",
+    "summary": "Attackers&#x27; AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents&#x27; own records.\n\nThe records, which Amazon&#x27;s threat",
+    "created_at": "2026-11-16T08:01:41.546675+00:00"
   }
 ]
