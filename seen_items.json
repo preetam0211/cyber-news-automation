@@ -9115,5 +9115,32 @@
     "source": "CybersecurityNews",
     "summary": "Security researchers have found that the Claude Code extension for Visual Studio Code can show a permission prompt that hides where a file really sits. A user may approve access to a path that looks safe, while the file lives outside the trusted work",
     "created_at": "2026-11-16T17:02:04.208139+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
+    "title": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
+    "link": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
+    "published": "Mon, 16 Nov 2026 18:57:20 +0530",
+    "source": "The Hacker News",
+    "summary": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren&#x27;t always doing their job.\n\nMeanwhile",
+    "created_at": "2026-11-16T18:01:13.117563+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
+    "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
+    "link": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
+    "published": "Mon, 16 Nov 2026 19:30:00 +0530",
+    "source": "The Hacker News",
+    "summary": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, and PentAGI to execute multi-s",
+    "created_at": "2026-11-16T18:01:19.073971+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=40791",
+    "title": "15 Best Patch Management Tools In 2027",
+    "link": "https://cybersecuritynews.com/patch-management-tools/",
+    "published": "Mon, 16 Nov 2026 17:40:12 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Patch management tools remain critical for IT security and operational efficiency in 2026, automating the discovery, testing, and deployment of software updates across diverse endpoints. Leading solutions NinjaOne, Automox, Kaseya VSA, ManageEngine P",
+    "created_at": "2026-11-16T18:01:23.783750+00:00"
   }
 ]
