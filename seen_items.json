@@ -9043,5 +9043,14 @@
     "source": "BleepingComputer",
     "summary": "The FBI&#x27;s latest CJIS Security Policy requires law enforcement agencies to strengthen password protections and enforce MFA across privileged and non-privileged accounts. Specops Software outlines seven practical steps to meet these requirements,",
     "created_at": "2026-11-16T15:31:13.401354+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
+    "title": "Fandango says hackers stole payment card details from checkout pages",
+    "link": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
+    "published": "Mon, 16 Nov 2026 10:44:21 -0500",
+    "source": "BleepingComputer",
+    "summary": "Ticket seller Fandango Media is notifying customers about a data breach that exposed payment card details entered on its checkout pages. [...]",
+    "created_at": "2026-11-16T16:01:35.996640+00:00"
   }
 ]
