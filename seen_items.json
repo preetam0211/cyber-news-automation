@@ -8998,5 +8998,14 @@
     "source": "CybersecurityNews",
     "summary": "A new OWASP Incubator Project highlights an overlooked AI security gap: the servers, networks, and data centers supporting AI systems receive far less attention than models, apps, and agents. The OWASP Top 10 Neocloud and AI Data Center Security Risk",
     "created_at": "2026-11-16T13:31:46.412544+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172272",
+    "title": "Microsoft Releases Out-of-band Update to Address Windows Licensing and Activation Errors",
+    "link": "https://cybersecuritynews.com/microsoft-windows-licensing-error/",
+    "published": "Mon, 16 Nov 2026 13:36:54 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft released an out-of-band Windows update on November 13, 2026, to fix licensing and activation errors affecting a limited number of enterprise devices. The issue appeared after the November 2026 Windows security update and mainly affects orga",
+    "created_at": "2026-11-16T14:01:18.344921+00:00"
   }
 ]
