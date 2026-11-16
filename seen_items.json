@@ -9151,5 +9151,14 @@
     "source": "BleepingComputer",
     "summary": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
     "created_at": "2026-11-16T20:01:15.603843+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
+    "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+    "link": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
+    "published": "Mon, 16 Nov 2026 15:59:44 -0500",
+    "source": "BleepingComputer",
+    "summary": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments",
+    "created_at": "2026-11-16T21:01:30.708059+00:00"
   }
 ]
