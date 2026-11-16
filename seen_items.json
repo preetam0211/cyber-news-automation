@@ -8818,5 +8818,14 @@
     "source": "The Hacker News",
     "summary": "Attackers&#x27; AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents&#x27; own records.\n\nThe records, which Amazon&#x27;s threat",
     "created_at": "2026-11-16T08:01:41.546675+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/",
+    "title": "Microsoft pushes Windows emergency updates to fix activation failures",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/",
+    "published": "Mon, 16 Nov 2026 03:26:52 -0500",
+    "source": "BleepingComputer",
+    "summary": "Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month&#x27;s security updates. [...]",
+    "created_at": "2026-11-16T08:31:18.169475+00:00"
   }
 ]
