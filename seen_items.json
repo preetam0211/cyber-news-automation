@@ -8827,5 +8827,14 @@
     "source": "BleepingComputer",
     "summary": "Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month&#x27;s security updates. [...]",
     "created_at": "2026-11-16T08:31:18.169475+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172239",
+    "title": "Microsoft Reveals How a Hidden Windows Bug Took Down Microsoft 365 Services Worldwide",
+    "link": "https://cybersecuritynews.com/microsoft-outage-incident-report/",
+    "published": "Mon, 16 Nov 2026 08:04:53 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has traced the worldwide Microsoft 365 outage on November 12–13, 2026, to a hidden Windows defect that overwhelmed servers handling cloud connections. Its preliminary incident report, dated November 15, describes how a software change, shif",
+    "created_at": "2026-11-16T09:01:11.793993+00:00"
   }
 ]
