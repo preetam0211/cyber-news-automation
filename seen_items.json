@@ -8719,5 +8719,14 @@
     "source": "BleepingComputer",
     "summary": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer en",
     "created_at": "2026-11-15T18:31:05.344565+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172206",
+    "title": "Claude Cracks 32-Year-Old Jeep ECU Using a $3 Arduino and Reverse Engineers Its Engine Computer",
+    "link": "https://cybersecuritynews.com/claude-cracks-32-year-old-jeep-ecu/",
+    "published": "Mon, 16 Nov 2026 02:09:56 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A car owner says an AI coding agent helped him read, copy, and then run code inside the engine computer of a 1994 Jeep Cherokee. The work took about a week. He used a $3 Arduino Nano, and the Jeep passed California’s smog test at the end. Muhammad Zu",
+    "created_at": "2026-11-16T02:31:11.954074+00:00"
   }
 ]
