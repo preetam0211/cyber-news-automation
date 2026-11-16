@@ -9007,5 +9007,14 @@
     "source": "CybersecurityNews",
     "summary": "Microsoft released an out-of-band Windows update on November 13, 2026, to fix licensing and activation errors affecting a limited number of enterprise devices. The issue appeared after the November 2026 Windows security update and mainly affects orga",
     "created_at": "2026-11-16T14:01:18.344921+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
+    "title": "Google warns that fully-automated AI attacks are coming soon",
+    "link": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
+    "published": "Mon, 16 Nov 2026 09:00:00 -0500",
+    "source": "BleepingComputer",
+    "summary": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
+    "created_at": "2026-11-16T14:31:08.354049+00:00"
   }
 ]
