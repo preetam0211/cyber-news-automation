@@ -8953,5 +8953,23 @@
     "source": "CybersecurityNews",
     "summary": "Claude users can connect VirusTotal threat intelligence to their investigations, bringing file, URL, domain, and IP reports into an AI workflow. The connection lets analysts review detection findings, analysis dates, coverage, and source links withou",
     "created_at": "2026-11-16T12:31:26.206813+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
+    "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
+    "published": "Mon, 16 Nov 2026 07:53:18 -0500",
+    "source": "BleepingComputer",
+    "summary": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months. [...]",
+    "created_at": "2026-11-16T13:01:28.315508+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172283",
+    "title": "Australia’s Supermarket Chain Coles Investigates Cyber Security Incident",
+    "link": "https://cybersecuritynews.com/coles-investigates-cyber-security-incident/",
+    "published": "Mon, 16 Nov 2026 12:54:05 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Australian supermarket chain Coles is investigating a cybersecurity incident, with outside experts helping secure its systems. The retailer disclosed the incident on November 16, 2026, and said stores and online shopping remain open. Investigators ha",
+    "created_at": "2026-11-16T13:01:40.661976+00:00"
   }
 ]
