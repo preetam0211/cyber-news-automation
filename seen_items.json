@@ -8836,5 +8836,14 @@
     "source": "CybersecurityNews",
     "summary": "Microsoft has traced the worldwide Microsoft 365 outage on November 12–13, 2026, to a hidden Windows defect that overwhelmed servers handling cloud connections. Its preliminary incident report, dated November 15, describes how a software change, shif",
     "created_at": "2026-11-16T09:01:11.793993+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
+    "title": "New NoisyTCP vulnerability lets attackers crash Linux servers",
+    "link": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
+    "published": "Mon, 16 Nov 2026 04:30:04 -0500",
+    "source": "BleepingComputer",
+    "summary": "An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations. [...]",
+    "created_at": "2026-11-16T09:31:06.475326+00:00"
   }
 ]
