@@ -8737,5 +8737,14 @@
     "source": "CybersecurityNews",
     "summary": "The Tor Project has released Tor 0.4.9.17 in an urgent response to an ongoing distributed denial-of-service attack that is overwhelming network relays. Announced on November 13, 2026, the stable release includes several security fixes, including one ",
     "created_at": "2026-11-16T03:31:15.562597+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172212",
+    "title": "AWS Restores Services in US-EAST-1 After Hours-Long Outage Disrupts Cloud Operations",
+    "link": "https://cybersecuritynews.com/aws-services-outage/",
+    "published": "Mon, 16 Nov 2026 03:43:23 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Amazon Web Services restored operations in its US-EAST-1 region on November 15 after an outage disrupted account signups, authentication, and network connections. Problems began at 3:05 a.m. PST, and the last network issue was resolved at 6:21 a.m. P",
+    "created_at": "2026-11-16T04:01:09.599293+00:00"
   }
 ]
