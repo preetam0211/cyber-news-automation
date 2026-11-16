@@ -8755,5 +8755,50 @@
     "source": "CybersecurityNews",
     "summary": "NoisyTCP is an 11-year-old Linux kernel bug. It lets a remote attacker crash a server without logging in. The flaw is tracked as CVE-2026-99288. Hyunwoo Kim (@v4bel) reported and patched it, and he released the NoisyTCP advisory on GitHub after the L",
     "created_at": "2026-11-16T05:31:17.226393+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171832",
+    "title": "Top 10 Best Cloud Vulnerability Management Tools in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-cloud-vulnerability-management/",
+    "published": "Mon, 16 Nov 2026 06:55:22 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cloud vulnerability management rewrote the category’s physics: agentless snapshot scanning covers an estate in hours, and the question stopped being “what’s vulnerable” everything is and became “what’s reachable, exploitable, and attached to somethin",
+    "created_at": "2026-11-16T07:34:21.784348+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171839",
+    "title": "Top 10 Best Risk-Based Vulnerability Management Tools in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-rbvm-tools/",
+    "published": "Mon, 16 Nov 2026 07:03:19 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Risk-based vulnerability management exists because severity lies: most CVSS criticals are never exploited, and the handful that matter hide among thousands that don’t. RBVM re-ranks by exploitation evidence, asset criticality, and reachability and th",
+    "created_at": "2026-11-16T07:34:28.167125+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171901",
+    "title": "Top 10 Best Continuous Threat Exposure Management (CTEM) Platforms in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-ctem-platforms/",
+    "published": "Mon, 16 Nov 2026 07:08:54 +0000",
+    "source": "CybersecurityNews",
+    "summary": "CTEM is a five-stage operating rhythm scope, discover, prioritize, validate, mobilize and no single product runs it all, whatever the datasheets imply. The honest buying question is which stages each platform genuinely covers, with validation (the st",
+    "created_at": "2026-11-16T07:34:38.200320+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171921",
+    "title": "Top 10 Best Attack Surface Management (ASM/EASM) Tools in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-attack-surface-management/",
+    "published": "Mon, 16 Nov 2026 07:13:15 +0000",
+    "source": "CybersecurityNews",
+    "summary": "External attack surface management answers the question attackers answer daily and most defenders never have: what of yours is actually reachable from the internet right now? The 2026 field divides into continuous-discovery engines, suite-integrated ",
+    "created_at": "2026-11-16T07:34:44.211455+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=171951",
+    "title": "Top 10 Best Cyber Asset Attack Surface Management (CAASM) Tools in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-caasm-tools/",
+    "published": "Mon, 16 Nov 2026 07:19:56 +0000",
+    "source": "CybersecurityNews",
+    "summary": "CAASM exists because every security tool keeps its own asset list and they all disagree: the same laptop under three names, the server EDR sees but the scanner doesn’t, the cloud workload nobody’s CMDB ever met. These platforms aggregate asset truth ",
+    "created_at": "2026-11-16T07:34:48.911420+00:00"
   }
 ]
