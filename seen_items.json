@@ -8728,5 +8728,14 @@
     "source": "CybersecurityNews",
     "summary": "A car owner says an AI coding agent helped him read, copy, and then run code inside the engine computer of a 1994 Jeep Cherokee. The work took about a week. He used a $3 Arduino Nano, and the Jeep passed California’s smog test at the end. Muhammad Zu",
     "created_at": "2026-11-16T02:31:11.954074+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172209",
+    "title": "Tor Releases Emergency Security Update as Ongoing DDoS Attack Overwhelms Network Relays",
+    "link": "https://cybersecuritynews.com/tor-ddos-attack/",
+    "published": "Mon, 16 Nov 2026 03:23:56 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The Tor Project has released Tor 0.4.9.17 in an urgent response to an ongoing distributed denial-of-service attack that is overwhelming network relays. Announced on November 13, 2026, the stable release includes several security fixes, including one ",
+    "created_at": "2026-11-16T03:31:15.562597+00:00"
   }
 ]
