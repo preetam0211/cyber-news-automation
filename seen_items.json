@@ -9016,5 +9016,23 @@
     "source": "BleepingComputer",
     "summary": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
     "created_at": "2026-11-16T14:31:08.354049+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172294",
+    "title": "Leaked Credentials Are an Enterprise Problem: GitGuardian Extends Its Good Samaritan Program to Security Teams",
+    "link": "https://cybersecuritynews.com/leaked-credentials-are-an-enterprise-problem-gitguardian-extends-its-good-samaritan-program-to-security-teams/",
+    "published": "Mon, 16 Nov 2026 14:38:24 +0000",
+    "source": "CybersecurityNews",
+    "summary": "New York, USA, November 16th, 2026, CyberNewswire AI attribution has linked more than 3,913 high-impact leaks to 1,532 companies since spring; security experts handle critical disclosures to enterprise security teams. GitGuardian, the secrets securit",
+    "created_at": "2026-11-16T15:01:55.191881+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172276",
+    "title": "Mustang Panda-Linked Hackers Deploy LOTUSLITE V2 Through Malicious Zoho WorkDrive Downloads",
+    "link": "https://cybersecuritynews.com/mustang-panda-linked-hackers/",
+    "published": "Mon, 16 Nov 2026 14:48:31 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers linked to Mustang Panda are distributing LOTUSLITE V2 through public Zoho WorkDrive downloads, using an Indo-Pacific assessment lure to draw victims into running malware. The campaign, focused on Thailand, combines a trusted PDFgear executabl",
+    "created_at": "2026-11-16T15:02:23.793017+00:00"
   }
 ]
