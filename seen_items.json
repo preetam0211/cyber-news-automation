@@ -9169,5 +9169,14 @@
     "source": "BleepingComputer",
     "summary": "Google Project Zero will replace its &quot;90+30&quot; disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
     "created_at": "2026-11-16T22:01:09.834238+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
+    "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+    "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
+    "published": "Mon, 16 Nov 2026 17:54:00 -0500",
+    "source": "BleepingComputer",
+    "summary": "Google&#x27;s Gemini AI agents repeatedly attempted to hack a real organization&#x27;s website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from accessing live systems.",
+    "created_at": "2026-11-16T23:31:20.167321+00:00"
   }
 ]
