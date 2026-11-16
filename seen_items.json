@@ -8899,5 +8899,32 @@
     "source": "BleepingComputer",
     "summary": "Anthropic recently rolled out Claude Mythos 5.2 to selected partners and Fable 5.2 to regular users, with improvements to coding and reasoning. But we also noticed some interesting cybersecurity changes. [...]",
     "created_at": "2026-11-16T11:01:44.780188+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172250",
+    "title": "BlackNevas Ransomware Wipes VMware ESXi Infrastructure and Backups Without Exploiting Any Flaws",
+    "link": "https://cybersecuritynews.com/blacknevas-ransomware/",
+    "published": "Mon, 16 Nov 2026 11:02:11 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A ransomware attack linked to BlackNevas destroyed an organization’s VMware environment during a 10-day intrusion, targeting four ESXi hosts, every hosted virtual machine, two vCenter Server Appliances, and connected backup infrastructure. The attack",
+    "created_at": "2026-11-16T11:31:17.467192+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
+    "title": "Australian retail giant Coles investigates cybersecurity incident",
+    "link": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
+    "published": "Mon, 16 Nov 2026 06:18:09 -0500",
+    "source": "BleepingComputer",
+    "summary": "Coles Group Limited, Australia&#x27;s second-largest retailer, is investigating what it described as a &quot;cyber security incident&quot; that has not impacted the company&#x27;s stores. [...]",
+    "created_at": "2026-11-16T11:31:28.854678+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172253",
+    "title": "Hackers Use Falcon C2 to Hijack Government Browsers and Steal Passwords, Emails, and Session Cookies",
+    "link": "https://cybersecuritynews.com/hackers-use-falcon-c2/",
+    "published": "Mon, 16 Nov 2026 11:19:37 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers have compromised government webmail portals and internal applications using Falcon C2, a browser-based command-and-control framework that steals passwords, emails, session cookies, and private communications. By planting malicious JavaScript ",
+    "created_at": "2026-11-16T11:31:40.815126+00:00"
   }
 ]
