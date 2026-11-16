@@ -9160,5 +9160,14 @@
     "source": "BleepingComputer",
     "summary": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments",
     "created_at": "2026-11-16T21:01:30.708059+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
+    "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
+    "link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
+    "published": "Mon, 16 Nov 2026 16:31:44 -0500",
+    "source": "BleepingComputer",
+    "summary": "Google Project Zero will replace its &quot;90+30&quot; disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
+    "created_at": "2026-11-16T22:01:09.834238+00:00"
   }
 ]
