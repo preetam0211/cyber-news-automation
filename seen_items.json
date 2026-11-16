@@ -8845,5 +8845,14 @@
     "source": "BleepingComputer",
     "summary": "An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations. [...]",
     "created_at": "2026-11-16T09:31:06.475326+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172225",
+    "title": "Japan Reports Record 233 Cyber Incidents as 185 Million Personal Records Are Put at Risk",
+    "link": "https://cybersecuritynews.com/233-cyber-incidents/",
+    "published": "Mon, 16 Nov 2026 09:39:54 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Japan recorded 233 publicly disclosed cybersecurity incidents in October 2026, roughly 2.4 times its previous monthly record, according to Trend Micro data reported by TV Asahi. The surge has affected businesses, service providers, and public institu",
+    "created_at": "2026-11-16T10:01:13.095711+00:00"
   }
 ]
