@@ -9052,5 +9052,68 @@
     "source": "BleepingComputer",
     "summary": "Ticket seller Fandango Media is notifying customers about a data breach that exposed payment card details entered on its checkout pages. [...]",
     "created_at": "2026-11-16T16:01:35.996640+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172298",
+    "title": "Google Reveals How Hackers Are Using AI Agents to Automate Real-World Cyberattacks",
+    "link": "https://cybersecuritynews.com/fully-automated-ai-attacks/",
+    "published": "Mon, 16 Nov 2026 15:36:55 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are no longer just asking AI chatbots for help. They now run AI agents that can scan, break in, and move through networks with very little human input. In its latest AI Threat Tracker, published on November 16, 2026, the Google Threat Intelli",
+    "created_at": "2026-11-16T17:01:09.357869+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172306",
+    "title": "Cisco Talos Reveals How Hackers Use ARTEX, PentAGI, and HexStrike AI to Automate Cyberattacks",
+    "link": "https://cybersecuritynews.com/hackers-use-artex/",
+    "published": "Mon, 16 Nov 2026 15:48:20 +0000",
+    "source": "CybersecurityNews",
+    "summary": "AI-powered penetration testing tools are helping hackers automate reconnaissance, vulnerability testing, and follow-on attacks with less hands-on work. Cisco Talos warns that these platforms can connect familiar security utilities with AI agents, all",
+    "created_at": "2026-11-16T17:01:18.194214+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172282",
+    "title": "Apple Reveals How Secure Exclaves Prevent Hidden Camera and Microphone Access on iPhones",
+    "link": "https://cybersecuritynews.com/apple-reveals-secure-exclaves/",
+    "published": "Mon, 16 Nov 2026 16:04:06 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Apple has detailed how Secure Exclaves protect camera and microphone data, aiming to stop attackers from secretly collecting sensitive recordings even if they compromise the main operating system. The architecture combines hardware isolation, strict ",
+    "created_at": "2026-11-16T17:01:34.877924+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172310",
+    "title": "Retadup USB Worm Returns After 7 Years, Spreading CoffeeLoader Malware to Windows Systems",
+    "link": "https://cybersecuritynews.com/retadup-usb-worm-returns/",
+    "published": "Mon, 16 Nov 2026 16:11:47 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The Retadup USB worm is again being used to deliver malware to Windows systems, seven years after French authorities dismantled its botnet. The latest findings connect the worm to CoffeeLoader, a malware loader that uses graphics hardware during decr",
+    "created_at": "2026-11-16T17:01:41.853255+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172322",
+    "title": "Hackers Use AI-Powered Marketplace to Find Infected Computers With Corporate VPN and Cloud Access",
+    "link": "https://cybersecuritynews.com/hackers-use-ai-powered-marketplace/",
+    "published": "Mon, 16 Nov 2026 16:41:44 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new underground marketplace is making stolen computer data much easier to search. It adds a short written profile to each infected computer, so buyers can look for the exact kind of victim they want. They no longer have to dig through raw files. Th",
+    "created_at": "2026-11-16T17:01:52.409221+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
+    "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
+    "published": "Mon, 16 Nov 2026 11:43:24 -0500",
+    "source": "BleepingComputer",
+    "summary": "Microsoft says a software bug introduced in July caused last week&#x27;s worldwide Microsoft 365 outage, triggering a cascading failure that left more than 80% of its networking gateway servers unresponsive. [...]",
+    "created_at": "2026-11-16T17:01:58.255754+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172333",
+    "title": "Researchers Reveal How Claude Code VS Code Extension Can Access Files Outside Trusted Workspaces",
+    "link": "https://cybersecuritynews.com/claude-code-vs-code-extension/",
+    "published": "Mon, 16 Nov 2026 16:51:53 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Security researchers have found that the Claude Code extension for Visual Studio Code can show a permission prompt that hides where a file really sits. A user may approve access to a path that looks safe, while the file lives outside the trusted work",
+    "created_at": "2026-11-16T17:02:04.208139+00:00"
   }
 ]
