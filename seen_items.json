@@ -9592,5 +9592,14 @@
     "source": "BleepingComputer",
     "summary": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account &amp; Sign In, Apple School Manager, and Schoolwork. [...]",
     "created_at": "2026-11-17T19:32:21.137041+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+    "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
+    "link": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+    "published": "Wed, 18 Nov 2026 01:04:20 +0530",
+    "source": "The Hacker News",
+    "summary": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company.\n\nWidgets are small interactive blocks that bots send inside chat messages, and their",
+    "created_at": "2026-11-17T20:31:12.999623+00:00"
   }
 ]
