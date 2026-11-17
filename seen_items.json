@@ -9259,5 +9259,32 @@
     "source": "CybersecurityNews",
     "summary": "A Unicode normalization flaw allows attackers to bypass macOS file exclusion checks, affecting Deno, libarchive, HashiCorp go-slug, and Python setuptools across four CVEs. The flaw comes from two parts of the system disagreeing about what a file name",
     "created_at": "2026-11-17T08:31:13.107892+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
+    "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
+    "link": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
+    "published": "Tue, 17 Nov 2026 03:35:42 -0500",
+    "source": "BleepingComputer",
+    "summary": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. [...]",
+    "created_at": "2026-11-17T09:01:28.196105+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172369",
+    "title": "Hackers Exploit Exposed AI Vendor Key to Breach 10 Barracuda Cloud Accounts in 44 Hours",
+    "link": "https://cybersecuritynews.com/barracuda-cloud-account-breach/",
+    "published": "Tue, 17 Nov 2026 08:42:21 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers used a cloud access key exposed through an unnamed AI vendor to enter Barracuda’s cloud environment and reach about 10 accounts in roughly 44 hours. The November 1–2 intrusion crossed cloud services, data analytics, source code, and Kubernete",
+    "created_at": "2026-11-17T09:01:41.137850+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172386",
+    "title": "macOS 27.3 Adds New Security Controls to Stop AI Apps From Accessing All Mac Data",
+    "link": "https://cybersecuritynews.com/macos-27-3-new-security-controls/",
+    "published": "Tue, 17 Nov 2026 08:55:20 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Apple has introduced new privacy controls in macOS 27.3 beta 2 that make it harder for apps, including AI assistants, to gain broad access to Mac data without clear user approval. Announced on November 16, 2026, the changes add narrower permissions, ",
+    "created_at": "2026-11-17T09:01:53.658370+00:00"
   }
 ]
