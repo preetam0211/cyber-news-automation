@@ -9430,5 +9430,23 @@
     "source": "CybersecurityNews",
     "summary": "Hackers are exploiting a critical ScreenConnect vulnerability to run malicious files on managed service provider technicians’ computers without showing a confirmation prompt. The attack turns a routine remote support connection into an infection rout",
     "created_at": "2026-11-17T13:01:05.884063+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172438",
+    "title": "Hackers Exploit Exposed AI Vendor Key to Breach 10 Barracuda Cloud Accounts in 44 Hours",
+    "link": "https://cybersecuritynews.com/barracuda-cloud-accounts/",
+    "published": "Tue, 17 Nov 2026 13:13:20 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers used a cloud access key exposed through an AI vendor to reach approximately 10 Barracuda cloud accounts in roughly 44 hours. The intrusion moved through stored secrets, development systems, and Kubernetes clusters, showing how one forgotten c",
+    "created_at": "2026-11-17T13:31:17.618871+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172441",
+    "title": "FBI Warns Hackers Abuse Google Search to Spread Gootloader Malware and Launch Ransomware Attacks",
+    "link": "https://cybersecuritynews.com/spread-gootloader-malware/",
+    "published": "Tue, 17 Nov 2026 13:29:20 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The FBI has warned that cybercriminals are using poisoned search results and compromised WordPress websites to spread Gootloader malware, giving ransomware operators an entry point into business networks. The attacks turn searches for legal documents",
+    "created_at": "2026-11-17T13:31:32.961315+00:00"
   }
 ]
