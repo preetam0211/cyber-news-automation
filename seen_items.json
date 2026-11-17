@@ -9214,5 +9214,14 @@
     "source": "BleepingComputer",
     "summary": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency ",
     "created_at": "2026-11-17T04:31:07.187006+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
+    "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
+    "link": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
+    "published": "Tue, 17 Nov 2026 10:30:34 +0530",
+    "source": "The Hacker News",
+    "summary": "N-able has released a new security update to address additional critical security flaws impacting N-central.\n\nDescribing N-central 2026.4 Hotfix 3 as a critical security update, the company said it includes a number of security patches and fixes that",
+    "created_at": "2026-11-17T05:31:20.049879+00:00"
   }
 ]
