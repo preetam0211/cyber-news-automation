@@ -9250,5 +9250,14 @@
     "source": "The Hacker News",
     "summary": "An attacker exploited a flaw in Optimizely Web Experimentation to plant malicious code in some of the scripts that customers&#x27; websites load from the service, Optimizely said early today.\n\nVisitors to sites run by at least 178 organizations, incl",
     "created_at": "2026-11-17T08:01:12.399237+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172362",
+    "title": "Hackers Exploit macOS ß vs ss Filename Trick to Bypass Developer Tool Security Checks",
+    "link": "https://cybersecuritynews.com/macos-s-vs-ss-filename-trick/",
+    "published": "Tue, 17 Nov 2026 08:20:40 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A Unicode normalization flaw allows attackers to bypass macOS file exclusion checks, affecting Deno, libarchive, HashiCorp go-slug, and Python setuptools across four CVEs. The flaw comes from two parts of the system disagreeing about what a file name",
+    "created_at": "2026-11-17T08:31:13.107892+00:00"
   }
 ]
