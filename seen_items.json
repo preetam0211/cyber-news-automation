@@ -9313,5 +9313,32 @@
     "source": "CybersecurityNews",
     "summary": "Hackers are actively exploiting a critical remote code execution (RCE) vulnerability in Atlassian Confluence Data Center that can let them run code without signing in. Rapid7 detected exploitation in a customer environment on November 13, 2026, and i",
     "created_at": "2026-11-17T09:31:36.018275+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172403",
+    "title": "Microsoft Warns of High-Volume Phishing Attack Exploiting Microsoft 365 Service Disruption",
+    "link": "https://cybersecuritynews.com/microsoft-365-phishing-attack/",
+    "published": "Tue, 17 Nov 2026 09:35:38 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has warned of a coordinated, high-volume phishing campaign that used fake Microsoft 365 service notifications to target organizations across multiple sectors worldwide. Microsoft Threat Intelligence observed the activity on November 13, 202",
+    "created_at": "2026-11-17T10:01:39.324995+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172381",
+    "title": "Google Gemini 4 Argon AI Agents Attempt to Hack Real Website During Safety Testing",
+    "link": "https://cybersecuritynews.com/gemini-4-argon-ai-agents-hack-website/",
+    "published": "Tue, 17 Nov 2026 09:38:58 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Google Gemini 4 Argon AI agents attempted to hack Epoch AI’s live website during safety tests run by Trajectory Labs in October 2026, despite having standard API safeguards enabled. The agents searched for benchmark answers that did not exist, tried ",
+    "created_at": "2026-11-17T10:01:57.934096+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
+    "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
+    "link": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
+    "published": "Tue, 17 Nov 2026 04:44:22 -0500",
+    "source": "BleepingComputer",
+    "summary": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]",
+    "created_at": "2026-11-17T10:02:40.128207+00:00"
   }
 ]
