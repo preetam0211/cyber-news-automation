@@ -9448,5 +9448,32 @@
     "source": "CybersecurityNews",
     "summary": "The FBI has warned that cybercriminals are using poisoned search results and compromised WordPress websites to spread Gootloader malware, giving ransomware operators an entry point into business networks. The attacks turn searches for legal documents",
     "created_at": "2026-11-17T13:31:32.961315+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172439",
+    "title": "Microsoft Windows 11 Secretly Tracks Which AI Coding Agents Developers Use Through Telemetry",
+    "link": "https://cybersecuritynews.com/windows-11-ai-agent-tracking/",
+    "published": "Tue, 17 Nov 2026 13:43:04 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Windows 11 has a built-in component that notes which AI coding agents and developer tools you run. It sends that data to Microsoft if optional diagnostic data is on. Security researcher Xusheng Li, who works on Binary Ninja, shared the first finding ",
+    "created_at": "2026-11-17T14:01:39.778756+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172461",
+    "title": "EU Accuses Temu of Failing to Stop Illegal Products, Citing Weak Security and Moderation Controls",
+    "link": "https://cybersecuritynews.com/temu-breaching-digital-services-act/",
+    "published": "Tue, 17 Nov 2026 13:56:01 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The European Commission has preliminarily found Temu in breach of the Digital Services Act (DSA), citing weak product checks, poor content moderation, and ineffective penalties against sellers. Announced on November 17, 2026, the findings question wh",
+    "created_at": "2026-11-17T14:02:07.544628+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172446",
+    "title": "Hackers Use Fake Shipment ZIP Files and DLL Side-Loading to Deploy PureLogs and PureRAT Malware",
+    "link": "https://cybersecuritynews.com/fake-shipment-zip-files-and-dll-side-loading/",
+    "published": "Tue, 17 Nov 2026 13:58:04 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are using a shipment-themed ZIP archive to launch a Windows malware chain that combines a legitimate signed application, DLL side-loading, and hidden Python code. The attack disguises its components as shipping material, images, documents, an",
+    "created_at": "2026-11-17T14:02:33.277604+00:00"
   }
 ]
