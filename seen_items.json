@@ -9475,5 +9475,23 @@
     "source": "CybersecurityNews",
     "summary": "Hackers are using a shipment-themed ZIP archive to launch a Windows malware chain that combines a legitimate signed application, DLL side-loading, and hidden Python code. The attack disguises its components as shipping material, images, documents, an",
     "created_at": "2026-11-17T14:02:33.277604+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172455",
+    "title": "Hackers Exploit Unpatched Microsoft Exchange Servers to Deploy Custom RATs Across Southeast Asia",
+    "link": "https://cybersecuritynews.com/microsoft-exchange-servers/",
+    "published": "Tue, 17 Nov 2026 14:24:16 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are exploiting unpatched Microsoft Exchange servers and vulnerable web servers to break into government networks across Southeast Asia, deploying custom remote access trojans built for quiet, long-term spying. The campaign combines server exp",
+    "created_at": "2026-11-17T15:01:28.204717+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172460",
+    "title": "Hackers Abuse Microsoft SharePoint and GitHub to Hide GraphDoor Backdoor Attacks on Government Networks",
+    "link": "https://cybersecuritynews.com/graphdoor-sharepoint-backdoor/",
+    "published": "Tue, 17 Nov 2026 14:40:07 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are hiding a backdoor named GraphDoor inside normal Microsoft and Ably traffic. The goal is to spy on government networks in Asia and Africa. Kaspersky’s GReAT team detailed the findings on November 17, 2026, in the second part of its Operati",
+    "created_at": "2026-11-17T15:01:41.368644+00:00"
   }
 ]
