@@ -9241,5 +9241,14 @@
     "source": "BleepingComputer",
     "summary": "A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]",
     "created_at": "2026-11-17T07:31:25.141986+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
+    "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
+    "link": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
+    "published": "Tue, 17 Nov 2026 12:42:13 +0530",
+    "source": "The Hacker News",
+    "summary": "An attacker exploited a flaw in Optimizely Web Experimentation to plant malicious code in some of the scripts that customers&#x27; websites load from the service, Optimizely said early today.\n\nVisitors to sites run by at least 178 organizations, incl",
+    "created_at": "2026-11-17T08:01:12.399237+00:00"
   }
 ]
