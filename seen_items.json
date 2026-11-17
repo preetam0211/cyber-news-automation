@@ -9520,5 +9520,14 @@
     "source": "CybersecurityNews",
     "summary": "A remote code execution (RCE) vulnerability in Java 17 has prompted warnings for server admins, especially as Oracle released 11 new Java SE security updates on the same day. The bug is tracked as CVE-2026-114938. Public reports say it needs no login",
     "created_at": "2026-11-17T16:32:02.702002+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172490",
+    "title": "TheMailer – Self-hosted Phishing Platform that runs on Claude and ChatGPT",
+    "link": "https://cybersecuritynews.com/themailer-ai-phishing-platform/",
+    "published": "Tue, 17 Nov 2026 16:54:45 +0000",
+    "source": "CybersecurityNews",
+    "summary": "TheMailer, a self-hosted phishing platform identified by Varonis Threat Labs, brings commercial AI models into almost every stage of an email attack. Rather than only fixing grammar or writing convincing messages, it uses AI to build lures, change te",
+    "created_at": "2026-11-17T17:01:36.240423+00:00"
   }
 ]
