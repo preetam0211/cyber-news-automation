@@ -9547,5 +9547,23 @@
     "source": "CybersecurityNews",
     "summary": "Malicious iOS scripts accounted for roughly 20% of advertiser account suspensions in 2026 across advertising platforms protected by ADEX, according to the company’s newly released State of Ad Fraud 2026: ADEX Trust &amp; Safety Report. It is the firs",
     "created_at": "2026-11-17T17:31:43.514401+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
+    "title": "Tor releases emergency update amid ongoing DDoS attack",
+    "link": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
+    "published": "Tue, 17 Nov 2026 13:04:15 -0500",
+    "source": "BleepingComputer",
+    "summary": "[...]",
+    "created_at": "2026-11-17T18:31:25.361920+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
+    "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
+    "link": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
+    "published": "Tue, 17 Nov 2026 13:21:24 -0500",
+    "source": "BleepingComputer",
+    "summary": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services. [...]",
+    "created_at": "2026-11-17T18:31:42.130332+00:00"
   }
 ]
