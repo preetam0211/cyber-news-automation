@@ -9205,5 +9205,14 @@
     "source": "CybersecurityNews",
     "summary": "A software bug at JPMorgan Chase disrupted banking services on November 16, 2026, leaving thousands of customers reporting trouble with account access and payments. Complaints also appeared for Bank of America, Wells Fargo, U.S. Bank and Zelle, thoug",
     "created_at": "2026-11-17T03:31:27.919758+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+    "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+    "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+    "published": "Mon, 16 Nov 2026 21:12:17 -0500",
+    "source": "BleepingComputer",
+    "summary": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency ",
+    "created_at": "2026-11-17T04:31:07.187006+00:00"
   }
 ]
