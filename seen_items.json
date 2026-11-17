@@ -9358,5 +9358,32 @@
     "source": "CybersecurityNews",
     "summary": "McDonald’s iOS app reportedly received a wave of unusual push notifications on November 17, 2026, raising concerns about possible misuse of its notification system. Blackorbird reported that many users received the alerts around 14:20, mainly on iPho",
     "created_at": "2026-11-17T11:01:11.105923+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172393",
+    "title": "Claude Code’s Trusted API Could Help Attackers Hide Malicious Commands and Data Theft",
+    "link": "https://cybersecuritynews.com/claude-codes-trusted-api/",
+    "published": "Tue, 17 Nov 2026 11:11:29 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Researchers have shown that attackers can use the trusted Claude API to send hidden commands to AI coding agents and steal data. The traffic looks like normal AI activity, so many security tools would not flag it. This matters because AI agents now r",
+    "created_at": "2026-11-17T11:31:13.312967+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
+    "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
+    "published": "Tue, 17 Nov 2026 06:19:51 -0500",
+    "source": "BleepingComputer",
+    "summary": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]",
+    "created_at": "2026-11-17T11:31:24.596979+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172424",
+    "title": "CNN, Zoom and Salesforce Websites Exposed to OPTIMJACK JavaScript Attack Targeting Crypto and Payment Data",
+    "link": "https://cybersecuritynews.com/cnn-zoom-and-salesforce/",
+    "published": "Tue, 17 Nov 2026 11:29:42 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A malicious JavaScript campaign named OPTIMJACK has exposed visitors to major websites to code designed to replace cryptocurrency wallet addresses and collect payment details. Observed on November 16, 2026, the activity involved third-party scripts l",
+    "created_at": "2026-11-17T11:31:30.800227+00:00"
   }
 ]
