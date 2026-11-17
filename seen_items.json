@@ -9385,5 +9385,23 @@
     "source": "CybersecurityNews",
     "summary": "A malicious JavaScript campaign named OPTIMJACK has exposed visitors to major websites to code designed to replace cryptocurrency wallet addresses and collect payment details. Observed on November 16, 2026, the activity involved third-party scripts l",
     "created_at": "2026-11-17T11:31:30.800227+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
+    "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
+    "link": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
+    "published": "Tue, 17 Nov 2026 16:37:31 +0530",
+    "source": "The Hacker News",
+    "summary": "Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents.\n\nThe changes, currently previewed in macOS 27.3 beta 2, relate to incre",
+    "created_at": "2026-11-17T12:01:11.157143+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
+    "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
+    "link": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
+    "published": "Tue, 17 Nov 2026 16:50:18 +0530",
+    "source": "The Hacker News",
+    "summary": "Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsoft SharePoint and GitHub for command‑and‑control (C2).\n\nTh",
+    "created_at": "2026-11-17T12:01:25.250455+00:00"
   }
 ]
