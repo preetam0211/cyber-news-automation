@@ -9502,5 +9502,23 @@
     "source": "BleepingComputer",
     "summary": "Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them.  [...]",
     "created_at": "2026-11-17T15:31:25.698618+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
+    "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
+    "link": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
+    "published": "Tue, 17 Nov 2026 11:00:00 -0500",
+    "source": "BleepingComputer",
+    "summary": "Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]",
+    "created_at": "2026-11-17T16:31:36.538540+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172494",
+    "title": "Critical Java 17 RCE Vulnerability Puts Servers at Risk as Oracle Releases 11 Security Fixes",
+    "link": "https://cybersecuritynews.com/java-17-rce-vulnerability/",
+    "published": "Tue, 17 Nov 2026 16:11:10 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A remote code execution (RCE) vulnerability in Java 17 has prompted warnings for server admins, especially as Oracle released 11 new Java SE security updates on the same day. The bug is tracked as CVE-2026-114938. Public reports say it needs no login",
+    "created_at": "2026-11-17T16:32:02.702002+00:00"
   }
 ]
