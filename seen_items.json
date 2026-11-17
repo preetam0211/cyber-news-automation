@@ -9601,5 +9601,14 @@
     "source": "The Hacker News",
     "summary": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company.\n\nWidgets are small interactive blocks that bots send inside chat messages, and their",
     "created_at": "2026-11-17T20:31:12.999623+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+    "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+    "published": "Tue, 17 Nov 2026 15:51:21 -0500",
+    "source": "BleepingComputer",
+    "summary": "The Fugaku supercomputer operated by Japan&#x27;s RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
+    "created_at": "2026-11-17T21:01:19.257242+00:00"
   }
 ]
