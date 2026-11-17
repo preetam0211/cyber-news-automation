@@ -9493,5 +9493,14 @@
     "source": "CybersecurityNews",
     "summary": "Hackers are hiding a backdoor named GraphDoor inside normal Microsoft and Ably traffic. The goal is to spy on government networks in Asia and Africa. Kaspersky’s GReAT team detailed the findings on November 17, 2026, in the second part of its Operati",
     "created_at": "2026-11-17T15:01:41.368644+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
+    "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
+    "link": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
+    "published": "Tue, 17 Nov 2026 10:01:11 -0500",
+    "source": "BleepingComputer",
+    "summary": "Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them.  [...]",
+    "created_at": "2026-11-17T15:31:25.698618+00:00"
   }
 ]
