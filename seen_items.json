@@ -9565,5 +9565,32 @@
     "source": "BleepingComputer",
     "summary": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services. [...]",
     "created_at": "2026-11-17T18:31:42.130332+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
+    "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
+    "link": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
+    "published": "Tue, 17 Nov 2026 20:47:28 +0530",
+    "source": "The Hacker News",
+    "summary": "Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram.\n\n&quot;Trigram is a large-scale campaign that impersonates about 50 brands",
+    "created_at": "2026-11-17T19:31:16.696721+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
+    "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+    "link": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
+    "published": "Tue, 17 Nov 2026 20:47:36 +0530",
+    "source": "The Hacker News",
+    "summary": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a potentially critical remote code execution (",
+    "created_at": "2026-11-17T19:32:08.697513+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
+    "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+    "link": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
+    "published": "Tue, 17 Nov 2026 14:24:07 -0500",
+    "source": "BleepingComputer",
+    "summary": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account &amp; Sign In, Apple School Manager, and Schoolwork. [...]",
+    "created_at": "2026-11-17T19:32:21.137041+00:00"
   }
 ]
