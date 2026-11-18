@@ -9934,5 +9934,41 @@
     "source": "CybersecurityNews",
     "summary": "Automated bots used a decoy Amazon Web Services (AWS) access key just 7.86 seconds after researchers published the Docker Hub image containing it. That was the fastest case in a controlled Stony Brook University study, not the average. Still, the med",
     "created_at": "2026-11-18T14:01:42.561114+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172636",
+    "title": "Microsoft’s AI Uncovers 99 Security Issues in Express, ImageMagick and Other Open-Source Projects",
+    "link": "https://cybersecuritynews.com/microsofts-ai-uncovers-99-security-issues/",
+    "published": "Wed, 18 Nov 2026 14:06:31 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft and GitHub sent 99 verified security reports to six open-source projects, including Express and ImageMagick, after an AI pilot identified thousands of potential vulnerabilities. In its Nov. 17 announcement, GitHub said maintainers had fixed",
+    "created_at": "2026-11-18T14:31:30.352460+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172668",
+    "title": "New Hello Again Attack Bypasses Windows Hello and BitLocker PIN Lockout Protection",
+    "link": "https://cybersecuritynews.com/hello-attack-bypasses-windows-hello-and-bitlocker/",
+    "published": "Wed, 18 Nov 2026 14:16:45 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Researchers have shown that someone with a laptop and a few cheap parts can guess a Windows Hello PIN in about 40 hours. With the lockout working as designed, the same job would take 69 days. The same trick also cuts the worst-case time to crack a de",
+    "created_at": "2026-11-18T14:31:42.596610+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172664",
+    "title": "Microsoft Unveils Windows Server 2028 With Hundreds of Security Protections Enabled by Default",
+    "link": "https://cybersecuritynews.com/windows-server-2028-security/",
+    "published": "Wed, 18 Nov 2026 14:23:27 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has released Windows Server 2028 in public preview. The biggest change is that a new server now starts in a locked-down state rather than an open one. Hundreds of security settings are on from the first boot, so admins no longer need to har",
+    "created_at": "2026-11-18T14:31:47.301091+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172661",
+    "title": "OX Security Launches OX Radar and Response Center to Show Companies Which Cyber Threats Actually Affect Them",
+    "link": "https://cybersecuritynews.com/ox-security-ox-radar-response-center/",
+    "published": "Wed, 18 Nov 2026 14:30:20 +0000",
+    "source": "CybersecurityNews",
+    "summary": "New York, United States, November 18th, 2026, CyberNewswire New technology monitors critical vulnerabilities and supply chain threats, automatically assessing customer exposure and guiding remediation OX Security, a leader in AI-native application pr",
+    "created_at": "2026-11-18T14:32:06.846499+00:00"
   }
 ]
