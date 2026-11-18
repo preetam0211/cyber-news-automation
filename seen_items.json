@@ -9853,5 +9853,23 @@
     "source": "CybersecurityNews",
     "summary": "Google began rolling out Chrome 158 to Windows, macOS, and Linux on November 17, 2026, with 204 security fixes. The desktop release notes list six critical memory bugs that could lead to code execution. However, Google did not spell out the impact of",
     "created_at": "2026-11-18T11:01:35.442369+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
+    "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
+    "link": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
+    "published": "Wed, 18 Nov 2026 06:50:25 -0500",
+    "source": "BleepingComputer",
+    "summary": "The Alliance for Creativity and Entertainment (ACE) has announced the shutdown of Dizigom, one of Turkey&#x27;s largest piracy sites, after a settlement agreement with the site&#x27;s operators. [...]",
+    "created_at": "2026-11-18T12:01:19.856799+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172631",
+    "title": "CISA Warns of Puppet Enterprise Vulnerability Actively Exploited in Attacks",
+    "link": "https://cybersecuritynews.com/puppet-enterprise-flaw-actively-exploited/",
+    "published": "Wed, 18 Nov 2026 11:59:36 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has warned that attackers are exploiting a critical vulnerability in Perforce Puppet Enterprise. The agency added CVE-2026-115731 to its Known Exploited Vulnerabilities (KEV) catalog on",
+    "created_at": "2026-11-18T12:01:27.945162+00:00"
   }
 ]
