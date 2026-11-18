@@ -9772,5 +9772,59 @@
     "source": "CybersecurityNews",
     "summary": "A four-year-old NVIDIA Linux GPU driver flaw, tracked as CVE-2026-47501 and dubbed ForgePtr, could let users with access to a vulnerable GPU take control of the entire server. The flaw allowed Stealthium researchers to gain root, the highest level of",
     "created_at": "2026-11-18T09:31:42.020873+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html",
+    "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
+    "link": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html",
+    "published": "Wed, 18 Nov 2026 13:54:23 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately patch a newly disclosed critical security flaw impacting Oracle Java.\n\nThe flaw, tracked as CVE-2026-114938 (CVSS score: 8.1), refers to a case of",
+    "created_at": "2026-11-18T10:01:06.674402+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
+    "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
+    "link": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
+    "published": "Wed, 18 Nov 2026 13:54:31 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration management platform, to its Known Exploited Vulnerabili",
+    "created_at": "2026-11-18T10:01:17.175863+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172567",
+    "title": "Researchers Break AMD SEV-SNP Security to Read Encrypted Virtual Machine Memory Using a GPU",
+    "link": "https://cybersecuritynews.com/amd-sev-snp-security-bypassed/",
+    "published": "Wed, 18 Nov 2026 09:34:35 +0000",
+    "source": "CybersecurityNews",
+    "summary": "An attack called Mior uses a graphics card to bypass AMD SEV-SNP, allowing access to confidential virtual machine memory, modification of guest memory, and making altered VMs appear to run trusted software. Tracked as CVE-2026-0462, the flaw carries ",
+    "created_at": "2026-11-18T10:01:28.485893+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172606",
+    "title": "Atlassian Patches 318 Security Vulnerabilities Across Jira, Confluence, Bitbucket and Other Products",
+    "link": "https://cybersecuritynews.com/atlassian-patches-318-security-vulnerabilities/",
+    "published": "Wed, 18 Nov 2026 09:43:21 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Atlassian’s November 2026 security bulletin lists fixes for 318 vulnerability entries across Jira Software, Jira Service Management, Confluence, Bitbucket, Bamboo, Crowd, Fisheye and Crucible. Published on November 17, the bulletin covers fixes shipp",
+    "created_at": "2026-11-18T10:01:39.587812+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172597",
+    "title": "Tails Released Emergency Tor Browser Update to fix uBlock Origin Flaw",
+    "link": "https://cybersecuritynews.com/tails-tor-browser-update-to-fix-ublock-origin-flaw/",
+    "published": "Wed, 18 Nov 2026 09:45:51 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The Tor Project released Tails 7.17.1 on November 17, 2026, to fix a critical security flaw in uBlock Origin, the ad blocker bundled with Tor Browser in Tails. The emergency update temporarily removes the extension. A malicious website could trick a ",
+    "created_at": "2026-11-18T10:01:45.617588+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172428",
+    "title": "Anthropic Reduces Vulnerability Disclosure Deadline from 90 to 30 Days as AI Quickly Identifies Flaws",
+    "link": "https://cybersecuritynews.com/anthropic-cuts-critical-vulnerability-disclosure-deadline/",
+    "published": "Wed, 18 Nov 2026 09:48:45 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Anthropic is shrinking the time it gives software makers to fix serious security flaws before the details go public. The company says AI is now finding bugs so fast that the old 90-day window no longer makes sense. In an update to its coordinated vul",
+    "created_at": "2026-11-18T10:01:56.571008+00:00"
   }
 ]
