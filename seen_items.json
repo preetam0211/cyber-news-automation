@@ -9637,5 +9637,14 @@
     "source": "CybersecurityNews",
     "summary": "A critical flaw in OpenJDK’s Base64 decoder can let a remote attacker run code on an affected server without signing in. The vulnerability, dubbed Java4Shell and tracked as CVE-2026-114938, can also crash the Java Virtual Machine (JVM) or expose sens",
     "created_at": "2026-11-18T02:31:07.034697+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172550",
+    "title": "Microsoft’s Agent Framework PyPI Package Hacked to Steal Azure and GitHub Credentials",
+    "link": "https://cybersecuritynews.com/microsofts-agent-framework-pypi-package/",
+    "published": "Wed, 18 Nov 2026 03:30:19 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers published two malicious versions of Microsoft’s agent-framework package on the Python Package Index (PyPI) on November 17, 2026. Versions 1.26.1 and 1.26.2 contained a credential stealer that could run during normal Python startup, even if an",
+    "created_at": "2026-11-18T03:31:18.890700+00:00"
   }
 ]
