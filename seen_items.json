@@ -9745,5 +9745,32 @@
     "source": "BleepingComputer",
     "summary": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]",
     "created_at": "2026-11-18T08:31:25.856079+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172601",
+    "title": "Hackers Target US Trucking Companies With Fake Freight Portals to Steal Credentials and Deploy Malware",
+    "link": "https://cybersecuritynews.com/fake-freight-portals/",
+    "published": "Wed, 18 Nov 2026 09:05:41 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are targeting US trucking companies with fake freight portals, bogus carrier verification notices, and phony broker paperwork. Some sites collect fleet fuel card passwords and one-time codes. Others disguise malware as routine downloads, turn",
+    "created_at": "2026-11-18T09:31:18.539492+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
+    "title": "Microsoft announces Windows Server 2028 with hardened security",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
+    "published": "Wed, 18 Nov 2026 04:24:31 -0500",
+    "source": "BleepingComputer",
+    "summary": "Microsoft has announced Windows Server 2028, the next major release of its server operating system, at the Ignite 2026 conference on Tuesday. [...]",
+    "created_at": "2026-11-18T09:31:30.405045+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172581",
+    "title": "4-Year-Old NVIDIA Linux GPU Flaw Lets Users Hijack Entire Shared Servers",
+    "link": "https://cybersecuritynews.com/4-year-old-nvidia-linux-gpu-flaw/",
+    "published": "Wed, 18 Nov 2026 09:28:15 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A four-year-old NVIDIA Linux GPU driver flaw, tracked as CVE-2026-47501 and dubbed ForgePtr, could let users with access to a vulnerable GPU take control of the entire server. The flaw allowed Stealthium researchers to gain root, the highest level of",
+    "created_at": "2026-11-18T09:31:42.020873+00:00"
   }
 ]
