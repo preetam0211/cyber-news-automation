@@ -9835,5 +9835,23 @@
     "source": "CybersecurityNews",
     "summary": "Old Bitly links shared by Burger King, McDonald’s, and other prominent X accounts now redirect users to unrelated websites, videos, and offensive content, exposing long-standing social media posts to link hijacking. According to CNN’s reporting, affe",
     "created_at": "2026-11-18T10:31:11.670289+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
+    "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
+    "published": "Wed, 18 Nov 2026 05:35:05 -0500",
+    "source": "BleepingComputer",
+    "summary": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
+    "created_at": "2026-11-18T11:01:17.394605+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172621",
+    "title": "Chrome 158 Fixes 204 Vulnerabilities, Including Critical Code Execution Flaws",
+    "link": "https://cybersecuritynews.com/chrome-158-fixes-204-vulnerabilities/",
+    "published": "Wed, 18 Nov 2026 10:41:12 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Google began rolling out Chrome 158 to Windows, macOS, and Linux on November 17, 2026, with 204 security fixes. The desktop release notes list six critical memory bugs that could lead to code execution. However, Google did not spell out the impact of",
+    "created_at": "2026-11-18T11:01:35.442369+00:00"
   }
 ]
