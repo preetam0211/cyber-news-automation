@@ -9898,5 +9898,23 @@
     "source": "CybersecurityNews",
     "summary": "Hackers used a real Microsoft 365 outage to send fake Exchange Online alerts claiming that four emails were being held and would be deleted unless recipients restored them. The messages borrowed a genuine Microsoft incident number and sent users thro",
     "created_at": "2026-11-18T12:31:31.248180+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
+    "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
+    "link": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
+    "published": "Wed, 18 Nov 2026 17:58:30 +0530",
+    "source": "The Hacker News",
+    "summary": "On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC&#x27;s case, researchers at Technische Universität Berlin say.\n\nThat leaves short PINs open to guessing. In lab tests, ",
+    "created_at": "2026-11-18T13:31:20.009776+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172629",
+    "title": "Chinese APT Hackers Target Global Banks to Steal Financial Intelligence and Spy on Microsoft 365 Accounts",
+    "link": "https://cybersecuritynews.com/global-banks/",
+    "published": "Wed, 18 Nov 2026 12:37:05 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Chinese state-linked hacking groups are going after banks around the world, and their goal is intelligence rather than cash. Several of these groups are also reading email in Microsoft 365 accounts, according to new infrastructure research. The shift",
+    "created_at": "2026-11-18T13:31:37.919240+00:00"
   }
 ]
