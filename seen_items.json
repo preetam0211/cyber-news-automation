@@ -9646,5 +9646,14 @@
     "source": "CybersecurityNews",
     "summary": "Hackers published two malicious versions of Microsoft’s agent-framework package on the Python Package Index (PyPI) on November 17, 2026. Versions 1.26.1 and 1.26.2 contained a credential stealer that could run during normal Python startup, even if an",
     "created_at": "2026-11-18T03:31:18.890700+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172513",
+    "title": "Flipper Devices Launches Flipper One Linux-based Multi-tool With Advanced Network Security Tools",
+    "link": "https://cybersecuritynews.com/flipper-one-linux-multi-tool/",
+    "published": "Wed, 18 Nov 2026 03:35:31 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Flipper Devices has launched a Kickstarter campaign for Flipper One, a portable Linux computer built for network testing, hardware projects, and security research. Backing starts at $399, with shipping estimated for July 2027. The campaign runs from ",
+    "created_at": "2026-11-18T04:01:47.057488+00:00"
   }
 ]
