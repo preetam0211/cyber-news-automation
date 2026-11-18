@@ -9871,5 +9871,32 @@
     "source": "CybersecurityNews",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has warned that attackers are exploiting a critical vulnerability in Perforce Puppet Enterprise. The agency added CVE-2026-115731 to its Known Exploited Vulnerabilities (KEV) catalog on",
     "created_at": "2026-11-18T12:01:27.945162+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html",
+    "title": "Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are",
+    "link": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html",
+    "published": "Wed, 18 Nov 2026 16:33:57 +0530",
+    "source": "The Hacker News",
+    "summary": "AI is speeding up how software is built, which means more code, more changes, and more chances for vulnerabilities to reach production. It&#x27;s speeding up how attackers find and exploit them too, with time-to-exploit now down to a single day. Secu",
+    "created_at": "2026-11-18T12:31:18.532662+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
+    "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
+    "link": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
+    "published": "Wed, 18 Nov 2026 17:45:00 +0530",
+    "source": "The Hacker News",
+    "summary": "TL;DR\n\n\n  Attackers move first. On average, exploitation now starts before a patch exists (Mandiant M-Trends 2026). In 1H 2026, 23% of vulnerabilities VulnCheck added to its exploited list were hit on or before disclosure day.\n  AI pentesting vendors",
+    "created_at": "2026-11-18T12:31:26.408933+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172613",
+    "title": "Hackers Impersonate Microsoft Exchange Online Alerts to Trick Users During Microsoft 365 Outage",
+    "link": "https://cybersecuritynews.com/hackers-impersonate-microsoft-exchange/",
+    "published": "Wed, 18 Nov 2026 12:23:15 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers used a real Microsoft 365 outage to send fake Exchange Online alerts claiming that four emails were being held and would be deleted unless recipients restored them. The messages borrowed a genuine Microsoft incident number and sent users thro",
+    "created_at": "2026-11-18T12:31:31.248180+00:00"
   }
 ]
