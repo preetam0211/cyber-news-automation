@@ -9727,5 +9727,23 @@
     "source": "CybersecurityNews",
     "summary": "Japan’s RIKEN research institute suspended operations of its Fugaku supercomputer on November 14, 2026, after an intruder breached the system’s internal operations network and installed malicious software on some servers. The breach may have exposed ",
     "created_at": "2026-11-18T08:01:12.664584+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172593",
+    "title": "Hackers Impersonate Major Defense Companies to Spread GravityRAT Spyware and Steal Sensitive Data",
+    "link": "https://cybersecuritynews.com/spread-gravityrat-spyware/",
+    "published": "Wed, 18 Nov 2026 08:07:47 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are using the logos of major defense and aerospace companies on a fake recruitment website to spread GravityRAT spyware. The site promises connections to overseas employers and offers an Android résumé builder that can steal text messages, lo",
+    "created_at": "2026-11-18T08:31:14.303885+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
+    "title": "British Scattered Spider hacker sentenced to 6 years in prison",
+    "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
+    "published": "Wed, 18 Nov 2026 03:24:18 -0500",
+    "source": "BleepingComputer",
+    "summary": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]",
+    "created_at": "2026-11-18T08:31:25.856079+00:00"
   }
 ]
