@@ -9916,5 +9916,23 @@
     "source": "CybersecurityNews",
     "summary": "Chinese state-linked hacking groups are going after banks around the world, and their goal is intelligence rather than cash. Several of these groups are also reading email in Microsoft 365 accounts, according to new infrastructure research. The shift",
     "created_at": "2026-11-18T13:31:37.919240+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172655",
+    "title": "The Gentlemen Ransomware Gang Allegedly Claims to Have Breached NVIDIA",
+    "link": "https://cybersecuritynews.com/nvidia-data-breach-claim/",
+    "published": "Wed, 18 Nov 2026 13:37:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The Gentlemen ransomware gang listed NVIDIA on its dark web leak site on November 18, 2026, but the post does not prove that the group broke into the chipmaker’s systems. The listing shows a countdown and references ransom talks, but includes no samp",
+    "created_at": "2026-11-18T14:01:21.596333+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172625",
+    "title": "Hackers Steal Exposed AWS Credentials From Docker Hub Images in Just 8 Seconds",
+    "link": "https://cybersecuritynews.com/hackers-steal-exposed-aws-credentials/",
+    "published": "Wed, 18 Nov 2026 13:52:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Automated bots used a decoy Amazon Web Services (AWS) access key just 7.86 seconds after researchers published the Docker Hub image containing it. That was the fastest case in a controlled Stony Brook University study, not the average. Still, the med",
+    "created_at": "2026-11-18T14:01:42.561114+00:00"
   }
 ]
