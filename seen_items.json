@@ -10033,5 +10033,23 @@
     "source": "CybersecurityNews",
     "summary": "New York City, United States, November 18th, 2026, CyberNewswire OffSec built 14 labs on real CVEs in two weeks. Its Level 20 offer takes $550 off Learn One for learners ready to train against threats like these. OffSec, the world’s leading provider ",
     "created_at": "2026-11-18T16:31:47.978118+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172639",
+    "title": "AI Hacking Framework CyberStrikeAI Runs 221 Tool Executions Without Human Approval",
+    "link": "https://cybersecuritynews.com/cyberstrikeai/",
+    "published": "Wed, 18 Nov 2026 16:50:45 +0000",
+    "source": "CybersecurityNews",
+    "summary": "An exposed CyberStrikeAI workspace recorded 221 tool executions in a single session on November 16, 2026. The logs show no human decision at the framework’s tool approval gate, and the saved configuration later showed that the gate had been switched ",
+    "created_at": "2026-11-18T17:01:33.018315+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
+    "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
+    "link": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
+    "published": "Wed, 18 Nov 2026 11:58:42 -0500",
+    "source": "BleepingComputer",
+    "summary": "Hackers compromised Microsoft&#x27;s official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers&#x27; systems. [...]",
+    "created_at": "2026-11-18T17:01:45.663276+00:00"
   }
 ]
