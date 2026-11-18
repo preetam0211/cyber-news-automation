@@ -10015,5 +10015,23 @@
     "source": "CybersecurityNews",
     "summary": "San Francisco, USA, November 17th, 2026, CyberNewswire Global awards program invites nominations across more than 100 cybersecurity categories, with early-bird pricing through Cyber Monday. The Cybersecurity Excellence Awards, presented by Cybersecur",
     "created_at": "2026-11-18T16:01:53.676416+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172691",
+    "title": "NGINX HTTP/2 Flaws Could Allow Memory Corruption and Remote Code Execution on Web Servers",
+    "link": "https://cybersecuritynews.com/nginx-http-2-vulnerabilities/",
+    "published": "Wed, 18 Nov 2026 16:05:50 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Two critical vulnerabilities in NGINX could let remote attackers run code on vulnerable web servers without logging in. The flaws, tracked as CVE-2026-123633 and CVE-2026-123007, were disclosed on November 18, 2026. Both require NGINX to accept HTTP/",
+    "created_at": "2026-11-18T16:31:26.460297+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172690",
+    "title": "After Black October, OffSec Turns PHPH2Shell and Other New Vulnerabilities Into Hands-On Labs",
+    "link": "https://cybersecuritynews.com/offsec-php2shell-black-october-hands-on-labs/",
+    "published": "Wed, 18 Nov 2026 16:16:51 +0000",
+    "source": "CybersecurityNews",
+    "summary": "New York City, United States, November 18th, 2026, CyberNewswire OffSec built 14 labs on real CVEs in two weeks. Its Level 20 offer takes $550 off Learn One for learners ready to train against threats like these. OffSec, the world’s leading provider ",
+    "created_at": "2026-11-18T16:31:47.978118+00:00"
   }
 ]
