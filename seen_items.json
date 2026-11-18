@@ -9718,5 +9718,14 @@
     "source": "CybersecurityNews",
     "summary": "A threat actor known as “tcherber” is selling and using stolen FortiGate VPN logins to get into company networks. The same person also builds custom malware, including a stealer, a remote desktop tool, and ransomware. The campaign shows how one weak ",
     "created_at": "2026-11-18T07:31:17.201726+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172575",
+    "title": "Japan Shuts Down Fugaku Supercomputer After Hackers Breach Internal Servers",
+    "link": "https://cybersecuritynews.com/japan-shuts-down-fugaku-supercomputer/",
+    "published": "Wed, 18 Nov 2026 07:59:16 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Japan’s RIKEN research institute suspended operations of its Fugaku supercomputer on November 14, 2026, after an intruder breached the system’s internal operations network and installed malicious software on some servers. The breach may have exposed ",
+    "created_at": "2026-11-18T08:01:12.664584+00:00"
   }
 ]
