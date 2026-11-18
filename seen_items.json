@@ -9655,5 +9655,23 @@
     "source": "CybersecurityNews",
     "summary": "Flipper Devices has launched a Kickstarter campaign for Flipper One, a portable Linux computer built for network testing, hardware projects, and security research. Backing starts at $399, with shipping estimated for July 2027. The campaign runs from ",
     "created_at": "2026-11-18T04:01:47.057488+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
+    "title": "Java4Shell (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak on Java 17+ AVX-512 VBMI Servers",
+    "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
+    "published": "Wed, 18 Nov 2026 09:57:41 +0530",
+    "source": "The Hacker News",
+    "summary": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this week.\n\nThe flaw is present in Ja",
+    "created_at": "2026-11-18T05:31:09.214038+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172560",
+    "title": "Critical Apache HTTP Server RCE Vulnerability Actively Exploited in Attacks",
+    "link": "https://cybersecuritynews.com/apache-http-server-rce-exploitation/",
+    "published": "Wed, 18 Nov 2026 05:06:49 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Apache’s HTTP/2 module, mod_http2, has a critical flaw tracked as CVE-2026-119618 that reportedly allows unauthenticated remote code execution. Apache released version 2.4.71 on November 11 to fix the flaw, which it rates as critical, while Singapore",
+    "created_at": "2026-11-18T05:31:19.505246+00:00"
   }
 ]
