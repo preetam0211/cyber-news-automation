@@ -9628,5 +9628,14 @@
     "source": "BleepingComputer",
     "summary": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian Jira, Confluence, and Keycloa",
     "created_at": "2026-11-17T23:31:06.206187+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172543",
+    "title": "Critical Java4Shell Flaw Lets Hackers Execute Code Without Authentication on OpenJDK Servers",
+    "link": "https://cybersecuritynews.com/java4shell/",
+    "published": "Wed, 18 Nov 2026 02:26:29 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical flaw in OpenJDK’s Base64 decoder can let a remote attacker run code on an affected server without signing in. The vulnerability, dubbed Java4Shell and tracked as CVE-2026-114938, can also crash the Java Virtual Machine (JVM) or expose sens",
+    "created_at": "2026-11-18T02:31:07.034697+00:00"
   }
 ]
