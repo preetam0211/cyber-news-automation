@@ -9970,5 +9970,23 @@
     "source": "CybersecurityNews",
     "summary": "New York, United States, November 18th, 2026, CyberNewswire New technology monitors critical vulnerabilities and supply chain threats, automatically assessing customer exposure and guiding remediation OX Security, a leader in AI-native application pr",
     "created_at": "2026-11-18T14:32:06.846499+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
+    "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
+    "link": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
+    "published": "Wed, 18 Nov 2026 19:41:28 +0530",
+    "source": "The Hacker News",
+    "summary": "The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target government organizations in the Philippines.\n\n&quot;When attackers are exposed, the cheap respon",
+    "created_at": "2026-11-18T15:01:21.583961+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
+    "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
+    "link": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
+    "published": "Wed, 18 Nov 2026 10:00:10 -0500",
+    "source": "BleepingComputer",
+    "summary": "Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world attacks and explains how stronger identity verification c",
+    "created_at": "2026-11-18T15:01:48.966677+00:00"
   }
 ]
