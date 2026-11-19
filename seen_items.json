@@ -10150,5 +10150,14 @@
     "source": "CybersecurityNews",
     "summary": "WordPress released version 7.1.5 on November 18, 2026, to address 20 security issues in WordPress Core. The update fixes a flaw that could allow someone without an account to run code on a vulnerable server, two SQL injection flaws, and a weakness th",
     "created_at": "2026-11-19T03:01:16.229733+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172746",
+    "title": "Hackers Exploiting Java4Shell RCE Flaw Using ARTEX Disguise Themselves as Chrome",
+    "link": "https://cybersecuritynews.com/java4shell-rce-flaw-exploited/",
+    "published": "Thu, 19 Nov 2026 03:18:37 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cloudflare’s Cloudforce One reported a Java4Shell exploit attempt that looked like ordinary Google Chrome traffic in web logs. The team said a source IP first scanned a target using a User-Agent header that gave away the scanning tool. About 17 hours",
+    "created_at": "2026-11-19T03:31:05.588486+00:00"
   }
 ]
