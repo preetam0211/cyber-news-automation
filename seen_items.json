@@ -10177,5 +10177,23 @@
     "source": "The Hacker News",
     "summary": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws.\n\nThe release is scheduled for November 19, 2026, between 2 and 2:30 p.m. UTC.\n\n&quot;These releases",
     "created_at": "2026-11-19T05:01:18.172619+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172757",
+    "title": "Hackers Actively Exploit Critical Apache Roller RCE Flaw to Execute Code Without Authentication",
+    "link": "https://cybersecuritynews.com/apache-roller-rce-exploitation/",
+    "published": "Thu, 19 Nov 2026 05:15:41 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are actively exploiting a critical vulnerability in Apache Roller that lets them run code on affected servers without signing in, the Apache Software Foundation warned on November 17. The flaw, tracked as CVE-2026-129448, affects versions 4.0",
+    "created_at": "2026-11-19T06:01:08.147628+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172758",
+    "title": "AuditTeam Ransomware Gang Poses as Security Auditors and Use AV Drivers to Kill EDR Process",
+    "link": "https://cybersecuritynews.com/auditteam-ransomware-gang/",
+    "published": "Thu, 19 Nov 2026 05:20:54 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A ransomware group called AuditTeam is dressing up extortion as a paid security audit. Victims get a ransom note that reads like an audit log. It asks for an “Audit &amp; Consulting fee” in return for a report on the holes the attackers used to get i",
+    "created_at": "2026-11-19T06:01:21.016085+00:00"
   }
 ]
