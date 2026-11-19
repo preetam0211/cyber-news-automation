@@ -10492,5 +10492,23 @@
     "source": "BleepingComputer",
     "summary": "The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]",
     "created_at": "2026-11-19T16:31:36.776457+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172990",
+    "title": "Critical VMware vCenter Flaws Let Hackers Bypass Authentication and Access Servers",
+    "link": "https://cybersecuritynews.com/vmware-vcenter-authentication-bypass/",
+    "published": "Thu, 19 Nov 2026 16:30:55 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Broadcom has released fixes for five VMware flaws, and one lets anyone with network access to vCenter skip login. Broadcom published the advisory, VMSA-2026-0009, on November 19, 2026. It covers vCenter, SDDC Manager, and VMware Tools. CVSS scores ra",
+    "created_at": "2026-11-19T17:31:19.183639+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173057",
+    "title": "New phpAfterShell Attack Bypasses PHP2Shell Fix to Enable Remote Code Execution",
+    "link": "https://cybersecuritynews.com/phpaftershell-rce/",
+    "published": "Thu, 19 Nov 2026 16:50:33 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new PHP attack dubbed phpAfterShell can lead to unauthenticated remote code execution on vulnerable servers, even if they have the October patches for PHP2Shell. Researchers at Depthfirst disclosed the flaw on November 19 and demonstrated how it co",
+    "created_at": "2026-11-19T17:31:40.040740+00:00"
   }
 ]
