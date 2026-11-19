@@ -10132,5 +10132,14 @@
     "source": "BleepingComputer",
     "summary": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. [...]",
     "created_at": "2026-11-18T23:31:26.249992+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172736",
+    "title": "PHP Security Team Warns of Critical Vulnerabilities, Urges Users to Prepare for November 19 Updates",
+    "link": "https://cybersecuritynews.com/php-critical-vulnerabilities/",
+    "published": "Thu, 19 Nov 2026 01:49:53 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The PHP security team plans to release security updates on Thursday, November 19, 2026, between 14:00 and 14:30 UTC. In its November 18 security notice, the team said the releases will address vulnerabilities across all supported PHP branches, with t",
+    "created_at": "2026-11-19T02:01:27.609966+00:00"
   }
 ]
