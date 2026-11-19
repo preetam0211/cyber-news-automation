@@ -10384,5 +10384,14 @@
     "source": "BleepingComputer",
     "summary": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
     "created_at": "2026-11-19T13:31:33.787368+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172935",
+    "title": "Hackers Steal US Bank, IRS and Social Security Login Credentials From Infected Computers",
+    "link": "https://cybersecuritynews.com/hackers-steal-us-bank/",
+    "published": "Thu, 19 Nov 2026 13:43:37 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A Russian-speaking cybercrime operation has been stealing logins for US banks, the IRS and Social Security from infected Windows PCs. The victims were ordinary people. Many used a password manager and multi-factor authentication (MFA), and it did not",
+    "created_at": "2026-11-19T14:01:53.241838+00:00"
   }
 ]
