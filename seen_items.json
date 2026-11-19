@@ -10474,5 +10474,23 @@
     "source": "CybersecurityNews",
     "summary": "Torrance, California, USA, November 19th, 2026, CyberNewswire Criminal IP, a cyber threat intelligence platform developed by AI SPERA, officially launched Criminal IP AITEM (AI-Powered Threat Exposure Management) on November 18, 2026. An evolution of",
     "created_at": "2026-11-19T16:01:06.844307+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173076",
+    "title": "JPMorgan Chase Confirms Third-Party Cyberattack That May Have Exposed Customer Names and Emails",
+    "link": "https://cybersecuritynews.com/jpmorgan-third-party-data-breach/",
+    "published": "Thu, 19 Nov 2026 16:14:31 +0000",
+    "source": "CybersecurityNews",
+    "summary": "JPMorgan Chase confirmed on November 19 that a cyberattack targeted outside companies that provide services to the bank. The bank said it believes attackers accessed marketing data held by those vendors, which may include some customer names and emai",
+    "created_at": "2026-11-19T16:31:21.688093+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
+    "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
+    "link": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
+    "published": "Thu, 19 Nov 2026 11:28:23 -0500",
+    "source": "BleepingComputer",
+    "summary": "The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]",
+    "created_at": "2026-11-19T16:31:36.776457+00:00"
   }
 ]
