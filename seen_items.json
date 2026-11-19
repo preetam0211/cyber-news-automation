@@ -10429,5 +10429,41 @@
     "source": "BleepingComputer",
     "summary": "Two critical NGINX vulnerabilities dubbed &quot;nginx2root&quot; allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel bug to gain root acce",
     "created_at": "2026-11-19T15:01:30.804718+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
+    "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
+    "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
+    "published": "Thu, 19 Nov 2026 20:03:06 +0530",
+    "source": "The Hacker News",
+    "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site.\n\nThat can lead to a site takeover or remote code execution, and the proje",
+    "created_at": "2026-11-19T15:31:03.909975+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
+    "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
+    "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
+    "published": "Thu, 19 Nov 2026 20:15:06 +0530",
+    "source": "The Hacker News",
+    "summary": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560.\n\nThe list of vulnerabilities is as follows -\n\n\n ",
+    "created_at": "2026-11-19T15:31:04.823581+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
+    "title": "Five warning signs of ransomware breach before encryption or data theft",
+    "link": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
+    "published": "Thu, 19 Nov 2026 10:00:10 -0500",
+    "source": "BleepingComputer",
+    "summary": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions earlier, contain malicious act",
+    "created_at": "2026-11-19T15:31:33.774686+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
+    "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+    "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
+    "published": "Thu, 19 Nov 2026 20:41:06 +0530",
+    "source": "The Hacker News",
+    "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today.\n\nFixed versions are out for all supported branc",
+    "created_at": "2026-11-19T15:31:56.261084+00:00"
   }
 ]
