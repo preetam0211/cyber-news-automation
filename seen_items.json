@@ -10510,5 +10510,14 @@
     "source": "CybersecurityNews",
     "summary": "A new PHP attack dubbed phpAfterShell can lead to unauthenticated remote code execution on vulnerable servers, even if they have the October patches for PHP2Shell. Researchers at Depthfirst disclosed the flaw on November 19 and demonstrated how it co",
     "created_at": "2026-11-19T17:31:40.040740+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
+    "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
+    "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
+    "published": "Thu, 19 Nov 2026 22:29:56 +0530",
+    "source": "The Hacker News",
+    "summary": "PHP&#x27;s default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in the app, those objects can all",
+    "created_at": "2026-11-19T18:01:07.164177+00:00"
   }
 ]
