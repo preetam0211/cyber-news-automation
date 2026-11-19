@@ -10276,5 +10276,32 @@
     "source": "CybersecurityNews",
     "summary": "A cyberattack on the European Commission disrupted staff services for more than 10 days, leaving some employees unable to submit timesheets, request leave, or enter salary information. The EU’s cybersecurity service, CERT-EU, found that hackers used ",
     "created_at": "2026-11-19T10:01:12.935360+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
+    "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
+    "link": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
+    "published": "Thu, 19 Nov 2026 13:30:00 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research Electronic Data Capture (REDCap) t",
+    "created_at": "2026-11-19T10:31:16.658124+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
+    "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
+    "link": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
+    "published": "Thu, 19 Nov 2026 15:01:26 +0530",
+    "source": "The Hacker News",
+    "summary": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs.\n\n&quot;We have taken steps to mitigate t",
+    "created_at": "2026-11-19T10:31:30.362993+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172884",
+    "title": "Ubiquiti Warns of Critical UniFi Access Flaws Enabling Root Code Execution Attacks",
+    "link": "https://cybersecuritynews.com/ubiquiti-warns-critical-unifi-access-flaws/",
+    "published": "Thu, 19 Nov 2026 10:26:01 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Ubiquiti has disclosed seven vulnerabilities in its UniFi Access Application, including a critical flaw that could let an attacker with limited permissions run code as root on the host device. Security Advisory Bulletin 073, dated November 18, 2026, ",
+    "created_at": "2026-11-19T10:31:38.924171+00:00"
   }
 ]
