@@ -10267,5 +10267,14 @@
     "source": "BleepingComputer",
     "summary": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]",
     "created_at": "2026-11-19T09:31:12.158730+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172893",
+    "title": "Hackers Target European Commission with ARTEX AI Tool in Major Cyberattack",
+    "link": "https://cybersecuritynews.com/european-commission-cyberattack/",
+    "published": "Thu, 19 Nov 2026 09:53:35 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A cyberattack on the European Commission disrupted staff services for more than 10 days, leaving some employees unable to submit timesheets, request leave, or enter salary information. The EU’s cybersecurity service, CERT-EU, found that hackers used ",
+    "created_at": "2026-11-19T10:01:12.935360+00:00"
   }
 ]
