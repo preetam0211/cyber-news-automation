@@ -10366,5 +10366,23 @@
     "source": "CybersecurityNews",
     "summary": "A federal grand jury has indicted Russian national Igor D’iu over an alleged spy operation targeting employees of a Silicon Valley technology and defense company. The U.S. Department of Justice said on Nov. 18 that D’iu bought remote access software ",
     "created_at": "2026-11-19T13:02:08.721891+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172931",
+    "title": "CISA Warns Hackers Are Actively Exploiting Four Flaws in Synology, LiteLLM, Apache Axis and REDCap",
+    "link": "https://cybersecuritynews.com/flaws-in-synology-litellm-apache-axis-and-redcap/",
+    "published": "Thu, 19 Nov 2026 13:06:39 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added four flaws to its Known Exploited Vulnerabilities (KEV) catalog on November 18, 2026, after finding evidence that attackers were already exploiting them. The entries cover Synolog",
+    "created_at": "2026-11-19T13:31:13.687289+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
+    "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+    "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
+    "published": "Thu, 19 Nov 2026 08:08:08 -0500",
+    "source": "BleepingComputer",
+    "summary": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
+    "created_at": "2026-11-19T13:31:33.787368+00:00"
   }
 ]
