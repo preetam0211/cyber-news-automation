@@ -10204,5 +10204,59 @@
     "source": "CybersecurityNews",
     "summary": "A suspected Chinese cyberespionage group has rebuilt its EggStreme malware framework, adding a Windows backdoor that waits for an incoming connection instead of calling out to an attacker-controlled server. Bitdefender’s November 18, 2026, report tra",
     "created_at": "2026-11-19T08:01:14.372471+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
+    "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
+    "link": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
+    "published": "Thu, 19 Nov 2026 13:44:00 +0530",
+    "source": "The Hacker News",
+    "summary": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code behind ordinary SQL.\n\nThe exploits,",
+    "created_at": "2026-11-19T09:01:13.499872+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172785",
+    "title": "Ruby Patches 7 Security Vulnerabilities, Including Buffer Overflow and RCE Flaws",
+    "link": "https://cybersecuritynews.com/ruby-patches-7-security-vulnerabilities/",
+    "published": "Thu, 19 Nov 2026 08:32:04 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Ruby maintainers released Ruby 4.0.10, 3.4.13, and 3.3.14 to fix seven security vulnerabilities in the language’s regular expression engine and string case-conversion code. Several flaws can allow remote code execution (RCE), which means an attacker ",
+    "created_at": "2026-11-19T09:01:22.801955+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172766",
+    "title": "Splunk Patches Critical 9.9 RCE and Authentication Bypass Vulnerabilities in SOAR and Enterprise",
+    "link": "https://cybersecuritynews.com/splunk-patches-vulnerabilities/",
+    "published": "Thu, 19 Nov 2026 08:36:42 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Splunk has released security updates for Splunk SOAR and Splunk Enterprise to fix a critical remote code execution flaw and a separate authentication bypass. The SOAR flaw, tracked as CVE-2026-131253, scored 9.9 out of 10 and requires an account with",
+    "created_at": "2026-11-19T09:01:36.497321+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172799",
+    "title": "ruby2ßhell: Critical One-Byte Heap Overflow in Ruby Could Allow RCE Attacks",
+    "link": "https://cybersecuritynews.com/ruby2shell-rce/",
+    "published": "Thu, 19 Nov 2026 08:41:39 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Ruby has patched a critical memory corruption flaw that can allow remote code execution (RCE) on vulnerable servers. Tracked as GHSA-34m4-m9fh-gqp5 and named ruby2ßhell by Veria Labs, the flaw affects Ruby’s string case conversion code. Researchers r",
+    "created_at": "2026-11-19T09:01:50.516662+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
+    "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
+    "link": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
+    "published": "Thu, 19 Nov 2026 14:12:11 +0530",
+    "source": "The Hacker News",
+    "summary": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can run code on the machine.\n\n&quot",
+    "created_at": "2026-11-19T09:01:52.708929+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172810",
+    "title": "Hackers Deploy Overlord RAT That Survives Windows Resets and Crashes Systems When Terminated",
+    "link": "https://cybersecuritynews.com/hackers-deploy-overlord-rat/",
+    "published": "Thu, 19 Nov 2026 08:51:32 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A financially motivated hacking group is deploying Overlord RAT, a Windows remote access trojan that can return after a victim uses “Reset this PC.” The malware can also trigger a blue screen if a user or security tool forcibly ends its process. The ",
+    "created_at": "2026-11-19T09:02:07.334928+00:00"
   }
 ]
