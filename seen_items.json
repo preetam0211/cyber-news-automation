@@ -10303,5 +10303,23 @@
     "source": "CybersecurityNews",
     "summary": "Ubiquiti has disclosed seven vulnerabilities in its UniFi Access Application, including a critical flaw that could let an attacker with limited permissions run code as root on the host device. Security Advisory Bulletin 073, dated November 18, 2026, ",
     "created_at": "2026-11-19T10:31:38.924171+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
+    "title": "Microsoft confirms app installation, launch issues after hotpatch",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
+    "published": "Thu, 19 Nov 2026 05:35:05 -0500",
+    "source": "BleepingComputer",
+    "summary": "Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month&#x27;s Windows 11 hotpatch. [...]",
+    "created_at": "2026-11-19T11:01:13.994300+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172910",
+    "title": "N-able Confirms Server Breach, Disables Mail Assure and SpamExperts Management Access",
+    "link": "https://cybersecuritynews.com/n-able-confirms-server-breach/",
+    "published": "Thu, 19 Nov 2026 10:44:04 +0000",
+    "source": "CybersecurityNews",
+    "summary": "N-able confirmed unauthorized access to one server in its Mail Assure and SpamExperts Hosted Cloud environment and disabled management access across the Americas, Europe, and Asia-Pacific. The company said inbound and outbound email filtering continu",
+    "created_at": "2026-11-19T11:01:19.975175+00:00"
   }
 ]
