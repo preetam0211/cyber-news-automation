@@ -10393,5 +10393,23 @@
     "source": "CybersecurityNews",
     "summary": "A Russian-speaking cybercrime operation has been stealing logins for US banks, the IRS and Social Security from infected Windows PCs. The victims were ordinary people. Many used a password manager and multi-factor authentication (MFA), and it did not",
     "created_at": "2026-11-19T14:01:53.241838+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172941",
+    "title": "BADBOX 3.0 Malware Infects Android TV Boxes to Generate 40 Billion Fraudulent Ad Requests Daily",
+    "link": "https://cybersecuritynews.com/badbox-3-0-malware/",
+    "published": "Thu, 19 Nov 2026 14:05:35 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Low-cost Android streaming boxes helped power an advertising fraud operation that generated roughly 40 billion bid requests a day at its peak. Known as BADBOX 3.0, the campaign used infected devices to play video ads outside the visible screen while ",
+    "created_at": "2026-11-19T14:31:19.863010+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172947",
+    "title": "Meta AI Agent Muse Reads Encrypted Messages Through Android Notifications and Mac Permissions",
+    "link": "https://cybersecuritynews.com/muse-reads-encrypted-messages/",
+    "published": "Thu, 19 Nov 2026 14:11:32 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Meta’s AI agent Muse read Signal message text on Android phones and Macs without directly connecting to the encrypted messaging app, Reuters reported on November 18. The investigation found that Muse could use Android notifications and macOS permissi",
+    "created_at": "2026-11-19T14:31:44.937489+00:00"
   }
 ]
