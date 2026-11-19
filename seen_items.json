@@ -10546,5 +10546,14 @@
     "source": "BleepingComputer",
     "summary": "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]",
     "created_at": "2026-11-19T21:31:58.010613+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
+    "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
+    "published": "Thu, 19 Nov 2026 17:25:42 -0500",
+    "source": "BleepingComputer",
+    "summary": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
+    "created_at": "2026-11-19T22:31:11.903882+00:00"
   }
 ]
