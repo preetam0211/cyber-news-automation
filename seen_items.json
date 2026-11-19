@@ -10348,5 +10348,23 @@
     "source": "CybersecurityNews",
     "summary": "Hackers are targeting Microsoft 365 accounts with fake payment notices and SharePoint documents that lead employees to a genuine Microsoft sign-in page. The November 2026 campaigns turn a routine task, such as checking whether an invoice was paid, in",
     "created_at": "2026-11-19T12:31:23.551235+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
+    "title": "Everything Is a Web Application, Including Your Firewall",
+    "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
+    "published": "Thu, 19 Nov 2026 17:22:23 +0530",
+    "source": "The Hacker News",
+    "summary": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces exp",
+    "created_at": "2026-11-19T13:01:42.658329+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172798",
+    "title": "Russian National Accused of Using Remote Access Tools to Spy on Silicon Valley Defense Firm",
+    "link": "https://cybersecuritynews.com/russian-national-silicon-valley-spy/",
+    "published": "Thu, 19 Nov 2026 12:44:02 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A federal grand jury has indicted Russian national Igor D’iu over an alleged spy operation targeting employees of a Silicon Valley technology and defense company. The U.S. Department of Justice said on Nov. 18 that D’iu bought remote access software ",
+    "created_at": "2026-11-19T13:02:08.721891+00:00"
   }
 ]
