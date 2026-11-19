@@ -10537,5 +10537,14 @@
     "source": "The Hacker News",
     "summary": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that&#x27;s the problem. This week&#x27;s stories show how ordinary thin",
     "created_at": "2026-11-19T20:31:12.651103+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
+    "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
+    "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
+    "published": "Thu, 19 Nov 2026 16:15:59 -0500",
+    "source": "BleepingComputer",
+    "summary": "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]",
+    "created_at": "2026-11-19T21:31:58.010613+00:00"
   }
 ]
