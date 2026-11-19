@@ -10258,5 +10258,14 @@
     "source": "CybersecurityNews",
     "summary": "A financially motivated hacking group is deploying Overlord RAT, a Windows remote access trojan that can return after a victim uses “Reset this PC.” The malware can also trigger a blue screen if a user or security tool forcibly ends its process. The ",
     "created_at": "2026-11-19T09:02:07.334928+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
+    "title": "NVIDIA investigating Gentlemen ransomware breach claims",
+    "link": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
+    "published": "Thu, 19 Nov 2026 04:23:21 -0500",
+    "source": "BleepingComputer",
+    "summary": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]",
+    "created_at": "2026-11-19T09:31:12.158730+00:00"
   }
 ]
