@@ -10168,5 +10168,14 @@
     "source": "CybersecurityNews",
     "summary": "Exploited CyberPower PowerPanel Business software for managing uninterruptible power supplies (UPS) to gain SYSTEM-level access to a Windows domain controller. Symantec reported on November 18 that the attackers used a built-in scripting feature to c",
     "created_at": "2026-11-19T04:31:10.720895+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
+    "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
+    "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
+    "published": "Thu, 19 Nov 2026 10:03:46 +0530",
+    "source": "The Hacker News",
+    "summary": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws.\n\nThe release is scheduled for November 19, 2026, between 2 and 2:30 p.m. UTC.\n\n&quot;These releases",
+    "created_at": "2026-11-19T05:01:18.172619+00:00"
   }
 ]
