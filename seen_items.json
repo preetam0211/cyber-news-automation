@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=168214",
-    "title": "Arrakis Security Report Finds 76% of AI Agents Are Dormant but Keep Their Credentials and Connections",
-    "link": "https://cybersecuritynews.com/arrakis-security-report-finds-76-of-ai-agents-are-dormant-but-keep-their-credentials-and-connections/",
-    "published": "Wed, 21 Oct 2026 17:05:59 +0000",
-    "source": "CybersecurityNews",
-    "summary": "New York, NY, USA, October 21st, 2026, CyberNewswire According to the 2026 Autonomous Agents Threat Report, published by Arrakis Security, 76% of active agents have not run in 60 days, but their credentials still work and their triggers still fire. 4",
-    "created_at": "2026-10-21T18:31:04.367592+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
-    "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
-    "link": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
-    "published": "Wed, 21 Oct 2026 23:31:57 +0530",
-    "source": "The Hacker News",
-    "summary": "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and Upwind.\n\nThe compromise affects LiteLLM",
-    "created_at": "2026-10-21T18:31:06.609078+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
     "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
     "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
@@ -10132,5 +10114,14 @@
     "source": "BleepingComputer",
     "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
     "created_at": "2026-11-20T18:01:30.903657+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+    "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+    "link": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+    "published": "Fri, 20 Nov 2026 13:51:43 -0500",
+    "source": "BleepingComputer",
+    "summary": "Bell Canada has confirmed that an &quot;agentic&quot; threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications circuits. [...]",
+    "created_at": "2026-11-20T19:01:11.687131+00:00"
   }
 ]
