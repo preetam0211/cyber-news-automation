@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=168208",
-    "title": "Hackers Use AI-Powered Browsers to Hide Thousands of Fake Accounts and Bypass Security Detection",
-    "link": "https://cybersecuritynews.com/hackers-use-ai-powered-browsers/",
-    "published": "Wed, 21 Oct 2026 15:54:49 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Cybercriminals are using AI-enabled “antidetect” browsers to manage large networks of fake online accounts while making each profile appear to come from a different person, device, or location. Check Point Research reported that these tools can help ",
-    "created_at": "2026-10-21T16:01:10.662381+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
     "title": "OpenAI agents disabled safety monitoring, one lied about it",
     "link": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
@@ -10132,5 +10123,14 @@
     "source": "BleepingComputer",
     "summary": "Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how centralized password management can improve credential visibi",
     "created_at": "2026-11-20T15:31:29.249638+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+    "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+    "link": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+    "published": "Fri, 20 Nov 2026 10:58:06 -0500",
+    "source": "BleepingComputer",
+    "summary": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers&#x27; personal information and marketing data. [...]",
+    "created_at": "2026-11-20T16:01:19.350182+00:00"
   }
 ]
