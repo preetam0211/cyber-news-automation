@@ -10816,5 +10816,23 @@
     "source": "CybersecurityNews",
     "summary": "Hackers have rebuilt the open-source SoftEther VPN Bridge to keep a quiet route into compromised networks. The modified Windows program, branded internally as NtMonitor VPN, can link an external network to a victim’s local network while leaving fewer",
     "created_at": "2026-11-20T13:02:24.061482+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173286",
+    "title": "Hackers Use 355 Domains to Spread Fake GTA 6 PC Launchers Delivering Malware",
+    "link": "https://cybersecuritynews.com/fake-gta-6-pc-launchers/",
+    "published": "Fri, 20 Nov 2026 13:02:57 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A malware campaign called CyberLeek is using more than 355 domains and subdomains to promote fake Grand Theft Auto VI PC launchers. The sites offer what they claim is a leaked or early Windows release of GTA 6. Instead of a playable game, the downloa",
+    "created_at": "2026-11-20T13:31:24.476518+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
+    "title": "N-able says recent security breach led to major service outage",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
+    "published": "Fri, 20 Nov 2026 08:18:36 -0500",
+    "source": "BleepingComputer",
+    "summary": "N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]",
+    "created_at": "2026-11-20T13:31:37.440438+00:00"
   }
 ]
