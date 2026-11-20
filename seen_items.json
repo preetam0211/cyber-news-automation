@@ -10627,5 +10627,23 @@
     "source": "CybersecurityNews",
     "summary": "Hackers published customer data linked to Visa, Mastercard and JPMorgan Chase on Thursday, November 19, after cyberattacks on third-party service providers. All three companies said their own networks were not breached. Visa said no card numbers were",
     "created_at": "2026-11-20T06:31:06.474759+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
+    "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+    "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
+    "published": "Fri, 20 Nov 2026 12:03:31 +0530",
+    "source": "The Hacker News",
+    "summary": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026.\n\nThe vulnerability, tracked as CV",
+    "created_at": "2026-11-20T07:01:07.416698+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173147",
+    "title": "Wireshark 4.6.10 Released With Patch for 39 Security Vulnerabilities",
+    "link": "https://cybersecuritynews.com/wireshark-4-6-10-released/",
+    "published": "Fri, 20 Nov 2026 06:58:34 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Wireshark 4.6.10 has been released with fixes for 39 security vulnerabilities affecting protocol dissectors, capture file parsers, the dissection engine, and audio codecs. The update addresses crashes, processing loops, memory leaks, and a heap discl",
+    "created_at": "2026-11-20T07:01:17.502873+00:00"
   }
 ]
