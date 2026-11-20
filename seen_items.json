@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
-    "title": "OpenAI agents disabled safety monitoring, one lied about it",
-    "link": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
-    "published": "Wed, 21 Oct 2026 12:26:53 -0400",
-    "source": "BleepingComputer",
-    "summary": "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]",
-    "created_at": "2026-10-21T16:31:12.587972+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168144",
-    "title": "Node.js Releases Security Updates to Fix High-Severity TLS, DNS and Brotli Vulnerabilities",
-    "link": "https://cybersecuritynews.com/node-js-releases-security-updates/",
-    "published": "Wed, 21 Oct 2026 16:33:58 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Node.js has released security updates for its 26.x, 24.x, and 22.x branches to address ten vulnerabilities, including four high-severity flaws affecting DNS lookups, TLS certificate checks, and Brotli decompression. The supplied release details ident",
-    "created_at": "2026-10-21T17:01:03.821032+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168177",
-    "title": "The AI Adoption Blind Spot: How Fake AI Tools Put Enterprises at Risk",
-    "link": "https://cybersecuritynews.com/the-ai-adoption-blind-spot-how-fake-ai-tools-put-enterprises-at-risk/",
-    "published": "Wed, 21 Oct 2026 16:53:38 +0000",
-    "source": "CybersecurityNews",
-    "summary": "AI adoption is accelerating across enterprises, with employees increasingly relying on platforms like ChatGPT, Claude, and Microsoft Copilot for everyday work. Cybercriminals are exploiting this growing trust, distributing malicious applications disg",
-    "created_at": "2026-10-21T17:01:13.039752+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
     "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
     "link": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
@@ -10132,5 +10105,14 @@
     "source": "BleepingComputer",
     "summary": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers&#x27; personal information and marketing data. [...]",
     "created_at": "2026-11-20T16:01:19.350182+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173344",
+    "title": "Over 100 Debian Packages Still Contain Distrusted CA Certificates Despite Security Updates",
+    "link": "https://cybersecuritynews.com/debian-packages-ca-certificates/",
+    "published": "Fri, 20 Nov 2026 16:39:48 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A scan of a Debian package mirror found that more than 100 packages still contained copies of distrusted certificate authority (CA) certificates after Debian removed them from its system trust store. Debian developer Steve McIntyre posted the scan re",
+    "created_at": "2026-11-20T17:01:22.220082+00:00"
   }
 ]
