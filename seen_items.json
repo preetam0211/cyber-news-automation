@@ -10555,5 +10555,14 @@
     "source": "BleepingComputer",
     "summary": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
     "created_at": "2026-11-19T22:31:11.903882+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+    "title": "VMware patches vCenter zero-day exploited in attacks since September",
+    "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+    "published": "Thu, 19 Nov 2026 19:26:25 -0500",
+    "source": "BleepingComputer",
+    "summary": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
+    "created_at": "2026-11-20T00:31:15.837823+00:00"
   }
 ]
