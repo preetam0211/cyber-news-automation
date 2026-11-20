@@ -10762,5 +10762,23 @@
     "source": "CybersecurityNews",
     "summary": "Attackers are using an AI-driven testing tool called ARTEX to break into company networks. It needs no secret software flaws to do this. Instead, it hunts for ordinary mistakes such as exposed apps, weak passwords and loose permissions, and it keeps ",
     "created_at": "2026-11-20T11:31:58.948264+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173241",
+    "title": "BYOD Ransomware Hackers Play Audio Ransom Messages on Computers Across Hospitals and Universities",
+    "link": "https://cybersecuritynews.com/byod-ransomware/",
+    "published": "Fri, 20 Nov 2026 12:06:00 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Staff at the University of New Mexico Health Sciences Center reported hearing ransom messages from their computers during an October 26 cyberattack. Two weeks later, a recording from Vanderbilt University captured a voice announcing, “You have been c",
+    "created_at": "2026-11-20T12:31:09.666866+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/",
+    "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/",
+    "published": "Fri, 20 Nov 2026 07:14:28 -0500",
+    "source": "BleepingComputer",
+    "summary": "Starting this week, Microsoft has begun automatically upgrading eligible devices that aren&#x27;t managed by an IT department to Windows 11 26H2. [...]",
+    "created_at": "2026-11-20T12:31:20.782750+00:00"
   }
 ]
