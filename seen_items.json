@@ -10780,5 +10780,41 @@
     "source": "BleepingComputer",
     "summary": "Starting this week, Microsoft has begun automatically upgrading eligible devices that aren&#x27;t managed by an IT department to Windows 11 26H2. [...]",
     "created_at": "2026-11-20T12:31:20.782750+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
+    "title": "The Path to AI Autonomy in the SOC",
+    "link": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
+    "published": "Fri, 20 Nov 2026 17:30:00 +0530",
+    "source": "The Hacker News",
+    "summary": "Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously on low-risk security actions. ",
+    "created_at": "2026-11-20T13:01:17.148140+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
+    "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
+    "link": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
+    "published": "Fri, 20 Nov 2026 17:50:00 +0530",
+    "source": "The Hacker News",
+    "summary": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server&#x27;s memory from inside a virtual machine of their own on DigitalOcean.\n\nOn a shared server, that memory can include other customers&#x27",
+    "created_at": "2026-11-20T13:01:42.063321+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173281",
+    "title": "OpenSSL Hit by Critical 9.8 Heap Buffer Overflow Vulnerability in Base64 Encoding Function",
+    "link": "https://cybersecuritynews.com/openssl-heap-buffer-overflow/",
+    "published": "Fri, 20 Nov 2026 12:34:30 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A heap buffer overflow in OpenSSL’s Base64 encoding function can corrupt application memory when the library processes very large inputs. The flaw, tracked as CVE-2026-121481, was published on November 18, 2026, with a critical CVSS 3.1 score of 9.8.",
+    "created_at": "2026-11-20T13:02:04.265864+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173261",
+    "title": "Hackers Turn Legitimate VPN Software Into a Stealthy Tool for Spying on Government Networks",
+    "link": "https://cybersecuritynews.com/legitimate-vpn-software/",
+    "published": "Fri, 20 Nov 2026 12:40:26 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers have rebuilt the open-source SoftEther VPN Bridge to keep a quiet route into compromised networks. The modified Windows program, branded internally as NtMonitor VPN, can link an external network to a victim’s local network while leaving fewer",
+    "created_at": "2026-11-20T13:02:24.061482+00:00"
   }
 ]
