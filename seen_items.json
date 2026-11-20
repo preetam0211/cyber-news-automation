@@ -10123,5 +10123,14 @@
     "source": "CybersecurityNews",
     "summary": "Microsoft is investigating reports that some Microsoft 365 users cannot upload email attachments in New Outlook. In a November 20 service update, the company said attachment uploads still work in Outlook on the web and classic Outlook. Microsoft is t",
     "created_at": "2026-11-20T17:31:27.205184+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+    "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+    "published": "Fri, 20 Nov 2026 12:30:00 -0500",
+    "source": "BleepingComputer",
+    "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
+    "created_at": "2026-11-20T18:01:30.903657+00:00"
   }
 ]
