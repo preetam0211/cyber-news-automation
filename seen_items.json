@@ -10564,5 +10564,14 @@
     "source": "BleepingComputer",
     "summary": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
     "created_at": "2026-11-20T00:31:15.837823+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173117",
+    "title": "New Windows 11 Narrator Lock Screen 0-Day Allows Attackers to Bypass BitLocker Protections",
+    "link": "https://cybersecuritynews.com/windows-11-narrator-lock-screen-0-day/",
+    "published": "Fri, 20 Nov 2026 01:00:42 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly disclosed Windows 11 zero-day called FastUnlock lets someone with physical access bypass parts of the Windows lock screen and run code without signing in. The flaw affects Narrator, Microsoft’s built-in screen reader, and can expose a running",
+    "created_at": "2026-11-20T01:31:10.991415+00:00"
   }
 ]
