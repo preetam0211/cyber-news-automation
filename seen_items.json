@@ -10663,5 +10663,14 @@
     "source": "The Hacker News",
     "summary": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS.\n\n&quot;ROMULUS likely operates as a delivery service, d",
     "created_at": "2026-11-20T08:01:22.938022+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173182",
+    "title": "Hackers Actively Scan LiteLLM AI Servers for Critical Flaws Enabling RCE Attacks",
+    "link": "https://cybersecuritynews.com/litellm-ai-servers/",
+    "published": "Fri, 20 Nov 2026 08:25:28 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Attackers are now scanning the internet for exposed LiteLLM servers. They want to chain two flaws that give them remote code execution (RCE) without a login. The scans target a test endpoint in the LiteLLM AI gateway and abuse a weak spot in the Star",
+    "created_at": "2026-11-20T08:31:11.200243+00:00"
   }
 ]
