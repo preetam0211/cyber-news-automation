@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
-    "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
-    "link": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
-    "published": "Thu, 22 Oct 2026 00:27:34 +0530",
-    "source": "The Hacker News",
-    "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014.\n\nThe fix matters even for administrators who ",
-    "created_at": "2026-10-21T20:01:08.242402+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
     "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
     "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
