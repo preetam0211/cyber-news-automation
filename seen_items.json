@@ -10591,5 +10591,14 @@
     "source": "CybersecurityNews",
     "summary": "Around 8.8 million NGINX services may still be open to the NGINX2Root flaws. Censys live tracker counts 8,823,450 services that run an affected version and offer HTTP/2. Another 441,489 services that were once exposed have since been patched or have ",
     "created_at": "2026-11-20T03:01:12.230436+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173131",
+    "title": "KPMG Canada Confirms Cyberattack as Hackers Access Confidential Client Tax Documents",
+    "link": "https://cybersecuritynews.com/kpmg-canada-confirms-cyberattack/",
+    "published": "Fri, 20 Nov 2026 03:58:09 +0000",
+    "source": "CybersecurityNews",
+    "summary": "KPMG Canada confirmed on November 18 that an unauthorized third party accessed confidential tax documents belonging to some of its clients. The accounting and consulting firm said it acted immediately to contain the cybersecurity breach and secure it",
+    "created_at": "2026-11-20T04:01:15.007181+00:00"
   }
 ]
