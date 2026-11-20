@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
-    "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
-    "link": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
-    "published": "Wed, 21 Oct 2026 22:03:47 +0530",
-    "source": "The Hacker News",
-    "summary": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and one GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks.\n\nThe AI company said the incident t",
-    "created_at": "2026-10-21T17:30:58.146055+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=168214",
     "title": "Arrakis Security Report Finds 76% of AI Agents Are Dormant but Keep Their Credentials and Connections",
     "link": "https://cybersecuritynews.com/arrakis-security-report-finds-76-of-ai-agents-are-dormant-but-keep-their-credentials-and-connections/",
@@ -10114,5 +10105,23 @@
     "source": "CybersecurityNews",
     "summary": "A scan of a Debian package mirror found that more than 100 packages still contained copies of distrusted certificate authority (CA) certificates after Debian removed them from its system trust store. Debian developer Steve McIntyre posted the scan re",
     "created_at": "2026-11-20T17:01:22.220082+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
+    "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
+    "link": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
+    "published": "Fri, 20 Nov 2026 22:28:16 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale.\n\nDutch mobile security company ThreatFabri",
+    "created_at": "2026-11-20T17:31:15.301029+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173355",
+    "title": "Microsoft Investigates Attachment Upload Failures in New Outlook",
+    "link": "https://cybersecuritynews.com/microsoft-attachment-upload-failures/",
+    "published": "Fri, 20 Nov 2026 17:01:31 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft is investigating reports that some Microsoft 365 users cannot upload email attachments in New Outlook. In a November 20 service update, the company said attachment uploads still work in Outlook on the web and classic Outlook. Microsoft is t",
+    "created_at": "2026-11-20T17:31:27.205184+00:00"
   }
 ]
