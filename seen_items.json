@@ -1,131 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=168131",
-    "title": "Hackers Use Claude AI to Plan Ransomware Attacks, Then Accidentally Expose Their Secrets",
-    "link": "https://cybersecuritynews.com/hackers-use-claude-ai/",
-    "published": "Wed, 21 Oct 2026 11:49:02 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Ransomware operators used commercial AI tools to help plan intrusions, manage victim information and prepare extortion, according to a new investigation. But the systems they relied on also kept detailed records of their work. A publicly accessible s",
-    "created_at": "2026-10-21T15:01:05.261389+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168133",
-    "title": "Cloudflare Detects Early Exploitation Attempts Targeting Two Leaked PHP Vulnerabilities",
-    "link": "https://cybersecuritynews.com/php-early-exploitation-attempts/",
-    "published": "Wed, 21 Oct 2026 11:56:41 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Cloudflare says it is seeing early attempts to exploit two critical PHP vulnerabilities whose details surfaced before the PHP security team’s planned release. The company has deployed an initial set of Web Application Firewall (WAF) rules to block kn",
-    "created_at": "2026-10-21T15:01:07.860160+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168136",
-    "title": "Rust 1.100 Introduces Cargo Security Cooldowns to Prevent Malicious Dependency Attacks",
-    "link": "https://cybersecuritynews.com/rust-1-100-introduces-cargo-security/",
-    "published": "Wed, 21 Oct 2026 12:28:12 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Rust 1.100 will introduce optional security cooldowns in Cargo, giving developers a way to delay newly published dependencies before they enter projects. Scheduled for November 12, 2026, the release aims to give security teams and package maintainers",
-    "created_at": "2026-10-21T15:01:09.958978+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168147",
-    "title": "Scattered Spider Hackers Exploit Help Desk Calls to Bypass MFA and Breach Corporate Networks",
-    "link": "https://cybersecuritynews.com/scattered-spider-hackers/",
-    "published": "Wed, 21 Oct 2026 12:45:20 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A convincing phone call can be enough to open a path into a company network. Scattered Spider has repeatedly used social engineering to persuade help desk workers to reset passwords or move multi-factor authentication (MFA) to a device controlled by ",
-    "created_at": "2026-10-21T15:01:12.216156+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168084",
-    "title": "Industrial Defender Unifies Endpoint Intelligence and Network Monitoring for CIP-015, Adds Risk Signal",
-    "link": "https://cybersecuritynews.com/industrial-defender-unifies-endpoint-intelligence-and-network-monitoring-for-cip-015-adds-risk-signal/",
-    "published": "Wed, 21 Oct 2026 13:01:37 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Orlando, Florida, United States, October 20th, 2026, CyberNewswire Industrial Defender Unifies Endpoint Intelligence and Network Monitoring for CIP-015, Adds Risk Signal to Turn Findings into Prioritized Patch Plans New internal network security moni",
-    "created_at": "2026-10-21T15:01:25.087408+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168127",
-    "title": "Google Releases Massive Chrome Security Update Fixing 353 Flaws, Including 6 Critical Vulnerabilities",
-    "link": "https://cybersecuritynews.com/chrome-security-update-fixing-353-flaws/",
-    "published": "Wed, 21 Oct 2026 14:07:36 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Google released Chrome 156 for Windows, macOS, and Linux on October 20, 2026, fixing 353 security flaws, including six critical bugs across graphics, accessibility, rendering, and communication features. Google says the release will reach users over ",
-    "created_at": "2026-10-21T15:01:27.302986+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168096",
-    "title": "Hackers Hijack 333 Tor Exit Nodes to Intercept SSH Logins and Steal Credentials",
-    "link": "https://cybersecuritynews.com/hackers-hijack-333-tor-exit-nodes/",
-    "published": "Wed, 21 Oct 2026 14:17:44 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Hackers compromised 333 Tor exit nodes and redirected SSH connections to password-stealing servers, according to a researcher’s account published October 20, 2026. The campaign began October 2 and targeted unencrypted email traffic alongside remote s",
-    "created_at": "2026-10-21T15:01:29.461977+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168174",
-    "title": "APT28 Hackers Open Secret SSH Tunnel Into NATO Country’s Naval Shipbuilder Network",
-    "link": "https://cybersecuritynews.com/apt28-hackers/",
-    "published": "Wed, 21 Oct 2026 14:37:17 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Russian cyberespionage group APT28 used the Hookedge backdoor to reach a naval shipbuilder’s network in a NATO member state, steal login material and set up a hidden SSH tunnel. The intrusion lasted at least two months, according to a report by Syman",
-    "created_at": "2026-10-21T15:01:31.542988+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168178",
-    "title": "PHP Releases Emergency Patches for PHP2Shell Flaws Threatening Millions of Web Servers",
-    "link": "https://cybersecuritynews.com/php-releases-emergency-patches/",
-    "published": "Wed, 21 Oct 2026 14:38:17 +0000",
-    "source": "CybersecurityNews",
-    "summary": "PHP has released emergency security updates for two critical vulnerabilities that could let unauthenticated attackers run code on vulnerable web servers. Tracked as CVE-2026-109618 and CVE-2026-109619, and collectively called PHP2Shell, the flaws aff",
-    "created_at": "2026-10-21T15:01:32.853443+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
-    "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
-    "link": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
-    "published": "Wed, 21 Oct 2026 19:30:00 +0530",
-    "source": "The Hacker News",
-    "summary": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35, and the PHP team says only updating fully ",
-    "created_at": "2026-10-21T15:31:03.065024+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168185",
-    "title": "China-Linked Hackers Turn Trusted Windows Applications Into Backdoors to Steal Credentials",
-    "link": "https://cybersecuritynews.com/china-linked-hackers/",
-    "published": "Wed, 21 Oct 2026 15:04:18 +0000",
-    "source": "CybersecurityNews",
-    "summary": "China-linked hackers are using trusted Windows applications to load hidden backdoors, collect system details, and steal Active Directory credential data. The group, tracked as BRONZE SANDCASTLE, places malicious files beside legitimate software, allo",
-    "created_at": "2026-10-21T15:31:04.102655+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168202",
-    "title": "LiteLLM Compromised – Hackers Injected an Infostealer and RAT in the Latest 1.107.0 PyPI Release",
-    "link": "https://cybersecuritynews.com/litellm-compromised/",
-    "published": "Wed, 21 Oct 2026 15:11:27 +0000",
-    "source": "CybersecurityNews",
-    "summary": "LiteLLM version 1.107.0 was compromised on PyPI on October 21, 2026, spreading a credential stealer and a remote access trojan through all seven distributed wheel files. The malicious release also reached Docker images, putting developer systems, bui",
-    "created_at": "2026-10-21T15:31:10.949239+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168154",
-    "title": "Google Upgrades Chrome With Gemini AI to Detect Fake Antivirus and Browser Update Scams",
-    "link": "https://cybersecuritynews.com/chrome-with-gemini-ai-to-detect-update-scams/",
-    "published": "Wed, 21 Oct 2026 15:14:13 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Google has upgraded Chrome’s Enhanced Protection mode with a more powerful Gemini AI model to detect fake antivirus alerts, browser update scams, and other deceptive websites. Announced on October 20, 2026, the changes also introduce suspicious site ",
-    "created_at": "2026-10-21T15:31:13.024140+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168201",
-    "title": "Hackers Use Gentlemen Ransomware to Disable Windows Defender and Destroy Backups",
-    "link": "https://cybersecuritynews.com/hackers-use-gentlemen-ransomware/",
-    "published": "Wed, 21 Oct 2026 15:30:43 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A ransomware operation known as The Gentlemen is using a mix of security tampering, service disruption and file encryption to make recovery harder for affected organizations. Its Windows malware can turn off Microsoft Defender’s real-time protection,",
-    "created_at": "2026-10-21T15:31:15.793433+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=168208",
     "title": "Hackers Use AI-Powered Browsers to Hide Thousands of Fake Accounts and Bypass Security Detection",
     "link": "https://cybersecuritynews.com/hackers-use-ai-powered-browsers/",
@@ -10249,5 +10123,14 @@
     "source": "CybersecurityNews",
     "summary": "The Apache Software Foundation has disclosed a critical flaw in Apache Tomcat that allows a remote attacker to join a trusted server cluster without authentication. Tracked as CVE-2026-133325, the flaw affects clusters that use TLS 1.3 with a pre-sha",
     "created_at": "2026-11-20T14:31:24.914976+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
+    "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
+    "link": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
+    "published": "Fri, 20 Nov 2026 10:00:10 -0500",
+    "source": "BleepingComputer",
+    "summary": "Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how centralized password management can improve credential visibi",
+    "created_at": "2026-11-20T15:31:29.249638+00:00"
   }
 ]
