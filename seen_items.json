@@ -10573,5 +10573,14 @@
     "source": "CybersecurityNews",
     "summary": "A newly disclosed Windows 11 zero-day called FastUnlock lets someone with physical access bypass parts of the Windows lock screen and run code without signing in. The flaw affects Narrator, Microsoft’s built-in screen reader, and can expose a running",
     "created_at": "2026-11-20T01:31:10.991415+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173121",
+    "title": "Hackers Exploit VMware vCenter 0-Day Since September to Hijack Admin Accounts and Steal VM Data",
+    "link": "https://cybersecuritynews.com/hackers-exploit-vmware-vcenter-0-day/",
+    "published": "Fri, 20 Nov 2026 01:47:52 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A suspected China-linked espionage group exploited a VMware vCenter Server zero-day in early September 2026, gaining administrator access and stealing files from a Windows virtual machine. Mandiant and Google Threat Intelligence Group (GTIG) attribut",
+    "created_at": "2026-11-20T02:01:05.563529+00:00"
   }
 ]
