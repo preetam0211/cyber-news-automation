@@ -10717,5 +10717,50 @@
     "source": "BleepingComputer",
     "summary": "US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]",
     "created_at": "2026-11-20T11:04:38.915115+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173168",
+    "title": "Palo Alto Confirms Java Vulnerability Impacts Privilege Threat Analytics and Remote Access Connector",
+    "link": "https://cybersecuritynews.com/palo-alto-confirms-java-vulnerability-impacts/",
+    "published": "Fri, 20 Nov 2026 10:00:36 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Palo Alto Networks has confirmed that a critical Java vulnerability affects Idira Privilege Threat Analytics, Remote Access Connector, and on-premises HTML5 Gateway products. Tracked as CVE-2026-114938, the flaw could let a remote attacker run code w",
+    "created_at": "2026-11-20T11:31:12.655700+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173254",
+    "title": "Signal Restricts Screenshots to protect User Privacy from AI assistants",
+    "link": "https://cybersecuritynews.com/signal-restricts-screenshots/",
+    "published": "Fri, 20 Nov 2026 10:24:41 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Signal is restricting screenshots on iOS 27 and some Android devices to stop built-in AI assistants from reading private chats through screen capture. The encrypted messaging app is targeting Apple’s Siri AI and assistants such as Google Gemini. On A",
+    "created_at": "2026-11-20T11:31:25.091295+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
+    "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
+    "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
+    "published": "Fri, 20 Nov 2026 16:02:50 +0530",
+    "source": "The Hacker News",
+    "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit.\n\nThe activity involves the exploitation",
+    "created_at": "2026-11-20T11:31:36.361052+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
+    "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
+    "link": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
+    "published": "Fri, 20 Nov 2026 16:08:22 +0530",
+    "source": "The Hacker News",
+    "summary": "SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by AI-assisted attacks.\n\n&quot;Attackers now use automation",
+    "created_at": "2026-11-20T11:31:47.800243+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173218",
+    "title": "Hackers Use AI-Powered ARTEX Framework to Automate Cyberattacks Without Relying on Zero-Day Exploits",
+    "link": "https://cybersecuritynews.com/hackers-use-ai-powered-artex-framework/",
+    "published": "Fri, 20 Nov 2026 11:27:05 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Attackers are using an AI-driven testing tool called ARTEX to break into company networks. It needs no secret software flaws to do this. Instead, it hunts for ordinary mistakes such as exposed apps, weak passwords and loose permissions, and it keeps ",
+    "created_at": "2026-11-20T11:31:58.948264+00:00"
   }
 ]
