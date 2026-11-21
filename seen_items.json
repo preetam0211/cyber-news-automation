@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
-    "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
-    "link": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
-    "published": "Thu, 22 Oct 2026 16:14:05 +0530",
-    "source": "The Hacker News",
-    "summary": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer&#x27;s Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) servers to add outside tools, a",
-    "created_at": "2026-10-22T11:31:11.886278+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168313",
-    "title": "New Android Malware Replaces Legitimate Banking Apps With Malicious Copies to Bypass Security Checks",
-    "link": "https://cybersecuritynews.com/new-android-malware-2/",
-    "published": "Thu, 22 Oct 2026 11:13:18 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A newly identified Android banking Trojan called Hirudo takes an unusual route to financial fraud: it tries to remove a victim’s genuine banking app and install a modified copy in its place. The replacement keeps the bank app’s name and version, but ",
-    "created_at": "2026-10-22T11:31:14.534464+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
-    "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
-    "link": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
-    "published": "Thu, 22 Oct 2026 16:45:42 +0530",
-    "source": "The Hacker News",
-    "summary": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed &quot;anomalous activity&quot; related to systems that store customer environment variables.\n\nUpon further investigation, the company found that an unauthorized third party may have",
-    "created_at": "2026-10-22T11:31:16.869368+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
     "title": "GitLab warns of new max severity code execution vulnerability",
     "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
@@ -9943,5 +9916,23 @@
     "source": "The Hacker News",
     "summary": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is &quot;incomplete.&quot;\n\nThe feature applies to a",
     "created_at": "2026-11-21T09:34:26.038899+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+    "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+    "link": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+    "published": "Sat, 21 Nov 2026 16:33:17 +0530",
+    "source": "The Hacker News",
+    "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week.\n\nThe flaw allows",
+    "created_at": "2026-11-21T11:31:15.599205+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+    "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+    "link": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+    "published": "Sat, 21 Nov 2026 16:35:53 +0530",
+    "source": "The Hacker News",
+    "summary": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG.\n\nThe GnuPG project warned yesterday that the flaw could be used to steal data from affected ",
+    "created_at": "2026-11-21T11:31:36.800360+00:00"
   }
 ]
