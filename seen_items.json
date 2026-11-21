@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=168224",
-    "title": "GoDaddy Revoking 404,607 TLS Certificates Following Compliance Failures",
-    "link": "https://cybersecuritynews.com/godaddy-revoking-tls-certificates/",
-    "published": "Thu, 22 Oct 2026 01:43:58 +0000",
-    "source": "CybersecurityNews",
-    "summary": "GoDaddy launched a mass revocation of 404,607 SSL/TLS certificates after finding that issued certificates did not match its published certificate policies. The company missed its required revocation deadline, creating a second compliance issue. An up",
-    "created_at": "2026-10-22T02:31:20.302814+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168228",
-    "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
-    "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/",
-    "published": "Thu, 22 Oct 2026 02:06:30 +0000",
-    "source": "CybersecurityNews",
-    "summary": "GitLab has released urgent security updates for a critical vulnerability that could let attackers run code on self-managed servers without logging in. Tracked as CVE-2026-110264, the flaw carries the maximum CVSS score of 10.0 and affects both GitLab",
-    "created_at": "2026-10-22T02:31:28.312019+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=168233",
     "title": "Railway Security Incident: Hackers May Have Accessed Customer Environment Variables",
     "link": "https://cybersecuritynews.com/railway-security-incident/",
@@ -10096,5 +10078,14 @@
     "source": "CybersecurityNews",
     "summary": "Enterprise Risk Management (ERM) tools empower organizations to identify, assess, and mitigate risks amid 2026’s complex, threat-laden business landscape. Evolving rapidly, these platforms harness AI, machine learning, and automation for real-time in",
     "created_at": "2026-11-21T01:31:14.231779+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173368",
+    "title": "WhatsApp Android Flaws Could Let Hackers Delete Users’ Files and Expose IP Addresses",
+    "link": "https://cybersecuritynews.com/whatsapp-android-flaws/",
+    "published": "Sat, 21 Nov 2026 02:36:55 +0000",
+    "source": "CybersecurityNews",
+    "summary": "WhatsApp’s November 2026 security update describes three flaws that could let attackers delete files stored by WhatsApp on Android, expose a user’s IP address, or bypass a security check for Meta AI’s Private Processing service. Of the three, only th",
+    "created_at": "2026-11-21T03:01:07.942796+00:00"
   }
 ]
