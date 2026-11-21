@@ -9925,5 +9925,14 @@
     "source": "The Hacker News",
     "summary": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG.\n\nThe GnuPG project warned yesterday that the flaw could be used to steal data from affected ",
     "created_at": "2026-11-21T11:31:36.800360+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+    "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+    "link": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+    "published": "Sat, 21 Nov 2026 17:23:07 +0530",
+    "source": "The Hacker News",
+    "summary": "A malicious webpage could extract a Meta Muse user&#x27;s private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown.\n\nThe same attack could be extended to reach the credentials Muse st",
+    "created_at": "2026-11-21T12:31:18.877621+00:00"
   }
 ]
