@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
-    "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
-    "published": "Thu, 22 Oct 2026 11:49:32 -0400",
-    "source": "BleepingComputer",
-    "summary": "Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]",
-    "created_at": "2026-10-22T16:01:04.052925+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=168371",
     "title": "Gcore Makes Enterprise Security Bundle Free for Public Agencies Until End of the Year",
     "link": "https://cybersecuritynews.com/gcore-makes-enterprise-security-bundle-free-for-public-agencies-until-end-of-the-year/",
