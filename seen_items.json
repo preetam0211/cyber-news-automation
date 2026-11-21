@@ -1,59 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=168245",
-    "title": "Samsung and Vizio Smart TVs Still Send Tracking-Like Traffic After Users Turn It Off",
-    "link": "https://cybersecuritynews.com/samsung-tv-tracking-after-users-turn-it-off/",
-    "published": "Thu, 22 Oct 2026 08:40:45 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Samsung and Vizio smart TVs kept sending traffic consistent with automatic content recognition (ACR) even after researchers turned off the feature in the privacy settings. The findings raise questions about whether smart TV privacy controls stop view",
-    "created_at": "2026-10-22T09:01:12.916821+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
-    "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
-    "link": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
-    "published": "Thu, 22 Oct 2026 12:04:10 +0530",
-    "source": "The Hacker News",
-    "summary": "Amazon&#x27;s Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the wild ",
-    "created_at": "2026-10-22T09:31:21.634777+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
-    "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
-    "link": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
-    "published": "Thu, 22 Oct 2026 12:08:31 +0530",
-    "source": "The Hacker News",
-    "summary": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO disclosed, releasing working proof-of-concept code.\n\nBy sending a small batch of compressed HTTP headers that expands in memory to",
-    "created_at": "2026-10-22T09:31:23.677287+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
-    "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
-    "link": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
-    "published": "Thu, 22 Oct 2026 13:17:22 +0530",
-    "source": "The Hacker News",
-    "summary": "Node.js released security updates on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles, which the project says can allow remote code",
-    "created_at": "2026-10-22T09:31:32.197236+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
-    "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
-    "link": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
-    "published": "Thu, 22 Oct 2026 13:58:48 +0530",
-    "source": "The Hacker News",
-    "summary": "LiteLLM on Wednesday disclosed that threat actors compromised &quot;multiple independent security controls&quot; to push a malicious version of the Python package containing a credential stealer and a backdoor.\n\nOn October 21, 2026, LiteLLM&#x27;s re",
-    "created_at": "2026-10-22T09:31:33.215025+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168294",
-    "title": "Fortinet Urges Customers to Patch Critical Flaws Affecting FortiOS, FortiManager, and FortiAnalyzer",
-    "link": "https://cybersecuritynews.com/fortinet-urges-to-patch-critical-flaws/",
-    "published": "Thu, 22 Oct 2026 09:18:18 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Fortinet has urged customers to prioritize security updates for FortiOS, FortiManager, and FortiAnalyzer scheduled for October 22, 2026. The coordinated release addresses critical and high-severity vulnerabilities, including flaws found through AI-as",
-    "created_at": "2026-10-22T09:31:36.490936+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=167887",
     "title": "Top 10 Best Enterprise DRM & Information Rights Management Solutions in 2026 [Ranked & Scored]",
     "link": "https://cybersecuritynews.com/best-drm-irm-solutions/",
@@ -10006,5 +9952,23 @@
     "source": "CybersecurityNews",
     "summary": "F5 released emergency fixes for six critical BIG-IP vulnerabilities that could let remote attackers take websites and other services offline without logging in. The flaws affect specific traffic-handling configurations. An attacker who can reach a vu",
     "created_at": "2026-11-21T03:31:07.685847+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+    "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+    "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+    "published": "Sat, 21 Nov 2026 14:19:13 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KEV), citing evidence of active ",
+    "created_at": "2026-11-21T09:34:20.293739+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+    "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+    "link": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+    "published": "Sat, 21 Nov 2026 14:19:20 +0530",
+    "source": "The Hacker News",
+    "summary": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is &quot;incomplete.&quot;\n\nThe feature applies to a",
+    "created_at": "2026-11-21T09:34:26.038899+00:00"
   }
 ]
