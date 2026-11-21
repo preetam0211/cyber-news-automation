@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=168271",
-    "title": "Atlassian Releases Massive Security Update Addressing 176 Flaw Entries in Jira and Confluence",
-    "link": "https://cybersecuritynews.com/atlassian-security-update/",
-    "published": "Thu, 22 Oct 2026 10:12:18 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Atlassian has released its October 2026 security bulletin, covering 176 flaw entries across products including Jira, Confluence, Bamboo, Bitbucket, and Crowd. Published on October 20, the update lists 162 high-severity entries and 14 critical-severit",
-    "created_at": "2026-10-22T10:31:03.845577+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168236",
-    "title": "Top 10 Best Secure File Sharing Platforms in 2026 [Ranked & Scored]",
-    "link": "https://cybersecuritynews.com/best-secure-file-sharing/",
-    "published": "Thu, 22 Oct 2026 10:16:44 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Users share files the easiest way available your only real choice is whether the easiest way is also the governed one. The 2026 secure-sharing shortlist is judged on that bargain: consumer-grade usability on top of enterprise controls (classification",
-    "created_at": "2026-10-22T10:31:06.124317+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
     "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
     "link": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
