@@ -9817,5 +9817,14 @@
     "source": "BleepingComputer",
     "summary": "The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year&#x27;s disruptions. [...]",
     "created_at": "2026-11-21T15:31:11.388223+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+    "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+    "published": "Sat, 21 Nov 2026 13:01:58 -0500",
+    "source": "BleepingComputer",
+    "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
+    "created_at": "2026-11-21T18:31:10.159690+00:00"
   }
 ]
