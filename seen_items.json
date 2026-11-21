@@ -9763,5 +9763,14 @@
     "source": "BleepingComputer",
     "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
     "created_at": "2026-11-21T18:31:10.159690+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+    "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+    "link": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+    "published": "Sat, 21 Nov 2026 17:59:58 -0500",
+    "source": "BleepingComputer",
+    "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
+    "created_at": "2026-11-21T23:01:10.986192+00:00"
   }
 ]
