@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=168376",
-    "title": "A New Extortion Gang Is Naming Companies on the Dark Web and Counting Down to Data Leaks",
-    "link": "https://cybersecuritynews.com/a-new-extortion-gang/",
-    "published": "Thu, 22 Oct 2026 14:40:34 +0000",
-    "source": "CybersecurityNews",
-    "summary": "ScarlettGroup, a newly observed cyber extortion gang, is naming companies on a dark web leak site and using countdown timers to threaten the release of allegedly stolen data. The operation puts public pressure on organizations before their breach cla",
-    "created_at": "2026-10-22T15:01:06.465527+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168386",
-    "title": "Claude Security Now Scans Repositories Continuously to Find Flaws and Track Fixes",
-    "link": "https://cybersecuritynews.com/claude-security-continuous-scans/",
-    "published": "Thu, 22 Oct 2026 14:40:43 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Anthropic has updated Claude Security so it can keep checking connected code repositories as they change, rather than waiting for a person to start each scan. The service also tracks reported vulnerabilities after developers make changes, marks them ",
-    "created_at": "2026-10-22T15:01:08.508227+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168392",
-    "title": "eMudhra Exits Global SSL/TLS Certificate Business Following the Vulnerability Disclosure",
-    "link": "https://cybersecuritynews.com/emudhra-exits-global-ssl-tls-certificate/",
-    "published": "Thu, 22 Oct 2026 14:52:11 +0000",
-    "source": "CybersecurityNews",
-    "summary": "eMudhra Limited has announced it is exiting the global SSL/TLS certificate business after disclosing weak private keys in eight intermediate certificate authority certificates. The October 22, 2026, decision follows emergency browser protections and ",
-    "created_at": "2026-10-22T15:01:10.587390+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168401",
-    "title": "Major U.S. Banks Detect Unauthorized AI Agents Operating Inside Customer Accounts",
-    "link": "https://cybersecuritynews.com/u-s-banks-detect-unauthorized-ai-agents/",
-    "published": "Thu, 22 Oct 2026 15:23:07 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Major U.S. banks are detecting third-party AI agents inside customer accounts, raising concerns that automated tools could act beyond the instructions customers give them. Some agents have contacted call centers or appeared to attempt independent act",
-    "created_at": "2026-10-22T15:31:02.352790+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
     "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
@@ -9880,5 +9844,14 @@
     "source": "BleepingComputer",
     "summary": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency&#x27;s National Crime Information Center (NCIC), which is used to share information between local, state, and federal law enforcement agencies",
     "created_at": "2026-11-21T14:31:26.254099+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
+    "title": "BADBOX 3.0 botnet returns with record-breaking 40 billion daily ad requests",
+    "link": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
+    "published": "Sat, 21 Nov 2026 10:17:27 -0500",
+    "source": "BleepingComputer",
+    "summary": "The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year&#x27;s disruptions. [...]",
+    "created_at": "2026-11-21T15:31:11.388223+00:00"
   }
 ]
