@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
-    "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
-    "published": "Thu, 22 Oct 2026 13:18:22 -0400",
-    "source": "BleepingComputer",
-    "summary": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
-    "created_at": "2026-10-22T17:31:05.881029+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
     "title": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
     "link": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
