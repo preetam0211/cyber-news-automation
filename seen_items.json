@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=168246",
-    "title": "Hackers Are Breaking Into FortiGate, FortiWeb and Palo Alto GlobalProtect Systems to Steal Passwords",
-    "link": "https://cybersecuritynews.com/breaking-into-fortigate-fortiweb/",
-    "published": "Thu, 22 Oct 2026 06:30:10 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Internet-facing firewalls and VPN systems are under attack in a campaign that aims to steal credentials and gain lasting access to corporate networks. The activity targets FortiGate and FortiWeb devices from Fortinet, as well as Palo Alto Networks Gl",
-    "created_at": "2026-10-22T07:31:28.577426+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168257",
-    "title": "October 21 Cybersecurity Nightmare: PHP and Node.js Flaws, LiteLLM Backdoor, and Active Attacks",
-    "link": "https://cybersecuritynews.com/october-21-cybersecurity-nightmare/",
-    "published": "Thu, 22 Oct 2026 07:16:45 +0000",
-    "source": "CybersecurityNews",
-    "summary": "October 21, 2026 brought a demanding mix of emergency security updates, poisoned software releases, and warnings about attacks already underway. PHP servers needed urgent patches. An AI software package was stealing credentials. Other investigations ",
-    "created_at": "2026-10-22T07:31:34.449129+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168254",
-    "title": "Hackers Used Claude and Grok to Automate Cyberattacks on Over 400 Banks and Financial Firms",
-    "link": "https://cybersecuritynews.com/hackers-used-claude-and-grok/",
-    "published": "Thu, 22 Oct 2026 07:24:56 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A cybercrime group used artificial intelligence (AI) agents to coordinate attacks against more than 400 banks, payment providers and other financial organizations across Latin America, according to a report by cybersecurity company Straiker. The grou",
-    "created_at": "2026-10-22T07:31:45.910753+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=168255",
     "title": "Hackers Are Using Real Dell and Staples Emails to Make Their Scams Look Legitimate",
     "link": "https://cybersecuritynews.com/hackers-are-using-real-dell/",
