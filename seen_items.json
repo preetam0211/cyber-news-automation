@@ -10087,5 +10087,14 @@
     "source": "CybersecurityNews",
     "summary": "WhatsApp’s November 2026 security update describes three flaws that could let attackers delete files stored by WhatsApp on Android, expose a user’s IP address, or bypass a security check for Meta AI’s Private Processing service. Of the three, only th",
     "created_at": "2026-11-21T03:01:07.942796+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173376",
+    "title": "6 Critical F5 BIG-IP Vulnerabilities Could Let Hackers Disrupt Websites and Execute Malicious Code",
+    "link": "https://cybersecuritynews.com/critical-f5-big-ip-vulnerabilities/",
+    "published": "Sat, 21 Nov 2026 03:13:03 +0000",
+    "source": "CybersecurityNews",
+    "summary": "F5 released emergency fixes for six critical BIG-IP vulnerabilities that could let remote attackers take websites and other services offline without logging in. The flaws affect specific traffic-handling configurations. An attacker who can reach a vu",
+    "created_at": "2026-11-21T03:31:07.685847+00:00"
   }
 ]
