@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=168418",
-    "title": "Critical Unpatched Linux Kernel Flaws Accidentally Disclosed on Public List",
-    "link": "https://cybersecuritynews.com/linux-kernel-flaws-accidentally-disclosed/",
-    "published": "Fri, 23 Oct 2026 02:09:49 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Several unpatched Linux-related security flaws were posted to public mailing lists in October, exposing technical details before fixes were ready. The reports, submitted by Trend Micro’s Zero Day Initiative (ZDI), include two critical flaws rated CVS",
-    "created_at": "2026-10-23T02:31:20.610051+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=168422",
     "title": "Quest Diagnostics Hacked – Attackers Accessed the System to Order Tests and View Results",
     "link": "https://cybersecuritynews.com/quest-diagnostics-hacked/",
@@ -9781,5 +9772,14 @@
     "source": "CybersecurityNews",
     "summary": "Attackers exploited a flaw in Microsoft Entra Connect Health to read administrator and technical contact email addresses, along with configuration data from affected organizations. A Microsoft customer notice shared on Reddit describes read-only acce",
     "created_at": "2026-11-22T02:31:10.003314+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173431",
+    "title": "Hackers Could Execute Commands on WordPress, Email and Print Servers Through Upload2Shell Flaw",
+    "link": "https://cybersecuritynews.com/upload2shell-flaw/",
+    "published": "Sun, 22 Nov 2026 02:43:08 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A flaw in Ghostscript let researchers run commands on WordPress, Roundcube webmail, and Linux print servers through routine file processing. The vulnerability, dubbed Upload2Shell and tracked as CVE-2026-125396, affects upstream Ghostscript releases ",
+    "created_at": "2026-11-22T03:01:12.813709+00:00"
   }
 ]
