@@ -9772,5 +9772,14 @@
     "source": "BleepingComputer",
     "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
     "created_at": "2026-11-21T23:01:10.986192+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173424",
+    "title": "Hackers Exploit Microsoft Entra Connect Health Flaw to Access Admin Emails and Organization Data",
+    "link": "https://cybersecuritynews.com/microsoft-entra-connect-health-flaw/",
+    "published": "Sun, 22 Nov 2026 02:03:18 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Attackers exploited a flaw in Microsoft Entra Connect Health to read administrator and technical contact email addresses, along with configuration data from affected organizations. A Microsoft customer notice shared on Reddit describes read-only acce",
+    "created_at": "2026-11-22T02:31:10.003314+00:00"
   }
 ]
