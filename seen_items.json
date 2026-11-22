@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
-    "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
-    "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
-    "published": "Fri, 23 Oct 2026 13:10:45 +0530",
-    "source": "The Hacker News",
-    "summary": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing the flaws may be harder than pre",
-    "created_at": "2026-10-23T08:01:27.363579+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
-    "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
-    "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
-    "published": "Fri, 23 Oct 2026 13:20:01 +0530",
-    "source": "The Hacker News",
-    "summary": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have demonstrated.\n\nTheir &quot;Node2Shell&quot; proof of concept ran code on the official Node.js 24.22.0 image",
-    "created_at": "2026-10-23T08:01:37.893035+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=168460",
     "title": "Hackers Exploit Critical Citrix NetScaler RCE Flaw to Deploy Web Shells and Malware",
     "link": "https://cybersecuritynews.com/citrix-netscaler-rce-flaw/",
