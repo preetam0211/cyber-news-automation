@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=168422",
-    "title": "Quest Diagnostics Hacked – Attackers Accessed the System to Order Tests and View Results",
-    "link": "https://cybersecuritynews.com/quest-diagnostics-hacked/",
-    "published": "Fri, 23 Oct 2026 03:29:20 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Quest Diagnostics has disclosed a cyberattack involving unauthorized access to its Quanum LSM system, which healthcare clients use to order laboratory tests and view results. The company discovered the incident on October 21, 2026, and suspended acce",
-    "created_at": "2026-10-23T04:01:07.841713+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=168315",
     "title": "Splunk Fixes 24 Security Flaws, Including Four Critical Vulnerabilities in Enterprise and SOAR",
     "link": "https://cybersecuritynews.com/splunk-fixes-24-security-flaws/",
@@ -9781,5 +9772,14 @@
     "source": "CybersecurityNews",
     "summary": "A flaw in Ghostscript let researchers run commands on WordPress, Roundcube webmail, and Linux print servers through routine file processing. The vulnerability, dubbed Upload2Shell and tracked as CVE-2026-125396, affects upstream Ghostscript releases ",
     "created_at": "2026-11-22T03:01:12.813709+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173435",
+    "title": "OpenRouter Users’ Private AI Chats May Have Been Exposed Via Compromised Third-Party Providers",
+    "link": "https://cybersecuritynews.com/openrouter-ai-chat-leaks/",
+    "published": "Sun, 22 Nov 2026 03:58:45 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OpenRouter has removed three AI hosting providers and revoked Zero Data Retention eligibility for 125 endpoints after researchers found evidence that some providers had been compromised or had failed to follow their data policies. In its November 22 ",
+    "created_at": "2026-11-22T04:01:10.714136+00:00"
   }
 ]
