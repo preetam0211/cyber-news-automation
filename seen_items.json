@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=168460",
-    "title": "Hackers Exploit Critical Citrix NetScaler RCE Flaw to Deploy Web Shells and Malware",
-    "link": "https://cybersecuritynews.com/citrix-netscaler-rce-flaw/",
-    "published": "Fri, 23 Oct 2026 07:50:58 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A critical flaw in Citrix NetScaler ADC and NetScaler Gateway is being used to run commands on exposed appliances, install web shells and deliver malware. Tracked as CVE-2026-88771, the vulnerability stems from improper input validation and can allow",
-    "created_at": "2026-10-23T08:31:22.407917+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168325",
-    "title": "Top 9 Best Managed File Transfer (MFT) Solutions in 2026 [Ranked & Scored]",
-    "link": "https://cybersecuritynews.com/best-managed-file-transfer/",
-    "published": "Fri, 23 Oct 2026 08:16:37 +0000",
-    "source": "CybersecurityNews",
-    "summary": "No category has been breached more publicly this decade than managed file transfer mass-exploitation campaigns against MFT products turned quiet integration plumbing into board-level risk, and the 2023–2024 waves rewrote the buying criteria. In 2026 ",
-    "created_at": "2026-10-23T08:31:35.836996+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168360",
-    "title": "Top 10 Best Email Encryption Services in 2026 [Ranked & Scored]",
-    "link": "https://cybersecuritynews.com/best-email-encryption-services/",
-    "published": "Fri, 23 Oct 2026 08:22:52 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Email encryption has a usability paradox: the strongest cryptography loses to the recipient who gives up at the portal login and asks for the file “some other way.” The 2026 winners solve for both ends sender-side automation (policies, DLP triggers, ",
-    "created_at": "2026-10-23T08:31:46.603893+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
     "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
     "link": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
