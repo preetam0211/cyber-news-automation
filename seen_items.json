@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
-    "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
-    "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
-    "published": "Sat, 24 Oct 2026 00:20:13 +0530",
-    "source": "The Hacker News",
-    "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX.\n\nThe activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in",
-    "created_at": "2026-10-23T19:02:07.598419+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
-    "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
-    "published": "Fri, 23 Oct 2026 14:54:41 -0400",
-    "source": "BleepingComputer",
-    "summary": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
-    "created_at": "2026-10-23T19:03:04.933794+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
     "title": "Abandoned Popcorn Time app exposed millions of device to RCE attacks",
     "link": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
