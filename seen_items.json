@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=168425",
-    "title": "Hacker With Limited Skills Used DeepSeek AI to Breach Indian University and Steal Over 5,200 Records",
-    "link": "https://cybersecuritynews.com/hacker-with-limited-skills-used-deepseek-ai/",
-    "published": "Fri, 23 Oct 2026 07:13:36 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A cybercriminal using the online handle BUGSTER used artificial intelligence tools to support attacks on Indian organizations, including two universities. In one confirmed intrusion, the attacker stole a MongoDB database containing more than 5,200 re",
-    "created_at": "2026-10-23T07:31:16.127933+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
     "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
     "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
