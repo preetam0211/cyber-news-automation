@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=168315",
-    "title": "Splunk Fixes 24 Security Flaws, Including Four Critical Vulnerabilities in Enterprise and SOAR",
-    "link": "https://cybersecuritynews.com/splunk-fixes-24-security-flaws/",
-    "published": "Fri, 23 Oct 2026 03:41:41 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Splunk has released security updates for 24 vulnerabilities in Splunk Enterprise and Splunk SOAR, including four critical flaws with CVSS scores from 9.3 to 9.9. Splunk published the fixes on October 21, 2026, across three advisories covering access ",
-    "created_at": "2026-10-23T04:01:34.733931+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=168311",
     "title": "Critical Cisco Expressway Vulnerability Enables Remote Code Execution Attacks",
     "link": "https://cybersecuritynews.com/critical-cisco-expressway-vulnerability/",
