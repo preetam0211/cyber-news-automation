@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
-    "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
-    "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
-    "published": "Fri, 23 Oct 2026 08:48:00 -0400",
-    "source": "BleepingComputer",
-    "summary": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]",
-    "created_at": "2026-10-23T13:01:10.027479+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=168522",
     "title": "Critical PHP2Shell Exploit Code Goes Public as Hackers Attempt to Deploy Botnet Malware",
     "link": "https://cybersecuritynews.com/critical-php2shell-exploit-code/",
