@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
-    "title": "Microsoft: Windows Server 2016 reaches end of support in January",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
-    "published": "Fri, 23 Oct 2026 13:05:07 -0400",
-    "source": "BleepingComputer",
-    "summary": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]",
-    "created_at": "2026-10-23T17:32:04.530761+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
     "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
     "link": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
