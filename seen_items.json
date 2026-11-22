@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=168522",
-    "title": "Critical PHP2Shell Exploit Code Goes Public as Hackers Attempt to Deploy Botnet Malware",
-    "link": "https://cybersecuritynews.com/critical-php2shell-exploit-code/",
-    "published": "Fri, 23 Oct 2026 13:00:37 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Public proof-of-concept code for two critical PHP vulnerabilities is now available, and attackers have tried to use the flaws to deploy botnet malware. Known together as PHP2Shell, CVE-2026-109618 and CVE-2026-109619 both carry a CVSS severity score ",
-    "created_at": "2026-10-23T13:31:28.639981+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=168549",
     "title": "StealC Malware Returns as New Stadia RAT to Steal Passwords and Secretly Control Windows PCs",
     "link": "https://cybersecuritynews.com/stealc-malware/",
