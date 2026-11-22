@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
-    "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
-    "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
-    "published": "Fri, 23 Oct 2026 15:06:00 +0530",
-    "source": "The Hacker News",
-    "summary": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open.\n\nThe flaw, CVE-2026-112900, is in the way Pillow handles EPS images, which it opens b",
-    "created_at": "2026-10-23T10:31:31.391390+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
     "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
     "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
