@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
-    "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
-    "link": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
-    "published": "Fri, 23 Oct 2026 14:05:45 +0530",
-    "source": "The Hacker News",
-    "summary": "AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22.\n\nThe cause was the SDKs&#x27; default client, which set no spend",
-    "created_at": "2026-10-23T09:31:26.367937+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168466",
-    "title": "SBI Notifies Customers Impacted by the Recent Cyber Incident",
-    "link": "https://cybersecuritynews.com/sbi-notifies-customers-with-cyber-incident/",
-    "published": "Fri, 23 Oct 2026 09:20:41 +0000",
-    "source": "CybersecurityNews",
-    "summary": "State Bank of India (SBI) has individually notified customers whose information was identified in a recent cyber incident, sending alerts through email and WhatsApp. In its latest advisory on October 23, the bank said customer account balances and fu",
-    "created_at": "2026-10-23T09:31:39.854388+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
     "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
     "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
