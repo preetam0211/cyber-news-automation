@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=168450",
-    "title": "Oracle Issues Emergency Java Update for Critical 9.1 HTTPS Trust Vulnerability",
-    "link": "https://cybersecuritynews.com/emergency-java-update/",
-    "published": "Fri, 23 Oct 2026 06:01:47 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Oracle has released an emergency Java security update to address CVE-2026-91403, a critical vulnerability affecting how Java applications trust digital certificates. Published on October 21, 2026, the alert assigns the flaw a CVSS 3.1 score of 9.1 an",
-    "created_at": "2026-10-23T06:31:21.866725+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=168425",
     "title": "Hacker With Limited Skills Used DeepSeek AI to Breach Indian University and Steal Over 5,200 Records",
     "link": "https://cybersecuritynews.com/hacker-with-limited-skills-used-deepseek-ai/",
@@ -9754,5 +9745,32 @@
     "source": "CybersecurityNews",
     "summary": "OpenRouter has removed three AI hosting providers and revoked Zero Data Retention eligibility for 125 endpoints after researchers found evidence that some providers had been compromised or had failed to follow their data policies. In its November 22 ",
     "created_at": "2026-11-22T04:01:10.714136+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=172717",
+    "title": "MCP Server Security: How to Stop Rogue AI Agents",
+    "link": "https://cybersecuritynews.com/mcp-server-security/",
+    "published": "Sat, 21 Nov 2026 17:24:13 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The Model Context Protocol (MCP) lets AI applications connect to external tools, APIs, and business data through a standardized interface. But every MCP server adds another entry point that attackers can target. MCP server security is becoming an imp",
+    "created_at": "2026-11-22T06:31:16.264689+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+    "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+    "link": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+    "published": "Sun, 22 Nov 2026 10:33:41 +0530",
+    "source": "The Hacker News",
+    "summary": "A now-patched flaw in Ghostscript allows a crafted file to escape the program&#x27;s security sandbox and run commands on the server that processes it.\n\nGhostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript f",
+    "created_at": "2026-11-22T06:31:23.095746+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+    "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+    "link": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+    "published": "Sun, 22 Nov 2026 10:36:55 +0530",
+    "source": "The Hacker News",
+    "summary": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week.\n\nSome of the stolen requests were flagged as Zero Data Reten",
+    "created_at": "2026-11-22T06:31:33.021755+00:00"
   }
 ]
