@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
-    "title": "Abandoned Popcorn Time app exposed millions of device to RCE attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
-    "published": "Fri, 23 Oct 2026 16:55:05 -0400",
-    "source": "BleepingComputer",
-    "summary": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millio",
-    "created_at": "2026-10-23T21:01:30.873108+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=168598",
     "title": "OpenAI AI Agents Bypass Security Isolation, Exploiting 0-Days in Red-Teaming Tests",
     "link": "https://cybersecuritynews.com/openai-ai-agents-bypass-security/",
