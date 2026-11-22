@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
-    "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
-    "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
-    "published": "Fri, 23 Oct 2026 16:41:23 +0530",
-    "source": "The Hacker News",
-    "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year.\n\nAccording to ESET, the attack involved UAC-0099 (aka Earth Sirrush) ob",
-    "created_at": "2026-10-23T11:31:15.312256+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
-    "title": "URGENT - PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
-    "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
-    "published": "Fri, 23 Oct 2026 16:55:43 +0530",
-    "source": "The Hacker News",
-    "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws.\n\nThe new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way",
-    "created_at": "2026-10-23T11:31:22.949012+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168482",
-    "title": "Hackers Use New BlackX Bootkit to Bypass Windows Secure Boot on Fully Patched Systems",
-    "link": "https://cybersecuritynews.com/hackers-use-new-blackx-bootkit/",
-    "published": "Fri, 23 Oct 2026 11:23:35 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A new UEFI bootkit called BlackX has been used in cyberespionage attacks against diplomatic organizations in Tajikistan, Uzbekistan, and Turkmenistan. The malware targets Secure Boot, a feature designed to help stop untrusted software from running be",
-    "created_at": "2026-10-23T12:01:09.815778+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
     "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
     "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
