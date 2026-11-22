@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=168491",
-    "title": "Japanese Game Maker Capcom Has Confirmed – 11,774,247 Customer Records Exposed",
-    "link": "https://cybersecuritynews.com/capcom-confirmed-customer-records-exposed/",
-    "published": "Fri, 23 Oct 2026 14:37:14 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Capcom has announced plans to notify customers after unauthorized access to its CAPCOM ID service affected 11,774,247 records worldwide. The Japanese game publisher disclosed the incident on October 22, 2026, saying the exposed information included e",
-    "created_at": "2026-10-23T15:01:06.836754+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168509",
-    "title": "HPE Warns Critical Aruba Networking Flaws Could Let Hackers Take Complete Control of Devices",
-    "link": "https://cybersecuritynews.com/hpe-warns-aruba-networking-flaws/",
-    "published": "Fri, 23 Oct 2026 14:53:59 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Hewlett Packard Enterprise has released security patches for multiple vulnerabilities in Aruba Networking wireless software that could let attackers take complete control of affected devices. The flaws affect AOS-8 and AOS-10 deployments across Mobil",
-    "created_at": "2026-10-23T15:01:14.504140+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168516",
-    "title": "Critical Okta Access Gateway Flaw Lets Attackers With Admin Access Execute System Commands",
-    "link": "https://cybersecuritynews.com/okta-access-gateway-flaw/",
-    "published": "Fri, 23 Oct 2026 15:19:23 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Okta has disclosed a critical security flaw in Okta Access Gateway that lets an authenticated administrator run system commands through the appliance’s Admin Console. Tracked as CVE-2026-115547, the vulnerability affects versions before 2026.10.2 and",
-    "created_at": "2026-10-23T15:31:07.930537+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168538",
-    "title": "WhatsApp May Stop Working Without Registered SIM Under New Rules",
-    "link": "https://cybersecuritynews.com/whatsapp-stop-working-without-registered-sim/",
-    "published": "Fri, 23 Oct 2026 15:20:07 +0000",
-    "source": "CybersecurityNews",
-    "summary": "WhatsApp users in India may face access issues without a registered SIM under new government rules expected to take effect on January 1, 2027. Messaging platforms reportedly have until December 31, 2026, to comply. The change could affect people usin",
-    "created_at": "2026-10-23T15:31:10.082289+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
     "title": "PHP shares mitigation for new RCE vulnerability with no patch",
     "link": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
@@ -9592,5 +9556,14 @@
     "source": "The Hacker News",
     "summary": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week.\n\nSome of the stolen requests were flagged as Zero Data Reten",
     "created_at": "2026-11-22T06:31:33.021755+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
+    "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+    "link": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
+    "published": "Sun, 22 Nov 2026 10:15:25 -0500",
+    "source": "BleepingComputer",
+    "summary": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]",
+    "created_at": "2026-11-22T15:31:11.603908+00:00"
   }
 ]
