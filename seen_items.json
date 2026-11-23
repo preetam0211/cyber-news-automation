@@ -9772,5 +9772,23 @@
     "source": "BleepingComputer",
     "summary": "LaLiga, Spain&#x27;s top men&#x27;s football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]",
     "created_at": "2026-11-23T19:01:19.333444+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
+    "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
+    "published": "Mon, 23 Nov 2026 14:42:20 -0500",
+    "source": "BleepingComputer",
+    "summary": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy companies. [...]",
+    "created_at": "2026-11-23T20:01:12.405991+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
+    "title": "OpenRouter drops AI providers over leaked prompts and secrets",
+    "link": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
+    "published": "Mon, 23 Nov 2026 15:00:20 -0500",
+    "source": "BleepingComputer",
+    "summary": "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]",
+    "created_at": "2026-11-23T20:01:23.721647+00:00"
   }
 ]
