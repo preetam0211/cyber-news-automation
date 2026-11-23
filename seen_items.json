@@ -9556,5 +9556,23 @@
     "source": "CybersecurityNews",
     "summary": "Bulgaria has disrupted a cyberespionage operation that gave hackers covert access to state administration networks for five years. Innovation and Digital Transformation Minister Ivan Vasilev said on November 18 that the intruders illegally downloaded",
     "created_at": "2026-11-23T08:31:11.562615+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
+    "title": "AI-Assisted Cyberattacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
+    "link": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
+    "published": "Mon, 23 Nov 2026 13:54:15 +0530",
+    "source": "The Hacker News",
+    "summary": "The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in the country.\n\nThis unsanctione",
+    "created_at": "2026-11-23T09:01:19.604087+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173556",
+    "title": "Samsung Securities Data Breach Exposes 8,241 Customers’ Personal and Account Details",
+    "link": "https://cybersecuritynews.com/samsung-securities-data-breach/",
+    "published": "Mon, 23 Nov 2026 08:53:13 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Samsung Securities confirmed on November 23 that a data breach exposed personal information belonging to 8,241 customers. The South Korean brokerage detected unauthorized access on Saturday, November 21, in its Voice of Customer (VOC) system, a websi",
+    "created_at": "2026-11-23T09:01:30.575753+00:00"
   }
 ]
