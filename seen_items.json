@@ -9601,5 +9601,23 @@
     "source": "CybersecurityNews",
     "summary": "A group of Chinese-speaking hackers used an open-source AI testing tool to run attacks with very little human help. Between August and September 2026, they broke into 10 organizations and exposed personal data. More than one million records came from",
     "created_at": "2026-11-23T10:32:17.226245+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173484",
+    "title": "Hackers Exploit GL.iNet Cloud Flaw to Install Malware and Backdoors on Routers and KVM Devices",
+    "link": "https://cybersecuritynews.com/hackers-exploit-gl-inet-cloud-flaw/",
+    "published": "Mon, 23 Nov 2026 10:45:32 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A flaw in GL.iNet’s cloud remote management services allowed unauthorized access to routers and KVM devices, enabling malicious software installation. Identified on November 20, 2026, the issue has been fixed, but infected devices still require a sec",
+    "created_at": "2026-11-23T11:31:11.995804+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173622",
+    "title": "Hackers Use AI to Discover Zero-Day in 11 Minutes, Then Take Full Control of Server",
+    "link": "https://cybersecuritynews.com/hackers-use-ai/",
+    "published": "Mon, 23 Nov 2026 11:07:51 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers used autonomous AI agents to discover a previously unknown flaw in an open-source medical imaging application and later take full control of the server running it. The agents needed about 11 minutes to go from mapping the application’s interf",
+    "created_at": "2026-11-23T11:31:27.297667+00:00"
   }
 ]
