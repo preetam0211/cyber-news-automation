@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-    "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-    "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-    "published": "Sat, 24 Oct 2026 14:15:56 +0530",
-    "source": "The Hacker News",
-    "summary": "A memory-corruption flaw in Google&#x27;s Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli.\n\nTracked as CVE-2026-111497, ",
-    "created_at": "2026-10-24T10:31:09.518738+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
-    "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
-    "link": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
-    "published": "Sat, 24 Oct 2026 14:34:24 +0530",
-    "source": "The Hacker News",
-    "summary": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the machine.\n\nThe up",
-    "created_at": "2026-10-24T10:31:16.201218+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
     "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
     "link": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
@@ -9583,5 +9565,41 @@
     "source": "BleepingComputer",
     "summary": "Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch. [...]",
     "created_at": "2026-11-23T09:31:11.169167+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
+    "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
+    "link": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
+    "published": "Mon, 23 Nov 2026 14:34:08 +0530",
+    "source": "The Hacker News",
+    "summary": "Hackers exploited a vulnerability in GL.iNet&#x27;s GoodCloud remote management service to install malware on some customer routers and KVM devices, the maker of travel routers and remote-access KVM hardware said in a security notice updated today.\n\n",
+    "created_at": "2026-11-23T10:31:14.643517+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
+    "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
+    "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
+    "published": "Mon, 23 Nov 2026 14:41:56 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (&quot;Idunno.AntiCsrf.dll&quot;) following the discovery of a critical vulnerability that has been exploited in the wild.\n\nThe v",
+    "created_at": "2026-11-23T10:31:40.210196+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173614",
+    "title": "Critical ASP.NET AntiCsrf Flaw Under Attack, Allowing Hackers to Execute Code Without Login",
+    "link": "https://cybersecuritynews.com/asp-net-anticsrf-flaw-under-attack/",
+    "published": "Mon, 23 Nov 2026 10:25:17 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Attackers are exploiting a critical flaw in Idunno.AntiCsrf, a third-party library used by older ASP.NET WebForms applications. Mandiant confirmed active exploitation in its November 18 advisory and said the flaw lets remote attackers run code on aff",
+    "created_at": "2026-11-23T10:31:49.843353+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173529",
+    "title": "Hackers Use Autonomous AI to Breach 10 Organizations and Access Over 1 Million Personal Records",
+    "link": "https://cybersecuritynews.com/hackers-use-autonomous-ai/",
+    "published": "Mon, 23 Nov 2026 10:27:37 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A group of Chinese-speaking hackers used an open-source AI testing tool to run attacks with very little human help. Between August and September 2026, they broke into 10 organizations and exposed personal data. More than one million records came from",
+    "created_at": "2026-11-23T10:32:17.226245+00:00"
   }
 ]
