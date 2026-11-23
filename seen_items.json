@@ -9520,5 +9520,14 @@
     "source": "BleepingComputer",
     "summary": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers&#x27; routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote a",
     "created_at": "2026-11-22T19:01:11.029708+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173450",
+    "title": "Cleverbridge Confirms Hackers Stole Customer Card Numbers and CVV Codes in a Major Data Breach",
+    "link": "https://cybersecuritynews.com/cleverbridge-data-breach/",
+    "published": "Mon, 23 Nov 2026 02:37:31 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cleverbridge confirmed that hackers copied payment card data from its e-commerce platform. The stolen information includes card numbers, expiration dates, and CVV or CVC security codes. Cleverbridge’s public update does not list those fields or say w",
+    "created_at": "2026-11-23T03:01:08.030085+00:00"
   }
 ]
