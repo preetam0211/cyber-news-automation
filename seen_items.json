@@ -9556,5 +9556,14 @@
     "source": "CybersecurityNews",
     "summary": "A forum seller using the name Matilda is asking $30,000 for a claimed exploit targeting CVE-2026-123890, a critical VMware vCenter Server vulnerability. A screenshot shared by Dark Web Informer shows the seller claiming that the tool can create a new",
     "created_at": "2026-11-23T04:31:11.747108+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173464",
+    "title": "Palo Alto Confirms NGINX RCE Vulnerabilities Impact PAN-OS and Releases Workarounds",
+    "link": "https://cybersecuritynews.com/palo-alto-confirms-nginx-rce-vulnerabilities/",
+    "published": "Mon, 23 Nov 2026 05:40:07 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Palo Alto Networks confirmed that two critical NGINX flaws, CVE-2026-123633 and CVE-2026-123007, affect PAN-OS and Panorama deployments with HTTP/2 enabled. The flaws could allow unauthenticated remote attackers to crash worker processes or execute c",
+    "created_at": "2026-11-23T06:01:10.756059+00:00"
   }
 ]
