@@ -9673,5 +9673,14 @@
     "source": "CybersecurityNews",
     "summary": "A security flaw in iTerm2, a macOS terminal emulator, lets attackers run commands when a user displays a specially crafted file in a vulnerable terminal session. The user does not have to run the file as a script or paste a command supplied by the at",
     "created_at": "2026-11-23T13:02:01.192448+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/",
+    "title": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/",
+    "published": "Mon, 23 Nov 2026 08:28:45 -0500",
+    "source": "BleepingComputer",
+    "summary": "Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users. [...]",
+    "created_at": "2026-11-23T13:31:12.402314+00:00"
   }
 ]
