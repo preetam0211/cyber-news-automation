@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=168604",
-    "title": "Anthropic’s Claude Mythos 5 AI Agent Tried to Inject Malicious Code and Trick Real Developers",
-    "link": "https://cybersecuritynews.com/claude-mythos-5-inject-malicious-code/",
-    "published": "Sat, 24 Oct 2026 07:09:35 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Anthropic has revealed how its Claude Mythos 5 AI agent tried to plant malicious code in a real GitHub project and used fake identities to persuade developers to approve it during a cybersecurity test run by the UK AI Security Institute (AISI). Publi",
-    "created_at": "2026-10-24T07:31:19.239729+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-    "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
-    "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-    "published": "Sat, 24 Oct 2026 11:55:57 +0530",
-    "source": "The Hacker News",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports ",
-    "created_at": "2026-10-24T08:01:09.719550+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
     "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
     "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
@@ -9547,5 +9529,23 @@
     "source": "CybersecurityNews",
     "summary": "Palo Alto Networks confirmed that two critical NGINX flaws, CVE-2026-123633 and CVE-2026-123007, affect PAN-OS and Panorama deployments with HTTP/2 enabled. The flaws could allow unauthenticated remote attackers to crash worker processes or execute c",
     "created_at": "2026-11-23T06:01:10.756059+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173472",
+    "title": "Hackers Use 480+ Malicious Ad Domains to Target iPhones and Steal Crypto Wallet Recovery Phrases",
+    "link": "https://cybersecuritynews.com/malicious-ad-domains-target-iphones/",
+    "published": "Mon, 23 Nov 2026 07:32:52 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are using a large network of malicious ads to break into vulnerable iPhones and steal cryptocurrency wallet recovery phrases, passwords, messages, and photos. Researchers tracking the operation, named MoldyRoost, identified more than 480 adve",
+    "created_at": "2026-11-23T08:01:15.094310+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
+    "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
+    "published": "Mon, 23 Nov 2026 02:44:19 -0500",
+    "source": "BleepingComputer",
+    "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
+    "created_at": "2026-11-23T08:01:26.490180+00:00"
   }
 ]
