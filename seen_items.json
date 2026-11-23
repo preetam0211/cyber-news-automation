@@ -9628,5 +9628,50 @@
     "source": "CybersecurityNews",
     "summary": "The Indian Cyber Crime Coordination Center (I4C) has urged users not to share confidential data on WhatsApp Web and to log out manually after every session. In a November 18, 2026, security advisory, the National Cybercrime Threat Analytics Unit warn",
     "created_at": "2026-11-23T12:31:42.813162+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
+    "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
+    "link": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
+    "published": "Mon, 23 Nov 2026 17:58:09 +0530",
+    "source": "The Hacker News",
+    "summary": "N-able yesterday disclosed a critical flaw it found while investigating the breach of its Mail Assure and SpamExperts Hosted Cloud, an email filtering service it runs for managed service providers.\n\nThe bug, tracked as CVE-2026-134624, is a server-si",
+    "created_at": "2026-11-23T13:01:13.810405+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
+    "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
+    "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
+    "published": "Mon, 23 Nov 2026 18:11:04 +0530",
+    "source": "The Hacker News",
+    "summary": "Threat actors are exploiting a now-patched security flaw in ConnectWise ScreenConnect to target managed service provider (MSP) servers.\n\nThe activity revolves around CVE-2026-84869 (CVSS score: 9.9), a critical ScreenConnect client flaw that allows a",
+    "created_at": "2026-11-23T13:01:25.784911+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173663",
+    "title": "CrowdStrike to Acquire Zscaler in Massive $43.9 Billion Cybersecurity Deal",
+    "link": "https://cybersecuritynews.com/crowdstrike-acquire-zscaler/",
+    "published": "Mon, 23 Nov 2026 12:44:26 +0000",
+    "source": "CybersecurityNews",
+    "summary": "CrowdStrike has agreed to acquire Zscaler in a $43.9 billion all-stock deal that would bring cloud network security to its Falcon platform. The agreement, announced on November 23, 2026, would give CrowdStrike control over both the devices where user",
+    "created_at": "2026-11-23T13:01:37.913801+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173633",
+    "title": "Jailbroken AI Agent Helps Hacker Steal Customer Data and 8.6GB of European Government Files",
+    "link": "https://cybersecuritynews.com/jailbroken-ai-agent/",
+    "published": "Mon, 23 Nov 2026 12:44:59 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A low-skilled hacker used a jailbroken AI agent to steal an insurer’s customer database and about 8.6GB of files from European municipalities. The operator, known as BabidiGhost, worked for nine days in November 2026. He typed plain, misspelled Frenc",
+    "created_at": "2026-11-23T13:01:49.399265+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173623",
+    "title": "iTerm2 Remote Code Execution Flaw Lets Hackers Run Malicious Commands by Displaying Crafted Files",
+    "link": "https://cybersecuritynews.com/iterm2-remote-code-execution-flaw/",
+    "published": "Mon, 23 Nov 2026 12:57:36 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A security flaw in iTerm2, a macOS terminal emulator, lets attackers run commands when a user displays a specially crafted file in a vulnerable terminal session. The user does not have to run the file as a script or paste a command supplied by the at",
+    "created_at": "2026-11-23T13:02:01.192448+00:00"
   }
 ]
