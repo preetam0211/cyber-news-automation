@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-    "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
-    "link": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-    "published": "Sat, 24 Oct 2026 16:06:33 +0530",
-    "source": "The Hacker News",
-    "summary": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google services.\n\n&",
-    "created_at": "2026-10-24T12:01:15.536399+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
-    "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
-    "link": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
-    "published": "Sat, 24 Oct 2026 16:33:33 +0530",
-    "source": "The Hacker News",
-    "summary": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package.\n\n&quot;On May 27, 2026, ",
-    "created_at": "2026-10-24T12:01:28.457582+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
     "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
     "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
@@ -9619,5 +9601,32 @@
     "source": "CybersecurityNews",
     "summary": "Hackers used autonomous AI agents to discover a previously unknown flaw in an open-source medical imaging application and later take full control of the server running it. The agents needed about 11 minutes to go from mapping the application’s interf",
     "created_at": "2026-11-23T11:31:27.297667+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173502",
+    "title": "Hackers Exploit Critical Cisco Expressway Flaw to Gain Root Access and Infiltrate Internal Networks",
+    "link": "https://cybersecuritynews.com/hackers-exploit-critical-cisco-expressway-flaw/",
+    "published": "Mon, 23 Nov 2026 12:02:15 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Attackers are now using a critical Cisco Expressway bug, CVE-2026-76466, to take full control of devices and move deeper into company networks. Researchers at F6 say the first known case happened soon after a public proof-of-concept (PoC) exploit app",
+    "created_at": "2026-11-23T12:31:21.151667+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/",
+    "title": "Call center operator gets 8 years for helping scam 30,000 Americans",
+    "link": "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/",
+    "published": "Mon, 23 Nov 2026 07:02:23 -0500",
+    "source": "BleepingComputer",
+    "summary": "A Peruvian call center operator was sentenced to eight years in prison for stealing millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation fraud scheme. [...]",
+    "created_at": "2026-11-23T12:31:31.573282+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173659",
+    "title": "Indian Cyber Crime Coordination Center Urges Users Not to Share Confidential Data on WhatsApp Web",
+    "link": "https://cybersecuritynews.com/whatsapp-web-confidential-data/",
+    "published": "Mon, 23 Nov 2026 12:19:18 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The Indian Cyber Crime Coordination Center (I4C) has urged users not to share confidential data on WhatsApp Web and to log out manually after every session. In a November 18, 2026, security advisory, the National Cybercrime Threat Analytics Unit warn",
+    "created_at": "2026-11-23T12:31:42.813162+00:00"
   }
 ]
