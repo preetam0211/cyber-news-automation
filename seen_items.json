@@ -9790,5 +9790,14 @@
     "source": "BleepingComputer",
     "summary": "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]",
     "created_at": "2026-11-23T20:01:23.721647+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
+    "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
+    "link": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
+    "published": "Mon, 23 Nov 2026 15:54:51 -0500",
+    "source": "BleepingComputer",
+    "summary": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]",
+    "created_at": "2026-11-23T21:01:27.079882+00:00"
   }
 ]
