@@ -9736,5 +9736,14 @@
     "source": "BleepingComputer",
     "summary": "AI agents operate across multiple platforms, creating security gaps when no single vendor can see or control their actions. Token Security examines the shared responsibility problem and explains how organizations can better manage agent identities, p",
     "created_at": "2026-11-23T15:31:11.528741+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
+    "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
+    "link": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
+    "published": "Mon, 23 Nov 2026 20:40:48 +0530",
+    "source": "The Hacker News",
+    "summary": "A stolen key. A trusted message. A routine update. None of these looks like the start of a major security problem. That&#x27;s partly why they work. Attackers don&#x27;t always need to break down a door. Sometimes they just use one that&#x27;s alread",
+    "created_at": "2026-11-23T16:31:21.452369+00:00"
   }
 ]
