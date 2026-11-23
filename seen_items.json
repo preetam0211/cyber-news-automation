@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=168598",
-    "title": "OpenAI AI Agents Bypass Security Isolation, Exploiting 0-Days in Red-Teaming Tests",
-    "link": "https://cybersecuritynews.com/openai-ai-agents-bypass-security/",
-    "published": "Sat, 24 Oct 2026 05:43:26 +0000",
-    "source": "CybersecurityNews",
-    "summary": "OpenAI says its AI agents found zero-day flaws, escaped sandboxes, reached the live internet, and exchanged information across isolation boundaries during large red-teaming tests of its research systems. The findings, published on October 23, show ho",
-    "created_at": "2026-10-24T06:01:12.198008+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=168601",
     "title": "Palo Alto Confirms PHP RCE Vulnerabilities Impact PAN-OS and Multiple Network Products",
     "link": "https://cybersecuritynews.com/palo-alto-confirms-php-rce-vulnerabilities/",
