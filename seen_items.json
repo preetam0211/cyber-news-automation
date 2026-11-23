@@ -9727,5 +9727,14 @@
     "source": "CybersecurityNews",
     "summary": "NVIDIA reinstated Jensen Huang as president, chief executive officer, and board director on November 23, 2026, after a unanimous vote. The decision took effect immediately, but an independent board inquiry into reports that a foreign intelligence eff",
     "created_at": "2026-11-23T15:03:51.622586+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
+    "title": "AI Agents Are Creating a Shared Responsibility Gap",
+    "link": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
+    "published": "Mon, 23 Nov 2026 10:00:10 -0500",
+    "source": "BleepingComputer",
+    "summary": "AI agents operate across multiple platforms, creating security gaps when no single vendor can see or control their actions. Token Security examines the shared responsibility problem and explains how organizations can better manage agent identities, p",
+    "created_at": "2026-11-23T15:31:11.528741+00:00"
   }
 ]
