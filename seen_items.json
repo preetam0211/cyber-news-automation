@@ -9682,5 +9682,14 @@
     "source": "BleepingComputer",
     "summary": "Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users. [...]",
     "created_at": "2026-11-23T13:31:12.402314+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
+    "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
+    "link": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
+    "published": "Mon, 23 Nov 2026 18:52:20 +0530",
+    "source": "The Hacker News",
+    "summary": "A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code.\n\nThe vulnerability, tracked as CVE-2026-134814 (CVSS score: 9.2 / 8.1), is a case",
+    "created_at": "2026-11-23T14:01:48.335122+00:00"
   }
 ]
