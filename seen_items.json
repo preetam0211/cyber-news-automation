@@ -9763,5 +9763,14 @@
     "source": "The Hacker News",
     "summary": "The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it as network-monitoring software to ",
     "created_at": "2026-11-23T18:01:23.503508+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
+    "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
+    "link": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
+    "published": "Mon, 23 Nov 2026 13:38:40 -0500",
+    "source": "BleepingComputer",
+    "summary": "LaLiga, Spain&#x27;s top men&#x27;s football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]",
+    "created_at": "2026-11-23T19:01:19.333444+00:00"
   }
 ]
