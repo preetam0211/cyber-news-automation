@@ -9547,5 +9547,14 @@
     "source": "CybersecurityNews",
     "summary": "Bluetooth flaws in Volkswagen cars could expose private conversations, reveal GPS locations, and allow unauthorized control of cabin features. The findings highlight a lengthy patch rollout, with some vehicles remaining exposed roughly 16 months afte",
     "created_at": "2026-11-23T04:01:33.025893+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173460",
+    "title": "Hackers Allegedly Claiming Exploit for VMware vCenter 0-day Vulnerability",
+    "link": "https://cybersecuritynews.com/alleged-vmware-vcenter-0-day-exploit/",
+    "published": "Mon, 23 Nov 2026 04:30:26 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A forum seller using the name Matilda is asking $30,000 for a claimed exploit targeting CVE-2026-123890, a critical VMware vCenter Server vulnerability. A screenshot shared by Dark Web Informer shows the seller claiming that the tool can create a new",
+    "created_at": "2026-11-23T04:31:11.747108+00:00"
   }
 ]
