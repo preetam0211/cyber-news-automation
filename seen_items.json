@@ -9754,5 +9754,14 @@
     "source": "BleepingComputer",
     "summary": "A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]",
     "created_at": "2026-11-23T17:01:51.760577+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
+    "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
+    "link": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
+    "published": "Mon, 23 Nov 2026 23:15:15 +0530",
+    "source": "The Hacker News",
+    "summary": "The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it as network-monitoring software to ",
+    "created_at": "2026-11-23T18:01:23.503508+00:00"
   }
 ]
