@@ -9547,5 +9547,14 @@
     "source": "BleepingComputer",
     "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
     "created_at": "2026-11-23T08:01:26.490180+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173487",
+    "title": "Hackers Secretly Spy on Bulgarian Government for Five Years and Steal 62 Million Pages of Documents",
+    "link": "https://cybersecuritynews.com/bulgarian-government/",
+    "published": "Mon, 23 Nov 2026 08:01:36 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Bulgaria has disrupted a cyberespionage operation that gave hackers covert access to state administration networks for five years. Innovation and Digital Transformation Minister Ivan Vasilev said on November 18 that the intruders illegally downloaded",
+    "created_at": "2026-11-23T08:31:11.562615+00:00"
   }
 ]
