@@ -9682,5 +9682,50 @@
     "source": "The Hacker News",
     "summary": "A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code.\n\nThe vulnerability, tracked as CVE-2026-134814 (CVSS score: 9.2 / 8.1), is a case",
     "created_at": "2026-11-23T14:01:48.335122+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173667",
+    "title": "Hackers Plant 13 ClickFix Traps on Compromised WordPress Site to Trick Visitors Into Running Malware",
+    "link": "https://cybersecuritynews.com/hackers-plant-13-clickfix-traps/",
+    "published": "Mon, 23 Nov 2026 13:58:49 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A single hacked WordPress site was found carrying 13 separate ClickFix traps from three different malware kits. Each trap shows visitors a fake security check. It then talks them into pasting a harmful command on their own computer. The site sat in a",
+    "created_at": "2026-11-23T15:01:51.543013+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173712",
+    "title": "Vmcloudoor Malware Could Let Hackers Secretly Control Linux Cloud Servers and Steal Sensitive Files",
+    "link": "https://cybersecuritynews.com/vmcloudoor-malware/",
+    "published": "Mon, 23 Nov 2026 14:14:20 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A newly found Linux backdoor named Vmcloudoor can quietly take over cloud servers and pull files off them. It is built to infect virtual machines on Chinese cloud platforms, mainly Alibaba Cloud. It also targets Tencent Cloud and Huawei Cloud. The ma",
+    "created_at": "2026-11-23T15:02:15.554064+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173713",
+    "title": "Hackers Hide RevStealer Malware in Fake Claude AI App to Steal Passwords and Crypto Wallets",
+    "link": "https://cybersecuritynews.com/hackers-hide-revstealer-malware/",
+    "published": "Mon, 23 Nov 2026 14:24:48 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are distributing RevStealer, a Windows infostealer, in a fake Claude AI desktop app that promises free access. The download, branded “Claude Opus 5 Free Desktop,” comes in an archive of roughly 101 MB. Running the executable does not open a c",
+    "created_at": "2026-11-23T15:02:44.287524+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173714",
+    "title": "European Commission Disables Access to EU Academy After Cyberattack Exposes User Data",
+    "link": "https://cybersecuritynews.com/eu-academy-disabled/",
+    "published": "Mon, 23 Nov 2026 14:34:27 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The European Commission disabled public access to EU Academy on Monday, November 23, after confirming that a wider cyberattack exposed users’ personal data. The online learning platform hosts courses and workshops produced by EU institutions. The Com",
+    "created_at": "2026-11-23T15:03:19.544867+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173741",
+    "title": "NVIDIA Reinstates Jensen Huang as CEO Amid Ongoing Foreign Intelligence Investigation",
+    "link": "https://cybersecuritynews.com/nvidia-reinstates-jensen-huang/",
+    "published": "Mon, 23 Nov 2026 14:51:17 +0000",
+    "source": "CybersecurityNews",
+    "summary": "NVIDIA reinstated Jensen Huang as president, chief executive officer, and board director on November 23, 2026, after a unanimous vote. The decision took effect immediately, but an independent board inquiry into reports that a foreign intelligence eff",
+    "created_at": "2026-11-23T15:03:51.622586+00:00"
   }
 ]
