@@ -9529,5 +9529,23 @@
     "source": "CybersecurityNews",
     "summary": "Cleverbridge confirmed that hackers copied payment card data from its e-commerce platform. The stolen information includes card numbers, expiration dates, and CVV or CVC security codes. Cleverbridge’s public update does not list those fields or say w",
     "created_at": "2026-11-23T03:01:08.030085+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173253",
+    "title": "OpenAI’s GPT-6.2 Astra Discovers 0-Day Vulnerabilities Enabling Mobile OS Security Bypass and RCE",
+    "link": "https://cybersecuritynews.com/openai-gpt-6-2-astra-0-day-vulnerabilities/",
+    "published": "Mon, 23 Nov 2026 03:06:27 +0000",
+    "source": "CybersecurityNews",
+    "summary": "OpenAI’s GPT-6.2 Astra has found and exploited zero-day vulnerabilities affecting a popular mobile operating system and a widely hosted network service, according to the company’s latest system card. The findings include a permission bypass that expo",
+    "created_at": "2026-11-23T04:01:21.136773+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173231",
+    "title": "Researchers Hack Volkswagen Cars via Bluetooth to Spy on Conversations and Track GPS Locations",
+    "link": "https://cybersecuritynews.com/hack-volkswagen-cars-via-bluetooth/",
+    "published": "Mon, 23 Nov 2026 03:09:11 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Bluetooth flaws in Volkswagen cars could expose private conversations, reveal GPS locations, and allow unauthorized control of cabin features. The findings highlight a lengthy patch rollout, with some vehicles remaining exposed roughly 16 months afte",
+    "created_at": "2026-11-23T04:01:33.025893+00:00"
   }
 ]
