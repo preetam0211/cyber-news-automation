@@ -10015,5 +10015,41 @@
     "source": "CybersecurityNews",
     "summary": "Attackers are exploiting CVE-2026-131914, a critical flaw in Idunno: AntiCsrf, an old third-party library used by ASP.NET WebForms applications. watchTowr Intel reports that it saw attackers trigger web redirects on vulnerable applications to check w",
     "created_at": "2026-11-24T13:02:18.738690+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
+    "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
+    "link": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
+    "published": "Tue, 24 Nov 2026 18:58:21 +0530",
+    "source": "The Hacker News",
+    "summary": "A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta&#x27;s Threat Intelligence team.\n\nThe cluster, dubbed O-UNC-05",
+    "created_at": "2026-11-24T14:01:33.163186+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
+    "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+    "link": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
+    "published": "Tue, 24 Nov 2026 18:58:26 +0530",
+    "source": "The Hacker News",
+    "summary": "Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication.\n\nThe critical vulnerability, tracked as CV",
+    "created_at": "2026-11-24T14:01:38.477447+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
+    "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
+    "link": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
+    "published": "Tue, 24 Nov 2026 08:34:23 -0500",
+    "source": "BleepingComputer",
+    "summary": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services. [...]",
+    "created_at": "2026-11-24T14:02:27.728563+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174210",
+    "title": "Hackers Deploy ZQAgent Backdoor to Run Malicious Commands and Access Files on Linux Servers",
+    "link": "https://cybersecuritynews.com/hackers-deploy-zqagent-backdoor/",
+    "published": "Tue, 24 Nov 2026 13:35:26 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A new Linux backdoor called ZQAgent is giving attackers a long-term foothold on compromised servers. It can run commands, move through folders, read files and open network tunnels. It also hides itself to look like a normal system process. The malwar",
+    "created_at": "2026-11-24T14:02:35.264475+00:00"
   }
 ]
