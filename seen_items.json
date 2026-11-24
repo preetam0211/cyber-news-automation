@@ -10105,5 +10105,23 @@
     "source": "BleepingComputer",
     "summary": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
     "created_at": "2026-11-24T16:31:28.559232+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
+    "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+    "link": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
+    "published": "Tue, 24 Nov 2026 22:24:07 +0530",
+    "source": "The Hacker News",
+    "summary": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus.\n\nCentral to the group&#x27;s operations is a backdoor called KuboShell th",
+    "created_at": "2026-11-24T18:01:10.019840+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+    "title": "Radware discloses breach exposing customer cloud access keys",
+    "link": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+    "published": "Tue, 24 Nov 2026 12:49:05 -0500",
+    "source": "BleepingComputer",
+    "summary": "Cybersecurity company Radware says attackers gained access to some of its customers&#x27; account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online. [...]",
+    "created_at": "2026-11-24T18:01:18.296433+00:00"
   }
 ]
