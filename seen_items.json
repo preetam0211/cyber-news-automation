@@ -9898,5 +9898,32 @@
     "source": "CybersecurityNews",
     "summary": "Microsoft disclosed a critical Microsoft 365 Copilot vulnerability that could let an attacker with limited privileges gain higher permissions over a network without any action from another user. The flaw, tracked as CVE-2026-50691, was released on No",
     "created_at": "2026-11-24T08:31:19.873042+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173994",
+    "title": "Windows Remote Access API Flaw Could Let Hackers Gain Full SYSTEM Control of PCs",
+    "link": "https://cybersecuritynews.com/windows-remote-access-api-flaw/",
+    "published": "Tue, 24 Nov 2026 09:12:12 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A vulnerability in the Windows Remote Access API lets an attacker with limited access to a computer run code with SYSTEM privileges. Microsoft fixed CVE-2026-119853 on November 10 as part of its November 2026 Patch Tuesday updates. The company rated ",
+    "created_at": "2026-11-24T09:31:07.731888+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174044",
+    "title": "Anthropic Unveils Claude That Review Pull Requests Work Fixes and Approves it",
+    "link": "https://cybersecuritynews.com/claude-that-review-pull-requests-work-fixes-and-approves-it/",
+    "published": "Tue, 24 Nov 2026 09:21:23 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Anthropic has launched Claude Ship in beta, letting Claude Code review GitHub pull requests, push fixes, and approve changes when a team’s policy allows it. A pull request, or PR, proposes merging code changes. Claude’s approval does not merge the co",
+    "created_at": "2026-11-24T09:31:19.091383+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174051",
+    "title": "Suzlon Energy Cyberattack – Company Confirms Critical Infrastructure Operational",
+    "link": "https://cybersecuritynews.com/suzlon-energy-cyberattack/",
+    "published": "Tue, 24 Nov 2026 09:28:06 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Suzlon Energy disclosed a cyber incident on November 23, 2026. It said it had seen no impact on its business-critical applications at the time of reporting. In a filing with India’s stock exchanges, the wind turbine maker said it took immediate steps",
+    "created_at": "2026-11-24T09:31:30.232187+00:00"
   }
 ]
