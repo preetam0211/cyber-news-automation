@@ -9979,5 +9979,14 @@
     "source": "CybersecurityNews",
     "summary": "A flaw in OpenSSH lets remote attackers sign in to certain Alpine Linux accounts without knowing a valid password or holding an SSH key. The vulnerability, tracked as CVE-2026-123158 and known as SSHole, affects unpatched servers that use the musl C ",
     "created_at": "2026-11-24T11:31:16.063865+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174208",
+    "title": "Hackers Continue EvilTokens Phishing After Microsoft Takedown to Hijack Microsoft 365 Accounts",
+    "link": "https://cybersecuritynews.com/eviltokens-phishing/",
+    "published": "Tue, 24 Nov 2026 11:36:09 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are still running EvilTokens phishing campaigns to take over Microsoft 365 accounts, even though Microsoft shut the service down on September 22, 2026. London’s Metropolitan Police had arrested two men in connection with the kit eleven days e",
+    "created_at": "2026-11-24T12:01:32.459998+00:00"
   }
 ]
