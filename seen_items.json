@@ -10114,5 +10114,14 @@
     "source": "BleepingComputer",
     "summary": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
     "created_at": "2026-11-24T19:01:18.543290+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+    "title": "New Inception extortion gang launches large-scale vishing campaign",
+    "link": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+    "published": "Tue, 24 Nov 2026 15:21:20 -0500",
+    "source": "BleepingComputer",
+    "summary": "A newly formed data extortion group named &#x27;Inception&#x27; has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
+    "created_at": "2026-11-24T20:31:13.243428+00:00"
   }
 ]
