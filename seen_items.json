@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=168713",
-    "title": "Tailscale SSH Flaws Could Let Hackers Gain Root Access Across Servers From One Compromised Device",
-    "link": "https://cybersecuritynews.com/tailscale-ssh-flaws/",
-    "published": "Sun, 25 Oct 2026 14:11:30 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A new security report warns that Tailscale SSH has flaws that could let a hacker move from one compromised device to root access on other servers. Tailscale SSH lets approved devices log in to each other over a private network. The report, called Tai",
-    "created_at": "2026-10-25T14:31:15.484256+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
     "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
     "link": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
@@ -10051,5 +10042,23 @@
     "source": "CybersecurityNews",
     "summary": "A new Linux backdoor called ZQAgent is giving attackers a long-term foothold on compromised servers. It can run commands, move through folders, read files and open network tunnels. It also hides itself to look like a normal system process. The malwar",
     "created_at": "2026-11-24T14:02:35.264475+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
+    "title": "McDonald's Japan data breach exposes customer location information",
+    "link": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
+    "published": "Tue, 24 Nov 2026 09:09:37 -0500",
+    "source": "BleepingComputer",
+    "summary": "McDonald&#x27;s Japan, the fast-food giant&#x27;s Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company&#x27;s official smartphone app. [...]",
+    "created_at": "2026-11-24T14:31:17.395028+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174259",
+    "title": "Critical VMware ESX Flaws Let Remote Attackers Execute Malicious Code on Virtualization Hosts",
+    "link": "https://cybersecuritynews.com/vmware-esx-host-vulnerabilities/",
+    "published": "Tue, 24 Nov 2026 14:11:04 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Broadcom has disclosed 23 VMware vulnerabilities, including two critical flaws that could let attackers run code directly on ESX hosts and a third that could let them access vCenter without signing in. The Broadcom security advisory, VMSA-2026-0011, ",
+    "created_at": "2026-11-24T14:31:23.669474+00:00"
   }
 ]
