@@ -9835,5 +9835,23 @@
     "source": "CybersecurityNews",
     "summary": "San Francisco, United States, November 23rd, 2026, CyberNewswire SplitSecure, the cybersecurity technology provider, today unveiled a new access control platform based on secret splitting technology. The platform is intended to replace traditional ac",
     "created_at": "2026-11-24T06:31:14.431565+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
+    "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
+    "link": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
+    "published": "Tue, 24 Nov 2026 11:32:45 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe critical vulnera",
+    "created_at": "2026-11-24T07:01:05.743984+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
+    "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
+    "link": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
+    "published": "Tue, 24 Nov 2026 11:32:57 +0530",
+    "source": "The Hacker News",
+    "summary": "OpenAI and Cisco have teamed up to launch Shirudo (meaning &quot;shield&quot; in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime.\n\n&quot;It lets agents write dynamic eBPF cont",
+    "created_at": "2026-11-24T07:01:10.447149+00:00"
   }
 ]
