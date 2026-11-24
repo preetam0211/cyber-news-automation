@@ -10069,5 +10069,41 @@
     "source": "BleepingComputer",
     "summary": "Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]",
     "created_at": "2026-11-24T15:31:30.913903+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174348",
+    "title": "McDonald’s Japan Confirms Data Breach – Customer Information and Location Data Exposed",
+    "link": "https://cybersecuritynews.com/mcdonalds-japan-data-breach/",
+    "published": "Tue, 24 Nov 2026 15:39:05 +0000",
+    "source": "CybersecurityNews",
+    "summary": "McDonald’s Japan has confirmed that a third party gained unauthorized access to customer information stored in the database behind its official mobile app. In a November 20, 2026, breach notice, the company said the affected records included product ",
+    "created_at": "2026-11-24T16:31:10.854026+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
+    "title": "Hackers compromise Check Point Servers in 22 organizations",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
+    "published": "Tue, 24 Nov 2026 11:15:23 -0500",
+    "source": "BleepingComputer",
+    "summary": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]",
+    "created_at": "2026-11-24T16:31:16.077429+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
+    "title": "European Commission confirms data theft in EU Academy breach",
+    "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
+    "published": "Tue, 24 Nov 2026 11:22:44 -0500",
+    "source": "BleepingComputer",
+    "summary": "The European Commission, the European Union&#x27;s main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
+    "created_at": "2026-11-24T16:31:21.138767+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
+    "title": "ShinyHunters resurfaces after FBI arrests, uses old PGP keys as proof",
+    "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
+    "published": "Tue, 24 Nov 2026 11:30:19 -0500",
+    "source": "BleepingComputer",
+    "summary": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
+    "created_at": "2026-11-24T16:31:28.559232+00:00"
   }
 ]
