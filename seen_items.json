@@ -9826,5 +9826,14 @@
     "source": "CybersecurityNews",
     "summary": "A critical flaw in simple-git, a popular Node.js library for running Git commands, can let attackers run their own commands on a server. The issue is tracked as CVE-2026-134815. It affects apps that pass untrusted input into Git arguments. The Nation",
     "created_at": "2026-11-24T06:01:13.373065+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173842",
+    "title": "SplitSecure Launches New Access Control Architecture for Humans and AI Agents",
+    "link": "https://cybersecuritynews.com/splitsecure-launches-new-access-control-architecture-for-humans-and-ai-agents/",
+    "published": "Tue, 24 Nov 2026 06:07:23 +0000",
+    "source": "CybersecurityNews",
+    "summary": "San Francisco, United States, November 23rd, 2026, CyberNewswire SplitSecure, the cybersecurity technology provider, today unveiled a new access control platform based on secret splitting technology. The platform is intended to replace traditional ac",
+    "created_at": "2026-11-24T06:31:14.431565+00:00"
   }
 ]
