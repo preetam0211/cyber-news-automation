@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-    "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
-    "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-    "published": "Sun, 25 Oct 2026 22:49:46 +0530",
-    "source": "The Hacker News",
-    "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619.\n\n&quot;In one case, the attacker",
-    "created_at": "2026-10-25T18:31:09.854248+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
     "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
     "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
