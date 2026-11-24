@@ -9952,5 +9952,23 @@
     "source": "CybersecurityNews",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added four vulnerabilities affecting VMware vCenter, SAP NetWeaver, Cisco Expressway, and Apache Roller to its Known Exploited Vulnerabilities (KEV) Catalog on November 20, 2026. In its",
     "created_at": "2026-11-24T10:31:30.755955+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
+    "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
+    "link": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
+    "published": "Tue, 24 Nov 2026 16:14:49 +0530",
+    "source": "The Hacker News",
+    "summary": "Norway&#x27;s National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft&#x27;s Azure API Management (APIM) that has affected multiple businesses in the country, including energy companies Equinor an",
+    "created_at": "2026-11-24T11:01:10.497093+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173922",
+    "title": "Hackers Bypass MFA Through Phone Scams to Access Microsoft 365, OneDrive and SharePoint Data",
+    "link": "https://cybersecuritynews.com/bypass-mfa-through-phone-scams/",
+    "published": "Tue, 24 Nov 2026 10:48:04 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Cybercriminals posing as corporate IT support are calling employees and tricking them into handing over access to Microsoft 365 accounts, even when multifactor authentication (MFA) is enabled. The attackers have used compromised accounts to steal ema",
+    "created_at": "2026-11-24T11:01:18.888330+00:00"
   }
 ]
