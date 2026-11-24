@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
-    "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
-    "link": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
-    "published": "Sun, 25 Oct 2026 11:49:38 -0400",
-    "source": "BleepingComputer",
-    "summary": "Researchers found a malicious AGENTS markdown instruction file in a customer&#x27;s Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
-    "created_at": "2026-10-25T16:01:12.281685+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
     "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
     "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
