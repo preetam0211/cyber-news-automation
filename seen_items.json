@@ -9880,5 +9880,23 @@
     "source": "CybersecurityNews",
     "summary": "An attacker using the CyberStrikeAI framework gained access to 3,392 user accounts and their active session tokens during a four-day cloud intrusion in October 2026. The operator also decrypted a bastion host’s database to recover 50 SSH private keys",
     "created_at": "2026-11-24T08:01:23.588090+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173939",
+    "title": "Critical N-able Mail Assure SSRF Vulnerability Allows Attackers to Reach Internal Systems via LDAP Sync",
+    "link": "https://cybersecuritynews.com/critical-n-able-mail-assure-ssrf-vulnerability/",
+    "published": "Tue, 24 Nov 2026 08:16:15 +0000",
+    "source": "CybersecurityNews",
+    "summary": "N-able has patched a critical vulnerability in MailAssure, also known as SpamExperts, that lets an attacker with privileged API access reach internal network services through the email security platform. The flaw, tracked as CVE-2026-134624, carries ",
+    "created_at": "2026-11-24T08:31:09.808697+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173972",
+    "title": "Microsoft 365 Copilot Flaw Lets Attackers Gain Elevated Privileges Without User Interaction",
+    "link": "https://cybersecuritynews.com/microsoft-365-copilot-flaw/",
+    "published": "Tue, 24 Nov 2026 08:28:18 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft disclosed a critical Microsoft 365 Copilot vulnerability that could let an attacker with limited privileges gain higher permissions over a network without any action from another user. The flaw, tracked as CVE-2026-50691, was released on No",
+    "created_at": "2026-11-24T08:31:19.873042+00:00"
   }
 ]
