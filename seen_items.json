@@ -9934,5 +9934,23 @@
     "source": "CybersecurityNews",
     "summary": "Google released a desktop Chrome security update on November 23, 2026, to fix CVE-2026-134401. This critical flaw could let a remote attacker run malicious code outside the browser sandbox. The Stable update covers Windows, macOS, and Linux. It conta",
     "created_at": "2026-11-24T10:01:12.408209+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html",
+    "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
+    "link": "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html",
+    "published": "Tue, 24 Nov 2026 14:04:20 +0530",
+    "source": "The Hacker News",
+    "summary": "A flaw in WHMCS&#x27;s shopping cart, the billing and automation platform many web hosting companies use to run their businesses, could allow anyone on the internet to retrieve customer records and administrator password hashes from an installation&#",
+    "created_at": "2026-11-24T10:31:17.268385+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173655",
+    "title": "CISA Warns of VMware vCenter, SAP NetWeaver, Cisco Expressway, and Apache Roller Flaws Exploited in Attacks",
+    "link": "https://cybersecuritynews.com/cisa-warns-vmware-sap-cisco-apache-roller-flaws-exploited/",
+    "published": "Tue, 24 Nov 2026 10:00:33 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added four vulnerabilities affecting VMware vCenter, SAP NetWeaver, Cisco Expressway, and Apache Roller to its Known Exploited Vulnerabilities (KEV) Catalog on November 20, 2026. In its",
+    "created_at": "2026-11-24T10:31:30.755955+00:00"
   }
 ]
