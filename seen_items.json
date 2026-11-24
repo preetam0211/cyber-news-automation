@@ -9817,5 +9817,14 @@
     "source": "CybersecurityNews",
     "summary": "Hackers are actively exploiting CVE-2026-76466, a critical vulnerability in Cisco Expressway that lets remote attackers run operating system commands with root privileges. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the fla",
     "created_at": "2026-11-24T05:31:07.349498+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173876",
+    "title": "Critical Node.js simple-git Library Vulnerability Enables Remote Code Execution Attacks",
+    "link": "https://cybersecuritynews.com/node-js-simple-git-library-flaw/",
+    "published": "Tue, 24 Nov 2026 05:55:37 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical flaw in simple-git, a popular Node.js library for running Git commands, can let attackers run their own commands on a server. The issue is tracked as CVE-2026-134815. It affects apps that pass untrusted input into Git arguments. The Nation",
+    "created_at": "2026-11-24T06:01:13.373065+00:00"
   }
 ]
