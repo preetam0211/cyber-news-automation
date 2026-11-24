@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
-    "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
-    "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
-    "published": "Sun, 25 Oct 2026 12:24:29 +0530",
-    "source": "The Hacker News",
-    "summary": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models.\n\n&quot;Based on the current state of alignment resea",
-    "created_at": "2026-10-25T08:01:09.986150+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=168713",
     "title": "Tailscale SSH Flaws Could Let Hackers Gain Root Access Across Servers From One Compromised Device",
     "link": "https://cybersecuritynews.com/tailscale-ssh-flaws/",
@@ -9862,5 +9853,32 @@
     "source": "CybersecurityNews",
     "summary": "A critical Bluetooth flaw in Elecbrakes trailer brake controllers could let someone nearby apply, adjust, or release a trailer’s brakes while it is being towed. The flaw, tracked as CVE-2026-96805, carries a 9.6 severity score. It requires no pairing",
     "created_at": "2026-11-24T07:31:22.778833+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173892",
+    "title": "Hackers Plant Backdoors in 6 WordPress Plugins to Steal Passwords and Take Over Websites",
+    "link": "https://cybersecuritynews.com/backdoors-in-6-wordpress-plugins/",
+    "published": "Tue, 24 Nov 2026 07:33:08 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers planted a remote-control backdoor in nine versions of six WordPress plugins from WP connect on November 22, 2026. The malware could let an attacker steal password hashes, run commands, and take over a website. But WordPress.org blocked the ta",
+    "created_at": "2026-11-24T08:01:08.972762+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173676",
+    "title": "Top 10 Best Attack Path Management Tools in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-attack-path-management/",
+    "published": "Tue, 24 Nov 2026 07:46:17 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A scanner hands you ten thousand findings; an attacker needs one chain. Attack path management flips vulnerability lists into graphs showing how a phishing foothold reaches the domain admin through misconfigurations, excess permissions, and credentia",
+    "created_at": "2026-11-24T08:01:16.335217+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173906",
+    "title": "AI-Powered Hackers Gain Access to 3,392 User Accounts and Decrypt 50 SSH Private Keys",
+    "link": "https://cybersecuritynews.com/ai-powered-hackers/",
+    "published": "Tue, 24 Nov 2026 07:47:50 +0000",
+    "source": "CybersecurityNews",
+    "summary": "An attacker using the CyberStrikeAI framework gained access to 3,392 user accounts and their active session tokens during a four-day cloud intrusion in October 2026. The operator also decrypted a bastion host’s database to recover 50 SSH private keys",
+    "created_at": "2026-11-24T08:01:23.588090+00:00"
   }
 ]
