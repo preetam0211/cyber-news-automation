@@ -9925,5 +9925,14 @@
     "source": "CybersecurityNews",
     "summary": "Suzlon Energy disclosed a cyber incident on November 23, 2026. It said it had seen no impact on its business-critical applications at the time of reporting. In a filing with India’s stock exchanges, the wind turbine maker said it took immediate steps",
     "created_at": "2026-11-24T09:31:30.232187+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174073",
+    "title": "Critical Google Chrome Flaw Could Let Hackers Execute Malicious Code Outside Browser Sandbox",
+    "link": "https://cybersecuritynews.com/critical-google-chrome-flaw/",
+    "published": "Tue, 24 Nov 2026 09:37:46 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Google released a desktop Chrome security update on November 23, 2026, to fix CVE-2026-134401. This critical flaw could let a remote attacker run malicious code outside the browser sandbox. The Stable update covers Windows, macOS, and Linux. It conta",
+    "created_at": "2026-11-24T10:01:12.408209+00:00"
   }
 ]
