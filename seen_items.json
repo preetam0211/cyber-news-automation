@@ -9988,5 +9988,32 @@
     "source": "CybersecurityNews",
     "summary": "Hackers are still running EvilTokens phishing campaigns to take over Microsoft 365 accounts, even though Microsoft shut the service down on September 22, 2026. London’s Metropolitan Police had arrested two men in connection with the kit eleven days e",
     "created_at": "2026-11-24T12:01:32.459998+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html",
+    "title": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
+    "link": "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html",
+    "published": "Tue, 24 Nov 2026 17:31:54 +0530",
+    "source": "The Hacker News",
+    "summary": "What if your biggest SOC budget problem isn&#x27;t how much you spend, but how much analyst time you lose?\n\nAccording to ANY.RUN&#x27;s estimates, SOC teams could recover 450 analyst hours per 1,000 investigated alerts through faster threat analysis ",
+    "created_at": "2026-11-24T13:01:27.499056+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
+    "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
+    "link": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
+    "published": "Tue, 24 Nov 2026 17:32:00 +0530",
+    "source": "The Hacker News",
+    "summary": "A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher James Forshaw showed in a write-up published yesterday.\n\nThe sam",
+    "created_at": "2026-11-24T13:02:17.188238+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174223",
+    "title": "Critical ASP.NET AntiCsrf Flaw Exploited in Attacks by triggering a web redirect on vulnerable apps",
+    "link": "https://cybersecuritynews.com/critical-asp-net-anticsrf-flaw-exploited/",
+    "published": "Tue, 24 Nov 2026 12:55:28 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Attackers are exploiting CVE-2026-131914, a critical flaw in Idunno: AntiCsrf, an old third-party library used by ASP.NET WebForms applications. watchTowr Intel reports that it saw attackers trigger web redirects on vulnerable applications to check w",
+    "created_at": "2026-11-24T13:02:18.738690+00:00"
   }
 ]
