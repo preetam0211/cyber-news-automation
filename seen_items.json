@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=168874",
-    "title": "Hackers Can Hijack OpenAI Codex and Claude Code Using Malicious Files in Downloads Folder",
-    "link": "https://cybersecuritynews.com/codex-and-claude-code-hijack/",
-    "published": "Mon, 26 Oct 2026 16:35:45 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A plain text file placed in the Downloads folder can trick AI coding agents into changing their settings, installing malware, or exposing login tokens. Forever Security discovered the risk after stopping an agent on a real customer’s computer from in",
-    "created_at": "2026-10-26T17:01:32.551488+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168889",
-    "title": "Microsoft Investigation Teams Issue Affecting Users in the United States",
-    "link": "https://cybersecuritynews.com/microsoft-investigation-teams-issue/",
-    "published": "Mon, 26 Oct 2026 17:15:22 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Microsoft has restored Microsoft Teams service after investigating an issue affecting some users in the United States on October 26, 2026. The company tracked the disruption under incident TM1526111 and said automatic scaling efforts had returned the",
-    "created_at": "2026-10-26T17:31:09.990406+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
     "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
     "link": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
@@ -10276,5 +10258,14 @@
     "source": "CybersecurityNews",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added three flaws affecting Drupal Core, Idunno AntiCsrf, and Optimizely Web Experimentation to its Known Exploited Vulnerabilities (KEV) Catalog on November 24, 2026. CISA cited eviden",
     "created_at": "2026-11-25T17:01:29.544169+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=175058",
+    "title": "U.S. Treasury’s FinCEN Confirms Cyberattack, Takes Systems Offline After Unauthorized Access",
+    "link": "https://cybersecuritynews.com/fincen-confirms-cyberattack/",
+    "published": "Wed, 25 Nov 2026 17:01:30 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The U.S. Treasury Department’s Financial Crimes Enforcement Network (FinCEN) has taken some systems offline after confirming unauthorized access to a limited part of its network. The bureau said the shutdown was a precaution while it investigates the",
+    "created_at": "2026-11-25T17:31:30.344032+00:00"
   }
 ]
