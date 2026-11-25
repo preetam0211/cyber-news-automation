@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=168746",
-    "title": "Microsoft Authenticator Flaw Lets Malicious Android Apps Steal Account Tokens With Zero Permissions",
-    "link": "https://cybersecuritynews.com/microsoft-authenticator-flaw/",
-    "published": "Mon, 26 Oct 2026 06:33:44 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Microsoft patched high-severity flaw CVE-2026-80097 (CVSS 8.6) in Authenticator for Android, allowing malicious apps with no declared permissions to steal work account access tokens due to improper authentication in its broker component. Microsoft cl",
-    "created_at": "2026-10-26T07:01:15.697929+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168742",
-    "title": "HTTP2Shell Vulnerability Extends Beyond HTTP, Affecting .NET, FFmpeg, ClickHouse, and Apache Arrow",
-    "link": "https://cybersecuritynews.com/http2shell-vulnerability/",
-    "published": "Mon, 26 Oct 2026 06:35:41 +0000",
-    "source": "CybersecurityNews",
-    "summary": "The HTTP2Shell vulnerability reaches beyond web traffic, with new research showing how the same Brotli decoder flaw (CVE-2026-111497) can disrupt .NET applications, FFmpeg media processing, ClickHouse servers, and Apache Arrow workloads. The findings",
-    "created_at": "2026-10-26T07:01:29.584589+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
     "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
     "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
@@ -10150,5 +10132,50 @@
     "source": "CybersecurityNews",
     "summary": "A Windows user searching for a screenshot tool was redirected to a fake download site and given a Microsoft-signed installer. But instead of installing the Snipping Tool, the installer led to a Microsoft Store app called Setup Assistant. That app ope",
     "created_at": "2026-11-25T06:31:16.003658+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html",
+    "title": "Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion",
+    "link": "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html",
+    "published": "Wed, 25 Nov 2026 12:07:06 +0530",
+    "source": "The Hacker News",
+    "summary": "Palo Alto Networks Unit 42 has disclosed that it&#x27;s tracking and has responded to &quot;numerous waves of vishing attacks&quot; orchestrated by Com-affiliated threat actors since August 2026 that have led to data theft and extortion attempts.\n\nTh",
+    "created_at": "2026-11-25T07:31:10.226405+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174466",
+    "title": "Remus Stealer Silently Installs Fake Google Sheets Extension to Steal Gmail Messages",
+    "link": "https://cybersecuritynews.com/remus-stealer/",
+    "published": "Wed, 25 Nov 2026 06:48:13 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Remus Stealer is silently installing a fake Google Sheets extension in Google Chrome to steal Gmail messages from signed-in users. The extension runs in the background on compromised Windows computers, reading new emails and sending their contents to",
+    "created_at": "2026-11-25T07:31:20.438270+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
+    "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
+    "link": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
+    "published": "Wed, 25 Nov 2026 12:20:19 +0530",
+    "source": "The Hacker News",
+    "summary": "An unknown threat actor has been using artificial intelligence (AI)-driven offensive tooling in a campaign targeting Check Point Security Management servers, impacting 22 distinct organizations across the world.\n\nThe intrusion activity, tracked by Gr",
+    "created_at": "2026-11-25T07:31:26.393012+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173758",
+    "title": "Top 10 Best Penetration Testing as a Service (PTaaS) Platforms in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-ptaas-platforms/",
+    "published": "Wed, 25 Nov 2026 07:22:12 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The annual pentest was built for a world that shipped software once a year. PTaaS fits the world that ships weekly: a platform that delivers human testing on demand, pipes findings into the tools developers already live in, and retests fixes in days ",
+    "created_at": "2026-11-25T07:31:36.423672+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174004",
+    "title": "Top 10 Best Red Team & Adversary Emulation Services in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-red-team-services/",
+    "published": "Wed, 25 Nov 2026 07:28:33 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A penetration test asks “what’s vulnerable?” A red team asks a harder question: “if a real adversary targeted you, would you detect and stop them before they reached the crown jewels?” These engagements emulate specific threat actors end to end initi",
+    "created_at": "2026-11-25T07:31:47.649975+00:00"
   }
 ]
