@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
-    "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
-    "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
-    "published": "Mon, 26 Oct 2026 06:26:52 -0400",
-    "source": "BleepingComputer",
-    "summary": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]",
-    "created_at": "2026-10-26T11:01:20.921395+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168814",
-    "title": "Kali Linux 2026.3 Released With 6 New Penetration Testing Tools and Linux Kernel 7.1",
-    "link": "https://cybersecuritynews.com/kali-linux-2026-3-released/",
-    "published": "Mon, 26 Oct 2026 10:26:52 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Kali Linux 2026.3 has been released as the third Kali update of 2026, bringing six new penetration testing tools, Linux kernel 7.1.5, KDE Plasma 6.7, refreshed image-building scripts, and a large set of Kali NetHunter changes. The release arrived on ",
-    "created_at": "2026-10-26T11:01:27.084848+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
     "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
     "link": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
@@ -10195,5 +10177,23 @@
     "source": "CybersecurityNews",
     "summary": "A Hisense smart TV continued sending audio fingerprints to advertising firm Nexxen even with personalized ads disabled, while a separate Enhanced Viewing Service setting kept viewing tracking active. Testing a Hisense 55U65QEVS running VIDAA U09.60 r",
     "created_at": "2026-11-25T11:01:14.423773+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
+    "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
+    "link": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
+    "published": "Wed, 25 Nov 2026 16:13:07 +0530",
+    "source": "The Hacker News",
+    "summary": "A former OpenAI employee accused of concealing a covert recording device at the company&#x27;s San Francisco offices will be allowed to be released from jail on a $1 million bond, a San Francisco federal court judge ruled Tuesday.\n\nAbdulrahman Alfoza",
+    "created_at": "2026-11-25T11:31:17.505407+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
+    "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
+    "published": "Wed, 25 Nov 2026 06:16:32 -0500",
+    "source": "BleepingComputer",
+    "summary": "Earlier this week, Microsoft resolved a known issue that was preventing some Microsoft 365 customers from accessing Office applications. [...]",
+    "created_at": "2026-11-25T11:31:24.967552+00:00"
   }
 ]
