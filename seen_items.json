@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=168747",
-    "title": "India’s Film Sensor Board Data Breach – Unreleased Scripts, 500+ Film Titles Exposed",
-    "link": "https://cybersecuritynews.com/indias-film-sensor-board-data-breach/",
-    "published": "Mon, 26 Oct 2026 06:15:31 +0000",
-    "source": "CybersecurityNews",
-    "summary": "India’s Central Board of Film Certification (CBFC) is investigating a reported data breach involving confidential documents linked to more than 500 film titles. The exposed records reportedly include shooting scripts, censor cut orders, certification",
-    "created_at": "2026-10-26T06:31:16.179507+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=168746",
     "title": "Microsoft Authenticator Flaw Lets Malicious Android Apps Steal Account Tokens With Zero Permissions",
     "link": "https://cybersecuritynews.com/microsoft-authenticator-flaw/",
@@ -10141,5 +10132,23 @@
     "source": "CybersecurityNews",
     "summary": "Microsoft has declared an internal “Code Red” after a nearly 24-hour Microsoft 365 outage disrupted Outlook, Teams, Copilot and Exchange Online on November 12 and 13, 2026. Reuters reported that the company is making it a top priority to prevent majo",
     "created_at": "2026-11-25T04:01:21.910152+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html",
+    "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
+    "link": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html",
+    "published": "Wed, 25 Nov 2026 11:51:12 +0530",
+    "source": "The Hacker News",
+    "summary": "WordPress has removed six WordPress plugins developed by WP Connect after they were backdoored on November 22, 2026, to enable arbitrary code execution on sites that have them installed, following a suspected compromise of the developer&#x27;s accoun",
+    "created_at": "2026-11-25T06:31:05.849806+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174463",
+    "title": "Vinci RAT Linked to Microsoft Store Raises Risk of Hackers Remotely Controlling Windows PCs",
+    "link": "https://cybersecuritynews.com/vinci-rat-linked-to-microsoft-store/",
+    "published": "Wed, 25 Nov 2026 06:30:10 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A Windows user searching for a screenshot tool was redirected to a fake download site and given a Microsoft-signed installer. But instead of installing the Snipping Tool, the installer led to a Microsoft Store app called Setup Assistant. That app ope",
+    "created_at": "2026-11-25T06:31:16.003658+00:00"
   }
 ]
