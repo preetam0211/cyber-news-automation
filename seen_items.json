@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
-    "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
-    "link": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
-    "published": "Mon, 26 Oct 2026 15:24:02 +0530",
-    "source": "The Hacker News",
-    "summary": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampered copies, spread outside the",
-    "created_at": "2026-10-26T11:01:15.023409+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
     "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
     "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
@@ -10195,5 +10186,14 @@
     "source": "CybersecurityNews",
     "summary": "Dell Technologies has patched a critical flaw in Dell Enterprise SONiC Distribution that could let a remote attacker with limited privileges run commands of their choice on an affected network switch. The vulnerability, tracked as CVE-2026-103782, co",
     "created_at": "2026-11-25T10:31:30.431312+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174604",
+    "title": "Hisense Smart TV Found Tracking What Users Watch Even With Personalized Ads Turned Off",
+    "link": "https://cybersecuritynews.com/hisense-smart-tv-tracking-users/",
+    "published": "Wed, 25 Nov 2026 10:36:34 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A Hisense smart TV continued sending audio fingerprints to advertising firm Nexxen even with personalized ads disabled, while a separate Enhanced Viewing Service setting kept viewing tracking active. Testing a Hisense 55U65QEVS running VIDAA U09.60 r",
+    "created_at": "2026-11-25T11:01:14.423773+00:00"
   }
 ]
