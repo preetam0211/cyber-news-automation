@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=168735",
-    "title": "Hacker Exploits Critical PHP2Shell Flaws to Win $2,000 Bitcoin Challenge, Releases PoC",
-    "link": "https://cybersecuritynews.com/php2shell-flaws-exploited/",
-    "published": "Mon, 26 Oct 2026 03:41:52 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A security researcher known online as killa has won a public Bitcoin challenge by using two critical PHP flaws to reach a test server. The winning run took 19.28 hours. The prize pot was 0.02511679 BTC, worth $2,021.22 at the time of the win on Octob",
-    "created_at": "2026-10-26T04:01:13.035588+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=168747",
     "title": "India’s Film Sensor Board Data Breach – Unreleased Scripts, 500+ Film Titles Exposed",
     "link": "https://cybersecuritynews.com/indias-film-sensor-board-data-breach/",
@@ -10141,5 +10132,14 @@
     "source": "CybersecurityNews",
     "summary": "The Central Intelligence Agency (CIA) and the Office of the Director of National Intelligence (ODNI) recently discovered a cyberattack that exposed some unclassified U.S. intelligence information. The intrusion affected a shared network used to analy",
     "created_at": "2026-11-25T03:01:13.040258+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174433",
+    "title": "Microsoft Declares Code Red After Historic 24-Hour Outage Disrupts Outlook, Teams and Copilot",
+    "link": "https://cybersecuritynews.com/microsoft-declares-code-red/",
+    "published": "Wed, 25 Nov 2026 03:05:16 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Microsoft has declared an internal “Code Red” after a nearly 24-hour Microsoft 365 outage disrupted Outlook, Teams, Copilot and Exchange Online on November 12 and 13, 2026. Reuters reported that the company is making it a top priority to prevent majo",
+    "created_at": "2026-11-25T04:01:21.910152+00:00"
   }
 ]
