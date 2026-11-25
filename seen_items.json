@@ -10213,5 +10213,41 @@
     "source": "CybersecurityNews",
     "summary": "An Iran-linked cyberespionage group called Volant Manticore used a fake résumé to target a Cyprus-based airline and later turned to healthcare-themed phishing in Saudi Arabia. Both campaigns delivered KuboShell, a newly documented Windows backdoor th",
     "created_at": "2026-11-25T12:01:41.677853+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
+    "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
+    "link": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
+    "published": "Wed, 25 Nov 2026 16:53:26 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical flaw impacting Drupal to its Known Exploited Vulnerabilities (KEV) catalog, requiring federal agencies to apply the fixes by November 27, 2026.\n\nThe vulnerab",
+    "created_at": "2026-11-25T12:31:07.738585+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
+    "title": "Credential Remediation Is Slow When You Don’t Know What Will Break",
+    "link": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
+    "published": "Wed, 25 Nov 2026 17:21:48 +0530",
+    "source": "The Hacker News",
+    "summary": "TL;DR\n\n\n  More than 64% still valid after four years: GitGuardian’s State of Secrets Sprawl 2026 found that most valid secrets discovered in 2022 still worked in January 2026, because teams stall on what a revoke will break.\n  Validity-only triage mi",
+    "created_at": "2026-11-25T12:31:13.960828+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174676",
+    "title": "Hackers Use Autonomous AI Agents to Steal Credentials and Breach Corporate Networks",
+    "link": "https://cybersecuritynews.com/hackers-use-autonomous-ai-agents-2/",
+    "published": "Wed, 25 Nov 2026 12:11:01 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers used autonomous AI agents to steal credentials, move between corporate servers, and probe cloud systems in more than 10 campaigns tracked from July through September 2026. The activity targeted government, logistics, hospitality, manufacturin",
+    "created_at": "2026-11-25T12:31:23.639571+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174686",
+    "title": "Fake WordPress Plugin Lets Hackers Bypass 2FA and Run Malicious Scripts on Visitors",
+    "link": "https://cybersecuritynews.com/fake-wordpress-plugin/",
+    "published": "Wed, 25 Nov 2026 12:14:08 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A fake WordPress plugin gives attackers two ways to abuse a compromised website: it lets them sign in without completing two-factor authentication (2FA), and it runs attacker-controlled JavaScript in the browsers of visitors who are not logged in. Th",
+    "created_at": "2026-11-25T12:31:31.541267+00:00"
   }
 ]
