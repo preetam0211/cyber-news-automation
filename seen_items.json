@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
-    "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
-    "link": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
-    "published": "Mon, 26 Oct 2026 10:00:10 -0400",
-    "source": "BleepingComputer",
-    "summary": "A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]",
-    "created_at": "2026-10-26T14:31:51.494071+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
     "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
     "link": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
@@ -10249,5 +10240,14 @@
     "source": "CybersecurityNews",
     "summary": "Adobe published security updates on November 24, 2026, to fix critical vulnerabilities in Adobe Experience Manager and Adobe Campaign Classic. Some of the flaws could let attackers run malicious code on affected servers. Others could allow attackers ",
     "created_at": "2026-11-25T14:31:23.913946+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174791",
+    "title": "Hackers Are Exploiting a Critical Drupal Flaw to Target Websites Without Needing a Password",
+    "link": "https://cybersecuritynews.com/drupal-critical-security-flaw/",
+    "published": "Wed, 25 Nov 2026 14:51:54 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers are exploiting CVE-2026-132165, a critical flaw in Drupal core that can let them take over a website or run code on its server without a password. The Drupal Security Team’s advisory says attacks against live sites were reported as early as N",
+    "created_at": "2026-11-25T15:01:22.607098+00:00"
   }
 ]
