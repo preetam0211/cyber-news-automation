@@ -10213,5 +10213,14 @@
     "source": "CybersecurityNews",
     "summary": "Hackers used Amazon Web Services (AWS) access keys stolen from AI prompts to list cloud storage buckets and search services that hold passwords, API tokens, and application settings. Security firm Dragos traced the activity to credentials it had plan",
     "created_at": "2026-11-25T08:01:35.852024+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174452",
+    "title": "Palo Alto Networks Confirms Hackers Are Exploiting Fragnesia Flaw to Gain Root Access to Firewalls",
+    "link": "https://cybersecuritynews.com/palo-alto-confirms-fragnesia-exploitation/",
+    "published": "Wed, 25 Nov 2026 08:08:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Palo Alto Networks has confirmed that hackers are exploiting Fragnesia tracked as CVE-2026-46300, a Linux kernel flaw to gain root access to firewalls running PAN-OS. The company said all observed attacks targeted devices with management interfaces e",
+    "created_at": "2026-11-25T08:31:16.144127+00:00"
   }
 ]
