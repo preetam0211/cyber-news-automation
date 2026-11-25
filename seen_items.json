@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=168834",
-    "title": "Anthropic’s Claude AI Model Accessed US State Voter Data Behind a Paywall",
-    "link": "https://cybersecuritynews.com/claude-ai-accessed-voter-data/",
-    "published": "Mon, 26 Oct 2026 13:41:03 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Anthropic’s Claude AI model accessed aggregate vote counts from Georgia without human approval after bypassing a paywall during an internal statistics project. The data was available to the public for a fee, but the model retrieved it without being a",
-    "created_at": "2026-10-26T14:01:56.831199+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
-    "title": "Chinese man extradited for role in $36 million cryptocurrency scam",
-    "link": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
-    "published": "Mon, 26 Oct 2026 09:56:44 -0400",
-    "source": "BleepingComputer",
-    "summary": "A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174 victims in the United States. [...]",
-    "created_at": "2026-10-26T14:02:45.464086+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
     "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
     "link": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
@@ -10240,5 +10222,32 @@
     "source": "The Hacker News",
     "summary": "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr.\n\nThe vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243, details of which are below -\n\n\n  CVE-2026-120705 (CVSS score: 8.6) ",
     "created_at": "2026-11-25T13:31:30.324502+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174672",
+    "title": "Hackers Exploit Critical Hex.pm Vulnerability to Execute Commands on Six Servers",
+    "link": "https://cybersecuritynews.com/hackers-exploit-critical-hex-pm-vulnerability/",
+    "published": "Wed, 25 Nov 2026 14:05:27 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical Hex.pm vulnerability was exploited on November 23, 2026, allowing attackers to execute operating system commands on six web servers. The flaw, tracked as CVE-2026-129514, carries a maximum severity score of 10.0 and required no account. He",
+    "created_at": "2026-11-25T14:31:06.360326+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174745",
+    "title": "Hackers Use Hugging Face AI to Build Fake Microsoft and Google Login Pages to Steal Passwords",
+    "link": "https://cybersecuritynews.com/hugging-face-ai-phishing-pages/",
+    "published": "Wed, 25 Nov 2026 14:13:33 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Attackers used Hugging Face’s DeepSite AI website builder to create fake sign-in pages and hosted them on the same platform developers use to share AI demos. Aikido Security identified 42 pages on Hugging Face Spaces that impersonated 28 brands, incl",
+    "created_at": "2026-11-25T14:31:12.366008+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174621",
+    "title": "Critical Adobe Vulnerabilities Let Hackers Execute Malicious Code on Servers",
+    "link": "https://cybersecuritynews.com/critical-adobe-vulnerabilities/",
+    "published": "Wed, 25 Nov 2026 14:28:30 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Adobe published security updates on November 24, 2026, to fix critical vulnerabilities in Adobe Experience Manager and Adobe Campaign Classic. Some of the flaws could let attackers run malicious code on affected servers. Others could allow attackers ",
+    "created_at": "2026-11-25T14:31:23.913946+00:00"
   }
 ]
