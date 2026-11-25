@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
-    "title": "DreamHost forces password resets in ongoing \"incident\"",
-    "link": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
-    "published": "Mon, 26 Oct 2026 15:26:20 -0400",
-    "source": "BleepingComputer",
-    "summary": "DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. [...]",
-    "created_at": "2026-10-26T19:31:12.321989+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
-    "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
-    "link": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
-    "published": "Mon, 26 Oct 2026 23:42:22 +0530",
-    "source": "The Hacker News",
-    "summary": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025.\n\nAccording to Dutch e-commerce security company Sansec, the activity is designed to add a small piece of ",
-    "created_at": "2026-10-26T20:01:13.139713+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=168893",
     "title": "Hackers Weaponize Public PHP2Shell Exploit Code to Target Universities and Business Websites",
     "link": "https://cybersecuritynews.com/public-php2shell-exploit-code/",
@@ -10249,5 +10231,14 @@
     "source": "CybersecurityNews",
     "summary": "The U.S. Treasury Department’s Financial Crimes Enforcement Network (FinCEN) has taken some systems offline after confirming unauthorized access to a limited part of its network. The bureau said the shutdown was a precaution while it investigates the",
     "created_at": "2026-11-25T17:31:30.344032+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+    "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+    "link": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+    "published": "Wed, 25 Nov 2026 14:39:31 -0500",
+    "source": "BleepingComputer",
+    "summary": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
+    "created_at": "2026-11-25T20:01:17.104848+00:00"
   }
 ]
