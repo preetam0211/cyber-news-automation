@@ -10249,5 +10249,23 @@
     "source": "CybersecurityNews",
     "summary": "A fake WordPress plugin gives attackers two ways to abuse a compromised website: it lets them sign in without completing two-factor authentication (2FA), and it runs attacker-controlled JavaScript in the browsers of visitors who are not logged in. Th",
     "created_at": "2026-11-25T12:31:31.541267+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
+    "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
+    "link": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
+    "published": "Wed, 25 Nov 2026 18:00:08 +0530",
+    "source": "The Hacker News",
+    "summary": "The U.S. Treasury Department&#x27;s Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in &quot;unauthorized access to a limited subset of its systems,&quot; the bureau said on Tuesday. As a precautio",
+    "created_at": "2026-11-25T13:31:24.084015+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
+    "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+    "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
+    "published": "Wed, 25 Nov 2026 18:18:54 +0530",
+    "source": "The Hacker News",
+    "summary": "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr.\n\nThe vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243, details of which are below -\n\n\n  CVE-2026-120705 (CVSS score: 8.6) ",
+    "created_at": "2026-11-25T13:31:30.324502+00:00"
   }
 ]
