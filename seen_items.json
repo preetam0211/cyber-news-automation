@@ -10132,5 +10132,14 @@
     "source": "BleepingComputer",
     "summary": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...]",
     "created_at": "2026-11-24T22:01:15.668450+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174416",
+    "title": "CIA and ODNI Reportedly Suffer Cyberattack Exposing Unclassified U.S. Intelligence Information",
+    "link": "https://cybersecuritynews.com/cia-and-odni-suffer-cyberattack/",
+    "published": "Wed, 25 Nov 2026 02:32:38 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The Central Intelligence Agency (CIA) and the Office of the Director of National Intelligence (ODNI) recently discovered a cyberattack that exposed some unclassified U.S. intelligence information. The intrusion affected a shared network used to analy",
+    "created_at": "2026-11-25T03:01:13.040258+00:00"
   }
 ]
