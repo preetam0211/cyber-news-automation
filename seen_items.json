@@ -10267,5 +10267,23 @@
     "source": "CybersecurityNews",
     "summary": "Microsoft has fixed a Microsoft 365 startup issue that left some Windows users staring at a blank white window when they opened Word, Excel, or Outlook. The window showed no text or buttons, and users who couldn’t dismiss it couldn’t use the app behi",
     "created_at": "2026-11-25T16:02:41.063309+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174760",
+    "title": "Switzerland Confirms First AI-Agent Cyberattacks That Successfully Compromised IT Systems",
+    "link": "https://cybersecuritynews.com/switzerland-ai-agent-cyberattacks/",
+    "published": "Wed, 25 Nov 2026 16:02:38 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Switzerland’s National Cyber Security Center (NCSC) has confirmed its first cases of AI-assisted cyberattacks against organizations in the country. The attacks affected companies and critical infrastructure operators across at least two sectors. In e",
+    "created_at": "2026-11-25T16:31:07.277091+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
+    "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
+    "published": "Wed, 25 Nov 2026 11:13:40 -0500",
+    "source": "BleepingComputer",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers used by food retailers to manage commercial refrigeration, HVAC, and lighting systems. [...]",
+    "created_at": "2026-11-25T16:31:18.514231+00:00"
   }
 ]
