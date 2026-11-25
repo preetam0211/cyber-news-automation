@@ -1,50 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=168431",
-    "title": "Top 10 Best Hardware Security Modules (HSM) in 2026 [Ranked & Scored]",
-    "link": "https://cybersecuritynews.com/best-hsm-solutions/",
-    "published": "Mon, 26 Oct 2026 09:40:03 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Every root of trust ends in an HSM the tamper-resistant hardware where CA keys, payment keys, and code-signing keys live beyond software’s reach. Two forces reshape the 2026 shortlist: FIPS 140-3 transitions retiring old validations, and post-quantum",
-    "created_at": "2026-10-26T10:01:12.627445+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168478",
-    "title": "Top 10 Best Sensitive Data Discovery Tools in 2026 [Ranked & Scored]",
-    "link": "https://cybersecuritynews.com/best-data-discovery-tools/",
-    "published": "Mon, 26 Oct 2026 09:46:25 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Every data-security control inherits the same dependency: an inventory someone actually believes. Discovery is where that inventory comes from and in 2026 the job has hardened, because shadow data multiplies in SaaS and warehouses, AI pipelines copy ",
-    "created_at": "2026-10-26T10:01:23.323769+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168763",
-    "title": "OpenSSL 4.1.0 Released With DTLS 1.3 and Post-Quantum Security Improvements",
-    "link": "https://cybersecuritynews.com/openssl-4-1-0-released/",
-    "published": "Mon, 26 Oct 2026 09:46:43 +0000",
-    "source": "CybersecurityNews",
-    "summary": "OpenSSL has released version 4.1.0, bringing DTLS 1.3 support, faster cryptographic operations, and new tools for developers building secure network services. Published on October 23, the update is a feature release, not a standalone security patch. ",
-    "created_at": "2026-10-26T10:01:34.508003+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168539",
-    "title": "Top 10 Best Data Access Governance Tools in 2026 [Ranked & Scored]",
-    "link": "https://cybersecuritynews.com/best-data-access-governance/",
-    "published": "Mon, 26 Oct 2026 09:56:03 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Ask any enterprise “who can read the M&amp;A folder?” and watch the room go quiet effective access is buried under nested groups, inherited shares, service-account grants, and warehouse roles nobody has reviewed since the migration. Data access gover",
-    "created_at": "2026-10-26T10:01:40.371545+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-7-new-tools-desktop-updates/",
-    "title": "Kali Linux 2026.3 released with 7 new tools, desktop updates",
-    "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-7-new-tools-desktop-updates/",
-    "published": "Mon, 26 Oct 2026 06:26:52 -0400",
-    "source": "BleepingComputer",
-    "summary": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]",
-    "created_at": "2026-10-26T10:31:09.277793+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
     "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
     "link": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
@@ -10222,5 +10177,23 @@
     "source": "The Hacker News",
     "summary": "An attacker ran operating system commands on Monday on six production servers of Hex.pm, the package registry that Elixir and Erlang developers fetch their dependencies from.\n\nThe flaw used in the attack had been in the registry&#x27;s code since Feb",
     "created_at": "2026-11-25T10:01:11.210342+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
+    "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
+    "published": "Wed, 25 Nov 2026 05:10:20 -0500",
+    "source": "BleepingComputer",
+    "summary": "The Drupal security team has confirmed that a critical vulnerability that lets attackers hijack unpatched sites has been actively exploited since at least Thursday. [...]",
+    "created_at": "2026-11-25T10:31:19.123345+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174473",
+    "title": "Critical 9.9 Dell Enterprise SONiC Flaw Could Let Hackers Execute Malicious Commands on Network Switches",
+    "link": "https://cybersecuritynews.com/critical-dell-enterprise-sonic-flaw/",
+    "published": "Wed, 25 Nov 2026 10:20:51 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Dell Technologies has patched a critical flaw in Dell Enterprise SONiC Distribution that could let a remote attacker with limited privileges run commands of their choice on an affected network switch. The vulnerability, tracked as CVE-2026-103782, co",
+    "created_at": "2026-11-25T10:31:30.431312+00:00"
   }
 ]
