@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
-    "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
-    "link": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
-    "published": "Mon, 26 Oct 2026 19:36:13 +0530",
-    "source": "The Hacker News",
-    "summary": "This2Shell, That2Shell, Everything2Shell. That&#x27;s pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are already being used in attacks, an",
-    "created_at": "2026-10-26T15:01:51.930732+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168857",
-    "title": "Researchers Use AI Agents to Breach Anthropic’s Internal Systems in Just 12 Hours",
-    "link": "https://cybersecuritynews.com/anthropic-internal-system-breach/",
-    "published": "Mon, 26 Oct 2026 14:42:50 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Cybersecurity startup Cathedral says its AI agents found routes into Anthropic’s internal business systems in less than 12 hours, exposing how fast automated security tools can find and chain flaws across connected services. The work took place throu",
-    "created_at": "2026-10-26T15:02:48.015787+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/",
     "title": "Microsoft releases emergency .NET patches for critical Brotli flaw",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/",
@@ -10249,5 +10231,41 @@
     "source": "CybersecurityNews",
     "summary": "Hackers are exploiting CVE-2026-132165, a critical flaw in Drupal core that can let them take over a website or run code on its server without a password. The Drupal Security Team’s advisory says attacks against live sites were reported as early as N",
     "created_at": "2026-11-25T15:01:22.607098+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
+    "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
+    "link": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
+    "published": "Wed, 25 Nov 2026 10:00:00 -0500",
+    "source": "BleepingComputer",
+    "summary": "Eclypsium&#x27;s November InfraTrust report warns that most infrastructure security advisories addressing exploited vulnerabilities over the past month involve flaws in third-party software bundled into products rather than code developed by the vend",
+    "created_at": "2026-11-25T15:31:10.750217+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
+    "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
+    "link": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
+    "published": "Wed, 25 Nov 2026 10:00:10 -0500",
+    "source": "BleepingComputer",
+    "summary": "Penetration testers spend a significant portion of their engagements on documentation, reporting, and other tasks outside of testing. PentestPad explains how AI can reduce this workload, help teams handle more engagements, and keep sensitive client d",
+    "created_at": "2026-11-25T15:31:22.473399+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174777",
+    "title": "Hackers Exploit Fortinet Flaws to Breach Commercial Ships and Access Control Networks",
+    "link": "https://cybersecuritynews.com/fortinet-flaws-to-breach-commercial-ships/",
+    "published": "Wed, 25 Nov 2026 15:22:40 +0000",
+    "source": "CybersecurityNews",
+    "summary": "U.S. authorities are investigating whether Iran was behind cyberattacks that may have compromised up to 50 commercial ships. A U.S. official familiar with the inquiry told NPR that hackers exploited known flaws in Fortinet FortiGate devices used aboa",
+    "created_at": "2026-11-25T15:31:29.973157+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174759",
+    "title": "SOC Management in 2027: 5 Steps to Combat AI-Driven Threats, Scale Operations, and Drive Innovation",
+    "link": "https://cybersecuritynews.com/soc-management-in-2027/",
+    "published": "Wed, 25 Nov 2026 15:30:46 +0000",
+    "source": "CybersecurityNews",
+    "summary": "As we move into 2027, SOCs and MSSPs face a growing imbalance between the speed at which threats evolve and the resources available to combat them. AI-assisted attacks, increasingly sophisticated phishing campaigns, expanding attack surfaces, and gro",
+    "created_at": "2026-11-25T15:31:42.993158+00:00"
   }
 ]
