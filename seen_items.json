@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
-    "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
-    "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
-    "published": "Mon, 26 Oct 2026 11:33:48 +0530",
-    "source": "The Hacker News",
-    "summary": "A malicious instruction file sitting in a developer&#x27;s Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm Forever Security said in a report published last week.\n\nThe company caught the attemp",
-    "created_at": "2026-10-26T08:01:02.675319+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
     "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
     "link": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
@@ -10177,5 +10168,50 @@
     "source": "CybersecurityNews",
     "summary": "A penetration test asks “what’s vulnerable?” A red team asks a harder question: “if a real adversary targeted you, would you detect and stop them before they reached the crown jewels?” These engagements emulate specific threat actors end to end initi",
     "created_at": "2026-11-25T07:31:47.649975+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174110",
+    "title": "Top 10 Best Managed Vulnerability Scanning Services in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-managed-vulnerability-scanning/",
+    "published": "Wed, 25 Nov 2026 07:33:07 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Buying a scanner is easy; running one well is a job nobody has time for credentialed scans that don’t break production, results triaged so the team sees the ten findings that matter instead of ten thousand, and false positives filtered before they er",
+    "created_at": "2026-11-25T08:01:14.710719+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174196",
+    "title": "Top 10 Best Email Security Solutions in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-email-security/",
+    "published": "Wed, 25 Nov 2026 07:35:50 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Email remains the front door for most breaches, and the attacks that get through now are the ones with no payload to scan the invoice-fraud message, the lookalike-domain request, the compromised-vendor thread. The solutions below separate on catch ra",
+    "created_at": "2026-11-25T08:01:22.414965+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174385",
+    "title": "Top 10 Best Cloud Email Security Solutions (Microsoft 365 & Google) in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-cloud-email-security/",
+    "published": "Wed, 25 Nov 2026 07:37:48 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Once your mailboxes live in Microsoft 365 or Google Workspace, the old inline gateway starts to look like a detour and a new class of tools plugs in by API instead, reading the same mailbox the platform’s own filter does and catching what slips past ",
+    "created_at": "2026-11-25T08:01:28.547054+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
+    "title": "Hackers reportedly breached CIA intelligence analysis system",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
+    "published": "Wed, 25 Nov 2026 02:45:03 -0500",
+    "source": "BleepingComputer",
+    "summary": "Unknown attackers have reportedly breached an open-source intelligence analysis system at the US Central Intelligence Agency (CIA) [...]",
+    "created_at": "2026-11-25T08:01:33.325065+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174479",
+    "title": "Hackers Use Stolen AI Prompt Data to Search AWS Cloud Storage and Secret Management Services",
+    "link": "https://cybersecuritynews.com/stolen-ai-prompt-data/",
+    "published": "Wed, 25 Nov 2026 07:46:19 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers used Amazon Web Services (AWS) access keys stolen from AI prompts to list cloud storage buckets and search services that hold passwords, API tokens, and application settings. Security firm Dragos traced the activity to credentials it had plan",
+    "created_at": "2026-11-25T08:01:35.852024+00:00"
   }
 ]
