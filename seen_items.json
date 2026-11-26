@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=168902",
-    "title": "Hackers Can Abuse Logged-In WordPress Admin Sessions to Secretly Install PHP Backdoors",
-    "link": "https://cybersecuritynews.com/logged-in-wordpress-admin-sessions/",
-    "published": "Tue, 27 Oct 2026 02:08:23 +0000",
-    "source": "CybersecurityNews",
-    "summary": "WordPress administrators often keep their dashboard open in the same browser they use for everyday browsing. A new attack chain shows why that habit is risky. Researchers have documented a JavaScript loader that waits for a signed-in administrator to",
-    "created_at": "2026-10-27T03:31:08.168260+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=168905",
     "title": "New DarkCore RAT Targets Gmail and WhatsApp Sessions While Hiding Behind Victims’ IP Addresses",
     "link": "https://cybersecuritynews.com/new-darkcore-rat/",
@@ -10204,5 +10195,14 @@
     "source": "BleepingComputer",
     "summary": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]",
     "created_at": "2026-11-25T22:31:09.341194+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=175085",
+    "title": "1Password Hacked – Attackers Breach Backend Systems and Steal Customer Data",
+    "link": "https://cybersecuritynews.com/1password-hacked-2/",
+    "published": "Thu, 26 Nov 2026 03:04:19 +0000",
+    "source": "CybersecurityNews",
+    "summary": "1Password disclosed on November 25, 2026, that an attacker compromised an employee’s corporate GitHub account and used it to steal customer data from the company’s backend systems. The stolen records included names, sign-in email addresses, and inter",
+    "created_at": "2026-11-26T03:31:08.748447+00:00"
   }
 ]
