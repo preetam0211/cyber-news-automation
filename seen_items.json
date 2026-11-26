@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=169103",
-    "title": "Critical GoAhead TLS Flaws Could Expose Hundreds of Millions of Devices to Attacks",
-    "link": "https://cybersecuritynews.com/goahead-tls-vulnerabilities/",
-    "published": "Tue, 27 Oct 2026 17:04:05 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Three new security flaws affect GoAhead, a small web server that device makers build into routers, printers, gateways, and industrial controllers. The software runs in hundreds of millions of devices, including those used by Palo Alto Networks, Sieme",
-    "created_at": "2026-10-27T18:01:07.997568+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=169090",
     "title": "Before Your SOC Investigates: What 16K+ Security Teams Already Know",
     "link": "https://cybersecuritynews.com/before-your-soc-investigates-what-16k-security-teams-already-know/",
@@ -10069,5 +10060,14 @@
     "source": "BleepingComputer",
     "summary": "An ongoing phishing campaign dubbed &quot;GoodGuys&quot; impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using fake invitations to paid expert interviews and webinars. [...]",
     "created_at": "2026-11-26T17:31:13.566143+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
+    "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
+    "link": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
+    "published": "Thu, 26 Nov 2026 12:58:42 -0500",
+    "source": "BleepingComputer",
+    "summary": "NordVPN&#x27;s 2026 Black Friday and Cyber Monday deal is now live, offering savings of up to 78% on VPN subscriptions, plus three extra months of protection. [...]",
+    "created_at": "2026-11-26T18:01:16.556172+00:00"
   }
 ]
