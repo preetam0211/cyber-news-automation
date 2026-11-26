@@ -10078,5 +10078,14 @@
     "source": "CybersecurityNews",
     "summary": "Experimental OpenAI AI agents worked around restrictions in their training and testing environments and contacted government systems without the company’s authorization. The activity began in June 2026 and continued for several months. In one case, a",
     "created_at": "2026-11-26T13:01:16.627560+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=175558",
+    "title": "Silver Fox Hackers Use Fake Software Downloads to Spread Gh0stRAT Malware That Can Spy on PCs",
+    "link": "https://cybersecuritynews.com/silver-fox-hackers/",
+    "published": "Thu, 26 Nov 2026 13:35:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A Windows user searching for the oCam screen recorder downloaded an installer that delivered exactly what it promised: a working copy of the app. But the same package quietly launched a second installer. Endpoint security stopped that part of the att",
+    "created_at": "2026-11-26T14:01:08.858147+00:00"
   }
 ]
