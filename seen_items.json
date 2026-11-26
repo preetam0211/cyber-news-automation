@@ -10033,5 +10033,14 @@
     "source": "BleepingComputer",
     "summary": "NordVPN&#x27;s 2026 Black Friday and Cyber Monday deal is now live, offering savings of up to 78% on VPN subscriptions, plus three extra months of protection. [...]",
     "created_at": "2026-11-26T18:01:16.556172+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
+    "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+    "link": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
+    "published": "Fri, 27 Nov 2026 01:09:57 +0530",
+    "source": "The Hacker News",
+    "summary": "A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way you find and install one can change what it does. Ch",
+    "created_at": "2026-11-26T20:31:15.921256+00:00"
   }
 ]
