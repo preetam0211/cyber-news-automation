@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=168752",
-    "title": "OpenAI Codex Breaks USB Encryption in Minutes, Exposing Hardcoded Keys and Security Flaws",
-    "link": "https://cybersecuritynews.com/openai-codex-breaks-usb-encryption-in-minutes/",
-    "published": "Tue, 27 Oct 2026 05:40:35 +0000",
-    "source": "CybersecurityNews",
-    "summary": "OpenAI Codex helped researcher Xusheng Li uncover flaws in four USB protection products, including hardcoded encryption keys and hidden accounts that allowed files to be decrypted without the owner’s password. In one test, Codex identified the main w",
-    "created_at": "2026-10-27T06:01:30.375259+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168927",
-    "title": "Hackers Use AI Agents to Target Over 2,250 Microsoft 365 Tenants Through ConnectWise",
-    "link": "https://cybersecuritynews.com/hackers-use-ai-agents/",
-    "published": "Tue, 27 Oct 2026 06:11:26 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Hackers used AI agents and stolen ConnectWise application credentials to attempt access to more than 2,250 Microsoft 365 tenants, according to Microsoft’s technical investigation report. Microsoft attributed the campaign to Storm-0940, a China-state-",
-    "created_at": "2026-10-27T06:31:09.059938+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
     "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
     "link": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
@@ -10141,5 +10123,23 @@
     "source": "CybersecurityNews",
     "summary": "SolarWinds released Serv-U 2026.4 on November 24, 2026, fixing 18 vulnerabilities, including nine critical flaws, two of which could grant attackers root access on Linux servers, while the risk is lower on Windows. However, the same update also fixes",
     "created_at": "2026-11-26T06:01:19.234186+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174697",
+    "title": "Roundcube Webmail Flaws Could Let Hackers Execute Malicious Code and Expose Sensitive Data",
+    "link": "https://cybersecuritynews.com/roundcube-webmail-flaws/",
+    "published": "Thu, 26 Nov 2026 06:05:33 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Roundcube released Webmail versions 1.6.22 and 1.7.7 on November 23, 2026, to address 12 security flaws. The updates fix weaknesses in how the browser-based email client handles attachments, displays messages, and connects to mail servers. The releas",
+    "created_at": "2026-11-26T06:31:11.362650+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=175100",
+    "title": "4,000+ Servers Running AI Hacking Agents Are Exposed to the Internet and Actively Attacking",
+    "link": "https://cybersecuritynews.com/4000-servers-running-ai-hacking-agents-are-exposed/",
+    "published": "Thu, 26 Nov 2026 06:26:55 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The Shadowserver Foundation found around 4,200 internet-exposed instances of AI hacking frameworks on November 23, 2026, up from just under 3,700 a day earlier. Its November 25 report also documented more than 10,000 events from over 80 IP addresses ",
+    "created_at": "2026-11-26T06:31:24.544189+00:00"
   }
 ]
