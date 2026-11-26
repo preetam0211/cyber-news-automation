@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
-    "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
-    "link": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
-    "published": "Tue, 27 Oct 2026 10:01:11 -0400",
-    "source": "BleepingComputer",
-    "summary": "Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the threats hitting organizations hardest, highlighting which",
-    "created_at": "2026-10-27T14:31:25.058175+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=169053",
-    "title": "Hackers Abuse Signed ChatGPT and Claude Binaries to Deploy Malware Through Fake GitHub Downloads",
-    "link": "https://cybersecuritynews.com/fake-github-chatgpt-claude-malware/",
-    "published": "Tue, 27 Oct 2026 14:02:29 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A malware campaign known as Yoba targets users by leveraging the popularity of AI tools like ChatGPT and Claude to trick them into installing infected software. They publish fake GitHub projects that pose as desktop apps named GPT-5.6 Sol, GPT-6 Astr",
-    "created_at": "2026-10-27T14:31:37.822309+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
     "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
     "link": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
@@ -10087,5 +10069,32 @@
     "source": "CybersecurityNews",
     "summary": "A Windows user searching for the oCam screen recorder downloaded an installer that delivered exactly what it promised: a working copy of the app. But the same package quietly launched a second installer. Endpoint security stopped that part of the att",
     "created_at": "2026-11-26T14:01:08.858147+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=175596",
+    "title": "Standard Chartered’s Zodia Custody Hacked, Client and Employee Data Exposed",
+    "link": "https://cybersecuritynews.com/zodia-custody-data-breach/",
+    "published": "Thu, 26 Nov 2026 14:01:01 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Standard Chartered’s cryptocurrency custody unit, Zodia Custody, suffered a security breach that exposed information about some clients and employees. Chief Executive Richard Clark told Reuters on November 26 that the company detected attempts to pro",
+    "created_at": "2026-11-26T14:31:27.260619+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=175154",
+    "title": "CISA Adds 10 Flaws from Danfoss, HPE, Mitel MiCollab and Vates Xen to Exploited Catalog",
+    "link": "https://cybersecuritynews.com/cisa-adds-10-flaws-to-kev/",
+    "published": "Thu, 26 Nov 2026 14:09:18 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added 10 vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog on November 25, 2026, after finding evidence of active exploitation. Five affect Mitel MiCollab, three affe",
+    "created_at": "2026-11-26T14:31:34.921202+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=175539",
+    "title": "Bithumb Hacked for 15 Days, Customer Passport Numbers, Bank Details and Wallet Addresses Stolen",
+    "link": "https://cybersecuritynews.com/bithumb-hacked-for-15-days/",
+    "published": "Thu, 26 Nov 2026 14:09:42 +0000",
+    "source": "CybersecurityNews",
+    "summary": "South Korean cryptocurrency exchange Bithumb says hackers stole passport numbers, bank account numbers, and crypto wallet addresses after gaining access to an internal system for more than 15 days. In a November 25 update, the company said its invest",
+    "created_at": "2026-11-26T14:31:46.457692+00:00"
   }
 ]
