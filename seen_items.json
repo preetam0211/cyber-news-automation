@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
-    "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
-    "link": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
-    "published": "Tue, 27 Oct 2026 12:15:39 -0400",
-    "source": "BleepingComputer",
-    "summary": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project&#x27;s infrastructure. [...]",
-    "created_at": "2026-10-27T16:31:43.479671+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
     "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
     "link": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
