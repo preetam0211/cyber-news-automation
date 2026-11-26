@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=168587",
-    "title": "Top 10 Best Confidential Computing Platforms in 2026 [Ranked & Scored]",
-    "link": "https://cybersecuritynews.com/best-confidential-computing-platforms/",
-    "published": "Tue, 27 Oct 2026 08:05:33 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Encryption always had a hole: data must decrypt to compute, and whoever owns the machine cloud admin, hypervisor, intruder with root could watch. Confidential computing closes it with hardware-enforced trusted execution environments (TEEs) that keep ",
-    "created_at": "2026-10-27T08:31:06.848505+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
-    "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
-    "published": "Tue, 27 Oct 2026 04:20:54 -0400",
-    "source": "BleepingComputer",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell  vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday. [...]",
-    "created_at": "2026-10-27T08:31:12.740311+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168942",
-    "title": "OpenAI Unveils GPT-6.1 Terra, a Faster AI Model With Critical Cybersecurity Capabilities",
-    "link": "https://cybersecuritynews.com/openai-unveils-gpt-6-1-terra/",
-    "published": "Tue, 27 Oct 2026 08:25:49 +0000",
-    "source": "CybersecurityNews",
-    "summary": "OpenAI has introduced GPT-6.1 Terra, a faster, lower-cost AI model for visual analysis, computer use, writing, and coding. Released on October 26, the model also carries a Critical cybersecurity capability rating under OpenAI’s Preparedness Framework",
-    "created_at": "2026-10-27T08:31:17.435392+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168958",
-    "title": "DreamHost Forces Email and FTP Password Resets Following Unexplained Security Incident",
-    "link": "https://cybersecuritynews.com/dreamhost-forces-email-and-ftp-password-resets/",
-    "published": "Tue, 27 Oct 2026 08:30:23 +0000",
-    "source": "CybersecurityNews",
-    "summary": "DreamHost forced password resets for affected email and FTP/SFTP accounts after an unexplained incident disrupted webmail and File Manager, preventing sign-ins until new credentials are set. DreamHost said the password resets were precautionary but h",
-    "created_at": "2026-10-27T08:31:22.153644+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
     "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
     "link": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
@@ -10123,5 +10087,68 @@
     "source": "The Hacker News",
     "summary": "Drupal has warned of a new &quot;highly critical&quot; security flaw impacting Drupal core that it said has been exploited in the wild.\n\nThe vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case of improper checkin",
     "created_at": "2026-11-26T08:01:25.099817+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174507",
+    "title": "Top 10 Best Anti-Phishing Solutions in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-anti-phishing/",
+    "published": "Thu, 26 Nov 2026 07:31:13 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The grammar-mistake era of phishing is over. AI now writes flawless lures, clones brands pixel-perfect, and personalizes at scale so anti-phishing has shifted from spotting typos to modeling behavior, verifying sender identity, and killing the malici",
+    "created_at": "2026-11-26T08:31:14.498479+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=173700",
+    "title": "Top 10 Best Penetration Testing Companies in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-penetration-testing-companies/",
+    "published": "Thu, 26 Nov 2026 07:35:19 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A pentest is only worth what you do with the report, and the report is only worth the testers who wrote it. The firms below separate on the things that survive the sales deck: the depth of the people on your engagement, whether findings come with a r",
+    "created_at": "2026-11-26T08:31:23.686601+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174603",
+    "title": "Top 10 Best Security Awareness Training Platforms in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-security-awareness-training/",
+    "published": "Thu, 26 Nov 2026 07:38:28 +0000",
+    "source": "CybersecurityNews",
+    "summary": "The annual compliance video is security theater it ticks a box and changes nothing. The platforms worth buying are measured on two numbers that move over quarters: click rate down, report rate up. That takes realistic simulations, per-person risk sco",
+    "created_at": "2026-11-26T08:31:28.262866+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=175128",
+    "title": "Microsoft Warns State-Backed Hackers Are Using ARTEX AI Agents to Steal Credentials and Breach Networks",
+    "link": "https://cybersecuritynews.com/artex-ai-agents-2/",
+    "published": "Thu, 26 Nov 2026 07:39:00 +0000",
+    "source": "CybersecurityNews",
+    "summary": "State-backed hackers and financially motivated groups are using ARTEX, an AI-powered penetration testing framework, to find exposed systems, steal credentials, and break into enterprise networks and cloud environments. In a November 25 report, Micros",
+    "created_at": "2026-11-26T08:31:33.080815+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174653",
+    "title": "Top 10 Best Phishing Simulation Tools in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-phishing-simulation-tools/",
+    "published": "Thu, 26 Nov 2026 07:40:21 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A phishing simulation program is working only if two figures move the right way over quarters: clicks down, reports up. Template counts and leaderboards are just scaffolding around that one outcome. The tools below separate on behavioral scoring (per",
+    "created_at": "2026-11-26T08:31:41.011714+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174732",
+    "title": "Top 10 Best Insider Threat Management Solutions in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-insider-threat-management/",
+    "published": "Thu, 26 Nov 2026 07:42:01 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Nothing in security is trickier than insider risk, because the person triggering it is already logged in, already permitted, and often acting in good faith the resignee copying files and the sloppy uploader set off identical alarms. The solutions bel",
+    "created_at": "2026-11-26T08:31:50.728883+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=175117",
+    "title": "FIFA Alleged Breach – Hackers Claim Access to 12.2 GB of Sensitive Internal Documents",
+    "link": "https://cybersecuritynews.com/fifa-alleged-breach/",
+    "published": "Thu, 26 Nov 2026 08:07:35 +0000",
+    "source": "CybersecurityNews",
+    "summary": "FIFA has confirmed that hackers gained unauthorized access to a limited set of personal and business information. The Switzerland-based world football governing body has not confirmed a claim by the Handsome Boy Hacking Club (HBHC) that it obtained a",
+    "created_at": "2026-11-26T08:32:04.360570+00:00"
   }
 ]
