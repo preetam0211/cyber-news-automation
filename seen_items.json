@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=168896",
-    "title": "Hackers Use VLC Media Player and VMware Tools to Load Malware Through DLL Side-Loading",
-    "link": "https://cybersecuritynews.com/vlc-media-player-and-vmware-tools/",
-    "published": "Tue, 27 Oct 2026 01:13:13 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Hackers are using legitimate VLC Media Player and VMware components to load malware onto Windows systems, hiding harmful code behind familiar software. The activity forms part of three malware campaigns targeting users in Brazil and Portugal through ",
-    "created_at": "2026-10-27T01:31:09.793706+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=168899",
     "title": "Hackers Revive BlackLotus Techniques to Bypass Windows Secure Boot and Deploy Malware",
     "link": "https://cybersecuritynews.com/blacklotus-techniques/",
