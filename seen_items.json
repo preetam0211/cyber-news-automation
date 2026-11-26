@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=168844",
-    "title": "Claude Code Reportedly Finds 214,856 Deleted Photos and Videos Hidden on Android Phone",
-    "link": "https://cybersecuritynews.com/claude-code-finds-deleted-photos/",
-    "published": "Tue, 27 Oct 2026 03:47:20 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Anthropic’s Claude Code reportedly found 214,856 files linked to deleted photos and videos on a Google Pixel, raising privacy concerns about Android photos. The user, known as Cooler (@coolerwave), said files remained in a hidden thumbnail folder eve",
-    "created_at": "2026-10-27T04:01:04.478412+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168906",
-    "title": "Hackers Sell ICMacOS Remote Access Trojan for $699 a Week to Target Mac Users",
-    "link": "https://cybersecuritynews.com/icmacos-remote-access-trojan/",
-    "published": "Tue, 27 Oct 2026 03:50:13 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Cybercriminals are selling a Mac malware kit that can do far more than steal passwords. The tool, called ICMacOS or Icarus macOS, is offered for $699 a week on Russian-speaking dark web forums. It began as a basic data stealer, but its newer version ",
-    "created_at": "2026-10-27T04:01:16.070855+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168910",
-    "title": "New Aokigahara Malware Targets ChatGPT, Claude, Codex, and Cursor Login Credentials",
-    "link": "https://cybersecuritynews.com/aokigahara-malware/",
-    "published": "Tue, 27 Oct 2026 04:01:59 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A newly observed Windows infostealer called Aokigahara is targeting login credentials and session data associated with ChatGPT Desktop, Claude, Codex, and Cursor. The malware searches infected computers for authentication files and application storag",
-    "created_at": "2026-10-27T04:31:06.623496+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=168917",
     "title": "Palo Alto Confirms Brotli Vulnerability Impact on PAN-OS and Releases Workarounds",
     "link": "https://cybersecuritynews.com/brotli-vulnerability-affects-pan-os/",
@@ -10186,5 +10159,14 @@
     "source": "CybersecurityNews",
     "summary": "1Password disclosed on November 25, 2026, that an attacker compromised an employee’s corporate GitHub account and used it to steal customer data from the company’s backend systems. The stolen records included names, sign-in email addresses, and inter",
     "created_at": "2026-11-26T03:31:08.748447+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
+    "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
+    "link": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
+    "published": "Thu, 26 Nov 2026 09:18:52 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment.\n\n&quot;Most of the packages pose as WinUI 3 and WPF [Windows Presentation Fo",
+    "created_at": "2026-11-26T04:31:15.352276+00:00"
   }
 ]
