@@ -10168,5 +10168,14 @@
     "source": "CybersecurityNews",
     "summary": "Three exposed web directories revealed an intrusion crew’s collection of U.S. hospital credential records, a listing of more than 155,000 files and other objects in a manufacturer’s cloud storage, and a map of remote-access systems used by U.S. law f",
     "created_at": "2026-11-26T09:01:27.024866+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=175304",
+    "title": "Drupal Warns of Active Attacks Exploiting New Critical Website Takeover Vulnerability",
+    "link": "https://cybersecuritynews.com/drupal-website-takeover-flaw/",
+    "published": "Thu, 26 Nov 2026 09:06:38 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Drupal has warned that attackers are actively exploiting CVE-2026-136716, a highly critical access bypass that can let them take over vulnerable websites without signing in. The Drupal Security Team confirmed the attacks in its November 25 security a",
+    "created_at": "2026-11-26T09:31:28.455319+00:00"
   }
 ]
