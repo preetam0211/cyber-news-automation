@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
-    "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
-    "link": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
-    "published": "Tue, 27 Oct 2026 10:07:59 +0530",
-    "source": "The Hacker News",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog.\n\nThe PHP vulnerabilities, both rated",
-    "created_at": "2026-10-27T06:01:06.557698+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=168938",
-    "title": "Researcher Gains Root Access to Samsung Smart TV, Uncovers Extensive User Tracking",
-    "link": "https://cybersecuritynews.com/researcher-root-samsung-smart-tv/",
-    "published": "Tue, 27 Oct 2026 05:25:17 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A cybersecurity researcher says he gained root access to a 2025 Samsung Smart TV and found software built to track far more than the picture on the screen. Known online as log4j, he started after the set kept showing ads that seemed oddly specific to",
-    "created_at": "2026-10-27T06:01:18.816852+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=168752",
     "title": "OpenAI Codex Breaks USB Encryption in Minutes, Exposing Hardcoded Keys and Security Flaws",
     "link": "https://cybersecuritynews.com/openai-codex-breaks-usb-encryption-in-minutes/",
@@ -10150,5 +10132,14 @@
     "source": "The Hacker News",
     "summary": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer password vaults and other secrets w",
     "created_at": "2026-11-26T05:31:06.578861+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174713",
+    "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Take Control of Servers",
+    "link": "https://cybersecuritynews.com/critical-solarwinds-serv-u-flaws/",
+    "published": "Thu, 26 Nov 2026 06:00:51 +0000",
+    "source": "CybersecurityNews",
+    "summary": "SolarWinds released Serv-U 2026.4 on November 24, 2026, fixing 18 vulnerabilities, including nine critical flaws, two of which could grant attackers root access on Linux servers, while the risk is lower on Windows. However, the same update also fixes",
+    "created_at": "2026-11-26T06:01:19.234186+00:00"
   }
 ]
