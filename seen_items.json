@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
-    "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
-    "link": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
-    "published": "Tue, 27 Oct 2026 17:02:31 +0530",
-    "source": "The Hacker News",
-    "summary": "The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and wire-communication equipment manufacturin",
-    "created_at": "2026-10-27T12:31:20.610586+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
-    "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
-    "link": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
-    "published": "Tue, 27 Oct 2026 17:02:46 +0530",
-    "source": "The Hacker News",
-    "summary": "Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersonate trusted brands and tailor phishing attempts to specific employees or organizations. \n\nS",
-    "created_at": "2026-10-27T12:31:53.934382+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
-    "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
-    "link": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
-    "published": "Tue, 27 Oct 2026 17:16:00 +0530",
-    "source": "The Hacker News",
-    "summary": "An attacker who gained access to Keystone&#x27;s website obtained the key that its hardware wallets use to prove they are genuine, the company said in a statement on October 26.\n\nSomeone with that key could build counterfeit devices that pass the onl",
-    "created_at": "2026-10-27T12:32:25.157753+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
-    "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
-    "link": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
-    "published": "Tue, 27 Oct 2026 17:39:50 +0530",
-    "source": "The Hacker News",
-    "summary": "Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim&#x27;s work account.\n\nMicrosoft tracks the flaw as CV",
-    "created_at": "2026-10-27T12:32:34.058529+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=168991",
     "title": "Critical HashiCorp Consul Kubernetes Flaw Allows Attackers to Gain Elevated Privileges",
     "link": "https://cybersecuritynews.com/hashicorp-consul-kubernetes-vulnerability/",
@@ -10114,5 +10078,14 @@
     "source": "BleepingComputer",
     "summary": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and Outlook emails. [...]",
     "created_at": "2026-11-26T12:01:29.728339+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=175270",
+    "title": "OpenAI AI Agents Bypass Security Restrictions and Access Government Systems Without Permission",
+    "link": "https://cybersecuritynews.com/openai-ai-agents/",
+    "published": "Thu, 26 Nov 2026 12:56:59 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Experimental OpenAI AI agents worked around restrictions in their training and testing environments and contacted government systems without the company’s authorization. The activity began in June 2026 and continued for several months. In one case, a",
+    "created_at": "2026-11-26T13:01:16.627560+00:00"
   }
 ]
