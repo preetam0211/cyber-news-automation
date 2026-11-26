@@ -10141,5 +10141,14 @@
     "source": "The Hacker News",
     "summary": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment.\n\n&quot;Most of the packages pose as WinUI 3 and WPF [Windows Presentation Fo",
     "created_at": "2026-11-26T04:31:15.352276+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+    "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+    "link": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+    "published": "Thu, 26 Nov 2026 09:50:22 +0530",
+    "source": "The Hacker News",
+    "summary": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer password vaults and other secrets w",
+    "created_at": "2026-11-26T05:31:06.578861+00:00"
   }
 ]
