@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=169009",
-    "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
-    "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
-    "published": "Tue, 27 Oct 2026 11:15:19 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Apple released iOS 27.2 and iPadOS 27.2 on October 26, 2026, with fixes for 163 security flaws. The update covers iPhone 11 and later and a wide set of iPad models. The most serious issues sit in WebKit, the engine behind Safari and most in-app brows",
-    "created_at": "2026-10-27T11:31:10.911910+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
     "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
     "link": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
@@ -10105,5 +10096,23 @@
     "source": "CybersecurityNews",
     "summary": "Microsoft has confirmed that the November 2026 Windows security updates can cause sign-in failures in some third-party apps and devices that use NTLM authentication. The issue can affect authentication proxies, single sign-on (SSO) tools, and applica",
     "created_at": "2026-11-26T10:31:04.722046+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
+    "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
+    "link": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
+    "published": "Thu, 26 Nov 2026 16:27:55 +0530",
+    "source": "The Hacker News",
+    "summary": "Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need to know about.\n\nAt Push Security, ",
+    "created_at": "2026-11-26T12:01:15.833527+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+    "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
+    "link": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+    "published": "Thu, 26 Nov 2026 06:50:17 -0500",
+    "source": "BleepingComputer",
+    "summary": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and Outlook emails. [...]",
+    "created_at": "2026-11-26T12:01:29.728339+00:00"
   }
 ]
