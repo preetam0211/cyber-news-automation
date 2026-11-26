@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=169083",
-    "title": "CISA Offers Two Free Tools to Detect Security Misconfigurations in Microsoft 365 and Google Workspace",
-    "link": "https://cybersecuritynews.com/cisa-free-tools-to-detect-misconfigurations/",
-    "published": "Tue, 27 Oct 2026 15:31:45 +0000",
-    "source": "CybersecurityNews",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) offers two free tools to help organizations find security misconfigurations in Microsoft 365 and Google Workspace. ScubaGear and ScubaGoggles compare cloud settings against recommended ",
-    "created_at": "2026-10-27T16:02:07.232057+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
     "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
     "link": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
@@ -10096,5 +10087,14 @@
     "source": "BleepingComputer",
     "summary": "The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google&#x27;s email service. [...]",
     "created_at": "2026-11-26T15:31:19.609098+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174347",
+    "title": "Moving Beyond Static Cookie Banners: Implementing Zero-Leakage Real-Time Consent Management",
+    "link": "https://cybersecuritynews.com/moving-beyond-static-cookie-banners-implementing-zero-leakage-real-time-consent-management/",
+    "published": "Thu, 26 Nov 2026 15:47:01 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A cookie banner is a user interface requirement, not a control. Many sites display a cookie consent banner giving you options to opt-in or opt-out while the tag manager has already loaded analytics, advertising pixels and session replay, so personal ",
+    "created_at": "2026-11-26T16:31:12.969456+00:00"
   }
 ]
