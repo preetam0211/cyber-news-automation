@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=168991",
-    "title": "Critical HashiCorp Consul Kubernetes Flaw Allows Attackers to Gain Elevated Privileges",
-    "link": "https://cybersecuritynews.com/hashicorp-consul-kubernetes-vulnerability/",
-    "published": "Tue, 27 Oct 2026 11:37:34 +0000",
-    "source": "CybersecurityNews",
-    "summary": "HashiCorp has released fixes for a Consul-k8s authorization bypass that could allow an attacker to gain elevated Consul privileges from another Kubernetes namespace. Tracked as CVE-2026-110720, the flaw affects deployments using automated system acce",
-    "created_at": "2026-10-27T13:01:45.337937+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
     "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
     "link": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
