@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=168899",
-    "title": "Hackers Revive BlackLotus Techniques to Bypass Windows Secure Boot and Deploy Malware",
-    "link": "https://cybersecuritynews.com/blacklotus-techniques/",
-    "published": "Tue, 27 Oct 2026 01:43:07 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Hackers have revived techniques associated with the BlackLotus bootkit to bypass Windows Secure Boot and deploy espionage malware against diplomatic organizations in Central Asia. The new bootkit, named BlackX, appeared in attacks targeting agencies ",
-    "created_at": "2026-10-27T02:01:09.463826+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=168902",
     "title": "Hackers Can Abuse Logged-In WordPress Admin Sessions to Secretly Install PHP Backdoors",
     "link": "https://cybersecuritynews.com/logged-in-wordpress-admin-sessions/",
