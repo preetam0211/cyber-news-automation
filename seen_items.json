@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=169149",
-    "title": "Hackers Hijack 42 GitHub Repositories to Plant Malware Traps for Claude, Gemini, and Cursor Users",
-    "link": "https://cybersecuritynews.com/hackers-hijack-42-github-repositories/",
-    "published": "Wed, 28 Oct 2026 05:58:08 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Hackers have quietly planted malware in 42 real GitHub repositories. The traps fire when a developer opens a project with Claude, Gemini, Cursor, or VS Code. The repositories belong to 11 legitimate owners, including individual developers, students, ",
-    "created_at": "2026-10-28T06:01:24.234014+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=169163",
-    "title": "Hackers Target U.S. Election Commission, Forcing Online System Shutdown Days Before Midterms",
-    "link": "https://cybersecuritynews.com/hackers-target-u-s-election-commission-forcing-online-system-shutdown/",
-    "published": "Wed, 28 Oct 2026 06:30:05 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Hackers targeting the U.S. Federal Election Commission forced officials to shut down its electronic filing system days before the November 3 midterm elections, blocking campaign finance disclosures during a critical spending period. The disruption af",
-    "created_at": "2026-10-28T06:31:09.762745+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
     "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
     "link": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
@@ -10024,5 +10006,23 @@
     "source": "CybersecurityNews",
     "summary": "A zero-day vulnerability in Cacti, an open-source network monitoring tool, lets attackers run operating system commands without logging in if guest access is enabled. Security researcher ek0ms savi0r disclosed the flaw, dubbed 4HTTP2ROOT, on November",
     "created_at": "2026-11-27T06:01:15.598545+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
+    "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
+    "link": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
+    "published": "Fri, 27 Nov 2026 11:18:20 +0530",
+    "source": "The Hacker News",
+    "summary": "Details have emerged about a new zero-day vulnerability in Cacti, an open-source network monitoring tool, that could be exploited to achieve remote code execution.\n\nThe proof-of-concept (PoC) exploit, which has yet to be assigned a CVE identifier, ha",
+    "created_at": "2026-11-27T06:31:13.778692+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+    "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+    "link": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+    "published": "Fri, 27 Nov 2026 11:34:20 +0530",
+    "source": "The Hacker News",
+    "summary": "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country&#x27;s cybersecurity agency said yesterday.\n\nThree of the attacks targeted critical",
+    "created_at": "2026-11-27T06:31:30.085742+00:00"
   }
 ]
