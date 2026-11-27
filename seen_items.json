@@ -1,50 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
-    "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
-    "link": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
-    "published": "Wed, 28 Oct 2026 11:12:26 +0530",
-    "source": "The Hacker News",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google&#x27;s Brotli decoder library to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence",
-    "created_at": "2026-10-28T07:31:12.762861+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
-    "title": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
-    "link": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
-    "published": "Wed, 28 Oct 2026 11:34:58 +0530",
-    "source": "The Hacker News",
-    "summary": "The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week.\n\nOracle patched all three under a single identifier, CVE-2026-35273, in June. Its",
-    "created_at": "2026-10-28T07:31:24.392780+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html",
-    "title": "Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers",
-    "link": "https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html",
-    "published": "Wed, 28 Oct 2026 11:50:37 +0530",
-    "source": "The Hacker News",
-    "summary": "Tailscale has released version 1.104.4 to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the root user should be able to touch.\n\nThe flaws are in how Tailscale SSH forwards network ",
-    "created_at": "2026-10-28T07:31:30.824277+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
-    "title": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
-    "link": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
-    "published": "Wed, 28 Oct 2026 12:43:21 +0530",
-    "source": "The Hacker News",
-    "summary": "Japan&#x27;s GMO Internet Group is offering up to $1 million in total for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand.\n\nThe reward program opened on October 28 and pa",
-    "created_at": "2026-10-28T07:31:35.750015+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=169166",
-    "title": "Sony Suffers Massive Data Breach- 2.58 Million So-net and Plala Users Data Exposed",
-    "link": "https://cybersecuritynews.com/sony-data-breach/",
-    "published": "Wed, 28 Oct 2026 07:27:38 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Sony Network Communications has confirmed a breach exposing 2,585,481 customer records linked to its So-net and plala (S Course) internet services. The company disclosed the incident on October 27, 2026, after finding unauthorized access to its membe",
-    "created_at": "2026-10-28T07:31:45.777066+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html",
     "title": "FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering",
     "link": "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html",
@@ -10024,5 +9979,77 @@
     "source": "The Hacker News",
     "summary": "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country&#x27;s cybersecurity agency said yesterday.\n\nThree of the attacks targeted critical",
     "created_at": "2026-11-27T06:31:30.085742+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=175875",
+    "title": "Hackers Breach Military and Government Networks Across Southeast Asia, Stealing Sensitive Documents",
+    "link": "https://cybersecuritynews.com/military-and-government-networks/",
+    "published": "Fri, 27 Nov 2026 06:35:33 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers stole gigabytes of sensitive documents and exposed government credentials in a cyber espionage campaign that breached military, government and legislative organizations in Thailand and the Philippines. The operation, called RedOps, ran from A",
+    "created_at": "2026-11-27T07:31:13.389750+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=175896",
+    "title": "Hackers Test Malware Against Microsoft Defender Until It Runs Without Triggering an Alert",
+    "link": "https://cybersecuritynews.com/malware-against-microsoft-defender/",
+    "published": "Fri, 27 Nov 2026 06:55:15 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A Russian-speaking ransomware crew tested its Windows malware against Microsoft Defender for Endpoint in a lab it controlled. On October 16, 2026, Defender flagged one build and automatically isolated the test machine. Five days later, a revised buil",
+    "created_at": "2026-11-27T07:31:24.597635+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174830",
+    "title": "Top 10 Best Human Risk Management Platforms in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-human-risk-management/",
+    "published": "Fri, 27 Nov 2026 07:20:32 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Human risk management is awareness training all grown up: instead of annual compliance clips, it assigns each person a risk figure, intervenes adaptively, and in the newest tools folds in technical signals like which mailboxes are actually in the cro",
+    "created_at": "2026-11-27T07:31:35.615468+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=174570",
+    "title": "Top 10 Best Business Email Compromise (BEC) Protection Tools in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-bec-protection/",
+    "published": "Fri, 27 Nov 2026 07:23:34 +0000",
+    "source": "CybersecurityNews",
+    "summary": "BEC is the most expensive attack in email precisely because there’s nothing to scan no malware, no malicious link, just a perfectly worded message asking finance to change a wire or an executive to approve a payment. Stopping it means modeling who no",
+    "created_at": "2026-11-27T07:31:41.545040+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=175241",
+    "title": "Top 10 Best DMARC & Email Authentication Tools in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-dmarc-tools/",
+    "published": "Fri, 27 Nov 2026 07:25:42 +0000",
+    "source": "CybersecurityNews",
+    "summary": "DMARC’s entire value is reaching an enforcement policy p=reject without blocking your own legitimate mail, and that journey is where most programs stall. Every tool here parses aggregate reports; they separate on how much of the SPF/DKIM/DMARC gauntl",
+    "created_at": "2026-11-27T07:31:46.111011+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=175916",
+    "title": "Hackers Turn Trusted Windows Software Downloads Into Tools for Secretly Controlling PCs",
+    "link": "https://cybersecuritynews.com/hackers-turn-trusted-windows-software/",
+    "published": "Fri, 27 Nov 2026 07:27:11 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Tampered installers for two Windows utilities, Q-Dir and DesktopOK, turned official SoftwareOK downloads into a way for hackers to take remote control of PCs. The installers launched the genuine applications, giving users little reason to suspect any",
+    "created_at": "2026-11-27T07:31:50.779614+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=175232",
+    "title": "Top 10 Best SASE (Secure Access Service Edge) Solutions in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-sase-solutions-2/",
+    "published": "Fri, 27 Nov 2026 07:27:39 +0000",
+    "source": "CybersecurityNews",
+    "summary": "SASE fuses SD-WAN networking with a cloud security stack in one fabric, yet the term papers over a genuine divide: some vendors grew up in networking and bolted security on, others grew up in security and tacked on the network, and a handful engineer",
+    "created_at": "2026-11-27T07:31:55.344412+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=175339",
+    "title": "Top 10 Best Security Service Edge (SSE) Solutions in 2026 [Ranked & Scored]",
+    "link": "https://cybersecuritynews.com/best-sse-solutions/",
+    "published": "Fri, 27 Nov 2026 07:29:51 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Security Service Edge is the security portion of SASE SWG, CASB, ZTNA, and increasingly DLP and browser isolation, all delivered from the cloud and most organisations deploy it well before they take on the networking half. The solutions below separat",
+    "created_at": "2026-11-27T07:31:59.925828+00:00"
   }
 ]
