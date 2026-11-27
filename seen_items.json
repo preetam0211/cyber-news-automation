@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
-    "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
-    "link": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
-    "published": "Wed, 28 Oct 2026 16:47:22 -0400",
-    "source": "BleepingComputer",
-    "summary": "U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]",
-    "created_at": "2026-10-28T21:01:03.997313+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=169392",
     "title": "WordPress 7.1.4 Fixes 22 Security Flaws, Including an Unauthenticated RCE Vulnerability",
     "link": "https://cybersecuritynews.com/wordpress-7-1-4-fixes-security-flaws/",
