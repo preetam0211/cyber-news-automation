@@ -9853,5 +9853,14 @@
     "source": "BleepingComputer",
     "summary": "Medical technology company Boston Scientific is sending data breach notices to individuals affected by a cyberattack on the firm. [...]",
     "created_at": "2026-11-27T19:01:12.482241+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
+    "title": "pCloud confirms password manager hack after suspicious login alerts",
+    "link": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
+    "published": "Fri, 27 Nov 2026 14:26:04 -0500",
+    "source": "BleepingComputer",
+    "summary": "The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with two-factor authentication (2FA) enabled. [...]",
+    "created_at": "2026-11-27T19:31:11.923537+00:00"
   }
 ]
