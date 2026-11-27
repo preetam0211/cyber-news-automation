@@ -9979,5 +9979,14 @@
     "source": "CybersecurityNews",
     "summary": "Fake Facebook ads offering free animated Windows wallpapers are spreading SYS010, an information stealer that targets Meta Business accounts and webmail. The download delivers a working wallpaper app, but it also runs malware in the background. On se",
     "created_at": "2026-11-27T12:31:13.038509+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
+    "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
+    "link": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
+    "published": "Fri, 27 Nov 2026 17:19:34 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have disclosed details of a cyber attack in which a threat actor leveraged a Microsoft Store application to deliver a remote access trojan (RAT) called Vinci RAT.\n\nThe intrusion, according to eSentire, begins with a redirect",
+    "created_at": "2026-11-27T13:31:12.331404+00:00"
   }
 ]
