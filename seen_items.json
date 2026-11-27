@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
-    "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
-    "link": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
-    "published": "Wed, 28 Oct 2026 05:43:15 -0400",
-    "source": "BleepingComputer",
-    "summary": "A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]",
-    "created_at": "2026-10-28T10:01:18.496342+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=169161",
-    "title": "Hackers Use CyberStrikeAI Agents to Automate Network Scanning, Exploitation, and Data Theft",
-    "link": "https://cybersecuritynews.com/hackers-use-cyberstrikeai-agents/",
-    "published": "Wed, 28 Oct 2026 09:49:06 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Hackers have abused CyberStrikeAI, an open-source penetration-testing platform, to coordinate 44 AI agents across network scanning, exploitation, persistence, and data theft. The activity primarily targeted Japanese organizations, showing how attacke",
-    "created_at": "2026-10-28T10:01:26.402042+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=169174",
-    "title": "Microsoft Releases Emergency Windows Updates to Block Compromised eMudhra Certificates",
-    "link": "https://cybersecuritynews.com/microsoft-to-block-emudhra-certificates/",
-    "published": "Wed, 28 Oct 2026 09:50:44 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Microsoft released emergency Windows trust updates after discovering eight recoverable eMudhra intermediate CA private keys that could let attackers forge trusted certificates or sign malicious content. Microsoft said the issue affected eMudhra’s cer",
-    "created_at": "2026-10-28T10:01:31.592123+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=169145",
     "title": "FortiBleed 2.0 Reveals Thousands of Fortinet VPN and Active Directory Credentials in Exposed Configurations",
     "link": "https://cybersecuritynews.com/fortibleed-2-0-exposes-vpn-credentials/",
@@ -10042,5 +10015,14 @@
     "source": "BleepingComputer",
     "summary": "SAP has confirmed to BleepingComputer that it took urgent action to protect its customers after detecting suspicious activity in its IT environment. [...]",
     "created_at": "2026-11-27T10:01:08.892147+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
+    "title": "Drupal warns of new site takeover flaw exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
+    "published": "Fri, 27 Nov 2026 05:10:15 -0500",
+    "source": "BleepingComputer",
+    "summary": "The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites. [...]",
+    "created_at": "2026-11-27T10:31:06.206756+00:00"
   }
 ]
