@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=169201",
-    "title": "Coinbase Customer Data Exposed Via Analytics Vendor Amplitude Security Incident",
-    "link": "https://cybersecuritynews.com/coinbase-customer-data-exposed/",
-    "published": "Wed, 28 Oct 2026 09:31:25 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Coinbase has disclosed that a security incident at analytics provider Amplitude exposed contact information belonging to a small subset of its customers. The cryptocurrency exchange said it found no evidence of unauthorized access to Coinbase systems",
-    "created_at": "2026-10-28T10:01:07.299861+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
     "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
     "link": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
@@ -10042,5 +10033,14 @@
     "source": "CybersecurityNews",
     "summary": "Black Friday 2026 has arrived, bringing massive discounts, exclusive offers, and limited-time deals across e-commerce platforms worldwide. However, behind the excitement of discounted smartphones, laptops, gaming consoles, and luxury products lies a ",
     "created_at": "2026-11-27T09:31:52.814392+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
+    "title": "SAP confirms security incident after suspicious GitHub activity",
+    "link": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
+    "published": "Fri, 27 Nov 2026 04:56:36 -0500",
+    "source": "BleepingComputer",
+    "summary": "SAP has confirmed to BleepingComputer that it took urgent action to protect its customers after detecting suspicious activity in its IT environment. [...]",
+    "created_at": "2026-11-27T10:01:08.892147+00:00"
   }
 ]
