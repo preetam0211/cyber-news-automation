@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=169124",
-    "title": "Microsoft Whistleblower Alleges Foreign Engineer Was Approved to Access U.S. Government Cloud Logs",
-    "link": "https://cybersecuritynews.com/microsoft-whistleblower-alleges-foreign-engineer/",
-    "published": "Wed, 28 Oct 2026 03:04:48 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A claimed Microsoft whistleblower has raised concerns about government cloud security after screenshots appeared to show approval for an engineer, allegedly based in India, to receive logs from a U.S. government cloud environment through Microsoft’s ",
-    "created_at": "2026-10-28T03:31:07.600195+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=169146",
     "title": "Japan’s GMO Internet Urges Customers to Shut Down PCs After Hackers Threaten Ransomware Attack",
     "link": "https://cybersecuritynews.com/japans-gmo-internet/",
@@ -10006,5 +9997,23 @@
     "source": "CybersecurityNews",
     "summary": "The Node.js project released a version 27.0.0-alpha.0.2.0 on November 26, 2026, bringing security fixes for reused HTTP connections and new controls for TLS 1.2 renegotiation. The official release notes also list changes to HTTP/2 memory limits and H",
     "created_at": "2026-11-27T02:01:10.727799+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=175830",
+    "title": "Bitcoin Privacy Flaw Could Let Hackers Trace Wallet Addresses to IP Addresses for Just 35 Cents",
+    "link": "https://cybersecuritynews.com/bitcoin-privacy-flaw/",
+    "published": "Fri, 27 Nov 2026 03:23:06 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A privacy flaw in Bitcoin Core could let an observer link a public Bitcoin address to the IP address of a node that tracks it. Bitcoin Core contributor Abubakar Sadiq Ismail reported on November 25 that the link could be made with a payment costing l",
+    "created_at": "2026-11-27T04:01:12.269421+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=175834",
+    "title": "SAP Confirms Security Incident as Hackers Reportedly Steal GitHub Tokens and Alter Code",
+    "link": "https://cybersecuritynews.com/sap-security-incident/",
+    "published": "Fri, 27 Nov 2026 03:39:12 +0000",
+    "source": "CybersecurityNews",
+    "summary": "SAP has confirmed an IT security incident after detecting suspicious activity. DER SPIEGEL reported that attackers stole authentication tokens belonging to SAP employees and used them to alter and copy source code on GitHub. The German software maker",
+    "created_at": "2026-11-27T04:01:23.200947+00:00"
   }
 ]
