@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=169241",
-    "title": "Hackers Actively Exploiting New Oracle EBS RCE Vulnerability",
-    "link": "https://cybersecuritynews.com/oracle-ebs-rce-exploited/",
-    "published": "Wed, 28 Oct 2026 10:38:25 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Hackers have begun testing a critical Oracle E-Business Suite vulnerability that can let them run commands without logging in. Threat intelligence firm Defused reported exploratory exploit attempts against its decoy systems on October 27, 2026. Howev",
-    "created_at": "2026-10-28T11:01:09.737110+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
-    "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
-    "published": "Wed, 28 Oct 2026 06:46:23 -0400",
-    "source": "BleepingComputer",
-    "summary": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]",
-    "created_at": "2026-10-28T11:01:20.816018+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
-    "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
-    "link": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
-    "published": "Wed, 28 Oct 2026 16:00:00 +0530",
-    "source": "The Hacker News",
-    "summary": "Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted business workflows to gain access to corporate account",
-    "created_at": "2026-10-28T11:31:06.657034+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=169196",
-    "title": "Hackers Compromise Camera Management Software to Deploy Malware on Windows Computers",
-    "link": "https://cybersecuritynews.com/camera-management-software/",
-    "published": "Wed, 28 Oct 2026 11:03:12 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Hackers have compromised camera management software to deploy malware on Windows computers, using a legitimate Microsoft program to run malicious code and maintain access. The activity shows how software used to manage surveillance systems can become",
-    "created_at": "2026-10-28T11:31:17.906952+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
     "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
     "link": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
@@ -10015,5 +9979,32 @@
     "source": "BleepingComputer",
     "summary": "The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites. [...]",
     "created_at": "2026-11-27T10:31:06.206756+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
+    "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
+    "link": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
+    "published": "Fri, 27 Nov 2026 14:59:30 +0530",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have disclosed details of a software supply chain attack that has tampered with Q-Dir and DesktopOK installation files distributed via the official SoftwareOK website.\n\n&quot;Evidence indicates that malicious files were gene",
+    "created_at": "2026-11-27T11:31:03.826837+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
+    "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
+    "link": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
+    "published": "Fri, 27 Nov 2026 16:02:18 +0530",
+    "source": "The Hacker News",
+    "summary": "Most security metrics are not built to be used. They are built to be shown. Somewhere between the quarterly review and the next status update, a set of numbers gets assembled that looks reassuring in a room and tells almost no one what is actually ha",
+    "created_at": "2026-11-27T11:31:13.715537+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
+    "title": "Microsoft removes WSUS server role in Windows Server 2028",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
+    "published": "Fri, 27 Nov 2026 06:18:36 -0500",
+    "source": "BleepingComputer",
+    "summary": "Microsoft will remove the WSUS server role from Windows Server 2028, the next major release of its server operating system. [...]",
+    "created_at": "2026-11-27T11:31:24.772664+00:00"
   }
 ]
