@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
-    "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
-    "link": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
-    "published": "Wed, 28 Oct 2026 16:45:51 +0530",
-    "source": "The Hacker News",
-    "summary": "Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege escalation.\n\nThe list of eight vulnerabilitie",
-    "created_at": "2026-10-28T11:31:30.074033+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=169137",
     "title": "Veeam Patches Critical Backup & Replication Authorization Bypass Vulnerability",
     "link": "https://cybersecuritynews.com/veeam-patches-authorization-bypass-vulnerability/",
