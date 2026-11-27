@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
-    "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
-    "link": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
-    "published": "Wed, 28 Oct 2026 23:38:33 +0530",
-    "source": "The Hacker News",
-    "summary": "The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and strategic access.\n\n&quot;First identified in late 2023",
-    "created_at": "2026-10-28T19:01:01.970510+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
-    "title": "Discord to let search engines index public server messages",
-    "link": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
-    "published": "Wed, 28 Oct 2026 14:44:16 -0400",
-    "source": "BleepingComputer",
-    "summary": "Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]",
-    "created_at": "2026-10-28T19:01:08.544186+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
     "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
     "link": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
@@ -9862,5 +9844,14 @@
     "source": "BleepingComputer",
     "summary": "A zero-day vulnerability in the Cacti network monitoring platform has been publicly disclosed, along with a proof-of-concept exploit that lets unauthenticated attackers execute commands on vulnerable servers. [...]",
     "created_at": "2026-11-27T17:31:09.696821+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+    "title": "New Boston Scientific data breach exposes personal, medical info",
+    "link": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+    "published": "Fri, 27 Nov 2026 13:57:42 -0500",
+    "source": "BleepingComputer",
+    "summary": "Medical technology company Boston Scientific is sending data breach notices to individuals affected by a cyberattack on the firm. [...]",
+    "created_at": "2026-11-27T19:01:12.482241+00:00"
   }
 ]
