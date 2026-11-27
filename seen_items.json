@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=169192",
-    "title": "OWASP Finds ChatGPT Helped Low-Skilled User Take Over Admin Account in Hacking Test",
-    "link": "https://cybersecuritynews.com/owasp-finds-chatgpt-assisted-admin-takeover/",
-    "published": "Wed, 28 Oct 2026 15:28:23 +0000",
-    "source": "CybersecurityNews",
-    "summary": "OWASP found that ChatGPT helped an operator with no offensive security knowledge take over an administrator account during a controlled hacking test. The operator largely copied commands, returned results to the chatbot, and followed its guidance to ",
-    "created_at": "2026-10-28T16:01:45.682268+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=169029",
-    "title": "PropellerAds: Why Modern Malware Delivery Starts Before the Payload",
-    "link": "https://cybersecuritynews.com/propellerads-why-modern-malware-delivery-starts-before-the-payload/",
-    "published": "Wed, 28 Oct 2026 15:28:59 +0000",
-    "source": "CybersecurityNews",
-    "summary": "By Farukh Rakhimov, Head of Compliance, Data Protection, and Information Security at AdTech Holding In March 2026, Google Threat Intelligence Group (GTIG) disclosed Coruna, an iOS exploit kit with five exploit chains and 23 exploits covering iOS 13.0",
-    "created_at": "2026-10-28T16:02:31.401122+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=169330",
-    "title": "Researchers Chain Cloudflare Security Flaws to Bypass CSP and Execute Malicious JavaScript",
-    "link": "https://cybersecuritynews.com/cloudflare-xss-vulnerability/",
-    "published": "Wed, 28 Oct 2026 15:38:06 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Security researchers at Searchlight Cyber chained several small weaknesses in Cloudflare’s image feature. The chain let them run JavaScript on a site that was meant to block it. Kevin Gervot and Adam Kues published the work on October 28, 2026, in a ",
-    "created_at": "2026-10-28T16:03:23.458788+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=169157",
-    "title": "TeamViewer Vulnerabilities Could Let Hackers Execute Malicious Code Through Remote Desktop Sessions",
-    "link": "https://cybersecuritynews.com/teamviewer-desktop-session-vulnerabilities/",
-    "published": "Wed, 28 Oct 2026 15:59:46 +0000",
-    "source": "CybersecurityNews",
-    "summary": "TeamViewer has released security updates for three high-severity vulnerabilities that could let attackers run malicious code, crash remote desktop clients, or gain root access on macOS. The flaws affect client components used with TeamViewer Remote, ",
-    "created_at": "2026-10-28T16:04:15.524929+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
     "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
     "link": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
