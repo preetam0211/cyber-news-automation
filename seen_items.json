@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=169155",
-    "title": "Hackers Hijack Government and School Subdomains to Promote Illegal Gambling Websites",
-    "link": "https://cybersecuritynews.com/illegal-gambling-websites/",
-    "published": "Wed, 28 Oct 2026 09:09:29 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Hackers have abused government and school domains to promote illegal gambling websites, creating unauthorized subdomains while leaving the institutions’ main websites running normally. Two unrelated operations used changes to Domain Name System (DNS)",
-    "created_at": "2026-10-28T09:31:11.437921+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=169010",
-    "title": "CISA Warns of PHP2Shell Vulnerabilities Actively Exploited in Attacks",
-    "link": "https://cybersecuritynews.com/php2shell-vulnerabilities-actively-exploited/",
-    "published": "Wed, 28 Oct 2026 09:26:13 +0000",
-    "source": "CybersecurityNews",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency has added two critical PHP vulnerabilities, jointly known as PHP2Shell, to its Known Exploited Vulnerabilities catalog after confirming real-world exploitation. The flaws, tracked as CVE-2026-",
-    "created_at": "2026-10-28T09:31:17.347186+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=169201",
     "title": "Coinbase Customer Data Exposed Via Analytics Vendor Amplitude Security Incident",
     "link": "https://cybersecuritynews.com/coinbase-customer-data-exposed/",
@@ -10024,5 +10006,41 @@
     "source": "BleepingComputer",
     "summary": "​A 12-year-old critical vulnerability in the Linux kernel&#x27;s Network File System (NFS) server, tracked as CVE-2026-99362, allows remote attackers to gain root privileges. [...]",
     "created_at": "2026-11-27T08:31:10.172189+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/",
+    "title": "Microsoft pushes emergency hotpatch to fix Windows Server crashes",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/",
+    "published": "Fri, 27 Nov 2026 04:08:16 -0500",
+    "source": "BleepingComputer",
+    "summary": "Microsoft has released an emergency hotpatch update to address Windows Server 2025 crashes triggered after installing this month&#x27;s security hotpatch update (KB5131077). [...]",
+    "created_at": "2026-11-27T09:31:17.977432+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=175868",
+    "title": "Tor Browser Flaw Could Reveal Users’ Real IP Addresses With Just One Click on Malicious Websites",
+    "link": "https://cybersecuritynews.com/tor-browser-flaw/",
+    "published": "Fri, 27 Nov 2026 09:09:49 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A malicious website could expose a Tor Browser user’s public IP address with a single click, according to research published by security firm Calif on November 26, 2026. Researcher Carlos Roque demonstrated the attack against Tor Browser 15.0.22 on L",
+    "created_at": "2026-11-27T09:31:29.962577+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=175927",
+    "title": "3,089 Telegram Job Posts Uncovered in Suspected Spy Recruitment Campaigns",
+    "link": "https://cybersecuritynews.com/telegram-job-posts/",
+    "published": "Fri, 27 Nov 2026 09:22:53 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A Telegram account offered readers in a Hebrew-language sports group 1,500 shekels for one night’s work. The same ad appeared at precisely 9:43:01 p.m. on 51 days. The account later promoted what looked like a part-time job with a U.S. environmental ",
+    "created_at": "2026-11-27T09:31:41.523181+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=176014",
+    "title": "Black Friday or Black Fraud Day? 7 Cyber Traps to Watch Out for Before You Click ‘Buy’",
+    "link": "https://cybersecuritynews.com/black-friday-or-black-fraud-day/",
+    "published": "Fri, 27 Nov 2026 09:28:51 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Black Friday 2026 has arrived, bringing massive discounts, exclusive offers, and limited-time deals across e-commerce platforms worldwide. However, behind the excitement of discounted smartphones, laptops, gaming consoles, and luxury products lies a ",
+    "created_at": "2026-11-27T09:31:52.814392+00:00"
   }
 ]
