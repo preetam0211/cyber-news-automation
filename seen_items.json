@@ -9934,5 +9934,23 @@
     "source": "CybersecurityNews",
     "summary": "Hackers changed a freezer chamber’s temperature setting to 100°C at Salamerija Alpija, a meat processing plant in Tolmin, Slovenia. When a service technician tried to sign in to the cooling control system, his access was blocked. Instead of the contr",
     "created_at": "2026-11-27T15:01:32.788855+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/",
+    "title": "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs",
+    "link": "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/",
+    "published": "Fri, 27 Nov 2026 10:00:10 -0500",
+    "source": "BleepingComputer",
+    "summary": "Forgotten virtual machines, unpatched servers, and excessive access permissions can create security blind spots across IT infrastructure. ISPsystem explains how centralized infrastructure management, access controls, and resource lifecycle automation",
+    "created_at": "2026-11-27T15:31:15.812255+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/",
+    "title": "US Air Force cloud platform reportedly hacked in latest federal breach",
+    "link": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/",
+    "published": "Fri, 27 Nov 2026 10:09:40 -0500",
+    "source": "BleepingComputer",
+    "summary": "Hackers have reportedly breached the US Air Force&#x27;s Cloud One computing platform, adding to a recent wave of cyberattacks affecting US government agencies, including the FBI, CIA, and Treasury Department. [...]",
+    "created_at": "2026-11-27T15:31:21.790809+00:00"
   }
 ]
