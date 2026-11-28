@@ -9538,5 +9538,14 @@
     "source": "CybersecurityNews",
     "summary": "A critical Erlang/OTP flaw, CVE-2026-124286 (CVSS 9.1), disclosed on November 24, 2026, allows attackers to impersonate trusted servers and intercept or modify TLS-protected traffic. The flaw affects TLS 1.2 clients, even those with server identity v",
     "created_at": "2026-11-28T10:31:13.348314+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/q-dir-and-desktopok-windows-utilities-compromised-to-push-python-rat/",
+    "title": "Q-Dir and DesktopOK Windows utilities compromised to push Python RAT",
+    "link": "https://www.bleepingcomputer.com/news/security/q-dir-and-desktopok-windows-utilities-compromised-to-push-python-rat/",
+    "published": "Sat, 28 Nov 2026 10:32:49 -0500",
+    "source": "BleepingComputer",
+    "summary": "Official distribution channels for the Q-Dir and DesktopOK Windows utilities were compromised to deliver trojanized installers containing Python-based remote access malware. [...]",
+    "created_at": "2026-11-28T16:01:08.701245+00:00"
   }
 ]
