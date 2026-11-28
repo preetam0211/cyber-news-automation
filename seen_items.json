@@ -9745,5 +9745,14 @@
     "source": "The Hacker News",
     "summary": "Cross-platform password manager pCloud Pass has confirmed it was targeted by a cyber attack after users reported seeing unknown devices being connected to their accounts.\n\n&quot;A cyber attack targeting pCloud Pass occurred, which was promptly contai",
     "created_at": "2026-11-28T09:01:09.374973+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=176271",
+    "title": "Kenya eCitizen Data Breach – Hackers Reportedly Leak Identity Records of 32 Million Kenyans",
+    "link": "https://cybersecuritynews.com/kenya-ecitizen-data-breach/",
+    "published": "Sat, 28 Nov 2026 09:14:31 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Hackers have reportedly begun publishing identity records from Kenya’s eCitizen platform on the dark web. Nation’s review of the leaked eCitizen files found that the attackers had accessed data on 32,128,394 Kenyans. The figure reflects the reported ",
+    "created_at": "2026-11-28T09:31:11.602524+00:00"
   }
 ]
