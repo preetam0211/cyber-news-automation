@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
-    "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
-    "published": "Thu, 29 Oct 2026 14:38:26 -0400",
-    "source": "BleepingComputer",
-    "summary": "A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware framework called KeyDrift. [...]",
-    "created_at": "2026-10-29T19:01:05.365473+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
     "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
     "link": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
