@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=169418",
-    "title": "Microsoft Urges Entra ID Admins to Migrate from SMS and Voice Authentication to Passkeys",
-    "link": "https://cybersecuritynews.com/microsoft-urges-admins-to-migrate-passkeys/",
-    "published": "Thu, 29 Oct 2026 09:48:13 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Microsoft urged Entra ID administrators to migrate from SMS and voice authentication in Entra ID to passkeys before retirement begins on February 1, 2027, to reduce phishing risks and prevent sign-in disruptions. The reminder, published on October 27",
-    "created_at": "2026-10-29T10:01:04.925415+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=169428",
-    "title": "GitHub Launches Copilot Fusion for Smarter and Cheaper AI Coding",
-    "link": "https://cybersecuritynews.com/github-launches-copilot-fusion/",
-    "published": "Thu, 29 Oct 2026 10:06:38 +0000",
-    "source": "CybersecurityNews",
-    "summary": "GitHub has launched Copilot Fusion, a system that automatically selects AI models for coding tasks, helping developers balance code quality, speed, and cost. Instead of choosing a model for every request, users select Fusion and let it decide how to ",
-    "created_at": "2026-10-29T10:31:08.147443+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
     "title": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
     "link": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
@@ -9727,5 +9709,14 @@
     "source": "CybersecurityNews",
     "summary": "Hackers have reportedly begun publishing identity records from Kenya’s eCitizen platform on the dark web. Nation’s review of the leaked eCitizen files found that the attackers had accessed data on 32,128,394 Kenyans. The figure reflects the reported ",
     "created_at": "2026-11-28T09:31:11.602524+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=175906",
+    "title": "Critical Erlang/OTP Flaw Could Let Hackers Impersonate TLS Servers and Intercept Encrypted Traffic",
+    "link": "https://cybersecuritynews.com/critical-erlang-otp-flaw/",
+    "published": "Sat, 28 Nov 2026 10:09:43 +0000",
+    "source": "CybersecurityNews",
+    "summary": "A critical Erlang/OTP flaw, CVE-2026-124286 (CVSS 9.1), disclosed on November 24, 2026, allows attackers to impersonate trusted servers and intercept or modify TLS-protected traffic. The flaw affects TLS 1.2 clients, even those with server identity v",
+    "created_at": "2026-11-28T10:31:13.348314+00:00"
   }
 ]
