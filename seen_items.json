@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=169179",
-    "title": "State of Ad Fraud 2026: 52% of Schemes Use AI as Cloaking Loses Ground to iOS Exploits and Messenger Phishing",
-    "link": "https://cybersecuritynews.com/state-of-ad-fraud-2026-52-of-schemes-use-ai-as-cloaking-loses-ground-to-ios-exploits-and-messenger-phishing/",
-    "published": "Thu, 29 Oct 2026 17:26:36 +0000",
-    "source": "CybersecurityNews",
-    "summary": "The ad fraud landscape changed sharply in 2026. That is the central finding of the State of Ad Fraud 2026: ADEX Trust &amp; Safety Report, published by anti-fraud platform ADEX. The report analyzes January–September 2026 moderation and verification d",
-    "created_at": "2026-10-29T17:31:11.045435+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
     "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
@@ -9502,5 +9493,14 @@
     "source": "BleepingComputer",
     "summary": "Official distribution channels for the Q-Dir and DesktopOK Windows utilities were compromised to deliver trojanized installers containing Python-based remote access malware. [...]",
     "created_at": "2026-11-28T16:01:08.701245+00:00"
+  },
+  {
+    "guid": "https://www.bleepingcomputer.com/news/security/college-board-confirms-data-breach-after-unauthorized-password-changes/",
+    "title": "College Board confirms data breach after unauthorized password changes",
+    "link": "https://www.bleepingcomputer.com/news/security/college-board-confirms-data-breach-after-unauthorized-password-changes/",
+    "published": "Sat, 28 Nov 2026 12:45:59 -0500",
+    "source": "BleepingComputer",
+    "summary": "College Board has confirmed it suffered a data breach after students reported unexpected password changes on Thanksgiving, and the organization said threat actors gained access to its account registration and financial aid application systems. [...]",
+    "created_at": "2026-11-28T18:01:12.342387+00:00"
   }
 ]
