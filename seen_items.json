@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
-    "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
-    "link": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
-    "published": "Thu, 29 Oct 2026 11:20:17 +0530",
-    "source": "The Hacker News",
-    "summary": "Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces.\n\n&quot;Active exploitation has been observed targeting the Palo Alto Networks m",
-    "created_at": "2026-10-29T07:01:18.239798+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
-    "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
-    "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
-    "published": "Thu, 29 Oct 2026 11:52:33 +0530",
-    "source": "The Hacker News",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it had been weaponized by a China-",
-    "created_at": "2026-10-29T07:01:32.879032+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=169099",
     "title": "Top 10 Best SIEM Tools in 2026 [Ranked & Scored]",
     "link": "https://cybersecuritynews.com/best-siem-tools-2/",
