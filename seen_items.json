@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=169584",
-    "title": "Claude AI Exploits Linux Kernel Flaw to Execute Root Commands Without User Interaction",
-    "link": "https://cybersecuritynews.com/linux-kernel-flaw-root-commands/",
-    "published": "Thu, 29 Oct 2026 15:18:11 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Anthropic says an unreleased Claude research model wrote a working exploit for a critical Linux kernel bug, tracked as CVE-2026-98432. The exploit lets a remote attacker run commands as root with no login and no user action. Anthropic’s Frontier Red ",
-    "created_at": "2026-10-29T16:01:24.902438+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
-    "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
-    "link": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
-    "published": "Thu, 29 Oct 2026 20:50:29 +0530",
-    "source": "The Hacker News",
-    "summary": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed Yoba.\n\nThe activity involves creating f",
-    "created_at": "2026-10-29T16:02:15.731098+00:00"
-  },
-  {
     "guid": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
     "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
     "link": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
