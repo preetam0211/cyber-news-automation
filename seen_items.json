@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=169409",
-    "title": "Cisco Secure Firewall 0-Day Vulnerability Exploited in the Wild to Crash SSL VPN Devices",
-    "link": "https://cybersecuritynews.com/cisco-secure-firewall-0-day-vulnerability-exploited/",
-    "published": "Thu, 29 Oct 2026 06:21:37 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Cisco released security updates for actively exploited CVE-2026-76418, a flaw in Secure Firewall ASA and FTD software that lets unauthenticated remote attackers force device restarts, causing denial of service and disrupting remote access. The high-s",
-    "created_at": "2026-10-29T06:31:07.649379+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=169404",
-    "title": "CISA Warns of VMWare ESX Logging Vulnerability Exploited in Attacks",
-    "link": "https://cybersecuritynews.com/vmware-esx-logging-vulnerability-exploited/",
-    "published": "Thu, 29 Oct 2026 06:22:42 +0000",
-    "source": "CybersecurityNews",
-    "summary": "The Cybersecurity and Infrastructure Security Agency has added a VMware ESX logging flaw to its Known Exploited Vulnerabilities catalog following evidence of exploitation. Tracked as CVE-2026-41709, the vulnerability allows an attacker with administr",
-    "created_at": "2026-10-29T06:31:19.212632+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
     "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
     "link": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
