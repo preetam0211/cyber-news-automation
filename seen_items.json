@@ -1,41 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=169425",
-    "title": "Hackers Infect 17,960 Android Phones With Banking Trojans, Steal 7.6 Million SMS Messages",
-    "link": "https://cybersecuritynews.com/hackers-infect-17960-android-phones/",
-    "published": "Thu, 29 Oct 2026 08:09:16 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Hackers have compromised at least 17,960 Android devices and intercepted more than 7.6 million SMS messages in a banking malware campaign targeting India. The operation combines fake bank calls, phishing websites, malicious applications, and cryptocu",
-    "created_at": "2026-10-29T08:31:12.876202+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=169224",
-    "title": "Top 10 Best SOAR Tools in 2026 [Ranked & Scored]",
-    "link": "https://cybersecuritynews.com/best-soar-tools/",
-    "published": "Thu, 29 Oct 2026 08:16:24 +0000",
-    "source": "CybersecurityNews",
-    "summary": "SOAR grew up twice: first from scripts to playbooks, then in the current wave from playbooks to AI agents that draft, decide, and act under human guardrails. The 2026 field splits into suite engines living inside SIEM/XDR platforms and independent au",
-    "created_at": "2026-10-29T08:31:18.749248+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=169308",
-    "title": "Top 10 Best Threat Intelligence Platforms (TIP) in 2026 [Ranked & Scored]",
-    "link": "https://cybersecuritynews.com/best-threat-intelligence-platforms/",
-    "published": "Thu, 29 Oct 2026 08:24:13 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Raw intelligence is cheap; operationalized intelligence is rare. A threat intelligence platform earns its keep by fusing feeds, deduplicating indicators, scoring relevance against your estate, and pushing enriched context into the SIEM, SOAR, and fir",
-    "created_at": "2026-10-29T08:31:24.514959+00:00"
-  },
-  {
-    "guid": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
-    "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
-    "link": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
-    "published": "Thu, 29 Oct 2026 13:54:22 +0530",
-    "source": "The Hacker News",
-    "summary": "Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization&#x27;s SD-WAN network.\n\nThe malware, called KeyDrift, is designed to copy the keys that encrypt traffi",
-    "created_at": "2026-10-29T09:01:07.014704+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=169439",
     "title": "Hackers Use Fake Cloudflare Verification Pages to Target Windows and Mac Users",
     "link": "https://cybersecuritynews.com/fake-cloudflare-verification/",
@@ -9772,5 +9736,14 @@
     "source": "CybersecurityNews",
     "summary": "Telegram is sending security alerts to iPhone users running older versions of iOS, CEO Pavel Durov said on November 27. In a post on X, Durov said iPhone users were being hacked “on a massive scale” and warned that opening a website could be enough t",
     "created_at": "2026-11-28T05:01:14.705341+00:00"
+  },
+  {
+    "guid": "https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html",
+    "title": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts",
+    "link": "https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html",
+    "published": "Sat, 28 Nov 2026 13:38:11 +0530",
+    "source": "The Hacker News",
+    "summary": "Cross-platform password manager pCloud Pass has confirmed it was targeted by a cyber attack after users reported seeing unknown devices being connected to their accounts.\n\n&quot;A cyber attack targeting pCloud Pass occurred, which was promptly contai",
+    "created_at": "2026-11-28T09:01:09.374973+00:00"
   }
 ]
