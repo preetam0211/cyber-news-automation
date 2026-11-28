@@ -1,14 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=169395",
-    "title": "Hackers Leak Records of 41,000 DHS Personnel, Exposing Undercover ICE Agents",
-    "link": "https://cybersecuritynews.com/dhs-data-leak/",
-    "published": "Thu, 29 Oct 2026 03:13:31 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A leak of records covering more than 41,000 Department of Homeland Security employees and contractors has exposed contact details, work assignments, and links to sensitive operations, including undercover ICE work. Published on October 28, the archiv",
-    "created_at": "2026-10-29T03:31:21.229452+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=169398",
     "title": "Hackers Chain PHP2Shell and Linux Kernel Exploits to Gain Root Access on 25 Servers",
     "link": "https://cybersecuritynews.com/php2shell-gained-root-access-on-25-servers/",
