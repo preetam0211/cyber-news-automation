@@ -1,32 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=169439",
-    "title": "Hackers Use Fake Cloudflare Verification Pages to Target Windows and Mac Users",
-    "link": "https://cybersecuritynews.com/fake-cloudflare-verification/",
-    "published": "Thu, 29 Oct 2026 08:38:36 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A new ClickFix campaign is using fake Cloudflare verification pages to trick both Windows and Mac users into running harmful commands on their own computers. The pages look like the “Verify you are human” checks that many people click through every d",
-    "created_at": "2026-10-29T09:31:17.260250+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=169408",
-    "title": "Microsoft Edge 0-Click Exploit Chains Five Flaws to Execute Code and Escape Sandbox",
-    "link": "https://cybersecuritynews.com/microsoft-edge-zero-click-exploit/",
-    "published": "Thu, 29 Oct 2026 08:48:30 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A new exploit chain for Microsoft Edge revealed that combines five bugs and two Windows features to run code outside the browser sandbox. Published by Security researcher Orange Tsai on October 28, 2026, the research shows how flaws in browser logic ",
-    "created_at": "2026-10-29T09:31:28.625234+00:00"
-  },
-  {
-    "guid": "https://cybersecuritynews.com/?p=169462",
-    "title": "319 Chrome Extensions Found Hijacking Searches, Affecting 13.4 Million Users",
-    "link": "https://cybersecuritynews.com/319-chrome-extensions/",
-    "published": "Thu, 29 Oct 2026 09:27:23 +0000",
-    "source": "CybersecurityNews",
-    "summary": "A network of 319 browser extensions has been linked to search hijacking affecting roughly 13.4 million users over a decade. Marketed as PDF converters, manual finders, safe search tools, and AI search helpers, these extensions redirect queries throug",
-    "created_at": "2026-10-29T09:31:46.006688+00:00"
-  },
-  {
     "guid": "https://cybersecuritynews.com/?p=169418",
     "title": "Microsoft Urges Entra ID Admins to Migrate from SMS and Voice Authentication to Passkeys",
     "link": "https://cybersecuritynews.com/microsoft-urges-admins-to-migrate-passkeys/",
