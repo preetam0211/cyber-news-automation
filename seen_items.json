@@ -1,23 +1,5 @@
 [
   {
-    "guid": "https://cybersecuritynews.com/?p=169520",
-    "title": "Hackers Claim Wagyu Crypto Platform Breach as Researchers Find Thousands of Monero Transaction Records",
-    "link": "https://cybersecuritynews.com/wagyu-crypto-platform-breach/",
-    "published": "Thu, 29 Oct 2026 11:57:24 +0000",
-    "source": "CybersecurityNews",
-    "summary": "Hackers have claimed a breach of cryptocurrency swap platform Wagyu.xyz, while researchers reviewing the purported leak found thousands of records connecting Monero transactions with public blockchain payments and IP addresses. The dataset contains 3",
-    "created_at": "2026-10-29T12:01:14.770845+00:00"
-  },
-  {
-    "guid": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/",
-    "title": "Windows 11 KB5127936 update released with 41 changes and fixes",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/",
-    "published": "Thu, 29 Oct 2026 08:00:07 -0400",
-    "source": "BleepingComputer",
-    "summary": "Microsoft released the KB5127936 preview cumulative update for Windows 11 versions 25H2 and 26H2, with 41 changes, including File Explorer and Cloud rebuild improvements. [...]",
-    "created_at": "2026-10-29T12:01:37.092576+00:00"
-  },
-  {
     "guid": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
     "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
     "link": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
