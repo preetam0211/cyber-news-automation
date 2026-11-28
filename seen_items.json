@@ -9808,5 +9808,14 @@
     "source": "BleepingComputer",
     "summary": "The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with two-factor authentication (2FA) enabled. [...]",
     "created_at": "2026-11-27T19:31:11.923537+00:00"
+  },
+  {
+    "guid": "https://cybersecuritynews.com/?p=176205",
+    "title": "Telegram Warns iPhone Users Are Being Hacked on a Massive Scale; Just Visiting a Website Could Be Enough",
+    "link": "https://cybersecuritynews.com/iphone-users-are-being-hacked/",
+    "published": "Sat, 28 Nov 2026 04:48:49 +0000",
+    "source": "CybersecurityNews",
+    "summary": "Telegram is sending security alerts to iPhone users running older versions of iOS, CEO Pavel Durov said on November 27. In a post on X, Durov said iPhone users were being hacked “on a massive scale” and warned that opening a website could be enough t",
+    "created_at": "2026-11-28T05:01:14.705341+00:00"
   }
 ]
